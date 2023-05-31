@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>Updated ACE1104|BMH1108 </title>
+<title>Updated ACE1104|BMH1108|TLI406</title>
 <link>example.com/</link>
 <description>lm tester</description>
 <!--   -->
@@ -108,16 +108,16 @@
 <!-- TLI EdMention snippets -->
   <!-- 8am -->
 <item>
-<TLIheader></TLIheader>
-<TLIhID></TLIhID>
+<TLIheader>Header-CTO-CLM-Top 5 AI Stocks</TLIheader>
+<TLIhID>2654</TLIhID>
 <TLIheaderII></TLIheaderII>
 <TLIhIDii></TLIhIDii>
-<TLIspaceAd></TLIspaceAd>
-<TLIsID></TLIsID>
-<TLIspaceAdII></TLIspaceAdII>
-<TLIsIDii></TLIsIDii>
-  <TLIspaceAdIII></TLIspaceAdIII>
-<TLIsIDiii></TLIsIDiii>
+<TLIspaceAd>SpaceAd-CTO-IPM-Top 11 Stocks</TLIspaceAd>
+<TLIsID>2762</TLIsID>
+<TLIspaceAdII>SpaceAd-CPC-Crypto 101-Americas Last Stand Bank Failure</TLIspaceAdII>
+<TLIsIDii>2725</TLIsIDii>
+  <TLIspaceAdIII>SpaceAd-CPC-Crypto101-Goldilocks Zone</TLIspaceAdIII>
+<TLIsIDiii>2723</TLIsIDiii>
 </item>
   <!-- 8 -->
 <!-- BU EdMention snippets -->
