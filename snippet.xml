@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>Updated</title>
+<title>Updated 1</title>
 <link>example.com/</link>
 <description>lm tester</description>
 <!--   -->
@@ -108,16 +108,16 @@
 <!-- TLI EdMention snippets -->
   <!-- 8am -->
 <item>
-<TLIheader>placeholder snippet</TLIheader>
-<TLIhID></TLIhID>
+<TLIheader>Header-CTO-Darwin-10x Stocks</TLIheader>
+<TLIhID>2781</TLIhID>
 <TLIheaderII></TLIheaderII>
 <TLIhIDii></TLIhIDii>
-<TLIspaceAd>placeholder snippet</TLIspaceAd>
-<TLIsID></TLIsID>
-<TLIspaceAdII>placeholder snippet</TLIspaceAdII>
-<TLIsIDii></TLIsIDii>
-  <TLIspaceAdIII>placeholder snippet</TLIspaceAdIII>
-<TLIsIDiii></TLIsIDiii>
+<TLIspaceAd>SpaceAd-CTO-InvestPub-JT Opening Bell Alerts</TLIspaceAd>
+<TLIsID>2782</TLIsID>
+<TLIspaceAdII>Header-CTO-InvestPub-Master Indicator 3</TLIspaceAdII>
+<TLIsIDii>2785</TLIsIDii>
+  <TLIspaceAdIII>SpaceAd-CTO-ChadBarrett-Penny Stock Alerts</TLIspaceAdIII>
+<TLIsIDiii>2715</TLIsIDiii>
 </item>
   <!-- 8 -->
 <!-- BU EdMention snippets -->
@@ -149,14 +149,14 @@
 <!-- S7 -->
   <!-- 7am and 7pm -->
 <item>
-<SheaderAM>placeholder snippet</SheaderAM>
-<ShID></ShID>
-<SspaceAd>placeholder snippet</SspaceAd>
-<SsID></SsID>
-<SspaceAdII>placeholder snippet</SspaceAdII>
-<SsIDii></SsIDii>
-  <SspaceAdIII></SspaceAdIII>
-<SsIDiii></SsIDiii>
+<SheaderAM>Header-CTO-Darwin-10x Stocks</SheaderAM>
+<ShID>2781</ShID>
+<SspaceAd>SpaceAd-CTO-InvestPub-JT Opening Bell Alerts</SspaceAd>
+<SsID>2782</SsID>
+<SspaceAdII>Header-CTO-InvestPub-Master Indicator 3</SspaceAdII>
+<SsIDii>2785</SsIDii>
+  <SspaceAdIII>SpaceAd-CTO-ChadBarrett-Penny Stock Alerts</SspaceAdIII>
+<SsIDiii>2715</SsIDiii>
   <SheaderPM>Header-CPC-Crypto 101-Halving Accumulation</SheaderPM>
 <ShIDii>2722</ShIDii>
   <SspaceAdPM>SpaceAd-CTO-TradeAlgo-Dark Pool Data 3</SspaceAdPM>
