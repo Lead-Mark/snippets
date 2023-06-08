@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>ACE/BMH</title>
+<title>S7, DR, TLI</title>
 <link>example.com/</link>
 <description>lm tester</description>
 <!--   -->
@@ -46,16 +46,16 @@
 <!-- Daily Recap EdMention snippets -->
   <!-- 8pm -->
 <item>
-<DRheader>placeholder snippet</DRheader>
-<DRhID></DRhID>
-<DRheaderII>placeholder snippet</DRheaderII>
+<DRheader>Header-CPC-Investing Daily VT Perfect</DRheader>
+<DRhID>2732</DRhID>
+<DRheaderII></DRheaderII>
 <DRhIDii></DRhIDii>
-<DRspaceAd>placeholder snippet</DRspaceAd>
-<DRsID></DRsID>
-<DRspaceAdII>placeholder snippet</DRspaceAdII>
-<DRsIDii></DRsIDii>
-  <DRspaceAdIII>placeholder snippet</DRspaceAdIII>
-<DRsIDiii></DRsIDiii>
+<DRspaceAd>SpaceAd-CPC-Crypto101-Goldilocks Zone</DRspaceAd>
+<DRsID>2723</DRsID>
+<DRspaceAdII>EdMention-Affiliate-Gold Huckabee 3</DRspaceAdII>
+<DRsIDii>94903</DRsIDii>
+  <DRspaceAdIII>SpaceAd-CTO-CLM Media-Top 5 EV Tech</DRspaceAdIII>
+<DRsIDiii>2655</DRsIDiii>
 </item>
   <!--  -->
 <!-- 4 -->
@@ -81,15 +81,15 @@
   <!-- Traffic Grid snippet -->
   <!--  -->
    <item>
-    <aceSnipTwo>empire-ai-spad2</aceSnipTwo>
-  <aceIDtwo>815367</aceIDtwo>
-    <aceSnip>bh-Phamilton-spad6</aceSnip>
-  <aceID>513929</aceID>
+    <aceSnipTwo>Ta-wr ai-spad1</aceSnipTwo>
+  <aceIDtwo>614796</aceIDtwo>
+    <aceSnip>ipm-applieicar-spad56</aceSnip>
+  <aceID>614743</aceID>
    <!--  -->
-    <bmhSnip>btm-copypaste-spadfda</bmhSnip>
-  <bmhID>914054</bmhID>
-    <bmhSnipTwo>BTM-wargames-spad492</bmhSnipTwo>
-  <bmhIDtwo>514571</bmhIDtwo>
+    <bmhSnip>bh-cmz-spad3</bmhSnip>
+  <bmhID>313908</bmhID>
+    <bmhSnipTwo>ipm-applieicar-spad56</bmhSnipTwo>
+  <bmhIDtwo>614754</bmhIDtwo>
   </item>
   <!-- 6 -->
 <!-- Morning Bullets EdMention snippets -->
@@ -108,16 +108,16 @@
 <!-- TLI EdMention snippets -->
   <!-- 8am -->
 <item>
-<TLIheader>Header-CPC-Investing Daily VT Perfect</TLIheader>
-<TLIhID>2732</TLIhID>
+<TLIheader>Header-CPC-Crypto 101-Crypto Revolution Soaring</TLIheader>
+<TLIhID>2729</TLIhID>
 <TLIheaderII></TLIheaderII>
 <TLIhIDii></TLIhIDii>
-<TLIspaceAd>SpaceAd-CPC-Crypto101-Goldilocks Zone</TLIspaceAd>
-<TLIsID>2723</TLIsID>
-<TLIspaceAdII>EdMention-Affiliate-Gold Huckabee 3</TLIspaceAdII>
-<TLIsIDii>94903</TLIsIDii>
-  <TLIspaceAdIII>SpaceAd-CTO-CLM Media-Top 5 EV Tech</TLIspaceAdIII>
-<TLIsIDiii>2655</TLIsIDiii>
+<TLIspaceAd>SpaceAd-InvestPub-Trillion Dollar 2</TLIspaceAd>
+<TLIsID>2787</TLIsID>
+<TLIspaceAdII>Header-CTO-InvestPub-Master Indicator 4</TLIspaceAdII>
+<TLIsIDii>2791</TLIsIDii>
+  <TLIspaceAdIII>EdMention-Affiliate-SFT IE</TLIspaceAdIII>
+<TLIsIDiii>13944</TLIsIDiii>
 </item>
   <!-- 8 -->
 <!-- BU EdMention snippets -->
@@ -149,20 +149,20 @@
 <!-- S7 -->
   <!-- 7am and 7pm -->
 <item>
-<SheaderAM>placeholder snippet</SheaderAM>
-<ShID></ShID>
-<SspaceAd>placeholder snippet</SspaceAd>
-<SsID></SsID>
-<SspaceAdII>placeholder snippet</SspaceAdII>
-<SsIDii></SsIDii>
-  <SspaceAdIII>placeholder snippet</SspaceAdIII>
-<SsIDiii></SsIDiii>
-  <SheaderPM>placeholder snippet</SheaderPM>
-<ShIDii></ShIDii>
-  <SspaceAdPM>placeholder snippet</SspaceAdPM>
-<SsIDpm></SsIDpm>
-<SspaceAdIIPM>placeholder snippet</SspaceAdIIPM>
-<SsIDiipm></SsIDiipm>
+<SheaderAM>Header-CPC-Crypto 101-Crypto Revolution Soaring</SheaderAM>
+<ShID>2729</ShID>
+<SspaceAd>SpaceAd-InvestPub-Trillion Dollar 2</SspaceAd>
+<SsID>2787</SsID>
+<SspaceAdII>Header-CTO-InvestPub-Master Indicator 4</SspaceAdII>
+<SsIDii>2791</SsIDii>
+  <SspaceAdIII>EdMention-Affiliate-SFT IE</SspaceAdIII>
+<SsIDiii>13944</SsIDiii>
+  <SheaderPM>Header-CPC-Crypto 101-Halving Accumulation</SheaderPM>
+<ShIDii>2722</ShIDii>
+  <SspaceAdPM>EdMention-Affiliate-SFT IE</SspaceAdPM>
+<SsIDpm>13944</SsIDpm>
+<SspaceAdIIPM>SpaceAd-CTO-TradeAlgo-Dark Pool Data 3</SspaceAdIIPM>
+<SsIDiipm>2731</SsIDiipm>
 </item>
   <!-- 11 -->
 <!-- SMH EdMention snippets -->
