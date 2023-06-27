@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>June 27 update 5</title>
+<title>June 27 update 6</title>
 <link>example.com/</link>
 <description>lm tester</description>
 <!--   -->
@@ -173,16 +173,17 @@
 </item>
   <!-- 11 -->
 <!-- SMH EdMention snippets -->
-  <!-- 12 -->
+<!-- 1pm -->
+ 
 <item>
-<SMHheader></SMHheader>
+<SMHheader>placeholder</SMHheader>
 <SMHhID></SMHhID>
-<SMHheaderII></SMHheaderII>
-<SMHhIDii></SMHhIDii>
-<SMHspaceAd></SMHspaceAd>
+<SMHspaceAd>placeholder</SMHspaceAd>
 <SMHsID></SMHsID>
-<SMHspaceAdII></SMHspaceAdII>
+<SMHspaceAdII>placeholder</SMHspaceAdII>
 <SMHsIDii></SMHsIDii>
+<SMHspaceAdIII>placeholder</SMHspaceAdIII>
+<SMHhIDiii></SMHhIDiii>
 </item>
 </channel>
 </rss>
