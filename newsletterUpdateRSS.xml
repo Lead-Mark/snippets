@@ -12,50 +12,30 @@
 <guid>example.com/1</guid>
 <description>placeholder</description>
 </item>
-<!-- https://lead-mark.github.io/snippets/snippet.xml -->
+<!-- https://lead-mark.github.io/snippets/newsletterUpdateRSS.xml -->
 <!-- 1 -->
+  <!-- FORMAT TEST 1 -->
 <item>
-<title>Placeholde2r</title>
-<link>example.com/2</link>
-<guid>example.com/2</guid>
-<pubDate>Wed, 03 Mar 1999 12:15:12 GMT</pubDate>
-<description>placeholder</description>
+<title>Sample Article</title>
+    <description>&lt;p&gt;This is a &lt;strong&gt;sample&lt;/strong&gt; article.&lt;/p&gt;</description>
 </item>
 <!--  -->
 <!-- 2 -->
-<!-- Inbox News RSS snippets -->
+<!-- FORMAT TEST 2 -->
 <item>
+  <title>Sample Article</title>
+    <description><![CDATA[<p>This is a <strong>sample</strong> article.</p>]]></description>
 <snipOpen>{{{snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SMHsnip></SMHsnip>
-<SMHid></SMHid>
-<SMHsnipTwo></SMHsnipTwo>
-<SMHidTwo></SMHidTwo>
-<MBsnip></MBsnip>
-<MBid></MBid>
-<LCsnip></LCsnip>
-<LCid></LCid>
-<DRsnip></DRsnip>
-<DRid></DRid>
-<TLIsnip></TLIsnip>
-<TLIid></TLIid>
 </item>
   <!-- 4:30 7 at 7 / TLI update --> 
 <!-- Editorial Schedule 7, 8, 9, 12 || 4, 4:30, 7, 8 --> 
 <!-- 3 -->
-<!-- Daily Recap EdMention snippets -->
-  <!-- 8pm -->
+<!-- Daily Recap -->
+  <!--  -->
 <item>
-<DRheader>Header-CTO-InvestPub-Perfect Apple Trade 2</DRheader>
-<DRhID>3206</DRhID>
-<DRheaderII></DRheaderII>
-<DRhIDii></DRhIDii>
-<DRspaceAd>SpaceAd-CTO-InvestPub-Income Glitch</DRspaceAd>
-<DRsID>3208</DRsID>
-<DRspaceAdII>SpaceAd-CTO-InvestPub-Weekly Cash Flow Challenge</DRspaceAdII>
-<DRsIDii>3214</DRsIDii>
-  <DRspaceAdIII>Header-CTO-CLM-Top 5 EV Stocks</DRspaceAdIII>
-<DRsIDiii>3195</DRsIDiii>
+  <title>Header-CTO-Katusa-American Lithium 3</title>
+<description>placeholder</description>
 </item>
   <!--  -->
 <!-- 4 -->
