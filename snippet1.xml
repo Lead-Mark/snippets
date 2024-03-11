@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>SnippetQA update 2</title>
+<title>SnippetQA update 1</title>
 <link>example.com/</link>
 <description>lm  tester</description>
 <!--   -->
@@ -46,13 +46,13 @@
 <!-- Daily Recap EdMention snippets -->
   <!-- 8pm -->
 <item>
-<DRheader>LM3998CID38</DRheader>
+<DRheader>LM3998CID38fallback</DRheader>
 <DRhID></DRhID>
 <DRheaderII></DRheaderII>
 <DRhIDii></DRhIDii>
 <DRspaceAd>nLM3884CID22</DRspaceAd>
 <DRsID></DRsID>
-<DRspaceAdII>LM3995CID37</DRspaceAdII>
+<DRspaceAdII>LM3995CID37fallback</DRspaceAdII>
 <DRsIDii></DRsIDii>
   <DRspaceAdIII>LM3885CID49</DRspaceAdIII>
 <DRsIDiii></DRsIDiii>
@@ -66,15 +66,15 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>LM3998CID38</SHDynamicSnip>
+<SHDynamicSnip>LM3998CID38fallback</SHDynamicSnip>
 <SHID></SHID>
-<iDDynamicSnip>LM3998CID38</iDDynamicSnip>
+<iDDynamicSnip>LM3998CID38fallback</iDDynamicSnip>
 <iDID></iDID>
-<OODynamicSnip>LM3998CID38</OODynamicSnip>
+<OODynamicSnip>LM3998CID38fallback</OODynamicSnip>
 <OOID></OOID>
-<oneTwoThreeDynamicSnip>LM3998CID38</oneTwoThreeDynamicSnip>
+<oneTwoThreeDynamicSnip>LM3998CID38fallback</oneTwoThreeDynamicSnip>
 <ONEID></ONEID>
-<SFMDynamicSnip>LM3998CID38</SFMDynamicSnip>
+<SFMDynamicSnip>LM3998CID38fallback</SFMDynamicSnip>
 <SFMID></SFMID>
 <webinard>Tuesday March 22nd</webinard>
 </item>
@@ -97,11 +97,11 @@
 <!-- Morning Bullets EdMention snippets -->
   <!-- 9am and 4pm -->
 <item>
-<MBheader>LM3998CID38</MBheader>
+<MBheader>LM3998CID38fallback</MBheader>
 <MBhID></MBhID>
 <MBspaceAd>nLM3884CID22</MBspaceAd>
 <MBsID></MBsID>
-<MBspaceAdII>LM3995CID37</MBspaceAdII>
+<MBspaceAdII>LM3995CID37fallback</MBspaceAdII>
 <MBsIDii></MBsIDii>
 <MBspaceAdIII>LM3885CID49</MBspaceAdIII>
 <MBsIDiii></MBsIDiii>
@@ -117,13 +117,13 @@
 <!-- TLI EdMention snippets -->
   <!-- 8am -->
 <item>
-<TLIheader>LM3998CID38</TLIheader>
+<TLIheader>LM3998CID38fallback</TLIheader>
 <TLIhID></TLIhID>
 <TLIheaderII></TLIheaderII>
 <TLIhIDii></TLIhIDii>
 <TLIspaceAd>nLM3884CID22</TLIspaceAd>
 <TLIsID></TLIsID>
-<TLIspaceAdII>LM3995CID37</TLIspaceAdII>
+<TLIspaceAdII>LM3995CID37fallback</TLIspaceAdII>
 <TLIsIDii></TLIsIDii>
   <TLIspaceAdIII>LM3885CID49</TLIspaceAdIII>
 <TLIsIDiii></TLIsIDiii>
@@ -140,11 +140,11 @@
   <!-- 1030am and 4pm -->
   <!-- update all snippets at 10:30 -->
 <item>
-<BUheader>LM3998CID38</BUheader>
+<BUheader>LM3998CID38fallback</BUheader>
 <BUhID></BUhID>
 <BUspaceAd>nLM3884CID22</BUspaceAd>
 <BUsID></BUsID>
-<BUspaceAdII>LM3995CID37</BUspaceAdII>
+<BUspaceAdII>LM3995CID37fallback</BUspaceAdII>
 <BUsIDii></BUsIDii>
 <BUspaceAdIII>LM3885CID49</BUspaceAdIII>
 <BUsIDiii></BUsIDiii>
@@ -160,11 +160,11 @@
 <!-- LC EdMention snippets -->
   <!-- 0pm Main send, 11:30 5:30 - offshoot(PM) -->
 <item>
-<LCheader>LM3998CID38</LCheader>
+<LCheader>LM3998CID38fallback</LCheader>
 <LChID></LChID>
 <LCspaceAd>nLM3884CID22</LCspaceAd>
 <LCsID></LCsID>
-<LCspaceAdII>LM3995CID37</LCspaceAdII>
+<LCspaceAdII>LM3995CID37fallback</LCspaceAdII>
 <LCsIDii></LCsIDii>
 <LCspaceAdIII>LM3885CID49</LCspaceAdIII>
 <LCsIDiii></LCsIDiii>
@@ -180,11 +180,11 @@
 <!-- S7 -->
   <!-- 7am and 7pm -->
 <item>
-<SheaderAM>LM3998CID38</SheaderAM>
+<SheaderAM>LM3998CID38fallback</SheaderAM>
 <ShID></ShID>
 <SspaceAd>nLM3884CID22</SspaceAd>
 <SsID></SsID>
-<SspaceAdII>LM3995CID37</SspaceAdII>
+<SspaceAdII>LM3995CID37fallback</SspaceAdII>
 <SsIDii></SsIDii>
   <SspaceAdIII>LM3885CID49</SspaceAdIII>
 <SsIDiii></SsIDiii>
@@ -201,11 +201,11 @@
 <!-- 1pm -->
  
 <item>
-<SMHheader>LM3998CID38</SMHheader>
+<SMHheader>LM3998CID38fallback</SMHheader>
 <SMHhID></SMHhID>
 <SMHspaceAd>nLM3884CID22</SMHspaceAd>
 <SMHsID></SMHsID>
-<SMHspaceAdII>LM3995CID37</SMHspaceAdII>
+<SMHspaceAdII>LM3995CID37fallback</SMHspaceAdII>
 <SMHsIDii></SMHsIDii>
 <SMHspaceAdIII>LM3885CID49</SMHspaceAdIII>
 <SMHhIDiii></SMHhIDiii>
@@ -226,11 +226,11 @@
 <item>
 <intro>On this day in 1959, Barbie was introduced to the world. Let's style today's news with flair and diversity.</intro>
 <con>Reflecting on Barbie's debut, let's celebrate the beauty in our diversity. Here's to a world where everyone belongs.</con>
-<TBBone>LM3998CID38</TBBone>
+<TBBone>LM3998CID38fallback</TBBone>
 <TBBoneID></TBBoneID>
 <TBBtwo>nLM3884CID22</TBBtwo>
 <TBBtwoID></TBBtwoID>
-<TBBthree>LM3995CID37</TBBthree>
+<TBBthree>LM3995CID37fallback</TBBthree>
 <TBBthreeID></TBBthreeID>
 <TBBfour>LM3885CID49</TBBfour>
 <TBBfourID></TBBfourID>
