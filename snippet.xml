@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title> March 24 update 1</title>
+<title> March 25 update 1</title>
 <link>example.com/</link>
 <description>lm  tester</description>
 <!--   -->
@@ -12,7 +12,7 @@
 <guid>example.com/1</guid>
 <description>placeholder</description>
 </item>
-<!-- https://lead-mark.github.io/snippets/snippet2.xml -->
+<!-- https://lead-mark.github.io/snippets/snippet.xml -->
 <!-- 1 -->
 <item>
 <title>Placeholde2r</title>
@@ -46,16 +46,16 @@
 <!-- Daily Recap EdMention snippets -->
   <!-- 8pm -->
 <item>
-<DRheader>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</DRheader>
-<DRhID>4031 7</DRhID>
+<DRheader>EdAd-CTO-Darwin-AWI Gold</DRheader>
+<DRhID>4039 7</DRhID>
 <DRheaderII></DRheaderII>
 <DRhIDii></DRhIDii>
-<DRspaceAd>EdAd-CTO-MillPub-Small Cap Stock Sniper</DRspaceAd>
-<DRsID>3995 2</DRsID>
-<DRspaceAdII>200-SpaceAd-CTO-InvestPub-Candlestick Pattern Cheatsheet 1</DRspaceAdII>
-<DRsIDii>3927</DRsIDii>
-  <DRspaceAdIII>200-CTO-InvestPub-Apex Stock Indicator Editorial</DRspaceAdIII>
-<DRsIDiii>3931</DRsIDiii>
+<DRspaceAd>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</DRspaceAd>
+<DRsID>3925</DRsID>
+<DRspaceAdII>EdAd-CPC-BTM-Drug Smuggler Lift 1375 E</DRspaceAdII>
+<DRsIDii>4027 7</DRsIDii>
+  <DRspaceAdIII>EdAd-CPC-Investors Alley-Daily Dividends Lift 623 E</DRspaceAdIII>
+<DRsIDiii>4032 2</DRsIDiii>
 </item>
   <!--  -->
 <!-- 4 -->
@@ -66,16 +66,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</SHDynamicSnip>
-<SHID>4031 7</SHID>
-<iDDynamicSnip>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</iDDynamicSnip>
-<iDID>4031 7</iDID>
-<OODynamicSnip>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</OODynamicSnip>
-<OOID>4031 7</OOID>
-<oneTwoThreeDynamicSnip>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</oneTwoThreeDynamicSnip>
-<ONEID>4031 7</ONEID>
-<SFMDynamicSnip>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</SFMDynamicSnip>
-<SFMID>4031 7</SFMID>
+<SHDynamicSnip>EdAd-CTO-Darwin-AWI Gold</SHDynamicSnip>
+<SHID>4039 7</SHID>
+<iDDynamicSnip>EdAd-CTO-Darwin-AWI Gold</iDDynamicSnip>
+<iDID>4039 7</iDID>
+<OODynamicSnip>EdAd-CTO-Darwin-AWI Gold</OODynamicSnip>
+<OOID>4039 7</OOID>
+<oneTwoThreeDynamicSnip>EdAd-CTO-Darwin-AWI Gold</oneTwoThreeDynamicSnip>
+<ONEID>4039 7</ONEID>
+<SFMDynamicSnip>EdAd-CTO-Darwin-AWI Gold</SFMDynamicSnip>
+<SFMID>4039 7</SFMID>
 <webinard>Tuesday March 22nd</webinard>
 </item>
     <!--  -->
@@ -97,17 +97,17 @@
 <!-- Morning Bullets EdMention snippets -->
   <!-- 9am and 4pm -->
 <item>
-<MBheader>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</MBheader>
-<MBhID>4031 7</MBhID>
-<MBspaceAd>EdAd-CTO-MillPub-Small Cap Stock Sniper</MBspaceAd>
-<MBsID>3995 2</MBsID>
-<MBspaceAdII>200-SpaceAd-CTO-InvestPub-Candlestick Pattern Cheatsheet 1</MBspaceAdII>
-<MBsIDii>3927</MBsIDii>
-<MBspaceAdIII>200-CTO-InvestPub-Apex Stock Indicator Editorial</MBspaceAdIII>
-<MBsIDiii>3931</MBsIDiii>
+<MBheader>EdAd-CTO-Darwin-AWI Gold</MBheader>
+<MBhID>4039 7</MBhID>
+<MBspaceAd>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</MBspaceAd>
+<MBsID>3925</MBsID>
+<MBspaceAdII>EdAd-CPC-BTM-Drug Smuggler Lift 1375 E</MBspaceAdII>
+<MBsIDii>4027 7</MBsIDii>
+<MBspaceAdIII>EdAd-CPC-Investors Alley-Daily Dividends Lift 623 E</MBspaceAdIII>
+<MBsIDiii>4032 2</MBsIDiii>
 <!--  -->
-<MBheaderPM>EdAd-CTO-MillPub-Small Cap Stock Sniper</MBheaderPM>
-<MBhIDpm>3995 2 7</MBhIDpm>
+<MBheaderPM>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</MBheaderPM>
+<MBhIDpm>3925 7</MBhIDpm>
 <MBspaceAdpm>EdAd-CTO-CLM Media-Top 5 EV Tech</MBspaceAdpm>
 <MBsIDpm>3884 2</MBsIDpm>
 <MBspaceAdIIpm>EdAd-CTO-CLM Media-MMT Top 5 AI Stocks</MBspaceAdIIpm>
@@ -117,19 +117,19 @@
 <!-- TLI EdMention snippets -->
   <!-- 8am -->
 <item>
-<TLIheader>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</TLIheader>
-<TLIhID>4031 7</TLIhID>
+<TLIheader>EdAd-CTO-Darwin-AWI Gold</TLIheader>
+<TLIhID>4039 7</TLIhID>
 <TLIheaderII></TLIheaderII>
 <TLIhIDii></TLIhIDii>
-<TLIspaceAd>EdAd-CTO-MillPub-Small Cap Stock Sniper</TLIspaceAd>
-<TLIsID>3995 2</TLIsID>
-<TLIspaceAdII>200-SpaceAd-CTO-InvestPub-Candlestick Pattern Cheatsheet 1</TLIspaceAdII>
-<TLIsIDii>3927</TLIsIDii>
-  <TLIspaceAdIII>200-CTO-InvestPub-Apex Stock Indicator Editorial</TLIspaceAdIII>
-<TLIsIDiii>3931</TLIsIDiii>
+<TLIspaceAd>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</TLIspaceAd>
+<TLIsID>3925</TLIsID>
+<TLIspaceAdII>EdAd-CPC-BTM-Drug Smuggler Lift 1375 E</TLIspaceAdII>
+<TLIsIDii>4027 7</TLIsIDii>
+  <TLIspaceAdIII>EdAd-CPC-Investors Alley-Daily Dividends Lift 623 E</TLIspaceAdIII>
+<TLIsIDiii>4032 2</TLIsIDiii>
 <!--  -->
-<TLIheaderPM>EdAd-CTO-MillPub-Small Cap Stock Sniper</TLIheaderPM>
-<TLIhIDpm>3995 2 7</TLIhIDpm>
+<TLIheaderPM>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</TLIheaderPM>
+<TLIhIDpm>3925 7</TLIhIDpm>
 <TLIspaceAdpm>EdAd-CTO-CLM Media-Top 5 EV Tech</TLIspaceAdpm>
 <TLIsIDpm>3884 2</TLIsIDpm>
 <TLIspaceAdIIpm>EdAd-CTO-CLM Media-MMT Top 5 AI Stocks</TLIspaceAdIIpm>
@@ -140,17 +140,17 @@
   <!-- 1030am and 4pm -->
   <!-- update all snippets at 10:30 -->
 <item>
-<BUheader>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</BUheader>
-<BUhID>4031 7</BUhID>
-<BUspaceAd>EdAd-CTO-MillPub-Small Cap Stock Sniper</BUspaceAd>
-<BUsID>3995 2</BUsID>
-<BUspaceAdII>200-SpaceAd-CTO-InvestPub-Candlestick Pattern Cheatsheet 1</BUspaceAdII>
-<BUsIDii>3927</BUsIDii>
-<BUspaceAdIII>200-CTO-InvestPub-Apex Stock Indicator Editorial</BUspaceAdIII>
-<BUsIDiii>3931</BUsIDiii>
+<BUheader>EdAd-CTO-Darwin-AWI Gold</BUheader>
+<BUhID>4039 7</BUhID>
+<BUspaceAd>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</BUspaceAd>
+<BUsID>3925</BUsID>
+<BUspaceAdII>EdAd-CPC-BTM-Drug Smuggler Lift 1375 E</BUspaceAdII>
+<BUsIDii>4027 7</BUsIDii>
+<BUspaceAdIII>EdAd-CPC-Investors Alley-Daily Dividends Lift 623 E</BUspaceAdIII>
+<BUsIDiii>4032 2</BUsIDiii>
 <!--  -->
-<BUheaderPM>EdAd-CTO-MillPub-Small Cap Stock Sniper</BUheaderPM>
-<BUhIDpm>3995 2 7</BUhIDpm>
+<BUheaderPM>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</BUheaderPM>
+<BUhIDpm>3925 7</BUhIDpm>
 <BUspaceAdpm>EdAd-CTO-CLM Media-Top 5 EV Tech</BUspaceAdpm>
 <BUsIDpm>3884 2</BUsIDpm>
 <BUspaceAdIIpm>EdAd-CTO-CLM Media-MMT Top 5 AI Stocks</BUspaceAdIIpm>
@@ -160,17 +160,17 @@
 <!-- LC EdMention snippets -->
   <!-- 0pm Main send, 11:30 5:30 - offshoot(PM) -->
 <item>
-<LCheader>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</LCheader>
-<LChID>4031 7</LChID>
-<LCspaceAd>EdAd-CTO-MillPub-Small Cap Stock Sniper</LCspaceAd>
-<LCsID>3995 2</LCsID>
-<LCspaceAdII>200-SpaceAd-CTO-InvestPub-Candlestick Pattern Cheatsheet 1</LCspaceAdII>
-<LCsIDii>3927</LCsIDii>
-<LCspaceAdIII>200-CTO-InvestPub-Apex Stock Indicator Editorial</LCspaceAdIII>
-<LCsIDiii>3931</LCsIDiii>
+<LCheader>EdAd-CTO-Darwin-AWI Gold</LCheader>
+<LChID>4039 7</LChID>
+<LCspaceAd>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</LCspaceAd>
+<LCsID>3925</LCsID>
+<LCspaceAdII>EdAd-CPC-BTM-Drug Smuggler Lift 1375 E</LCspaceAdII>
+<LCsIDii>4027 7</LCsIDii>
+<LCspaceAdIII>EdAd-CPC-Investors Alley-Daily Dividends Lift 623 E</LCspaceAdIII>
+<LCsIDiii>4032 2</LCsIDiii>
 <!--  -->
-<LCheaderPM>EdAd-CTO-MillPub-Small Cap Stock Sniper</LCheaderPM>
-<LChIDpm>3995 2 7</LChIDpm>
+<LCheaderPM>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</LCheaderPM>
+<LChIDpm>3925 7</LChIDpm>
 <LCspaceAdpm>EdAd-CTO-CLM Media-Top 5 EV Tech</LCspaceAdpm>
 <LCsIDpm>3884 2</LCsIDpm>
 <LCspaceAdIIpm>EdAd-CTO-CLM Media-MMT Top 5 AI Stocks</LCspaceAdIIpm>
@@ -180,17 +180,17 @@
 <!-- S7 -->
   <!-- 7am and 7pm -->
 <item>
-<SheaderAM>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</SheaderAM>
-<ShID>4031 7</ShID>
-<SspaceAd>EdAd-CTO-MillPub-Small Cap Stock Sniper</SspaceAd>
-<SsID>3995 2</SsID>
-<SspaceAdII>200-SpaceAd-CTO-InvestPub-Candlestick Pattern Cheatsheet 1</SspaceAdII>
-<SsIDii>3927</SsIDii>
-  <SspaceAdIII>200-CTO-InvestPub-Apex Stock Indicator Editorial</SspaceAdIII>
-<SsIDiii>3931</SsIDiii>
+<SheaderAM>EdAd-CTO-Darwin-AWI Gold</SheaderAM>
+<ShID>4039 7</ShID>
+<SspaceAd>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</SspaceAd>
+<SsID>3925</SsID>
+<SspaceAdII>EdAd-CPC-BTM-Drug Smuggler Lift 1375 E</SspaceAdII>
+<SsIDii>4027 7</SsIDii>
+  <SspaceAdIII>EdAd-CPC-Investors Alley-Daily Dividends Lift 623 E</SspaceAdIII>
+<SsIDiii>4032 2</SsIDiii>
 <!--  -->
-  <SheaderPM>EdAd-CTO-MillPub-Small Cap Stock Sniper</SheaderPM>
-<ShIDii>3995 2 2 7</ShIDii>
+  <SheaderPM>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</SheaderPM>
+<ShIDii>3925 2 7</ShIDii>
   <SspaceAdPM>EdAd-CTO-CLM Media-Top 5 EV Tech</SspaceAdPM>
 <SsIDpm>3884 2</SsIDpm>
 <SspaceAdIIPM>EdAd-CTO-CLM Media-MMT Top 5 AI Stocks</SspaceAdIIPM>
@@ -201,14 +201,14 @@
 <!-- 1pm -->
  
 <item>
-<SMHheader>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</SMHheader>
-<SMHhID>4031 7</SMHhID>
-<SMHspaceAd>EdAd-CTO-MillPub-Small Cap Stock Sniper</SMHspaceAd>
-<SMHsID>3995 2</SMHsID>
-<SMHspaceAdII>200-SpaceAd-CTO-InvestPub-Candlestick Pattern Cheatsheet 1</SMHspaceAdII>
-<SMHsIDii>3927</SMHsIDii>
-<SMHspaceAdIII>200-CTO-InvestPub-Apex Stock Indicator Editorial</SMHspaceAdIII>
-<SMHhIDiii>3931</SMHhIDiii>
+<SMHheader>EdAd-CTO-Darwin-AWI Gold</SMHheader>
+<SMHhID>4039 7</SMHhID>
+<SMHspaceAd>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</SMHspaceAd>
+<SMHsID>3925</SMHsID>
+<SMHspaceAdII>EdAd-CPC-BTM-Drug Smuggler Lift 1375 E</SMHspaceAdII>
+<SMHsIDii>4027 7</SMHsIDii>
+<SMHspaceAdIII>EdAd-CPC-Investors Alley-Daily Dividends Lift 623 E</SMHspaceAdIII>
+<SMHhIDiii>4032 2</SMHhIDiii>
 </item>
 
     <!-- 12 -->
@@ -224,16 +224,16 @@
 <!-- -->
 
 <item>
-<intro>This day in 1989, the Exxon Valdez oil spill occurred. Let's approachtoday's news with awareness and action for environmental conservation.</intro>
-<con>As we reflect on the Exxon Valdez spill, let's renew our commitment to protecting our planet. Together, we can make a difference for future generations.</con>
-<TBBone>EdAd-CPC-Investors Alley-Forever Dividends Lift 734 E</TBBone>
-<TBBoneID>4031 7</TBBoneID>
-<TBBtwo>EdAd-CTO-MillPub-Small Cap Stock Sniper</TBBtwo>
-<TBBtwoID>3995 2</TBBtwoID>
-<TBBthree>200-SpaceAd-CTO-InvestPub-Candlestick Pattern Cheatsheet 1</TBBthree>
-<TBBthreeID>3927</TBBthreeID>
-<TBBfour>200-CTO-InvestPub-Apex Stock Indicator Editorial</TBBfour>
-<TBBfourID>3931</TBBfourID>
+<intro>On this day in 1807, the Slave Trade Act became law, abolishing the slave trade in the British Empire. Let's approach today's stories with a commitment to freedom and human rights.</intro>
+<con>Remembering this historic act, let's dedicate ourselves to fighting for equality and justice in all corners of the world.</con>
+<TBBone>EdAd-CTO-Darwin-AWI Gold</TBBone>
+<TBBoneID>4039 7</TBBoneID>
+<TBBtwo>SPACEHeader-CTO-InvestPub-Perfect Tesla Tradev3</TBBtwo>
+<TBBtwoID>3925</TBBtwoID>
+<TBBthree>EdAd-CPC-BTM-Drug Smuggler Lift 1375 E</TBBthree>
+<TBBthreeID>4027 7</TBBthreeID>
+<TBBfour>EdAd-CPC-Investors Alley-Daily Dividends Lift 623 E</TBBfour>
+<TBBfourID>4032 2</TBBfourID>
 <TBBfive>Header-CPC-Beachside-Phyto Science-lm2825</TBBfive>
 <TBBfiveID></TBBfiveID>
 </item>
