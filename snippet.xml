@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title> March 27 update 3</title>
+<title> March 27 update 4</title>
 <link>example.com/</link>
 <description>lm  tester</description>
 <!--   -->
@@ -238,8 +238,29 @@
 <TBBfiveID></TBBfiveID>
 </item>
 
+<!-- 14 -->
+<!-- Weekend Intro/Outros -->
+<!-- -->
+<item>
+<SsevIntro>Intro goes here</SsevIntro>
+<SsevCon>Outro goes here</SsevCon>
+<!-- -->
+<TBBIntro>Intro goes here</TBBIntro>
+<TBBCon>Outro goes here</TBBCon>
+<!-- -->
+<MBIntro>Intro goes here</MBIntro>
+<MBCon>Outro goes here</MBCon>
+<!-- -->
+<BUIntro>Intro goes here</BUIntro>
+<BUCon>Outro goes here</BUCon>
+<!-- -->
+<TLCIntro>Intro goes here</TLCIntro>
+<TLCCon>Outro goes here</TLCCon>
+<!-- -->
+<SMHIntro>Intro goes here</SMHIntro>
+<SMHCon>Outro goes here</SMHCon>
 
-
+</item>
 
 
 
