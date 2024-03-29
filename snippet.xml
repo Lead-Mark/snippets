@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title> March 29 update 4</title>
+<title> March 29 update 5</title>
 <link>example.com/</link>
 <description>lm  tester</description>
 <!--   -->
@@ -27,6 +27,8 @@
 <item>
 <snipOpen>{{{snippet</snipOpen>
 <snipClose>}}}</snipClose>
+<INsnip>testSNIPPET</INsnip>
+<INid></INid>
 <SMHsnip></SMHsnip>
 <SMHid></SMHid>
 <SMHsnipTwo></SMHsnipTwo>
