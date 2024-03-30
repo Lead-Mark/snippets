@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title> March 29 update 5</title>
+<title> March 30 update 1</title>
 <link>example.com/</link>
 <description>lm  tester</description>
 <!--   -->
@@ -242,26 +242,36 @@
 
 <!-- 14 -->
 <!-- Weekend Intro/Outros -->
-<!-- -->
 <item>
 <SsevIntro>Intro goes here</SsevIntro>
 <SsevCon>Outro goes here</SsevCon>
+<SsevImage>https://img.youtube.com/vi/49pdW0t3vnM/sddefault.jpg</SsevImage>
+<SsevLink>https://your-link-url-here.com</SsevLink>
 <!-- -->
 <TBBIntro>Intro goes here</TBBIntro>
 <TBBCon>Outro goes here</TBBCon>
+<TBBImage>https://your-image-url-here.jpg</TBBImage>
+<TBBLink>https://your-link-url-here.com</TBBLink>
 <!-- -->
 <MBIntro>Intro goes here</MBIntro>
 <MBCon>Outro goes here</MBCon>
+<MBImage>https://your-image-url-here.jpg</MBImage>
+<MBLink>https://your-link-url-here.com</MBLink>
 <!-- -->
 <BUIntro>Intro goes here</BUIntro>
 <BUCon>Outro goes here</BUCon>
+<BUImage>https://your-image-url-here.jpg</BUImage>
+<BULink>https://your-link-url-here.com</BULink>
 <!-- -->
 <TLCIntro>Intro goes here</TLCIntro>
 <TLCCon>Outro goes here</TLCCon>
+<TLCImage>https://your-image-url-here.jpg</TLCImage>
+<TLCLink>https://your-link-url-here.com</TLCLink>
 <!-- -->
 <SMHIntro>Intro goes here</SMHIntro>
 <SMHCon>Outro goes here</SMHCon>
-
+<SMHImage>https://your-image-url-here.jpg</SMHImage>
+<SMHLink>https://your-link-url-here.com</SMHLink>
 </item>
 
 
