@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title> March 30 update 1</title>
+<title> March 30 update 2</title>
 <link>example.com/</link>
 <description>lm  tester</description>
 <!--   -->
@@ -242,36 +242,69 @@
 
 <!-- 14 -->
 <!-- Weekend Intro/Outros -->
+<!-- RSS Hybrid Test Template Weekend -->
 <item>
-<SsevIntro>Intro goes here</SsevIntro>
-<SsevCon>Outro goes here</SsevCon>
-<SsevImage>https://img.youtube.com/vi/49pdW0t3vnM/sddefault.jpg</SsevImage>
-<SsevLink>https://your-link-url-here.com</SsevLink>
-<!-- -->
-<TBBIntro>Intro goes here</TBBIntro>
-<TBBCon>Outro goes here</TBBCon>
-<TBBImage>https://your-image-url-here.jpg</TBBImage>
-<TBBLink>https://your-link-url-here.com</TBBLink>
-<!-- -->
-<MBIntro>Intro goes here</MBIntro>
-<MBCon>Outro goes here</MBCon>
-<MBImage>https://your-image-url-here.jpg</MBImage>
-<MBLink>https://your-link-url-here.com</MBLink>
-<!-- -->
-<BUIntro>Intro goes here</BUIntro>
-<BUCon>Outro goes here</BUCon>
-<BUImage>https://your-image-url-here.jpg</BUImage>
-<BULink>https://your-link-url-here.com</BULink>
-<!-- -->
-<TLCIntro>Intro goes here</TLCIntro>
-<TLCCon>Outro goes here</TLCCon>
-<TLCImage>https://your-image-url-here.jpg</TLCImage>
-<TLCLink>https://your-link-url-here.com</TLCLink>
-<!-- -->
-<SMHIntro>Intro goes here</SMHIntro>
-<SMHCon>Outro goes here</SMHCon>
-<SMHImage>https://your-image-url-here.jpg</SMHImage>
-<SMHLink>https://your-link-url-here.com</SMHLink>
+    <!-- Ssev Section -->
+    <SsevIntro>Intro goes here</SsevIntro>
+    <!-- [[snippet.item.[14].SsevIntro]] -->
+    <SsevCon>Outro goes here</SsevCon>
+    <!-- [[snippet.item.[14].SsevCon]] -->
+    <SsevStoryI>Story One Here</SsevStoryI>
+    <SsevImageI>https://img.youtube.com/vi/49pdW0t3vnM/sddefault.jpg</SsevImageI>
+    <SsevLinkI>https://your-link-url-here.com</SsevLinkI>
+    <SsevStoryII>Story Two Here</SsevStoryII>
+    <SsevImageII>https://img.youtube.com/vi/49pdW0t3vnM/sddefault.jpg</SsevImageII>
+    <SsevLinkII>https://your-link-url-here.com</SsevLinkII>
+    
+    <!-- TBB Section -->
+    <TBBIntro>Intro goes here</TBBIntro>
+    <TBBCon>Outro goes here</TBBCon>
+    <TBBStoryI>Story One Here</TBBStoryI>
+    <TBBImageI>https://your-image-url-here.jpg</TBBImageI>
+    <TBBLinkI>https://your-link-url-here.com</TBBLinkI>
+    <TBBStoryII>Story Two Here</TBBStoryII>
+    <TBBImageII>https://your-image-url-here.jpg</TBBImageII>
+    <TBBLinkII>https://your-link-url-here.com</TBBLinkII>
+    
+    <!-- MB Section -->
+    <MBIntro>Intro goes here</MBIntro>
+    <MBCon>Outro goes here</MBCon>
+    <MBStoryI>Story One Here</MBStoryI>
+    <MBImageI>https://your-image-url-here.jpg</MBImageI>
+    <MBLinkI>https://your-link-url-here.com</MBLinkI>
+    <MBStoryII>Story Two Here</MBStoryII>
+    <MBImageII>https://your-image-url-here.jpg</MBImageII>
+    <MBLinkII>https://your-link-url-here.com</MBLinkII>
+    
+    <!-- BU Section -->
+    <BUIntro>Intro goes here</BUIntro>
+    <BUCon>Outro goes here</BUCon>
+    <BUStoryI>Story One Here</BUStoryI>
+    <BUImageI>https://your-image-url-here.jpg</BUImageI>
+    <BULinkI>https://your-link-url-here.com</BULinkI>
+    <BUStoryII>Story Two Here</BUStoryII>
+    <BUImageII>https://your-image-url-here.jpg</BUImageII>
+    <BULinkII>https://your-link-url-here.com</BULinkII>
+    
+    <!-- TLC Section -->
+    <TLCIntro>Intro goes here</TLCIntro>
+    <TLCCon>Outro goes here</TLCCon>
+    <TLCStoryI>Story One Here</TLCStoryI>
+    <TLCImageI>https://your-image-url-here.jpg</TLCImageI>
+    <TLCLinkI>https://your-link-url-here.com</TLCLinkI>
+    <TLCStoryII>Story Two Here</TLCStoryII>
+    <TLCImageII>https://your-image-url-here.jpg</TLCImageII>
+    <TLCLinkII>https://your-link-url-here.com</TLCLinkII>
+    
+    <!-- SMH Section -->
+    <SMHIntro>Intro goes here</SMHIntro>
+    <SMHCon>Outro goes here</SMHCon>
+    <SMHStoryI>Story One Here</SMHStoryI>
+    <SMHImageI>https://your-image-url-here.jpg</SMHImageI>
+    <SMHLinkI>https://your-link-url-here.com</SMHLinkI>
+    <SMHStoryII>Story Two Here</SMHStoryII>
+    <SMHImageII>https://your-image-url-here.jpg</SMHImageII>
+    <SMHLinkII>https://your-link-url-here.com</SMHLinkII>
 </item>
 
 
