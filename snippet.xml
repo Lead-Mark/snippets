@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title> March 30 update 2</title>
+<title> March 30 update 3</title>
 <link>example.com/</link>
 <description>lm  tester</description>
 <!--   -->
@@ -246,84 +246,101 @@
 <item>
     <!-- Ssev Section -->
     <SsevIntro>Intro goes here</SsevIntro>
-    <!-- [[snippet.item.[14].SsevIntro]] -->
     <SsevCon>Outro goes here</SsevCon>
-    <!-- [[snippet.item.[14].SsevCon]] -->
     <SsevStoryI>Story One Here</SsevStoryI>
+    <SsevMoreStoryI>More story description here</SsevMoreStoryI>
     <SsevImageI>https://img.youtube.com/vi/49pdW0t3vnM/sddefault.jpg</SsevImageI>
     <SsevLinkI>https://your-link-url-here.com</SsevLinkI>
     <SsevStoryII>Story Two Here</SsevStoryII>
+    <SsevMoreStoryII>More story description here</SsevMoreStoryII>
     <SsevImageII>https://img.youtube.com/vi/49pdW0t3vnM/sddefault.jpg</SsevImageII>
     <SsevLinkII>https://your-link-url-here.com</SsevLinkII>
-    
+
     <!-- TBB Section -->
     <TBBIntro>Intro goes here</TBBIntro>
     <TBBCon>Outro goes here</TBBCon>
     <TBBStoryI>Story One Here</TBBStoryI>
+    <TBBMoreStoryI>More story description here</TBBMoreStoryI>
     <TBBImageI>https://your-image-url-here.jpg</TBBImageI>
     <TBBLinkI>https://your-link-url-here.com</TBBLinkI>
     <TBBStoryII>Story Two Here</TBBStoryII>
+    <TBBMoreStoryII>More story description here</TBBMoreStoryII>
     <TBBImageII>https://your-image-url-here.jpg</TBBImageII>
     <TBBLinkII>https://your-link-url-here.com</TBBLinkII>
-    
+
     <!-- MB Section -->
     <MBIntro>Intro goes here</MBIntro>
     <MBCon>Outro goes here</MBCon>
     <MBStoryI>Story One Here</MBStoryI>
+    <MBMoreStoryI>More story description here</MBMoreStoryI>
     <MBImageI>https://your-image-url-here.jpg</MBImageI>
     <MBLinkI>https://your-link-url-here.com</MBLinkI>
     <MBStoryII>Story Two Here</MBStoryII>
+    <MBMoreStoryII>More story description here</MBMoreStoryII>
     <MBImageII>https://your-image-url-here.jpg</MBImageII>
     <MBLinkII>https://your-link-url-here.com</MBLinkII>
-    
+
     <!-- BU Section -->
     <BUIntro>not in use maybe</BUIntro>
     <BUCon>not in use maybe</BUCon>
     <BUStoryI>Story One Here</BUStoryI>
+    <BUMoreStoryI>More story description here</BUMoreStoryI>
     <BUImageI>https://your-image-url-here.jpg</BUImageI>
     <BULinkI>https://your-link-url-here.com</BULinkI>
     <BUStoryII>Story Two Here</BUStoryII>
+    <BUMoreStoryII>More story description here</BUMoreStoryII>
     <BUImageII>https://your-image-url-here.jpg</BUImageII>
     <BULinkII>https://your-link-url-here.com</BULinkII>
     <BUStoryIII>Story Three Here</BUStoryIII>
+    <BUMoreStoryIII>More story description here</BUMoreStoryIII>
     <BUImageIII>https://your-image-url-here.jpg</BUImageIII>
     <BULinkIII>https://your-link-url-here.com</BULinkIII>
     <BUStoryIV>Story Four Here</BUStoryIV>
+    <BUMoreStoryIV>More story description here</BUMoreStoryIV>
     <BUImageIV>https://your-image-url-here.jpg</BUImageIV>
     <BULinkIV>https://your-link-url-here.com</BULinkIV>
     <BUStoryV>Story Five Here</BUStoryV>
+    <BUMoreStoryV>More story description here</BUMoreStoryV>
     <BUImageV>https://your-image-url-here.jpg</BUImageV>
     <BULinkV>https://your-link-url-here.com</BULinkV>
-    
+
     <!-- TLC Section -->
     <TLCIntro>Intro goes here</TLCIntro>
     <TLCCon>Outro goes here</TLCCon>
     <TLCStoryI>Story One Here</TLCStoryI>
+    <TLCMoreStoryI>More story description here</TLCMoreStoryI>
     <TLCImageI>https://your-image-url-here.jpg</TLCImageI>
     <TLCLinkI>https://your-link-url-here.com</TLCLinkI>
     <TLCStoryII>Story Two Here</TLCStoryII>
+    <TLCMoreStoryII>More story description here</TLCMoreStoryII>
     <TLCImageII>https://your-image-url-here.jpg</TLCImageII>
     <TLCLinkII>https://your-link-url-here.com</TLCLinkII>
-    
+
     <!-- SMH Section -->
     <SMHIntro>not in use maybe</SMHIntro>
     <SMHCon>not in use maybe</SMHCon>
     <SMHStoryI>Story One Here</SMHStoryI>
+    <SMHMoreStoryI>More story description here</SMHMoreStoryI>
     <SMHImageI>https://your-image-url-here.jpg</SMHImageI>
     <SMHLinkI>https://your-link-url-here.com</SMHLinkI>
     <SMHStoryII>Story Two Here</SMHStoryII>
+    <SMHMoreStoryII>More story description here</SMHMoreStoryII>
     <SMHImageII>https://your-image-url-here.jpg</SMHImageII>
     <SMHLinkII>https://your-link-url-here.com</SMHLinkII>
     <SMHStoryIII>Story Three Here</SMHStoryIII>
+    <SMHMoreStoryIII>More story description here</SMHMoreStoryIII>
     <SMHImageIII>https://your-image-url-here.jpg</SMHImageIII>
     <SMHLinkIII>https://your-link-url-here.com</SMHLinkIII>
     <SMHStoryIV>Story Four Here</SMHStoryIV>
+    <SMHMoreStoryIV>More story description here</SMHMoreStoryIV>
     <SMHImageIV>https://your-image-url-here.jpg</SMHImageIV>
     <SMHLinkIV>https://your-link-url-here.com</SMHLinkIV>
     <SMHStoryV>Story Five Here</SMHStoryV>
+    <SMHMoreStoryV>More story description here</SMHMoreStoryV>
     <SMHImageV>https://your-image-url-here.jpg</SMHImageV>
     <SMHLinkV>https://your-link-url-here.com</SMHLinkV>
     <SMHStoryVI>Story Six Here</SMHStoryVI>
+    <SMHMoreStoryVI>More story description here</SMHMoreStoryVI>
     <SMHImageVI>https://your-image-url-here.jpg</SMHImageVI>
     <SMHLinkVI>https://your-link-url-here.com</SMHLinkVI>
 </item>
