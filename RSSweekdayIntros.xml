@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Intros and Outros</title>
+<link>http://example.com/</link>
+<description>Description me maybe</description>
+
+<item>
+<title>Item 1 Title</title>
+<link>http://example.com/item1</link>
+<guid>http://example.com/item1</guid>
+<pubDate>Tue, 10 Apr 2024 12:00:00 GMT</pubDate>
+<description>Item 1 description.</description>
+<!-- Custom tags for item 1 -->
+<customTag1>Custom content 1</customTag1>
+<customTag2>Custom content 2</customTag2>
+</item>
+
+<item>
+<title>Item 2 Title</title>
+<link>http://example.com/item2</link>
+<guid>http://example.com/item2</guid>
+<pubDate>Tue, 10 Apr 2024 13:00:00 GMT</pubDate>
+<description>Item 2 description.</description>
+<!-- Custom tags for item 2 -->
+<customTag1>Custom content 1</customTag1>
+<customTag2>Custom content 2</customTag2>
+</item>
+
+<!-- IGNORE EVERYTHING ABOVE THIS LINE  -->
+<!-- IGNORE EVERYTHING ABOVE THIS LINE  -->
+<!-- IGNORE EVERYTHING ABOVE THIS LINE  -->
+<!-- IGNORE EVERYTHING ABOVE THIS LINE  -->
+<!-- IGNORE EVERYTHING ABOVE THIS LINE  -->
+<!-- IGNORE EVERYTHING ABOVE THIS LINE  -->
+<!-- IGNORE EVERYTHING ABOVE THIS LINE  -->
+<!-- IGNORE EVERYTHING ABOVE THIS LINE  -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+
+<item>
+<!-- 7 at 7 intro --><!-- 7 at 7 intro --><!-- 7 at 7 intro -->
+<description>
+I'm an intro. Just don't put an ampersand! but "quotes" and - should be okay!
+</description>
+</item>
+<!-- -->
+<!-- -->
+
+<item>
+<!-- 7 at 7 Outro --> <!-- 7 at 7 Outro --> <!-- 7 at 7 Outro -->
+<description>
+I'm an outro. Just don't put an ampersand! but "quotes" and - should be okay!
+</description>
+</item>
+
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+
+
+
+
+
+</channel>
+</rss>
