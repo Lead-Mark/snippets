@@ -15,18 +15,18 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-    - name: Create directory
-      run: mkdir -p snippets
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install feedparser feedgen
     - name: Run script
-      run: python aggregator.py > snippets/feed.xml
+      run: |
+        cd snippets/rss-aggregator
+        python aggregator.py > feed.xml
     - name: Commit and push
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add snippets/feed.xml
+        git add snippets/rss-aggregator/feed.xml
         git commit -m "Update feed"
         git push
