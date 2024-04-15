@@ -13,9 +13,22 @@ def fetch_and_combine_feeds(urls):
         combined_entries.extend(feed.entries)
     return combined_entries
 
+from feedgen.feed import FeedGenerator
+
 def create_rss_feed(entries):
-    # Placeholder for creating a new RSS feed
-    return entries  # For now, we're just returning the entries
+    fg = FeedGenerator()
+    fg.title('Combined RSS Feed')
+    fg.link(href='http://example.com', rel='alternate')
+    fg.description('This is a combined feed of multiple RSS sources.')
+
+    for entry in entries:
+        fe = fg.add_entry()
+        fe.title(entry.title)
+        fe.link(href=entry.link)
+        fe.description(entry.description)
+
+    return fg.rss_str(pretty=True)
+
 
 combined_feed = fetch_and_combine_feeds(rss_urls)
 final_feed = create_rss_feed(combined_feed)
