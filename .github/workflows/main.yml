@@ -22,7 +22,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install feedparser feedgen
     - name: Run script
-      run: python aggregator.py > feeds/feed.xml
+      run: python aggregator.py > snippets/feed.xml
     - name: Commit and push
       run: |
         git config --local user.email "action@github.com"
