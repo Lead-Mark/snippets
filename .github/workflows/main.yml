@@ -16,7 +16,7 @@ jobs:
       with:
         python-version: '3.x'
     - name: Create directory
-      run: mkdir -p feeds
+      run: mkdir -p snippets
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -27,6 +27,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add feeds/feed.xml
+        git add snippets/feed.xml
         git commit -m "Update feed"
         git push
