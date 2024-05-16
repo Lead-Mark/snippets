@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Wed, 15 May 2024 14:35:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CTO-WP LI Perfect Tesla Trade 1 E</LMheaderPMi><LMhIDpmi>4239 7</LMhIDpmi><LMheaderPMii>EdAd-CTO-Investpub-Income Glitch GS</LMheaderPMii><LMhIDpmii>4235 2</LMhIDpmii><LMheaderPMiii>EdAd-CTO-Meza-AI Stocks April New SL E</LMheaderPMiii><LMhIDpmiii>4292 2</LMhIDpmiii><LMheaderPMiv>EdAd-CTO-Darwin-AWI Gold</LMheaderPMiv><LMhIDpmiv>4267 2</LMhIDpmiv><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Wed, 15 May 2024 14:35:45 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd-CTO-WP LI Perfect Tesla Trade 1 E</LMheaderPMi>
+            <LMhIDpmi>4239 7</LMhIDpmi>
+            <LMheaderPMii>EdAd-CTO-Investpub-Income Glitch GS</LMheaderPMii>
+            <LMhIDpmii>4235 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd-CTO-Meza-AI Stocks April New SL E</LMheaderPMiii>
+            <LMhIDpmiii>4292 2</LMhIDpmiii>
+            <LMheaderPMiv>EdAd-CTO-Darwin-AWI Gold</LMheaderPMiv>
+            <LMhIDpmiv>4267 2</LMhIDpmiv>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
