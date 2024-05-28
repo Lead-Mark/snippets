@@ -270,52 +270,32 @@ Welcome to our afternoon edition of The Seven at 7! Discover the income struggle
 -->
 <!--10 -->
 <!-- -->
-<!-- -->
+<!--just the breaking news section from the FLAGSHIP send below -->
 <item>
-<!-- main content --><!-- main content --><!-- main content -->
-<description>
-Im an intro! 
-</description>
-</item>
-<!-- -->
-<!-- -->
-<item>
-<!-- politics --><!-- politics --><!-- politics -->
-<description>
-Im an intro! 
-</description>
-</item>
-<!-- -->
-<!-- -->
-<item>
-<!-- science and discovery --> <!-- science and discovery --> <!-- science and discovery -->
-<description>
-Im an Outro!
-</description>
-</item>
-<!-- -->
-<!-- -->
-<item>
-<!-- buisness and markets --><!-- buisness and markets --><!-- buisness and markets -->
-<description>
-Im an intro! 
-</description>
-</item>
-<!-- -->
-<!-- -->
-<item>
-<!-- health and wellness --><!-- health and wellness --><!-- health and wellness -->
-<description>
-Im an intro! 
-</description>
-</item>
-<!-- -->
-<!-- -->
-<item>
-<!-- breaking --><!-- breaking --><!-- breaking -->
-<description>
-Im an intro! 
-</description>
+<!-- flagship breaking news HEADLINE --> 
+    <BuBreakHeadline>
+    <!-- -->
+   Which 10 states have the lowest earners?
+    <!-- -->
+    </BuBreakHeadline>
+    <!-- flagship breaking news STORY --> 
+    <BuBreakStory>
+    <!-- -->
+  Join us as we shine a light on the income struggles faced by ordinary Americans in our spotlight on the 10 states where salaries hit rock bottom. From New Mexico's mental health crisis to West Virginia's fight for a fair wage, the stories behind the statistics are both heartbreaking and eye-opening. Curious to know which state tops the list and what's being done to combat the income crisis?
+   <!-- -->
+    </BuBreakStory>
+    <!-- flagship breaking news LINK --> 
+    <BuBreakLink>
+    <!-- -->
+    https://www.insidermonkey.com/blog/10-states-where-everyday-americans-earn-the-lowest-incomes-1299656/
+    <!-- -->
+    </BuBreakLink>
+     <!-- flagship breaking news image --> 
+    <BuBreakImage>
+    <!-- -->
+    https://i.insider.com/5490646f6bb3f7e920163a6f
+    <!-- -->
+    </BuBreakImage>
 </item>
 
 
