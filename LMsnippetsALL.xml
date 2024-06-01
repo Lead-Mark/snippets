@@ -1,27 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Fri, 31 May 2024 07:01:51 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd-CTO-InvestPub-Weekly Cash Flow April</LMheaderPMi>
-            <LMhIDpmi>4238 7</LMhIDpmi>
-            <LMheaderPMii>EdAd-CPC-Bowleg Media-Summer Shred Challenge</LMheaderPMii>
-            <LMhIDpmii>4340 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd-CTO-Darwin-AWI Gold</LMheaderPMiii>
-            <LMhIDpmiii>4267 2</LMhIDpmiii>
-            <LMheaderPMiv>EdAd-CTO-Weekend WireTaps</LMheaderPMiv>
-            <LMhIDpmiv>4248 2</LMhIDpmiv>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Fri, 31 May 2024 13:51:24 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAe-CTO-InvestPub-72 Hour Profit Surges 3</LMheaderPMi><LMhIDpmi>4246 7</LMhIDpmi><LMheaderPMii>EdAd-CTO-Weekend WireTaps</LMheaderPMii><LMhIDpmii>4248 2</LMhIDpmii><LMheaderPMiii>EdAd-CTO-WP LI Perfect Tesla Trade 4 E</LMheaderPMiii><LMhIDpmiii>4242 2</LMhIDpmiii><LMheaderPMiv>EdAd-CTO-MillPub-Monthly Money Flows</LMheaderPMiv><LMhIDpmiv>4298 2</LMhIDpmiv><description>Real item with content</description></item></channel></rss>
