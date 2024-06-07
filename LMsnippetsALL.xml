@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Thu, 06 Jun 2024 23:18:26 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CTO-CLM Media-MMT Top 5 AI Stocks2</LMheaderPMi><LMhIDpmi>4342 7</LMhIDpmi><LMheaderPMii>EdAd-CTO-CLM Media-Top 5 Tech Stocks</LMheaderPMii><LMhIDpmii>4344 2</LMhIDpmii><LMheaderPMiii>EdAd-CTO-Darwin-Top 3 AI Stocks of 2024</LMheaderPMiii><LMhIDpmiii>4265 2</LMhIDpmiii><LMheaderPMiv>EdAd-CTO-Darwin-Crypto</LMheaderPMiv><LMhIDpmiv>4266 2</LMhIDpmiv><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Thu, 06 Jun 2024 23:18:26 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd-CTO-CLM Media-MMT Top 5 AI Stocks2</LMheaderPMi>
+            <LMhIDpmi>4342 7</LMhIDpmi>
+            <LMheaderPMii>EdAd-CTO-CLM Media-Top 5 Tech Stocks</LMheaderPMii>
+            <LMhIDpmii>4344 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd-CTO-Darwin-Top 3 AI Stocks of 2024</LMheaderPMiii>
+            <LMhIDpmiii>4265 2</LMhIDpmiii>
+            <LMheaderPMiv>EdAd-CTO-Darwin-Crypto</LMheaderPMiv>
+            <LMhIDpmiv>4266 2</LMhIDpmiv>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
