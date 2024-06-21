@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Fri, 21 Jun 2024 06:51:34 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CTO-Weekend WireTaps</LMheaderPMi><LMhIDpmi>4389 7</LMhIDpmi><LMheaderPMii>EdAd-InvestPub-Weekly Cash Flow 2</LMheaderPMii><LMhIDpmii>4372 2</LMhIDpmii><LMheaderPMiii>EdAd-CTO-InvestPub-Perfect Tesla Trade 4</LMheaderPMiii><LMhIDpmiii>4374 2</LMhIDpmiii><LMheaderPMiv>EdAd-CTO-Meza-Nasdaq</LMheaderPMiv><LMhIDpmiv>4409 2</LMhIDpmiv><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Fri, 21 Jun 2024 06:51:34 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd-CTO-Weekend WireTaps</LMheaderPMi>
+            <LMhIDpmi>4389 7</LMhIDpmi>
+            <LMheaderPMii>EdAd-InvestPub-Weekly Cash Flow 2</LMheaderPMii>
+            <LMhIDpmii>4372 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd-CTO-Darwin-Crypto</LMheaderPMiii>
+            <LMhIDpmiii>4266 2</LMhIDpmiii>
+            <LMheaderPMiv>EdAd-CTO-Meza-Nasdaq</LMheaderPMiv>
+            <LMhIDpmiv>4409 2</LMhIDpmiv>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
