@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Wed, 31 Jul 2024 06:53:32 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CTO-CLM Media-MMT Top 5 AI Stocks2-OL</LMheaderPMi><LMhIDpmi>4454 7</LMhIDpmi><LMheaderPMii>EdAd-CTO-InvestPub-Perfect Tesla Trade 1-OL</LMheaderPMii><LMhIDpmii>4501 2</LMhIDpmii><LMheaderPMiii>EdAd-CTO-Meza-Nasdaq-OL</LMheaderPMiii><LMhIDpmiii>4525 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Wed, 31 Jul 2024 06:53:32 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd-CTO-Cash Flow Experts Funding New Copy Aug</LMheaderPMi>
+            <LMhIDpmi>4614 7</LMhIDpmi>
+            <LMheaderPMii>EdAd-CTO-Darwin Top 3 AI Stocks of 2024 Overflow</LMheaderPMii>
+            <LMhIDpmii>4649 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd-CTO-Option Genius Market Power V3 VSL SL 2 Aug</LMheaderPMiii>
+            <LMhIDpmiii>4584 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
