@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Mon, 05 Aug 2024 01:07:48 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd-CTO-wyatt MDP Oppenheimer V2 Aug</LMheaderPMi>
-            <LMhIDpmi>4681 7</LMhIDpmi>
-            <LMheaderPMii>EdAd-CTO-Trading Tips Top 10 AI Stocks Aug</LMheaderPMii>
-            <LMhIDpmii>4618 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd-CTO-InvestPub WP Perfect Tesla Trade 4 August</LMheaderPMiii>
-            <LMhIDpmiii>4665 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Wed, 07 Aug 2024 07:26:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CTO-Darwin Top 3 AI Stocks of 2024 Overflow</LMheaderPMi><LMhIDpmi>4649 7</LMhIDpmi><LMheaderPMii>EdAd-CTO-InvestPub DTI Uranium Unchained 1 August</LMheaderPMii><LMhIDpmii>4662 2</LMhIDpmii><LMheaderPMiii>EdAd-CTO-DTI InvestPub Perfect Income 2 August</LMheaderPMiii><LMhIDpmiii>4661 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
