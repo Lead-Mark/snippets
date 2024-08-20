@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Mon, 19 Aug 2024 06:53:37 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CTO-Investpub WP Perfect Tesla Trade 1 August</LMheaderPMi><LMhIDpmi>4663 7</LMhIDpmi><LMheaderPMii>EdAd-CTO-InvestPub JT Bitcoin Loophole 4 August</LMheaderPMii><LMhIDpmii>4670 2</LMhIDpmii><LMheaderPMiii>EdAd-CTO-Trading Tips 10 Cheap Stocks Aug</LMheaderPMiii><LMhIDpmiii>4617 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Mon, 19 Aug 2024 06:53:37 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd - CTO - CLM Media DMA AI Stock Aug</LMheaderPMi>
+            <LMhIDpmi>4616 7</LMhIDpmi>
+            <LMheaderPMii>EdAd - CTO - InvestPub JT Apollo Algo August</LMheaderPMii>
+            <LMhIDpmii>4726 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd-CTO-Chad Barrett Small Cap August Rewrite</LMheaderPMiii>
+            <LMhIDpmiii>4691 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
