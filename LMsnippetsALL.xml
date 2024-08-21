@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Wed, 21 Aug 2024 08:12:14 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - CLM Media DMA AI Stock Aug</LMheaderPMi><LMhIDpmi>4616 7</LMhIDpmi><LMheaderPMii>EdAd-CPC-Behind the Markets Midnight in America 1968</LMheaderPMii><LMhIDpmii>4749 2</LMhIDpmii><LMheaderPMiii>EdAd-CPC-Beachside Media Hartford Biden Taxesv2</LMheaderPMiii><LMhIDpmiii>4560 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Wed, 21 Aug 2024 08:12:14 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd-CPA-Tanventure Invention leads</LMheaderPMi>
+            <LMhIDpmi>124 7</LMhIDpmi>
+            <LMheaderPMii>EdAd-CPC-Behind the Markets Midnight in America 1968</LMheaderPMii>
+            <LMhIDpmii>4749 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd-CPC-Beachside Media Hartford Biden Taxesv2</LMheaderPMiii>
+            <LMhIDpmiii>4560 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
