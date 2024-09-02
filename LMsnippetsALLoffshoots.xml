@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Fri, 30 Aug 2024 07:21:19 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CPC-Beachside Hartford Digital Dollar</LMheaderPMi><LMhIDpmi>4566 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - Patriot Brand Trump Coin Newsletter Lift 1</LMheaderPMii><LMhIDpmii>4757 2</LMhIDpmii><LMheaderPMiii>EdAd - CTO - Schaeffers Insider Options Secret Aug rewrite</LMheaderPMiii><LMhIDpmiii>4741 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Sun, 01 Sep 2024 22:25:16 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd - CTO - InvestPub JC NVDA Stock Split Summit 2 September</LMheaderPMi>
+            <LMhIDpmi>4834 7</LMhIDpmi>
+            <LMheaderPMii>EdAd-CPA-Tanventure Invention leads</LMheaderPMii>
+            <LMhIDpmii>124 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd-CPC-Behind the Markets Midnight in America 1866 Aug</LMheaderPMiii>
+            <LMhIDpmiii>4871 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
