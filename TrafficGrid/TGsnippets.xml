@@ -1,21 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Random Snippet Feed</title>
-        <link>http://example.com/random_snippets.xml</link>
-        <description>This feed displays two randomly selected snippets.</description>
-        <lastBuildDate>Fri, 06 Sep 2024 09:36:43 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Dummy Item</title>
-            <description>This is a placeholder item.</description>
-        </item>
-        <item>
-            <title>Unused</title>
-            <snippetOne>EdAd - Oxford BRK Pack</snippetOne>
-            <snippetTwo>EdAd - Banyan IKA Next Gen</snippetTwo>
-            <description>Unused</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Random Snippet Feed</title><link>http://example.com/random_snippets.xml</link><description>This feed displays two randomly selected snippets.</description><lastBuildDate>Mon, 09 Sep 2024 10:56:12 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dummy Item</title><description>This is a placeholder item.</description></item><item><title>Unused</title><snippetOne>EdAd - Banyan IKA Dark AI</snippetOne><snippetTwo>EdAd - Banyan IKA Next Gen</snippetTwo><description>Unused</description></item></channel></rss>
