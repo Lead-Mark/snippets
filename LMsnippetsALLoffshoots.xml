@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Mon, 09 Sep 2024 21:48:15 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CTO-InvestPub WP Perfect Tesla Trade 4 August</LMheaderPMi><LMhIDpmi>4831 7</LMhIDpmi><LMheaderPMii>make me</LMheaderPMii><LMhIDpmii>4564 2</LMhIDpmii><LMheaderPMiii>EdAd - CTO - CLM Media MMT Nasdaq Aug</LMheaderPMiii><LMhIDpmiii>4800 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Tue, 10 Sep 2024 10:52:59 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd-CTO-InvestPub WP Perfect Tesla Trade 4 August</LMheaderPMi>
+            <LMhIDpmi>4831 7</LMhIDpmi>
+            <LMheaderPMii>EdAd-CTO-InvestPub JT Bitcoin Loophole 4 August</LMheaderPMii>
+            <LMhIDpmii>4822 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd - CTO - InvestPub FIVE Dividend Cheat Sheets September</LMheaderPMiii>
+            <LMhIDpmiii>4843 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
