@@ -1,21 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Random Snippet Feed</title>
-        <link>http://example.com/random_snippets.xml</link>
-        <description>This feed displays two randomly selected snippets.</description>
-        <lastBuildDate>Tue, 10 Sep 2024 22:33:45 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Dummy Item</title>
-            <description>This is a placeholder item.</description>
-        </item>
-        <item>
-            <title>Unused</title>
-            <snippetOne>EdAd - Oxford BRK Pack</snippetOne>
-            <snippetTwo>AI 2024</snippetTwo>
-            <description>Unused</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Random Snippet Feed</title><link>http://example.com/random_snippets.xml</link><description>This feed displays two randomly selected snippets.</description><lastBuildDate>Wed, 11 Sep 2024 21:35:23 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dummy Item</title><description>This is a placeholder item.</description></item><item><title>Unused</title><snippetOne>WCI - Next Bitcoin</snippetOne><snippetTwo>Cut &amp; Paste</snippetTwo><description>Unused</description></item></channel></rss>
