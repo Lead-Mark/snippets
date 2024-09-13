@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Thu, 12 Sep 2024 21:12:53 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd-CPC-SS Priority Gold Economic Warning</LMheaderPMi><LMhIDpmi>4601 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - CLM Media MMT Nasdaq Aug</LMheaderPMii><LMhIDpmii>4800 2</LMhIDpmii><LMheaderPMiii>make me</LMheaderPMiii><LMhIDpmiii>4819 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Thu, 12 Sep 2024 21:12:53 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd-CPC-SS Priority Gold Economic Warning</LMheaderPMi>
+            <LMhIDpmi>4601 7</LMhIDpmi>
+            <LMheaderPMii>EdAd - CTO - CLM Media MMT Nasdaq Aug</LMheaderPMii>
+            <LMhIDpmii>4913 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd - CTO - EZ Trading EZ Trading Laptops 1A Aug</LMheaderPMiii>
+            <LMhIDpmiii>4819 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
