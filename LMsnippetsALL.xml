@@ -4,21 +4,21 @@
         <title>Unique Snippet Feed</title>
         <link>http://example.com/unique_snippets.xml</link>
         <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Thu, 12 Sep 2024 21:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 20:40:46 GMT</lastBuildDate>
         <generator>PyRSS2Gen-1.1.0</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <item>
             <title>Unused</title>
             <description>Dummy item, ignore</description>
         </item>
-          <item>
+        <item>
             <title>Active Content</title>
-            <LMheaderPMi>EdAd - CTO - InvestPub GL The Hotsheets 3 September</LMheaderPMi>
-            <LMhIDpmi>4828 7</LMhIDpmi>
-            <LMheaderPMii>EdAd-CTO-Trading Tips 10 Cheap Stocks Aug</LMheaderPMii>
-            <LMhIDpmii>4882 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd-CPC-SS Priority Gold Economic Warning</LMheaderPMiii>
-            <LMhIDpmiii>4601 2</LMhIDpmiii>
+            <LMheaderPMi>EdAd-CPC-SS Priority Gold Economic Warning</LMheaderPMi>
+            <LMhIDpmi>4601 7</LMhIDpmi>
+            <LMheaderPMii>EdAd-CTO-InvestPub JT Bitcoin Loophole 4 August</LMheaderPMii>
+            <LMhIDpmii>4822 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd - CPC - Beachside Media Hartford Trump Sentence</LMheaderPMiii>
+            <LMhIDpmiii>4564 2</LMhIDpmiii>
             <description>Real item with content</description>
         </item>
     </channel>
