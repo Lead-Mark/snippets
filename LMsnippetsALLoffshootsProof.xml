@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Thu, 03 Oct 2024 21:15:15 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd - CTO - Header - EZ Trading EZ Trading Laptops_NEWLINK</LMheaderPMi>
-            <LMhIDpmi>4991 7</LMhIDpmi>
-            <LMheaderPMii>EdAd - CTO - Trading Tips 10 Cheap Stocks_NEWLINK</LMheaderPMii>
-            <LMhIDpmii>4996 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd-CPC-Beachside Media Hartford Biden Taxes_NEWLINK</LMheaderPMiii>
-            <LMhIDpmiii>4560 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Tue, 08 Oct 2024 15:44:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - CLM Media DMA AI Stock_NEWLINK</LMheaderPMi><LMhIDpmi>4983 7</LMhIDpmi><LMheaderPMii>make</LMheaderPMii><LMhIDpmii>5032 2</LMhIDpmii><LMheaderPMiii>EdAd-CPC-SS Priority Gold Economic Warning_NEWLINK</LMheaderPMiii><LMhIDpmiii>4601 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
