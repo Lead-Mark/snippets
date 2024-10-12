@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Thu, 10 Oct 2024 15:14:09 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd - CPC -Header - Beachside Media Hartford Biden Taxes_NEWLINK</LMheaderPMi>
-            <LMhIDpmi>4560 7</LMhIDpmi>
-            <LMheaderPMii>EdAd - CTO - Darwin WIN Options October_NEWLINK</LMheaderPMii>
-            <LMhIDpmii>5010 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd - CTO - InvestPub PIN Bargain Bin Trader_NEWLINK</LMheaderPMiii>
-            <LMhIDpmiii>5030 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Fri, 11 Oct 2024 23:21:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CPC -Header - Beachside Media Hartford Biden Taxes_NEWLINK</LMheaderPMi><LMhIDpmi>4560 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - Darwin WIN Options October_NEWLINK</LMheaderPMii><LMhIDpmii>5010 2</LMhIDpmii><LMheaderPMiii>EdAd - CPC - Investors Alley Forever Dividends_NEWLINKv2</LMheaderPMiii><LMhIDpmiii>4815 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
