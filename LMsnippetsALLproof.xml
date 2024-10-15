@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Mon, 14 Oct 2024 11:51:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - Cash Flow Experts Funding_NEWLINK</LMheaderPMi><LMhIDpmi>4985 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - CLM Media MMT Nasdaqv2_NEWLINK</LMheaderPMii><LMhIDpmii>4984 2</LMhIDpmii><LMheaderPMiii>EdAd - CTO - Darwin WCI Gold Guide October_NEWLINK</LMheaderPMiii><LMhIDpmiii>4968 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Mon, 14 Oct 2024 11:51:45 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd - CTO - Header - Midnight in America 1890_NEWLINK</LMheaderPMi>
+            <LMhIDpmi>5017 7</LMhIDpmi>
+            <LMheaderPMii>EdAd - CTO - CLM Media DMA AI Stock_NEWLINK</LMheaderPMii>
+            <LMhIDpmii>5088 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd - CTO - InvestPub JT Bitcoin Loophole 4v2_NEWLINK</LMheaderPMiii>
+            <LMhIDpmiii>5037 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
