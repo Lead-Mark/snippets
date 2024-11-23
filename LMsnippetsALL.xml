@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Sat, 23 Nov 2024 02:31:11 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CPC - Header - T3 Live CPC Power Play</LMheaderPMi><LMhIDpmi>5150 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - InvestPub WP Perfect Tesla Trade_NEWLINK</LMheaderPMii><LMhIDpmii>5216 2</LMhIDpmii><LMheaderPMiii>EdAd - CTO - CLM Media MMT Nasdaqv2_NEWLINK</LMheaderPMiii><LMhIDpmiii>5188 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Sat, 23 Nov 2024 02:31:11 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd - CPC - Header - T3 Live CPC Power Play</LMheaderPMi>
+            <LMhIDpmi>5150 7</LMhIDpmi>
+            <LMheaderPMii>EdAd - CTO - InvestPub WP Perfect Tesla Trade_NEWLINK</LMheaderPMii>
+            <LMhIDpmii>5216 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd - CTO - CLM Media MMT Nasdaqv2_NEWLINK</LMheaderPMiii>
+            <LMhIDpmiii>5188 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
