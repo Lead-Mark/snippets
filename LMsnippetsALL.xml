@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Tue, 26 Nov 2024 23:13:50 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd - CTO - Header - InvestPub DTI Sum Zeros 1 Ranked Stock Picker 1 Novemopy</LMheaderPMi>
-            <LMhIDpmi>5044 7</LMhIDpmi>
-            <LMheaderPMii>EdAd - CPC - InvestPub WP Quick Start Trading 3 November</LMheaderPMii>
-            <LMhIDpmii>5135 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd - CTO - InvestPub WP Perfect Tesla Trade_NEWLINK</LMheaderPMiii>
-            <LMhIDpmiii>5217 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Thu, 28 Nov 2024 01:39:51 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - InvestPub DTI On The Clocks 4 November</LMheaderPMi><LMhIDpmi>5182 7</LMhIDpmi><LMheaderPMii>EdAd - CPC - T3 Live Power Play_NEWLINK</LMheaderPMii><LMhIDpmii>5150 2</LMhIDpmii><LMheaderPMiii>EdAd - CTO - InvestPub WP Perfect Tesla Trade_NEWLINK</LMheaderPMiii><LMhIDpmiii>5216 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
