@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Mon, 02 Dec 2024 06:20:20 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd - CTO - Header - InvestPub DTI On The Clocks 4 November</LMheaderPMi>
-            <LMhIDpmi>5211 7</LMhIDpmi>
-            <LMheaderPMii>EdAd - CPC - InvestPub WP Data Miner Software 5 November</LMheaderPMii>
-            <LMhIDpmii>5186 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd-CPC-Beachside Hartford Digital Dollarv2_NEWLINK</LMheaderPMiii>
-            <LMhIDpmiii>4566 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Tue, 03 Dec 2024 06:13:37 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - InvestPub FIVE Dividend Cheat Sheetsv2</LMheaderPMi><LMhIDpmi>5204 7</LMhIDpmi><LMheaderPMii>EdAd - CPC - T3 Live Power Play_NEWLINK</LMheaderPMii><LMhIDpmii>5149 2</LMhIDpmii><LMheaderPMiii>EdAd-CPC-T3 Live Blackbookv2revised_NEWLINK</LMheaderPMiii><LMhIDpmiii>5152 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
