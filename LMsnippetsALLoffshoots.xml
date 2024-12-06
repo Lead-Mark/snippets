@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Fri, 06 Dec 2024 01:36:40 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CPC - Header - T3 Live CPC Power Play</LMheaderPMi><LMhIDpmi>5149 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - InvestPub FIVE Dividend Cheat Sheetsv2_NEWLINK</LMheaderPMii><LMhIDpmii>5295 2</LMhIDpmii><LMheaderPMiii>EdAd-CPC-Beachside Hartford Digital Dollarv2_NEWLINK</LMheaderPMiii><LMhIDpmiii>4566 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Fri, 06 Dec 2024 01:36:40 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd - CPC - Header - T3 Live CPC Power Play</LMheaderPMi>
+            <LMhIDpmi>5149 7</LMhIDpmi>
+            <LMheaderPMii>EdAd - CTO - InvestPub FIVE Dividend Cheat Sheetsv2_NEWLINK</LMheaderPMii>
+            <LMhIDpmii>5295 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd-CPC-Beachside Hartford Digital Dollarv2_NEWLINK</LMheaderPMiii>
+            <LMhIDpmiii>4566 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
