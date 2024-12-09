@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Mon, 09 Dec 2024 02:35:00 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - InvestPub DTI Income for Life 24 December</LMheaderPMi><LMhIDpmi>5294 7</LMhIDpmi><LMheaderPMii>EdAd - CPC - BTM Death of the Dollar Lift_NEWLINKv2</LMheaderPMii><LMhIDpmii>4699 2</LMhIDpmii><LMheaderPMiii>EdAd - CPC - InvestPub DTI Daily Profit Play Alerts</LMheaderPMiii><LMhIDpmiii>5029 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Mon, 09 Dec 2024 02:35:00 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd - CTO - Header - InvestPub DTI Income for Life 24 December</LMheaderPMi>
+            <LMhIDpmi>5294 7</LMhIDpmi>
+            <LMheaderPMii>EdAd - CPC - InvestPub DTI The Hotsheet 4 November</LMheaderPMii>
+            <LMhIDpmii>5205 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd - CPC - InvestPub DTI Daily Profit Play Alerts</LMheaderPMiii>
+            <LMhIDpmiii>5029 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
