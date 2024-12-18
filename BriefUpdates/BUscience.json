@@ -2,36 +2,8 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-17T12:11:04.360429",
+    "lastBuildDate": "2024-12-18T13:14:50.300894",
     "items": [
-        {
-            "title": "Naughty or Nice? Many parents rely on threats to manage misbehavior -- from no dessert to no Santa",
-            "link": "https://www.sciencedaily.com/releases/2024/12/241216130304.htm",
-            "description": "When young children's behavior becomes challenging, many parents resort to threats -- from taking away toys to threatening that Santa will skip their ...",
-            "pubDate": "2024-12-16T18:03:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Butchered bones suggest violent 'othering' of enemies in Bronze Age Britain",
-            "link": "https://www.sciencedaily.com/releases/2024/12/241216000434.htm",
-            "description": "Analysis of the remains of at least 37 individuals from Early Bronze Age England finds they were killed, butchered, and probably consumed before being...",
-            "pubDate": "2024-12-16T05:04:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Astrophysicists capture astonishing images of gamma-ray flare from supermassive black hole M87",
-            "link": "https://www.sciencedaily.com/releases/2024/12/241213140634.htm",
-            "description": "The galaxy M87, located in the Virgo constellation, provided the first-ever photo of a black hole in 2019, when the Event Horizon Telescope captured a...",
-            "pubDate": "2024-12-13T19:06:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Does the exoplanet Trappist-1 b have an atmosphere after all?",
-            "link": "https://www.sciencedaily.com/releases/2024/12/241216130034.htm",
-            "description": "Recent measurements with the James Webb Space Telescope (JWST) cast doubt on the current understanding of the exoplanet Trappist-1 b's nature. Until n...",
-            "pubDate": "2024-12-16T18:00:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
         {
             "title": "New survey tracks R&D spending inside federal facilities, highlighting research in government labs",
             "link": "https://new.nsf.gov/news/new-survey-tracks-rd-spending-inside-federal-facilities",
@@ -40,10 +12,59 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
+            "title": "Research team discovers seven new dark comets, identifies 2 types based on orbit and size",
+            "link": "https://new.nsf.gov/news/research-team-discovers-seven-new-dark-comets-identifies-2",
+            "description": "A team of researchers has uncovered seven new dark comets in the solar system. In addition to doubling the number of known dark comets, the researcher...",
+            "pubDate": "2024-12-10T21:47:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "How to print a car: High-performance multi-material 3D printing techniques",
+            "link": "https://www.sciencedaily.com/releases/2024/12/241217201520.htm",
+            "description": "A future where lightweight car parts can be made with a 3D printer is here, thanks to multi-material additive manufacturing research.",
+            "pubDate": "2024-12-18T01:15:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "New discovery by scientists redefines magnetism",
+            "link": "https://www.sciencedaily.com/releases/2024/12/241217131006.htm",
+            "description": "Step into a world so tiny, it defies imagination -- the nanoscale. Picture a single strand of hair, now shrink it a million times. You've arrived. Her...",
+            "pubDate": "2024-12-17T18:10:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Prehistoric rock in Japan reveals clues to major ocean anoxic event",
+            "link": "https://www.sciencedaily.com/releases/2024/12/241217141022.htm",
+            "description": "Researchers analyzed radioisotopes in layers of fossilized volcanic ash. Decay of uranium to lead within tiny crystals enabled scientists to precisely...",
+            "pubDate": "2024-12-17T19:10:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
             "title": "This week with NSF Director Panchanathan",
-            "link": "https://new.nsf.gov/news/week-nsf-director-panchanathan-75",
-            "description": "NSF Director Sethuraman Panchanathan spent the last two weeks reinforcing NSF's strategic partnerships to ensure the United States remains at the vang...",
-            "pubDate": "2024-12-10T15:32:13",
+            "link": "https://new.nsf.gov/news/week-nsf-director-panchanathan-76",
+            "description": "Strategic partnerships play a pivotal role in fostering innovation and strengthening the nation's workforce. This week, NSF Director Sethuraman Pancha...",
+            "pubDate": "2024-12-16T19:49:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Binary star found near our galaxy's supermassive black hole",
+            "link": "https://www.sciencedaily.com/releases/2024/12/241217130904.htm",
+            "description": "An international team of researchers has detected a binary star orbiting close to Sagittarius A*, the supermassive black hole at the centre of our gal...",
+            "pubDate": "2024-12-17T18:09:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Physicists 'bootstrap' validity of string theory",
+            "link": "https://www.sciencedaily.com/releases/2024/12/241217141004.htm",
+            "description": "String theory remains elusive as a 'provable' phenomenon. But a team of physicists has now taken a significant step forward in validating string theor...",
+            "pubDate": "2024-12-17T19:10:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Combatting a deadly disease and conserving a landscape one frog at a time",
+            "link": "https://new.nsf.gov/news/combatting-deadly-disease-conserving-landscape-one-frog-time",
+            "description": "New research supported by the U.S. National Science Foundation shows that efforts to save and reintroduce mountain yellow-legged frogs across Yosemite...",
+            "pubDate": "2024-12-18T14:30:06",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
@@ -51,28 +72,7 @@
             "link": "https://new.nsf.gov/news/final-6-pilot-projects-selected-nsf-national-quantum-virtual",
             "description": "The U.S. National Science Foundation has launched six pilot projects to bridge scientific gaps between current quantum technological capabilities and ...",
             "pubDate": "2024-12-16T15:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Research team discovers seven new dark comets, identifies 2 types based on orbit and size",
-            "link": "https://new.nsf.gov/news/research-team-discovers-seven-new-dark-comets-identifies-2",
-            "description": "A team of researchers has uncovered seven new dark comets in the solar system. In addition to doubling the number of known dark comets, the researcher...",
-            "pubDate": "2024-12-10T21:47:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "This week with NSF Director Panchanathan",
-            "link": "https://new.nsf.gov/news/week-nsf-director-panchanathan-76",
-            "description": "Strategic partnerships play a pivotal role in fostering innovation and strengthening the nation's workforce. This week, NSF Director Sethuraman Pancha...",
-            "pubDate": "2024-12-16T19:49:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "New device produces critical fertilizer ingredient from thin air, cutting carbon emissions",
-            "link": "https://www.sciencedaily.com/releases/2024/12/241213140619.htm",
-            "description": "A new prototype device demonstrates an innovative approach to producing ammonia -- a key component of fertilizer -- that could transform an industry r...",
-            "pubDate": "2024-12-13T19:06:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
