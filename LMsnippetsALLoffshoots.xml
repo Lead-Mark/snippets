@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Wed, 18 Dec 2024 13:08:36 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd - CPC - Header - InvestPub DTI The Hotsheet 4 November</LMheaderPMi>
-            <LMhIDpmi>5205 7</LMhIDpmi>
-            <LMheaderPMii>EdAd - CPC - T3 Live Power Play_NEWLINK</LMheaderPMii>
-            <LMhIDpmii>5149 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd - CTO - Darwin TWI Crypto_NEWLINK</LMheaderPMiii>
-            <LMhIDpmiii>5305 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Thu, 19 Dec 2024 12:08:53 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CPC - Header - T3 Live CPC Power Play</LMheaderPMi><LMhIDpmi>5149 7</LMhIDpmi><LMheaderPMii>EdAd - CPC - InvestPub DTI The Hotsheet 4 November</LMheaderPMii><LMhIDpmii>5025 2</LMhIDpmii><LMheaderPMiii>EdAd-CPC-Beachside Hartford Digital Dollarv2_NEWLINK</LMheaderPMiii><LMhIDpmiii>4566 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
