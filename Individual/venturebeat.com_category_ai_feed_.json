@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2024-12-19T06:42:04.865218",
+    "lastBuildDate": "2024-12-19T12:17:24.990306",
     "items": [
+        {
+            "title": "Small model, big impact: Patronus AI’s Glider outperforms GPT-4 in key AI benchmarks",
+            "link": "https://venturebeat.com/ai/small-model-big-impact-patronus-ai-glider-outperforms-gpt-4-in-key-ai-benchmarks/",
+            "description": "Patronus AI launches Glider, a breakthrough 3.8B-parameter language model that rivals GPT-4's evaluation capabilities while running on-device, offerin...",
+            "pubDate": "2024-12-19T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?w=578"
+        },
         {
             "title": "Beyond LLMs: How SandboxAQ’s large quantitative models could optimize enterprise AI",
             "link": "https://venturebeat.com/ai/beyond-llms-how-sandboxaqs-large-quantitative-models-could-optimize-enterprise-ai/",
@@ -31,13 +38,6 @@
             "description": "The service leverages advanced AI models, including Anthropic’s Claude 3.5 Sonnet and OpenAI’s GPT-4o, with limits.",
             "pubDate": "2024-12-18T20:58:30",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?w=578"
-        },
-        {
-            "title": "Salesforce drops Agentforce 2.0, brings reasoning AI to enterprise",
-            "link": "https://venturebeat.com/ai/salesforce-drops-agentforce-2-0-brings-reasoning-ai-to-enterprise/",
-            "description": "Salesforce has unveiled Agentforce 2.0, introducing AI agents with human-like reasoning abilities that can autonomously handle complex business tasks,...",
-            "pubDate": "2024-12-18T20:09:43",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?w=578"
         }
     ]
 }

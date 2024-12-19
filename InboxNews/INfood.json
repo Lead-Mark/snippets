@@ -2,14 +2,21 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-19T06:41:36.435710",
+    "lastBuildDate": "2024-12-19T12:16:53.952469",
     "items": [
         {
-            "title": "Crockpot Monkey Bread",
-            "link": "https://therecipecritic.com/crockpot-monkey-bread/",
-            "description": "Crockpot monkey bread is an easy, gooey treat made in your slow cooker. It’s packed with soft biscuit pieces, cinnamon-sugar…",
-            "pubDate": "2024-12-16T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/slow-cooker-monkey-bread-1.jpg"
+            "title": "Slow Cooker Breakfast Casserole",
+            "link": "https://therecipecritic.com/slow-cooker-breakfast-casserole/",
+            "description": "This Slow Cooker Breakfast Casserole is quick and easy to put together! Breakfast can be cooked in the slow cooker…",
+            "pubDate": "2024-12-19T15:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2016/12/overnight-breakfast-casserole-1.jpg"
+        },
+        {
+            "title": "Garlic & Herb Breaded Delicata Squash",
+            "link": "https://minimalistbaker.com/garlic-herb-roasted-delicata-squash/",
+            "description": "Say hello to your new favorite fall side! This roasted delicata squash has a savory, salty, garlic & herb breading that’s kind of irresistible. Let’s ...",
+            "pubDate": "2024-11-19T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/07/Garlic-and-Herb-Breaded-Delicata-Squash-15-Minimalist-Baker-063023-680x1020.jpg"
         },
         {
             "title": "Million Dollar Fudge",
@@ -17,6 +24,13 @@
             "description": "Million Dollar Fudge is a rich, creamy treat that lives up to its name! Packed with decadent chocolate, marshmallow fluff,…",
             "pubDate": "2024-12-19T01:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/million-dollar-fudge-1.jpg"
+        },
+        {
+            "title": "Easy Winter Fruit Salad (1 Bowl!)",
+            "link": "https://minimalistbaker.com/easy-winter-fruit-salad/",
+            "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
+            "pubDate": "2024-12-17T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
         },
         {
             "title": "Chocolate Pecan Shortbread Cookies (Vegan + GF)",
@@ -40,13 +54,6 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/Easy-Vegan-Dark-Chocolate-Sea-Salt-Tahini-Caramels-11-680x1020.jpg"
         },
         {
-            "title": "Easy Winter Fruit Salad (1 Bowl!)",
-            "link": "https://minimalistbaker.com/easy-winter-fruit-salad/",
-            "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
-            "pubDate": "2024-12-17T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
-        },
-        {
             "title": "Bacon Ranch Cheese Ball",
             "link": "https://therecipecritic.com/bacon-ranch-cheese-ball/",
             "description": "This bacon ranch cheese ball will be your favorite go-to appetizer! The winning combination of bacon, ranch seasoning, and cheddar…",
@@ -59,13 +66,6 @@
             "description": "Crockpot Mississippi meatballs make the best little appetizer or side dish. The flavorful pepperoncini peppers mixed with the au jus…",
             "pubDate": "2024-12-17T22:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/mississippi-meatballs.jpg"
-        },
-        {
-            "title": "Garlic & Herb Breaded Delicata Squash",
-            "link": "https://minimalistbaker.com/garlic-herb-roasted-delicata-squash/",
-            "description": "Say hello to your new favorite fall side! This roasted delicata squash has a savory, salty, garlic & herb breading that’s kind of irresistible. Let’s ...",
-            "pubDate": "2024-11-19T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/07/Garlic-and-Herb-Breaded-Delicata-Squash-15-Minimalist-Baker-063023-680x1020.jpg"
         }
     ]
 }
