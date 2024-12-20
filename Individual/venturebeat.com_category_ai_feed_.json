@@ -2,10 +2,31 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2024-12-19T12:17:24.990306",
+    "lastBuildDate": "2024-12-20T06:43:04.739024",
     "items": [
         {
-            "title": "Small model, big impact: Patronus AI’s Glider outperforms GPT-4 in key AI benchmarks",
+            "title": "ChatGPT adds more PC and Mac app integrations, getting closer to piloting your computer",
+            "link": "https://venturebeat.com/ai/chatgpt-adds-more-pc-and-mac-app-integrations-getting-closer-to-piloting-your-computer/",
+            "description": "ChatGPT can now support more coding platforms and applications on its desktop apps, opening the door for more agentic use in the future.",
+            "pubDate": "2024-12-19T21:59:34",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/08/nuneybits_Vector_art_of_a_laptop_with_ChatGPT_open_optimistic_c88ce6c4-d41e-431e-b781-28ba7aa4db1c.webp?w=578"
+        },
+        {
+            "title": "Google unveils new reasoning model Gemini 2.0 Flash Thinking to rival OpenAI o1",
+            "link": "https://venturebeat.com/ai/google-unveils-new-reasoning-model-gemini-2-0-flash-thinking-to-rival-openai-o1/",
+            "description": "Unlike competitor reasoning model o1 from OpenAI, Gemini 2.0 enables users to access its step-by-step reasoning through a dropdown menu.",
+            "pubDate": "2024-12-19T18:04:34",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?w=578"
+        },
+        {
+            "title": "Stable Diffusion 3.5 hits Amazon Bedrock: What it means for enterprise AI workflows",
+            "link": "https://venturebeat.com/ai/stable-diffusion-3-5-hits-amazon-bedrock-what-it-means-for-enterprise-ai-workflows/",
+            "description": "Stability AI CEO drives enterprise AI focus home as the flagship Stable Diffusion models land on Amazon Bedrock.",
+            "pubDate": "2024-12-19T18:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/stable-diffusion-inbedrock-smk.jpg?w=578"
+        },
+        {
+            "title": "Small model, big impact: Patronus AI’s Glider outperforms GPT-4 in key AI evaluation tasks",
             "link": "https://venturebeat.com/ai/small-model-big-impact-patronus-ai-glider-outperforms-gpt-4-in-key-ai-benchmarks/",
             "description": "Patronus AI launches Glider, a breakthrough 3.8B-parameter language model that rivals GPT-4's evaluation capabilities while running on-device, offerin...",
             "pubDate": "2024-12-19T14:00:00",
@@ -17,27 +38,6 @@
             "description": "Alphabet spinout SandboxAQ is advancing large quantitative models to help enterprise AI optimize value creation.",
             "pubDate": "2024-12-19T00:42:53",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/11/enterprise-user-getting-value-from-AI-smk.jpg?w=578"
-        },
-        {
-            "title": "OpenAI’s new hotline: Chat with ChatGPT anytime, anywhere",
-            "link": "https://venturebeat.com/ai/openais-new-hotline-chat-with-chatgpt-anytime-anywhere/",
-            "description": "Users can now give ChatGPT a ring and ask questions. (800)-ChatGPT accepts any device that can make calls, even for those without a data plan",
-            "pubDate": "2024-12-18T21:35:01",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?w=578"
-        },
-        {
-            "title": "Slack is becoming an AI workplace: Here’s what that means for your job",
-            "link": "https://venturebeat.com/ai/slack-is-becoming-an-ai-workplace-heres-what-that-means-for-your-job/",
-            "description": "Slack is evolving from a simple messaging app into an AI-powered workplace platform where digital agents work alongside humans.",
-            "pubDate": "2024-12-18T21:14:31",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_Slack_instant_messenger_chat_workplac_97edea4b-1e6e-442f-865f-e21944c9cbdb.webp?w=578"
-        },
-        {
-            "title": "GitHub is making its AI programming Copilot free for VS Code developers — with limits",
-            "link": "https://venturebeat.com/programming-development/github-is-making-its-ai-programming-copilot-free-for-vs-code-developers-with-limits/",
-            "description": "The service leverages advanced AI models, including Anthropic’s Claude 3.5 Sonnet and OpenAI’s GPT-4o, with limits.",
-            "pubDate": "2024-12-18T20:58:30",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?w=578"
         }
     ]
 }
