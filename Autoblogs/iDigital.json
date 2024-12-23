@@ -2,140 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-23T06:12:16.894648",
+    "lastBuildDate": "2024-12-23T11:09:40.537801",
     "items": [
         {
-            "title": "New research analyzes safety of Waymo robotaxis",
-            "link": "https://www.therobotreport.com/new-research-analyzes-safety-of-waymo-robotaxis/",
-            "description": "Waymo shared research with Swiss Re, one of the world's largest insurance providers, analyzing liability claims related to collisions from 25.3 millio...",
-            "pubDate": "2024-12-20T16:25:11",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/waymo-featured.jpg"
-        },
-        {
-            "title": "‘I’ve always been very good with money’: Should I put my wife on the title of our family home, investment property and my late father’s house?",
-            "link": "https://www.marketwatch.com/story/ive-always-been-very-good-with-money-should-i-put-my-wife-on-the-title-of-our-family-home-investment-property-and-my-late-fathers-house-55632dbb?mod=mw_rss_topstories",
-            "description": "“If I die and she sells the properties, would she have to pay a lot of capital-gains taxes, especially on the houses we don’t live in?”",
-            "pubDate": "2024-12-23T10:18:00",
-            "image_url": "https://images.mktw.net/im-07620756"
-        },
-        {
-            "title": "Pairing live support with accurate AI outputs",
-            "link": "https://www.technologyreview.com/2024/12/20/1109201/pairing-live-support-with-accurate-ai-outputs/",
-            "description": "A live agent spends hours each week manually documenting routine interactions. Another combs through multiple knowledge bases to find the right soluti...",
-            "pubDate": "2024-12-20T19:55:40",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MIT_TP_GENAI_V11_CoverFront.png?w=1555"
-        },
-        {
-            "title": "Arm lawsuit against Qualcomm ends in mistrial and favorable ruling for Qualcomm",
-            "link": "https://venturebeat.com/ai/arm-lawsuit-against-qualcomm-ends-in-mistrial-and-favorable-ruling-for-qualcomm/",
-            "description": "Qualcomm did not violate a license with Arm when it acquired Nuvia for $1.4 billion, in a ruling by a jury today.",
-            "pubDate": "2024-12-21T00:17:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/arm.jpg?w=578"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "Puzzle Corner September/October 2024 bonus solutions",
-            "link": "https://www.technologyreview.com/2024/12/20/1108101/puzzle-corner-september-october-2024-bonus-solutions/",
-            "description": "Here are solutions for the three bonus problems that appeared in the September/October 2024 Puzzle Corner column we guest edited. Solutions for S/O2, ...",
-            "pubDate": "2024-12-20T15:35:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Matternet adds ANRA’s UTM tech to expand drone delivery",
-            "link": "https://www.therobotreport.com/matternet-adds-anras-utm-tech-to-expand-drone-delivery/",
-            "description": "This latest partnership follows Matternet’s recent launch of a drone delivery operation in Silicon Valley. The post Matternet adds ANRA’s UTM tech to ...",
-            "pubDate": "2024-12-21T15:00:13",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/11/matternet-featured.jpg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "How Waste Robotics, Greyparrot are enhancing sorting robots",
-            "link": "https://www.therobotreport.com/how-waste-robotics-and-greyparrot-enable-more-effective-sorting-robots/",
-            "description": "Waste Robotics and Greyparrot have released a joint system, the Robot Validator, to ensure customers are getting the most from automation. The post Ho...",
-            "pubDate": "2024-12-22T13:00:54",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/waste-robotics-featured.jpg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "Unintended consequences: U.S. election results herald reckless AI development",
-            "link": "https://venturebeat.com/ai/unintended-consequences-u-s-election-results-herald-reckless-ai-development/",
-            "description": "AI accelerationists have won as a consequence of the election, potentially sidelining those advocating for a more cautious approach.",
-            "pubDate": "2024-12-22T20:05:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/Cover-image.webp?w=578"
-        },
-        {
-            "title": "Hugging Face shows how test-time scaling helps small language models punch above their weight",
-            "link": "https://venturebeat.com/ai/hugging-face-shows-how-test-time-scaling-helps-small-language-models-punch-above-their-weight/",
-            "description": "Given enough time to \"think,\" small language models can beat LLMs at math and coding tasks by generating and verifying multiple answers.",
-            "pubDate": "2024-12-20T20:46:10",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/tiny-robot.webp?w=578"
-        },
-        {
-            "title": "From AI to humanoids: top robotics trends of 2024",
-            "link": "https://www.therobotreport.com/from-ai-to-humanoids-top-robotics-trends-of-2024/",
-            "description": "The Robot Report Podcast reflects on the successes and challenges that defined the robotics industry in 2024. The post From AI to humanoids: top robot...",
-            "pubDate": "2024-12-20T14:52:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Large language overkill: How SLMs can beat their bigger, resource-intensive cousins",
-            "link": "https://venturebeat.com/ai/large-language-overkill-how-slms-can-beat-their-bigger-resource-intensive-cousins/",
-            "description": "Whether a company begins with a proof-of-concept or live deployment, they should start small, test often and build on early successes.",
-            "pubDate": "2024-12-21T20:25:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-vector-art-illustration-of-a-small-fle_uqOt6VuuSSyz0U6nwUHI8g_sSK28McNSIee3H6LfJRqZA-transformed.jpeg?w=578"
-        },
-        {
-            "title": "Perplexity’s Carbon integration will make it easier for enterprises to connect their data to AI search",
-            "link": "https://venturebeat.com/ai/perplexitys-carbon-integration-will-make-it-easier-for-enterprises-to-connect-their-data-to-ai-search/",
-            "description": "With the acquisition of Carbon, Perplexity will expand the knowledge pool powering its AI search engine, making its responses more relevant.",
-            "pubDate": "2024-12-20T20:10:13",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/05/a-robot-with-perplexity-written-on-its-torso-writi-2zEVq32AQdS313p_LPegMg-P4QVESWwSYKx383_3HyEAA.jpeg?w=578"
-        },
-        {
-            "title": "‘I just like to have the lights up’: Nicole Kidman admits to big holiday decor no-no",
-            "link": "https://www.marketwatch.com/story/i-just-like-to-have-the-lights-up-nicole-kidman-admits-to-big-holiday-decor-no-no-b5204dba?mod=mw_rss_topstories",
-            "description": "Kidman confessed to her divisive habit, and has actually “apologized to all the neighbors” for her over-the-top decor.",
-            "pubDate": "2024-12-23T09:59:00",
-            "image_url": "https://images.mktw.net/im-25460970"
-        },
-        {
-            "title": "Helm.ai upgrades generative AI model to enrich autonomous driving data",
-            "link": "https://www.therobotreport.com/helm-ai-upgrades-generative-ai-model-to-enrich-autonomous-driving-data/",
-            "description": "Helm.ai said the new model enables automakers to generate diverse, realistic video data tailored to specific requirements. The post Helm.ai upgrades g...",
-            "pubDate": "2024-12-20T18:08:56",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/helmai-featured.jpg"
-        },
-        {
-            "title": "Enabling human-centric support with generative AI",
-            "link": "https://www.technologyreview.com/2024/12/20/1109239/enabling-human-centric-support-with-generative-ai/",
-            "description": "It’s a stormy holiday weekend, and you’ve just received the last notification you want in the busiest travel week of the year: The first leg of your f...",
-            "pubDate": "2024-12-20T19:54:23",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/Cover-MITTRI_TP_Enabling-human-centric-2023_final_121924.png?w=1556"
+            "title": "Two-year U.S. manufacturing slump shows little sign of ending",
+            "link": "https://www.marketwatch.com/story/two-year-slump-among-u-s-manufacturers-shows-little-sign-of-ending-387321d8?mod=mw_rss_topstories",
+            "description": "Durable-goods orders fall for third time in four months. Report comes out a day early following Christmas Eve executive order by Biden.",
+            "pubDate": "2024-12-23T14:56:00",
+            "image_url": "https://images.mktw.net/im-25570137"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -145,18 +19,130 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Foreign brands are back in China. But the economy has cooled and domestic competition is dug-in.",
-            "link": "https://www.marketwatch.com/story/foreign-brands-are-back-in-china-theyre-confronting-a-cooled-economy-and-dug-in-domestic-competition-59c12c82?mod=mw_rss_topstories",
-            "description": "Experts told MarketWatch the key to connecting with Chinese customers is being willing to depart from home-market strategies and embracing local taste...",
-            "pubDate": "2024-12-23T10:50:00",
-            "image_url": "https://images.mktw.net/im-773845"
+            "title": "Arm lawsuit against Qualcomm ends in mistrial and favorable ruling for Qualcomm",
+            "link": "https://venturebeat.com/ai/arm-lawsuit-against-qualcomm-ends-in-mistrial-and-favorable-ruling-for-qualcomm/",
+            "description": "Qualcomm did not violate a license with Arm when it acquired Nuvia for $1.4 billion, in a ruling by a jury today.",
+            "pubDate": "2024-12-21T00:17:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/arm.jpg?w=578"
+        },
+        {
+            "title": "Consumer confidence dented by stock-market worries and threat of Trump tariffs",
+            "link": "https://www.marketwatch.com/story/consumer-confidence-dented-by-stock-market-worries-and-threat-of-trump-tariffs-85a0287d?mod=mw_rss_topstories",
+            "description": "Consumer confidence index falls to 3-month low",
+            "pubDate": "2024-12-23T15:49:00",
+            "image_url": "https://images.mktw.net/im-92250442"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Is the stock market open on Christmas? Does the post office deliver mail?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-christmas-does-the-post-office-deliver-mail-6ec76f87?mod=mw_rss_topstories",
+            "description": "It’s the height of the holiday season, so expect schedule changes.",
+            "pubDate": "2024-12-23T15:36:00",
+            "image_url": "https://images.mktw.net/im-76809573"
+        },
+        {
+            "title": "How Waste Robotics, Greyparrot are enhancing sorting robots",
+            "link": "https://www.therobotreport.com/how-waste-robotics-and-greyparrot-enable-more-effective-sorting-robots/",
+            "description": "Waste Robotics and Greyparrot have released a joint system, the Robot Validator, to ensure customers are getting the most from automation. The post Ho...",
+            "pubDate": "2024-12-22T13:00:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/waste-robotics-featured.jpg"
+        },
+        {
+            "title": "New research analyzes safety of Waymo robotaxis",
+            "link": "https://www.therobotreport.com/new-research-analyzes-safety-of-waymo-robotaxis/",
+            "description": "Waymo shared research with Swiss Re, one of the world's largest insurance providers, analyzing liability claims related to collisions from 25.3 millio...",
+            "pubDate": "2024-12-20T16:25:11",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/waymo-featured.jpg"
+        },
+        {
+            "title": "Pairing live support with accurate AI outputs",
+            "link": "https://www.technologyreview.com/2024/12/20/1109201/pairing-live-support-with-accurate-ai-outputs/",
+            "description": "A live agent spends hours each week manually documenting routine interactions. Another combs through multiple knowledge bases to find the right soluti...",
+            "pubDate": "2024-12-20T19:55:40",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MIT_TP_GENAI_V11_CoverFront.png?w=1555"
+        },
+        {
+            "title": "Large language overkill: How SLMs can beat their bigger, resource-intensive cousins",
+            "link": "https://venturebeat.com/ai/large-language-overkill-how-slms-can-beat-their-bigger-resource-intensive-cousins/",
+            "description": "Whether a company begins with a proof-of-concept or live deployment, they should start small, test often and build on early successes.",
+            "pubDate": "2024-12-21T20:25:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-vector-art-illustration-of-a-small-fle_uqOt6VuuSSyz0U6nwUHI8g_sSK28McNSIee3H6LfJRqZA-transformed.jpeg?w=578"
+        },
+        {
+            "title": "Unintended consequences: U.S. election results herald reckless AI development",
+            "link": "https://venturebeat.com/ai/unintended-consequences-u-s-election-results-herald-reckless-ai-development/",
+            "description": "AI accelerationists have won as a consequence of the election, potentially sidelining those advocating for a more cautious approach.",
+            "pubDate": "2024-12-22T20:05:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/Cover-image.webp?w=578"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Puzzle Corner",
             "link": "https://www.technologyreview.com/2024/12/20/1109125/puzzle-corner-69/",
             "description": "Ready for a fresh set of puzzles? Click here for the January/February Puzzle Corner, brought to you with a special Mystery Hunt twist by guest editor ...",
             "pubDate": "2024-12-20T15:40:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "From AI to humanoids: top robotics trends of 2024",
+            "link": "https://www.therobotreport.com/from-ai-to-humanoids-top-robotics-trends-of-2024/",
+            "description": "The Robot Report Podcast reflects on the successes and challenges that defined the robotics industry in 2024. The post From AI to humanoids: top robot...",
+            "pubDate": "2024-12-20T14:52:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Matternet adds ANRA’s UTM tech to expand drone delivery",
+            "link": "https://www.therobotreport.com/matternet-adds-anras-utm-tech-to-expand-drone-delivery/",
+            "description": "This latest partnership follows Matternet’s recent launch of a drone delivery operation in Silicon Valley. The post Matternet adds ANRA’s UTM tech to ...",
+            "pubDate": "2024-12-21T15:00:13",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/11/matternet-featured.jpg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Nordstrom to go private after doing the math on facing bigger rivals",
+            "link": "https://www.marketwatch.com/story/nordstrom-to-go-private-after-doing-the-math-on-facing-bigger-rivals-07584390?mod=mw_rss_topstories",
+            "description": "Retailer has been publicly traded since 1971 but said it sees better growth prospects ahead as a private business.",
+            "pubDate": "2024-12-23T14:49:00",
+            "image_url": "https://images.mktw.net/im-81905050"
+        },
+        {
+            "title": "The 4 biggest AI stories from 2024 and one key prediction for 2025",
+            "link": "https://venturebeat.com/ai/the-4-biggest-ai-stories-from-2024-and-one-key-prediction-for-2025/",
+            "description": "By all measures, 2024 was the biggest year for artificial intelligence yet — at least when it comes to the commercialization.",
+            "pubDate": "2024-12-23T15:10:03",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/2025-robot.png?w=578"
+        },
+        {
+            "title": "The Download: trustworthy humanoid robots, and Anduril’s latest project",
+            "link": "https://www.technologyreview.com/2024/12/23/1109358/the-download-trustworthy-humanoid-robots-and-andurils-latest-project/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will we ever...",
+            "pubDate": "2024-12-23T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLH8wVXbKmLt3DaxuKjT_JVzOXSlyE8z2BjQYzUfjQRnzqlRQVovGzt-jjbdCTcM8O0VKEAuUEjPzrA1G8Df595TsVtrrm6fa5V9pO8ID6ZDeJFT8nafbKPAVvNMulVMes9a5eTw?key=Uouxkbh830bFX3eDZjD3HMlt"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Will we ever trust robots?",
@@ -166,18 +152,32 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/waiter.jpg?w=2114"
         },
         {
-            "title": "The latest victim in a string of break-ins at athletes’ mansions: Boston Celtics star Jaylen Brown",
-            "link": "https://www.marketwatch.com/story/the-latest-victim-in-a-string-of-break-ins-at-athletes-mansions-boston-celtics-star-jaylen-brown-fe6f7327?mod=mw_rss_topstories",
-            "description": "Jaylen Brown has become the latest athlete to be targeted in a string of robberies that have taken place at the homes of high-profile sports stars.",
-            "pubDate": "2024-12-23T10:01:00",
-            "image_url": "https://images.mktw.net/im-51979794"
+            "title": "Helm.ai upgrades generative AI model to enrich autonomous driving data",
+            "link": "https://www.therobotreport.com/helm-ai-upgrades-generative-ai-model-to-enrich-autonomous-driving-data/",
+            "description": "Helm.ai said the new model enables automakers to generate diverse, realistic video data tailored to specific requirements. The post Helm.ai upgrades g...",
+            "pubDate": "2024-12-20T18:08:56",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/helmai-featured.jpg"
         },
         {
-            "title": "Wall Street’s ‘Santa Claus rally’ window is about to open with the Dow down in December",
-            "link": "https://www.marketwatch.com/story/wall-streets-santa-claus-rally-window-is-about-to-open-with-the-dow-down-in-december-420264a3?mod=mw_rss_topstories",
-            "description": "Stocks have struggled ahead of the holidays despite Friday’s rally.",
-            "pubDate": "2024-12-23T09:03:00",
-            "image_url": "https://images.mktw.net/im-37061296"
+            "title": "The code whisperer: How Anthropic’s Claude is changing the game for software developers",
+            "link": "https://venturebeat.com/ai/the-code-whisperer-how-anthropics-claude-is-changing-the-game-for-software-developers/",
+            "description": "The software development world is experiencing its biggest transformation since the advent of open-source coding. Artificial intelligence assistants, ...",
+            "pubDate": "2024-12-23T15:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_retro_computer_a_white_sunburst_on_a__3c5d6417-c7d2-455b-acc5-b7b8d8356fbc.webp?w=578"
+        },
+        {
+            "title": "Enabling human-centric support with generative AI",
+            "link": "https://www.technologyreview.com/2024/12/20/1109239/enabling-human-centric-support-with-generative-ai/",
+            "description": "It’s a stormy holiday weekend, and you’ve just received the last notification you want in the busiest travel week of the year: The first leg of your f...",
+            "pubDate": "2024-12-20T19:54:23",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/Cover-MITTRI_TP_Enabling-human-centric-2023_final_121924.png?w=1556"
+        },
+        {
+            "title": "10-year Treasury yield edges up to kick off holiday-shortened week",
+            "link": "https://www.marketwatch.com/story/10-year-treasury-yield-near-7-month-high-to-kick-off-holiday-shortened-week-37289f4b?mod=mw_rss_topstories",
+            "description": "Treasury yields edged higher on Monday, with the key 10-year rate hovering above 4.5%, after data showed U.S. consumer confidence pulled back in Decem...",
+            "pubDate": "2024-12-23T15:42:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

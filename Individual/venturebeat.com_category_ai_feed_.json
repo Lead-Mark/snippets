@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2024-12-23T06:12:16.899246",
+    "lastBuildDate": "2024-12-23T11:09:40.541001",
     "items": [
+        {
+            "title": "The 4 biggest AI stories from 2024 and one key prediction for 2025",
+            "link": "https://venturebeat.com/ai/the-4-biggest-ai-stories-from-2024-and-one-key-prediction-for-2025/",
+            "description": "By all measures, 2024 was the biggest year for artificial intelligence yet — at least when it comes to the commercialization.",
+            "pubDate": "2024-12-23T15:10:03",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/2025-robot.png?w=578"
+        },
+        {
+            "title": "The code whisperer: How Anthropic’s Claude is changing the game for software developers",
+            "link": "https://venturebeat.com/ai/the-code-whisperer-how-anthropics-claude-is-changing-the-game-for-software-developers/",
+            "description": "The software development world is experiencing its biggest transformation since the advent of open-source coding. Artificial intelligence assistants, ...",
+            "pubDate": "2024-12-23T15:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_retro_computer_a_white_sunburst_on_a__3c5d6417-c7d2-455b-acc5-b7b8d8356fbc.webp?w=578"
+        },
         {
             "title": "Unintended consequences: U.S. election results herald reckless AI development",
             "link": "https://venturebeat.com/ai/unintended-consequences-u-s-election-results-herald-reckless-ai-development/",
@@ -24,20 +38,6 @@
             "description": "Qualcomm did not violate a license with Arm when it acquired Nuvia for $1.4 billion, in a ruling by a jury today.",
             "pubDate": "2024-12-21T00:17:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/arm.jpg?w=578"
-        },
-        {
-            "title": "Hugging Face shows how test-time scaling helps small language models punch above their weight",
-            "link": "https://venturebeat.com/ai/hugging-face-shows-how-test-time-scaling-helps-small-language-models-punch-above-their-weight/",
-            "description": "Given enough time to \"think,\" small language models can beat LLMs at math and coding tasks by generating and verifying multiple answers.",
-            "pubDate": "2024-12-20T20:46:10",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/tiny-robot.webp?w=578"
-        },
-        {
-            "title": "Perplexity’s Carbon integration will make it easier for enterprises to connect their data to AI search",
-            "link": "https://venturebeat.com/ai/perplexitys-carbon-integration-will-make-it-easier-for-enterprises-to-connect-their-data-to-ai-search/",
-            "description": "With the acquisition of Carbon, Perplexity will expand the knowledge pool powering its AI search engine, making its responses more relevant.",
-            "pubDate": "2024-12-20T20:10:13",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/05/a-robot-with-perplexity-written-on-its-torso-writi-2zEVq32AQdS313p_LPegMg-P4QVESWwSYKx383_3HyEAA.jpeg?w=578"
         }
     ]
 }
