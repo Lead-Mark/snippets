@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2024-12-23T11:09:40.541001",
+    "lastBuildDate": "2024-12-24T04:32:35.429865",
     "items": [
+        {
+            "title": "Learn how GE Healthcare used AWS to build a new AI model that interprets MRIs",
+            "link": "https://venturebeat.com/ai/learn-how-ge-healthcare-used-aws-to-build-a-new-ai-model-that-interprets-mris/",
+            "description": "Here's how GE Healthcare overcame challenges of 2D and created the industry’s first full-body 3D MRI research foundation model.",
+            "pubDate": "2024-12-23T21:54:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-cartoonish-ai-robot-with-a-lab-coat-an_JCnRymIrTqmbCYvf5fs81A_uhWgRUHcQG2GZLi9LlOivQ-transformed.jpeg?w=578"
+        },
         {
             "title": "The 4 biggest AI stories from 2024 and one key prediction for 2025",
             "link": "https://venturebeat.com/ai/the-4-biggest-ai-stories-from-2024-and-one-key-prediction-for-2025/",
@@ -14,12 +21,12 @@
         {
             "title": "The code whisperer: How Anthropic’s Claude is changing the game for software developers",
             "link": "https://venturebeat.com/ai/the-code-whisperer-how-anthropics-claude-is-changing-the-game-for-software-developers/",
-            "description": "The software development world is experiencing its biggest transformation since the advent of open-source coding. Artificial intelligence assistants, ...",
+            "description": "Artificial intelligence assistants like Anthropic's Claude, once viewed with skepticism, have become indispensable software development tools.",
             "pubDate": "2024-12-23T15:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_retro_computer_a_white_sunburst_on_a__3c5d6417-c7d2-455b-acc5-b7b8d8356fbc.webp?w=578"
         },
         {
-            "title": "Unintended consequences: U.S. election results herald reckless AI development",
+            "title": "Unintended consequences: U.S. election results could vastly accelerate AI development",
             "link": "https://venturebeat.com/ai/unintended-consequences-u-s-election-results-herald-reckless-ai-development/",
             "description": "AI accelerationists have won as a consequence of the election, potentially sidelining those advocating for a more cautious approach.",
             "pubDate": "2024-12-22T20:05:00",
@@ -31,13 +38,6 @@
             "description": "Whether a company begins with a proof-of-concept or live deployment, they should start small, test often and build on early successes.",
             "pubDate": "2024-12-21T20:25:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-vector-art-illustration-of-a-small-fle_uqOt6VuuSSyz0U6nwUHI8g_sSK28McNSIee3H6LfJRqZA-transformed.jpeg?w=578"
-        },
-        {
-            "title": "Arm lawsuit against Qualcomm ends in mistrial and favorable ruling for Qualcomm",
-            "link": "https://venturebeat.com/ai/arm-lawsuit-against-qualcomm-ends-in-mistrial-and-favorable-ruling-for-qualcomm/",
-            "description": "Qualcomm did not violate a license with Arm when it acquired Nuvia for $1.4 billion, in a ruling by a jury today.",
-            "pubDate": "2024-12-21T00:17:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/arm.jpg?w=578"
         }
     ]
 }
