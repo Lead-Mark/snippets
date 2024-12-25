@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2024-12-24T04:32:35.429865",
+    "lastBuildDate": "2024-12-25T04:27:05.251486",
     "items": [
+        {
+            "title": "OpenAI’s o3 shows remarkable progress on ARC-AGI, sparking debate on AI reasoning",
+            "link": "https://venturebeat.com/ai/openais-o3-shows-remarkable-progress-on-arc-agi-sparking-debate-on-ai-reasoning/",
+            "description": "o3 solved one of the most difficult AI challenges, scoring 75.7% on the ARC-AGI benchmark. But does it really mean we're closer to AGI?",
+            "pubDate": "2024-12-24T19:40:51",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-12-18.17.05-Create-an-abstract-depiction-of-artificial-general-intelligence-AGI-in-a-16_9-format.-The-image-should-feature-a-dynamic-and-complex-array-of-interc-1.png?w=578"
+        },
         {
             "title": "Learn how GE Healthcare used AWS to build a new AI model that interprets MRIs",
             "link": "https://venturebeat.com/ai/learn-how-ge-healthcare-used-aws-to-build-a-new-ai-model-that-interprets-mris/",
@@ -31,13 +38,6 @@
             "description": "AI accelerationists have won as a consequence of the election, potentially sidelining those advocating for a more cautious approach.",
             "pubDate": "2024-12-22T20:05:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/Cover-image.webp?w=578"
-        },
-        {
-            "title": "Large language overkill: How SLMs can beat their bigger, resource-intensive cousins",
-            "link": "https://venturebeat.com/ai/large-language-overkill-how-slms-can-beat-their-bigger-resource-intensive-cousins/",
-            "description": "Whether a company begins with a proof-of-concept or live deployment, they should start small, test often and build on early successes.",
-            "pubDate": "2024-12-21T20:25:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-vector-art-illustration-of-a-small-fle_uqOt6VuuSSyz0U6nwUHI8g_sSK28McNSIee3H6LfJRqZA-transformed.jpeg?w=578"
         }
     ]
 }

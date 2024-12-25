@@ -2,8 +2,22 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-24T04:31:34.580380",
+    "lastBuildDate": "2024-12-25T04:26:01.047256",
     "items": [
+        {
+            "title": "Easy Winter Fruit Salad (1 Bowl!)",
+            "link": "https://minimalistbaker.com/easy-winter-fruit-salad/",
+            "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
+            "pubDate": "2024-12-17T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
+        },
+        {
+            "title": "Chocolate Pecan Shortbread Cookies (Vegan + GF)",
+            "link": "https://minimalistbaker.com/chocolate-pecan-shortbread-cookies-vegan-gf/",
+            "description": "Say hello to crispy , buttery shortbread cookies studded with pecans and dark chocolate ( swoon !). These cookies are our vegan and gluten-free twist ...",
+            "pubDate": "2024-12-03T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/03/Vegan-Gluten-Free-Chocolate-Pecan-Shortbread-Cookies-12-680x1020.jpg"
+        },
         {
             "title": "Jalapeño Popper Casserole",
             "link": "https://therecipecritic.com/jalapeno-popper-casserole/",
@@ -12,11 +26,25 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/jalapeno-popper-casserole-.jpg"
         },
         {
-            "title": "Homemade Caramels",
-            "link": "https://therecipecritic.com/homemade-caramels/",
-            "description": "Homemade caramels are perfectly buttery and soft with just the right amount of sweetness. They are easy to make and make great…",
-            "pubDate": "2024-12-22T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2019/11/IMG_4729.jpeg"
+            "title": "Loaded Scalloped Potatoes",
+            "link": "https://therecipecritic.com/loaded-scalloped-potatoes/",
+            "description": "Loaded scalloped potatoes are rich, creamy, and “loaded” with flavor! This recipe combines tender potatoes baked to perfection in a…",
+            "pubDate": "2024-12-23T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/loaded-scalloped-potatoes-.jpg"
+        },
+        {
+            "title": "Eggnog Milkshake",
+            "link": "https://therecipecritic.com/eggnog-milkshake/",
+            "description": "This creamy Eggnog Milkshake is decadent and super flavorful. It takes four simple ingredients and 5 minutes of your time.…",
+            "pubDate": "2024-12-23T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/eggnog-milkshakes-.jpg"
+        },
+        {
+            "title": "Chicken Bacon Ranch Stromboli",
+            "link": "https://therecipecritic.com/chicken-bacon-ranch-stromboli/",
+            "description": "This Chicken Bacon Ranch Stromboli combines the tasty trio of tender chicken, crispy bacon, and creamy ranch dressing, all wrapped…",
+            "pubDate": "2024-12-22T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/bacon-ranch-stromboli-2.jpg"
         },
         {
             "title": "Chocolate Tahini Caramels (No Candy Thermometer!)",
@@ -33,39 +61,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/07/Garlic-and-Herb-Breaded-Delicata-Squash-15-Minimalist-Baker-063023-680x1020.jpg"
         },
         {
-            "title": "Easy Winter Fruit Salad (1 Bowl!)",
-            "link": "https://minimalistbaker.com/easy-winter-fruit-salad/",
-            "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
-            "pubDate": "2024-12-17T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
-        },
-        {
-            "title": "Chicken Bacon Ranch Stromboli",
-            "link": "https://therecipecritic.com/chicken-bacon-ranch-stromboli/",
-            "description": "This Chicken Bacon Ranch Stromboli combines the tasty trio of tender chicken, crispy bacon, and creamy ranch dressing, all wrapped…",
-            "pubDate": "2024-12-22T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/bacon-ranch-stromboli-2.jpg"
-        },
-        {
-            "title": "Eggnog Milkshake",
-            "link": "https://therecipecritic.com/eggnog-milkshake/",
-            "description": "This creamy Eggnog Milkshake is decadent and super flavorful. It takes four simple ingredients and 5 minutes of your time.…",
-            "pubDate": "2024-12-23T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/eggnog-milkshakes-.jpg"
-        },
-        {
-            "title": "Loaded Scalloped Potatoes",
-            "link": "https://therecipecritic.com/loaded-scalloped-potatoes/",
-            "description": "Loaded scalloped potatoes are rich, creamy, and “loaded” with flavor! This recipe combines tender potatoes baked to perfection in a…",
-            "pubDate": "2024-12-23T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/loaded-scalloped-potatoes-.jpg"
-        },
-        {
-            "title": "Chocolate Pecan Shortbread Cookies (Vegan + GF)",
-            "link": "https://minimalistbaker.com/chocolate-pecan-shortbread-cookies-vegan-gf/",
-            "description": "Say hello to crispy , buttery shortbread cookies studded with pecans and dark chocolate ( swoon !). These cookies are our vegan and gluten-free twist ...",
-            "pubDate": "2024-12-03T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/03/Vegan-Gluten-Free-Chocolate-Pecan-Shortbread-Cookies-12-680x1020.jpg"
+            "title": "Breakfast Stromboli",
+            "link": "https://therecipecritic.com/breakfast-stromboli/",
+            "description": "This Breakfast Stromboli is the best morning treat! It’s packed with fluffy eggs, savory sausage, crispy bacon, and melty cheese,…",
+            "pubDate": "2024-12-24T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/breakfast-stromboli.jpg"
         }
     ]
 }
