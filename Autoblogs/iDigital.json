@@ -2,8 +2,29 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-26T14:20:09.534621",
+    "lastBuildDate": "2024-12-27T02:46:48.799666",
     "items": [
+        {
+            "title": "Invio Automation launches automation assessment service",
+            "link": "https://www.therobotreport.com/invio-automation-launches-automation-assessment-service/",
+            "description": "Invio Automation's RAA service is a lean and faster-moving engineering effort focusing on diagnosing a factory’s automation readiness. The post Invio ...",
+            "pubDate": "2024-12-24T13:00:03",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/invio-featured.jpg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Revisiting a year of Roundtables, MIT Technology Review’s subscriber-only events",
+            "link": "https://www.technologyreview.com/2024/12/25/1109371/revisiting-a-year-of-roundtables-mit-technology-reviews-subscriber-only-events/",
+            "description": "The worst technologies of 2024. The future of mixed reality. AI’s impact on the climate. These are just a few of the topics we covered this year in MI...",
+            "pubDate": "2024-12-25T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
@@ -19,27 +40,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/parvalux-img01-sm.png"
         },
         {
-            "title": "Here are MIT Technology Review’s best-performing stories of 2024",
-            "link": "https://www.technologyreview.com/2024/12/24/1109365/here-are-mit-technology-reviews-best-performing-stories-of-2024/",
-            "description": "Another year is coming to a close, so let’s look back at the MIT Technology Review stories that resonated most with you, our readers. We published hun...",
-            "pubDate": "2024-12-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Draganfly completes hospital drone delivery proof-of-concept flights",
-            "link": "https://www.therobotreport.com/draganfly-completes-hospital-drone-delivery-proof-of-concept-flights/",
-            "description": "Draganfly evaluated and mapped potential routes, and completed test flights that included takeoff and landing within hospital infrastructure. The post...",
-            "pubDate": "2024-12-23T17:43:46",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Draganfly-featured.jpg"
-        },
-        {
-            "title": "Invio Automation launches automation assessment service",
-            "link": "https://www.therobotreport.com/invio-automation-launches-automation-assessment-service/",
-            "description": "Invio Automation's RAA service is a lean and faster-moving engineering effort focusing on diagnosing a factory’s automation readiness. The post Invio ...",
-            "pubDate": "2024-12-24T13:00:03",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/invio-featured.jpg"
-        },
-        {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
             "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
@@ -47,102 +47,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         },
         {
-            "title": "‘Santa Claus rally’ begins — but will the stock market avoid a ‘Grinch pinch’?",
-            "link": "https://www.marketwatch.com/story/santa-claus-rally-begins-but-will-the-stock-market-avoid-a-grinch-pinch-b00cd0bb?mod=mw_rss_topstories",
-            "description": "Remember: ‘If Santa Claus should fail to call, bears may come to Broad and Wall.’",
-            "pubDate": "2024-12-26T18:53:00",
-            "image_url": "https://images.mktw.net/im-422197"
-        },
-        {
-            "title": "DeepSeek-V3, ultra-large open-source AI, outperforms Llama and Qwen on launch",
-            "link": "https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/",
-            "description": "The new model shows open-source closing in on closed-source models, suggesting reduced chances of one big AI player ruling the game.",
-            "pubDate": "2024-12-26T18:46:47",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/11/cfr0z3n_vector_art_line_art_flat_illustration_graphic_novel_spl_5e4ba6f6-8ff9-4899-a927-5e1aba8fb9e0.png?w=578"
-        },
-        {
-            "title": "Massimo Motor adds mobile robots to production line for UTVs",
-            "link": "https://www.therobotreport.com/massimo-motor-adds-mobile-robots-to-production-line-for-utvs/",
-            "description": "Massimo Motor expects automated guided robots to increase efficiency in its production of cold weather-capable utility task vehicles. The post Massimo...",
-            "pubDate": "2024-12-26T16:57:47",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Massimo_Motor_New_Production_Facility.jpg"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Learn how GE Healthcare used AWS to build a new AI model that interprets MRIs",
-            "link": "https://venturebeat.com/ai/learn-how-ge-healthcare-used-aws-to-build-a-new-ai-model-that-interprets-mris/",
-            "description": "Here's how GE Healthcare overcame challenges of 2D and created the industry’s first full-body 3D MRI research foundation model.",
-            "pubDate": "2024-12-23T21:54:53",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-cartoonish-ai-robot-with-a-lab-coat-an_JCnRymIrTqmbCYvf5fs81A_uhWgRUHcQG2GZLi9LlOivQ-transformed.jpeg?w=578"
-        },
-        {
-            "title": "Biden’s gift to Trump: Golden opportunity to supercharge the economy",
-            "link": "https://www.marketwatch.com/story/bidens-gift-to-trump-golden-opportunity-to-supercharge-the-economy-85d34589?mod=mw_rss_topstories",
-            "description": "Dismantling Biden’s industrial policies would greatly harm U.S. economic growth.",
-            "pubDate": "2024-12-26T18:35:00",
-            "image_url": "https://images.mktw.net/im-12663131"
-        },
-        {
             "title": "The humans behind the robots",
             "link": "https://www.technologyreview.com/2024/12/24/1109523/the-humans-behind-the-robots/",
             "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Here’s a que...",
             "pubDate": "2024-12-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "How Waste Robotics, Greyparrot are enhancing sorting robots",
-            "link": "https://www.therobotreport.com/how-waste-robotics-and-greyparrot-enable-more-effective-sorting-robots/",
-            "description": "Waste Robotics and Greyparrot have released a joint system, the Robot Validator, to ensure customers are getting the most from automation. The post Ho...",
-            "pubDate": "2024-12-22T13:00:54",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/waste-robotics-featured.jpg"
-        },
-        {
-            "title": "Mortgage rates jump, finish the year at a five-month high",
-            "link": "https://www.marketwatch.com/story/mortgage-rates-jump-up-finish-the-year-at-a-five-month-high-e9ea7183?mod=mw_rss_topstories",
-            "description": "The 30-year mortgage rate is averaging at 6.85%, Freddie Mac said in its latest weekly survey on Thursday.",
-            "pubDate": "2024-12-26T17:07:00",
-            "image_url": "https://images.mktw.net/im-372733"
-        },
-        {
-            "title": "Here are the big trades that flat-footed ETF investors missed in 2024. What’s next.",
-            "link": "https://www.marketwatch.com/story/here-are-the-big-trades-that-flat-footed-etf-investors-missed-in-2024-whats-next-9ba25790?mod=mw_rss_topstories",
-            "description": "Here’s a look at the big trades ETF investors missed out on in the past year and what that might mean for 2025.",
-            "pubDate": "2024-12-26T17:15:00",
-            "image_url": "https://images.mktw.net/im-337931"
-        },
-        {
-            "title": "These stunning images trace ships’ routes as they move",
-            "link": "https://www.technologyreview.com/2024/12/25/1108508/public-data-ship-movements-data-visualization/",
-            "description": "As we run, drive, bike, and fly, we leave behind telltale marks of our movements on Earth—if you know where to look. Physical tracks, thermal signatur...",
-            "pubDate": "2024-12-25T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/seattle.jpg?w=1800"
-        },
-        {
-            "title": "Revisiting a year of Roundtables, MIT Technology Review’s subscriber-only events",
-            "link": "https://www.technologyreview.com/2024/12/25/1109371/revisiting-a-year-of-roundtables-mit-technology-reviews-subscriber-only-events/",
-            "description": "The worst technologies of 2024. The future of mixed reality. AI’s impact on the climate. These are just a few of the topics we covered this year in MI...",
-            "pubDate": "2024-12-25T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Palantir’s most bullish analyst sees stock falling nearly 10%",
-            "link": "https://www.marketwatch.com/story/palantirs-most-bullish-analyst-sees-stock-falling-nearly-10-a48935d8?mod=mw_rss_topstories",
-            "description": "Based on stock price targets, the most bullish analyst on Palantir’s stock could be considered by some to actually be bearish.",
-            "pubDate": "2024-12-26T17:20:00",
-            "image_url": "https://images.mktw.net/im-95161905"
-        },
-        {
-            "title": "This international surveillance project aims to protect wheat from deadly diseases",
-            "link": "https://www.technologyreview.com/2024/12/26/1108531/international-surveillance-wheat-crop-rust-infections/",
-            "description": "When Dave Hodson walked through wheat fields in Ethiopia in 2010, it seemed as if everything had been painted yellow. A rust fungus was in the process...",
-            "pubDate": "2024-12-26T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "The code whisperer: How Anthropic’s Claude is changing the game for software developers",
@@ -152,11 +61,46 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_retro_computer_a_white_sunburst_on_a__3c5d6417-c7d2-455b-acc5-b7b8d8356fbc.webp?w=578"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Here are MIT Technology Review’s best-performing stories of 2024",
+            "link": "https://www.technologyreview.com/2024/12/24/1109365/here-are-mit-technology-reviews-best-performing-stories-of-2024/",
+            "description": "Another year is coming to a close, so let’s look back at the MIT Technology Review stories that resonated most with you, our readers. We published hun...",
+            "pubDate": "2024-12-24T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Holiday spending rose 3.8%, with apparel and restaurants strong, Mastercard says",
+            "link": "https://www.marketwatch.com/story/holiday-spending-rose-3-8-with-apparel-and-restaurants-strong-mastercard-ddf069c7?mod=mw_rss_topstories",
+            "description": "Holiday spending rose 3.8% from a year ago, topping last year’s growth, as consumers were “willing and able” to spend, if there was a good deal, Maste...",
+            "pubDate": "2024-12-27T00:54:00",
+            "image_url": "https://images.mktw.net/im-29513903"
+        },
+        {
+            "title": "Why 2025 looks like a great year to retire",
+            "link": "https://www.marketwatch.com/story/why-2025-looks-like-a-great-year-to-retire-3656a643?mod=mw_rss_topstories",
+            "description": "The baby-boom generation has landed on its feet — again.",
+            "pubDate": "2024-12-27T03:03:00",
+            "image_url": "https://images.mktw.net/im-43957907"
+        },
+        {
+            "title": "DeepSeek-V3, ultra-large open-source AI, outperforms Llama and Qwen on launch",
+            "link": "https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/",
+            "description": "The new model shows open-source closing in on closed-source models, suggesting reduced chances of one big AI player ruling the game.",
+            "pubDate": "2024-12-26T18:46:47",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/11/cfr0z3n_vector_art_line_art_flat_illustration_graphic_novel_spl_5e4ba6f6-8ff9-4899-a927-5e1aba8fb9e0.png?w=578"
+        },
+        {
+            "title": "Biden’s gift to Trump: Golden opportunity to supercharge the economy",
+            "link": "https://www.marketwatch.com/story/bidens-gift-to-trump-golden-opportunity-to-supercharge-the-economy-85d34589?mod=mw_rss_topstories",
+            "description": "Dismantling Biden’s industrial policies would greatly harm U.S. economic growth.",
+            "pubDate": "2024-12-26T23:36:00",
+            "image_url": "https://images.mktw.net/im-12663131"
+        },
+        {
+            "title": "These stunning images trace ships’ routes as they move",
+            "link": "https://www.technologyreview.com/2024/12/25/1108508/public-data-ship-movements-data-visualization/",
+            "description": "As we run, drive, bike, and fly, we leave behind telltale marks of our movements on Earth—if you know where to look. Physical tracks, thermal signatur...",
+            "pubDate": "2024-12-25T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/seattle.jpg?w=1800"
         },
         {
             "title": "The 4 biggest AI stories from 2024 and one key prediction for 2025",
@@ -166,18 +110,74 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/2025-robot.png?w=578"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
             "title": "OpenAI’s o3 shows remarkable progress on ARC-AGI, sparking debate on AI reasoning",
             "link": "https://venturebeat.com/ai/openais-o3-shows-remarkable-progress-on-arc-agi-sparking-debate-on-ai-reasoning/",
             "description": "o3 solved one of the most difficult AI challenges, scoring 75.7% on the ARC-AGI benchmark. But does it really mean we're closer to AGI?",
             "pubDate": "2024-12-24T19:40:51",
             "image_url": "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-12-18.17.05-Create-an-abstract-depiction-of-artificial-general-intelligence-AGI-in-a-16_9-format.-The-image-should-feature-a-dynamic-and-complex-array-of-interc-1.png?w=578"
+        },
+        {
+            "title": "Navigating the world of manufacturing logistics",
+            "link": "https://www.therobotreport.com/navigating-the-world-of-manufacturing-logistics/",
+            "description": "In this episode, we catch up with FlexQube CEO and founder Anders Fogelberg to learn about automating carts on the manufacturing floor. The post Navig...",
+            "pubDate": "2024-12-26T22:23:35",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/RSE25_RegOpen-3_728x90_Vs1.jpg"
+        },
+        {
+            "title": "Putin follows Trump’s bitcoin embrace. Can crypto help Russia evade sanctions?",
+            "link": "https://www.marketwatch.com/story/putin-follows-trumps-bitcoin-embrace-can-crypto-help-russia-evade-sanctions-a74fbd20?mod=mw_rss_topstories",
+            "description": "The Russian government has been a historic opponent of bitcoin, banning its use for domestic payments, but has recently come to see the potential bene...",
+            "pubDate": "2024-12-26T23:59:00",
+            "image_url": "https://images.mktw.net/im-22814784"
+        },
+        {
+            "title": "Most bullish Apple analyst gets a little more bullish on AI-enhanced iPhones",
+            "link": "https://www.marketwatch.com/story/most-bullish-apple-analyst-gets-a-little-more-bullish-on-ai-enhanced-iphones-b4661424?mod=mw_rss_topstories",
+            "description": "Wedbush’s Daniel Ives further boosts price target for Apple on expected holiday iPhone surge",
+            "pubDate": "2024-12-27T00:19:00",
+            "image_url": "https://images.mktw.net/im-50119842"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Pudu Robotics launches PUDU D9 humanoid robot",
+            "link": "https://www.therobotreport.com/pudu-d9-humanoid-robot-launched/",
+            "description": "The PUDU D9 builds on the previous D7 semi-humanoid robot and includes the DH11 robotic hand for dual-arm manipulation. The post Pudu Robotics launche...",
+            "pubDate": "2024-12-26T22:08:26",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Pudu_D9.jpg"
+        },
+        {
+            "title": "This international surveillance project aims to protect wheat from deadly diseases",
+            "link": "https://www.technologyreview.com/2024/12/26/1108531/international-surveillance-wheat-crop-rust-infections/",
+            "description": "When Dave Hodson walked through wheat fields in Ethiopia in 2010, it seemed as if everything had been painted yellow. A rust fungus was in the process...",
+            "pubDate": "2024-12-26T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Learn how GE Healthcare used AWS to build a new AI model that interprets MRIs",
+            "link": "https://venturebeat.com/ai/learn-how-ge-healthcare-used-aws-to-build-a-new-ai-model-that-interprets-mris/",
+            "description": "Here's how GE Healthcare overcame challenges of 2D and created the industry’s first full-body 3D MRI research foundation model.",
+            "pubDate": "2024-12-23T21:54:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-cartoonish-ai-robot-with-a-lab-coat-an_JCnRymIrTqmbCYvf5fs81A_uhWgRUHcQG2GZLi9LlOivQ-transformed.jpeg?w=578"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "Massimo Motor adds mobile robots to production line for UTVs",
+            "link": "https://www.therobotreport.com/massimo-motor-adds-mobile-robots-to-production-line-for-utvs/",
+            "description": "Massimo Motor expects automated guided robots to increase efficiency in its production of cold weather-capable utility task vehicles. The post Massimo...",
+            "pubDate": "2024-12-26T16:57:47",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Massimo_Motor_New_Production_Facility.jpg"
         }
     ]
 }
