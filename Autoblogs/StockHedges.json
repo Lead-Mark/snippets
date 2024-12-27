@@ -2,42 +2,56 @@
     "title": "StockHedges",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from StockHedges, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-27T02:46:42.130515",
+    "lastBuildDate": "2024-12-27T08:26:16.226184",
     "items": [
         {
-            "title": "Oil Ticks Lower as Market Awaits Fresh Cues",
-            "link": "https://www.wsj.com/articles/oil-ticks-lower-as-market-awaits-fresh-cues-43237e59?mod=rss_markets_main",
-            "description": "Oil prices edged lower in early Asian trading as the market awaited fresh cues.",
-            "pubDate": "2024-12-27T02:23:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Nike CEO Elliott Hill outlines new strategy after retailer blames promotions for declining revenue and profit",
+            "link": "https://www.cnbc.com/2024/12/19/nike-nke-earnings-q2-2025.html",
+            "description": "Nike beat Wall Street's expectations on the top and bottom lines under new CEO Elliott Hill.",
+            "pubDate": "2024-12-20T00:06:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Darden Restaurants stock climbs as Olive Garden, LongHorn Steakhouse fuel sales growth",
             "link": "https://www.cnbc.com/2024/12/19/darden-restaurants-dri-q2-2025-earnings.html",
             "description": "Darden Restaurants met Wall Street's expectations for its fiscal second-quarter results.",
             "pubDate": "2024-12-19T21:06:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Euro Recovery Might Take Time",
+            "link": "https://www.wsj.com/articles/ringgit-could-remain-under-pressure-in-1q-b632ccfb?mod=rss_markets_main",
+            "description": "The euro was up slightly against the dollar and Societe Generale said it might take some time to recover against the greenback given unfavorable short...",
+            "pubDate": "2024-12-27T11:22:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Netflix's Big Game Is Just Getting Started",
+            "link": "https://www.wsj.com/articles/netflix-2024-performance-2025-outlook-0af746a8?mod=rss_markets_main",
+            "description": "The company’s foray into live sports caps a strong year, but the stock’s rich valuation sets a high bar for a follow-up act.",
+            "pubDate": "2024-12-27T13:10:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Nike CEO Elliott Hill outlines new strategy after retailer blames promotions for declining revenue and profit",
-            "link": "https://www.cnbc.com/2024/12/19/nike-nke-earnings-q2-2025.html",
-            "description": "Nike beat Wall Street's expectations on the top and bottom lines under new CEO Elliott Hill.",
-            "pubDate": "2024-12-20T00:06:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "European Yields Rise Amid Low Trading Volumes",
+            "link": "https://www.wsj.com/articles/european-yields-rise-amid-low-trading-volumes-8e7d3b5e?mod=rss_markets_main",
+            "description": "European government bond yields rose during thin trading volumes over the Christmas period.",
+            "pubDate": "2024-12-27T11:10:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Micron shares plunge on weak second-quarter guidance",
-            "link": "https://www.cnbc.com/2024/12/18/micron-shares-plunge-on-weak-second-quarter-guidance.html",
-            "description": "Micron shares plunged in extended trading after the chipmaker issued weaker-than-expected second-quarter guidance.",
-            "pubDate": "2024-12-18T22:11:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "U.S. Stock Futures Slip",
+            "link": "https://www.wsj.com/articles/global-stocks-markets-dow-news-12-27-2024-90ec762b?mod=rss_markets_main",
+            "description": "There are signs stocks could end the Christmas week on a downbeat note. Meanwhile, the political turmoil in South Korea is weighing on its stock marke...",
+            "pubDate": "2024-12-27T13:08:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Ringgit Could Remain Under Pressure in 1Q",
-            "link": "https://www.wsj.com/articles/ringgit-could-remain-under-pressure-in-1q-b632ccfb?mod=rss_markets_main",
-            "description": "The Malaysian ringgit could remain under pressure in 1Q, amid inflation concerns in the U.S., which may drive monetary policy uncertainty and keep the...",
-            "pubDate": "2024-12-27T04:31:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "AI chipmaker Broadcom shares soar 17% despite mixed quarterly results — here's why",
+            "link": "https://www.cnbc.com/2024/12/12/ai-chipmaker-broadcom-shares-soar-14percent-despite-mixed-quarterly-results-heres-why-.html",
+            "description": "We're increasing our price target on the stock after a slew of positive AI updates.",
+            "pubDate": "2024-12-13T13:41:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Costco quarter signals record stock run is not done yet. Here's our new price target",
@@ -47,32 +61,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Gold Flat; Further Signals Awaited",
-            "link": "https://www.wsj.com/articles/gold-flat-further-signals-awaited-1facf9b7?mod=rss_markets_main",
-            "description": "Gold was flat in early Asian trade. The precious metal continues to trade in a rangebound manner in thinned holiday trade, Angel One said.",
-            "pubDate": "2024-12-27T00:57:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "AI chipmaker Broadcom shares soar 17% despite mixed quarterly results — here's why",
-            "link": "https://www.cnbc.com/2024/12/12/ai-chipmaker-broadcom-shares-soar-14percent-despite-mixed-quarterly-results-heres-why-.html",
-            "description": "We're increasing our price target on the stock after a slew of positive AI updates.",
-            "pubDate": "2024-12-13T13:41:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The Celebrity Activist Investor Is Going Extinct",
-            "link": "https://www.wsj.com/articles/activist-investors-shift-smaller-carl-icahn-nelson-peltz-6a5eb168?mod=rss_markets_main",
-            "description": "As it turns out, you don’t need a tough activist reputation to spur change at companies anymore.",
-            "pubDate": "2024-12-27T02:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "FTSE 100 Expected to Open Lower in Thin Holiday Trade",
-            "link": "https://www.wsj.com/articles/australian-shares-poised-to-rise-at-open-30eb6eeb?mod=rss_markets_main",
-            "description": "The FTSE 100 is expected to open a few points lower following a mixed session on Wall Street, as bad news on the U.S. jobs front did little to boost F...",
-            "pubDate": "2024-12-27T07:39:00",
+            "title": "The Biggest Losers From High U.S. Rates Might Be Abroad",
+            "link": "https://www.wsj.com/articles/the-biggest-losers-from-high-u-s-rates-might-be-abroad-aa66eb3f?mod=rss_markets_main",
+            "description": "Though the European economy is far weaker, central banks there might keep following the Federal Reserve’s cue.",
+            "pubDate": "2024-12-27T11:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Micron shares plunge on weak second-quarter guidance",
+            "link": "https://www.cnbc.com/2024/12/18/micron-shares-plunge-on-weak-second-quarter-guidance.html",
+            "description": "Micron shares plunged in extended trading after the chipmaker issued weaker-than-expected second-quarter guidance.",
+            "pubDate": "2024-12-18T22:11:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }
