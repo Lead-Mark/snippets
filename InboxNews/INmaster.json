@@ -2,140 +2,70 @@
     "title": "INmaster",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INmaster, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-29T03:31:35.434939",
+    "lastBuildDate": "2024-12-29T03:49:54.347795",
     "items": [
         {
-            "title": "The 44 Best Shows on Netflix Right Now (December 2024)",
-            "link": "https://www.wired.com/story/netflix-best-shows-this-week/",
-            "description": "Queer Eye, Black Doves, and Squid Game are just a few of the shows you need to watch on Netflix this month.",
-            "pubDate": "2024-12-28T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Amazon says it had best-ever Thanksgiving Holiday week with record sales and number of items sold",
-            "link": "https://www.marketwatch.com/story/amazon-says-it-had-best-ever-thanksgiving-holiday-week-with-record-sales-and-number-of-items-sold-786e0143?mod=mw_rss_marketpulse",
-            "description": "",
-            "pubDate": "2024-12-03T14:05:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Vegetable Dumplings",
-            "link": "https://therecipecritic.com/vegetable-dumplings/",
-            "description": "These vegetable dumplings are so full of Asian flavor, you won’t be able to stop at just one! Tender wontons…",
-            "pubDate": "2024-12-25T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/vegetable-dumplings-1.jpg"
-        },
-        {
-            "title": "Tokyo Food Guide 2025: Where and What to Eat",
-            "link": "https://thefoodellers.com/en/where-and-what-to-eat-in-tokyo-food-guide",
-            "description": "Eating in Tokyo is a delight for both the eyes and the taste buds. While some places can be expensive, it’s possible to enjoy amazing food without ove...",
-            "pubDate": "2024-12-04T10:43:43",
-            "image_url": "https://thefoodellers.com/wp-content/uploads/2018/02/ramen.jpg"
-        },
-        {
-            "title": "Viewers of Quantum Events Are Also Subject to Uncertainty",
-            "link": "https://www.wired.com/story/in-the-quantum-world-even-points-of-view-are-uncertain/",
-            "description": "The reference frames from which observers view quantum events can themselves have multiple possible locations at once—an insight with potentially majo...",
-            "pubDate": "2024-12-29T07:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Your New Horoscope For 2025 – ‘Free Will Astrology’ by Rob Brezsny",
-            "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-12-28-2024/",
-            "description": "Our partner Rob Brezsny, who has a new book out, Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our...",
-            "pubDate": "2024-12-28T11:00:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "What’s the difference between a credit card network and issuer?",
-            "link": "https://thepointsguy.com/news/whats-the-difference-between-a-credit-card-network-and-issuer/",
-            "description": "Editor’s note: This is a recurring post, regularly updated with new information and offers. When we discuss credit cards at TPG, we usually focus on t...",
-            "pubDate": "2024-12-28T18:00:20",
-            "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2023/09/person-taking-credit-card-out-of-wallet-to-pay-at-contactless-payment_-mixetto.jpg?fit=1280,960"
-        },
-        {
-            "title": "How to Lower Your Heart Rate",
-            "link": "https://www.webmd.com/heart-disease/how-to-lower-your-heart-rate",
-            "description": "",
-            "pubDate": "2024-12-29T03:25:28",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/advocate-for-your-best-treatment-with-gpp-slideshow/1800ss-getty-rf-meditating-in-living-room.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "14 Best USB Flash Drives (2024): Pen Drives, Thumb Drives, Memory Sticks",
-            "link": "https://www.wired.com/gallery/best-usb-flash-drives/",
-            "description": "These WIRED-tested memory sticks are a virtual filing cabinet in your pocket.",
-            "pubDate": "2024-12-28T12:08:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "How To Plan the Perfect Trip to Japan in 2025",
-            "link": "https://thefoodellers.com/en/how-to-plan-a-trip-tokyo-tips-and-information",
-            "description": "Planning a trip to Tokyo can seem challenging because the city offers so much to explore. Tokyo is home to about 15 million people and is not just a s...",
-            "pubDate": "2024-12-04T10:17:22",
-            "image_url": "https://thefoodellers.com/wp-content/uploads/2018/01/viaggio-tokyo.jpg"
-        },
-        {
-            "title": "Good News in History, December 29",
-            "link": "https://www.goodnewsnetwork.org/events061229/",
-            "description": "On this day 80 years ago, a decade and a half after the Irish War of Independence and its treaty-induced interim government, Ireland was born when it ...",
-            "pubDate": "2024-12-29T08:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025",
-            "link": "https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/",
-            "description": "CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a Dec...",
-            "pubDate": "2024-12-28T22:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Charter Communications announces buyout deal for Liberty Broadband at terms above its previous proposal",
-            "link": "https://www.marketwatch.com/story/charter-communications-announces-buyout-deal-for-liberty-broadband-at-terms-above-its-previous-proposal-552f7acd?mod=mw_rss_marketpulse",
-            "description": "",
-            "pubDate": "2024-11-13T13:52:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Revisiting the biggest moments in the space industry in 2024",
-            "link": "https://techcrunch.com/2024/12/28/revisiting-the-biggest-moments-in-the-space-industry-in-2024/",
-            "description": "We are at the dawn of a new space age. If you doubt, simply look back at the last year: From SpaceX’s historic catch of the Super Heavy booster to the...",
-            "pubDate": "2024-12-28T15:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Hot Cocoa Dip",
+            "link": "https://therecipecritic.com/hot-cocoa-dip/",
+            "description": "This hot cocoa dip recipe has only 3 ingredients and comes together in 5 minutes. It’s chocolatey, fluffy, sweet, and…",
+            "pubDate": "2024-12-26T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/hot-cocoa-dip-2.jpg"
         },
         {
             "title": "10 Best Digital Notebooks, Tablets, and Smart Pens (2024)",
             "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
             "description": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
             "pubDate": "2024-12-28T11:02:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "14 Best USB Flash Drives (2024): Pen Drives, Thumb Drives, Memory Sticks",
+            "link": "https://www.wired.com/gallery/best-usb-flash-drives/",
+            "description": "These WIRED-tested memory sticks are a virtual filing cabinet in your pocket.",
+            "pubDate": "2024-12-28T12:08:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Trump asks Supreme Court to pause TikTok ban",
-            "link": "https://www.marketwatch.com/story/trump-asks-supreme-court-to-pause-tiktok-ban-2b724ae6?mod=mw_rss_marketpulse",
+            "title": "Trump asks Supreme Court to pause imminent TikTok ban",
+            "link": "https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/",
+            "description": "Attorneys representing President-elect Donald Trump have asked the Supreme Court to pause a law that would force TikTok-owner ByteDance to sell the sh...",
+            "pubDate": "2024-12-28T17:00:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Effective Manuvers and Exercises For Vertigo",
+            "link": "https://www.webmd.com/brain/home-remedies-vertigo",
             "description": "",
-            "pubDate": "2024-12-28T00:32:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "pubDate": "2024-12-29T03:25:28",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/young_businesswoman_experiencing_stress_at_work/1800x1200_young_businesswoman_experiencing_stress_at_work.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Englishwoman Wakes Up From Stroke Speaking Italian With an Accent–And She’s Never Even Been to the Country",
-            "link": "https://www.goodnewsnetwork.org/englishwoman-wakes-up-from-stroke-speaking-italian-and-shes-never-been-to-the-country/",
-            "description": "A stroke has left a British woman with an Italian accent and an ability to speak the language, despite never having visited the country. Althia Bryden...",
-            "pubDate": "2024-12-28T12:00:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Insurer Denies Prosthetic So Family Crowdfunds $30k–But Angel Steps In and Girl Gives Money to Boy Who Needs One",
+            "link": "https://www.goodnewsnetwork.org/insurer-denies-prosthetic-so-family-crowdfunds-30k-but-angel-steps-in-and-girl-gives-money-to-boy-who-needs-one/",
+            "description": "The family of a 9-year-old who was born without a left hand raised the $24,000 needed for a new prosthetic arm, after the cost was denied by their ins...",
+            "pubDate": "2024-12-28T15:00:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Best iPad apps for unleashing and exploring your creativity",
-            "link": "https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
-            "description": "There are a number of iPad apps that can help you explore and express your creativity. Although the iPad started off as a simple device that could be ...",
+            "title": "Good News in History, December 29",
+            "link": "https://www.goodnewsnetwork.org/events061229/",
+            "description": "On this day 80 years ago, a decade and a half after the Irish War of Independence and its treaty-induced interim government, Ireland was born when it ...",
+            "pubDate": "2024-12-29T08:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "How to watch CES 2025’s press conferences",
+            "link": "https://techcrunch.com/2024/12/28/how-to-watch-ces-2025s-press-conferences/",
+            "description": "CES kicks off January 7. The annual Las Vegas event sets the tone of the year’s consumer electronics and automotive industries. As always, TechCrunch ...",
             "pubDate": "2024-12-28T16:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
-            "link": "https://www.marketwatch.com/story/u-s-stock-futures-and-bond-yields-drop-on-reports-putin-has-updated-nuclear-doctrine-4b9792c4?mod=mw_rss_marketpulse",
-            "description": "",
-            "pubDate": "2024-11-19T08:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Chocolate Tahini Caramels (No Candy Thermometer!)",
+            "link": "https://minimalistbaker.com/chocolate-tahini-caramels-no-candy-thermometer/",
+            "description": "If you love chocolate covered caramels, but not the complicated methods usually required to make them, then this recipe is for you! These EASY vegan s...",
+            "pubDate": "2024-12-10T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/Easy-Vegan-Dark-Chocolate-Sea-Salt-Tahini-Caramels-11-680x1020.jpg"
         },
         {
             "title": "9 Traditional Foods for Chinese New Year 2025",
@@ -145,25 +75,25 @@
             "image_url": "https://thefoodellers.com/wp-content/uploads/2020/01/dumplings.jpg"
         },
         {
-            "title": "The 44 Best Movies on Netflix Right Now (December 2024)",
-            "link": "https://www.wired.com/story/netflix-best-movies-this-week/",
-            "description": "That Christmas, Hot Frosty, and Klaus are just a few of the movies you should watch on Netflix this month.",
-            "pubDate": "2024-12-28T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Charter Communications announces buyout deal for Liberty Broadband at terms above its previous proposal",
+            "link": "https://www.marketwatch.com/story/charter-communications-announces-buyout-deal-for-liberty-broadband-at-terms-above-its-previous-proposal-552f7acd?mod=mw_rss_marketpulse",
+            "description": "",
+            "pubDate": "2024-11-13T13:52:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Hot Cocoa Dip",
-            "link": "https://therecipecritic.com/hot-cocoa-dip/",
-            "description": "This hot cocoa dip recipe has only 3 ingredients and comes together in 5 minutes. It’s chocolatey, fluffy, sweet, and…",
-            "pubDate": "2024-12-26T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/hot-cocoa-dip-2.jpg"
+            "title": "Viewers of Quantum Events Are Also Subject to Uncertainty",
+            "link": "https://www.wired.com/story/in-the-quantum-world-even-points-of-view-are-uncertain/",
+            "description": "The reference frames from which observers view quantum events can themselves have multiple possible locations at once—an insight with potentially majo...",
+            "pubDate": "2024-12-29T07:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "New Year’s Eve 2024/2025 in Dublin: Useful Information",
-            "link": "https://thefoodellers.com/en/new-years-eve-in-dublin-events",
-            "description": "Spending New Year’s Eve in Dublin is considered one of the funniest and most bizarre things to do: the proverbial desire to have the fun of the Irish ...",
-            "pubDate": "2024-12-19T13:32:33",
-            "image_url": "https://thefoodellers.com/wp-content/uploads/2017/12/dublino-capodanno.jpg"
+            "title": "Carnival Legend cruise ship review: Outsize fun on a midsize, made-over ship",
+            "link": "https://thepointsguy.com/reviews/carnival-legend-cruise-ship-review/",
+            "description": "My first walk through Carnival Legend left me thinking, “Girrrl, 22 looks good on you!” A well-used ship over 20 years old often begins to show a few ...",
+            "pubDate": "2024-12-28T16:00:57",
+            "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2023/04/2legend.jpg?fit=1280,960"
         },
         {
             "title": "Chocolate Pecan Shortbread Cookies (Vegan + GF)",
@@ -173,13 +103,6 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/03/Vegan-Gluten-Free-Chocolate-Pecan-Shortbread-Cookies-12-680x1020.jpg"
         },
         {
-            "title": "Prevent and Soothe Dry Winter Hands",
-            "link": "https://www.webmd.com/beauty/features/prevent-soothe-chapped-winter-hands",
-            "description": "Winter weather can take a toll on your hands, leaving them dry and cracked. Get tips to restore moisture and protect your skin all season.",
-            "pubDate": "2024-12-29T03:25:28",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/woman-taking-a-walk-in-nature-other/1800x1200-woman-taking-a-walk-in-nature-other.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "How to spend the weekend in Fishtown, Philly’s coolest neighborhood",
             "link": "https://thepointsguy.com/guide/fishtown-philadelphia-guide/",
             "description": "Editor’s note: Hotel Anna and Bel provided TPG with a complimentary two-night stay and some on-site meals and experiences so that we could get an insi...",
@@ -187,31 +110,87 @@
             "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2024/09/202409256_Philadelphia-Fishtown_Fishtown-Philly_Neighborhood_General_7388_LMatthews_82.jpg?fit=1280,960"
         },
         {
-            "title": "The most-exciting new airline routes for 2025: TPG’s picks",
-            "link": "https://thepointsguy.com/news/most-exciting-new-airline-routes-2025/",
-            "description": "New year, new routes. While most people are thinking about their New Year’s resolutions, AvGeeks and airline industry enthusiasts have a list of their...",
-            "pubDate": "2024-12-28T23:00:35",
-            "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2024/04/map-getty-scaled.jpg?fit=1280,960"
+            "title": "Trump asks Supreme Court to pause TikTok ban",
+            "link": "https://www.marketwatch.com/story/trump-asks-supreme-court-to-pause-tiktok-ban-2b724ae6?mod=mw_rss_marketpulse",
+            "description": "",
+            "pubDate": "2024-12-28T00:32:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Garlic & Herb Breaded Delicata Squash",
-            "link": "https://minimalistbaker.com/garlic-herb-roasted-delicata-squash/",
-            "description": "Say hello to your new favorite fall side! This roasted delicata squash has a savory, salty, garlic & herb breading that’s kind of irresistible. Let’s ...",
-            "pubDate": "2024-11-19T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/07/Garlic-and-Herb-Breaded-Delicata-Squash-15-Minimalist-Baker-063023-680x1020.jpg"
+            "title": "Breakfast Stromboli",
+            "link": "https://therecipecritic.com/breakfast-stromboli/",
+            "description": "This Breakfast Stromboli is the best morning treat! It’s packed with fluffy eggs, savory sausage, crispy bacon, and melty cheese,…",
+            "pubDate": "2024-12-24T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/breakfast-stromboli.jpg"
+        },
+        {
+            "title": "Prevent and Soothe Dry Winter Hands",
+            "link": "https://www.webmd.com/beauty/features/prevent-soothe-chapped-winter-hands",
+            "description": "Winter weather can take a toll on your hands, leaving them dry and cracked. Get tips to restore moisture and protect your skin all season.",
+            "pubDate": "2024-12-29T03:25:28",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/woman-taking-a-walk-in-nature-other/1800x1200-woman-taking-a-walk-in-nature-other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Hyatt finalizes Bahia Principe partnership, expanding all-inclusive portfolio",
+            "link": "https://thepointsguy.com/news/hyatt-finalizes-bahia-principe-partnership-expanding-all-inclusive-portfolio/",
+            "description": "It’s a good day for World of Hyatt members, with the Chicago-based hotel chain taking another step forward in the expansion of its all-inclusive portf...",
+            "pubDate": "2024-12-28T20:43:42",
+            "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2023/02/All-Inclusive-waterparks_Bahia-Principe-Fantasia_FACEBOOK.jpg?fit=1280,960"
+        },
+        {
+            "title": "New Year’s Eve 2024/2025 in Dublin: Useful Information",
+            "link": "https://thefoodellers.com/en/new-years-eve-in-dublin-events",
+            "description": "Spending New Year’s Eve in Dublin is considered one of the funniest and most bizarre things to do: the proverbial desire to have the fun of the Irish ...",
+            "pubDate": "2024-12-19T13:32:33",
+            "image_url": "https://thefoodellers.com/wp-content/uploads/2017/12/dublino-capodanno.jpg"
+        },
+        {
+            "title": "Maple Bacon Crack",
+            "link": "https://therecipecritic.com/maple-bacon-crack/",
+            "description": "Maple Bacon Crack is as delicious and addicting as it sounds! It has flaky pastry dough drizzled in a sweet…",
+            "pubDate": "2024-12-28T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/maple-bacon-crack-1.jpg"
         },
         {
             "title": "General Motors unveils new all-electric Cadillac called the Vistiq with 300-mile range",
             "link": "https://www.marketwatch.com/story/general-motors-unveils-new-all-electric-cadillac-called-the-vistiq-with-300-mile-range-c16fb8a6?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2024-11-12T13:53:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Insurer Denies Prosthetic So Family Crowdfunds $30k–But Angel Steps In and Girl Gives Money to Boy Who Needs One",
-            "link": "https://www.goodnewsnetwork.org/insurer-denies-prosthetic-so-family-crowdfunds-30k-but-angel-steps-in-and-girl-gives-money-to-boy-who-needs-one/",
-            "description": "The family of a 9-year-old who was born without a left hand raised the $24,000 needed for a new prosthetic arm, after the cost was denied by their ins...",
-            "pubDate": "2024-12-28T15:00:45",
+            "title": "Best iPad apps for unleashing and exploring your creativity",
+            "link": "https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+            "description": "There are a number of iPad apps that can help you explore and express your creativity. Although the iPad started off as a simple device that could be ...",
+            "pubDate": "2024-12-28T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "How To Plan the Perfect Trip to Japan in 2025",
+            "link": "https://thefoodellers.com/en/how-to-plan-a-trip-tokyo-tips-and-information",
+            "description": "Planning a trip to Tokyo can seem challenging because the city offers so much to explore. Tokyo is home to about 15 million people and is not just a s...",
+            "pubDate": "2024-12-04T10:17:22",
+            "image_url": "https://thefoodellers.com/wp-content/uploads/2018/01/viaggio-tokyo.jpg"
+        },
+        {
+            "title": "How to Lower Your Heart Rate",
+            "link": "https://www.webmd.com/heart-disease/how-to-lower-your-heart-rate",
+            "description": "",
+            "pubDate": "2024-12-29T03:25:28",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/advocate-for-your-best-treatment-with-gpp-slideshow/1800ss-getty-rf-meditating-in-living-room.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Englishwoman Wakes Up From Stroke Speaking Italian With an Accent–And She’s Never Even Been to the Country",
+            "link": "https://www.goodnewsnetwork.org/englishwoman-wakes-up-from-stroke-speaking-italian-and-shes-never-been-to-the-country/",
+            "description": "A stroke has left a British woman with an Italian accent and an ability to speak the language, despite never having visited the country. Althia Bryden...",
+            "pubDate": "2024-12-28T12:00:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
+            "link": "https://www.marketwatch.com/story/u-s-stock-futures-and-bond-yields-drop-on-reports-putin-has-updated-nuclear-doctrine-4b9792c4?mod=mw_rss_marketpulse",
+            "description": "",
+            "pubDate": "2024-11-19T08:55:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
@@ -222,18 +201,88 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
         },
         {
-            "title": "Weekly Meal Plan #31",
-            "link": "https://therecipecritic.com/weekly-meal-plan-31/",
-            "description": "This week’s meal plan is here to save you time and stress with simple, delicious dinners the whole family will…",
-            "pubDate": "2024-12-27T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/Week-31-Meal-Plan-Collage-.png"
+            "title": "The most-exciting new airline routes for 2025: TPG’s picks",
+            "link": "https://thepointsguy.com/news/most-exciting-new-airline-routes-2025/",
+            "description": "New year, new routes. While most people are thinking about their New Year’s resolutions, AvGeeks and airline industry enthusiasts have a list of their...",
+            "pubDate": "2024-12-28T23:00:35",
+            "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2024/04/map-getty-scaled.jpg?fit=1280,960"
         },
         {
-            "title": "How to watch CES 2025’s press conferences",
-            "link": "https://techcrunch.com/2024/12/28/how-to-watch-ces-2025s-press-conferences/",
-            "description": "CES kicks off January 7. The annual Las Vegas event sets the tone of the year’s consumer electronics and automotive industries. As always, TechCrunch ...",
-            "pubDate": "2024-12-28T16:00:00",
+            "title": "Your New Horoscope For 2025 – ‘Free Will Astrology’ by Rob Brezsny",
+            "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-12-28-2024/",
+            "description": "Our partner Rob Brezsny, who has a new book out, Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our...",
+            "pubDate": "2024-12-28T11:00:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025",
+            "link": "https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/",
+            "description": "CEO Sundar Pichai reportedly told Google employees that 2025 will be a “critical” year for the company. CNBC reports that it obtained audio from a Dec...",
+            "pubDate": "2024-12-28T22:00:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Revisiting the biggest moments in the space industry in 2024",
+            "link": "https://techcrunch.com/2024/12/28/revisiting-the-biggest-moments-in-the-space-industry-in-2024/",
+            "description": "We are at the dawn of a new space age. If you doubt, simply look back at the last year: From SpaceX’s historic catch of the Super Heavy booster to the...",
+            "pubDate": "2024-12-28T15:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The 44 Best Shows on Netflix Right Now (December 2024)",
+            "link": "https://www.wired.com/story/netflix-best-shows-this-week/",
+            "description": "Queer Eye, Black Doves, and Squid Game are just a few of the shows you need to watch on Netflix this month.",
+            "pubDate": "2024-12-28T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Garlic & Herb Breaded Delicata Squash",
+            "link": "https://minimalistbaker.com/garlic-herb-roasted-delicata-squash/",
+            "description": "Say hello to your new favorite fall side! This roasted delicata squash has a savory, salty, garlic & herb breading that’s kind of irresistible. Let’s ...",
+            "pubDate": "2024-11-19T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/07/Garlic-and-Herb-Breaded-Delicata-Squash-15-Minimalist-Baker-063023-680x1020.jpg"
+        },
+        {
+            "title": "Tokyo Food Guide 2025: Where and What to Eat",
+            "link": "https://thefoodellers.com/en/where-and-what-to-eat-in-tokyo-food-guide",
+            "description": "Eating in Tokyo is a delight for both the eyes and the taste buds. While some places can be expensive, it’s possible to enjoy amazing food without ove...",
+            "pubDate": "2024-12-04T10:43:43",
+            "image_url": "https://thefoodellers.com/wp-content/uploads/2018/02/ramen.jpg"
+        },
+        {
+            "title": "What’s the difference between a credit card network and issuer?",
+            "link": "https://thepointsguy.com/news/whats-the-difference-between-a-credit-card-network-and-issuer/",
+            "description": "Editor’s note: This is a recurring post, regularly updated with new information and offers. When we discuss credit cards at TPG, we usually focus on t...",
+            "pubDate": "2024-12-28T18:00:20",
+            "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2023/09/person-taking-credit-card-out-of-wallet-to-pay-at-contactless-payment_-mixetto.jpg?fit=1280,960"
+        },
+        {
+            "title": "Amazon says it had best-ever Thanksgiving Holiday week with record sales and number of items sold",
+            "link": "https://www.marketwatch.com/story/amazon-says-it-had-best-ever-thanksgiving-holiday-week-with-record-sales-and-number-of-items-sold-786e0143?mod=mw_rss_marketpulse",
+            "description": "",
+            "pubDate": "2024-12-03T14:05:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Vegetable Dumplings",
+            "link": "https://therecipecritic.com/vegetable-dumplings/",
+            "description": "These vegetable dumplings are so full of Asian flavor, you won’t be able to stop at just one! Tender wontons…",
+            "pubDate": "2024-12-25T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/vegetable-dumplings-1.jpg"
+        },
+        {
+            "title": "Owl Flies Down Chimney And Perches on Top of Family’s Christmas Tree (WATCH)",
+            "link": "https://www.goodnewsnetwork.org/owl-flies-down-chimney-and-perches-on-top-of-familys-christmas-tree-watch/",
+            "description": "Twas the week before Christmas, and perched on the tree was an magical visitor as wise as can be… It came down the chimney, but wasn’t named Santa, a ...",
+            "pubDate": "2024-12-28T20:08:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "The 44 Best Movies on Netflix Right Now (December 2024)",
+            "link": "https://www.wired.com/story/netflix-best-movies-this-week/",
+            "description": "That Christmas, Hot Frosty, and Klaus are just a few of the movies you should watch on Netflix this month.",
+            "pubDate": "2024-12-28T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Michelin Star Restaurants in Italy – Full List 2025",
@@ -243,60 +292,11 @@
             "image_url": "https://thefoodellers.com/wp-content/uploads/2016/11/michelin-er.png"
         },
         {
-            "title": "Breakfast Stromboli",
-            "link": "https://therecipecritic.com/breakfast-stromboli/",
-            "description": "This Breakfast Stromboli is the best morning treat! It’s packed with fluffy eggs, savory sausage, crispy bacon, and melty cheese,…",
-            "pubDate": "2024-12-24T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/breakfast-stromboli.jpg"
-        },
-        {
-            "title": "Owl Flies Down Chimney And Perches on Top of Family’s Christmas Tree (WATCH)",
-            "link": "https://www.goodnewsnetwork.org/owl-flies-down-chimney-and-perches-on-top-of-familys-christmas-tree-watch/",
-            "description": "Twas the week before Christmas, and perched on the tree was an magical visitor as wise as can be… It came down the chimney, but wasn’t named Santa, a ...",
-            "pubDate": "2024-12-28T20:08:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Hyatt finalizes Bahia Principe partnership, expanding all-inclusive portfolio",
-            "link": "https://thepointsguy.com/news/hyatt-finalizes-bahia-principe-partnership-expanding-all-inclusive-portfolio/",
-            "description": "It’s a good day for World of Hyatt members, with the Chicago-based hotel chain taking another step forward in the expansion of its all-inclusive portf...",
-            "pubDate": "2024-12-28T20:43:42",
-            "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2023/02/All-Inclusive-waterparks_Bahia-Principe-Fantasia_FACEBOOK.jpg?fit=1280,960"
-        },
-        {
-            "title": "Chocolate Tahini Caramels (No Candy Thermometer!)",
-            "link": "https://minimalistbaker.com/chocolate-tahini-caramels-no-candy-thermometer/",
-            "description": "If you love chocolate covered caramels, but not the complicated methods usually required to make them, then this recipe is for you! These EASY vegan s...",
-            "pubDate": "2024-12-10T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/Easy-Vegan-Dark-Chocolate-Sea-Salt-Tahini-Caramels-11-680x1020.jpg"
-        },
-        {
-            "title": "Maple Bacon Crack",
-            "link": "https://therecipecritic.com/maple-bacon-crack/",
-            "description": "Maple Bacon Crack is as delicious and addicting as it sounds! It has flaky pastry dough drizzled in a sweet…",
-            "pubDate": "2024-12-28T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/maple-bacon-crack-1.jpg"
-        },
-        {
-            "title": "Carnival Legend cruise ship review: Outsize fun on a midsize, made-over ship",
-            "link": "https://thepointsguy.com/reviews/carnival-legend-cruise-ship-review/",
-            "description": "My first walk through Carnival Legend left me thinking, “Girrrl, 22 looks good on you!” A well-used ship over 20 years old often begins to show a few ...",
-            "pubDate": "2024-12-28T16:00:57",
-            "image_url": "https://thepointsguy.freetls.fastly.net/us/originals/2023/04/2legend.jpg?fit=1280,960"
-        },
-        {
-            "title": "Effective Manuvers and Exercises For Vertigo",
-            "link": "https://www.webmd.com/brain/home-remedies-vertigo",
-            "description": "",
-            "pubDate": "2024-12-29T03:25:28",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/young_businesswoman_experiencing_stress_at_work/1800x1200_young_businesswoman_experiencing_stress_at_work.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Trump asks Supreme Court to pause imminent TikTok ban",
-            "link": "https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/",
-            "description": "Attorneys representing President-elect Donald Trump have asked the Supreme Court to pause a law that would force TikTok-owner ByteDance to sell the sh...",
-            "pubDate": "2024-12-28T17:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Weekly Meal Plan #31",
+            "link": "https://therecipecritic.com/weekly-meal-plan-31/",
+            "description": "This week’s meal plan is here to save you time and stress with simple, delicious dinners the whole family will…",
+            "pubDate": "2024-12-27T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/Week-31-Meal-Plan-Collage-.png"
         }
     ]
 }
