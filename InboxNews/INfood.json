@@ -2,15 +2,8 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-28T03:33:53.857001",
+    "lastBuildDate": "2024-12-29T03:30:38.838830",
     "items": [
-        {
-            "title": "Breakfast Stromboli",
-            "link": "https://therecipecritic.com/breakfast-stromboli/",
-            "description": "This Breakfast Stromboli is the best morning treat! It’s packed with fluffy eggs, savory sausage, crispy bacon, and melty cheese,…",
-            "pubDate": "2024-12-24T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/breakfast-stromboli.jpg"
-        },
         {
             "title": "Vegetable Dumplings",
             "link": "https://therecipecritic.com/vegetable-dumplings/",
@@ -19,25 +12,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/vegetable-dumplings-1.jpg"
         },
         {
+            "title": "Breakfast Stromboli",
+            "link": "https://therecipecritic.com/breakfast-stromboli/",
+            "description": "This Breakfast Stromboli is the best morning treat! It’s packed with fluffy eggs, savory sausage, crispy bacon, and melty cheese,…",
+            "pubDate": "2024-12-24T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/breakfast-stromboli.jpg"
+        },
+        {
             "title": "Chocolate Pecan Shortbread Cookies (Vegan + GF)",
             "link": "https://minimalistbaker.com/chocolate-pecan-shortbread-cookies-vegan-gf/",
             "description": "Say hello to crispy , buttery shortbread cookies studded with pecans and dark chocolate ( swoon !). These cookies are our vegan and gluten-free twist ...",
             "pubDate": "2024-12-03T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/03/Vegan-Gluten-Free-Chocolate-Pecan-Shortbread-Cookies-12-680x1020.jpg"
-        },
-        {
-            "title": "Chocolate Tahini Caramels (No Candy Thermometer!)",
-            "link": "https://minimalistbaker.com/chocolate-tahini-caramels-no-candy-thermometer/",
-            "description": "If you love chocolate covered caramels, but not the complicated methods usually required to make them, then this recipe is for you! These EASY vegan s...",
-            "pubDate": "2024-12-10T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/Easy-Vegan-Dark-Chocolate-Sea-Salt-Tahini-Caramels-11-680x1020.jpg"
-        },
-        {
-            "title": "Hot Cocoa Dip",
-            "link": "https://therecipecritic.com/hot-cocoa-dip/",
-            "description": "This hot cocoa dip recipe has only 3 ingredients and comes together in 5 minutes. It’s chocolatey, fluffy, sweet, and…",
-            "pubDate": "2024-12-26T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/hot-cocoa-dip-2.jpg"
         },
         {
             "title": "Easy Winter Fruit Salad (1 Bowl!)",
@@ -54,18 +40,32 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/Week-31-Meal-Plan-Collage-.png"
         },
         {
+            "title": "Hot Cocoa Dip",
+            "link": "https://therecipecritic.com/hot-cocoa-dip/",
+            "description": "This hot cocoa dip recipe has only 3 ingredients and comes together in 5 minutes. It’s chocolatey, fluffy, sweet, and…",
+            "pubDate": "2024-12-26T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/hot-cocoa-dip-2.jpg"
+        },
+        {
+            "title": "Chocolate Tahini Caramels (No Candy Thermometer!)",
+            "link": "https://minimalistbaker.com/chocolate-tahini-caramels-no-candy-thermometer/",
+            "description": "If you love chocolate covered caramels, but not the complicated methods usually required to make them, then this recipe is for you! These EASY vegan s...",
+            "pubDate": "2024-12-10T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/Easy-Vegan-Dark-Chocolate-Sea-Salt-Tahini-Caramels-11-680x1020.jpg"
+        },
+        {
+            "title": "Maple Bacon Crack",
+            "link": "https://therecipecritic.com/maple-bacon-crack/",
+            "description": "Maple Bacon Crack is as delicious and addicting as it sounds! It has flaky pastry dough drizzled in a sweet…",
+            "pubDate": "2024-12-28T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/maple-bacon-crack-1.jpg"
+        },
+        {
             "title": "Garlic & Herb Breaded Delicata Squash",
             "link": "https://minimalistbaker.com/garlic-herb-roasted-delicata-squash/",
             "description": "Say hello to your new favorite fall side! This roasted delicata squash has a savory, salty, garlic & herb breading that’s kind of irresistible. Let’s ...",
             "pubDate": "2024-11-19T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/07/Garlic-and-Herb-Breaded-Delicata-Squash-15-Minimalist-Baker-063023-680x1020.jpg"
-        },
-        {
-            "title": "Jalapeño Popper Casserole",
-            "link": "https://therecipecritic.com/jalapeno-popper-casserole/",
-            "description": "Spice up dinner time with this creamy Jalapeño Popper Casserole! Packed with tender chicken, melty cheese, and just the right…",
-            "pubDate": "2024-12-24T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/11/jalapeno-popper-casserole-.jpg"
         }
     ]
 }
