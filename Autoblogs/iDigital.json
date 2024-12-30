@@ -2,84 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2024-12-30T06:29:14.780683",
+    "lastBuildDate": "2024-12-30T13:11:51.786003",
     "items": [
         {
-            "title": "Top 10 most popular robotics stories of 2024",
-            "link": "https://www.therobotreport.com/top-10-robotics-developments-of-2024/",
-            "description": "2024 was another year of the humanoids, with six of our top 10 stories being about or mentioning humanoid robots. The post Top 10 most popular robotic...",
-            "pubDate": "2024-12-27T13:28:43",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/08/NEO-Product-Shoot-Cafe-Cleaning_2-300x194.jpg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "CES 2025 tips and tricks: A guide to tech’s biggest trade show",
-            "link": "https://venturebeat.com/ai/ces-2025-tips-and-tricks-a-guide-to-techs-biggest-trade-show/",
-            "description": "CES 2025 is coming to Las Vegas during the week of January 5, and it will be one of the biggest tech expos in the world again.",
-            "pubDate": "2024-12-27T16:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/01/ces-2024-wrap.jpg?w=578"
-        },
-        {
-            "title": "‘He ended up homeless and penniless’: My uncle conned my father into signing over their mother’s house. What can I do?",
-            "link": "https://www.marketwatch.com/story/he-ended-up-homeless-and-penniless-my-uncle-conned-my-father-into-signing-over-their-mothers-house-what-can-i-do-b652e413?mod=mw_rss_topstories",
-            "description": "“His brother went to the prison where my dad was incarcerated and had him sign over the house.”",
-            "pubDate": "2024-12-30T10:07:00",
-            "image_url": "https://images.mktw.net/im-58634260"
-        },
-        {
-            "title": "Test-driving Google’s Gemini-Exp-1206 model: Competitive data analysis and sophisticated visualizations in under a minute",
-            "link": "https://venturebeat.com/ai/driving-next-level-analyst-efficiency-with-googles-exp-1206-model/",
-            "description": "Showing speed and precision, one of Google’s latest experimental models, Exp-1206, shows potential to alleviate one of the most grueling aspects of an...",
-            "pubDate": "2024-12-27T17:03:33",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/exp-1260-hero-image.jpg?w=578"
-        },
-        {
-            "title": "These stunning images trace ships’ routes as they move",
-            "link": "https://www.technologyreview.com/2024/12/25/1108508/public-data-ship-movements-data-visualization/",
-            "description": "As we run, drive, bike, and fly, we leave behind telltale marks of our movements on Earth—if you know where to look. Physical tracks, thermal signatur...",
-            "pubDate": "2024-12-25T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/seattle.jpg?w=1800"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "This international surveillance project aims to protect wheat from deadly diseases",
-            "link": "https://www.technologyreview.com/2024/12/26/1108531/international-surveillance-wheat-crop-rust-infections/",
-            "description": "When Dave Hodson walked through wheat fields in Ethiopia in 2010, it seemed as if everything had been painted yellow. A rust fungus was in the process...",
-            "pubDate": "2024-12-26T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "How advanced foundation models will expand what AI can do (and other predictions for 2025)",
-            "link": "https://venturebeat.com/ai/how-advanced-foundation-models-will-expand-what-ai-can-do-and-other-predictions-for-2025/",
-            "description": "Foundation models will be brand DNA, hands-free will be redefined and we'll hit the AI trust tipping point (among other developments).",
-            "pubDate": "2024-12-28T21:25:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-photo-of-a-sophisticated-ai-robot-with_9dCTKAKeTna32rjVUok6ww_yXyDUsDKRQKTVP8ucm99dw-transformed.jpeg?w=578"
-        },
-        {
-            "title": "Boeing shares fall in wake of deadliest air crash in South Korean history",
-            "link": "https://www.marketwatch.com/story/boeing-shares-fall-in-wake-of-deadliest-air-crash-in-south-korean-history-3eefbff1?mod=mw_rss_topstories",
-            "description": "Jeju Air’s flight 2216 crash landed at South Korea’s Muan International Airport on Dec. 29 killing 179 of the Boeing plane’s 181 passengers",
-            "pubDate": "2024-12-30T10:39:00",
-            "image_url": "https://images.mktw.net/im-54977017"
+            "title": "Open Droids develops both single and dual arm mobile manipulators",
+            "link": "https://www.therobotreport.com/open-droids-develops-both-single-dual-arm-mobile-manipulators/",
+            "description": "Open Droids is launching two new models of mobile manipulators, designed for tasks in retail, nursing, and restaurants. The post Open Droids develops ...",
+            "pubDate": "2024-12-27T20:06:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -89,6 +19,27 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Zebra Technologies to acquire vision unit from Photoneo Brightpick Group",
+            "link": "https://www.therobotreport.com/photoneo-vision-unit-aquired-zebra-technologies-from-brightpick/",
+            "description": "Photoneo, which offers 3D vision and AI robotics, has attracted a major U.S. buyer, as Brightpick plans to accelerate its global expansion. The post Z...",
+            "pubDate": "2024-12-30T13:31:07",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Photoneo-founders.jpg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
             "title": "The world’s first industrial-scale plant for green steel promises a cleaner future",
             "link": "https://www.technologyreview.com/2024/12/27/1108546/green-steel-hydrogen-industrial-plant-zero-emissions-stegra/",
             "description": "As of 2023, nearly 2 billion metric tons of it were being produced annually, enough to cover Manhattan in a layer more than 13 feet thick. Making this...",
@@ -96,25 +47,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/H2GS-Aug2023-2.jpg?w=3000"
         },
         {
-            "title": "Five breakthroughs that make OpenAI’s o3 a turning point for AI — and one big challenge",
-            "link": "https://venturebeat.com/ai/five-breakthroughs-that-make-openais-o3-a-turning-point-for-ai-and-one-big-challenge/",
-            "description": "OpenAI’s o3 tackles specific hurdles in reasoning and adaptability that have long stymied large language models. At the same time, it exposes challeng...",
-            "pubDate": "2024-12-29T16:17:58",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-29-07.53.04-A-clean-and-modern-vector-illustration-representing-artificial-intelligence-breakthroughs.-The-design-features-an-abstract-humanoid-AI-figure-with-int.webp?w=578"
-        },
-        {
-            "title": "Mr. Chow founder cuts the price of his art-filled, museum-inspired L.A. mansion to $65 million",
-            "link": "https://www.marketwatch.com/story/mr-chow-founder-cuts-the-price-of-his-art-filled-museum-inspired-l-a-mansion-to-65-million-c6ff3dd2?mod=mw_rss_topstories",
-            "description": "Restaurant mogul Michael Chow is still trying to sell the exquisitely designed Los Angeles mansion, putting it back on the market for the fifth time i...",
-            "pubDate": "2024-12-30T10:06:00",
-            "image_url": "https://images.mktw.net/im-31725521"
-        },
-        {
-            "title": "Rising Treasury yields are the biggest challenge to this bull market. Here are the ‘trigger levels’ to watch.",
-            "link": "https://www.marketwatch.com/story/rising-treasury-yields-are-the-biggest-challenge-to-this-bull-market-here-are-the-trigger-levels-to-watch-9aef5e9f?mod=mw_rss_topstories",
-            "description": "Expect more equity and bond market volatility in early 2025, says Evercore ISI",
-            "pubDate": "2024-12-30T11:26:00",
-            "image_url": "https://images.mktw.net/im-280169"
+            "title": "Forrester on cybersecurity budgeting: 2025 will be the year of CISO fiscal accountability",
+            "link": "https://venturebeat.com/ai/forrester-cybersecurity-budgeting-2025-ciso-fiscal-accountability/",
+            "description": "With 90% of cybersecurity and risk leaders predicting they'll see budget increases in 2025, many are facing a new era of accountability.",
+            "pubDate": "2024-12-30T17:37:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/2025-Cybersecurity-Budget-Benchmarks-for-Optimizing-Spending-and-Strategic-Impact-.jpg?w=578"
         },
         {
             "title": "China wants to restore the sea with high-tech marine ranches",
@@ -124,25 +61,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/2D8DBCB.jpg?w=2667"
         },
         {
-            "title": "Figure AI ships Figure 02 humanoid robots to a paying customer",
-            "link": "https://www.therobotreport.com/figure-ai-ships-figure-02-humanoid-robots-paying-customer/",
-            "description": "Figure AI founder Brett Adcock posted that the company's Figure 02 humanoid robots are now earning revenue. The post Figure AI ships Figure 02 humanoi...",
-            "pubDate": "2024-12-29T13:31:20",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/1734645145330.jpeg"
-        },
-        {
-            "title": "Open Droids develops both single and dual arm mobile manipulators",
-            "link": "https://www.therobotreport.com/open-droids-develops-both-single-dual-arm-mobile-manipulators/",
-            "description": "Open Droids is launching two new models of mobile manipulators, designed for tasks in retail, nursing, and restaurants. The post Open Droids develops ...",
-            "pubDate": "2024-12-27T20:06:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "These stunning images trace ships’ routes as they move",
+            "link": "https://www.technologyreview.com/2024/12/25/1108508/public-data-ship-movements-data-visualization/",
+            "description": "As we run, drive, bike, and fly, we leave behind telltale marks of our movements on Earth—if you know where to look. Physical tracks, thermal signatur...",
+            "pubDate": "2024-12-25T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/seattle.jpg?w=1800"
         },
         {
             "title": "Bay Area events note the convergence of AI and robotics",
@@ -152,18 +75,46 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/AdobeStock_264880448.jpeg"
         },
         {
-            "title": "Revisiting a year of Roundtables, MIT Technology Review’s subscriber-only events",
-            "link": "https://www.technologyreview.com/2024/12/25/1109371/revisiting-a-year-of-roundtables-mit-technology-reviews-subscriber-only-events/",
-            "description": "The worst technologies of 2024. The future of mixed reality. AI’s impact on the climate. These are just a few of the topics we covered this year in MI...",
-            "pubDate": "2024-12-25T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Figure AI ships Figure 02 humanoid robots to a paying customer",
+            "link": "https://www.therobotreport.com/figure-ai-ships-figure-02-humanoid-robots-paying-customer/",
+            "description": "Figure AI founder Brett Adcock posted that the company's Figure 02 humanoid robots are now earning revenue. The post Figure AI ships Figure 02 humanoi...",
+            "pubDate": "2024-12-29T13:31:20",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/1734645145330.jpeg"
         },
         {
-            "title": "Despite intense AI arms race, we’re in for a multi-modal future",
+            "title": "Despite intense AI arms race, we’re in for a multi-model future",
             "link": "https://venturebeat.com/ai/despite-heated-ai-arms-race-were-in-for-a-multi-modal-future/",
             "description": "There will be no single model that will rule the universe, neither next year nor next decade. Instead, the future of AI will be multi-model.",
             "pubDate": "2024-12-29T21:05:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_in_an_office_optimistic_088da783-ac0e-4ecc-87d8-74540d3af662-transformed.webp?w=578"
+        },
+        {
+            "title": "Revisiting a year of Roundtables, MIT Technology Review’s subscriber-only events",
+            "link": "https://www.technologyreview.com/2024/12/25/1109371/revisiting-a-year-of-roundtables-mit-technology-reviews-subscriber-only-events/",
+            "description": "The worst technologies of 2024. The future of mixed reality. AI’s impact on the climate. These are just a few of the topics we covered this year in MI...",
+            "pubDate": "2024-12-25T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "This international surveillance project aims to protect wheat from deadly diseases",
+            "link": "https://www.technologyreview.com/2024/12/26/1108531/international-surveillance-wheat-crop-rust-infections/",
+            "description": "When Dave Hodson walked through wheat fields in Ethiopia in 2010, it seemed as if everything had been painted yellow. A rust fungus was in the process...",
+            "pubDate": "2024-12-26T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "100% stocks for retirement? A new study says dump the 60/40 portfolio and target-date funds.",
+            "link": "https://www.marketwatch.com/story/100-stocks-for-retirement-a-new-study-says-dump-the-60-40-portfolio-and-target-date-funds-1dac631d?mod=mw_rss_topstories",
+            "description": "An all-equity portfolio, with a focus on international stocks, could be the key to maximizing retirement wealth, research suggests.",
+            "pubDate": "2024-12-30T17:30:00",
+            "image_url": "https://images.mktw.net/im-93605208"
+        },
+        {
+            "title": "Five breakthroughs that make OpenAI’s o3 a turning point for AI — and one big challenge",
+            "link": "https://venturebeat.com/ai/five-breakthroughs-that-make-openais-o3-a-turning-point-for-ai-and-one-big-challenge/",
+            "description": "OpenAI’s o3 tackles specific hurdles in reasoning and adaptability that have long stymied large language models. At the same time, it exposes challeng...",
+            "pubDate": "2024-12-29T16:17:58",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-29-07.53.04-A-clean-and-modern-vector-illustration-representing-artificial-intelligence-breakthroughs.-The-design-features-an-abstract-humanoid-AI-figure-with-int.webp?w=578"
         },
         {
             "title": "EngineAI releases PM01 humanoid robot for commercial, educational use",
@@ -173,11 +124,60 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/engineai-3.jpeg"
         },
         {
-            "title": "The ‘BATMMAAN’ stocks swooped to the market’s rescue in December. Will they keep climbing in 2025?",
-            "link": "https://www.marketwatch.com/story/the-batmmaan-stocks-swooped-to-the-markets-rescue-in-december-will-they-keep-climbing-in-2025-75ac36bc?mod=mw_rss_topstories",
-            "description": "After a blistering 2024 rally, the U.S. stock market has run into a bit of trouble in December.",
-            "pubDate": "2024-12-30T10:47:00",
-            "image_url": "https://images.mktw.net/im-60195183"
+            "title": "Boeing’s bonds are again showing more confidence than the stock",
+            "link": "https://www.marketwatch.com/story/boeings-bonds-are-again-showing-more-confidence-than-the-stock-bdf5c66e?mod=mw_rss_topstories",
+            "description": "Boeing Co.’s stock was down Monday after a deadly crash in South Korea, but its bonds were holding up.",
+            "pubDate": "2024-12-30T18:03:00",
+            "image_url": "https://images.mktw.net/im-55751150"
+        },
+        {
+            "title": "Don’t compare your retirement investments to the S&P 500",
+            "link": "https://www.marketwatch.com/story/dont-compare-your-retirement-investments-to-the-s-p-500-2b373920?mod=mw_rss_topstories",
+            "description": "Retirement is about maximizing reliable cash flow for life",
+            "pubDate": "2024-12-30T17:10:00",
+            "image_url": "https://images.mktw.net/im-31575214"
+        },
+        {
+            "title": "Warren Buffett stocks for your IRA in 2025",
+            "link": "https://www.marketwatch.com/story/warren-buffett-stocks-for-your-ira-in-2025-2287d03b?mod=mw_rss_topstories",
+            "description": "These picks look even more interesting than Berkshire Hathaway",
+            "pubDate": "2024-12-30T17:24:00",
+            "image_url": "https://images.mktw.net/im-332146"
+        },
+        {
+            "title": "Why 2025 will be the year of AI orchestration",
+            "link": "https://venturebeat.com/ai/three-ways-2025-will-be-the-year-of-agentic-productivity/",
+            "description": "For many, 2025 will be the year of AI agents, when pilot programs, experiments and use cases converge into something resembling ROI.",
+            "pubDate": "2024-12-30T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/crimedy7_illustration_robot_reading_a_2025_calendar_abstract_ba_a49377fe-c893-4b72-b06f-cda0523d9790.png?w=578"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Nvidia to open-source Run:ai, the software it acquired for $700M to help companies manage GPUs for AI",
+            "link": "https://venturebeat.com/ai/nvidia-acquires-software-maker-runai-to-orchestrate-gpu-clouds-for-ai/",
+            "description": "Nvidia has completed its acquisition of Run:ai, a software company that makes it easier for customers to orchestrate GPU clouds for AI.",
+            "pubDate": "2024-12-30T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/runai.jpg?w=578"
+        },
+        {
+            "title": "‘He ended up homeless and penniless’: My uncle conned my father into signing over their mother’s house. What can I do?",
+            "link": "https://www.marketwatch.com/story/he-ended-up-homeless-and-penniless-my-uncle-conned-my-father-into-signing-over-their-mothers-house-what-can-i-do-b652e413?mod=mw_rss_topstories",
+            "description": "“His brother went to the prison where my dad was incarcerated and had him sign over the house.”",
+            "pubDate": "2024-12-30T17:17:00",
+            "image_url": "https://images.mktw.net/im-58634260"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         }
     ]
 }
