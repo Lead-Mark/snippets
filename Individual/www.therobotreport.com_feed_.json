@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-01T03:27:13.841640",
+    "lastBuildDate": "2025-01-01T13:47:04.300754",
     "items": [
+        {
+            "title": "Top 10 robotics stories of December 2024",
+            "link": "https://www.therobotreport.com/top-10-robotics-stories-of-december-2024/",
+            "description": "A series of humanoid-related announcements dominated our most popular articles in December 2024. The post Top 10 robotics stories of December 2024 app...",
+            "pubDate": "2025-01-01T15:49:00",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/AdobeStock_china-featured-300x195.jpg"
+        },
         {
             "title": "Focal One completes study to expand access to robotic prostate cancer treatment",
             "link": "https://www.therobotreport.com/focal-one-completes-study-to-expand-access-to-robotic-prostate-cancer-treatment/",
@@ -31,13 +38,6 @@
             "description": "Voyant claimed that its Carbon sensor outperforms best-in-class time-of-flight lidar in operating through dust, fog, rain, and snow. The post Voyant P...",
             "pubDate": "2024-12-31T15:46:11",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Voyant_Photonics_CARBON-featured.jpg"
-        },
-        {
-            "title": "STMicroelectronics boosts AI at the edge with NPU-accelerated microcontroller",
-            "link": "https://www.therobotreport.com/stmicroelectronics-boosts-ai-edge-npu-accelerated-microcontroller/",
-            "description": "The STM32N6 microcontroller is the most powerful to date from STMicroelectronics and the first to embed its neural processing unit. The post STMicroel...",
-            "pubDate": "2024-12-30T23:35:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/AST-STM32N6-featured.jpg"
         }
     ]
 }
