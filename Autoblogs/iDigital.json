@@ -2,14 +2,70 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-02T06:59:56.093969",
+    "lastBuildDate": "2025-01-02T11:54:46.221130",
     "items": [
         {
-            "title": "I’m the executor of my 90-year-old aunt’s estate. A neighbor threatened me and wants to buy her house. What should I do?",
-            "link": "https://www.marketwatch.com/story/im-the-executor-of-my-90-year-old-aunts-estate-a-neighbor-threatened-me-and-wants-to-buy-her-house-what-should-i-do-d84ee5c4?mod=mw_rss_topstories",
-            "description": "“I believe she doesn’t have that much time left.”",
-            "pubDate": "2025-01-02T11:39:00",
-            "image_url": "https://images.mktw.net/im-01035065"
+            "title": "Focal One completes study to expand access to robotic prostate cancer treatment",
+            "link": "https://www.therobotreport.com/focal-one-completes-study-to-expand-access-to-robotic-prostate-cancer-treatment/",
+            "description": "The study found that Focal One's treatment methods match up with the gold star standard of surgery, and improve quality of life outcomes. The post Foc...",
+            "pubDate": "2024-12-31T21:57:27",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Focal-One-Machine-featured.jpg"
+        },
+        {
+            "title": "The biggest AI flops of 2024",
+            "link": "https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/",
+            "description": "The past 12 months have been undeniably busy for those working in AI. There have been more successful product launches than we can count, and even Nob...",
+            "pubDate": "2024-12-31T19:43:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Samsung increases stake in Rainbow Robotics, establishes Future Robotics Office",
+            "link": "https://www.therobotreport.com/samsung-increases-stake-in-rainbow-robotics-establishes-future-robotics-office/",
+            "description": "Samsung Electronics is making Rainbow Robotics a subsidiary, and the office will focus on developing humanoids and other robots. The post Samsung incr...",
+            "pubDate": "2024-12-31T17:38:32",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Rainbow_Robotics_RB_Y1.jpg"
+        },
+        {
+            "title": "Why EVs are (mostly) set for solid growth this year",
+            "link": "https://www.technologyreview.com/2025/01/02/1109521/why-evs-are-mostly-set-for-solid-growth-this-year/",
+            "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+            "pubDate": "2025-01-02T09:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Oil prices rise to kick off 2025, boosted by a stronger demand outlook",
+            "link": "https://www.marketwatch.com/story/oil-prices-rise-to-kick-off-2025-boosted-by-china-stimulus-hopes-7710ce3f?mod=mw_rss_topstories",
+            "description": "Oil futures began 2025 on a positive note, boosted by expectations for stronger demand.",
+            "pubDate": "2025-01-02T16:50:00",
+            "image_url": "https://images.mktw.net/im-91879581"
+        },
+        {
+            "title": "Nvidia to open-source Run:ai, the software it acquired for $700M to help companies manage GPUs for AI",
+            "link": "https://venturebeat.com/ai/nvidia-acquires-software-maker-runai-to-orchestrate-gpu-clouds-for-ai/",
+            "description": "Nvidia has completed its acquisition of Run:ai, a software company that makes it easier for customers to orchestrate GPU clouds for AI.",
+            "pubDate": "2024-12-30T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/runai.jpg?w=578"
+        },
+        {
+            "title": "Google’s antitrust woes spark analyst downgrade of Alphabet’s stock",
+            "link": "https://www.marketwatch.com/story/googles-antitrust-woes-spark-analyst-downgrade-of-alphabets-stock-e4535b4e?mod=mw_rss_topstories",
+            "description": "JMP Securities cited “the risk of antitrust penalties that could significantly impact Google’s U.S. distribution of search and search revenue.”",
+            "pubDate": "2025-01-02T16:31:00",
+            "image_url": "https://images.mktw.net/im-65814078"
+        },
+        {
+            "title": "Inside the AI agent revolution: How data-driven automation transformed the enterprise in 2024",
+            "link": "https://venturebeat.com/data-infrastructure/unlocking-value-from-data-how-ai-agents-conquered-2024/",
+            "description": "In a recent survey, 82% of tech executives said they intend to integrate AI agents across their stacks within the next three years.",
+            "pubDate": "2024-12-31T07:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/03/a_colored_robot_working_as_a_programmer_writing.jpg?w=578"
+        },
+        {
+            "title": "Forrester on cybersecurity budgeting: 2025 will be the year of CISO fiscal accountability",
+            "link": "https://venturebeat.com/ai/forrester-cybersecurity-budgeting-2025-ciso-fiscal-accountability/",
+            "description": "With 90% of cybersecurity and risk leaders predicting they'll see budget increases in 2025, many are facing a new era of accountability.",
+            "pubDate": "2024-12-30T17:37:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/2025-Cybersecurity-Budget-Benchmarks-for-Optimizing-Spending-and-Strategic-Impact-.jpg?w=578"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -26,67 +82,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         },
         {
-            "title": "The biggest AI flops of 2024",
-            "link": "https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/",
-            "description": "The past 12 months have been undeniably busy for those working in AI. There have been more successful product launches than we can count, and even Nob...",
-            "pubDate": "2024-12-31T19:43:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Nvidia to open-source Run:ai, the software it acquired for $700M to help companies manage GPUs for AI",
-            "link": "https://venturebeat.com/ai/nvidia-acquires-software-maker-runai-to-orchestrate-gpu-clouds-for-ai/",
-            "description": "Nvidia has completed its acquisition of Run:ai, a software company that makes it easier for customers to orchestrate GPU clouds for AI.",
-            "pubDate": "2024-12-30T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/runai.jpg?w=578"
-        },
-        {
-            "title": "Inside the AI agent revolution: How data-driven automation transformed the enterprise in 2024",
-            "link": "https://venturebeat.com/data-infrastructure/unlocking-value-from-data-how-ai-agents-conquered-2024/",
-            "description": "In a recent survey, 82% of tech executives said they intend to integrate AI agents across their stacks within the next three years.",
-            "pubDate": "2024-12-31T07:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/03/a_colored_robot_working_as_a_programmer_writing.jpg?w=578"
-        },
-        {
-            "title": "Focal One completes study to expand access to robotic prostate cancer treatment",
-            "link": "https://www.therobotreport.com/focal-one-completes-study-to-expand-access-to-robotic-prostate-cancer-treatment/",
-            "description": "The study found that Focal One's treatment methods match up with the gold star standard of surgery, and improve quality of life outcomes. The post Foc...",
-            "pubDate": "2024-12-31T21:57:27",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Focal-One-Machine-featured.jpg"
-        },
-        {
-            "title": "These are the most popular Moneyist columns of 2024",
-            "link": "https://www.marketwatch.com/story/these-are-the-most-popular-moneyist-columns-of-2024-69fbbf4a?mod=mw_rss_topstories",
-            "description": "Divorce, student debt, airline travel, house purchase and inheritance comprised the top 5 most read columns of the year.",
-            "pubDate": "2025-01-02T11:32:00",
-            "image_url": "https://images.mktw.net/im-88436405"
-        },
-        {
-            "title": "The stock market rarely scores hat tricks. This strategist fears what’s next.",
-            "link": "https://www.marketwatch.com/story/the-stock-market-rarely-scores-hat-tricks-this-strategist-fears-whats-next-e56ab91f?mod=mw_rss_topstories",
-            "description": "The S&P 500 has managed two consecutive 20%-plus years in a row, but that has rarely led to a third great year, says this strategist.",
-            "pubDate": "2025-01-02T11:40:00",
-            "image_url": "https://images.mktw.net/im-10704221"
-        },
-        {
-            "title": "Samsung increases stake in Rainbow Robotics, establishes Future Robotics Office",
-            "link": "https://www.therobotreport.com/samsung-increases-stake-in-rainbow-robotics-establishes-future-robotics-office/",
-            "description": "Samsung Electronics is making Rainbow Robotics a subsidiary, and the office will focus on developing humanoids and other robots. The post Samsung incr...",
-            "pubDate": "2024-12-31T17:38:32",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Rainbow_Robotics_RB_Y1.jpg"
-        },
-        {
-            "title": "Top 10 robotics stories of December 2024",
-            "link": "https://www.therobotreport.com/top-10-robotics-stories-of-december-2024/",
-            "description": "A series of humanoid-related announcements dominated our most popular articles in December 2024. The post Top 10 robotics stories of December 2024 app...",
-            "pubDate": "2025-01-01T15:49:00",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/AdobeStock_china-featured-300x195.jpg"
-        },
-        {
-            "title": "Why 2025 will redefine data infrastructure: 11 expert insights on sovereign clouds, exploding data, PaaS and more",
-            "link": "https://venturebeat.com/data-infrastructure/why-2025-will-redefine-data-infrastructure-11-expert-insights-on-sovereign-clouds-exploding-data-paas-and-more/",
-            "description": "Key predictions from data infrastructure industry experts and vendors to help enterprises tap the AI opportunity for growth in 2025.",
-            "pubDate": "2024-12-30T19:59:10",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/an-illustration-of-waves-of-data-flowing_GC9tqHSBRl-VZajpMZzb-w_BvgPtnRNQqmTQqD6O4Zrhw.jpeg?w=578"
+            "title": "The Download: AI flops, and what the year ahead holds for EVs",
+            "link": "https://www.technologyreview.com/2025/01/02/1109641/the-download-ai-flops-and-what-the-year-ahead-holds-for-evs/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The biggest ...",
+            "pubDate": "2025-01-02T13:40:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe488DpVQoAcQTdt-lEQuvZYTVadnJnlzhqiTzi05rM0JUYf-Ljqs10Z17Xn9mMyqLUmnSMclVSFnm8dHDfeHJ7TEqt4np8HzfBuiQylPj28alifKDi9hQO0IWOBn1Tb81J8l-FIQ?key=zRIEBt0uOybp-06HRV_jD_Rf"
         },
         {
             "title": "Voyant Photonics launches Carbon FMCW lidar sensor",
@@ -96,18 +96,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/Voyant_Photonics_CARBON-featured.jpg"
         },
         {
-            "title": "‘He ended up homeless and penniless’: My uncle conned my father into signing over their mother’s house. What can I do?",
-            "link": "https://www.marketwatch.com/story/he-ended-up-homeless-and-penniless-my-uncle-conned-my-father-into-signing-over-their-mothers-house-what-can-i-do-b652e413?mod=mw_rss_topstories",
-            "description": "“His brother went to the prison where my dad was incarcerated and had him sign over the house.”",
-            "pubDate": "2025-01-02T11:34:00",
-            "image_url": "https://images.mktw.net/im-58634260"
+            "title": "Tesla’s first-ever drop in sales is a bearish sign for 2025. Will autonomous vehicles be enough?",
+            "link": "https://www.marketwatch.com/story/teslas-stock-slides-after-fourth-quarter-and-full-year-sales-fall-short-of-estimates-1c07cded?mod=mw_rss_topstories",
+            "description": "Tesla’s “golden goose” will be a robotaxi, one analyst says.",
+            "pubDate": "2025-01-02T16:28:00",
+            "image_url": "https://images.mktw.net/im-88709026"
         },
         {
-            "title": "Here’s the 2025 surprise that could cause a 10% to 15% stock correction",
-            "link": "https://www.marketwatch.com/story/heres-the-2025-surprise-that-could-cause-a-10-to-15-stock-correction-a2a9f8ce?mod=mw_rss_topstories",
-            "description": "Strategist Jim Paulsen says the economic backdrop is pointing to a slowdown in 2025 and this could drive down stocks.",
-            "pubDate": "2025-01-02T10:50:00",
-            "image_url": "https://images.mktw.net/im-59675598"
+            "title": "How wind tech could help decarbonize cargo shipping",
+            "link": "https://www.technologyreview.com/2025/01/02/1108651/wind-shipping-decarbonize-climate-change/",
+            "description": "Inhabitants of the Marshall Islands—a chain of coral atolls in the center of the Pacific Ocean—rely on sea transportation for almost everything: movin...",
+            "pubDate": "2025-01-02T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/IMG_2745.jpg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -117,13 +117,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "The Vera C. Rubin Observatory is ready to transform our understanding of the cosmos",
-            "link": "https://www.technologyreview.com/2025/01/01/1108643/vera-c-rubin-observatory-telescope-cosmos-universe-space-digital-camera/",
-            "description": "High atop Chile’s 2,700-meter Cerro Pachón, the air is clear and dry, leaving few clouds to block the beautiful view of the stars. It’s here that the ...",
-            "pubDate": "2025-01-01T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MM10211_240711_05596.jpg?w=2667"
-        },
-        {
             "title": "Why 2025 will be the year of AI orchestration",
             "link": "https://venturebeat.com/ai/three-ways-2025-will-be-the-year-of-agentic-productivity/",
             "description": "For many, 2025 will be the year of AI agents, when pilot programs, experiments and use cases converge into something resembling ROI.",
@@ -131,25 +124,25 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/crimedy7_illustration_robot_reading_a_2025_calendar_abstract_ba_a49377fe-c893-4b72-b06f-cda0523d9790.png?w=578"
         },
         {
-            "title": "How wind tech hopes to help decarbonize cargo shipping",
-            "link": "https://www.technologyreview.com/2025/01/02/1108651/wind-shipping-decarbonize-climate-change/",
-            "description": "Inhabitants of the Marshall Islands—a chain of coral atolls in the center of the Pacific Ocean—rely on sea transportation for almost everything: movin...",
-            "pubDate": "2025-01-02T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/IMG_2745.jpg"
+            "title": "Top 10 robotics stories of December 2024",
+            "link": "https://www.therobotreport.com/top-10-robotics-stories-of-december-2024/",
+            "description": "A series of humanoid-related announcements dominated our most popular articles in December 2024. The post Top 10 robotics stories of December 2024 app...",
+            "pubDate": "2025-01-01T15:49:00",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/AdobeStock_china-featured-300x195.jpg"
         },
         {
-            "title": "Why EVs are (mostly) set for solid growth this year",
-            "link": "https://www.technologyreview.com/2025/01/02/1109521/why-evs-are-mostly-set-for-solid-growth-this-year/",
-            "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
-            "pubDate": "2025-01-02T09:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Widen the aperture for space stocks to watch in 2025 — the story doesn’t begin and end with SpaceX and Boeing",
+            "link": "https://www.marketwatch.com/story/widen-the-aperture-for-space-stocks-to-watch-in-2025-the-story-doesnt-begin-and-end-with-spacex-and-boeing-bee1ef41?mod=mw_rss_topstories",
+            "description": "After a big year for SpaceX — and one of misfortune for Boeing — here’s what to expect in the new year.",
+            "pubDate": "2025-01-02T16:06:00",
+            "image_url": "https://images.mktw.net/im-88134839"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Neumora Therapeutics’ stock craters after trial of major depressive disorder fails to meet main goals",
+            "link": "https://www.marketwatch.com/story/neumora-therapeutics-stock-craters-after-trial-of-major-depressive-disorder-fails-to-meet-main-goals-5417d73d?mod=mw_rss_topstories",
+            "description": "The news is a setback for the clinical-stage biotech and a drug that proved successful in earlier trials.",
+            "pubDate": "2025-01-02T16:03:00",
+            "image_url": "https://images.mktw.net/im-19094182"
         },
         {
             "title": "The state of AI, robotics heading into 2025",
@@ -159,6 +152,13 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/2025-predictions-robot-featured.jpg"
         },
         {
+            "title": "The Vera C. Rubin Observatory is ready to transform our understanding of the cosmos",
+            "link": "https://www.technologyreview.com/2025/01/01/1108643/vera-c-rubin-observatory-telescope-cosmos-universe-space-digital-camera/",
+            "description": "High atop Chile’s 2,700-meter Cerro Pachón, the air is clear and dry, leaving few clouds to block the beautiful view of the stars. It’s here that the ...",
+            "pubDate": "2025-01-01T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MM10211_240711_05596.jpg?w=2667"
+        },
+        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -166,18 +166,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "The AI Hype Index: Robot pets, simulated humans, and Apple’s AI text summaries",
-            "link": "https://www.technologyreview.com/2024/12/31/1108640/ai-hype-index-apple-google-deepmind-openai-meta/",
-            "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
-            "pubDate": "2024-12-31T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Why 2025 will redefine data infrastructure: 11 expert insights on sovereign clouds, exploding data, PaaS and more",
+            "link": "https://venturebeat.com/data-infrastructure/why-2025-will-redefine-data-infrastructure-11-expert-insights-on-sovereign-clouds-exploding-data-paas-and-more/",
+            "description": "Key predictions from data infrastructure industry experts and vendors to help enterprises tap the AI opportunity for growth in 2025.",
+            "pubDate": "2024-12-30T19:59:10",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/an-illustration-of-waves-of-data-flowing_GC9tqHSBRl-VZajpMZzb-w_BvgPtnRNQqmTQqD6O4Zrhw.jpeg?w=578"
         },
         {
-            "title": "Forrester on cybersecurity budgeting: 2025 will be the year of CISO fiscal accountability",
-            "link": "https://venturebeat.com/ai/forrester-cybersecurity-budgeting-2025-ciso-fiscal-accountability/",
-            "description": "With 90% of cybersecurity and risk leaders predicting they'll see budget increases in 2025, many are facing a new era of accountability.",
-            "pubDate": "2024-12-30T17:37:49",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/2025-Cybersecurity-Budget-Benchmarks-for-Optimizing-Spending-and-Strategic-Impact-.jpg?w=578"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         }
     ]
 }
