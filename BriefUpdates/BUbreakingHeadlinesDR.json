@@ -2,104 +2,62 @@
     "title": "BUbreakingHeadlines",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUbreakingHeadlines, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-03T14:33:33.246201",
+    "lastBuildDate": "2025-01-04T03:25:17.042517",
     "items": [
         {
-            "title": "Several new members of Congress will make LGBTQ history",
-            "link": "https://abcnews.go.com/Politics/history-making-lgbtq-legislators-sworn-119th-congress/story?id=117295558",
-            "description": "Three history-making, newly elected lawmakers representing the LGBTQ community will be sworn in to the 119th Congress Friday.",
-            "pubDate": "2025-01-03T19:21:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "An Army veteran’s path to radicalization followed divorces and struggling businesses in Texas",
-            "link": "https://apnews.com/article/new-orleans-terror-attack-driver-family-divorce-45a58097acfd821d44535fb5447f140d",
-            "description": "",
-            "pubDate": "2025-01-02T17:55:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "How much alcohol is bad for you? And more questions, answered.",
-            "link": "https://www.cbsnews.com/news/alcohol-cancer-warning-labels-surgeon-general/",
-            "description": "U.S. Surgeon General Dr. Vivek Murthy​ is calling for cancer risk warnings​ to be included on alcoholic beverages, prompting questions about the healt...",
-            "pubDate": "2025-01-03T18:45:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Trump Fans Are Finding Out How Much He Actually Cares About Them",
-            "link": "https://www.yahoo.com/news/trump-fans-finding-much-actually-144626660.html",
-            "description": "",
-            "pubDate": "2025-01-03T14:46:26",
-            "image_url": "https://media.zenfs.com/en/the_new_republic_521/916fec5cd47535e83d58893b14e65efe"
-        },
-        {
-            "title": "New Orleans inches toward normalcy while mourning victims of deadly New Year’s rampage",
-            "link": "https://apnews.com/article/new-orleans-truck-crash-88a300e2f36eaf2920ed634983d72f08",
-            "description": "Street performers and football fans returned to New Orleans streets as the city inched back toward normalcy.",
-            "pubDate": "2025-01-03T00:03:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "US Steel acquisition by Japan’s Nippon blocked",
-            "link": "https://abcnews.go.com/Business/biden-blocks-us-steel-takeover-japan-based-nippon/story?id=117294951",
-            "description": "Domestic steel production is essential to U.S. security, Biden said.",
-            "pubDate": "2025-01-03T17:41:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "LIVE:  Johnson appears on track to lose first vote for speaker: ABC News Live",
-            "link": "https://abcnews.go.com/Live/video/abcnews-live-41463246",
-            "description": "24/7 coverage of breaking news and live events",
-            "pubDate": "2025-01-03T18:42:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Thai PM declares luxury handbags, watches among $400 million in assets",
-            "link": "https://www.cbsnews.com/news/thailand-prime-minister-400-million-assets-luxury-handbags-watches/",
-            "description": "Thailand's youngest-ever leader has more than 200 designer handbags worth over $2 million, as well as property in London and Japan, her party said.",
-            "pubDate": "2025-01-03T19:22:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "‘Mystery volcano’ that erupted and cooled Earth in 1831 has finally been identified",
-            "link": "https://www.yahoo.com/news/mystery-volcano-erupted-cooled-earth-131746000.html",
-            "description": "",
-            "pubDate": "2025-01-03T13:17:46",
-            "image_url": "https://media.zenfs.com/en/cnn_articles_875/610e067355c5bbd1b5d7c669fbc04b15"
-        },
-        {
-            "title": "Argentina police arrest man for supplying drugs to Liam Payne",
-            "link": "https://www.cbsnews.com/news/liam-payne-death-drug-arrest-argentina/",
-            "description": "Braian Paiz is one of five people who has been charged in \"One Direction\" singer Liam Payne's death.",
-            "pubDate": "2025-01-03T19:18:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Speakership uncertainty as new Congress begins. Here's how voting will work.",
-            "link": "https://abcnews.go.com/Politics/expect-119th-congress-sworn/story?id=117285703",
-            "description": "The 119th Congress convenes Friday with a huge shift of power in Washington as the GOP takes control of both chambers ahead of Donald Trump's inaugura...",
-            "pubDate": "2025-01-03T17:53:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Mike Johnson doesn't get enough votes to remain House speaker in first round",
-            "link": "https://www.cbsnews.com/video/mike-johnson-doesnt-get-enough-votes-to-remain-house-speaker-in-first-round/",
-            "description": "House Speaker Mike Johnson will have to court his Republican colleagues some more to obtain enough support to retain his gavel. At least three lawmake...",
-            "pubDate": "2025-01-03T18:58:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Johnson fails to reclaim speakership on first ballot",
-            "link": "https://www.yahoo.com/news/johnson-expected-fail-first-vote-182535643.html",
-            "description": "",
-            "pubDate": "2025-01-03T18:25:35",
+            "title": "579 animals killed after fire rips through Northwest Dallas shopping center",
+            "link": "https://www.cbsnews.com/news/hundreds-of-animals-die-plaza-latina-shopping-center-fire-northwest-dallas/",
+            "description": "Most of the animals died of smoke inhalation, officials said. They included birds, chickens, hamsters, dogs and cats.",
+            "pubDate": "2025-01-04T05:21:16",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "New Orleans attack latest: Bidens to visit New Orleans on Monday",
+            "title": "New Orleans attack latest: Suspect's travel to Egypt under investigation",
             "link": "https://abcnews.go.com/US/new-orleans-attack-latest-fbi-dhs-warn-copycat/story?id=117290889",
-            "description": "The FBI and Department of Homeland Security issued a joint intelligence bulletin warning that copycats seeking to emulate the attack in New Orleans.",
-            "pubDate": "2025-01-03T17:49:13",
+            "description": "The suspect in the truck attack that killed 14 and injured dozens on New Orleans' Bourbon street on New Year's had traveled to Egypt in 2023 for about...",
+            "pubDate": "2025-01-03T23:09:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "An Arizona prisoner is asking to be executed sooner than the state wants",
+            "link": "https://www.yahoo.com/news/arizona-prisoner-asking-executed-sooner-225229767.html",
+            "description": "",
+            "pubDate": "2025-01-03T22:52:29",
+            "image_url": "https://media.zenfs.com/en/ap.org/371ba77b7f88f8b1e30ae72dd6ce99e7"
+        },
+        {
+            "title": "Biden awards Medal of Honor to 7 US Army veterans",
+            "link": "https://abcnews.go.com/Politics/biden-award-medal-honor-7-us-army-veterans/story?id=117236782",
+            "description": "The award is given to those who \"distinguish themselves conspicuously by gallantry and intrepidity at the risk of their own lives,\" according to the W...",
+            "pubDate": "2025-01-03T23:26:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Nassau County flags not lowered to half-staff following Jimmy Carter's death",
+            "link": "https://www.cbsnews.com/news/nassau-county-flags-not-lowered-jimmy-carter/",
+            "description": "A Republican county official on Long Island is refusing to lower flags to half-staff following the death of former President Jimmy Carter.",
+            "pubDate": "2025-01-04T03:15:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Judge in Trump's hush money case expected to sentence him to 'unconditional discharge'",
+            "link": "https://www.yahoo.com/news/judge-trumps-hush-money-case-210600353.html",
+            "description": "",
+            "pubDate": "2025-01-03T22:17:00",
+            "image_url": "https://media.zenfs.com/en/us.abcnews.go.com/33d0e5dc1aee92104685290808884bdb"
+        },
+        {
+            "title": "How Mike Johnson pulled out a 2nd term as House speaker -- with Donald Trump's help",
+            "link": "https://abcnews.go.com/Politics/mike-johnson-pulled-2nd-term-house-speaker-donald/story?id=117315855",
+            "description": "Mike Johnson secured the gavel in dramatic fashion, as he was on track to lose before two Republican defectors changed their vote after speaking to Do...",
+            "pubDate": "2025-01-03T22:28:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Over 100 killed in Gaza Strip in first 3 days of 2025, Hamas-run Health Ministry says",
+            "link": "https://www.cbsnews.com/video/over-100-killed-gaza-strip-since-new-year/",
+            "description": "The war between Israel and Hamas shows no signs of slowing in 2025. Over 100 people have been killed in the Gaza Strip in the first three days of the ...",
+            "pubDate": "2025-01-04T01:56:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
@@ -107,28 +65,70 @@
             "link": "https://apnews.com/article/new-orleans-killed-crash-terrorist-attack-9f2fbcc3e48d8b391590f60969e80e61",
             "description": "",
             "pubDate": "2025-01-01T17:57:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Feds find bomb-making material in home of New Orleans attacker",
+            "link": "https://www.cbsnews.com/video/feds-find-bomb-making-material-in-home-of-new-orleans-attacker/",
+            "description": "New Orleans is ramping up security in the aftermath of the New Year's Day terror attack that killed 14 people and wounded dozens more. The city is set...",
+            "pubDate": "2025-01-04T02:10:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Surgeon General: Two alcoholic drinks a day increases risks for seven types of cancer",
-            "link": "https://www.yahoo.com/news/surgeon-general-two-alcoholic-drinks-151425802.html",
+            "title": "Hillcrest Farmers Market set to move this month: Here’s where it’s going",
+            "link": "https://www.yahoo.com/news/hillcrest-farmers-market-set-move-211741596.html",
             "description": "",
-            "pubDate": "2025-01-03T15:14:25",
-            "image_url": "https://media.zenfs.com/en/united_press_international_articles_356/2b3cf5a494f10668174834b5927d5631"
+            "pubDate": "2025-01-03T21:17:41",
+            "image_url": "https://media.zenfs.com/en/kswb_articles_601/53657ab59fe3a240c21294ecbccbc6b4"
         },
         {
-            "title": "Janel Grant To Amend Lawsuit Against WWE, Vince McMahon, & John Laurinaitis",
-            "link": "https://www.yahoo.com/entertainment/janel-grant-amend-lawsuit-against-143120668.html",
-            "description": "",
-            "pubDate": "2025-01-03T14:31:20",
-            "image_url": "https://media.zenfs.com/en/wrestle_zone_910/9d779835a6d574dde7a6444506399203"
+            "title": "Several new members of Congress will make LGBTQ history",
+            "link": "https://abcnews.go.com/Politics/history-making-lgbtq-legislators-sworn-119th-congress/story?id=117295558",
+            "description": "Three history-making, newly elected lawmakers representing the LGBTQ community will be sworn in to the 119th Congress Friday.",
+            "pubDate": "2025-01-03T22:39:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "New Orleans attacker posted recordings on his beliefs in year before rampage",
-            "link": "https://www.cbsnews.com/news/new-orleans-truck-attacker-audio-recordings-music-discussing-religious-beliefs/",
-            "description": "Shamsud-Din Jabbar made no mention of plans for violence or affiliations with extremist groups in the recordings.",
-            "pubDate": "2025-01-03T19:28:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "New Orleans attacker had suspected bomb materials at home, reserved truck weeks ago, officials say",
+            "link": "https://apnews.com/article/new-orleans-truck-crash-88a300e2f36eaf2920ed634983d72f08",
+            "description": "Law enforcement officials say the man who rammed a truck into a New Year’s crowd had suspected bomb-making materials at his home and reserved the rent...",
+            "pubDate": "2025-01-03T00:03:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "WA skiers demanding action as 'rampant' thefts plague Stevens Pass resort",
+            "link": "https://www.yahoo.com/news/wa-skiers-demanding-action-rampant-022605405.html",
+            "description": "",
+            "pubDate": "2025-01-04T02:26:05",
+            "image_url": "https://media.zenfs.com/en/kcpq_fox_local_articles_135/9ef7e200ab72844b3c203ae2de182839"
+        },
+        {
+            "title": "Hundreds of animals killed in Dallas shopping center fire",
+            "link": "https://abcnews.go.com/US/wireStory/hundreds-animals-killed-dallas-shopping-center-fire-117325373",
+            "description": "Authorities in Dallas say a fire that broke out at a shopping center in Dallas has killed more than 500 animals, most of which were small birds",
+            "pubDate": "2025-01-04T05:48:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "An Army veteran’s path to radicalization followed divorces and struggling businesses in Texas",
+            "link": "https://apnews.com/article/new-orleans-terror-attack-driver-family-divorce-45a58097acfd821d44535fb5447f140d",
+            "description": "",
+            "pubDate": "2025-01-02T17:55:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Farm Show snow: What to expect Monday",
+            "link": "https://www.yahoo.com/news/farm-show-snow-expect-monday-231525922.html",
+            "description": "",
+            "pubDate": "2025-01-03T23:15:25",
+            "image_url": "https://media.zenfs.com/en/whtm_articles_902/5b2a2a0d8e5e72cf02cefc42ca913c73"
+        },
+        {
+            "title": "1/3: CBS Evening News",
+            "link": "https://www.cbsnews.com/video/010325-cbs-evening-news/",
+            "description": "Feds find bomb-making material in home of New Orleans attacker; Louisiana boy rewarded after giving away his only dollar",
+            "pubDate": "2025-01-04T05:14:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
