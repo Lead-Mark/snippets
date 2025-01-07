@@ -2,147 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-07T07:24:56.860324",
+    "lastBuildDate": "2025-01-07T11:53:03.249899",
     "items": [
-        {
-            "title": "How optimistic are you about AI’s future?",
-            "link": "https://www.technologyreview.com/2025/01/07/1109793/how-optimistic-are-you-about-ais-future/",
-            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. The start of...",
-            "pubDate": "2025-01-07T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Nvidia gets key design wins to bring AI to autonomous vehicle fleets",
-            "link": "https://venturebeat.com/ai/nvidia-gets-key-design-wins-to-bring-ai-to-autonomous-vehicle-fleets/",
-            "description": "Nvidia has announced it has key design wins for autonomous vehicles with car makers such as Toyota, Aurora and Continental.",
-            "pubDate": "2025-01-07T04:25:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/Design-Wins-Image.jpg?w=578"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "Serve Robotics raises $86M for last-mile delivery expansion",
-            "link": "https://www.therobotreport.com/serve-robotics-raises-86m-for-last-mile-delivery-expansion/",
-            "description": "Serve Robotics raised $167 million in 2024 to spend on equipment as it plans to enter new markets with its delivery robots. The post Serve Robotics ra...",
-            "pubDate": "2025-01-06T15:47:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/Serve_Gen3.jpg"
-        },
-        {
-            "title": "Intuition Robotics launches ElliQ Caregiver Solution for remote home care",
-            "link": "https://www.therobotreport.com/elliq-caregiver-solution-intuition-robotics-remote-home-care/",
-            "description": "Intuition Robotics says its new ElliQ Caregiver Solution combines AI robots with remote monitoring to help older adults. The post Intuition Robotics l...",
-            "pubDate": "2025-01-06T13:00:33",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/ElliQ-3.0-Gloria-Coffee.jpg"
-        },
         {
             "title": "Global VC investments rose 5.4% to $368.5B in 2024, but deals fell 17% | NVCA/Pitchbook",
             "link": "https://venturebeat.com/ai/global-vc-investments-rose-5-4-to-368-5b-in-2024-but-deals-fell-17-nvca-pitchbook/",
             "description": "Global venture capital investments rose to $368.5 billion in 2024, up 5.4% from $349.4 billion a year earlier, the NVCA/Pitchbook said.",
             "pubDate": "2025-01-07T05:01:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/Q4-2024-Venture-Monitor-First-Look_1200x630-social.jpg?w=578"
-        },
-        {
-            "title": "RoboSense to show lidar sensors, humanoid platform, and more innovations at CES 2025",
-            "link": "https://www.therobotreport.com/robosense-unveils-ai-robotics-strategy-innovations-ces-2025/",
-            "description": "RoboSense says its new and incremental components will enable the development of industrial, commercial, and humanoid robots. The post RoboSense to sh...",
-            "pubDate": "2025-01-05T13:30:17",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/Mark_CEO__New_Product_Line.jpg"
-        },
-        {
-            "title": "Oil prices tick higher after snapping 5-day winning streak",
-            "link": "https://www.marketwatch.com/story/oil-prices-tick-higher-after-snapping-5-day-winning-streak-a98016dc?mod=mw_rss_topstories",
-            "description": "",
-            "pubDate": "2025-01-07T11:47:00",
-            "image_url": "https://images.mktw.net/im-574878"
-        },
-        {
-            "title": "Nvidia launches blueprint for AI agents that can analyze video",
-            "link": "https://venturebeat.com/ai/nvidia-launches-blueprint-for-ai-agents-that-can-analyze-video/",
-            "description": "Nvidia launched Blueprint for AI Agents that can analyze video today as part of its CES 2025 opening keynote by CEO Jensen Huang.",
-            "pubDate": "2025-01-07T04:26:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/VSS-Blog-Image-1.jpg?w=578"
-        },
-        {
-            "title": "Nvidia’s AI agent play is here with new models, orchestration blueprints",
-            "link": "https://venturebeat.com/ai/nvidias-ai-agent-play-is-here-with-new-models-orchestration-blueprints/",
-            "description": "Nvidia enters the AI agent space with a family of language models for agentic instruction and orchestrarion frameworks it calls Blueprints.",
-            "pubDate": "2025-01-07T04:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/ai-agent-orchestrator.png?w=578"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "Nvidia unveils AI foundation models running on RTX AI PCs",
-            "link": "https://venturebeat.com/ai/nvidia-unveils-ai-foundation-models-running-on-rtx-ai-pcs/",
-            "description": "Nvidia today announced foundation models running locally on Nvidia RTX AI PCs that supercharge digital humans, content creation, productivity and deve...",
-            "pubDate": "2025-01-07T04:27:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/RTX-AI-PC-Image-2.jpg?w=578"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "Robotics investments top $7.4B in October 2024",
-            "link": "https://www.therobotreport.com/robotics-investments-top-74b-in-october-2024/",
-            "description": "Waymo led the way by raising $5.6 billion as it continues to scale its robotaxi business. Here's a recap of all 78 funding rounds in October 2024. The...",
-            "pubDate": "2025-01-06T15:20:37",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/RSE25_RegOpen-3_728x90_Vs1.jpg"
-        },
-        {
-            "title": "Driving into the future",
-            "link": "https://www.technologyreview.com/2025/01/06/1108691/driving-into-the-future/",
-            "description": "Welcome to our annual breakthroughs issue. If you’re an MIT Technology Review superfan, you may already know that putting together our 10 Breakthrough...",
-            "pubDate": "2025-01-06T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "AI means the end of internet search as we’ve known it",
-            "link": "https://www.technologyreview.com/2025/01/06/1108679/ai-generative-search-internet-breakthroughs/",
-            "description": "We all know what it means, colloquially, to google something. You pop a few relevant words in a search box and in return get a list of blue links to t...",
-            "pubDate": "2025-01-06T12:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/h_00000221991307.jpg?w=1500"
-        },
-        {
-            "title": "Dollar bulls got a taste of volatility on Monday — and more may be in store",
-            "link": "https://www.marketwatch.com/story/dollar-bulls-got-a-taste-of-volatility-on-monday-and-more-may-be-in-store-090bc316?mod=mw_rss_topstories",
-            "description": "It had seemed like nothing could stop the U.S. dollar from marching higher. Then a headline about President-elect Donald Trump’s tariff plans landed i...",
-            "pubDate": "2025-01-07T12:15:00",
-            "image_url": "https://images.mktw.net/im-28355683"
-        },
-        {
-            "title": "Carvana gets its first upgrade since Hindenburg short-selling report",
-            "link": "https://www.marketwatch.com/story/carvana-gets-its-first-upgrade-since-hindenburg-short-selling-report-575d1e02?mod=mw_rss_topstories",
-            "description": "Carvana, the online used-car retailer that last week was the target of a short-selling research report, got its first broker upgrade since then which ...",
-            "pubDate": "2025-01-07T12:14:00",
-            "image_url": "https://images.mktw.net/im-466087"
-        },
-        {
-            "title": "Getty’s stock soars 42% after image company agrees to merge with Shutterstock in $3.7 billion deal",
-            "link": "https://www.marketwatch.com/story/gettys-stock-soars-33-on-news-to-merge-with-shutterstock-in-3-7-billion-deal-28a34fe2?mod=mw_rss_topstories",
-            "description": "The deal is expected to generate annual cost synergies of $150 million to $200 million by year three and to boost earnings and cash flow by year two.",
-            "pubDate": "2025-01-07T11:53:00",
-            "image_url": "https://images.mktw.net/im-60237375"
         },
         {
             "title": "What’s next for our privacy?",
@@ -152,6 +19,111 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
+            "title": "Nvidia’s AI agent play is here with new models, orchestration blueprints",
+            "link": "https://venturebeat.com/ai/nvidias-ai-agent-play-is-here-with-new-models-orchestration-blueprints/",
+            "description": "Nvidia enters the AI agent space with a family of language models for agentic instruction and orchestrarion frameworks it calls Blueprints.",
+            "pubDate": "2025-01-07T04:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/ai-agent-orchestrator.png?w=578"
+        },
+        {
+            "title": "Agentic AI can help you to get a new software engineering job in 2025",
+            "link": "https://venturebeat.com/programming-development/agentic-ai-can-help-you-to-get-a-new-software-engineering-job-in-2025/",
+            "description": "Thanks to a widening skills shortage, software engineers don’t generally have to look too far for a new role on better money.",
+            "pubDate": "2025-01-07T13:50:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/AdobeStock_1030352918.jpeg?w=578"
+        },
+        {
+            "title": "Onscreen’s TV-based AI companion provides help for elder caregivers",
+            "link": "https://venturebeat.com/games/onscreens-tv-based-ai-companion-provides-help-for-elder-caregivers/",
+            "description": "After starting out with a TV-based product, Onscreen is bringing its Joy AI companion app for seniors to Android tablets and iPads.",
+            "pubDate": "2025-01-07T15:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/onscreen-3.jpg?w=578"
+        },
+        {
+            "title": "McAfee launches scam detector to stop scams before they strike",
+            "link": "https://venturebeat.com/ai/mcafee-launches-scam-detector-to-stop-scams-before-they-strike/",
+            "description": "Scams are everywhere. McAfee’s new scam detector spots and stops scams across text, email, and video to keep you from being fooled.",
+            "pubDate": "2025-01-07T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/mcafee-scams.jpg?w=578"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Autonomous vehicle sensors don’t have to be a drag, find researchers",
+            "link": "https://www.therobotreport.com/autonomous-vehicle-sensors-dont-have-to-drag-find-researchers/",
+            "description": "External sensors on an autonomous vehicle cause drag that can be reduced, found Wuhan University of Technology researchers. The post Autonomous vehicl...",
+            "pubDate": "2025-01-07T16:00:44",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/POF24-AR-11939_fig1-copy.jpg"
+        },
+        {
+            "title": "Meta goes ‘MAGA’: Facebook adjusts fact-checking approach as Zuckerberg touts ‘free expression’ and cites ‘cultural tipping point’",
+            "link": "https://www.marketwatch.com/story/meta-goes-maga-facebook-adjusts-fact-checking-as-zuckerberg-touts-free-expression-and-cultural-tipping-point-754c84f6?mod=mw_rss_topstories",
+            "description": "“We’re going to work with President [elect] Trump to push back on governments around the world that are going after American companies and pushing to ...",
+            "pubDate": "2025-01-07T16:10:00",
+            "image_url": "https://images.mktw.net/im-20537633"
+        },
+        {
+            "title": "‘Inflation levels seem to be increasing’: Businesses are worried about tariffs and rising prices.",
+            "link": "https://www.marketwatch.com/story/economy-gets-holiday-boost-ism-finds-but-businesses-worry-about-tariffs-and-inflation-ffc0c907?mod=mw_rss_topstories",
+            "description": "The holiday shopping season gave a boost to service-oriented companies in December, but top executives were wary of potential Trump tariffs and a rece...",
+            "pubDate": "2025-01-07T16:02:00",
+            "image_url": "https://images.mktw.net/im-73648969"
+        },
+        {
+            "title": "Why investors should watch the dollar as markets make sense of Trump’s tariff plans",
+            "link": "https://www.marketwatch.com/story/dollar-bulls-got-a-taste-of-volatility-on-monday-and-more-may-be-in-store-090bc316?mod=mw_rss_topstories",
+            "description": "It had seemed like nothing could stop the U.S. dollar from marching higher. Then a headline about President-elect Donald Trump’s tariff plans landed i...",
+            "pubDate": "2025-01-07T15:36:00",
+            "image_url": "https://images.mktw.net/im-28355683"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Robotics investments top $7.4B in October 2024",
+            "link": "https://www.therobotreport.com/robotics-investments-top-74b-in-october-2024/",
+            "description": "Waymo led the way by raising $5.6 billion as it continues to scale its robotaxi business. Here's a recap of all 78 funding rounds in October 2024. The...",
+            "pubDate": "2025-01-06T15:20:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/RSE25_RegOpen-3_728x90_Vs1.jpg"
+        },
+        {
+            "title": "How optimistic are you about AI’s future?",
+            "link": "https://www.technologyreview.com/2025/01/07/1109793/how-optimistic-are-you-about-ais-future/",
+            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. The start of...",
+            "pubDate": "2025-01-07T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "The Download: how AI is changing internet search, and the future of privacy in the US",
+            "link": "https://www.technologyreview.com/2025/01/07/1109808/the-download-how-ai-is-changing-internet-search-and-the-future-of-privacy-in-the-us/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI means the...",
+            "pubDate": "2025-01-07T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f4ac.png"
+        },
+        {
+            "title": "Job openings reverse long decline, but the U.S. labor market is still not out of the woods",
+            "link": "https://www.marketwatch.com/story/job-openings-reverse-long-decline-but-the-u-s-labor-market-is-still-not-out-of-the-woods-463d10bd?mod=mw_rss_topstories",
+            "description": "President-elect Donald Trump is inheriting low unemployment after several years of strong postpandemic hiring, but he’s also confronting a weakening l...",
+            "pubDate": "2025-01-07T16:27:00",
+            "image_url": "https://images.mktw.net/im-78676524"
+        },
+        {
+            "title": "Serve Robotics raises $86M for last-mile delivery expansion",
+            "link": "https://www.therobotreport.com/serve-robotics-raises-86m-for-last-mile-delivery-expansion/",
+            "description": "Serve Robotics raised $167 million in 2024 to spend on equipment as it plans to enter new markets with its delivery robots. The post Serve Robotics ra...",
+            "pubDate": "2025-01-06T15:47:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/Serve_Gen3.jpg"
+        },
+        {
             "title": "John Deere harvests the seeds of large vehicle autonomy",
             "link": "https://www.therobotreport.com/john-deere-harvests-the-seeds-of-large-vehicle-autonomy/",
             "description": "John Deere unveiled four self-driving systems at CES 2025, including the 9 Series tractor and an autonomous dump truck. The post John Deere harvests t...",
@@ -159,11 +131,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/johne-deere-9RX-tractor.jpg"
         },
         {
-            "title": "Why stocks and Social Security will sink if undocumented workers are deported",
-            "link": "https://www.marketwatch.com/story/why-stocks-and-social-security-will-sink-if-undocumented-workers-are-deported-11e89878?mod=mw_rss_topstories",
-            "description": "Inflation, which appears to be settling at about 2.5% annually, could jump to 4.5%.",
-            "pubDate": "2025-01-07T12:05:00",
-            "image_url": "https://images.mktw.net/im-618074"
+            "title": "AI means the end of internet search as we’ve known it",
+            "link": "https://www.technologyreview.com/2025/01/06/1108679/ai-generative-search-internet-breakthroughs/",
+            "description": "We all know what it means, colloquially, to google something. You pop a few relevant words in a search box and in return get a list of blue links to t...",
+            "pubDate": "2025-01-06T12:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/h_00000221991307.jpg?w=1500"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -173,11 +152,32 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
+            "title": "Tesla faces more risk than its stock reflects, prompting a downgrade",
+            "link": "https://www.marketwatch.com/story/tesla-faces-more-risk-than-its-stock-reflects-prompting-a-downgrade-e7f77ba8?mod=mw_rss_topstories",
+            "description": "Tesla Inc.’s stock slipped 3.4% Tuesday, after Bank of America downgraded the stock to neutral from buy, arguing that it already reflects the long-ter...",
+            "pubDate": "2025-01-07T16:11:00",
+            "image_url": "https://images.mktw.net/im-25523387"
+        },
+        {
+            "title": "Simbe launches Tally Spot, a fixed area camera",
+            "link": "https://www.therobotreport.com/simbe-launches-tally-spot-a-fixed-area-camera/",
+            "description": "An extension of Tally and Tally RFID, Tally Spot allows retailers to increase visibility into high-priority areas of the store. The post Simbe launche...",
+            "pubDate": "2025-01-07T14:00:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/simbe-spot-featured.jpg"
+        },
+        {
             "title": "The Download: our 10 Breakthrough Technologies for 2025",
             "link": "https://www.technologyreview.com/2025/01/06/1109772/the-download-our-10-breakthrough-technologies-for-2025/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:...",
             "pubDate": "2025-01-06T13:10:00",
             "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f52e.png"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         }
     ]
 }
