@@ -2,21 +2,14 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-08T08:10:03.498389",
+    "lastBuildDate": "2025-01-08T11:35:31.983386",
     "items": [
         {
-            "title": "Creamy Vegan White Bean Chili",
-            "link": "https://minimalistbaker.com/creamy-vegan-white-bean-chili/",
-            "description": "We love a classic (tomato-based) chili, but a CREAMY chili? It’s hard to say no to! Mix up your chili rotation with this creamy vegan white bean chili...",
-            "pubDate": "2025-01-07T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Vegan-White-Bean-Chili-7-680x1020.jpg"
-        },
-        {
-            "title": "Easy Winter Fruit Salad (1 Bowl!)",
-            "link": "https://minimalistbaker.com/easy-winter-fruit-salad/",
-            "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
-            "pubDate": "2024-12-17T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
+            "title": "Sausage Gravy",
+            "link": "https://therecipecritic.com/sausage-gravy/",
+            "description": "Homemade sausage gravy is perfect for a comforting breakfast! In just 15 minutes and with a few simple ingredients, you’ll…",
+            "pubDate": "2025-01-06T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/sausage-gravy-5.jpg"
         },
         {
             "title": "Hobo Casserole",
@@ -26,11 +19,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/hobo-casserole-.jpg"
         },
         {
-            "title": "Chocolate Pecan Shortbread Cookies (Vegan + GF)",
-            "link": "https://minimalistbaker.com/chocolate-pecan-shortbread-cookies-vegan-gf/",
-            "description": "Say hello to crispy , buttery shortbread cookies studded with pecans and dark chocolate ( swoon !). These cookies are our vegan and gluten-free twist ...",
-            "pubDate": "2024-12-03T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/03/Vegan-Gluten-Free-Chocolate-Pecan-Shortbread-Cookies-12-680x1020.jpg"
+            "title": "Slow Cooker Sunday Sauce (Sugo)",
+            "link": "https://therecipecritic.com/slow-cooker-sunday-sauce-sugo/",
+            "description": "Slow cooker Sunday sauce, also known as “sugo,” is a rich, tomato-based ragu that’s a favorite for family dinners. Traditionally,…",
+            "pubDate": "2025-01-06T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/sugo-sauce.jpg"
+        },
+        {
+            "title": "Easy Winter Fruit Salad (1 Bowl!)",
+            "link": "https://minimalistbaker.com/easy-winter-fruit-salad/",
+            "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
+            "pubDate": "2024-12-17T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
         },
         {
             "title": "Chocolate Tahini Caramels (No Candy Thermometer!)",
@@ -40,20 +40,6 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/Easy-Vegan-Dark-Chocolate-Sea-Salt-Tahini-Caramels-11-680x1020.jpg"
         },
         {
-            "title": "Marry Me Sausage Orzo Soup",
-            "link": "https://therecipecritic.com/marry-me-sausage-orzo-soup/",
-            "description": "Warm up to this delicious Marry Me sausage orzo soup! It’s hearty, super flavorful, and packed with seasoned sausage, tender…",
-            "pubDate": "2025-01-08T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/marry-me-orzo-soup-2-1200x1799-1.webp"
-        },
-        {
-            "title": "Slow Cooker Sunday Sauce (Sugo)",
-            "link": "https://therecipecritic.com/slow-cooker-sunday-sauce-sugo/",
-            "description": "Slow cooker Sunday sauce, also known as “sugo,” is a rich, tomato-based ragu that’s a favorite for family dinners. Traditionally,…",
-            "pubDate": "2025-01-06T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/sugo-sauce.jpg"
-        },
-        {
             "title": "Cottage Cheese Flatbread",
             "link": "https://therecipecritic.com/cottage-cheese-flatbread/",
             "description": "The viral cottage cheese flatbread is a must try! It’s made with just cottage cheese, eggs and seasonings! It’s packed with almost…",
@@ -61,11 +47,25 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/cottage-cheese-flatbread-2-2.jpg"
         },
         {
-            "title": "Sausage Gravy",
-            "link": "https://therecipecritic.com/sausage-gravy/",
-            "description": "Homemade sausage gravy is perfect for a comforting breakfast! In just 15 minutes and with a few simple ingredients, you’ll…",
-            "pubDate": "2025-01-06T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/sausage-gravy-5.jpg"
+            "title": "Chocolate Pecan Shortbread Cookies (Vegan + GF)",
+            "link": "https://minimalistbaker.com/chocolate-pecan-shortbread-cookies-vegan-gf/",
+            "description": "Say hello to crispy , buttery shortbread cookies studded with pecans and dark chocolate ( swoon !). These cookies are our vegan and gluten-free twist ...",
+            "pubDate": "2024-12-03T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/03/Vegan-Gluten-Free-Chocolate-Pecan-Shortbread-Cookies-12-680x1020.jpg"
+        },
+        {
+            "title": "Marry Me Sausage Orzo Soup",
+            "link": "https://therecipecritic.com/marry-me-sausage-orzo-soup/",
+            "description": "Warm up to this delicious Marry Me sausage orzo soup! It’s hearty, super flavorful, and packed with seasoned sausage, tender…",
+            "pubDate": "2025-01-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/marry-me-orzo-soup-2-1200x1799-1.webp"
+        },
+        {
+            "title": "Creamy Vegan White Bean Chili",
+            "link": "https://minimalistbaker.com/creamy-vegan-white-bean-chili/",
+            "description": "We love a classic (tomato-based) chili, but a CREAMY chili? It’s hard to say no to! Mix up your chili rotation with this creamy vegan white bean chili...",
+            "pubDate": "2025-01-07T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Vegan-White-Bean-Chili-7-680x1020.jpg"
         }
     ]
 }
