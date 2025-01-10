@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-09T11:37:18.995197",
+    "lastBuildDate": "2025-01-10T06:23:03.782738",
     "items": [
+        {
+            "title": "LlamaIndex goes beyond RAG so agents can make complex decisions",
+            "link": "https://venturebeat.com/ai/llamaindex-goes-beyond-rag-so-agents-can-make-complex-decisions/",
+            "description": "A new orchestration architecture from LlamaIndex brings more context and decision-making capabilities to AI agents.",
+            "pubDate": "2025-01-09T22:46:39",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/crimedy7_illustration_of_a_llama_inside_a_computer_as_a_charact_c468cf6d-a586-4ee7-8bc5-77c11e0b2faf.png?w=578"
+        },
+        {
+            "title": "Microsoft’s new rStar-Math technique upgrades small models to outperform OpenAI’s o1-preview at math problems",
+            "link": "https://venturebeat.com/ai/microsofts-new-rstar-math-technique-upgrades-small-models-to-outperform-openais-o1-preview-at-math-problems/",
+            "description": "Phi-4 and an rStar-Math paper suggest that compact, specialized models can provide powerful alternatives to the industry’s largest systems.",
+            "pubDate": "2025-01-09T19:01:42",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/researchers-math-stars.png?w=578"
+        },
         {
             "title": "Diffbot’s AI model doesn’t guess — it knows, thanks to a trillion-fact knowledge graph",
             "link": "https://venturebeat.com/ai/diffbots-ai-model-doesnt-guess-it-knows-thanks-to-a-trillion-fact-knowledge-graph/",
@@ -24,20 +38,6 @@
             "description": "Cohere launches North, a secure enterprise AI platform outperforming Microsoft Copilot and Google Vertex AI in testing, with Royal Bank of Canada amon...",
             "pubDate": "2025-01-09T11:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/North.jpg?w=578"
-        },
-        {
-            "title": "Smoke, reflections and portals: Adobe’s TransPixar takes AI VFX to the next level",
-            "link": "https://venturebeat.com/ai/smoke-reflections-and-portals-adobes-transpixar-takes-ai-vfx-to-the-next-level/",
-            "description": "Adobe and HKUST researchers unveil TransPixar, a breakthrough AI system that creates transparent visual effects from text prompts.",
-            "pubDate": "2025-01-08T19:40:29",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_An_explosion_againast_a_transparent_background_in_a_P_a8b49d19-f21c-4db2-8643-c4c4e322ca2c.webp?w=578"
-        },
-        {
-            "title": "Microsoft makes powerful Phi-4 model fully open-source on Hugging Face",
-            "link": "https://venturebeat.com/ai/microsoft-makes-powerful-phi-4-model-fully-open-source-on-hugging-face/",
-            "description": "Phi-4 demonstrates that smaller, well-designed models can achieve comparable or superior results compared with larger models.",
-            "pubDate": "2025-01-08T16:36:23",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Vector_art_of_Microsoft_Windows_and_artificial_intell_f7585e5e-a8c3-40a6-a5a4-29f8d6755c83.png?w=578"
         }
     ]
 }
