@@ -2,50 +2,8 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-10T11:07:55.052485",
+    "lastBuildDate": "2025-01-11T02:25:05.142041",
     "items": [
-        {
-            "title": "Storing carbon in buildings could help address climate change",
-            "link": "https://www.sciencedaily.com/releases/2025/01/250109141128.htm",
-            "description": "Construction materials such as concrete and plastic have the potential to lock away billions of tons of carbon dioxide, according to a new study by ci...",
-            "pubDate": "2025-01-09T19:11:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "One of the youngest ever pilots takes the helm of a 60-year-old deep-sea exploring vehicle",
-            "link": "https://new.nsf.gov/news/one-youngest-ever-pilots-takes-helm-60-year-old-deep-sea",
-            "description": "The Wood Holes Oceanographic Institution (WHOI) recently announced the newest human-occupied vehicle (HOV) Alvin pilot, Kaitlyn Beardshear. Beardshear...",
-            "pubDate": "2025-01-03T14:07:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "NSF congratulates recipients of the prestigious National Medal of Science and National Medal of Technology and Innovation awards",
-            "link": "https://new.nsf.gov/news/nsf-congratulates-recipients-prestigious-national-medal",
-            "description": "President Joe Biden revealed the newest honorees of the recipients of the National Medal of Science and the National Medal of Technology and Innovatio...",
-            "pubDate": "2025-01-07T19:03:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Rapid return of water from ground to atmosphere through plants",
-            "link": "https://www.sciencedaily.com/releases/2025/01/250109183329.htm",
-            "description": "A new study provides the first comprehensive global estimates of the amount of water stored in Earth's plants and the amount of time it takes for that...",
-            "pubDate": "2025-01-09T23:33:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "A smart ring with a tiny camera lets users point and click to control home devices",
-            "link": "https://www.sciencedaily.com/releases/2025/01/250109130038.htm",
-            "description": "Researchers have developed IRIS, a smart ring that allows users to point and click to control smart devices. The prototype Bluetooth ring contains a s...",
-            "pubDate": "2025-01-09T18:00:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Paper-based sensors may lead to rapid detection of heart attacks",
-            "link": "https://new.nsf.gov/news/paper-based-sensors-may-lead-rapid-detection-heart-attacks",
-            "description": "When individuals experience acute myocardial infarction, also known as a heart attack, time is precious. Detection and diagnosis of a heart attack hav...",
-            "pubDate": "2025-01-08T17:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
         {
             "title": "Scientists devise new method to detect permanent distortions in space-time left by massive supernova explosions",
             "link": "https://new.nsf.gov/news/scientists-devise-new-method-detect-permanent-distortions",
@@ -54,25 +12,67 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Studying cold fog in mountainous terrains",
-            "link": "https://new.nsf.gov/news/studying-cold-fog-mountainous-terrains",
-            "description": "When air temperatures drop to 0 degrees Celsius or below, cold fog can form and disguise a landscape, posing challenges for drivers and pilots. Cold f...",
-            "pubDate": "2025-01-06T21:02:43",
+            "title": "NSF congratulates recipients of the prestigious National Medal of Science and National Medal of Technology and Innovation awards",
+            "link": "https://new.nsf.gov/news/nsf-congratulates-recipients-prestigious-national-medal",
+            "description": "President Joe Biden revealed the newest honorees of the recipients of the National Medal of Science and the National Medal of Technology and Innovatio...",
+            "pubDate": "2025-01-07T19:03:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "'Far out' blazar discovery suggests early universe had more supermassive black holes than previously thought",
+            "link": "https://new.nsf.gov/news/far-out-blazar-discovery-suggests-early-universe-had-more",
+            "description": "Scientists have discovered the most distant and therefore oldest blazar ever seen. Labeled J0410–0139, the blazar is at the center of a galaxy 12.9 bi...",
+            "pubDate": "2025-01-10T20:29:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Feeding your good gut bacteria through fiber in diet may boost body against infections",
+            "link": "https://www.sciencedaily.com/releases/2025/01/250110121920.htm",
+            "description": "A new study has found that the composition of your gut microbiome helps predict how likely you are to succumb to potentially life-threatening infectio...",
+            "pubDate": "2025-01-10T17:19:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "'What is that?' Scientists explain white patch that appears near northern lights",
+            "link": "https://www.sciencedaily.com/releases/2025/01/250110143542.htm",
+            "description": "A whitish, grey patch that sometimes appears in the night sky alongside the northern lights has now been explained.",
+            "pubDate": "2025-01-10T19:35:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Paper-based sensors may lead to rapid detection of heart attacks",
+            "link": "https://new.nsf.gov/news/paper-based-sensors-may-lead-rapid-detection-heart-attacks",
+            "description": "When individuals experience acute myocardial infarction, also known as a heart attack, time is precious. Detection and diagnosis of a heart attack hav...",
+            "pubDate": "2025-01-08T17:18:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Pet dogs often overlooked as spreader of antimicrobial-resistant Salmonella",
-            "link": "https://www.sciencedaily.com/releases/2025/01/250109163123.htm",
-            "description": "Antibiotic-resistant Salmonella is a serious public health concern that has increased in recent years as the bacteria have developed ways to survive d...",
-            "pubDate": "2025-01-09T21:31:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "A fast-moving belly flop: Researchers unveil the unique skills of cricket frogs",
+            "link": "https://www.sciencedaily.com/releases/2025/01/250110143704.htm",
+            "description": "The way cricket frogs move across the surface of water has long been thought to resemble walking on water, but researchers have now discovered a diffe...",
+            "pubDate": "2025-01-10T19:37:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Disovery of new skeletal tissue advances regenerative medicine potential",
-            "link": "https://www.sciencedaily.com/releases/2025/01/250109163113.htm",
-            "description": "An international research team has discovered a new type of skeletal tissue that offers great potential for advancing regenerative medicine and tissue...",
-            "pubDate": "2025-01-09T21:31:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Magma composition may drive volcanic tremor",
+            "link": "https://www.sciencedaily.com/releases/2025/01/250110121910.htm",
+            "description": "A new study based on the sampling and analysis of volcanic ash at Cumbre Vieja volcano in the Canary Islands, located off Africa's northwest coast, su...",
+            "pubDate": "2025-01-10T17:19:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "AI vs. supercomputers: New AI-based method solves complex equations faster and uses less computing power",
+            "link": "https://new.nsf.gov/news/ai-vs-supercomputers-new-ai-based-method-solves-complex",
+            "description": "A new artificial intelligence-based method quickly solves complex math equations used broadly across many industries — and it's faster running on a pe...",
+            "pubDate": "2025-01-10T19:37:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Cleopatra's sister remains missing",
+            "link": "https://www.sciencedaily.com/releases/2025/01/250110121908.htm",
+            "description": "anthropologists have analyzed a skull that was found in the ruins of Ephesos (Turkey) in 1929. It was long speculated that it could be the remains of ...",
+            "pubDate": "2025-01-10T17:19:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }
