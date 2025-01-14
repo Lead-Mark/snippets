@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Mon, 13 Jan 2025 06:51:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - Darwin WIN Options January</LMheaderPMi><LMhIDpmi>5390 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - Wyatt SpaceX V2 Jan</LMheaderPMii><LMhIDpmii>5408 2</LMhIDpmii><LMheaderPMiii>EdAd - CTO - Roaring Monkey Making Easy Trades rewrite</LMheaderPMiii><LMhIDpmiii>5393 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Tue, 14 Jan 2025 06:51:48 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd - CTO - Header - InvestPub CP Daily Profit 2 January</LMheaderPMi>
+            <LMhIDpmi>5402 7</LMhIDpmi>
+            <LMheaderPMii>EdAd - CTO - Wyatt SpaceX V2 Jan</LMheaderPMii>
+            <LMhIDpmii>5408 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd - CTO - Darwin WIN Options January</LMheaderPMiii>
+            <LMhIDpmiii>5390 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
