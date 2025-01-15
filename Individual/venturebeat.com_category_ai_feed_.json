@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-15T11:15:28.927063",
+    "lastBuildDate": "2025-01-15T16:14:40.670580",
     "items": [
+        {
+            "title": "Microsoft’s AutoGen update boosts AI agents with cross-language interoperability and observability",
+            "link": "https://venturebeat.com/ai/microsofts-autogen-update-boosts-ai-agents-with-cross-language-interoperability-and-observability/",
+            "description": "Microsoft's AutoGen for AI agents is popular among agent developers, and a new update addresses observability and flexibility issues.",
+            "pubDate": "2025-01-15T20:19:43",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/crimedy7_abstract_blueprint_but_its_a_framework_for_networks_4ba0a8fc-9f13-444d-a088-1f67400fcd4a.png?w=578"
+        },
+        {
+            "title": "Microsoft launches Copilot Chat with AI agents; take that, Gemini!",
+            "link": "https://venturebeat.com/ai/microsoft-launches-copilot-chat-with-ai-agents/",
+            "description": "Microsoft wants to make using Copilot a daily habit and take on Google's aggressive push of Gemini for Workspace.",
+            "pubDate": "2025-01-15T19:43:10",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-shot-of-a-studious-ai-agent-unfurling-WvklHi0GQuSZ8ymnRmhNBA-_-aFIDJKQquovZyp8zBgSg-transformed.jpeg?w=578"
+        },
         {
             "title": "What’s next for agentic AI? LangChain founder looks to ambient agents",
             "link": "https://venturebeat.com/ai/whats-next-for-agentic-ai-langchain-founder-looks-to-ambient-agents/",
@@ -24,20 +38,6 @@
             "description": "Vellum polled 1,250 AI developers to understand what’s happening in the AI trenches, including techniques, use cases and challenges.",
             "pubDate": "2025-01-15T12:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Vector_art_of_robots_in_an_office_ad123220-2ea3-480e-ab36-692012f97fdc.webp?w=578"
-        },
-        {
-            "title": "MiniMax unveils its own open-source LLM with industry-leading 4M token context",
-            "link": "https://venturebeat.com/ai/minimax-unveils-its-own-open-source-llm-with-industry-leading-4m-token-context/",
-            "description": "LLM MiniMax-Text-o1 is of particular note for enabling up to 4 million tokens in its context window — equivalent to a small library.",
-            "pubDate": "2025-01-14T23:46:27",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/cfr0z3n_a_stunned_progammer_watches_as_an_entire_library_of_b_01f1129f-3f24-4bb6-93a3-d735ac143f70_1.png?w=578"
-        },
-        {
-            "title": "Hallucinations in AI: How GSK is addressing a critical problem in drug development",
-            "link": "https://venturebeat.com/ai/hallucinations-in-ai-how-gsk-is-addressing-a-critical-problem-in-drug-development/",
-            "description": "Hallucinations are a persistent problem in healthcare. Here's how GSK is using test-time compute scaling to improve its gen AI systems.",
-            "pubDate": "2025-01-14T23:13:44",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/a-stunning-sci-fi-illustration-of-a-futu_Ti_g4n2BRUmWlxEeqduNnw_cPuhW5SGRmq6qccxYtRY0Q-transformed.jpeg?w=578"
         }
     ]
 }
