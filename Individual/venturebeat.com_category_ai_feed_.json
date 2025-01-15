@@ -2,10 +2,31 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-15T06:59:37.176055",
+    "lastBuildDate": "2025-01-15T11:15:28.927063",
     "items": [
         {
-            "title": "MiniMax unveils its own open source LLM with industry-leading 4M token context",
+            "title": "What’s next for agentic AI? LangChain founder looks to ambient agents",
+            "link": "https://venturebeat.com/ai/whats-next-for-agentic-ai-langchain-founder-looks-to-ambient-agents/",
+            "description": "LangChain’s founder Harrison Chase is looking to advance agentic AI with the concept of ambient agents, which might well be the next step on the path ...",
+            "pubDate": "2025-01-15T15:49:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/generic-ai-smk.jpg?w=578"
+        },
+        {
+            "title": "Colossal raises $200M to “de-extinct” the woolly mammoth, thylacine and dodo",
+            "link": "https://venturebeat.com/ai/colossal-raises-200m-to-de-extinct-the-woolly-mammoth-thylacine-and-dodo/",
+            "description": "Colossal BioSciences has raised $200 million in a new round of funding to bring back extinct species like the woolly mammoth.",
+            "pubDate": "2025-01-15T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/woolly-mammoth.jpg?w=578"
+        },
+        {
+            "title": "Early days for AI: Only 25% of enterprises have deployed, few reap rewards",
+            "link": "https://venturebeat.com/ai/early-days-for-ai-only-25-of-enterprises-have-deployed-few-reap-rewards/",
+            "description": "Vellum polled 1,250 AI developers to understand what’s happening in the AI trenches, including techniques, use cases and challenges.",
+            "pubDate": "2025-01-15T12:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Vector_art_of_robots_in_an_office_ad123220-2ea3-480e-ab36-692012f97fdc.webp?w=578"
+        },
+        {
+            "title": "MiniMax unveils its own open-source LLM with industry-leading 4M token context",
             "link": "https://venturebeat.com/ai/minimax-unveils-its-own-open-source-llm-with-industry-leading-4m-token-context/",
             "description": "LLM MiniMax-Text-o1 is of particular note for enabling up to 4 million tokens in its context window — equivalent to a small library.",
             "pubDate": "2025-01-14T23:46:27",
@@ -17,27 +38,6 @@
             "description": "Hallucinations are a persistent problem in healthcare. Here's how GSK is using test-time compute scaling to improve its gen AI systems.",
             "pubDate": "2025-01-14T23:13:44",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/a-stunning-sci-fi-illustration-of-a-futu_Ti_g4n2BRUmWlxEeqduNnw_cPuhW5SGRmq6qccxYtRY0Q-transformed.jpeg?w=578"
-        },
-        {
-            "title": "Google’s Gemini AI just shattered the rules of visual processing — here’s what that means for you",
-            "link": "https://venturebeat.com/ai/google-gemini-ai-just-shattered-the-rules-of-visual-processing-heres-what-that-means-for-you/",
-            "description": "Google's Gemini AI achieves a milestone with simultaneous video and image processing, unlocking possibilities through AnyChat.",
-            "pubDate": "2025-01-14T22:41:01",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Vector_art_of_a_Google_robot_with_two_heads_looking_a_4e60f694-9c3b-49cc-83f1-082ae6b2f818.webp?w=578"
-        },
-        {
-            "title": "OpenAI’s agentic era begins: ChatGPT Tasks offers job scheduling, reminders and more",
-            "link": "https://venturebeat.com/ai/openais-agentic-era-begins-chatgpt-tasks-offers-job-scheduling-reminders-and-more/",
-            "description": "OpenAI will let some users schedule task reminders on ChatGPT, a sign the company may be readying itself to release an agent.",
-            "pubDate": "2025-01-14T18:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/thisone-crimedy7_abstract_illustration_of_ai_assistants_scheduling_task_2dc04bc4-c2b4-45a2-bef5-c092b961fc15.png?w=578"
-        },
-        {
-            "title": "Cerebras Systems teams with Mayo Clinic on genomic model that predicts arthritis treatment",
-            "link": "https://venturebeat.com/ai/cerebras-systems-teams-with-mayo-clinic-on-genomic-model-that-predicts-arthritis-treatment/",
-            "description": "Cerebras Systems has teamed with Mayo Clinic to create an AI genomic foundation model that predicts the best medical treatments.",
-            "pubDate": "2025-01-14T17:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/cerebras-2.jpg?w=578"
         }
     ]
 }

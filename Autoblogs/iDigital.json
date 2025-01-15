@@ -2,35 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-15T06:59:37.169843",
+    "lastBuildDate": "2025-01-15T11:15:28.919786",
     "items": [
         {
-            "title": "Cerebras Systems teams with Mayo Clinic on genomic model that predicts arthritis treatment",
-            "link": "https://venturebeat.com/ai/cerebras-systems-teams-with-mayo-clinic-on-genomic-model-that-predicts-arthritis-treatment/",
-            "description": "Cerebras Systems has teamed with Mayo Clinic to create an AI genomic foundation model that predicts the best medical treatments.",
-            "pubDate": "2025-01-14T17:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/cerebras-2.jpg?w=578"
+            "title": "Oil prices climb as traders weigh OPEC and IEA demand forecasts",
+            "link": "https://www.marketwatch.com/story/oil-prices-tick-higher-after-snapping-3-day-winning-streak-16c903cc?mod=mw_rss_topstories",
+            "description": "Oil futures climbed Wednesday, finding support after snapping a three-day winning streak that had been driven in part by wider U.S. sanctions on Russi...",
+            "pubDate": "2025-01-15T15:59:00",
+            "image_url": "https://images.mktw.net/im-328731"
         },
         {
-            "title": "The Download: the future of nuclear power, and fact checking Mark Zuckerberg",
-            "link": "https://www.technologyreview.com/2025/01/14/1109973/the-download-the-future-of-nuclear-power-and-fact-checking-mark-zuckerberg/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next ...",
-            "pubDate": "2025-01-14T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/AuthWeb3a.jpeg?fit=808,454"
-        },
-        {
-            "title": "MiniMax unveils its own open source LLM with industry-leading 4M token context",
-            "link": "https://venturebeat.com/ai/minimax-unveils-its-own-open-source-llm-with-industry-leading-4m-token-context/",
-            "description": "LLM MiniMax-Text-o1 is of particular note for enabling up to 4 million tokens in its context window — equivalent to a small library.",
-            "pubDate": "2025-01-14T23:46:27",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/cfr0z3n_a_stunned_progammer_watches_as_an_entire_library_of_b_01f1129f-3f24-4bb6-93a3-d735ac143f70_1.png?w=578"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "December’s CPI inflation data produces biggest plunge in yields since November",
+            "link": "https://www.marketwatch.com/story/treasury-yields-dip-ahead-of-critical-cpi-inflation-data-4f20bb16?mod=mw_rss_topstories",
+            "description": "U.S. government debt aggressively rallied after the monthly core inflation reading from Wednesday’s consumer-price index for December came in softer t...",
+            "pubDate": "2025-01-15T15:21:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Hallucinations in AI: How GSK is addressing a critical problem in drug development",
@@ -40,97 +26,6 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/a-stunning-sci-fi-illustration-of-a-futu_Ti_g4n2BRUmWlxEeqduNnw_cPuhW5SGRmq6qccxYtRY0Q-transformed.jpeg?w=578"
         },
         {
-            "title": "Raise Robotics deploys UR cobots with Harmon for high rise fastener installation",
-            "link": "https://www.therobotreport.com/raise-robotics-deploys-ur-cobots-with-harmon-for-high-rise-fastener-installation/",
-            "description": "Raise Robotics mounts two UR20 arms from Universal Robots on a mobile robot base for Harmon's construction robots. The post Raise Robotics deploys UR ...",
-            "pubDate": "2025-01-13T19:01:34",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/raiseandUR-featured.jpg"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Training robots in the AI-powered industrial metaverse",
-            "link": "https://www.technologyreview.com/2025/01/14/1109104/training-robots-in-the-ai-powered-industrial-metaverse/",
-            "description": "Imagine the bustling floors of tomorrow’s manufacturing plant: Robots, well-versed in multiple disciplines through adaptive AI education, work seamles...",
-            "pubDate": "2025-01-14T16:49:35",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/vecteezy_robot-working-24hr-business-laptop-ai-ui-interface-object_12726482.jpg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "What’s next for nuclear power",
-            "link": "https://www.technologyreview.com/2025/01/14/1109963/whats-next-for-nuclear-power/",
-            "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
-            "pubDate": "2025-01-14T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "OpenAI’s agentic era begins: ChatGPT Tasks offers job scheduling, reminders and more",
-            "link": "https://venturebeat.com/ai/openais-agentic-era-begins-chatgpt-tasks-offers-job-scheduling-reminders-and-more/",
-            "description": "OpenAI will let some users schedule task reminders on ChatGPT, a sign the company may be readying itself to release an agent.",
-            "pubDate": "2025-01-14T18:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/thisone-crimedy7_abstract_illustration_of_ai_assistants_scheduling_task_2dc04bc4-c2b4-45a2-bef5-c092b961fc15.png?w=578"
-        },
-        {
-            "title": "Mark Zuckerberg and the power of the media",
-            "link": "https://www.technologyreview.com/2025/01/13/1109954/mark-zuckerberg-and-the-power-of-the-media/",
-            "description": "This article first appeared in The Debrief, MIT Technology Review’s weekly newsletter from our editor in chief Mat Honan. To receive it in your inbox ...",
-            "pubDate": "2025-01-13T21:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/01/zuck-pride.jpg"
-        },
-        {
-            "title": "Capital One cheated customers out of $2 billion by keeping deposits in lower-yield accounts, CFPB says",
-            "link": "https://www.marketwatch.com/story/capital-one-took-2-billion-by-keeping-customers-in-lower-yield-accounts-feds-3628ea73?mod=mw_rss_topstories",
-            "description": "The Consumer Financial Protection Bureau is suing Capital One, which it says kept customers in the dark about higher-yielding savings accounts.",
-            "pubDate": "2025-01-15T11:05:00",
-            "image_url": "https://images.mktw.net/im-13867624"
-        },
-        {
-            "title": "Google’s Gemini AI just shattered the rules of visual processing — here’s what that means for you",
-            "link": "https://venturebeat.com/ai/google-gemini-ai-just-shattered-the-rules-of-visual-processing-heres-what-that-means-for-you/",
-            "description": "Google's Gemini AI achieves a milestone with simultaneous video and image processing, unlocking possibilities through AnyChat.",
-            "pubDate": "2025-01-14T22:41:01",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Vector_art_of_a_Google_robot_with_two_heads_looking_a_4e60f694-9c3b-49cc-83f1-082ae6b2f818.webp?w=578"
-        },
-        {
-            "title": "XOCEAN picks up $118M to bring robotic offshore inspections global",
-            "link": "https://www.therobotreport.com/xocean-picks-up-118m-brings-robotic-offshore-inspections-global/",
-            "description": "XOCEAN provides ocean data collected via autonomous robots to the offshore energy and civil hydrography sectors. The post XOCEAN picks up $118M to bri...",
-            "pubDate": "2025-01-14T20:00:09",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/XOCEAN_USVs_NY-featured.jpg"
-        },
-        {
-            "title": "Cornerstone Robotics brings in $70M to scale Sentire endoscopic system globally",
-            "link": "https://www.therobotreport.com/cornerstone-robotics-brings-70m-scale-sentire-endoscopic-system-globally/",
-            "description": "Cornerstone Robotics has completed clinical trials in multiple specialties, including urology, gynecology, and thoracic surgeries. The post Cornerston...",
-            "pubDate": "2025-01-13T20:37:22",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/cornerstonerobotics-featured.jpg"
-        },
-        {
-            "title": "TikTok is the last thing Elon Musk needs right now",
-            "link": "https://www.marketwatch.com/story/tiktok-is-the-last-thing-elon-musk-needs-right-now-bc4c064d?mod=mw_rss_topstories",
-            "description": "The Tesla CEO should be focused on his EV business at a time when the automotive landscape is rapidly evolving. Investors also don’t need another dist...",
-            "pubDate": "2025-01-15T10:47:00",
-            "image_url": "https://images.mktw.net/im-50364407"
-        },
-        {
             "title": "SS Innovations completes two robotic cardiac telesurgeries",
             "link": "https://www.therobotreport.com/ss-innovations-completes-two-robotic-cardiac-telesurgeries/",
             "description": "SS Innovations International said both robotic telesurgeries demonstrated seamless teamwork across long distances. The post SS Innovations completes t...",
@@ -138,18 +33,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/ssinnovations-featured.jpg"
         },
         {
-            "title": "Smaller, tougher devices for evolving demands",
-            "link": "https://www.therobotreport.com/smaller-tougher-devices-for-evolving-demands/",
-            "description": "From wearable technology to industrial machinery, the demand for compact designs that deliver enhanced performance continues to grow. The post Smaller...",
-            "pubDate": "2025-01-13T16:38:06",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/12/heilind-sponsored-hero-image-january2025.jpg"
+            "title": "Colossal raises $200M to “de-extinct” the woolly mammoth, thylacine and dodo",
+            "link": "https://venturebeat.com/ai/colossal-raises-200m-to-de-extinct-the-woolly-mammoth-thylacine-and-dodo/",
+            "description": "Colossal BioSciences has raised $200 million in a new round of funding to bring back extinct species like the woolly mammoth.",
+            "pubDate": "2025-01-15T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/woolly-mammoth.jpg?w=578"
         },
         {
-            "title": "How to ‘Trump-proof’ your 401(k)",
-            "link": "https://www.marketwatch.com/story/how-to-trump-proof-your-401-k-9a9da57f?mod=mw_rss_topstories",
-            "description": "An investment idea for the terrified.",
-            "pubDate": "2025-01-15T11:07:00",
-            "image_url": "https://images.mktw.net/im-83119513"
+            "title": "What’s next for agentic AI? LangChain founder looks to ambient agents",
+            "link": "https://venturebeat.com/ai/whats-next-for-agentic-ai-langchain-founder-looks-to-ambient-agents/",
+            "description": "LangChain’s founder Harrison Chase is looking to advance agentic AI with the concept of ambient agents, which might well be the next step on the path ...",
+            "pubDate": "2025-01-15T15:49:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/generic-ai-smk.jpg?w=578"
+        },
+        {
+            "title": "‘She is very manipulative and controlling’: My mother offered to buy me an apartment, but there are strings. Is it foolish to say no?",
+            "link": "https://www.marketwatch.com/story/she-is-very-manipulative-and-controlling-my-mother-offered-to-buy-me-an-apartment-but-there-are-strings-is-it-foolish-to-say-no-c79e166e?mod=mw_rss_topstories",
+            "description": "“My father is a selfish egomaniac.”",
+            "pubDate": "2025-01-15T15:17:00",
+            "image_url": "https://images.mktw.net/im-21381886"
+        },
+        {
+            "title": "Fueling the future of digital transformation",
+            "link": "https://www.technologyreview.com/2025/01/15/1109982/fueling-the-future-of-digital-transformation/",
+            "description": "In the rapidly evolving landscape of digital innovation, staying adaptable isn’t just a strategy—it’s a survival skill. “Everybody has a plan until th...",
+            "pubDate": "2025-01-15T15:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -159,25 +68,116 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Simple 60/40 portfolio would’ve easily beaten hedge-fund returns last year",
-            "link": "https://www.marketwatch.com/story/simple-60-40-portfolio-wouldve-easily-beaten-hedge-fund-returns-last-year-6a943c71?mod=mw_rss_topstories",
-            "description": "A simple 60/40 model would’ve easily beat the returns that hedge-fund investors enjoyed, according to an estimate of their performance.",
-            "pubDate": "2025-01-15T11:29:00",
-            "image_url": "https://images.mktw.net/im-80727104"
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
-            "title": "What’s the best way to convince 20-year-olds to save for retirement?",
-            "link": "https://www.marketwatch.com/story/whats-the-best-way-to-convince-20-year-olds-to-save-for-retirement-572b41b7?mod=mw_rss_topstories",
-            "description": "A parent wants to persuade reluctant young adults to start investing.",
-            "pubDate": "2025-01-15T11:02:00",
-            "image_url": "https://images.mktw.net/im-91332992"
+            "title": "The Download: the future of nuclear power, and fact checking Mark Zuckerberg",
+            "link": "https://www.technologyreview.com/2025/01/14/1109973/the-download-the-future-of-nuclear-power-and-fact-checking-mark-zuckerberg/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next ...",
+            "pubDate": "2025-01-14T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/AuthWeb3a.jpeg?fit=808,454"
         },
         {
-            "title": "Here’s our forecast for AI this year",
-            "link": "https://www.technologyreview.com/2025/01/14/1109958/whats-next-for-ai-in-2025-2/",
-            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In December,...",
-            "pubDate": "2025-01-14T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Early days for AI: Only 25% of enterprises have deployed, few reap rewards",
+            "link": "https://venturebeat.com/ai/early-days-for-ai-only-25-of-enterprises-have-deployed-few-reap-rewards/",
+            "description": "Vellum polled 1,250 AI developers to understand what’s happening in the AI trenches, including techniques, use cases and challenges.",
+            "pubDate": "2025-01-15T12:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Vector_art_of_robots_in_an_office_ad123220-2ea3-480e-ab36-692012f97fdc.webp?w=578"
+        },
+        {
+            "title": "Raise Robotics deploys UR cobots with Harmon for high rise fastener installation",
+            "link": "https://www.therobotreport.com/raise-robotics-deploys-ur-cobots-with-harmon-for-high-rise-fastener-installation/",
+            "description": "Raise Robotics mounts two UR20 arms from Universal Robots on a mobile robot base for Harmon's construction robots. The post Raise Robotics deploys UR ...",
+            "pubDate": "2025-01-13T19:01:34",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/raiseandUR-featured.jpg"
+        },
+        {
+            "title": "The Download: China’s marine ranches, and fast-learning robots",
+            "link": "https://www.technologyreview.com/2025/01/15/1109991/the-download-chinas-marine-ranches-and-fast-learning-robots/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China wants ...",
+            "pubDate": "2025-01-15T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f912.png"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "XOCEAN picks up $118M to bring robotic offshore inspections global",
+            "link": "https://www.therobotreport.com/xocean-picks-up-118m-brings-robotic-offshore-inspections-global/",
+            "description": "XOCEAN provides ocean data collected via autonomous robots to the offshore energy and civil hydrography sectors. The post XOCEAN picks up $118M to bri...",
+            "pubDate": "2025-01-14T20:00:09",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/XOCEAN_USVs_NY-featured.jpg"
+        },
+        {
+            "title": "GM looks to make cheaper EV batteries after signing multibillion-dollar deal",
+            "link": "https://www.marketwatch.com/story/gm-inks-multi-billion-dollar-deal-for-ev-battery-materials-amid-falling-battery-costs-00054114?mod=mw_rss_topstories",
+            "description": "General Motors aims to boost EV profitability with its deal with Norway-based graphite manufacturer Vianode for battery materials.",
+            "pubDate": "2025-01-15T16:11:00",
+            "image_url": "https://images.mktw.net/im-482108"
+        },
+        {
+            "title": "Social Security’s COLA could drop to 2.1% in 2026 from 2.5% in 2025",
+            "link": "https://www.marketwatch.com/story/social-securitys-cola-could-drop-to-2-1-in-2026-from-2-5-in-2025-af3d8b82?mod=mw_rss_topstories",
+            "description": "The cost-of-living adjustment forecast would mark the lowest increase since the start of the pandemic.",
+            "pubDate": "2025-01-15T16:14:00",
+            "image_url": "https://images.mktw.net/im-36193711"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Capra Robotics raises $11.6M to expand distributor and integrator partnerships",
+            "link": "https://www.therobotreport.com/capra-robotics-raises-11-6m-to-expand-distributor-and-integrator-partnerships/",
+            "description": "Capra said the investment will accelerate its entry into new geographical markets and boost its workforce in sales, service, and support. The post Cap...",
+            "pubDate": "2025-01-15T14:00:33",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/Niels-Mads-Lars-featured.jpg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "MiniMax unveils its own open-source LLM with industry-leading 4M token context",
+            "link": "https://venturebeat.com/ai/minimax-unveils-its-own-open-source-llm-with-industry-leading-4m-token-context/",
+            "description": "LLM MiniMax-Text-o1 is of particular note for enabling up to 4 million tokens in its context window — equivalent to a small library.",
+            "pubDate": "2025-01-14T23:46:27",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/cfr0z3n_a_stunned_progammer_watches_as_an_entire_library_of_b_01f1129f-3f24-4bb6-93a3-d735ac143f70_1.png?w=578"
+        },
+        {
+            "title": "Cornerstone Robotics brings in $70M to scale Sentire endoscopic system globally",
+            "link": "https://www.therobotreport.com/cornerstone-robotics-brings-70m-scale-sentire-endoscopic-system-globally/",
+            "description": "Cornerstone Robotics has completed clinical trials in multiple specialties, including urology, gynecology, and thoracic surgeries. The post Cornerston...",
+            "pubDate": "2025-01-13T20:37:22",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/cornerstonerobotics-featured.jpg"
+        },
+        {
+            "title": "What’s next for nuclear power",
+            "link": "https://www.technologyreview.com/2025/01/14/1109963/whats-next-for-nuclear-power/",
+            "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+            "pubDate": "2025-01-14T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Training robots in the AI-powered industrial metaverse",
+            "link": "https://www.technologyreview.com/2025/01/14/1109104/training-robots-in-the-ai-powered-industrial-metaverse/",
+            "description": "Imagine the bustling floors of tomorrow’s manufacturing plant: Robots, well-versed in multiple disciplines through adaptive AI education, work seamles...",
+            "pubDate": "2025-01-14T16:49:35",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/vecteezy_robot-working-24hr-business-laptop-ai-ui-interface-object_12726482.jpg"
         }
     ]
 }
