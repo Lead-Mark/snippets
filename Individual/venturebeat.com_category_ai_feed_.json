@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-16T14:24:14.833268",
+    "lastBuildDate": "2025-01-16T16:58:59.958589",
     "items": [
+        {
+            "title": "Enterprises can now run real-time data through Google Cloud’s most advanced VMs",
+            "link": "https://venturebeat.com/data-infrastructure/enterprises-can-now-run-real-time-data-through-google-clouds-most-advanced-vms/",
+            "description": "Early adopters like Couchbase are already seeing significant price-performance gains with Google Cloud's new VMs.",
+            "pubDate": "2025-01-16T21:52:01",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/09/oracle-database-in-googlecloud.jpg?w=578"
+        },
         {
             "title": "You can now fine-tune your own version of AI image maker Flux with just 5 images",
             "link": "https://venturebeat.com/ai/you-can-now-fine-tune-your-own-version-of-ai-image-maker-flux-with-just-5-images/",
@@ -31,13 +38,6 @@
             "description": "Successfully scaling gen AI requires clear, high-value use cases, technological flexibility and an adaptive workforce.",
             "pubDate": "2025-01-16T17:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/teal-Build_or_buy__Scaling_your_enterprise_gen_AI_pipeline_in_2025-transformed.jpeg?w=578"
-        },
-        {
-            "title": "Winning the war against adversarial AI needs to start with AI-native SOCs",
-            "link": "https://venturebeat.com/security/winning-the-war-against-adversarial-ai-needs-to-start-with-ai-native-socswinning-the-war-against-adversarial-ai-starts-with-ai-native-socs/",
-            "description": "Let's dive into the many reasons security leaders are embracing AI-native security operations centers (SOCs) as the future of defense.",
-            "pubDate": "2025-01-16T17:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/red-Winning_the_war_against_adversarial_AI_needs_to_start_with_AI-native_SOCs-transformed.jpeg?w=578"
         }
     ]
 }
