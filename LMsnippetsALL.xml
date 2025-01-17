@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Thu, 16 Jan 2025 06:53:49 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd - CTO - Header - Trading Tips 5 Stocks to Double Jan</LMheaderPMi>
-            <LMhIDpmi>5392 7</LMhIDpmi>
-            <LMheaderPMii>EdAd - CTO - Darwin TWI 2 Best AI Stocks January</LMheaderPMii>
-            <LMhIDpmii>5380 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd - CTO - Roaring Monkey Making Easy Trades rewrite</LMheaderPMiii>
-            <LMhIDpmiii>5393 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Fri, 17 Jan 2025 07:14:32 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - Roaring Monkey Making Easy Trades rewrite</LMheaderPMi><LMhIDpmi>5393 7</LMhIDpmi><LMheaderPMii>EdAd - CPC - BM Hartford Death of the Dollar Jan</LMheaderPMii><LMhIDpmii>4699 2</LMhIDpmii><LMheaderPMiii>EdAd - CTO - Darwin IND Post Election Stocks January</LMheaderPMiii><LMhIDpmiii>5376 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
