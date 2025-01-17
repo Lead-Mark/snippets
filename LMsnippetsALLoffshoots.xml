@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Tue, 14 Jan 2025 12:48:45 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd - CTO - Header - Meza Services Nasdaq Jan</LMheaderPMi>
-            <LMhIDpmi>5405 7</LMhIDpmi>
-            <LMheaderPMii>EdAd - CPC - BM Hartford Death of the Dollar Jan</LMheaderPMii>
-            <LMhIDpmii>4699 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd - CPC - Mode Mobile JR Rewrite Investor FocusedNL</LMheaderPMiii>
-            <LMhIDpmiii>5064 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Fri, 17 Jan 2025 11:39:04 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - Trading Tips 5 Stocks to Double Jan</LMheaderPMi><LMhIDpmi>5392 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - InvestPub CP Daily Profit 2 January</LMheaderPMii><LMhIDpmii>5402 2</LMhIDpmii><LMheaderPMiii>EdAd - CPC - Mode Mobile JR Rewrite Investor FocusedNL</LMheaderPMiii><LMhIDpmiii>5064 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
