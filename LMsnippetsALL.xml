@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Unique Snippet Feed</title>
-        <link>http://example.com/unique_snippets.xml</link>
-        <description>This feed displays a unique selection of snippets with their IDs.</description>
-        <lastBuildDate>Sat, 18 Jan 2025 01:21:30 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Unused</title>
-            <description>Dummy item, ignore</description>
-        </item>
-        <item>
-            <title>Active Content</title>
-            <LMheaderPMi>EdAd - CTO - Header - Darwin WIN Options January</LMheaderPMi>
-            <LMhIDpmi>5390 7</LMhIDpmi>
-            <LMheaderPMii>EdAd - CPC - Mode Mobile JR Rewrite Investor FocusedNL</LMheaderPMii>
-            <LMhIDpmii>5064 2</LMhIDpmii>
-            <LMheaderPMiii>EdAd - CTO - InvestPub CP Daily Profit 2 January</LMheaderPMiii>
-            <LMhIDpmiii>5402 2</LMhIDpmiii>
-            <description>Real item with content</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Sun, 19 Jan 2025 01:05:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - Darwin WIN Options January</LMheaderPMi><LMhIDpmi>5390 7</LMhIDpmi><LMheaderPMii>EdAd - CTO - Trading Tips 5 Stocks to Double Jan</LMheaderPMii><LMhIDpmii>5392 2</LMhIDpmii><LMheaderPMiii>EdAd - CPC - BM Hartford Death of the Dollar Jan</LMheaderPMiii><LMhIDpmiii>4699 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
