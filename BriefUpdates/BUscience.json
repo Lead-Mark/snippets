@@ -2,15 +2,8 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-19T01:12:13.988748",
+    "lastBuildDate": "2025-01-20T06:57:53.236425",
     "items": [
-        {
-            "title": "NASA's Hubble traces hidden history of Andromeda galaxy",
-            "link": "https://www.sciencedaily.com/releases/2025/01/250117171319.htm",
-            "description": "In the years following the launch of NASA's Hubble Space Telescope, astronomers have tallied over 1 trillion galaxies in the universe. But only one ga...",
-            "pubDate": "2025-01-17T22:13:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
         {
             "title": "Three million years ago, our ancestors were vegetarian",
             "link": "https://www.sciencedaily.com/releases/2025/01/250117112232.htm",
@@ -23,6 +16,20 @@
             "link": "https://www.sciencedaily.com/releases/2025/01/250117161235.htm",
             "description": "The Universe really seems to be expanding fast. Too fast, even. A new measurement confirms what previous -- and highly debated -- results had shown: T...",
             "pubDate": "2025-01-17T21:12:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "NASA's Hubble traces hidden history of Andromeda galaxy",
+            "link": "https://www.sciencedaily.com/releases/2025/01/250117171319.htm",
+            "description": "In the years following the launch of NASA's Hubble Space Telescope, astronomers have tallied over 1 trillion galaxies in the universe. But only one ga...",
+            "pubDate": "2025-01-17T22:13:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Astrophysicists reveal structure of 74 exocomet belts orbiting nearby stars in landmark survey",
+            "link": "https://www.sciencedaily.com/releases/2025/01/250117112405.htm",
+            "description": "Astrophysicists have imaged a large number of exocomet belts around nearby stars, and the tiny pebbles within them. The crystal-clear images show ligh...",
+            "pubDate": "2025-01-17T16:24:05",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
@@ -31,13 +38,6 @@
             "description": "Cultural traits -- the information, beliefs, behaviors, customs, and practices that shape the character of a population -- are influenced by conformit...",
             "pubDate": "2025-01-17T22:13:09",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Astrophysicists reveal structure of 74 exocomet belts orbiting nearby stars in landmark survey",
-            "link": "https://www.sciencedaily.com/releases/2025/01/250117112405.htm",
-            "description": "Astrophysicists have imaged a large number of exocomet belts around nearby stars, and the tiny pebbles within them. The crystal-clear images show ligh...",
-            "pubDate": "2025-01-17T16:24:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }
