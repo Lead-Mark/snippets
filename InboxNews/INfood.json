@@ -2,21 +2,21 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-21T13:28:56.345548",
+    "lastBuildDate": "2025-01-21T16:43:43.325009",
     "items": [
+        {
+            "title": "Ricotta Pie",
+            "link": "https://therecipecritic.com/ricotta-pie/",
+            "description": "This creamy Ricotta Pie has a milky cinnamon flavor with a hint of lemon. The flavor is incredible, and it’s…",
+            "pubDate": "2025-01-21T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/ricotta-pie-.jpg"
+        },
         {
             "title": "Chocolate Tahini Caramels (No Candy Thermometer!)",
             "link": "https://minimalistbaker.com/chocolate-tahini-caramels-no-candy-thermometer/",
             "description": "If you love chocolate covered caramels, but not the complicated methods usually required to make them, then this recipe is for you! These EASY vegan s...",
             "pubDate": "2024-12-10T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/Easy-Vegan-Dark-Chocolate-Sea-Salt-Tahini-Caramels-11-680x1020.jpg"
-        },
-        {
-            "title": "Chicken Gloria",
-            "link": "https://therecipecritic.com/chicken-gloria/",
-            "description": "This Chicken Gloria is moist, perfectly baked chicken with a slightly seared crust. It cooks in a creamy sauce that…",
-            "pubDate": "2025-01-19T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/chicken-gloria-3.jpg"
         },
         {
             "title": "Creamy Vegan White Bean Chili",
@@ -26,18 +26,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Vegan-White-Bean-Chili-7-680x1020.jpg"
         },
         {
-            "title": "Spoon Bread",
-            "link": "https://therecipecritic.com/spoon-bread/",
-            "description": "Spoon bread is a beloved classic Southern side dish. It’s similar to cornbread but is less sweet and has a…",
-            "pubDate": "2025-01-18T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/spoon-bread-.jpg"
-        },
-        {
-            "title": "Panda Express Chow Mein",
-            "link": "https://therecipecritic.com/panda-express-chow-mein/",
-            "description": "This copycat Panda Express chow mein recipe is better than what you get at the restaurant. It combines tender noodles,…",
-            "pubDate": "2025-01-20T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/panda-express-chow-mein.jpg"
+            "title": "Amish Breakfast Casserole",
+            "link": "https://therecipecritic.com/amish-breakfast-casserole/",
+            "description": "Kickstart your day with this hearty Amish Breakfast Casserole! It’s loaded with crispy bacon, tender hash browns, and gooey melted…",
+            "pubDate": "2025-01-18T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/amish-breakfast-casserole-.jpg"
         },
         {
             "title": "Easy Winter Fruit Salad (1 Bowl!)",
@@ -47,18 +40,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
         },
         {
-            "title": "Ricotta Pie",
-            "link": "https://therecipecritic.com/ricotta-pie/",
-            "description": "This creamy Ricotta Pie has a milky cinnamon flavor with a hint of lemon. The flavor is incredible, and it’s…",
-            "pubDate": "2025-01-21T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/ricotta-pie-.jpg"
-        },
-        {
-            "title": "Amish Breakfast Casserole",
-            "link": "https://therecipecritic.com/amish-breakfast-casserole/",
-            "description": "Kickstart your day with this hearty Amish Breakfast Casserole! It’s loaded with crispy bacon, tender hash browns, and gooey melted…",
-            "pubDate": "2025-01-18T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/amish-breakfast-casserole-.jpg"
+            "title": "Spoon Bread",
+            "link": "https://therecipecritic.com/spoon-bread/",
+            "description": "Spoon bread is a beloved classic Southern side dish. It’s similar to cornbread but is less sweet and has a…",
+            "pubDate": "2025-01-18T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/spoon-bread-.jpg"
         },
         {
             "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
@@ -66,6 +52,20 @@
             "description": "Chocolate, banana, and pecans…this flavor combination is meant to be. And in a muffin? Truly magical ! These FLUFFY banana nut muffins are vegan , glu...",
             "pubDate": "2025-01-21T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/1-Bowl-Vegan-Gluten-Free-Banana-Chocolate-Chip-Pecan-Muffins-5-680x1020.jpg"
+        },
+        {
+            "title": "Chicken Gloria",
+            "link": "https://therecipecritic.com/chicken-gloria/",
+            "description": "This Chicken Gloria is moist, perfectly baked chicken with a slightly seared crust. It cooks in a creamy sauce that…",
+            "pubDate": "2025-01-19T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/chicken-gloria-3.jpg"
+        },
+        {
+            "title": "Panda Express Chow Mein",
+            "link": "https://therecipecritic.com/panda-express-chow-mein/",
+            "description": "This copycat Panda Express chow mein recipe is better than what you get at the restaurant. It combines tender noodles,…",
+            "pubDate": "2025-01-20T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/panda-express-chow-mein.jpg"
         }
     ]
 }
