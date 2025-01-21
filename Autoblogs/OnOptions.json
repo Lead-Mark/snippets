@@ -2,49 +2,35 @@
     "title": "OnOptions",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from OnOptions, skipping any feeds with errors.",
-    "lastBuildDate": "2025-01-20T12:41:31.541537",
+    "lastBuildDate": "2025-01-21T07:16:56.629379",
     "items": [
-        {
-            "title": "Gold Futures Broadly Flat Ahead of Trump's Inauguration",
-            "link": "https://www.wsj.com/articles/gold-edges-lower-on-possible-technical-correction-e16f286a?mod=rss_markets_main",
-            "description": "Gold futures were broadly flat as the dollar softened, with investors seeking clarity on potential Trump policies that could affect inflation trends, ...",
-            "pubDate": "2025-01-20T13:58:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Bitcoin Hits Record, Dollar Slides Ahead of Trump's Swearing In",
-            "link": "https://www.wsj.com/articles/global-stocks-markets-dow-news-01-20-2025-d809dbee?mod=rss_markets_main",
-            "description": "The new peak above $109,000 was reached Monday, and stock futures edged higher. Since Trump was elected, bitcoin has surged more than 50%.",
-            "pubDate": "2025-01-20T14:49:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
         {
             "title": "Morgan Stanley tops estimates on strong equities and fixed income trading revenue",
             "link": "https://www.cnbc.com/2025/01/16/morgan-stanley-ms-earnings-q4-2024.html",
             "description": "While bank stocks have been supported by enthusiasm for rising deal activity, it was actually the trading side that helped Morgan Stanley more in the ...",
             "pubDate": "2025-01-16T14:52:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "TSMC net profit hits record high as fourth-quarter results top expectations on robust AI chip demand",
+            "link": "https://www.cnbc.com/2025/01/16/tsmc-fourth-quarter-profit-beats-expectations-on-strong-ai-chip-demand.html",
+            "description": "TSMC, the world's largest contract chip manufacturer, produces advanced processors for clients such as Nvidia and Apple and has benefited from the meg...",
+            "pubDate": "2025-01-17T04:30:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Oil Majors Flirt With Electricity",
+            "link": "https://www.wsj.com/articles/oil-majors-flirt-with-electricity-0d1df707?mod=rss_markets_main",
+            "description": "As power generators such as Vistra soar, oil-and-gas giants are dipping their toes into a business where they have some natural advantages.",
+            "pubDate": "2025-01-21T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Stock Futures Higher as Dollar Whipsaws on Trump Tariff Plans",
+            "link": "https://www.wsj.com/articles/australia-shares-set-to-rise-after-trumps-inauguration-f7253995?mod=rss_markets_main",
+            "description": "Stock futures stood modestly higher coming out of the long weekend.",
+            "pubDate": "2025-01-21T11:39:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Shares of Cartier owner Richemont jump 16% as sales rise in December quarter",
-            "link": "https://www.cnbc.com/2025/01/16/cartier-owner-richemont-q3-sales-rise-10percent-china-weakness-remains.html",
-            "description": "Cartier owner Richemont on Thursday reported a 10% increase in third quarter sales even as China demand weighed.",
-            "pubDate": "2025-01-16T16:51:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Bank of America tops estimates on better-than-expected investment banking, interest income",
-            "link": "https://www.cnbc.com/2025/01/16/bank-of-america-bac-earnings-q4-2024.html",
-            "description": "The company said fourth-quarter profit more than doubled to $6.67 billion, or 82 cents per share, from a year earlier.",
-            "pubDate": "2025-01-16T14:57:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Oil Slide Accelerates After WSJ Reports Trump Won't Impose Immediate Tariffs",
-            "link": "https://www.wsj.com/articles/oil-higher-amid-supply-disruption-concerns-5afd6638?mod=rss_markets_main",
-            "description": "Oil’s declines accelerated after the WSJ reported that Trump isn’t planning to impose new tariffs on his first day in office.",
-            "pubDate": "2025-01-20T15:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Here's what it will take for Apple to get out of its 2025 funk",
@@ -54,25 +40,39 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Dollar's Drop Shows Sensitivity to Tariff News",
-            "link": "https://www.wsj.com/articles/aud-usd-weakness-wont-scupper-rba-rate-cut-in-february-5d90a221?mod=rss_markets_main",
-            "description": "The dollar’s sudden drop on a WSJ report that Trump is unlikely to implement immediate tariffs shows just how sensitive the currency is to tariff news...",
-            "pubDate": "2025-01-20T15:38:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Gilt Yield Rise Ahead of Tuesday's U.K. Labor Market Data",
-            "link": "https://www.wsj.com/articles/jgb-futures-consolidate-focus-on-trumps-inauguration-2dfa56ae?mod=rss_markets_main",
-            "description": "Yields on gilts climbed ahead of U.K. labor market data due Tuesday, and XTV said, “If rising wage data is confirmed, this could weigh on the BOE rate...",
-            "pubDate": "2025-01-20T14:18:00",
+            "title": "Shares of Cartier owner Richemont jump 16% as sales rise in December quarter",
+            "link": "https://www.cnbc.com/2025/01/16/cartier-owner-richemont-q3-sales-rise-10percent-china-weakness-remains.html",
+            "description": "Cartier owner Richemont on Thursday reported a 10% increase in third quarter sales even as China demand weighed.",
+            "pubDate": "2025-01-16T16:51:53",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "TSMC net profit hits record high as fourth-quarter results top expectations on robust AI chip demand",
-            "link": "https://www.cnbc.com/2025/01/16/tsmc-fourth-quarter-profit-beats-expectations-on-strong-ai-chip-demand.html",
-            "description": "TSMC, the world's largest contract chip manufacturer, produces advanced processors for clients such as Nvidia and Apple and has benefited from the meg...",
-            "pubDate": "2025-01-17T04:30:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Risk of Euro Falling to Parity Versus Dollar Has Abated for Now",
+            "link": "https://www.wsj.com/articles/aud-usd-gets-sugar-hit-as-trump-avoids-tariff-blitz-for-now-45e683c1?mod=rss_markets_main",
+            "description": "The euro was weaker against the dollar, but the risk of it falling below parity with the dollar in the first quarter of the year has fallen, according...",
+            "pubDate": "2025-01-21T11:54:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Oil's Recent Surge Should Prompt Caution in Trump's Sanctions Strategy",
+            "link": "https://www.wsj.com/articles/oil-falls-as-trump-promises-to-boost-u-s-crude-production-b2f3d3ac?mod=rss_markets_main",
+            "description": "Oil was trading lower and Commerzbank Research said its rally after the latest round of U.S. sanctions on Russia’s energy sector should make Trump cau...",
+            "pubDate": "2025-01-21T11:37:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Bank of America tops estimates on better-than-expected investment banking, interest income",
+            "link": "https://www.cnbc.com/2025/01/16/bank-of-america-bac-earnings-q4-2024.html",
+            "description": "The company said fourth-quarter profit more than doubled to $6.67 billion, or 82 cents per share, from a year earlier.",
+            "pubDate": "2025-01-16T14:57:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Gold Futures Slip as Trump Decides Against Immediate Tariffs",
+            "link": "https://www.wsj.com/articles/gold-steady-as-traders-assess-trumps-inauguration-speech-b2146b81?mod=rss_markets_main",
+            "description": "Gold futures fell as Trump didn’t immediately implement trade tariffs, somewhat lowering short-term, safe-haven demand for the precious metal, though ...",
+            "pubDate": "2025-01-21T11:27:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

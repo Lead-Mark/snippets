@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.technologyreview.com/feed/",
     "link": "https://www.technologyreview.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-20T12:41:31.125970",
+    "lastBuildDate": "2025-01-21T07:16:55.897492",
     "items": [
+        {
+            "title": "Why it’s so hard to use AI to diagnose cancer",
+            "link": "https://www.technologyreview.com/2025/01/21/1110192/why-its-so-hard-to-use-ai-to-diagnose-cancer/",
+            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Peering into...",
+            "pubDate": "2025-01-21T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
         {
             "title": "The Download: AI’s coding promises, and OpenAI’s longevity push",
             "link": "https://www.technologyreview.com/2025/01/20/1110187/the-download-ais-coding-promises-and-openais-longevity-push/",
@@ -16,7 +23,7 @@
             "link": "https://www.technologyreview.com/2025/01/20/1110180/the-second-wave-of-ai-coding-is-here/",
             "description": "Ask people building generative AI what generative AI is good for right now—what they’re really fired up about—and many will tell you: coding. “That’s ...",
             "pubDate": "2025-01-20T11:52:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "OpenAI has created an AI model for longevity science",
@@ -31,13 +38,6 @@
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We need to p...",
             "pubDate": "2025-01-17T13:07:23",
             "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f9be.png"
-        },
-        {
-            "title": "We need to protect the protocol that runs Bluesky",
-            "link": "https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/",
-            "description": "Last week, when Mark Zuckerberg announced that Meta would be ending third-party fact-checking, it was a shocking pivot, but not exactly surprising. It...",
-            "pubDate": "2025-01-17T11:02:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-20T12:41:31.127409",
+    "lastBuildDate": "2025-01-21T07:16:55.899236",
     "items": [
+        {
+            "title": "Open-source DeepSeek-R1 uses pure reinforcement learning to match OpenAI o1 — at 95% less cost",
+            "link": "https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1-at-95-less-cost/",
+            "description": "The company developed DeepSeek-R1 by using pure reinforcement learning on top of DeepSeek-V3-Base, and matched or beat o1 on some benchmarks.",
+            "pubDate": "2025-01-20T17:55:46",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/07/nuneybits_A_marathon_race_track_with_various_AI_robots_lined_up_b7eb2227-5c1a-4533-828a-bf2a77bd95ad-transformed.webp?w=578"
+        },
         {
             "title": "AI comes alive: From bartenders to surgical aides to puppies, tomorrow’s robots are on their way",
             "link": "https://venturebeat.com/ai/ai-comes-alive-from-bartenders-to-surgical-aides-to-puppies-tomorrows-robots-are-on-their-way/",
@@ -23,7 +30,7 @@
             "link": "https://venturebeat.com/ai/microsoft-autogen-v0-4-a-turning-point-toward-more-intelligent-ai-agents-for-enterprise-developers/",
             "description": "AutoGen represents Microsoft’s latest attempt to address the challenges of building multi-agent systems for enterprise applications. This article expl...",
             "pubDate": "2025-01-18T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Beyond RAG: How cache-augmented generation reduces latency, complexity for smaller workloads",
@@ -31,13 +38,6 @@
             "description": "As LLMs become more capable, many RAG applications can be replaced with cache-augmented generation that include documents in the prompt.",
             "pubDate": "2025-01-17T21:25:12",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/TJVRewV0S_GqJz_1gX2vEw.webp?w=578"
-        },
-        {
-            "title": "Runway’s new AI image generator Frames is here, and it looks fittingly cinematic",
-            "link": "https://venturebeat.com/ai/runways-new-ai-image-generator-frames-is-here-and-it-looks-fittingly-cinematic/",
-            "description": "The model excels in rendering advanced textures, natural lighting and complex compositions, providing more flexibility.",
-            "pubDate": "2025-01-17T19:46:41",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/frames-showcase-125.png?w=578"
         }
     ]
 }
