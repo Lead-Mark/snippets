@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>Unique Snippet Feed</title><link>http://example.com/unique_snippets.xml</link><description>This feed displays a unique selection of snippets with their IDs.</description><lastBuildDate>Tue, 21 Jan 2025 07:06:47 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unused</title><description>Dummy item, ignore</description></item><item><title>Active Content</title><LMheaderPMi>EdAd - CTO - Header - Roaring Monkey Making Easy Trades rewrite</LMheaderPMi><LMhIDpmi>5393 7</LMhIDpmi><LMheaderPMii>EdAd - CPC - BM Hartford Death of the Dollar Jan</LMheaderPMii><LMhIDpmii>4699 2</LMhIDpmii><LMheaderPMiii>EdAd - CTO - Darwin TWI 2 Best AI Stocks January</LMheaderPMiii><LMhIDpmiii>5380 2</LMhIDpmiii><description>Real item with content</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Unique Snippet Feed</title>
+        <link>http://example.com/unique_snippets.xml</link>
+        <description>This feed displays a unique selection of snippets with their IDs.</description>
+        <lastBuildDate>Tue, 21 Jan 2025 07:06:47 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Unused</title>
+            <description>Dummy item, ignore</description>
+        </item>
+        <item>
+            <title>Active Content</title>
+            <LMheaderPMi>EdAd - CTO - Header - CLM MMT Five Under the Radar Stocks</LMheaderPMi>
+            <LMhIDpmi>5394 7</LMhIDpmi>
+            <LMheaderPMii>EdAd - CTO - InvestPub CP Daily Profit 2 January</LMheaderPMii>
+            <LMhIDpmii>5403 2</LMhIDpmii>
+            <LMheaderPMiii>EdAd - CTO - Darwin WCI Gold Guide Jan </LMheaderPMiii>
+            <LMhIDpmiii>5411 2</LMhIDpmiii>
+            <description>Real item with content</description>
+        </item>
+    </channel>
+</rss>
