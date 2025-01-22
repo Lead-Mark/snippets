@@ -1,21 +1,2 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0">
-    <channel>
-        <title>Random Snippet Feed</title>
-        <link>http://example.com/random_snippets.xml</link>
-        <description>This feed displays two randomly selected snippets.</description>
-        <lastBuildDate>Fri, 17 Jan 2025 11:23:14 GMT</lastBuildDate>
-        <generator>PyRSS2Gen-1.1.0</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <item>
-            <title>Dummy Item</title>
-            <description>This is a placeholder item.</description>
-        </item>
-        <item>
-            <title>Unused</title>
-            <snippetOne>EdAd - Oxford BRK Pack</snippetOne>
-            <snippetTwo>EdAd - Silver Rhino Final Blackout</snippetTwo>
-            <description>Unused</description>
-        </item>
-    </channel>
-</rss>
+<rss version="2.0"><channel><title>Random Snippet Feed</title><link>http://example.com/random_snippets.xml</link><description>This feed displays two randomly selected snippets.</description><lastBuildDate>Wed, 22 Jan 2025 10:16:44 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dummy Item</title><description>This is a placeholder item.</description></item><item><title>Unused</title><snippetOne>EdAd - Porter Co Secret Energy Grid</snippetOne><snippetTwo>EdAd - Silver Rhino Chip Shock</snippetTwo><description>Unused</description></item></channel></rss>
