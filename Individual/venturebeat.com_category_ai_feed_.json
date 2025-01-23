@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-23T07:34:38.788284",
+    "lastBuildDate": "2025-01-23T13:43:16.669223",
     "items": [
+        {
+            "title": "Pipeshift cuts GPU usage for AI inferences 75% with modular interface engine",
+            "link": "https://venturebeat.com/ai/pipeshift-cuts-gpu-usage-for-ai-inferences-75-with-modular-interface-engine/",
+            "description": "Pipeshift has a Lego-like system that allows teams to configure the right inference stack for their AI workloads, without extensive engineering.",
+            "pubDate": "2025-01-23T17:21:05",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-10-15.46.45-An-abstract-expressionist-painting-showing-a-humanoid-robot-construction-worker-with-a-yellow-hard-hat-assembling-a-large-machine.-The-robot-is-detai.png?w=578"
+        },
+        {
+            "title": "Galileo launches Agentic Evaluations to fix AI agent errors before they cost you",
+            "link": "https://venturebeat.com/ai/galileo-launches-agentic-evaluations-to-fix-ai-agent-errors-before-they-cost-you/",
+            "description": "Galileo launches Agentic Evaluations to help enterprises evaluate and monitor AI agents, securing $68M in funding as companies like Cisco adopt its pl...",
+            "pubDate": "2025-01-23T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Vector_art_of_Galileo_computer_data_1s_and_0s_compute_d900530c-054b-48e4-bae7-781391bc042e.webp?w=578"
+        },
         {
             "title": "ByteDance’s UI-TARS can take over your computer, outperforms GPT-4o and Claude",
             "link": "https://venturebeat.com/ai/bytedances-ui-tars-can-take-over-your-computer-outperforms-gpt-4o-and-claude/",
@@ -24,20 +38,6 @@
             "description": "Samsung teased its efforts with multimodal AI and new form factors including smart glasses and extended reality (XR) devices.",
             "pubDate": "2025-01-22T18:46:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/samsung-xr-main.jpg?w=578"
-        },
-        {
-            "title": "DeepMind’s new inference-time scaling technique improves planning accuracy in LLMs",
-            "link": "https://venturebeat.com/ai/deepmind-new-inference-time-scaling-technique-improves-planning-accuracy-in-llms/",
-            "description": "With \"Mind Evolution\" LLMs can use search and genetic algorithms to generate and combine different solutions and find the optimal one.",
-            "pubDate": "2025-01-22T17:24:32",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_of_cybernetic_DNA_strands_with_a_padlock_ico_aaa71acb-75ba-41fc-9107-1c876666042a.png?w=578"
-        },
-        {
-            "title": "OpenAI Stargate is a $500B bet: America’s AI Manhattan Project or costly dead end?",
-            "link": "https://venturebeat.com/ai/openai-stargate-is-a-500b-bet-americas-ai-manhattan-project-or-costly-dead-end/",
-            "description": "OpenAI, Oracle, Softbank and MGX are investing a record amount in new AI infrastructure even as China's DeepSeek outperforms on cost.",
-            "pubDate": "2025-01-22T16:38:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/stargate-crackling.png?w=578"
         }
     ]
 }
