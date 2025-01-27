@@ -2,14 +2,21 @@
     "title": "Individual feed for https://www.technologyreview.com/feed/",
     "link": "https://www.technologyreview.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-01-26T04:24:28.655481",
+    "lastBuildDate": "2025-01-27T07:06:42.740612",
     "items": [
+        {
+            "title": "Useful quantum computing is inevitable—and increasingly imminent",
+            "link": "https://www.technologyreview.com/2025/01/27/1110540/useful-quantum-computing-is-inevitable-and-increasingly-imminent/",
+            "description": "On January 8, Nvidia CEO Jensen Huang jolted the stock market by saying that practical quantum computing is still 15 to 30 years away, at the same tim...",
+            "pubDate": "2025-01-27T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "How a top Chinese AI model overcame US sanctions",
             "link": "https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/",
             "description": "The AI community is abuzz over DeepSeek R1, a new open-source reasoning model. The model was developed by the Chinese AI startup DeepSeek, which claim...",
             "pubDate": "2025-01-24T18:26:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "The Download: OpenAI’s agent, and what to expect from robotics",
@@ -23,7 +30,7 @@
             "link": "https://www.technologyreview.com/2025/01/24/1110480/us-withdrawal-from-who-will-hurt-us-all/",
             "description": "This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read ar...",
             "pubDate": "2025-01-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "What’s next for robots",
@@ -31,13 +38,6 @@
             "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
             "pubDate": "2025-01-23T19:09:56",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "OpenAI launches Operator—an agent that can use a computer for you",
-            "link": "https://www.technologyreview.com/2025/01/23/1110484/openai-launches-operator-an-agent-that-can-use-a-computer-for-you/",
-            "description": "After weeks of buzz, OpenAI has released Operator, its first AI agent. Operator is a web app that can carry out simple online tasks in a browser, such...",
-            "pubDate": "2025-01-23T18:00:28",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/01/In-action.png"
         }
     ]
 }
