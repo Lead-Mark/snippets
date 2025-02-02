@@ -2,27 +2,83 @@
     "title": "SevenAtSevenSection1",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-01T03:48:25.290877",
+    "lastBuildDate": "2025-02-02T01:25:32.223437",
     "items": [
+        {
+            "title": "D.C. crash investigators focus on altitude and vision quality of helicopter crew",
+            "link": "https://www.npr.org/2025/02/01/nx-s1-5283318/dc-plane-crash-investigation-helicopter-crew-vision-ntsb",
+            "description": "Investigators are still working to piece together key details to determine the cause of the crash that killed 67 people.",
+            "pubDate": "2025-02-02T02:24:21",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F91%2F67cfaf0647c78997ca668d8373aa%2Fgettyimages-2196521806.jpg"
+        },
         {
             "title": "How to FIRE Faster with a Self-Directed IRA",
             "link": "https://www.biggerpockets.com/blog/money-603",
             "description": "How can you use your retirement accounts to reach FIRE faster? We’ve talked a lot about the “middle-class trap”—having too much of your net worth trap...",
             "pubDate": "2025-01-31T09:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "‘Heartbreaking’ search for those killed in DC air crash as army helicopter’s black box recovered",
-            "link": "https://apnews.com/article/ronald-reagan-national-airport-crash-325edc6c0c2439dd6c1e73a81e382c0e",
+            "title": "Seven dead, 19 injured in ‘high-impact’ air ambulance crash in Philadelphia",
+            "link": "https://apnews.com/article/philadelphia-plane-crash-medical-transport-8617dab53471190832dd73db149489fa",
+            "description": "At least seven people were killed and 19 were injured when an air ambulance crashed to the ground on a busy Philadelphia street, creating what witness...",
+            "pubDate": "2025-02-01T01:38:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "NPR reporters discuss covering the LA wildfires",
+            "link": "https://www.npr.org/2025/02/01/nx-s1-5270861/npr-reporters-discuss-covering-the-la-wildfires",
             "description": "",
-            "pubDate": "2025-01-31T00:09:23",
+            "pubDate": "2025-02-01T22:52:25",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5270861"
+        },
+        {
+            "title": "How President Trump’s Policies Could Impact Retirement Plans For Real Estate Investors",
+            "link": "https://www.biggerpockets.com/blog/how-trumps-policies-could-impact-retirement-accounts",
+            "description": "If you’re a real estate investor, you know how important it is to optimize every dollar. Retirement accounts like 401(k)s, IRAs, and even solo 401(k)s...",
+            "pubDate": "2025-01-31T22:27:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Adobe exec Scott Belsky departs for indie movie studio A24",
+            "link": "https://techcrunch.com/2025/02/01/adobe-exec-scott-belsky-departs-for-indie-movie-studio-a24/",
+            "description": "Adobe’s chief strategy officer Scott Belsky announced this week that he will be joining A24, the independent movie studio behind “Civil War,” “Everyth...",
+            "pubDate": "2025-02-01T18:38:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "A deadly flight out of Wichita has one of America’s most historic aviation cities reeling",
+            "link": "https://apnews.com/article/plane-crash-wichita-kansas-a14e1e2acde7a058afa0b4fd3422313f",
+            "description": "",
+            "pubDate": "2025-02-01T00:03:36",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Autonomous vehicle testing in California dropped 50%. Here’s why.",
-            "link": "https://techcrunch.com/2025/01/31/autonomous-vehicle-testing-in-california-dropped-50-heres-why/",
-            "description": "Tech companies developing self-driving vehicle technology have tapped the brakes on testing on California’s public roads, according to new data from t...",
-            "pubDate": "2025-02-01T00:16:38",
+            "title": "Senator warns of national security risks after Elon Musk’s DOGE granted ‘full access’ to sensitive Treasury systems",
+            "link": "https://techcrunch.com/2025/02/01/senator-warns-of-national-security-risks-after-elon-musks-doge-granted-full-access-to-sensitive-treasury-systems/",
+            "description": "U.S. senator says Musk's access to Treasury systems represents a \"national security risk.\" © 2024 TechCrunch. All rights reserved. For personal use on...",
+            "pubDate": "2025-02-01T23:30:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Trump imposes new tariffs on imports from Mexico, Canada and China in new phase of trade war",
+            "link": "https://www.npr.org/2025/02/01/g-s1-46010/trump-tariffs-mexico-canada-and-china-imports",
+            "description": "Starting Tuesday, nearly all imports from Canada and Mexico will be charged a 25% tariff, while goods from China will be charged a 10% tariff.",
+            "pubDate": "2025-02-01T23:28:36",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F18%2Fe2e4e4084125bf0cd2a7e2081eb1%2Fgettyimages-1689515283.jpg"
+        },
+        {
+            "title": "CBS agrees to hand over ’60 Minutes’ Harris interview transcripts to FCC",
+            "link": "https://apnews.com/article/trump-cbs-60-minutes-harris-interview-ac36372dd700c9d233eee78773473f49",
+            "description": "",
+            "pubDate": "2025-01-31T19:15:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Here are all the IPOs reported to be in the works for 2025",
+            "link": "https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/",
+            "description": "These companies have confidentially filed to go public in recent years. © 2024 TechCrunch. All rights reserved. For personal use only.",
+            "pubDate": "2025-02-01T17:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
@@ -30,104 +86,48 @@
             "link": "https://www.biggerpockets.com/blog/indianapolis-real-estate-market-analysis",
             "description": "When real estate investors hear “affordable cash flow cities,” they may think of Detroit or Cleveland. But I think one of the best cash flow cities in...",
             "pubDate": "2025-01-31T22:20:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source",
-            "link": "https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/",
-            "description": "To cap off a day of product releases, OpenAI researchers, engineers, and executives, including OpenAI CEO Sam Altman, answered questions in a wide-ran...",
-            "pubDate": "2025-01-31T23:34:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "DeepSeek gets Silicon Valley talking",
+            "link": "https://techcrunch.com/2025/02/01/deepseek-gets-silicon-valley-talking-2/",
+            "description": "Welcome back to Week in Review. This week we’re looking at DeepSeek’s major boost in the U.S.; Elon Musk admitting he was wrong about FSD; teens losin...",
+            "pubDate": "2025-02-01T18:02:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Federal websites down as agencies implement executive order 'defending women'",
-            "link": "https://www.npr.org/2025/01/31/g-s1-45887/trump-opm-gender-ideology-defending-women-websites-transgender",
-            "description": "After the president signed an executive order \"defending women against gender ideology extremism,\" several federal government websites on gender and s...",
-            "pubDate": "2025-01-31T23:25:20",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2F9ff689ef49d78af8cbb2148cb21c%2Fap25030749490669-1.jpg"
-        },
-        {
-            "title": "OpenAI used this subreddit to test AI persuasion",
-            "link": "https://techcrunch.com/2025/01/31/openai-used-this-subreddit-to-test-ai-persuasion/",
-            "description": "OpenAI used the subreddit, r/ChangeMyView, to create a test for measuring the persuasive abilities of its AI reasoning models. The company revealed th...",
-            "pubDate": "2025-01-31T23:47:00",
+            "title": "X expands lawsuit over advertiser ‘boycott’ to include Lego, Nestlé, Pinterest, and others",
+            "link": "https://techcrunch.com/2025/02/01/x-expands-lawsuit-over-advertiser-boycott-to-include-lego-nestle-pinterest-and-others/",
+            "description": "X is now suing more advertisers in an antitrust lawsuit focusing on what the company’s CEO Linda Yaccarino has claimed is a “systematic illegal boycot...",
+            "pubDate": "2025-02-01T22:40:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Oscar-nominated actress Karla Sofía Gascón apologizes for old social media posts",
-            "link": "https://www.npr.org/2025/01/31/nx-s1-5282222/oscar-nominated-actress-karla-sofia-gascon-apologizes-for-old-social-media-posts",
-            "description": "The first openly trans actress to be nominated for an Oscar is facing backlash for old social media posts that denigrate certain marginalized groups. ...",
-            "pubDate": "2025-02-01T00:03:40",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5464x3643+0+0/resize/5464x3643!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F35%2F10494e8647038f0ac32fbc14a7ee%2Fgettyimages-2192002860.jpg"
-        },
-        {
-            "title": "A 2nd U.S. judge says Trump administration must pause its federal spending freeze",
-            "link": "https://www.npr.org/2025/01/31/nx-s1-5282410/trump-spending-freeze-blocked-federal-judge",
-            "description": "The decision came in response to a petition by attorneys general in 22 states and Washington, D.C., seeking to block the administration's efforts to f...",
-            "pubDate": "2025-02-01T02:04:07",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F28%2F0b8e95764256a8bd9689e79ecf2f%2Fgettyimages-2196166782.jpg"
         },
         {
             "title": "4 Cities Where You Can Live for Free in 2025",
             "link": "https://www.biggerpockets.com/blog/real-estate-1077",
             "description": "One of the best ways to “live for free” is a strategy almost every successful real estate investor uses at some point in their journey: house hacking....",
             "pubDate": "2025-01-31T09:00:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "India pledges fresh billion for startups",
-            "link": "https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/",
-            "description": "India announced a new $1.15 billion Fund of Funds for startups on Saturday while unveiling sweeping regulatory reforms and an ambitious nuclear energy...",
-            "pubDate": "2025-02-01T07:37:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Third Black Hawk crew member involved in deadly crash near DC airport identified",
+            "link": "https://www.npr.org/2025/02/01/g-s1-46002/washington-dc-airport-potomac-crash-black-hawk-military-crew",
+            "description": "The Army released the identity of the third crew member aboard the Black Hawk helicopter involved in the deadly airport crash near DCA as Capt. Rebecc...",
+            "pubDate": "2025-02-01T22:30:33",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/833x615+0+0/resize/833x615!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F11%2F3da6cfd24befbd12194c3fe8ec05%2Fblack-hawk-crew-new.jpg"
         },
         {
-            "title": "Plane with 6 aboard crashes in Philadelphia, setting homes ablaze",
-            "link": "https://www.npr.org/2025/01/31/nx-s1-5282412/philadelphia-small-plane-crash",
-            "description": "A medical transport jet with a child patient, her mother and four others aboard crashed into a Philadelphia neighborhood shortly after takeoff, explod...",
-            "pubDate": "2025-02-01T00:57:04",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5276x3517+0+0/resize/5276x3517!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F95%2Fd327aa2a4a749cf30b8a27e3eaf1%2Fap25032024388124.jpg"
+            "title": "Elon Musk's X sues Lego, Nestlé and more brands, accusing them of advertising boycott",
+            "link": "https://www.npr.org/2025/02/01/nx-s1-5283271/elon-musk-lawsuit-advertisers-boycott-new",
+            "description": "The new defendants added into the legal filing included Lego, Nestlé, Tyson Foods, Abbott Laboratories, Colgate-Palmolive, Pinterest and Shell Interna...",
+            "pubDate": "2025-02-02T00:11:46",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F01%2F8f1014f445f39435315f01ab7171%2Fgettyimages-2187759744.jpg"
         },
         {
             "title": "Fund Your FIRST Rental Property with These Side Hustle Ideas (Rookie Reply)",
             "link": "https://www.biggerpockets.com/blog/rookie-517",
             "description": "Do you need more money to buy your first rental property? Fortunately, there are all kinds of real estate side hustles you can use to supercharge your...",
             "pubDate": "2025-01-31T09:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Elon Musk is reportedly taking control of the inner workings of US government agencies",
-            "link": "https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/",
-            "description": "People working for, or with, Elon Musk are reportedly taking over the inner workings of multiple government agencies, including the Office of Personne...",
-            "pubDate": "2025-02-01T00:22:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "How President Trump’s Policies Could Impact Retirement Plans For Real Estate Investors",
-            "link": "https://www.biggerpockets.com/blog/how-trumps-policies-could-impact-retirement-accounts",
-            "description": "If you’re a real estate investor, you know how important it is to optimize every dollar. Retirement accounts like 401(k)s, IRAs, and even solo 401(k)s...",
-            "pubDate": "2025-01-31T22:27:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Pilots have reported repeated close calls similar to fatal collision near DC airport",
-            "link": "https://apnews.com/article/dc-midair-collision-military-training-washington-airport-6f77fbc68a02d621e24f9ca9b29cb805",
-            "description": "",
-            "pubDate": "2025-01-31T17:04:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Map: A look at helicopter traffic patterns over D.C.",
-            "link": "https://www.npr.org/2025/01/31/nx-s1-5282238/map-helicopter-traffic-dca-plane-crash",
-            "description": "The airspace above Reagan National Airport, where a commercial plane collided with an Army helicopter this week, has become increasingly congested wit...",
-            "pubDate": "2025-02-01T00:03:47",
-            "image_url": "https://feeds.npr.org/1001/undefined"
-        },
-        {
-            "title": "A deadly flight out of Wichita has one of America’s most historic aviation cities reeling",
-            "link": "https://apnews.com/article/plane-crash-wichita-kansas-a14e1e2acde7a058afa0b4fd3422313f",
-            "description": "A deadly collision between a passenger airliner and an Army helicopter left Kansas’ largest city grieving. The passenger airline took from Wichita.",
-            "pubDate": "2025-02-01T00:03:36",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
