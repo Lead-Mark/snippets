@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-02T01:28:02.478582",
+    "lastBuildDate": "2025-02-03T07:24:32.919364",
     "items": [
+        {
+            "title": "The AI paradox: How tomorrow’s cutting-edge tools can become dangerous cyber threats (and what to do to prepare)",
+            "link": "https://venturebeat.com/security/the-ai-paradox-how-tomorrows-cutting-edge-tools-can-become-dangerous-cyber-threats-and-how-to-prepare/",
+            "description": "AI agents will bring enterprises to the next level, but the same applies to related vulnerabilities. Here are key tips to follow.",
+            "pubDate": "2025-02-02T23:35:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/a-3d-render-of-a-sleep-depiction-of-mode_3x_jieckQbKYhaSXnstcTA_7uPpDWENT_WLGoSxjA0jlQ-transformed.jpeg?w=578"
+        },
         {
             "title": "Clever architecture over raw compute: DeepSeek shatters the ‘bigger is better’ approach to AI development",
             "link": "https://venturebeat.com/ai/clever-architecture-over-raw-compute-deepseek-shatters-the-bigger-is-better-approach-to-ai-development/",
@@ -14,7 +21,7 @@
         {
             "title": "Sam Altman admits OpenAI was ‘on the wrong side of history’ in open source debate",
             "link": "https://venturebeat.com/ai/sam-altman-admits-openai-was-on-the-wrong-side-of-history-in-open-source-debate/",
-            "description": "Sam Altman, CEO of OpenAI, admits the company was \"on the wrong side of history\" in the open source AI debate during a Reddit AMA, signaling a potenti...",
+            "description": "OpenAI CEO Sam Altman admits the company was \"on the wrong side of history\" in the open-source debate, signaling a potential strategy shift.",
             "pubDate": "2025-02-01T01:37:10",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Vector_art_of_a_retro_computer_screen_glowing_b04608a4-405d-4cbc-af9b-0dda497be984.webp?w=578"
         },
@@ -31,13 +38,6 @@
             "description": "o1 is slightly better at reasoning, but DeepSeek-R1 provides much more details about its reasoning, which is very useful to the user.",
             "pubDate": "2025-01-31T19:53:58",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/DeepSeek-R1-vs-openai-o1.jpg?w=578"
-        },
-        {
-            "title": "It’s here: OpenAI’s o3-mini advanced reasoning model arrives to counter DeepSeek’s rise",
-            "link": "https://venturebeat.com/ai/its-here-openais-o3-mini-advanced-reasoning-model-arrives-to-counter-deepseeks-rise/",
-            "description": "It's 63% cheaper than OpenAI o1-mini and 93% cheaper than the full o1 model, priced at $1.10/$4.40 per million tokens in/out.",
-            "pubDate": "2025-01-31T19:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/man-telescope-o3.png?w=578"
         }
     ]
 }
