@@ -2,21 +2,35 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-04T14:55:27.277136",
+    "lastBuildDate": "2025-02-05T07:46:09.202968",
     "items": [
+        {
+            "title": "Everything Bagel Cheese Ball",
+            "link": "https://therecipecritic.com/everything-bagel-cheese-ball/",
+            "description": "This everything bagel cheese ball combines the creamy richness of cheese with the savory blend of everything bagel seasoning! It’s…",
+            "pubDate": "2025-02-03T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/everything-bagel-cheese-ball-2-1.jpg"
+        },
+        {
+            "title": "Creamy Vegan White Bean Chili",
+            "link": "https://minimalistbaker.com/creamy-vegan-white-bean-chili/",
+            "description": "We love a classic (tomato-based) chili, but a CREAMY chili? It’s hard to say no to! Mix up your chili rotation with this creamy vegan white bean chili...",
+            "pubDate": "2025-01-07T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Vegan-White-Bean-Chili-7-680x1020.jpg"
+        },
+        {
+            "title": "Slow Cooker Shredded BBQ Chicken",
+            "link": "https://therecipecritic.com/slow-cooker-shredded-bbq-chicken/",
+            "description": "Slow cooker shredded BBQ chicken is a simple, zesty, and flavorful chicken. It can go in pasta dishes, over potatoes, in…",
+            "pubDate": "2025-02-04T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2014/08/shredded-bbq-chicken-6-1.jpg"
+        },
         {
             "title": "Sour Cream and Onion Dip",
             "link": "https://therecipecritic.com/sour-cream-and-onion-dip/",
             "description": "This sour cream and onion dip has become a staple at all of our family get togethers. It’s the perfect…",
             "pubDate": "2025-02-02T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/sour-cream-and-onion-dip-4.jpg"
-        },
-        {
-            "title": "Strawberry Cheesecake Dip",
-            "link": "https://therecipecritic.com/strawberry-cheesecake-dip/",
-            "description": "Strawberry cheesecake dip is an irresistible treat that tastes just like the classic but in a fun dip form! Whip…",
-            "pubDate": "2025-02-01T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/strawberry-cheesecake-dip-.jpg"
         },
         {
             "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
@@ -33,32 +47,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
         },
         {
-            "title": "Everything Bagel Cheese Ball",
-            "link": "https://therecipecritic.com/everything-bagel-cheese-ball/",
-            "description": "This everything bagel cheese ball combines the creamy richness of cheese with the savory blend of everything bagel seasoning! It’s…",
-            "pubDate": "2025-02-03T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/everything-bagel-cheese-ball-2-1.jpg"
-        },
-        {
-            "title": "Creamy Vegan White Bean Chili",
-            "link": "https://minimalistbaker.com/creamy-vegan-white-bean-chili/",
-            "description": "We love a classic (tomato-based) chili, but a CREAMY chili? It’s hard to say no to! Mix up your chili rotation with this creamy vegan white bean chili...",
-            "pubDate": "2025-01-07T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Vegan-White-Bean-Chili-7-680x1020.jpg"
-        },
-        {
-            "title": "How to Boil Lobster",
-            "link": "https://therecipecritic.com/how-to-boil-lobster/",
-            "description": "Learn how to boil lobster and enjoy this simple and delicious seafood delicacy. With a few basic steps, you’ll have…",
-            "pubDate": "2025-02-01T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/boiled-lobster-1.jpg"
-        },
-        {
-            "title": "Slow Cooker Shredded BBQ Chicken",
-            "link": "https://therecipecritic.com/slow-cooker-shredded-bbq-chicken/",
-            "description": "Slow cooker shredded BBQ chicken is a simple, zesty, and flavorful chicken. It can go in pasta dishes, over potatoes, in…",
-            "pubDate": "2025-02-04T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2014/08/shredded-bbq-chicken-6-1.jpg"
+            "title": "Strawberry Cheesecake Dip",
+            "link": "https://therecipecritic.com/strawberry-cheesecake-dip/",
+            "description": "Strawberry cheesecake dip is an irresistible treat that tastes just like the classic but in a fun dip form! Whip…",
+            "pubDate": "2025-02-01T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/strawberry-cheesecake-dip-.jpg"
         },
         {
             "title": "Easy Winter Fruit Salad (1 Bowl!)",
@@ -66,6 +59,13 @@
             "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
             "pubDate": "2024-12-17T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
+        },
+        {
+            "title": "How to Boil Lobster",
+            "link": "https://therecipecritic.com/how-to-boil-lobster/",
+            "description": "Learn how to boil lobster and enjoy this simple and delicious seafood delicacy. With a few basic steps, you’ll have…",
+            "pubDate": "2025-02-01T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/boiled-lobster-1.jpg"
         }
     ]
 }
