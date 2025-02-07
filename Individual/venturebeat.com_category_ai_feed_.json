@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-06T15:21:34.997385",
+    "lastBuildDate": "2025-02-07T01:13:02.004329",
     "items": [
+        {
+            "title": "GitHub Copilot previews agent mode as market for agentic AI coding tools accelerates",
+            "link": "https://venturebeat.com/ai/github-copilot-previews-agent-mode-as-market-for-agentic-ai-coding-tools-accelerates/",
+            "description": "GitHub Copilot is getting more autonomous with new agent mode and the promise of Project Padawan as competition in AI coding space grows.",
+            "pubDate": "2025-02-07T00:38:46",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/github-agent-mode.jpg?w=578"
+        },
+        {
+            "title": "Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy",
+            "link": "https://venturebeat.com/ai/hugging-face-brings-pi-zero-to-lerobot-making-ai-powered-robots-easier-to-build-and-deploy/",
+            "description": "Pi0 is a groundbreaking AI model that helps robots understand natural language commands, potentially revolutionizing industrial automation.",
+            "pubDate": "2025-02-07T00:34:26",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_a_general_purpose_robot_757c6c9e-c16c-4e35-ac09-c988e593d2fa.webp?w=578"
+        },
         {
             "title": "French AI startup Mistral launches Le Chat mobile app for iPhone, Android — can it take enterprise eyes off DeepSeek?",
             "link": "https://venturebeat.com/ai/french-ai-startup-mistral-launches-le-chat-mobile-app-for-iphone-android-can-it-take-enterprise-eyes-off-deepseek/",
-            "description": "Mistral is still positioning itself as a viable alternative to OpenAI's signature chatbot ChatGPT and to DeepSeek.",
+            "description": "With the new Le Chat app, Mistral is still positioning itself as a viable alternative to OpenAI's signature chatbot ChatGPT and to DeepSeek.",
             "pubDate": "2025-02-06T20:09:22",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/cfr0z3n_top_down_isometric_view_businessman_holding_a_smartph_d9ee61fa-ef95-41c1-89f0-703351737252_0.png?w=578"
         },
         {
             "title": "DeepSeek’s R1 and OpenAI’s Deep Research just redefined AI — RAG, distillation, and custom models will never be the same",
             "link": "https://venturebeat.com/ai/deepseeks-r1-and-openais-deep-research-just-redefined-ai-rag-distillation-and-custom-models-will-never-be-the-same/",
-            "description": "DeepSeek's R1 model release and OpenAI's new Deep Research product will push companies to use techniques like distillation, supervised fine-tuning (SF...",
+            "description": "Pricing, performance, hallucination risks, clean data: Here’s what DeepSeek and OpenAI's breakthroughs mean for anyone building AI today.",
             "pubDate": "2025-02-06T16:24:02",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/DALL·E-2025-02-06-08.20.55-A-refined-ultra-minimalist-vector-style-illustration-representing-AI-progress.-Two-simple-modern-AI-chips-are-symmetrically-placed-at-the-center-co.webp?w=578"
         },
         {
             "title": "Cognida.ai raises $15M to fix enterprise AI’s biggest bottleneck: deployment",
             "link": "https://venturebeat.com/ai/cognita-ai-raises-15m-to-fix-enterprise-ais-biggest-bottleneck-deployment/",
-            "description": "Cognita.ai secures $15M Series A funding to transform enterprise AI implementation, reducing deployment time from 8 months to 12 weeks while deliverin...",
+            "description": "Cognida.ai will use the series A to reduce deployment time from 8 months to 12 weeks and deliver practical, measurable business outcomes.",
             "pubDate": "2025-02-06T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_the_power_of_AI_and_Analytics_propellin_191b561d-b183-4d65-b4a5-a9c356236a92.webp?w=578"
-        },
-        {
-            "title": "Google launches Gemini 2.0 Pro, Flash-Lite and connects reasoning model Flash Thinking to YouTube, Maps and Search",
-            "link": "https://venturebeat.com/ai/google-launches-gemini-2-0-pro-flash-lite-and-connects-reasoning-model-flash-thinking-to-youtube-maps-and-search/",
-            "description": "Google has released a whole new range of AI-powered research and interactions that simply can't be matched by DeepSeek or OpenAI.",
-            "pubDate": "2025-02-05T19:07:50",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/cfr0z3n_golden_age_sci-fi_book_cover_style_painted_artwork_sh_40848364-050f-4729-b3b4-efba945333bc_3.png?w=578"
-        },
-        {
-            "title": "Not every AI prompt deserves multiple seconds of thinking: how Meta is teaching models to prioritize",
-            "link": "https://venturebeat.com/ai/not-every-ai-prompt-deserves-multiple-seconds-of-thinking-how-meta-is-teaching-models-to-prioritize/",
-            "description": "Let models explore different solutions and they will find optimal solutions to properly allocate inference budget to AI reasoning problems.",
-            "pubDate": "2025-02-05T17:19:23",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/robots-thinking.webp?w=578"
         }
     ]
 }

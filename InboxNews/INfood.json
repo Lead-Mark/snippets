@@ -2,7 +2,7 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-06T15:20:52.231272",
+    "lastBuildDate": "2025-02-07T01:12:21.074084",
     "items": [
         {
             "title": "Creamy Vegan White Bean Chili",
@@ -12,11 +12,25 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Vegan-White-Bean-Chili-7-680x1020.jpg"
         },
         {
+            "title": "Sour Cream and Onion Dip",
+            "link": "https://therecipecritic.com/sour-cream-and-onion-dip/",
+            "description": "This sour cream and onion dip has become a staple at all of our family get togethers. It’s the perfect…",
+            "pubDate": "2025-02-02T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/sour-cream-and-onion-dip-4.jpg"
+        },
+        {
             "title": "Slow Cooker Shredded BBQ Chicken",
             "link": "https://therecipecritic.com/slow-cooker-shredded-bbq-chicken/",
             "description": "Slow cooker shredded BBQ chicken is a simple, zesty, and flavorful chicken. It can go in pasta dishes, over potatoes, in…",
             "pubDate": "2025-02-04T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2014/08/shredded-bbq-chicken-6-1.jpg"
+        },
+        {
+            "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
+            "link": "https://minimalistbaker.com/chocolate-pot-de-creme-sweet-potato/",
+            "description": "Is this a safe space to admit we have a problem? Specifically an insatiable appetite for adding sweet potato to desserts? First we made brownies, then...",
+            "pubDate": "2025-02-04T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
         },
         {
             "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
@@ -33,18 +47,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/everything-bagel-cheese-ball-2-1.jpg"
         },
         {
-            "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
-            "link": "https://minimalistbaker.com/chocolate-pot-de-creme-sweet-potato/",
-            "description": "Is this a safe space to admit we have a problem? Specifically an insatiable appetite for adding sweet potato to desserts? First we made brownies, then...",
-            "pubDate": "2025-02-04T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
-        },
-        {
-            "title": "Easy Winter Fruit Salad (1 Bowl!)",
-            "link": "https://minimalistbaker.com/easy-winter-fruit-salad/",
-            "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
-            "pubDate": "2024-12-17T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
+            "title": "Kielbasa Bites",
+            "link": "https://therecipecritic.com/kielbasa-bites/",
+            "description": "Kielbasa Bites are the ultimate crowd-pleasing appetizer! With their smoky, savory flavor and caramelized glaze sweetness, these bite-sized snacks are...",
+            "pubDate": "2025-02-06T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/kielbasa-bites-1-2.jpg"
         },
         {
             "title": "Galentine’s Day Menu (with Shopping List!)",
@@ -54,18 +61,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/Galentines-Party-Menu-1-1.png"
         },
         {
-            "title": "Sour Cream and Onion Dip",
-            "link": "https://therecipecritic.com/sour-cream-and-onion-dip/",
-            "description": "This sour cream and onion dip has become a staple at all of our family get togethers. It’s the perfect…",
-            "pubDate": "2025-02-02T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/sour-cream-and-onion-dip-4.jpg"
-        },
-        {
-            "title": "Kielbasa Bites",
-            "link": "https://therecipecritic.com/kielbasa-bites/",
-            "description": "Kielbasa Bites are the ultimate crowd-pleasing appetizer! With their smoky, savory flavor and caramelized glaze sweetness, these bite-sized snacks are...",
-            "pubDate": "2025-02-06T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/kielbasa-bites-1-2.jpg"
+            "title": "Easy Winter Fruit Salad (1 Bowl!)",
+            "link": "https://minimalistbaker.com/easy-winter-fruit-salad/",
+            "description": "Winter fruits are survivors , making it through the coldest days of the year. We had to show them some appreciation. Enter this simple, vibrant winter...",
+            "pubDate": "2024-12-17T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Winter-Fruit-Salad-13-680x1020.jpg"
         }
     ]
 }
