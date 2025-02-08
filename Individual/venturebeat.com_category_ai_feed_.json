@@ -2,47 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-07T13:44:29.424149",
+    "lastBuildDate": "2025-02-08T01:40:48.909446",
     "items": [
         {
-            "item_id": "f566244a12",
+            "title": "Apple’s ELEGNT framework could make home robots feel less like machines and more like companions",
+            "link": "https://venturebeat.com/ai/apples-elegnt-framework-could-make-home-robots-feel-less-like-machines-and-more-like-companions/",
+            "description": "Apple introduces ELEGNT, allowing robots to convey intentions, emotions and attitudes through movement, — rather than just functional tasks.",
+            "pubDate": "2025-02-07T22:07:54",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_a_Pixar_lamp_robot_765f4d26-17c4-4ee7-b140-f6417e85f23b.webp?w=578"
+        },
+        {
+            "title": "OpenAI responds to DeepSeek competition with detailed reasoning traces for o3-mini",
+            "link": "https://venturebeat.com/ai/openai-responds-to-deepseek-competition-with-detailed-reasoning-traces-for-o3-mini/",
+            "description": "By showing a more detailed version of the chain of thought of o3-mini, OpenAI is closing the gap with DeepSeek-R1.",
+            "pubDate": "2025-02-07T21:46:56",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-29-07.53.04-A-clean-and-modern-vector-illustration-representing-artificial-intelligence-breakthroughs.-The-design-features-an-abstract-humanoid-AI-figure-with-int.webp?w=578"
+        },
+        {
             "title": "From 220M data points to revenue: How AI is transforming sports entertainment ROI",
             "link": "https://venturebeat.com/ai/from-220m-data-points-to-revenue-how-ai-is-transforming-sports-entertainment-roi/",
             "description": "A new AI-powered platform is already helping NFL and other sports teams better engage with fans and optimize revenue potential.",
-            "pubDate": "2025-02-07T13:44:29.424184",
+            "pubDate": "2025-02-07T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/ai_being_used_football_smk.jpg?w=578"
         },
         {
-            "item_id": "773bc890ca",
             "title": "GitHub Copilot previews agent mode as market for agentic AI coding tools accelerates",
             "link": "https://venturebeat.com/ai/github-copilot-previews-agent-mode-as-market-for-agentic-ai-coding-tools-accelerates/",
             "description": "GitHub Copilot is getting more autonomous with new agent mode and the promise of Project Padawan as competition in AI coding space grows.",
-            "pubDate": "2025-02-07T13:44:29.424204",
+            "pubDate": "2025-02-07T00:38:46",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/github-agent-mode.jpg?w=578"
         },
         {
-            "item_id": "c8016ce3a7",
             "title": "Hugging Face brings ‘Pi-Zero’ to LeRobot, making AI-powered robots easier to build and deploy",
             "link": "https://venturebeat.com/ai/hugging-face-brings-pi-zero-to-lerobot-making-ai-powered-robots-easier-to-build-and-deploy/",
             "description": "Pi0 is a groundbreaking AI model that helps robots understand natural language commands, potentially revolutionizing industrial automation.",
-            "pubDate": "2025-02-07T13:44:29.424223",
+            "pubDate": "2025-02-07T00:34:26",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_a_general_purpose_robot_757c6c9e-c16c-4e35-ac09-c988e593d2fa.webp?w=578"
-        },
-        {
-            "item_id": "be9c82a0df",
-            "title": "French AI startup Mistral launches Le Chat mobile app for iPhone, Android — can it take enterprise eyes off DeepSeek?",
-            "link": "https://venturebeat.com/ai/french-ai-startup-mistral-launches-le-chat-mobile-app-for-iphone-android-can-it-take-enterprise-eyes-off-deepseek/",
-            "description": "With the new Le Chat app, Mistral is still positioning itself as a viable alternative to OpenAI's signature chatbot ChatGPT and to DeepSeek.",
-            "pubDate": "2025-02-07T13:44:29.424243",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/cfr0z3n_top_down_isometric_view_businessman_holding_a_smartph_d9ee61fa-ef95-41c1-89f0-703351737252_0.png?w=578"
-        },
-        {
-            "item_id": "09dc4fb5e6",
-            "title": "DeepSeek’s R1 and OpenAI’s Deep Research just redefined AI — RAG, distillation, and custom models will never be the same",
-            "link": "https://venturebeat.com/ai/deepseeks-r1-and-openais-deep-research-just-redefined-ai-rag-distillation-and-custom-models-will-never-be-the-same/",
-            "description": "Pricing, performance, hallucination risks, clean data: Here’s what DeepSeek and OpenAI's breakthroughs mean for anyone building AI today.",
-            "pubDate": "2025-02-07T13:44:29.424262",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/DALL·E-2025-02-06-08.20.55-A-refined-ultra-minimalist-vector-style-illustration-representing-AI-progress.-Two-simple-modern-AI-chips-are-symmetrically-placed-at-the-center-co.webp?w=578"
         }
     ]
 }

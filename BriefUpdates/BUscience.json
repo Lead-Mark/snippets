@@ -2,21 +2,28 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-07T13:44:06.849420",
+    "lastBuildDate": "2025-02-08T01:40:25.758297",
     "items": [
         {
             "title": "New technology lights way for accelerating coral reef restoration",
             "link": "https://www.sciencedaily.com/releases/2025/02/250206164729.htm",
             "description": "Scientists have developed a novel tool designed to protect and conserve coral reefs by providing them with an abundance of feeding opportunities.",
             "pubDate": "2025-02-06T21:47:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Temperamental stars are distorting our view of distant planets",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250207122441.htm",
+            "description": "'Temperamental' stars that brighten and dim over a matter of hours or days may be distorting our view of thousands of distant planets, suggests a new ...",
+            "pubDate": "2025-02-07T17:24:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Some species of baleen whales avoid attracting killer whales by singing too low to be heard",
             "link": "https://www.sciencedaily.com/releases/2025/02/250206183725.htm",
             "description": "New research finds some baleen whale species call at such deep frequencies that they're completely undetectable by killer whales, which cannot hear so...",
             "pubDate": "2025-02-06T23:37:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Soft tissue from a 183 million-year-old Jurassic plesiosaur analyzed",
@@ -26,18 +33,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Temperamental stars are distorting our view of distant planets",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250207122441.htm",
-            "description": "'Temperamental' stars that brighten and dim over a matter of hours or days may be distorting our view of thousands of distant planets, suggests a new ...",
-            "pubDate": "2025-02-07T17:24:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Novel 'living' biomaterial aims to advance regenerative medicine",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250206155347.htm",
-            "description": "A biomaterial that can mimic certain behaviors within biological tissues could advance regenerative medicine, disease modeling, soft robotics and more...",
-            "pubDate": "2025-02-06T20:53:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "An Arctic 'beyond recognition' by 2100",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250207152721.htm",
+            "description": "Based on the current pledges of countries for limiting their emissions of greenhouse gases, global temperatures are projected to reach 2.7 degrees Cel...",
+            "pubDate": "2025-02-07T20:27:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }
