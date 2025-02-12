@@ -2,14 +2,14 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-11T11:03:38.841029",
+    "lastBuildDate": "2025-02-12T07:03:48.258959",
     "items": [
         {
-            "title": "Creme Brulee Cheesecake",
-            "link": "https://therecipecritic.com/creme-brulee-cheesecake/",
-            "description": "Creme Brulee Cheesecake is the perfect merging of two beloved desserts! It has the rich, creamy texture of cheesecake with…",
-            "pubDate": "2025-02-08T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/creme-brulee-cheesecake-2.jpg"
+            "title": "Lobster Chowder",
+            "link": "https://therecipecritic.com/lobster-chowder/",
+            "description": "Creamy, indulgent Lobster Chowder takes only 40 minutes to make and is incredibly flavorful! Tender potatoes, crisp bacon, and luscious…",
+            "pubDate": "2025-02-10T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/lobster-chowder-1.jpg"
         },
         {
             "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
@@ -17,6 +17,13 @@
             "description": "Chocolate, banana, and pecans…this flavor combination is meant to be. And in a muffin? Truly magical ! These FLUFFY banana nut muffins are vegan , glu...",
             "pubDate": "2025-01-21T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/1-Bowl-Vegan-Gluten-Free-Banana-Chocolate-Chip-Pecan-Muffins-5-680x1020.jpg"
+        },
+        {
+            "title": "Creme Brulee Cheesecake",
+            "link": "https://therecipecritic.com/creme-brulee-cheesecake/",
+            "description": "Creme Brulee Cheesecake is the perfect merging of two beloved desserts! It has the rich, creamy texture of cheesecake with…",
+            "pubDate": "2025-02-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/creme-brulee-cheesecake-2.jpg"
         },
         {
             "title": "Easy Winter Fruit Salad (1 Bowl!)",
@@ -33,13 +40,6 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
         },
         {
-            "title": "Steak Frites",
-            "link": "https://therecipecritic.com/steak-frites/",
-            "description": "Steak Frites is a classic French bistro dish that combines perfectly seared, juicy steak with crispy, golden fries. It’s a…",
-            "pubDate": "2025-02-09T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/steak-frites-4.jpg"
-        },
-        {
             "title": "One-Pan Marry Me Tortellini",
             "link": "https://therecipecritic.com/marry-me-tortellini/",
             "description": "Get ready to impress with One-Pan Marry Me Tortellini! This 20–minute dish is made with cheese tortellini simmered in a…",
@@ -54,11 +54,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Vegan-White-Bean-Chili-7-680x1020.jpg"
         },
         {
-            "title": "Lobster Chowder",
-            "link": "https://therecipecritic.com/lobster-chowder/",
-            "description": "Creamy, indulgent Lobster Chowder takes only 40 minutes to make and is incredibly flavorful! Tender potatoes, crisp bacon, and luscious…",
-            "pubDate": "2025-02-10T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/lobster-chowder-1.jpg"
+            "title": "Steak Frites",
+            "link": "https://therecipecritic.com/steak-frites/",
+            "description": "Steak Frites is a classic French bistro dish that combines perfectly seared, juicy steak with crispy, golden fries. It’s a…",
+            "pubDate": "2025-02-09T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/steak-frites-4.jpg"
         },
         {
             "title": "Strawberry Crinkle Cookies",
