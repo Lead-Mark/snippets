@@ -2,14 +2,63 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-13T07:11:10.940376",
+    "lastBuildDate": "2025-02-14T07:19:24.677696",
     "items": [
+        {
+            "title": "Jumping workouts could help astronauts on the moon and Mars, study in mice suggests",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250213144323.htm",
+            "description": "Jumping workouts could help astronauts prevent the type of cartilage damage they are likely to endure during lengthy missions to Mars and the Moon, a ...",
+            "pubDate": "2025-02-13T19:43:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Dessert stomach emerges in the brain",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250213143309.htm",
+            "description": "Who hasn't been there? The big meal is over, you're full, but the craving for sweets remains. Researchers have now discovered that what we call the 'd...",
+            "pubDate": "2025-02-13T19:33:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "This week with NSF Director Panchanathan",
+            "link": "https://www.nsf.gov/news/week-nsf-director-panchanathan-78",
+            "description": "NSF Director Sethuraman Panchanathan spent the week reinforcing the agency's mission to inspire and harness talent everywhere to catalyze the progress...",
+            "pubDate": "2025-01-23T13:58:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "NSF invests $40M to strengthen STEM research capacity and workforce development across five EPSCoR jurisdictions",
             "link": "https://www.nsf.gov/news/nsf-invests-40m-strengthen-stem-research-capacity-workforce",
             "description": "The U.S. National Science Foundation is investing approximately $40 million to support research and STEM workforce development in Delaware, Guam, Kent...",
             "pubDate": "2025-01-22T18:00:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "NSF–DOE Vera C. Rubin observatory will detect millions of exploding stars",
+            "link": "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-will-detect-millions",
+            "description": "NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy's Office of Science, will ...",
+            "pubDate": "2025-01-24T15:22:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Pinpointing where Yellowstone will erupt in the very distant future",
+            "link": "https://www.nsf.gov/news/pinpointing-where-yellowstone-will-erupt-very-distant-future",
+            "description": "U.S. National Science Foundation-supported researchers published new findings suggesting a location where the Yellowstone Caldera could erupt, hundred...",
+            "pubDate": "2025-01-27T15:30:34",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Biofabricating human tissues enhanced through use of gallium",
+            "link": "https://www.nsf.gov/news/biofabricating-human-tissues-enhanced-through-use-gallium",
+            "description": "The manufacturing technique known as 3D printing, now being used everywhere, from aircraft manufacturers to public libraries, has never been more affo...",
+            "pubDate": "2025-01-29T14:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Scientists herald active matter breakthrough with creation of three-dimensional 'synthetic worms'",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250213144130.htm",
+            "description": "Researchers have made a breakthrough in the development of 'life-like' synthetic materials which are able to move by themselves like worms. Scientists...",
+            "pubDate": "2025-02-13T19:41:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Global warming and mass extinctions: What we can learn from plants from the last ice age",
@@ -19,60 +68,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "NSF–DOE Vera C. Rubin observatory will detect millions of exploding stars",
-            "link": "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-will-detect-millions",
-            "description": "NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy's Office of Science, will ...",
-            "pubDate": "2025-01-24T15:22:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Models show intensifying wildfires in a warming world due to changes in vegetation and humidity; only a minor role for lightning",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250212151152.htm",
-            "description": "Climate scientists present a realistic supercomputer simulation that resolves the complex interactions between fire, vegetation, smoke and the atmosph...",
-            "pubDate": "2025-02-12T20:11:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Breast cancer treatment advances with light-activated 'smart bomb'",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250211190244.htm",
-            "description": "Scientists have developed new light-sensitive chemicals that can radically improve the treatment of aggressive cancers with minimal side effects. In m...",
-            "pubDate": "2025-02-12T00:02:44",
+            "title": "Phoenix galaxy cluster in the act of extreme cooling",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250213144634.htm",
+            "description": "New findings explain the Phoenix cluster's mysterious starburst. Data confirm the cluster is actively cooling and able to generate a huge amount of st...",
+            "pubDate": "2025-02-13T19:46:34",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "New blood test accurately predicts preeclampsia",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250212134438.htm",
-            "description": "A new blood test has an 80% accuracy in predicting preterm preeclampsia, according to a new study. The condition, which results in over 70,000 materna...",
-            "pubDate": "2025-02-12T18:44:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Pinpointing where Yellowstone will erupt in the very distant future",
-            "link": "https://www.nsf.gov/news/pinpointing-where-yellowstone-will-erupt-very-distant-future",
-            "description": "U.S. National Science Foundation-supported researchers published new findings suggesting a location where the Yellowstone Caldera could erupt, hundred...",
-            "pubDate": "2025-01-27T15:30:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "This week with NSF Director Panchanathan",
-            "link": "https://www.nsf.gov/news/week-nsf-director-panchanathan-78",
-            "description": "NSF Director Sethuraman Panchanathan spent the week reinforcing the agency's mission to inspire and harness talent everywhere to catalyze the progress...",
-            "pubDate": "2025-01-23T13:58:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "First detection of an ultra-high-energy neutrino",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250212134720.htm",
-            "description": "Scientists have just detected a neutrino that is thirty times more energetic than any previously detected anywhere in the world. This exceptional disc...",
-            "pubDate": "2025-02-12T18:47:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Biofabricating human tissues enhanced through use of gallium",
-            "link": "https://www.nsf.gov/news/biofabricating-human-tissues-enhanced-through-use-gallium",
-            "description": "The manufacturing technique known as 3D printing, now being used everywhere, from aircraft manufacturers to public libraries, has never been more affo...",
-            "pubDate": "2025-01-29T14:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
