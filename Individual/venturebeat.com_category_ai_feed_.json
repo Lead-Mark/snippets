@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-17T10:57:25.342554",
+    "lastBuildDate": "2025-02-18T07:04:57.488550",
     "items": [
+        {
+            "title": "Shadow AI: How unapproved AI apps are compromising security, and what you can do about it",
+            "link": "https://venturebeat.com/security/shadow-ai-unapproved-ai-apps-compromising-security-what-you-can-do-about-it/",
+            "description": "Security leaders and CISOs are discovering that a growing swarm of shadow AI apps has been compromising their networks for over a year.",
+            "pubDate": "2025-02-17T16:51:54",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/Hero-The-Insider-Threat-You-Dont-See-How-Shadow-AI-Apps-Endanger-Enterprise-Security.jpg?w=578"
+        },
         {
             "title": "Replit and Anthropic’s AI just helped Zillow build production software—without a single engineer",
             "link": "https://venturebeat.com/ai/replit-and-anthropics-ai-just-helped-zillow-build-production-software-without-a-single-engineer/",
@@ -31,13 +38,6 @@
             "description": "With a few hundred well-curated examples, an LLM can be trained for complex reasoning tasks that previously required thousands of instances.",
             "pubDate": "2025-02-14T20:56:22",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/an-illustration-of-a-3d-sphere-with-connected-data-lNRjO3frQBCyMol5ef96OQ-s5VN3KT1TDOXoBGddLHd6Q.jpeg?w=578"
-        },
-        {
-            "title": "‘Personalized, unrestricted’ AI lab Nous Research launches first toggle-on reasoning model: DeepHermes-3",
-            "link": "https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3/",
-            "description": "One DeepHermes-3 user reported a processing speed of 28.98 tokens per second on a MacBook Pro M4 Max consumer hardware.",
-            "pubDate": "2025-02-14T20:04:29",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/cfr0z3n_messy_monochromatic_flat_black_ink_splattered_detailed__b9adab81-cde8-433c-a261-847592fe4444.png?w=578"
         }
     ]
 }
