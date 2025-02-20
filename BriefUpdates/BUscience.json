@@ -2,8 +2,50 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-19T07:20:29.936725",
+    "lastBuildDate": "2025-02-20T06:41:16.505065",
     "items": [
+        {
+            "title": "A catalytic two-step: Transforming industrial CO2 into a renewable fuel",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250219111510.htm",
+            "description": "Scientists have taken a critical next step in creating a scalable process to remove carbon dioxide (CO2) from the air and 'recirculate' it as a renewa...",
+            "pubDate": "2025-02-19T16:15:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Contact electrification depends on materials' contact history, physicists show",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250219111457.htm",
+            "description": "From a tiny electric jolt when touching a doorknob to styrofoam peanuts that cling to a mischievous cat's fur -- the well-known and seemingly simple p...",
+            "pubDate": "2025-02-19T16:14:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "New process gets common rocks to trap carbon rapidly, cheaply",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250219111358.htm",
+            "description": "Scientists have discovered how to turn common minerals into materials that spontaneously remove and store carbon dioxide from the atmosphere. In the l...",
+            "pubDate": "2025-02-19T16:13:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Data from all 50 states shows early onset breast cancer is on the rise in younger women: Does place of exposure matter?",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250219121238.htm",
+            "description": "Breast cancer incidence trends in U.S. women under 40 vary by geography and supports incorporating location information with established risk factors ...",
+            "pubDate": "2025-02-19T17:12:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "300 new intermediate-mass black holes plus 2500 new active black holes in dwarf galaxies discovered",
+            "link": "https://www.sciencedaily.com/releases/2025/02/250219111416.htm",
+            "description": "Within the Dark Energy Spectroscopic Instrument's early data, scientists have uncovered the largest samples ever of intermediate-mass black holes and ...",
+            "pubDate": "2025-02-19T16:14:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Biofabricating human tissues enhanced through use of gallium",
+            "link": "https://www.nsf.gov/news/biofabricating-human-tissues-enhanced-through-use-gallium",
+            "description": "The manufacturing technique known as 3D printing, now being used everywhere, from aircraft manufacturers to public libraries, has never been more affo...",
+            "pubDate": "2025-01-29T14:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
         {
             "title": "Pinpointing where Yellowstone will erupt in the very distant future",
             "link": "https://www.nsf.gov/news/pinpointing-where-yellowstone-will-erupt-very-distant-future",
@@ -12,67 +54,25 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Coffee grounds and Reishi mushroom spores can be 3D printed into a compostable alternative to plastics",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250218145914.htm",
-            "description": "Researchers developed a new system for turning used coffee grounds into a paste, which they use to 3D print objects, such as packing materials and a v...",
-            "pubDate": "2025-02-18T19:59:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Ecologist finds eastern monarch butterflies delaying fall migration",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250218145919.htm",
-            "description": "The study was one of several that assessed the effects of climate change on three species of butterflies whose populations are declining.",
-            "pubDate": "2025-02-18T19:59:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "This week with NSF Director Panchanathan",
-            "link": "https://www.nsf.gov/news/week-nsf-director-panchanathan-78",
-            "description": "NSF Director Sethuraman Panchanathan spent the week reinforcing the agency's mission to inspire and harness talent everywhere to catalyze the progress...",
-            "pubDate": "2025-01-23T13:58:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Biofabricating human tissues enhanced through use of gallium",
-            "link": "https://www.nsf.gov/news/biofabricating-human-tissues-enhanced-through-use-gallium",
-            "description": "The manufacturing technique known as 3D printing, now being used everywhere, from aircraft manufacturers to public libraries, has never been more affo...",
-            "pubDate": "2025-01-29T14:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Researchers record ultrafast chorus dance of electrons on super-small particle",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250218203725.htm",
-            "description": "It may be the smallest, shortest chorus dance ever recorded. An international team of researchers observed how electrons, excited by ultrafast light p...",
-            "pubDate": "2025-02-19T01:37:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Biomedicine shows the way to future food crops",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250218133332.htm",
-            "description": "Researchers have introduced genetic material into plants via their roots, opening a potential pathway for rapid crop improvement.",
-            "pubDate": "2025-02-18T18:33:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
             "title": "NSF invests $40M to strengthen STEM research capacity and workforce development across five EPSCoR jurisdictions",
             "link": "https://www.nsf.gov/news/nsf-invests-40m-strengthen-stem-research-capacity-workforce",
             "description": "The U.S. National Science Foundation is investing approximately $40 million to support research and STEM workforce development in Delaware, Guam, Kent...",
             "pubDate": "2025-01-22T18:00:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "NSF–DOE Vera C. Rubin observatory will detect millions of exploding stars",
             "link": "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-will-detect-millions",
             "description": "NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy's Office of Science, will ...",
             "pubDate": "2025-01-24T15:22:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Wild fish can recognize individual divers",
-            "link": "https://www.sciencedaily.com/releases/2025/02/250218203734.htm",
-            "description": "For years, scientific divers at a research station in the Mediterranean Sea had a problem: at some point in every field season, local fish would follo...",
-            "pubDate": "2025-02-19T01:37:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "This week with NSF Director Panchanathan",
+            "link": "https://www.nsf.gov/news/week-nsf-director-panchanathan-78",
+            "description": "NSF Director Sethuraman Panchanathan spent the week reinforcing the agency's mission to inspire and harness talent everywhere to catalyze the progress...",
+            "pubDate": "2025-01-23T13:58:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }
