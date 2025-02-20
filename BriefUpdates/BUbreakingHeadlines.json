@@ -2,112 +2,35 @@
     "title": "BUbreakingHeadlines",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUbreakingHeadlines, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-20T06:40:38.438211",
+    "lastBuildDate": "2025-02-20T10:58:09.041360",
     "items": [
         {
-            "title": "WATCH:  Chihuahua rescued after running ‘for miles’ along San Diego freeway",
-            "link": "https://abcnews.go.com/US/video/chihuahua-rescued-after-running-miles-san-diego-freeway-118991018",
-            "description": "A Chihuahua was rescued and later reunited with its owner after running \"for miles” down a busy stretch of Interstate 5 in San Diego earlier this mont...",
-            "pubDate": "2025-02-20T03:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "A Mississippi judge ordered a newspaper to remove an editorial. Press advocates are outraged",
-            "link": "https://www.yahoo.com/news/mississippi-judge-ordered-newspaper-remove-233648461.html",
-            "description": "",
-            "pubDate": "2025-02-19T23:36:48",
-            "image_url": "https://media.zenfs.com/en/ap.org/a1b82ec38b85a4c3a750d023f1f17fc5"
-        },
-        {
-            "title": "Los Angeles news anchor’s cause of death deemed an accident",
-            "link": "https://www.yahoo.com/news/los-angeles-news-anchor-cause-233534465.html",
-            "description": "",
-            "pubDate": "2025-02-19T23:35:34",
-            "image_url": "https://media.zenfs.com/en/ktla_articles_362/99dbe5f458ce0d482b989ddf5cbe52da"
-        },
-        {
-            "title": "Thousands of tourists swarm active volcano, shocked when things end badly",
-            "link": "https://www.yahoo.com/news/thousands-tourists-swarm-active-volcano-175329904.html",
-            "description": "",
-            "pubDate": "2025-02-19T21:35:00",
-            "image_url": "https://media.zenfs.com/en/the_weather_network_616/edef12c4a685ac52a989750806c1b228"
-        },
-        {
-            "title": "Judge in Idaho killings case makes ruling on key evidence",
-            "link": "https://www.cbsnews.com/news/university-idaho-killings-judge-ruling-dna-evidence-bryan-kohberger/",
-            "description": "Bryan Kohberger's lawyers argued law enforcement violated his constitutional rights when they used Investigative Genetic Genealogy to identify possibl...",
-            "pubDate": "2025-02-20T11:18:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Hamas returns 4 Israeli hostages' bodies, believed to include mom, 2 young kids",
-            "link": "https://www.cbsnews.com/news/hamas-bodies-4-israeli-hostages-mother-2-young-children/",
-            "description": "Hamas released the bodies of 4 Israeli hostages, including, it's believed, the youngest captive taken in the Oct. 7, 2023 terrorist attack, Kfir Bibas...",
-            "pubDate": "2025-02-20T10:18:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The white man who pleaded guilty to shooting a Black teen who rang a wrong doorbell dies",
-            "link": "https://apnews.com/article/ralph-yarl-shooting-andrew-lester-dies-missouri-2d895a599ef2e521a78138566f264e6c",
-            "description": "",
-            "pubDate": "2025-02-19T15:55:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Trump wants to know if there's gold in Fort Knox. (There is)",
-            "link": "https://abcnews.go.com/Politics/wireStory/trump-gold-fort-knox-118993478",
-            "description": "President Donald Trump said Elon Musk would be checking out Fort Knox to make sure the gold is still there",
-            "pubDate": "2025-02-20T09:27:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Trump says he's considering buying used planes to serve as Air Force One amid Boeing delays",
-            "link": "https://www.yahoo.com/news/trump-says-hes-considering-buying-033041086.html",
-            "description": "",
-            "pubDate": "2025-02-20T03:30:41",
-            "image_url": "https://media.zenfs.com/en/ap.org/b7fe029b2d368fabeb6b56198a129899"
-        },
-        {
-            "title": "Historic SS United States makes final voyage before being turned into reef",
-            "link": "https://www.cbsnews.com/video/historic-ss-united-states-makes-final-voyage-before-being-turned-into-reef/",
-            "description": "After months of delays, the historic SS United States ocean liner finally moved out of Philadelphia on a new voyage as it prepares to become the world...",
-            "pubDate": "2025-02-20T02:41:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Justice Department official urges quick dismissal of criminal case against New York City mayor",
-            "link": "https://apnews.com/article/eric-adams-mayor-corruption-judge-justice-department-8e9a11d05c102ee45ce97954721660d5",
-            "description": "",
-            "pubDate": "2025-02-19T00:04:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Man on carnivore diet has cholesterol of 1,000, sees shocking symptom appear on hands",
-            "link": "https://www.yahoo.com/lifestyle/man-carnivore-diet-cholesterol-1-024437384.html",
-            "description": "",
-            "pubDate": "2025-02-20T02:44:37",
-            "image_url": "https://media.zenfs.com/en/nbc_today_217/ad88d16d0ba80545472ec046da82f1ab"
-        },
-        {
-            "title": "Hegseth wants Pentagon to cut 8% from defense budget for next 5 years",
-            "link": "https://www.cbsnews.com/news/hegseth-pentagon-8-percent-cuts-for-next-5-years/",
-            "description": "Defense Secretary Pete Hegseth has told the Pentagon to find $50 billion in programs to cut this year, to redirect funds to President Trump's prioriti...",
-            "pubDate": "2025-02-20T05:28:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Ukraine reels as Trump criticism echoes Russian disinformation campaign",
+            "title": "How Trump's attacks on Zelenskyy compare to criticism from Putin's Russia",
             "link": "https://abcnews.go.com/International/ukraine-reels-trump-criticism-echoes-russian-disinformation-campaign/story?id=118996256",
             "description": "Ukrainian President Volodymyr Zelenskyy said President Donald Trump is in a \"disinformation space\" as public recriminations between the two leaders de...",
-            "pubDate": "2025-02-20T10:45:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "pubDate": "2025-02-20T14:12:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Bodies of 4 hostages, believed to include Bibas family, released by Hamas",
-            "link": "https://abcnews.go.com/International/bodies-4-hostages-including-bibas-family-released-hamas/story?id=118982031",
-            "description": "Hamas released the bodies of four hostages -- believed to include the Bibas family -- on Thursday as the first phase of its ceasefire agreement with I...",
-            "pubDate": "2025-02-20T10:11:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Apple unveils new, lower-cost iPhone 16e",
+            "link": "https://www.yahoo.com/news/apple-unveils-lower-cost-iphone-140643458.html",
+            "description": "",
+            "pubDate": "2025-02-20T14:06:43",
+            "image_url": "https://media.zenfs.com/en/video.cbsnewsvideos.com/ea370338e147a3d66afe8ad8d01435f3"
+        },
+        {
+            "title": "US weekly rail traffic shows slight gain over 2024",
+            "link": "https://www.yahoo.com/news/us-weekly-rail-traffic-shows-140954081.html",
+            "description": "",
+            "pubDate": "2025-02-20T14:09:54",
+            "image_url": "https://media.zenfs.com/en/freightwaves_373/aa9958f360978ee5aef3a58d331b2940"
+        },
+        {
+            "title": "President of the National Urban League on suing Trump administration over anti-DEI orders",
+            "link": "https://www.cbsnews.com/video/president-of-the-national-urban-league-on-suing-trump-administration-over-anti-dei-orders/",
+            "description": "The National Urban League and other organizations argue that Trump's executive orders to end diversity, equity, and inclusion programs are unconstitut...",
+            "pubDate": "2025-02-20T15:42:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "What is the key to surviving a plane crash according to aviation experts?",
@@ -117,18 +40,95 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Trump backs idea to send some DOGE savings to American citizens",
-            "link": "https://abcnews.go.com/Business/wireStory/trump-backs-idea-send-doge-savings-american-citizens-118993312",
-            "description": "President Donald Trump says he likes the idea to give some of the savings from Elon Musk’s Department of Government Efficiency back to U.S. citizens a...",
-            "pubDate": "2025-02-20T09:30:16",
+            "title": "Justice Department official urges quick dismissal of criminal case against New York City mayor",
+            "link": "https://apnews.com/article/eric-adams-mayor-corruption-judge-justice-department-8e9a11d05c102ee45ce97954721660d5",
+            "description": "",
+            "pubDate": "2025-02-19T00:04:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "David Boren, former Oklahoma governor and veteran US senator, dies at 83",
+            "link": "https://abcnews.go.com/US/wireStory/david-boren-former-oklahoma-governor-veteran-us-senator-118999892",
+            "description": "David Boren, the former Oklahoma governor and longtime U.S. Senate intelligence chief who went on to lead the University of Oklahoma after his retirem...",
+            "pubDate": "2025-02-20T13:55:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "What Nvidia bulls are whispering about before its big earnings report",
+            "link": "https://finance.yahoo.com/news/what-nvidia-bulls-are-whispering-about-before-its-big-earnings-report-120347483.html",
+            "description": "",
+            "pubDate": "2025-02-20T12:03:47",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-02/116f0cf0-ef74-11ef-be79-985f8307e4a3"
+        },
+        {
+            "title": "Exclusive discounts from CBS Mornings Deals",
+            "link": "https://www.cbsnews.com/video/cbs-mornings-deals-022025/",
+            "description": "On this edition of CBS Mornings Deals, we show you items that might just become essentials in your everyday life. Visit cbsdeals.com to take advantage...",
+            "pubDate": "2025-02-20T15:35:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "The white man who pleaded guilty to shooting a Black teen who rang a wrong doorbell dies",
+            "link": "https://apnews.com/article/ralph-yarl-shooting-andrew-lester-dies-missouri-2d895a599ef2e521a78138566f264e6c",
+            "description": "",
+            "pubDate": "2025-02-19T15:55:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Breakfast snack packs sold at Kroger, Meijer stores in 13 states recalled",
+            "link": "https://www.cbsnews.com/news/berry-buddies-recall-kroger-meijer-undeclared-allergens/",
+            "description": "The recall involves \"Berry Buddies, Berries & Pancakes\" packs that contain undeclared wheat and eggs, posing a risk for those with allergies.",
+            "pubDate": "2025-02-20T15:37:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Zelenskyy meets U.S. envoy to Ukraine and Russia after Trump calls him a dictator",
+            "link": "https://www.cbsnews.com/video/zelenskyy-meets-us-envoy-to-ukraine-and-russia-after-trump-calls-him-a-dictator/",
+            "description": "Ukrainian President Volodymyr Zelenskyy has met with the U.S. envoy to Ukraine and Russia a day after President Trump called him a dictator. CBS News ...",
+            "pubDate": "2025-02-20T15:37:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Appeals court denies Trump's bid to pause order blocking birthright order",
-            "link": "https://www.cbsnews.com/news/appeals-court-denies-trump-birthright-citizenship/",
-            "description": "The 9th U.S. Circuit Court of Appeals declined a request from the Trump administration to pause a ruling that blocked the president's executive order ...",
-            "pubDate": "2025-02-20T04:52:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "WATCH:  Massive sinkhole appears in English village",
+            "link": "https://abcnews.go.com/International/video/massive-sinkhole-appears-english-village-119003038",
+            "description": "A large sinkhole appeared on a street in a village near London. Police evacuated nearby buildings and advised people to avoid the area due to concerns...",
+            "pubDate": "2025-02-20T14:22:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "How presidential descendants uphold their families' legacies",
+            "link": "https://abcnews.go.com/US/presidential-descendants-uphold-families-legacies/story?id=118922003",
+            "description": "The descendants of seven presidents commemorate Presidents' Day in Florida by sharing anecdotes about their ancestors and hopes for the future.",
+            "pubDate": "2025-02-20T14:21:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "North Korea has reopened to Western tourists for the first time since the pandemic",
+            "link": "https://www.yahoo.com/news/north-korea-reopened-western-tourists-141034105.html",
+            "description": "",
+            "pubDate": "2025-02-20T14:10:34",
+            "image_url": "https://media.zenfs.com/en/insider_articles_922/ad462c8a08a132e778777ae647748da0"
+        },
+        {
+            "title": "Senate to vote on Kash Patel's nomination to lead the FBI",
+            "link": "https://abcnews.go.com/Politics/senate-vote-kash-patels-nomination-lead-fbi/story?id=118929545",
+            "description": "If confirmed, Patel will be the 18th Cabinet official approved by lawmakers since President Donald Trump’s inauguration one month ago.",
+            "pubDate": "2025-02-20T15:17:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Buttigieg weighs a decision with huge implications for Democrats: Run for Senate or president?",
+            "link": "https://www.yahoo.com/news/buttigieg-weighs-decision-huge-implications-140744353.html",
+            "description": "",
+            "pubDate": "2025-02-20T14:07:44",
+            "image_url": "https://media.zenfs.com/en/ap.org/d313e9b550b3ab90e8157a96f2dcbf99"
+        },
+        {
+            "title": "Hamas returns the bodies of four Israeli hostages",
+            "link": "https://www.cbsnews.com/video/hamas-returns-the-bodies-of-four-israeli-hostages/",
+            "description": "Hamas released the bodies of four Israeli hostages on Thursday, said to include a mother and her two young children who have long been feared dead. CB...",
+            "pubDate": "2025-02-20T15:53:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

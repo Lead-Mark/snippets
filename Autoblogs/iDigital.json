@@ -2,84 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-20T06:41:36.955470",
+    "lastBuildDate": "2025-02-20T10:59:41.663903",
     "items": [
         {
-            "title": "Breaking down Grok 3: The AI model that could redefine the industry",
-            "link": "https://venturebeat.com/ai/breaking-down-grok-3-the-ai-model-that-could-redefine-the-industry/",
-            "description": "Grok-3 still hasn't fully shipped yet. But it will surely set the tone for how other AI labs release future models.",
-            "pubDate": "2025-02-20T00:03:23",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2023/11/elon_musk_wearing_sunglasses_and_controlling_a_r.jpg?w=578"
-        },
-        {
-            "title": "Saronic raises $600M to expand autonomous shipbuilding",
-            "link": "https://www.therobotreport.com/saronic-raises-600m-expand-autonomous-shipbuilding/",
-            "description": "Saronic plans to use its Series C funding to build Port Alpha, a next-generation shipyard for the U.S. hybrid fleet. The post Saronic raises $600M to ...",
-            "pubDate": "2025-02-19T19:23:59",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/saronic-port.jpg"
-        },
-        {
-            "title": "A new Microsoft chip could lead to more stable quantum computers",
-            "link": "https://www.technologyreview.com/2025/02/19/1112072/a-new-microsoft-chip-could-lead-to-more-stable-quantum-computers/",
-            "description": "Microsoft announced today that it has made significant progress in its 20-year quest to make topological quantum bits, or qubits—a special approach to...",
-            "pubDate": "2025-02-19T16:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "The iPhone 16e has one big drawback",
-            "link": "https://www.marketwatch.com/story/the-iphone-16e-has-one-big-drawback-e905f8bf?mod=mw_rss_topstories",
-            "description": "The new device has all the bells and whistles we have come to expect.",
-            "pubDate": "2025-02-20T11:29:00",
-            "image_url": "https://images.mktw.net/im-20070537"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "Diligent Robotics hits 1M picks with Moxi robot in healthcare settings",
-            "link": "https://www.therobotreport.com/diligent-robotics-hits-1m-picks-with-moxi-robot-in-healthcare-settings/",
-            "description": "Diligent Robotics says that the Moxi mobile manipulator has save clinical staffers more than 1.5 billion steps. The post Diligent Robotics hits 1M pic...",
-            "pubDate": "2025-02-18T20:31:31",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/1-millionth-diligent.jpg"
-        },
-        {
-            "title": "‘She’s bleeding her retirement dry’: My friend earns $9 an hour, but wastes money on vacations and massages. What can I do?",
-            "link": "https://www.marketwatch.com/story/shes-bleeding-her-retirement-dry-my-friend-earns-9-an-hour-but-wastes-money-on-vacations-and-massages-what-can-i-do-d16ff090?mod=mw_rss_topstories",
-            "description": "‘She blew through her inheritance fast and paid for the down payment on her car with credit cards’",
-            "pubDate": "2025-02-20T11:13:00",
-            "image_url": "https://images.mktw.net/im-63347062"
-        },
-        {
-            "title": "Muse is Xbox’s generative AI model for gameplay ideation",
-            "link": "https://venturebeat.com/games/muse-is-xboxs-generative-ai-model-for-gameplay-ideation/",
-            "description": "Microsoft researchers have created the first generative AI model, Muse, for game ideation.",
-            "pubDate": "2025-02-19T16:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2020/03/bleeding-edge-9.jpg?w=578"
-        },
-        {
-            "title": "Crunchbase’s AI can predict startup success with 95% accuracy—will it change investing?",
-            "link": "https://venturebeat.com/ai/crunchbases-ai-can-predict-startup-success-with-95-accuracy-will-it-change-investing/",
-            "description": "Crunchbase pivots to AI-powered predictions engine with 95% accuracy for startup funding rounds, abandoning historical data in favor of predictive int...",
-            "pubDate": "2025-02-19T17:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_venture_capital_industry_San_Francisco__06c777d3-1a1d-4bbb-8a12-b08fda4b29b6.webp?w=578"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "I want to leave my home to my children from my first marriage — not to my second husband. Is that ethical and fair?",
-            "link": "https://www.marketwatch.com/story/i-want-to-leave-my-home-to-my-children-from-my-first-marriage-not-to-my-second-husband-is-that-ethical-and-fair-1ada0f39?mod=mw_rss_topstories",
-            "description": "“My husband has two children, who also have a mother and grandparents who have an inheritance to leave them.”",
-            "pubDate": "2025-02-20T11:38:00",
-            "image_url": "https://images.mktw.net/im-05845038"
+            "title": "The Download: Microsoft’s quantum chip, and explaining rising energy demand",
+            "link": "https://www.technologyreview.com/2025/02/20/1112226/the-download-microsoft-quantum-chip-rising-energy-demand/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new Micros...",
+            "pubDate": "2025-02-20T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/SyracuseChips_01_20230621-MIT-Micron9770.jpeg?w=3000"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -89,32 +19,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
-            "title": "Xbox’s AI initiative with Muse is an attempt to read the tea leaves, not the room",
-            "link": "https://venturebeat.com/games/xboxs-ai-initiative-with-muse-is-an-attempt-to-read-the-tea-leaves-not-the-room/",
-            "description": "Earlier today, the heads of Microsoft’s Xbox division revealed Muse, a generative AI model that intends to create both visuals and gameplay for games....",
-            "pubDate": "2025-02-19T21:11:18",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/bleedingedge.jpg?w=578"
+            "title": "Worried about U.S. stocks? You can diversify in a market loaded with potential",
+            "link": "https://www.marketwatch.com/story/worried-about-u-s-stocks-you-can-diversify-in-a-market-loaded-with-potential-eaeefdf7?mod=mw_rss_topstories",
+            "description": "Japanese companies have already been working to address the demographic problems that will be faced by other countries",
+            "pubDate": "2025-02-20T15:40:00",
+            "image_url": "https://images.mktw.net/im-62376971"
         },
         {
-            "title": "MassRobotics joins 2025 Robotics Summit & Expo as strategic partner",
-            "link": "https://www.therobotreport.com/massrobotics-joins-2025-robotics-summit-expo-as-strategic-partner/",
-            "description": "MassRobotics is returning to the Robotics Summit with its Form & Function Robotics Challenge, a career fair, and more. The post MassRobotics joins 202...",
-            "pubDate": "2025-02-19T16:04:02",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/massrobotics-formfunction-featured.jpg"
-        },
-        {
-            "title": "Alibaba earnings top analyst expectations. The stock is surging.",
-            "link": "https://www.marketwatch.com/story/alibaba-earnings-top-analyst-expectations-the-stock-is-surging-52700ec0?mod=mw_rss_topstories",
-            "description": "Chinese online conglomerate Alibaba on Thursday said its December-quarter profit improved due to growth in all of its main businesses, and notably its...",
-            "pubDate": "2025-02-20T11:22:00",
-            "image_url": "https://images.mktw.net/im-71802700"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Versius robot treats more than 30,000 patients, reports CMR Surgical",
+            "link": "https://www.therobotreport.com/versius-robot-treats-over-30k-patients-reports-cmr-surgical/",
+            "description": "Versius is the second most-used soft-tissue surgical robot on the market and applies to a range of specialties, according to CMR Surgical. The post Ve...",
+            "pubDate": "2025-02-20T13:00:20",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/CMR-Surgical-Versius-surgical-robot-wins-FDA-clearance-1-768x499-1.jpg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -124,25 +40,88 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         },
         {
-            "title": "What’s driving electricity demand? It isn’t just AI and data centers.",
-            "link": "https://www.technologyreview.com/2025/02/20/1112119/electricity-demand-2025/",
-            "description": "This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here. Electric...",
-            "pubDate": "2025-02-20T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/02/car-robot.jpg?w=3000"
+            "title": "Breaking down Grok 3: The AI model that could redefine the industry",
+            "link": "https://venturebeat.com/ai/breaking-down-grok-3-the-ai-model-that-could-redefine-the-industry/",
+            "description": "Grok-3 still hasn't fully shipped yet. But it will surely set the tone for how other AI labs release future models.",
+            "pubDate": "2025-02-20T00:03:23",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2023/11/elon_musk_wearing_sunglasses_and_controlling_a_r.jpg?w=578"
         },
         {
-            "title": "Stial Technologies unveils humanoid robot for polishing",
-            "link": "https://www.therobotreport.com/stial-technologies-unveils-humanoid-robot-for-polishing/",
-            "description": "Stial has acquired STFcore and launched Stial Steven, a humanoid polishing robot with AI-driven precision and flexibility. The post Stial Technologies...",
-            "pubDate": "2025-02-19T13:00:04",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/stial-steven-featured.jpg"
+            "title": "Voltron Data just partnered with Accenture to solve one of AI’s biggest headaches",
+            "link": "https://venturebeat.com/ai/voltron-data-just-partnered-with-accenture-to-solve-one-of-ais-biggest-headaches/",
+            "description": "Voltron Data partners with Accenture to revolutionize enterprise data processing with GPU-powered analytics engine Theseus, promising up to 100x perfo...",
+            "pubDate": "2025-02-20T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_Voltron_made_of_computer_code_61dd01e4-cf14-4a51-abfb-ff007f7322e6.webp?w=578"
         },
         {
-            "title": "Congress used to evaluate emerging technologies. Let’s do it again.",
-            "link": "https://www.technologyreview.com/2025/02/19/1111573/congress-office-technology-assessment-emerging-innovation/",
-            "description": "At about the time when personal computers charged into cubicle farms, another machine muscled its way into human resources departments and became a st...",
-            "pubDate": "2025-02-19T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/02/master-pnp-ppmsca-86100-86147a.jpg?w=3000"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "This company is trying to make a biodegradable alternative to spandex",
+            "link": "https://www.technologyreview.com/2025/02/20/1111618/biodegradable-spandex-plastic-elastic-good-fibes/",
+            "description": "It probably hasn’t been long since you last slipped into something stretchy. From yoga pants to socks, stretch fabrics are everywhere. And they’re onl...",
+            "pubDate": "2025-02-20T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Satya Nadella says he’s not an economist — and proved it with this common misconception",
+            "link": "https://www.marketwatch.com/story/satya-nadella-says-hes-not-an-economist-and-proved-it-with-this-common-misconception-8bc69395?mod=mw_rss_topstories",
+            "description": "Microsoft Chairman and Chief Executive Satya Nadella said in an interview released Wednesday that he’s not an economist. And then he showed why.",
+            "pubDate": "2025-02-20T15:16:00",
+            "image_url": "https://images.mktw.net/im-48549543"
+        },
+        {
+            "title": "A new Microsoft chip could lead to more stable quantum computers",
+            "link": "https://www.technologyreview.com/2025/02/19/1112072/a-new-microsoft-chip-could-lead-to-more-stable-quantum-computers/",
+            "description": "Microsoft announced today that it has made significant progress in its 20-year quest to make topological quantum bits, or qubits—a special approach to...",
+            "pubDate": "2025-02-19T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Move Digital plans to manufacture robots for the home",
+            "link": "https://www.therobotreport.com/move-digital-plans-to-manufacture-robots-for-the-home/",
+            "description": "Move Digital is a global blockchain and AI technology firm specializing in developing applications for the B2B sector. The post Move Digital plans to ...",
+            "pubDate": "2025-02-20T13:05:02",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/AdobeStock-featured.jpg"
+        },
+        {
+            "title": "Xbox’s AI initiative with Muse is an attempt to read the tea leaves, not the room",
+            "link": "https://venturebeat.com/games/xboxs-ai-initiative-with-muse-is-an-attempt-to-read-the-tea-leaves-not-the-room/",
+            "description": "Earlier today, the heads of Microsoft’s Xbox division revealed Muse, a generative AI model that intends to create both visuals and gameplay for games....",
+            "pubDate": "2025-02-19T21:11:18",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/bleedingedge.jpg?w=578"
+        },
+        {
+            "title": "Should I buy gold in case the financial system implodes? I’m 62, retired and worried.",
+            "link": "https://www.marketwatch.com/story/im-62-retired-and-worried-should-i-buy-gold-in-case-the-financial-system-implodes-4e4f5c23?mod=mw_rss_topstories",
+            "description": "If things go poorly for the world, this reader wants to grab the gold and keep going.",
+            "pubDate": "2025-02-20T15:56:00",
+            "image_url": "https://images.mktw.net/im-75336888"
+        },
+        {
+            "title": "Tepper, Burry bet big on Alibaba, and now they’re getting rewarded",
+            "link": "https://www.marketwatch.com/story/alibaba-earnings-top-analyst-expectations-the-stock-is-surging-52700ec0?mod=mw_rss_topstories",
+            "description": "Big-name investors who bet big on Alibaba got rewarded on Thursday as the Chinese conglomerate reported better-than-expected earnings.",
+            "pubDate": "2025-02-20T15:32:00",
+            "image_url": "https://images.mktw.net/im-71802700"
+        },
+        {
+            "title": "Saronic raises $600M to expand autonomous shipbuilding",
+            "link": "https://www.therobotreport.com/saronic-raises-600m-expand-autonomous-shipbuilding/",
+            "description": "Saronic plans to use its Series C funding to build Port Alpha, a next-generation shipyard for the U.S. hybrid fleet. The post Saronic raises $600M to ...",
+            "pubDate": "2025-02-19T19:23:59",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/saronic-port.jpg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "A Stytch in time: Connected Apps untangles authorization tie-ups for AI agents",
@@ -152,25 +131,32 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/upscalemedia-transformed_8161a7.jpeg?w=578"
         },
         {
-            "title": "I’m 62, retired and worried. Should I buy gold in case the financial system implodes?",
-            "link": "https://www.marketwatch.com/story/im-62-retired-and-worried-should-i-buy-gold-in-case-the-financial-system-implodes-4e4f5c23?mod=mw_rss_topstories",
-            "description": "If things go poorly for the world, this reader wants to grab the gold and keep going.",
-            "pubDate": "2025-02-20T11:19:00",
-            "image_url": "https://images.mktw.net/im-75336888"
+            "title": "Serve Robotics expands autonomous delivery to Miami Metro",
+            "link": "https://www.therobotreport.com/serve-robotics-expands-autonomous-delivery-miami-metro/",
+            "description": "Serve Robotics launches autonomous delivery in Miami with Shake Shack and Mister O1, expanding its robot fleet and Uber Eats partnership. The post Ser...",
+            "pubDate": "2025-02-20T13:15:53",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/serve-miami-featured.jpg"
         },
         {
-            "title": "Applied Motion Products offers AW Stepper Motors for harsh environments",
-            "link": "https://www.therobotreport.com/applied-motion-products-offers-aw-stepper-motors-harsh-environments/",
-            "description": "The new AW Stepper Motors are built to withstand dust, moisture, and grease while providing precise motion control. The post Applied Motion Products o...",
-            "pubDate": "2025-02-19T15:31:22",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/AW_Stepper_Motors_AMP.jpg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "This company is trying to make a biodegradable alternative to spandex",
-            "link": "https://www.technologyreview.com/2025/02/20/1111618/biodegradable-spandex-plastic-elastic-good-fibes/",
-            "description": "It probably hasn’t been long since you last slipped into something stretchy. From yoga pants to socks, stretch fabrics are everywhere. And they’re onl...",
-            "pubDate": "2025-02-20T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "There’s buzz around a $5,000 DOGE dividend, but this tax refund faces a lot of hurdles",
+            "link": "https://www.marketwatch.com/story/doge-dividend-roadblocks-include-the-cost-of-other-proposed-relief-and-inflation-worries-1b731029?mod=mw_rss_topstories",
+            "description": "President Donald Trump and top adviser Elon Musk have signaled interest in a proposed payout to taxpayers that would be funded by savings from their c...",
+            "pubDate": "2025-02-20T15:32:00",
+            "image_url": "https://images.mktw.net/im-65433564"
+        },
+        {
+            "title": "Nvidia helps launch AI platform for teaching American Sign Language",
+            "link": "https://venturebeat.com/games/nvidia-helps-launch-ai-platform-for-teaching-american-sign-language/",
+            "description": "Nvidia has unveiled a new AI platform for teaching people how to use American Sign Language to help bridge communication gaps. The Signs platform is c...",
+            "pubDate": "2025-02-20T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/Signs_still1.jpg?w=578"
         },
         {
             "title": "The Download: selling via AI, and Congress testing tech",
@@ -178,6 +164,20 @@
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your most im...",
             "pubDate": "2025-02-19T13:10:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/04/F_BRAINWASHING-thumb.jpg?w=3000"
+        },
+        {
+            "title": "MassRobotics joins 2025 Robotics Summit & Expo as strategic partner",
+            "link": "https://www.therobotreport.com/massrobotics-joins-2025-robotics-summit-expo-as-strategic-partner/",
+            "description": "MassRobotics is returning to the Robotics Summit with its Form & Function Robotics Challenge, a career fair, and more. The post MassRobotics joins 202...",
+            "pubDate": "2025-02-19T16:04:02",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/massrobotics-formfunction-featured.jpg"
+        },
+        {
+            "title": "What’s driving electricity demand? It isn’t just AI and data centers.",
+            "link": "https://www.technologyreview.com/2025/02/20/1112119/electricity-demand-2025/",
+            "description": "This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here. Electric...",
+            "pubDate": "2025-02-20T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/02/car-robot.jpg?w=3000"
         }
     ]
 }
