@@ -2,49 +2,14 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-21T02:39:37.748445",
+    "lastBuildDate": "2025-02-21T11:11:01.078893",
     "items": [
-        {
-            "title": "Million Dollar Baked Ziti",
-            "link": "https://therecipecritic.com/million-dollar-baked-ziti/",
-            "description": "Million Dollar Baked Ziti is the ultimate comfort food that tastes like a million bucks! It’s packed with layers of…",
-            "pubDate": "2025-02-17T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/million-dollar-ziti-1.jpg"
-        },
         {
             "title": "Creamy Vegan White Bean Chili",
             "link": "https://minimalistbaker.com/creamy-vegan-white-bean-chili/",
             "description": "We love a classic (tomato-based) chili, but a CREAMY chili? It’s hard to say no to! Mix up your chili rotation with this creamy vegan white bean chili...",
             "pubDate": "2025-01-07T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Vegan-White-Bean-Chili-7-680x1020.jpg"
-        },
-        {
-            "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
-            "link": "https://minimalistbaker.com/chocolate-pot-de-creme-sweet-potato/",
-            "description": "Is this a safe space to admit we have a problem? Specifically an insatiable appetite for adding sweet potato to desserts? First we made brownies, then...",
-            "pubDate": "2025-02-04T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
-        },
-        {
-            "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
-            "link": "https://minimalistbaker.com/banana-chocolate-pecan-muffins-vegan-gf/",
-            "description": "Chocolate, banana, and pecans…this flavor combination is meant to be. And in a muffin? Truly magical ! These FLUFFY banana nut muffins are vegan , glu...",
-            "pubDate": "2025-01-21T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/1-Bowl-Vegan-Gluten-Free-Banana-Chocolate-Chip-Pecan-Muffins-5-680x1020.jpg"
-        },
-        {
-            "title": "Chocolate Mayonnaise Cake",
-            "link": "https://therecipecritic.com/chocolate-mayonnaise-cake/",
-            "description": "Chocolate Mayonnaise Cake is a rich, moist, and decadent dessert that’s super easy to make! The mayonnaise adds extra moisture…",
-            "pubDate": "2025-02-19T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/chocolate-mayonnaise-cake-3.jpg"
-        },
-        {
-            "title": "Cowboy Fried Rice",
-            "link": "https://therecipecritic.com/cowboy-fried-rice/",
-            "description": "Cowboy Fried Rice is a Tex-Mex twist on the classic! It’s loaded with bold spices and hearty ingredients like pulled…",
-            "pubDate": "2025-02-18T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/cowboy-fried-rice-1.jpg"
         },
         {
             "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
@@ -54,11 +19,18 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
         },
         {
-            "title": "Mushroom Orzo",
-            "link": "https://therecipecritic.com/mushroom-orzo/",
-            "description": "Mushroom orzo is a tasty, comforting side dish! It combines tender orzo pasta with rich, earthy mushrooms in a creamy…",
-            "pubDate": "2025-02-16T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/12/mushroom-orzo.jpg"
+            "title": "Million Dollar Baked Ziti",
+            "link": "https://therecipecritic.com/million-dollar-baked-ziti/",
+            "description": "Million Dollar Baked Ziti is the ultimate comfort food that tastes like a million bucks! It’s packed with layers of…",
+            "pubDate": "2025-02-17T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/million-dollar-ziti-1.jpg"
+        },
+        {
+            "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
+            "link": "https://minimalistbaker.com/banana-chocolate-pecan-muffins-vegan-gf/",
+            "description": "Chocolate, banana, and pecans…this flavor combination is meant to be. And in a muffin? Truly magical ! These FLUFFY banana nut muffins are vegan , glu...",
+            "pubDate": "2025-01-21T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/1-Bowl-Vegan-Gluten-Free-Banana-Chocolate-Chip-Pecan-Muffins-5-680x1020.jpg"
         },
         {
             "title": "Swedish Meatball Soup",
@@ -66,6 +38,34 @@
             "description": "Warm and comforting, this cozy Swedish meatball soup is the perfect meal for chilly days. Juicy meatballs simmer in a…",
             "pubDate": "2025-02-20T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/swedish-meatball-soup-.jpg"
+        },
+        {
+            "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
+            "link": "https://minimalistbaker.com/chocolate-pot-de-creme-sweet-potato/",
+            "description": "Is this a safe space to admit we have a problem? Specifically an insatiable appetite for adding sweet potato to desserts? First we made brownies, then...",
+            "pubDate": "2025-02-04T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
+        },
+        {
+            "title": "Cowboy Fried Rice",
+            "link": "https://therecipecritic.com/cowboy-fried-rice/",
+            "description": "Cowboy Fried Rice is a Tex-Mex twist on the classic! It’s loaded with bold spices and hearty ingredients like pulled…",
+            "pubDate": "2025-02-18T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/cowboy-fried-rice-1.jpg"
+        },
+        {
+            "title": "Weekly Meal Plan #36",
+            "link": "https://therecipecritic.com/weekly-meal-plan-36/",
+            "description": "Hey busy moms, this week’s menu is your new best friend! With picky eater approved flavors and easy recipes, you…",
+            "pubDate": "2025-02-21T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/Week-36-Meal-Plan-Collage-.png"
+        },
+        {
+            "title": "Chocolate Mayonnaise Cake",
+            "link": "https://therecipecritic.com/chocolate-mayonnaise-cake/",
+            "description": "Chocolate Mayonnaise Cake is a rich, moist, and decadent dessert that’s super easy to make! The mayonnaise adds extra moisture…",
+            "pubDate": "2025-02-19T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/chocolate-mayonnaise-cake-3.jpg"
         }
     ]
 }

@@ -2,154 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-21T02:40:38.895079",
+    "lastBuildDate": "2025-02-21T11:11:38.555973",
     "items": [
         {
-            "title": "Tech stocks seem to have ended their ‘difficult relationship’ with the bond market",
-            "link": "https://www.marketwatch.com/story/tech-stocks-seem-to-have-ended-their-difficult-relationship-with-the-bond-market-88d90759?mod=mw_rss_topstories",
-            "description": "At least for now, U.S. large-cap technology and growth stocks appear “free of their difficult relationship with long-term yields,” according to DataTr...",
-            "pubDate": "2025-02-21T03:01:00",
-            "image_url": "https://images.mktw.net/im-23500519"
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "The stock market is trying to break out — but the bulls can’t catch a break",
-            "link": "https://www.marketwatch.com/story/the-stock-market-is-trying-to-break-out-but-the-bulls-cant-catch-a-break-325dcafd?mod=mw_rss_topstories",
-            "description": "S&P 500 is stuck in a trading range.",
-            "pubDate": "2025-02-21T02:02:00",
-            "image_url": "https://images.mktw.net/im-23419501"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "A new Microsoft chip could lead to more stable quantum computers",
-            "link": "https://www.technologyreview.com/2025/02/19/1112072/a-new-microsoft-chip-could-lead-to-more-stable-quantum-computers/",
-            "description": "Microsoft announced today that it has made significant progress in its 20-year quest to make topological quantum bits, or qubits—a special approach to...",
-            "pubDate": "2025-02-19T16:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The Download: Microsoft’s quantum chip, and explaining rising energy demand",
-            "link": "https://www.technologyreview.com/2025/02/20/1112226/the-download-microsoft-quantum-chip-rising-energy-demand/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new Micros...",
-            "pubDate": "2025-02-20T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/SyracuseChips_01_20230621-MIT-Micron9770.jpeg?w=3000"
-        },
-        {
-            "title": "Serve Robotics expands autonomous delivery to Miami Metro",
-            "link": "https://www.therobotreport.com/serve-robotics-expands-autonomous-delivery-miami-metro/",
-            "description": "Serve Robotics launches autonomous delivery in Miami with Shake Shack and Mister O1, expanding its robot fleet and Uber Eats partnership. The post Ser...",
-            "pubDate": "2025-02-20T13:15:53",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/serve-miami-featured.jpg"
-        },
-        {
-            "title": "These tips for investing in mutual funds and ETFs will up your money game",
-            "link": "https://www.marketwatch.com/story/these-tips-for-investing-in-mutual-funds-and-etfs-will-up-your-money-game-f147e36b?mod=mw_rss_topstories",
-            "description": "Don’t miss these top money and investing features.",
-            "pubDate": "2025-02-21T02:10:00",
-            "image_url": "https://images.mktw.net/im-90265921"
-        },
-        {
-            "title": "What’s driving electricity demand? It isn’t just AI and data centers.",
-            "link": "https://www.technologyreview.com/2025/02/20/1112119/electricity-demand-2025/",
-            "description": "This article is from The Spark, MIT Technology Review’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here. Electric...",
-            "pubDate": "2025-02-20T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/02/car-robot.jpg?w=3000"
-        },
-        {
-            "title": "How test-time scaling unlocks hidden reasoning abilities in small language models (and allows them to outperform LLMs)",
-            "link": "https://venturebeat.com/ai/how-test-time-scaling-unlocks-hidden-reasoning-abilities-in-small-language-models-and-allows-them-to-outperform-llms/",
-            "description": "A 1B small language model can beat a 405B large language model in reasoning tasks if provided with the right test-time scaling strategy.",
-            "pubDate": "2025-02-21T01:59:54",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/09/DALL·E-2024-09-12-17.04.17-A-detailed-image-of-a-robotic-version-of-The-Thinker-sculpture-sitting-in-the-classic-pose-with-one-hand-resting-on-its-chin-and-deep-in-thought.-T-Large.jpeg?w=578"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "VDMA urges EU policymakers to boost its robotics competitiveness",
-            "link": "https://www.therobotreport.com/vdma-urges-eu-policymakers-to-boost-its-robotics-competitiveness/",
-            "description": "The VDMA laid out four key recommendations for European Union policymakers to make it more competitive in the global robotics market. The post VDMA ur...",
-            "pubDate": "2025-02-20T18:34:19",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/VDMA-featured.jpg"
-        },
-        {
-            "title": "Identity is the breaking point — get it right or zero trust fails",
-            "link": "https://venturebeat.com/security/identity-is-the-breaking-point-get-it-right-or-zero-trust-fails/",
-            "description": "It’s on security leaders to shift their security strategies to better fight against identity-driven attacks.",
-            "pubDate": "2025-02-20T17:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/teal-Identity-is-the-breaking-point_-Get-it-right-or-zero-trust-fails.jpeg?w=578"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Hannover Messe preview looks toward solutions",
-            "link": "https://www.therobotreport.com/hannover-messe-preview-looks-toward-solutions/",
-            "description": "Hannover Messe is looking ahead to offer solutions and competitiveness for manufacturers across the globe. The post Hannover Messe preview looks towar...",
-            "pubDate": "2025-02-20T18:52:06",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/Hannover.jpg"
-        },
-        {
-            "title": "The Download: selling via AI, and Congress testing tech",
-            "link": "https://www.technologyreview.com/2025/02/19/1112080/the-download-selling-via-ai-congress-testing-tech/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your most im...",
-            "pubDate": "2025-02-19T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/04/F_BRAINWASHING-thumb.jpg?w=3000"
-        },
-        {
-            "title": "Why Walmart’s warning may have more to do with weight-loss drugs than tariffs",
-            "link": "https://www.marketwatch.com/story/walmarts-stock-dives-as-disappointing-outlook-offsets-an-earnings-beat-3215a1e8?mod=mw_rss_topstories",
-            "description": "Walmart’s stock fell Thursday as quarterly earnings were expected to decline for the first time in three years, with strength in groceries and GLP-1 d...",
-            "pubDate": "2025-02-21T03:29:00",
-            "image_url": "https://images.mktw.net/im-54506423"
-        },
-        {
-            "title": "This company is trying to make a biodegradable alternative to spandex",
-            "link": "https://www.technologyreview.com/2025/02/20/1111618/biodegradable-spandex-plastic-elastic-good-fibes/",
-            "description": "It probably hasn’t been long since you last slipped into something stretchy. From yoga pants to socks, stretch fabrics are everywhere. And they’re onl...",
-            "pubDate": "2025-02-20T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Move Digital plans to manufacture robots for the home",
-            "link": "https://www.therobotreport.com/move-digital-plans-to-manufacture-robots-for-the-home/",
-            "description": "Move Digital is a global blockchain and AI technology firm specializing in developing applications for the B2B sector. The post Move Digital plans to ...",
-            "pubDate": "2025-02-20T13:05:02",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/AdobeStock-featured.jpg"
-        },
-        {
-            "title": "Your retirement savings are at risk in a clearly insane stock market",
-            "link": "https://www.marketwatch.com/story/your-retirement-savings-is-at-risk-in-an-openly-insane-stock-market-ffa66b41?mod=mw_rss_topstories",
-            "description": "Fund managers admit they’re buying overvalued stocks.",
-            "pubDate": "2025-02-21T04:13:00",
-            "image_url": "https://images.mktw.net/im-48545859"
-        },
-        {
-            "title": "Versius robot treats more than 30,000 patients, reports CMR Surgical",
-            "link": "https://www.therobotreport.com/versius-robot-treats-over-30k-patients-reports-cmr-surgical/",
-            "description": "Versius is the second most-used soft-tissue surgical robot on the market and applies to a range of specialties, according to CMR Surgical. The post Ve...",
-            "pubDate": "2025-02-20T13:00:20",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/CMR-Surgical-Versius-surgical-robot-wins-FDA-clearance-1-768x499-1.jpg"
+            "title": "The foundations of America’s prosperity are being dismantled",
+            "link": "https://www.technologyreview.com/2025/02/21/1112274/the-foundations-of-americas-prosperity-are-being-dismantled/",
+            "description": "Ever since World War II, the US has been the global leader in science and technology—and benefited immensely from it. Research fuels American innovati...",
+            "pubDate": "2025-02-21T09:36:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "OpenAI’s ChatGPT explodes to 400M weekly users, with GPT-5 on the way",
@@ -159,6 +26,55 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_global_domination_computer_code_globe_m_731d1393-908d-4c41-a2f1-237776dea49d.webp?w=578"
         },
         {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Lower mortgage rates may tempt home buyers. But these fast-rising phantom costs could sneak up on them.",
+            "link": "https://www.marketwatch.com/story/home-buyers-are-getting-relief-from-lower-mortgage-rates-but-these-phantom-costs-could-sneak-up-on-them-d1a042c2?mod=mw_rss_topstories",
+            "description": "Mortgage rates are down to a nearly three-month low. But if you’re thinking of buying a home, beware of these hidden costs.",
+            "pubDate": "2025-02-21T16:04:00",
+            "image_url": "https://images.mktw.net/im-00810903"
+        },
+        {
+            "title": "How test-time scaling unlocks hidden reasoning abilities in small language models (and allows them to outperform LLMs)",
+            "link": "https://venturebeat.com/ai/how-test-time-scaling-unlocks-hidden-reasoning-abilities-in-small-language-models-and-allows-them-to-outperform-llms/",
+            "description": "A 1B small language model can beat a 405B large language model in reasoning tasks if provided with the right test-time scaling strategy.",
+            "pubDate": "2025-02-21T01:59:54",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/09/DALL·E-2024-09-12-17.04.17-A-detailed-image-of-a-robotic-version-of-The-Thinker-sculpture-sitting-in-the-classic-pose-with-one-hand-resting-on-its-chin-and-deep-in-thought.-T-Large.jpeg?w=578"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Enterijer Mesicki, RoboDK automate furniture milling and sanding",
+            "link": "https://www.therobotreport.com/enterijer-mesicki-robodk-automate-furniture-milling-sanding/",
+            "description": "Powered by RoboDK software and FANUC robots, the system prioritizes enhancing the precision, efficiency, and sustainability. The post Enterijer Mesick...",
+            "pubDate": "2025-02-21T14:40:51",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/Bathtub-Fanuc-Sanding-featured.jpg"
+        },
+        {
+            "title": "Walmart’s stock continues to drop despite ‘near-term buying opportunity’",
+            "link": "https://www.marketwatch.com/story/near-term-buying-opportunity-for-walmart-as-stock-rebounds-analyst-says-50e0b54f?mod=mw_rss_topstories",
+            "description": "Walmart Inc.’s stock continued its downward path Friday after a brutal selloff in the previous session, as investors brushed aside positive comments f...",
+            "pubDate": "2025-02-21T15:43:00",
+            "image_url": "https://images.mktw.net/im-19747484"
+        },
+        {
             "title": "Together AI’s $305M bet: Reasoning models like DeepSeek-R1 are increasing, not decreasing, GPU demand",
             "link": "https://venturebeat.com/ai/together-ais-305m-bet-reasoning-models-like-deepseek-r1-are-increasing-not-decreasing-gpu-demand/",
             "description": "The demands of DeepSeek's advanced reasoning capabilities are pushing enterprises toward Together AI's optimized infrastructure platform.",
@@ -166,11 +82,74 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/together-ai-deepseek-SMK.jpg?w=578"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Hannover Messe preview looks toward solutions",
+            "link": "https://www.therobotreport.com/hannover-messe-preview-looks-toward-solutions/",
+            "description": "Hannover Messe is looking ahead to offer solutions and competitiveness for manufacturers across the globe. The post Hannover Messe preview looks towar...",
+            "pubDate": "2025-02-20T18:52:06",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/Hannover.jpg"
+        },
+        {
+            "title": "8,000 pregnant women may die in just 90 days because of US aid cuts",
+            "link": "https://www.technologyreview.com/2025/02/21/1112237/8000-pregnant-women-may-die-us-aid-cuts/",
+            "description": "This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read ar...",
+            "pubDate": "2025-02-21T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "ANYbotics is coming to Australia, New Zealand with Chironix partnership",
+            "link": "https://www.therobotreport.com/anybotics-is-coming-to-australia-new-zealand-with-chironix-partnership/",
+            "description": "ANYbotics said its inspection systems will increase safety by reducing worker exposure to hazardous environments. The post ANYbotics is coming to Aust...",
+            "pubDate": "2025-02-21T15:24:07",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/ANYmal-mining-complex-tasks-featured.jpg"
+        },
+        {
+            "title": "Identity is the breaking point — get it right or zero trust fails",
+            "link": "https://venturebeat.com/security/identity-is-the-breaking-point-get-it-right-or-zero-trust-fails/",
+            "description": "It’s on security leaders to shift their security strategies to better fight against identity-driven attacks.",
+            "pubDate": "2025-02-20T17:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/teal-Identity-is-the-breaking-point_-Get-it-right-or-zero-trust-fails.jpeg?w=578"
+        },
+        {
+            "title": "Coinbase claims victory over ‘rogue’ SEC. So what’s next for crypto regulation?",
+            "link": "https://www.marketwatch.com/story/coinbase-claims-victory-as-trump-helps-it-win-fight-against-rogue-sec-14138d6c?mod=mw_rss_topstories",
+            "description": "The company says the U.S. government has more to do to foster crypto innovation, and an analyst notes there are still lingering regulatory matters for...",
+            "pubDate": "2025-02-21T15:29:00",
+            "image_url": "https://images.mktw.net/im-01802092"
+        },
+        {
+            "title": "Serve Robotics expands autonomous delivery to Miami Metro",
+            "link": "https://www.therobotreport.com/serve-robotics-expands-autonomous-delivery-miami-metro/",
+            "description": "Serve Robotics launches autonomous delivery in Miami with Shake Shack and Mister O1, expanding its robot fleet and Uber Eats partnership. The post Ser...",
+            "pubDate": "2025-02-20T13:15:53",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/serve-miami-featured.jpg"
+        },
+        {
+            "title": "The Download: dismantling US science leadership, and reproductive care cuts",
+            "link": "https://www.technologyreview.com/2025/02/21/1112288/the-download-dismantling-us-science-reproductive-cuts/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The foundati...",
+            "pubDate": "2025-02-21T13:04:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2022/08/SO22_lights_01-e1660324741343.jpeg?w=3000"
+        },
+        {
+            "title": "It’s Trump’s economy now — and businesses are anxious about tariffs and Washington upheaval",
+            "link": "https://www.marketwatch.com/story/its-trumps-economy-now-and-businesses-are-anxious-about-tariffs-and-federal-spending-cuts-8d1adcd6?mod=mw_rss_topstories",
+            "description": "A burst of optimism among companies after Donald Trump won the U.S. presidential election has faded as business leaders grapple with potentially negat...",
+            "pubDate": "2025-02-21T15:36:00",
+            "image_url": "https://images.mktw.net/im-10885586"
+        },
+        {
+            "title": "Existing-home sales sag under weight of 7% mortgage rates in first month of 2025",
+            "link": "https://www.marketwatch.com/story/existing-home-sales-sag-under-weight-of-7-mortgage-rates-in-first-month-of-2025-5cd8679f?mod=mw_rss_topstories",
+            "description": "Home buyers are still struggling with affordability, the National Association of Realtors said.",
+            "pubDate": "2025-02-21T15:20:00",
+            "image_url": "https://images.mktw.net/im-63411983"
+        },
+        {
+            "title": "Doctors and patients are calling for more telehealth. Where is it?",
+            "link": "https://www.technologyreview.com/2025/02/21/1111684/telehealth-doctors-medicine-america-healthcare/",
+            "description": "Maggie Barnidge, 18, has been managing cystic fibrosis her whole life. But not long after she moved out of her home state to start college, she came d...",
+            "pubDate": "2025-02-21T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Medical training’s AI leap: How agentic RAG, open-weight LLMs and real-time case insights are shaping a new generation of doctors at NYU Langone",
@@ -178,6 +157,27 @@
             "description": "NYU Langone has built an LLM research companion and medical advisor, and is pioneering what it calls AI-driven “precision medical education.\"",
             "pubDate": "2025-02-20T18:20:20",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/a-futuristic-vision-of-an-ai-powered-doc_FVYekJwvT_e-Nzw-4SkxeQ_6a-75YJlRqyDcqi30_zv8w.jpeg?w=578"
+        },
+        {
+            "title": "The Download: Microsoft’s quantum chip, and explaining rising energy demand",
+            "link": "https://www.technologyreview.com/2025/02/20/1112226/the-download-microsoft-quantum-chip-rising-energy-demand/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new Micros...",
+            "pubDate": "2025-02-20T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/SyracuseChips_01_20230621-MIT-Micron9770.jpeg?w=3000"
+        },
+        {
+            "title": "VDMA urges EU policymakers to boost region’s robotics competitiveness",
+            "link": "https://www.therobotreport.com/vdma-urges-eu-policymakers-to-boost-its-robotics-competitiveness/",
+            "description": "The VDMA laid out four recommendations for European Union policymakers to make it more competitive in the global robotics market. The post VDMA urges ...",
+            "pubDate": "2025-02-20T18:34:19",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/VDMA-featured.jpg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         }
     ]
 }
