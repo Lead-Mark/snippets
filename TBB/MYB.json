@@ -2,13 +2,20 @@
     "title": "MYB",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from MYB, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-20T10:59:44.899247",
+    "lastBuildDate": "2025-02-21T02:40:42.867581",
     "items": [
         {
-            "title": "The best intern on the team",
-            "link": "https://seths.blog/2025/02/the-best-intern-on-the-team/",
-            "description": "A great intern brings positive energy, a relentless work ethic and doesn’t cost very much. They ask a lot of questions, and the most useful questions ...",
-            "pubDate": "2025-02-20T10:03:00",
+            "title": "All of it, all at once",
+            "link": "https://seths.blog/2025/02/all-of-it-all-at-once/",
+            "description": "The smartphone is the most expensive device most people own, and the one they use the most. Here’s everything you can’t have, can’t afford and won’t g...",
+            "pubDate": "2025-02-17T09:15:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Playing billiards on a boat",
+            "link": "https://seths.blog/2025/02/playing-billiards-on-a-boat/",
+            "description": "We take stability for granted, until it’s no longer there. Some art forms and enterprises benefit from an unstable environment, where systems are in f...",
+            "pubDate": "2025-02-18T10:03:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -16,63 +23,56 @@
             "link": "https://seths.blog/2025/02/confusing-status-with-skill/",
             "description": "The tenured philosophy professor at Princeton might not even be half as effective a teacher as the adjunct at the community college. The head of surge...",
             "pubDate": "2025-02-19T09:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Playing billiards on a boat",
-            "link": "https://seths.blog/2025/02/playing-billiards-on-a-boat/",
-            "description": "We take stability for granted, until it’s no longer there. Some art forms and enterprises benefit from an unstable environment, where systems are in f...",
-            "pubDate": "2025-02-18T10:03:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Netflix Addresses Gabby Petito AI Voice Recreation For ‘American Murder’",
-            "link": "https://www.forbes.com/sites/paultassi/2025/02/20/netflix-addresses-gabby-petito-ai-voice-recreation-for-american-murder/",
-            "description": "In American Murder: Gabby Petito, Netflix used AI to recreate her voice to read texts and letters, sparking debate about its use.",
-            "pubDate": "2025-02-20T15:33:28",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67b74a545aff498a8fc2ab97/0x0.jpg?width=960"
+            "title": "Impact Of AI On The Infamous Doomsday Clock Countdown",
+            "link": "https://www.forbes.com/sites/lanceeliot/2025/02/21/impact-of-ai-on-the-infamous-doomsday-clock-countdown/",
+            "description": "The Doomsday Clock was adjusted, moving closer to midnight (that's bad!). Though AI wasn't a key factor, it is apparent that AI will soon loom large. ...",
+            "pubDate": "2025-02-21T06:19:18",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67b81aa412ce4b30aeecee4d/0x0.jpg?width=960"
         },
         {
-            "title": "‘Severance’ Season 2 Just Set A New Record For Apple TV+",
-            "link": "https://www.forbes.com/sites/paultassi/2025/02/20/severance-season-2-just-set-a-new-record-for-apple-tv/",
-            "description": "According to Apple, season 1 and this half of season 2 of Severance have now just set a record for the entire streaming service.",
-            "pubDate": "2025-02-20T15:05:30",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67a8c496c39cf3c2f5f0c62c/0x0.jpg?width=960"
+            "title": "Electricity Theft: Economic Burden And Sustainability Risks",
+            "link": "https://www.forbes.com/sites/dianneplummer/2025/02/21/electricity-theft-economic-burden-and-sustainability-risks/",
+            "description": "Electricity theft drives up energy costs, threatens sustainability, and endangers lives. Learn about its impacts, and solutions to combat this global ...",
+            "pubDate": "2025-02-21T05:39:55",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67b801d5386ee950de933497/0x0.jpg?width=960"
+        },
+        {
+            "title": "Alibaba’s $120 Billion Rally May Have Room To Grow On AI Optimism",
+            "link": "https://www.forbes.com/sites/ywang/2025/02/20/alibabas-120-billion-rally-may-have-room-to-grow-on-ai-optimism/",
+            "description": "Chinese e-commerce giant Alibaba highlighted its AI ambitions as it reported strong results for its third quarter, fueling hopes that it will become a...",
+            "pubDate": "2025-02-21T03:45:23",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67b7dd27890ec7393f2054f1/0x0.jpg?width=960"
+        },
+        {
+            "title": "The best intern on the team",
+            "link": "https://seths.blog/2025/02/the-best-intern-on-the-team/",
+            "description": "A great intern brings positive energy, a relentless work ethic and doesn’t cost very much. They ask a lot of questions, and the most useful questions ...",
+            "pubDate": "2025-02-20T10:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "‘Severance’ Season 2, Episode 6 Recap And Review: ‘Atilla’",
+            "link": "https://www.forbes.com/sites/erikkain/2025/02/20/severance-season-2-episode-6-recap-and-review-atilla/",
+            "description": "Two awkward dinners, two office romances and so many questions.",
+            "pubDate": "2025-02-21T03:00:19",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67b74b1bfcb98ea02b53416d/0x0.jpg?width=960"
         },
         {
             "title": "16 minutes",
             "link": "https://seths.blog/2025/02/16-minutes/",
             "description": "Some facts and assertions about healthcare (particularly in the US) and then an outline of a change agent that could improve health, perhaps dramatica...",
             "pubDate": "2025-02-17T16:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "The Necessity For A Multi-Stratum Approach To Quantum Computation",
-            "link": "https://www.forbes.com/councils/forbestechcouncil/2025/02/20/the-necessity-for-a-multi-stratum-approach-to-quantum-computation/",
-            "description": "It's necessary to explore multiple computational strata—including those yet to be discovered—that will underpin the creation of diverse quantum techno...",
-            "pubDate": "2025-02-20T15:00:00",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/674f3e658f9d99e81b576abc/0x0.jpg?width=960"
-        },
-        {
-            "title": "GOP Could Fund Tax Cuts And End High-Skilled Immigration Backlog",
-            "link": "https://www.forbes.com/sites/stuartanderson/2025/02/20/gop-could-fund-tax-cuts-and-end-high-skilled-immigration-backlog/",
-            "description": "House and Senate Republicans looking to pay for tax cuts and other GOP priorities could turn to highly skilled immigrants.",
-            "pubDate": "2025-02-20T15:09:34",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67b4cef02bb091563c7eae4e/0x0.jpg?width=960&precrop=1142%2C643%2Cx0%2Cy1"
-        },
-        {
-            "title": "All of it, all at once",
-            "link": "https://seths.blog/2025/02/all-of-it-all-at-once/",
-            "description": "The smartphone is the most expensive device most people own, and the one they use the most. Here’s everything you can’t have, can’t afford and won’t g...",
-            "pubDate": "2025-02-17T09:15:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Agents And Compliance—Can They Ever Get Along?",
-            "link": "https://www.forbes.com/councils/forbestechcouncil/2025/02/20/agents-and-compliance-can-they-ever-get-along/",
-            "description": "AI agents are replacing tasks performed by humans, so they need to be regulated in the same way as humans.",
-            "pubDate": "2025-02-20T15:15:00",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/5f0c8aea4971cb0006cead5e/0x0.jpg?width=960"
+            "title": "‘NYT Mini’ Clues And Answers For Friday, February 21",
+            "link": "https://www.forbes.com/sites/krisholt/2025/02/20/nyt-mini-crossword-today-help-clues-answers-friday-february-21-elevator-alternative-evil-corporation-apple-tv-plus-severance-ring-shaped-coral-reef-a-head-of-our-time-show-recently-aired-50th-anniversary-special/",
+            "description": "Looking for some help with today's NYT Mini crossword? In that case, the clues and answers are right here for you.",
+            "pubDate": "2025-02-21T03:45:33",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/6698a348e6e4a36a76edc7fb/0x0.jpg?width=960"
         }
     ]
 }
