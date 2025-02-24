@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-24T06:59:55.185312",
+    "lastBuildDate": "2025-02-24T11:04:19.979824",
     "items": [
+        {
+            "title": "Intel launches Xeon 6 processors with performance cores for 2X AI processing",
+            "link": "https://venturebeat.com/games/intel-launches-xeon-6-processors-with-performance-cores-for-2x-ai-processing/",
+            "description": "Intel is launching its new Intel Xeon 6 processors with performance-cores, offering better performance across data center workloads and up to two time...",
+            "pubDate": "2025-02-24T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/Intel-Xeon-6-SoC-2.jpg?w=578"
+        },
+        {
+            "title": "xAI’s new Grok 3 model criticized for blocking sources that call Musk, Trump top spreaders of misinformation",
+            "link": "https://venturebeat.com/ai/xais-new-grok-3-model-criticized-for-blocking-sources-that-call-musk-trump-top-spreaders-of-misinformation/",
+            "description": "The backlash raises questions about whether public safety and transparency have been sacrificed in favor of personal image control.",
+            "pubDate": "2025-02-24T15:00:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/cfr0z3n_a_humanoid_robot_with_a_visual_display_on_its_torso_sho_1a1728e4-f25e-446f-bf37-9162b406bee9.png?w=578"
+        },
+        {
+            "title": "AI still has a hallucination problem: How MongoDB aims to solve it with advanced rerankers and embedding models",
+            "link": "https://venturebeat.com/ai/ai-still-has-a-hallucination-problem-how-mongodb-aims-to-solve-it-with-advanced-rerankers-and-embedding-models/",
+            "description": "How MongoDB's Voyage AI is helping enterprises move more mission critical operations into production with gen AI.",
+            "pubDate": "2025-02-24T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/advanced_embedding_smk.jpg?w=578"
+        },
         {
             "title": "The rise of browser-use agents: Why Convergence’s Proxy is beating OpenAI’s Operator",
             "link": "https://venturebeat.com/ai/the-rise-of-browser-use-agents-why-convergences-proxy-is-beating-openais-operator/",
@@ -17,27 +38,6 @@
             "description": "After a public callout, the developers of Hades took to social media to clarify that they are not intending to recast union voice actors.",
             "pubDate": "2025-02-21T21:35:45",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/hadesII.jpg?w=578"
-        },
-        {
-            "title": "How test-time scaling unlocks hidden reasoning abilities in small language models (and allows them to outperform LLMs)",
-            "link": "https://venturebeat.com/ai/how-test-time-scaling-unlocks-hidden-reasoning-abilities-in-small-language-models-and-allows-them-to-outperform-llms/",
-            "description": "A 1B small language model can beat a 405B large language model in reasoning tasks if provided with the right test-time scaling strategy.",
-            "pubDate": "2025-02-21T01:59:54",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/09/DALL·E-2024-09-12-17.04.17-A-detailed-image-of-a-robotic-version-of-The-Thinker-sculpture-sitting-in-the-classic-pose-with-one-hand-resting-on-its-chin-and-deep-in-thought.-T-Large.jpeg?w=578"
-        },
-        {
-            "title": "Together AI’s $305M bet: Reasoning models like DeepSeek-R1 are increasing, not decreasing, GPU demand",
-            "link": "https://venturebeat.com/ai/together-ais-305m-bet-reasoning-models-like-deepseek-r1-are-increasing-not-decreasing-gpu-demand/",
-            "description": "The demands of DeepSeek's advanced reasoning capabilities are pushing enterprises toward Together AI's optimized infrastructure platform.",
-            "pubDate": "2025-02-21T01:30:38",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/together-ai-deepseek-SMK.jpg?w=578"
-        },
-        {
-            "title": "OpenAI’s ChatGPT explodes to 400M weekly users, with GPT-5 on the way",
-            "link": "https://venturebeat.com/ai/openai-chatgpt-explodes-to-400m-weekly-users-with-gpt-5-on-the-way/",
-            "description": "OpenAI's ChatGPT reaches 400M weekly users and doubles enterprise adoption to 2M+ users, signaling major AI shift as company prepares GPT-5 launch ami...",
-            "pubDate": "2025-02-20T18:47:16",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_global_domination_computer_code_globe_m_731d1393-908d-4c41-a2f1-237776dea49d.webp?w=578"
         }
     ]
 }

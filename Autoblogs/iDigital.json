@@ -2,49 +2,35 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-24T06:59:55.181656",
+    "lastBuildDate": "2025-02-24T11:04:19.974927",
     "items": [
         {
-            "title": "Oil prices attempt to hold ground after Friday slump",
+            "title": "The Download: workplace surveillance, and fighting EV fires",
+            "link": "https://www.technologyreview.com/2025/02/24/1112346/the-download-workplace-surveillance-and-fighting-ev-fires/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your boss is...",
+            "pubDate": "2025-02-24T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkjZosxZrIL12N8OHJg1eTm2pAeIv00iqj3D95RqcOwrtfvzuIqRY80p5OdvECrX0Ez5fz01PFZH-bphOvcSdTPHmLrrJmqZGvFTXG6o7nnNggOdvhw4IPUmBbSciw9ykitd6g9w?key=5u1oy5EnIjtVxbiMIhMaZYIH"
+        },
+        {
+            "title": "AI still has a hallucination problem: How MongoDB aims to solve it with advanced rerankers and embedding models",
+            "link": "https://venturebeat.com/ai/ai-still-has-a-hallucination-problem-how-mongodb-aims-to-solve-it-with-advanced-rerankers-and-embedding-models/",
+            "description": "How MongoDB's Voyage AI is helping enterprises move more mission critical operations into production with gen AI.",
+            "pubDate": "2025-02-24T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/advanced_embedding_smk.jpg?w=578"
+        },
+        {
+            "title": "Oil prices head higher as traders watch potential changes to global supply flow",
             "link": "https://www.marketwatch.com/story/oil-prices-attempt-to-hold-ground-after-friday-slump-f724bc57?mod=mw_rss_topstories",
-            "description": "Oil futures attempted to find their footing Monday, after ending last week with a rout that accompanied a steep selloff in U.S. stocks.",
-            "pubDate": "2025-02-24T11:56:00",
+            "description": "Oil futures headed higher on Monday, with prices looking to recoup some of their recent losses after ending last week with a rout that accompanied a s...",
+            "pubDate": "2025-02-24T15:51:00",
             "image_url": "https://images.mktw.net/im-886605"
         },
         {
-            "title": "Why the Apollo economist who coined ‘no-landing’ now sees intensifying risks to the U.S. economy",
-            "link": "https://www.marketwatch.com/story/why-the-apollo-economist-who-coined-no-landing-now-sees-intensifying-risks-to-the-u-s-economy-a655abc6?mod=mw_rss_topstories",
-            "description": "Policy uncertainty is no friend to animal spirits, says a leading economist.",
-            "pubDate": "2025-02-24T11:29:00",
-            "image_url": "https://images.mktw.net/im-04906903"
-        },
-        {
-            "title": "‘I’ve opened a hornet’s nest’: My mother-in-law lists my husband as beneficiary on her $1 million IRA. But her will says otherwise. Which wins?",
-            "link": "https://www.marketwatch.com/story/i-feel-like-ive-opened-a-hornets-nest-my-mother-in-law-lists-my-husband-as-beneficiary-on-her-1-million-ira-but-her-will-says-otherwise-who-wins-dfd137a9?mod=mw_rss_topstories",
-            "description": "“All of this is causing a lot of turmoil in the family. Does her will trump the IRA beneficiary?”",
-            "pubDate": "2025-02-24T11:44:00",
-            "image_url": "https://images.mktw.net/im-93837249"
-        },
-        {
-            "title": "Your boss is watching",
-            "link": "https://www.technologyreview.com/2025/02/24/1111664/worker-monitoring-employee-surveillance/",
-            "description": "A full day’s work for Dora Manriquez, who drives for Uber and Lyft in the San Francisco Bay Area, includes waiting in her car for a two-digit number t...",
-            "pubDate": "2025-02-24T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-surveillance-02_RGB.jpg"
-        },
-        {
-            "title": "The foundations of America’s prosperity are being dismantled",
-            "link": "https://www.technologyreview.com/2025/02/21/1112274/the-foundations-of-americas-prosperity-are-being-dismantled/",
-            "description": "Ever since World War II, the US has been the global leader in science and technology—and benefited immensely from it. Research fuels American innovati...",
-            "pubDate": "2025-02-21T09:36:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "1X built its latest humanoid NEO Gamma to better fit into the home",
-            "link": "https://www.therobotreport.com/1x-built-humanoid-neo-gamma-better-fit-home/",
-            "description": "1X has equipped NEO Gamma with improved conversational skills, a whole-body controller, improved manipulation, and more. The post 1X built its latest ...",
-            "pubDate": "2025-02-21T19:00:39",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/NEO-Gamma_Breakfast-featured.jpg"
+            "title": "Capstan Medical CEO shares advice on nitinol, getting funded by Intuitive Ventures",
+            "link": "https://www.therobotreport.com/capstan-medical-ceos-advice-nitinol-getting-funded-intuitive-ventures/",
+            "description": "Nitinol has superelastic properties that allow medical devices using it to compress to a lower profile when placed in a patient. The post Capstan Medi...",
+            "pubDate": "2025-02-23T13:15:06",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/Capstan-Medical-mitral-valve-768x499-1.jpg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -54,32 +40,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "TCS to support MassRobotics startups in new partnership",
-            "link": "https://www.therobotreport.com/tcs-to-support-massrobotics-startups-in-new-partnership/",
-            "description": "As part of this initiative, TCS ​will have an on-site presence​ at MassRobotics' facility in Boston, Mass. The post TCS to support MassRobotics startu...",
-            "pubDate": "2025-02-22T13:30:55",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/tcsatmassrobotics-featured.jpg"
-        },
-        {
-            "title": "Together AI’s $305M bet: Reasoning models like DeepSeek-R1 are increasing, not decreasing, GPU demand",
-            "link": "https://venturebeat.com/ai/together-ais-305m-bet-reasoning-models-like-deepseek-r1-are-increasing-not-decreasing-gpu-demand/",
-            "description": "The demands of DeepSeek's advanced reasoning capabilities are pushing enterprises toward Together AI's optimized infrastructure platform.",
-            "pubDate": "2025-02-21T01:30:38",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/together-ai-deepseek-SMK.jpg?w=578"
-        },
-        {
-            "title": "Doctors and patients are calling for more telehealth. Where is it?",
-            "link": "https://www.technologyreview.com/2025/02/21/1111684/telehealth-doctors-medicine-america-healthcare/",
-            "description": "Maggie Barnidge, 18, has been managing cystic fibrosis her whole life. But not long after she moved out of her home state to start college, she came d...",
-            "pubDate": "2025-02-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "OpenAI’s ChatGPT explodes to 400M weekly users, with GPT-5 on the way",
-            "link": "https://venturebeat.com/ai/openai-chatgpt-explodes-to-400m-weekly-users-with-gpt-5-on-the-way/",
-            "description": "OpenAI's ChatGPT reaches 400M weekly users and doubles enterprise adoption to 2M+ users, signaling major AI shift as company prepares GPT-5 launch ami...",
-            "pubDate": "2025-02-20T18:47:16",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_global_domination_computer_code_globe_m_731d1393-908d-4c41-a2f1-237776dea49d.webp?w=578"
+            "title": "1X built its latest humanoid NEO Gamma to better fit into the home",
+            "link": "https://www.therobotreport.com/1x-built-humanoid-neo-gamma-better-fit-home/",
+            "description": "1X has equipped NEO Gamma with improved conversational skills, a whole-body controller, improved manipulation, and more. The post 1X built its latest ...",
+            "pubDate": "2025-02-21T19:00:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/NEO-Gamma_Breakfast-featured.jpg"
         },
         {
             "title": "Humanoid robots promise a multi-trillion-dollar market, but pose challenges",
@@ -96,11 +61,25 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2022/08/SO22_lights_01-e1660324741343.jpeg?w=3000"
         },
         {
-            "title": "The rise of browser-use agents: Why Convergence’s Proxy is beating OpenAI’s Operator",
-            "link": "https://venturebeat.com/ai/the-rise-of-browser-use-agents-why-convergences-proxy-is-beating-openais-operator/",
-            "description": "A new wave of AI-powered browser-use agents is emerging, promising to transform how enterprises interact with the web. These agents, including OpenAI'...",
-            "pubDate": "2025-02-22T17:16:16",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/DALL·E-2025-02-22-08.44.22-A-minimalist-digital-illustration-of-an-AI-web-crawling-agent-navigating-multiple-websites.-The-image-features-a-simple-abstract-representation-of-a-.webp?w=578"
+            "title": "One of my 3 children died — and left behind a child. I also have a second grandkid. What is the fairest way to divide my estate?",
+            "link": "https://www.marketwatch.com/story/one-of-my-3-children-passed-away-and-left-behind-a-child-i-also-have-a-second-grandkid-how-do-i-divide-my-estate-4d47c9de?mod=mw_rss_topstories",
+            "description": "“Twenty-five percent each does not seem fair given that one child and grandchild could inherit half of my estate.”",
+            "pubDate": "2025-02-24T15:46:00",
+            "image_url": "https://images.mktw.net/im-47418389"
+        },
+        {
+            "title": "Intel launches Xeon 6 processors with performance cores for 2X AI processing",
+            "link": "https://venturebeat.com/games/intel-launches-xeon-6-processors-with-performance-cores-for-2x-ai-processing/",
+            "description": "Intel is launching its new Intel Xeon 6 processors with performance-cores, offering better performance across data center workloads and up to two time...",
+            "pubDate": "2025-02-24T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/Intel-Xeon-6-SoC-2.jpg?w=578"
+        },
+        {
+            "title": "xAI’s new Grok 3 model criticized for blocking sources that call Musk, Trump top spreaders of misinformation",
+            "link": "https://venturebeat.com/ai/xais-new-grok-3-model-criticized-for-blocking-sources-that-call-musk-trump-top-spreaders-of-misinformation/",
+            "description": "The backlash raises questions about whether public safety and transparency have been sacrificed in favor of personal image control.",
+            "pubDate": "2025-02-24T15:00:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/cfr0z3n_a_humanoid_robot_with_a_visual_display_on_its_torso_sho_1a1728e4-f25e-446f-bf37-9162b406bee9.png?w=578"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -110,34 +89,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
-            "title": "Supergiant Games battles back accusations it is working around SAG-AFTRA strike",
-            "link": "https://venturebeat.com/games/supergiant-games-battles-back-accusations-it-is-working-around-sag-aftra-strike/",
-            "description": "After a public callout, the developers of Hades took to social media to clarify that they are not intending to recast union voice actors.",
-            "pubDate": "2025-02-21T21:35:45",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/hadesII.jpg?w=578"
-        },
-        {
-            "title": "Capstan Medical CEO shares advice on nitinol, getting funded by Intuitive Ventures",
-            "link": "https://www.therobotreport.com/capstan-medical-ceos-advice-nitinol-getting-funded-intuitive-ventures/",
-            "description": "Nitinol has superelastic properties that allow medical devices using it to compress to a lower profile when placed in a patient. The post Capstan Medi...",
-            "pubDate": "2025-02-23T13:15:06",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/Capstan-Medical-mitral-valve-768x499-1.jpg"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "How test-time scaling unlocks hidden reasoning abilities in small language models (and allows them to outperform LLMs)",
-            "link": "https://venturebeat.com/ai/how-test-time-scaling-unlocks-hidden-reasoning-abilities-in-small-language-models-and-allows-them-to-outperform-llms/",
-            "description": "A 1B small language model can beat a 405B large language model in reasoning tasks if provided with the right test-time scaling strategy.",
-            "pubDate": "2025-02-21T01:59:54",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/09/DALL·E-2024-09-12-17.04.17-A-detailed-image-of-a-robotic-version-of-The-Thinker-sculpture-sitting-in-the-classic-pose-with-one-hand-resting-on-its-chin-and-deep-in-thought.-T-Large.jpeg?w=578"
-        },
-        {
             "title": "Figure humanoid robots use Helix VLA model to demonstrate household chores",
             "link": "https://www.therobotreport.com/figure-humanoid-robots-demonstrate-helix-model-household-chores/",
             "description": "Figure released a video showing its new Helix VLA model running on a pair of Figure 02 humanoids cooperating on a household task. The post Figure huma...",
@@ -145,11 +96,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/figure-handoff.jpg"
         },
         {
-            "title": "One of my 3 children passed away — and left behind a child. I also have a second grandkid. How do I divide my estate?",
-            "link": "https://www.marketwatch.com/story/one-of-my-3-children-passed-away-and-left-behind-a-child-i-also-have-a-second-grandkid-how-do-i-divide-my-estate-4d47c9de?mod=mw_rss_topstories",
-            "description": "“Twenty-five percent each does not seem fair given that one child and grandchild could inherit half of my estate.”",
-            "pubDate": "2025-02-24T10:30:00",
-            "image_url": "https://images.mktw.net/im-47418389"
+            "title": "Supergiant Games battles back accusations it is working around SAG-AFTRA strike",
+            "link": "https://venturebeat.com/games/supergiant-games-battles-back-accusations-it-is-working-around-sag-aftra-strike/",
+            "description": "After a public callout, the developers of Hades took to social media to clarify that they are not intending to recast union voice actors.",
+            "pubDate": "2025-02-21T21:35:45",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/hadesII.jpg?w=578"
+        },
+        {
+            "title": "Treasury yields tick lower as investors navigate fears about U.S. growth outlook",
+            "link": "https://www.marketwatch.com/story/treasury-yields-tick-higher-as-investors-navigate-stagflation-fears-53c3e514?mod=mw_rss_topstories",
+            "description": "Treasury yields edged lower Monday morning, with the 10-year rate falling further into its lowest level of the year, amid worries about the outlook fo...",
+            "pubDate": "2025-02-24T15:55:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -159,25 +117,67 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "8,000 pregnant women may die in just 90 days because of US aid cuts",
-            "link": "https://www.technologyreview.com/2025/02/21/1112237/8000-pregnant-women-may-die-us-aid-cuts/",
-            "description": "This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read ar...",
-            "pubDate": "2025-02-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "My mother, 63, inherited $100,000. Is she too old to invest in the stock market? What should she do with it?",
-            "link": "https://www.marketwatch.com/story/my-mother-63-inherited-100-000-is-she-too-old-to-invest-in-the-stock-market-what-should-she-do-with-it-b940f88a?mod=mw_rss_topstories",
-            "description": "“Are the only options to create a CD ladder or leave it in a high-interest savings account?”",
-            "pubDate": "2025-02-24T10:09:00",
-            "image_url": "https://images.mktw.net/im-97880980"
-        },
-        {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
             "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Doctors and patients are calling for more telehealth. Where is it?",
+            "link": "https://www.technologyreview.com/2025/02/21/1111684/telehealth-doctors-medicine-america-healthcare/",
+            "description": "Maggie Barnidge, 18, has been managing cystic fibrosis her whole life. But not long after she moved out of her home state to start college, she came d...",
+            "pubDate": "2025-02-21T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "One option for electric vehicle fires? Let them burn.",
+            "link": "https://www.technologyreview.com/2025/02/24/1111551/ev-lithium-ion-battery-fire-first-responders-firefighters/",
+            "description": "In the fall of 2024, a trucking company in Falls Township, Pennsylvania, temporarily stored a storm-damaged Tesla at its yard. A few weeks later, the ...",
+            "pubDate": "2025-02-24T12:17:02",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/02/matchbox-car-illo_body.jpg?w=857"
+        },
+        {
+            "title": "TCS to support MassRobotics startups in new partnership",
+            "link": "https://www.therobotreport.com/tcs-to-support-massrobotics-startups-in-new-partnership/",
+            "description": "As part of this initiative, TCS ​will have an on-site presence​ at MassRobotics' facility in Boston, Mass. The post TCS to support MassRobotics startu...",
+            "pubDate": "2025-02-22T13:30:55",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/tcsatmassrobotics-featured.jpg"
+        },
+        {
+            "title": "Voss Capital thinks the market is a ‘perpetual paradox machine’. Here are the stocks the fund manager owns.",
+            "link": "https://www.marketwatch.com/story/voss-capital-thinks-the-market-is-a-perpetual-paradox-machine-here-are-the-stocks-the-fund-manager-owns-6676aa56?mod=mw_rss_topstories",
+            "description": "Buying undervalued small-cap stocks that may attract bidders has worked this year, Voss Capital said.",
+            "pubDate": "2025-02-24T15:40:00",
+            "image_url": "https://images.mktw.net/im-90183986"
+        },
+        {
+            "title": "‘She’s still waiting by the phone’: My grandmother gave her life savings to a man she met online. What now?",
+            "link": "https://www.marketwatch.com/story/shes-still-waiting-by-the-phone-my-grandmother-gave-her-life-savings-to-a-man-she-met-online-what-now-4c85a3e9?mod=mw_rss_topstories",
+            "description": "“Up until the moment she was scammed, we considered her the wealthy one in our family.”",
+            "pubDate": "2025-02-24T16:02:00",
+            "image_url": "https://images.mktw.net/im-81665730"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "The rise of browser-use agents: Why Convergence’s Proxy is beating OpenAI’s Operator",
+            "link": "https://venturebeat.com/ai/the-rise-of-browser-use-agents-why-convergences-proxy-is-beating-openais-operator/",
+            "description": "A new wave of AI-powered browser-use agents is emerging, promising to transform how enterprises interact with the web. These agents, including OpenAI'...",
+            "pubDate": "2025-02-22T17:16:16",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/DALL·E-2025-02-22-08.44.22-A-minimalist-digital-illustration-of-an-AI-web-crawling-agent-navigating-multiple-websites.-The-image-features-a-simple-abstract-representation-of-a-.webp?w=578"
+        },
+        {
+            "title": "Your boss is watching",
+            "link": "https://www.technologyreview.com/2025/02/24/1111664/worker-monitoring-employee-surveillance/",
+            "description": "A full day’s work for Dora Manriquez, who drives for Uber and Lyft in the San Francisco Bay Area, includes waiting in her car for a two-digit number t...",
+            "pubDate": "2025-02-24T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MA25-surveillance-02_RGB.jpg"
         }
     ]
 }
