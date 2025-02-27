@@ -1,6 +1,43 @@
 {
-    "title": "Individual Feed: feeds.marketwatch.com_marketwatch_bulletins",
+    "title": "Individual feed for http://feeds.marketwatch.com/marketwatch/bulletins",
     "link": "http://feeds.marketwatch.com/marketwatch/bulletins",
-    "description": "Individual feed entries from http://feeds.marketwatch.com/marketwatch/bulletins",
-    "items": []
+    "description": "Individual feed output.",
+    "lastBuildDate": "2025-02-27T17:04:43.833870",
+    "items": [
+        {
+            "title": "Carnage in tech stocks includes Nvidia's worst postearnings drop since 2018",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=63efbfbf-d5ec-4712-84b5-8a9ec16beeb1&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-02-27T21:32:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Nasdaq logs worst day in a month, S&P 500 turns negative for 2025 as stocks fall",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9d882499-c909-4e32-abe9-545810f27833&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-02-27T21:03:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Extremely fearful stock-market sentiment shows investors scare easily right now",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a7b8898c-519e-421b-96e5-ebe8711f22d7&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-02-27T20:15:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Trump’s tariff push spooked investors. What it would take to stop the selling.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=606a792a-758b-48ef-bc90-f45337da4d8f&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-02-27T19:52:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Why American consumers will feel the pain in the China-tariff battle",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=91b829c0-e114-4247-a38c-291e03c5b3ce&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-02-27T18:28:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        }
+    ]
 }

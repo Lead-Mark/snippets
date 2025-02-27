@@ -1,6 +1,43 @@
 {
-    "title": "Individual Feed: khn.org_feed",
+    "title": "Individual feed for https://khn.org/feed",
     "link": "https://khn.org/feed",
-    "description": "Individual feed entries from https://khn.org/feed",
-    "items": []
+    "description": "Individual feed output.",
+    "lastBuildDate": "2025-02-27T17:03:35.988434",
+    "items": [
+        {
+            "title": "KFF Health News' 'What the Health?': House GOP Plan Targets Medicaid",
+            "link": "https://kffhealthnews.org/news/podcast/what-the-health-386-house-budget-measles-scotus-february-27-2025/",
+            "description": "The House passed a budget plan that likely would result in major cuts to the Medicaid program. But the plan now faces a battle in the Senate, where ev...",
+            "pubDate": "2025-02-27T20:40:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Human, Bird, or Dog Waste? Scientists Parsing Poop To Aid DC’s Forgotten River",
+            "link": "https://kffhealthnews.org/news/article/anacostia-river-dc-waste-cleanup-stormwater-wastewater/",
+            "description": "A huge infrastructure project coupled with a new scientific review of microbes in the water could be bringing Washington, D.C., closer to a once-unima...",
+            "pubDate": "2025-02-27T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/02/Anacostia_01.jpg"
+        },
+        {
+            "title": "Republicans Once Wanted Government out of Health Care. Trump Voters See It Differently.",
+            "link": "https://kffhealthnews.org/news/article/republican-trump-voters-health-care-government-role/",
+            "description": "Frustrated by high health care prices, many who backed President Donald Trump support strong government actions to protect patients. It’s unclear whet...",
+            "pubDate": "2025-02-27T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Los Angeles County Has Cut Homelessness, but Wildfires Threaten To Erase That Gain",
+            "link": "https://kffhealthnews.org/news/article/los-angeles-la-california-wildfires-homelessness-housing/",
+            "description": "As Los Angeles recovers from historic wildfires, both previously unsheltered and chronically homeless people are facing even greater instability. Some...",
+            "pubDate": "2025-02-26T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/02/WildfireHomeless_06.jpg"
+        },
+        {
+            "title": "Health Clinic Workers Brush Up on Constitutional Protections as Immigration Raids Loom",
+            "link": "https://kffhealthnews.org/news/article/california-health-clinics-immigration-raids-trump-constitutional-rights/",
+            "description": "Clinic administrators describe anxiety about President Donald Trump’s move to allow immigration arrests inside health centers.",
+            "pubDate": "2025-02-26T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/02/FQHC_01-resized.jpg"
+        }
+    ]
 }

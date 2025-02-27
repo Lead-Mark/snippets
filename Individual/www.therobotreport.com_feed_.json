@@ -1,8 +1,16 @@
 {
-    "title": "Individual Feed: www.therobotreport.com_feed_",
+    "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
-    "description": "Individual feed entries from https://www.therobotreport.com/feed/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2025-02-27T17:02:20.816710",
     "items": [
+        {
+            "title": "Symbotic CTO James Kuffner to keynote Robotics Summit",
+            "link": "https://www.therobotreport.com/symbotic-cto-james-kuffner-to-keynote-robotics-summit/",
+            "description": "Kuffner will discuss how the rapid progress in machine learning, computer vision, perception, and computing power are enabling a new generation of int...",
+            "pubDate": "2025-02-27T20:58:07",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/symbotic-featuerd.jpg"
+        },
         {
             "title": "Dassault Systèmes joins KUKA’s digital industrial software ecosystem",
             "link": "https://www.therobotreport.com/dassault-systemes-joins-kukas-digital-industrial-software-ecosystem/",
@@ -30,13 +38,6 @@
             "description": "ADLINK has partnered with LIPS to launch an edge compute platform integrated with cameras for autonomous mobile robots. The post LIPS and ADLINK deliv...",
             "pubDate": "2025-02-26T21:29:00",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/LIPS-featured.jpg"
-        },
-        {
-            "title": "Neya Systems designs N-Drive for off-road autonomy",
-            "link": "https://www.therobotreport.com/neya-systems-designs-n-drive-for-off-road-autonomy/",
-            "description": "Neya Systems said it has tested its N-Drive autonomy system in nearly every terrain on Earth using advanced simulation tools. The post Neya Systems de...",
-            "pubDate": "2025-02-26T19:26:54",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/neyasystems.jpg"
         }
     ]
 }
