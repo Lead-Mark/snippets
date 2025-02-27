@@ -1,43 +1,6 @@
 {
-    "title": "Individual feed for http://feeds.marketwatch.com/marketwatch/bulletins",
+    "title": "Individual Feed: feeds.marketwatch.com_marketwatch_bulletins",
     "link": "http://feeds.marketwatch.com/marketwatch/bulletins",
-    "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-27T07:35:53.031213",
-    "items": [
-        {
-            "title": "S&P 500 futures advance after Nvidia results calm markets",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4d26de27-f930-4d1f-ad40-8d5e5e3add37&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-02-27T10:36:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Rolls-Royce shares climb to new record high after engine maker's results",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ed225124-216e-4ddd-9cfb-e9edc1d71155&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-02-27T10:02:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Shares of WPP skid on advertising giant's soft outlook",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8a6ba78a-ca08-47ae-95ec-c35d827a4197&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-02-27T09:23:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Medicaid’s future is so murky that it’s doomed even without direct cuts to care",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e01476eb-15d9-4b57-9cdd-62b0847dffb8&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-02-27T00:59:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "The 3 biggest things to know about a potential U.S.-Ukraine minerals deal",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=25077f3e-7e7e-4387-b4d6-7a17b78da92b&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-02-27T00:24:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        }
-    ]
+    "description": "Individual feed entries from http://feeds.marketwatch.com/marketwatch/bulletins",
+    "items": []
 }

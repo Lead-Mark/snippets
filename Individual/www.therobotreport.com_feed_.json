@@ -1,9 +1,22 @@
 {
-    "title": "Individual feed for https://www.therobotreport.com/feed/",
+    "title": "Individual Feed: www.therobotreport.com_feed_",
     "link": "https://www.therobotreport.com/feed/",
-    "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-27T07:33:23.112458",
+    "description": "Individual feed entries from https://www.therobotreport.com/feed/",
     "items": [
+        {
+            "title": "Nomagic raises $44M to scale European picking robot deployments",
+            "link": "https://www.therobotreport.com/nomagic-raises-44m-to-scale-european-picking-robot-deployments/",
+            "description": "Nomagic said it reached deployment milestones with several clients, including Apo.com, Arvato, Asos, Brack, Fiege, Komplett, and Vetlog.one. The post ...",
+            "pubDate": "2025-02-27T14:56:03",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/nomagic-featured.jpg"
+        },
+        {
+            "title": "ANYbotics launches Data Navigator to unlock the value of inspection data",
+            "link": "https://www.therobotreport.com/anybotics-launches-data-navigator-unlock-value-inspection-data/",
+            "description": "ANYbotics launched Data Navigator, which turns robot inspection data into actionable insights for asset management and preventive maintenance. The pos...",
+            "pubDate": "2025-02-27T09:00:14",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/ANYbotics-Asset-health-comparison.jpg"
+        },
         {
             "title": "LIPS and ADLINK deliver 275 TOPS at the edge for advanced AMR perception",
             "link": "https://www.therobotreport.com/adlink-lips-deliver-275-tops-edge-advanced-amr-perception/",
@@ -24,20 +37,6 @@
             "description": "Yamaha Agriculture combines Robotics Plus' autonomous systems with The Yield's data analytics for specialty crop growers. The post Yamaha Agriculture ...",
             "pubDate": "2025-02-26T16:58:02",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/Prospr-featured.jpg"
-        },
-        {
-            "title": "Sanctuary AI integrates tactile sensors into Phoenix general purpose robots",
-            "link": "https://www.therobotreport.com/sanctuary-ai-integrates-tactile-sensors-into-phoenix-general-purpose-robots/",
-            "description": "Sanctuary AI said its integrated tactile sensors will facilitate teleoperation and provide richer data for training embodied AI models. The post Sanct...",
-            "pubDate": "2025-02-26T14:00:20",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/Sanctuary_AI_sensors_Phoenix.jpg"
-        },
-        {
-            "title": "How to navigate IP issues in robotics",
-            "link": "https://www.therobotreport.com/how-to-navigate-ip-issues-robotics/",
-            "description": "The robotics industry’s fast-paced nature demands a proactive and well-rounded approach to IP. The post How to navigate IP issues in robotics appeared...",
-            "pubDate": "2025-02-25T21:07:34",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/ip-strategy-robotics.jpeg"
         }
     ]
 }

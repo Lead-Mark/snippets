@@ -1,9 +1,22 @@
 {
-    "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
+    "title": "Individual Feed: venturebeat.com_category_ai_feed_",
     "link": "https://venturebeat.com/category/ai/feed/",
-    "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-27T07:33:23.110544",
+    "description": "Individual feed entries from https://venturebeat.com/category/ai/feed/",
     "items": [
+        {
+            "title": "Qodo’s open code embedding model sets new enterprise standard, beating OpenAI, Salesforce",
+            "link": "https://venturebeat.com/programming-development/qodos-open-code-embedding-model-sets-new-enterprise-standard-beating-openai-salesforce/",
+            "description": "The 1.5B parameter version is available on Hugging Face under the OpenRAIL++-M license, allowing developers to integrate it freely",
+            "pubDate": "2025-02-27T15:00:24",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/cfr0z3n_minimalist_polygonal_simple_flat_illustration_side_prof_91b76de4-edfd-4921-bbe6-8ba064da5714.png?w=578"
+        },
+        {
+            "title": "Ampere accelerates expansion into telecom networking processors",
+            "link": "https://venturebeat.com/games/ampere-accelerates-expansion-into-telecom-networking-processors/",
+            "description": "Ampere is accelerating its expansion from Arm-based server processors for AI processing into networking chips for the telecom market.",
+            "pubDate": "2025-02-27T15:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/Ampere-Altra.jpg?w=578"
+        },
         {
             "title": "You.com unveils AI research agent that processes 400+ sources at once",
             "link": "https://venturebeat.com/ai/you-com-unveils-ai-research-agent-that-processes-400-sources-at-once/",
@@ -24,20 +37,6 @@
             "description": "In rearchitecting the upgraded Alexa voice assistant, Amazon turned to model mixing to bring agentic capabilities to devices.",
             "pubDate": "2025-02-26T23:53:58",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/crimedy7_illustration_of_robots_being_blended_in_a_blender_afe09498-77c4-40d2-b745-774c7ec0bf36.png?w=578"
-        },
-        {
-            "title": "Nvidia CEO: Someday we’ll have 1B robotic cars on the road",
-            "link": "https://venturebeat.com/games/nvidia-ceo-someday-well-have-1b-robotic-cars-on-the-road/",
-            "description": "Nvidia CEO Jensen Huang predicted that someday we'll have a billion cars on the road and they will all be robotic cars.",
-            "pubDate": "2025-02-26T23:02:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/05/jensen3.png?w=578"
-        },
-        {
-            "title": "Hugging Face launches FastRTC to simplify real-time AI voice and video apps",
-            "link": "https://venturebeat.com/ai/hugging-face-launches-fastrtc-to-simplify-real-time-ai-voice-and-video-apps/",
-            "description": "Hugging Face's new FastRTC library enables Python developers to build real-time voice and video AI applications in just a few lines of code.",
-            "pubDate": "2025-02-26T22:27:12",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/5yvgYQmk.jpeg?w=578"
         }
     ]
 }
