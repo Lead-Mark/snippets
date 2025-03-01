@@ -2,210 +2,77 @@
     "title": "SevenAtSevenPolitics",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenPolitics, skipping any feeds with errors.",
-    "lastBuildDate": "2025-02-28T11:17:55.991814",
+    "lastBuildDate": "2025-03-01T07:55:17.728768",
     "items": [
         {
-            "title": "Blue state workers rally around top Trump official targeting congestion pricing: 'Borderline stealing'",
-            "link": "https://www.foxnews.com/politics/blue-state-workers-rally-around-top-trump-official-targeting-congestion-pricing-borderline-stealing",
-            "description": "New York City workers slammed the city’s congestion traffic pricing in a new ad from the Department of Transportation.",
-            "pubDate": "2025-02-28T15:01:42",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/duffy_newyorktraffic.png?ve=1&tl=1"
+            "title": "Retirement Readiness in Focus: Key Actions for DC Plan Success in 2025",
+            "link": "https://blogs.cfainstitute.org/investor/2025/02/26/retirement-readiness-in-focus-key-actions-for-dc-plan-success-in-2025/",
+            "description": "As market conditions, workforce demographics, and regulatory landscapes evolve, continuous assessment and strategic decision-making will be key for DC...",
+            "pubDate": "2025-02-26T11:50:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Zelenskyy on Oval Office spat: 'We have to be very honest'",
+            "link": "https://www.washingtontimes.com/news/2025/feb/28/zelenskyy-oval-office-spat-honest/?utm_source=RSS_Feed&utm_medium=RSS",
+            "description": "Ukrainian President Volodymyr Zelenskyy said Friday evening that he is \"thankful\" for the help from the United States but wouldn't offer an apology fo...",
+            "pubDate": "2025-03-01T00:21:00",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/02/28/AP25059861743923_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "SpaceX’s Starlink could have some advantages over Verizon in bid for FAA contract takeover, experts say. It could also trigger a slew of conflict-of-interest lawsuits from competitors",
+            "link": "https://fortune.com/2025/03/01/spacex-starlink-verizon-faa-contract-conflict-of-interest-safety/",
+            "description": "The FAA is reportedly considering ending a $2.4 billion contract with Verizon to update its communication technology and instead award it to Elon Musk...",
+            "pubDate": "2025-03-01T10:08:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-2199940328-e1740781842862.jpg?w=2048"
+        },
+        {
+            "title": "JD Vance steps into spotlight defending Trump's foreign policy in Oval Office dustup with Zelenskyy",
+            "link": "https://www.foxnews.com/politics/jd-vance-steps-spotlight-defending-trumps-foreign-policy-oval-office-dustup-zelenskyy",
+            "description": "The exchange ultimately prompted President Donald Trump to announce an end to peace negotiations and request that the Ukrainian leader leave the White...",
+            "pubDate": "2025-03-01T11:00:40",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/zeltrump.png?ve=1&tl=1"
+        },
+        {
+            "title": "Daniel Patrick Moynihan’s Unheeded Warning About the Collapse of the Black Family",
+            "link": "https://www.nationalreview.com/2025/03/daniel-patrick-moynihans-unheeded-warning-about-the-collapse-of-the-black-family/",
+            "description": "The marriage culture and family structure that long sustained the black community continues to become a thing of the past.",
+            "pubDate": "2025-03-01T11:30:13",
+            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/Daniel-Moynihan.jpg?fit=527%2C307&ssl=1"
+        },
+        {
+            "title": "FBI returns property seized from Trump during Mar-a-Lago raids",
+            "link": "https://www.washingtontimes.com/news/2025/feb/28/fbi-returns-property-seized-trump-mar-lago-raids/?utm_source=RSS_Feed&utm_medium=RSS",
+            "description": "The FBI has given back to President Trump the property it seized from him during raids of Mar-a-Lago in 2022, and the boxes were loaded onto Air Force...",
+            "pubDate": "2025-02-28T23:05:03",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2023/09/19/Trump_Classified_Documents_Florida_90874_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "Super Micro insiders dump millions worth of stock after getting the all-clear sign from Nasdaq on its financial filings",
+            "link": "https://fortune.com/2025/03/01/super-micro-insiders-dump-millions-worth-of-stock-nasdaq/",
+            "description": "The server manufacturer was delinquent on its annual financial and quarterly reports but met a Feb. 25 deadline set by Nasdaq to regain compliance.",
+            "pubDate": "2025-03-01T09:03:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-2155472373-e1740790445288.jpg?w=2048"
+        },
+        {
+            "title": "If you’re not happy with your Medicare Advantage plan, experts offer these tips to find better benefits",
+            "link": "https://fortune.com/well/article/medicare-advantage-plan-find-better-benefits/",
+            "description": "People in Medicare Advantage plans are now in the middle of the Open Enrollment period allowing them to either change plans or switch to Original Medi...",
+            "pubDate": "2025-03-01T00:52:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-2147536598-e1740775815567.jpg?w=2048"
         },
         {
             "title": "Is the PEG Ratio a Reliable Market-Timing Tool?",
             "link": "https://blogs.cfainstitute.org/investor/2025/02/25/is-the-peg-ratio-a-reliable-market-timing-tool/",
             "description": "Does the PEG ratio provide meaningful insights for broad market trends?",
             "pubDate": "2025-02-25T11:26:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Beyond the Marketing Pitch: Understanding Hedge Fund Risks and Returns",
-            "link": "https://blogs.cfainstitute.org/investor/2025/02/27/beyond-the-marketing-pitch-understanding-hedge-fund-risks-and-returns/",
-            "description": "Hedge funds can serve as legitimate diversifiers, but blind allocation is risky. Traditional risk measures like standard deviation and correlation don...",
-            "pubDate": "2025-02-27T11:38:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Adoption Is The Pro-Life Antidote To The IVF Onslaught",
-            "link": "https://thefederalist.com/2025/02/28/adoption-is-the-pro-life-antidote-to-the-ivf-onslaught/?utm_source=rss&utm_medium=rss&utm_campaign=adoption-is-the-pro-life-antidote-to-the-ivf-onslaught",
-            "description": "In addition to educating Americans on the major ethical problems with IVF, pro-lifers need to offer a solution to the many couples who want to have ch...",
-            "pubDate": "2025-02-28T12:36:15",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/Copy-of-Untitled-2025-02-25T193348.343.png"
-        },
-        {
-            "title": "The DOGE-fueled firing of AI experts at the FDA endangers lives and worsens the hospital crisis",
-            "link": "https://fortune.com/2025/02/27/doge-firing-fda-ai-experts-hospital-crisis-health-medtech/",
-            "description": "The FDA fired AI experts who conduct approvals for medical devices and might not get them back.",
-            "pubDate": "2025-02-27T22:55:33",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-2200059564-e1740696707738.jpg?w=2048"
-        },
-        {
-            "title": "DOGE May Force Bureaucrats To Think Twice Before Spending Your Tax Dollars",
-            "link": "https://thefederalist.com/2025/02/28/doge-may-force-bureaucrats-to-think-twice-before-spending-your-tax-dollars/?utm_source=rss&utm_medium=rss&utm_campaign=doge-may-force-bureaucrats-to-think-twice-before-spending-your-tax-dollars",
-            "description": "This idea that the taxpayers now can and will have oversight of federal bureaucracies has been unleashed.",
-            "pubDate": "2025-02-28T12:34:50",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/Copy-of-Untitled-2025-02-26T103815.162.png"
-        },
-        {
-            "title": "In Landmark Court Decision, Latin America Protects National Pro-Life Laws",
-            "link": "https://thefederalist.com/2025/02/28/in-landmark-court-decision-latin-america-protects-national-pro-life-laws/?utm_source=rss&utm_medium=rss&utm_campaign=in-landmark-court-decision-latin-america-protects-national-pro-life-laws",
-            "description": "The United States rejected national pro-abortion extremism with Dobbs, and Latin America followed close behind with a landmark ruling.",
-            "pubDate": "2025-02-28T12:36:31",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/36326743020_187d09f3c7_k-e1740527345514-1200x675.jpg"
-        },
-        {
-            "title": "Trump's dog-eating migrant comments bite him in court",
-            "link": "https://www.washingtontimes.com/news/2025/feb/27/trumps-dog-eating-migrant-comments-bite-court/?utm_source=RSS_Feed&utm_medium=RSS",
-            "description": "President Trump's far-out campaign claim that Haitian migrants in Ohio were dining on dogs is now a key piece of evidence as his opponents move to sty...",
-            "pubDate": "2025-02-27T23:13:15",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/02/20/Trump_24725_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "Republicans coalesce around stopgap funding bill as negotiations stall over Democratic demands",
-            "link": "https://www.washingtontimes.com/news/2025/feb/27/republicans-coalesce-around-stopgap-funding-bill-negotiations-stall/?utm_source=RSS_Feed&utm_medium=RSS",
-            "description": "Top congressional Republicans appear united on a plan to advance another stopgap funding bill to keep the government open from March 14 through Sept. ...",
-            "pubDate": "2025-02-27T22:34:00",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/02/25/Congress_Budget_40387_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "Bank Runs and Liquidity Crises: Insights from the Diamond-Dybvig Model",
-            "link": "https://blogs.cfainstitute.org/investor/2025/02/24/bank-runs-and-liquidity-crises-insights-from-the-diamond-dybvig-model/",
-            "description": "This blog explores the mechanics of bank runs -- why they happen even in the absence of fundamental financial distress, and how central banks can inte...",
-            "pubDate": "2025-02-24T11:33:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "'Great job' or 'no idea what he's doing'? Elon Musk email sets Capitol Hill ablaze",
-            "link": "https://www.foxnews.com/politics/great-job-no-idea-what-hes-doing-elon-musk-email-sets-capitol-hill-ablaze",
-            "description": "Democrats are fighting mad about Elon Musk’s email to federal workers asking them to name five things they accomplished in a week, saying the DOGE chi...",
-            "pubDate": "2025-02-28T16:00:04",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/b506d7d3-reps.png?ve=1&tl=1"
-        },
-        {
-            "title": "ICE makes major move on detaining illegal immigrants in heart of blue state",
-            "link": "https://www.foxnews.com/politics/ice-makes-major-move-detaining-illegal-immigrants-heart-blue-state",
-            "description": "The Trump administration is expanding immigration detention in a Democratic-run state as it seeks to expand the number of beds it has at its disposal.",
-            "pubDate": "2025-02-28T15:18:04",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/01/931/523/ice-raid-photo-2.jpg?ve=1&tl=1"
-        },
-        {
-            "title": "Retirement Readiness in Focus: Key Actions for DC Plan Success in 2025",
-            "link": "https://blogs.cfainstitute.org/investor/2025/02/26/retirement-readiness-in-focus-key-actions-for-dc-plan-success-in-2025/",
-            "description": "As market conditions, workforce demographics, and regulatory landscapes evolve, continuous assessment and strategic decision-making will be key for DC...",
-            "pubDate": "2025-02-26T11:50:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The Week: The Good, the Bad, and the Ugly of Trump’s Ukraine Push",
-            "link": "https://www.nationalreview.com/2025/02/the-week-the-good-and-bad-of-trumps-ukraine-strategy/",
-            "description": "Plus: House Republicans pass a too-modest budget resolution.",
-            "pubDate": "2025-02-28T11:30:18",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/donald-trump-021925.jpg?fit=527%2C307&ssl=1"
-        },
-        {
-            "title": "Don’t Let Appeasement History Repeat in Ukraine",
-            "link": "https://www.nationalreview.com/2025/02/dont-let-appeasement-history-repeat-in-ukraine/",
-            "description": "Steve Witkoff’s rehash of past deals that created the current crisis isn’t a good model for Trump to follow if he desires a legacy of peace.",
-            "pubDate": "2025-02-28T11:30:54",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/12/vladimir-putin-generals-1.jpg?fit=527%2C307&ssl=1"
-        },
-        {
-            "title": "The legacy media is dead. Long live the legacy media",
-            "link": "https://fortune.com/2025/02/27/legacy-news-media-future/",
-            "description": "Our shared reality has always come from a mix of media, and once a medium has been instantiated, it never really goes away.",
-            "pubDate": "2025-02-27T21:07:45",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-86537362-e1740689537357.jpg?w=2048"
-        },
-        {
-            "title": "Education Department Launches ‘End DEI’ Whistleblower Portal",
-            "link": "https://thefederalist.com/2025/02/28/education-department-launches-end-dei-whistleblower-portal/?utm_source=rss&utm_medium=rss&utm_campaign=education-department-launches-end-dei-whistleblower-portal",
-            "description": "The po.rtal comes after the Education Department has been quick to launch investigations into potentially discriminatory school districts",
-            "pubDate": "2025-02-28T13:50:02",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/Screenshot-2025-02-27-215943-1200x675.jpg"
-        },
-        {
-            "title": "DOGE cuts target weather forecasters in latest firing wave",
-            "link": "https://www.washingtontimes.com/news/2025/feb/27/doge-cuts-target-weather-forecasters-latest-firing-wave/?utm_source=RSS_Feed&utm_medium=RSS",
-            "description": "Hundreds of weather forecasters and other federal National Oceanic and Atmospheric Administration employees on probationary status were fired Thursday...",
-            "pubDate": "2025-02-28T03:23:49",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/02/27/Winter_Weather_Texas_77244_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "Canada Gives Up Trying to Prove the Mass Graves Hoax",
-            "link": "https://www.nationalreview.com/2025/02/canada-gives-up-trying-to-prove-the-mass-graves-hoax/",
-            "description": "We welcome the abandonment of this lie. We regret that it comes so late and without apologies.",
-            "pubDate": "2025-02-28T11:30:25",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/justin-trudeau.jpg?fit=527%2C307&ssl=1"
-        },
-        {
-            "title": "Rep. Jeffries warns Americans will be ‘devastated’ after House Republicans advance ‘largest Medicaid cut'",
-            "link": "https://www.foxnews.com/politics/rep-jeffries-warns-americans-devastated-after-house-republicans-advance-largest-medicaid-cut",
-            "description": "House Minority Leader Jeffries is warning Americans will be \"devastated\" by what he calls the \"largest Medicaid cut in American history\" being pushed ...",
-            "pubDate": "2025-02-28T16:11:35",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/hakeem-jeffries.jpg?ve=1&tl=1"
-        },
-        {
-            "title": "Trump says Ukraine peace deal will happen 'fairly quickly or not at all'",
-            "link": "https://www.washingtontimes.com/news/2025/feb/27/donald-trump-says-ukraine-peace-deal-happen-fairly-quickly/?utm_source=RSS_Feed&utm_medium=RSS",
-            "description": "British Prime Minister Keir Starmer pressed President Trump for a stronger U.S. commitment to protecting Ukraine if the war ends and warned his U.S. c...",
-            "pubDate": "2025-02-27T22:45:06",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/02/28/Trump_Zelenskyy_29453_s1440x963.jpg?6fb357e90856e447e826abad217089687abef4b1"
-        },
-        {
-            "title": "Direct File Is a Prime Example of IRS Waste. President Trump Should Eliminate It",
-            "link": "https://www.nationalreview.com/2025/02/direct-file-is-a-prime-example-of-irs-waste-president-trump-should-eliminate-it/",
-            "description": "Direct File should be eliminated swiftly, and Democrats should spare us the hypocritical whining about unelected auditors.",
-            "pubDate": "2025-02-28T11:30:29",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/11/irs-stop-sign.jpg?fit=527%2C307&ssl=1"
-        },
-        {
-            "title": "AMLO, Claudia, Mexico",
-            "link": "https://www.nationalreview.com/2025/02/amlo-claudia-mexico/",
-            "description": "In Mexico, the populist Left is in charge, with two (contrasting) personalities at the top.",
-            "pubDate": "2025-02-28T11:30:55",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/mexico-1.jpg?fit=527%2C307&ssl=1"
-        },
-        {
-            "title": "Vance vows Trump administration will be  'biggest defenders of religious liberties,' Catholics",
-            "link": "https://www.foxnews.com/politics/vance-vows-trump-administration-biggest-defenders-religious-liberties-catholics",
-            "description": "Vice President JD Vance promised the Trump administration would advocate for Christians and serve as the “biggest defenders of religious liberties.\"",
-            "pubDate": "2025-02-28T15:59:20",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/523/file-96.png?ve=1&tl=1"
-        },
-        {
-            "title": "Consumers are cutting back spending at the fastest clip in 4 years",
-            "link": "https://fortune.com/2025/02/28/consumer-spending-cut-back/",
-            "description": "Unseasonably cold weather along with increased uncertainty over tariffs and trade are casting a pall on the economy.",
-            "pubDate": "2025-02-28T16:09:52",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-2199171212-e1740758625944.jpg?w=2048"
-        },
-        {
-            "title": "Bath & Body Works beat 2024 expectations, but its stock fell 12%. Its CEO says she was ‘surprised’ to see Wall Street’s reaction",
-            "link": "https://fortune.com/2025/02/28/bath-and-body-works-beat-2024-expectations-but-its-stock-fell-12-its-ceo-says-she-was-surprised-to-see-wall-streets-reaction/",
-            "description": "Tariffs and uncertain consumer spending dampened Wall Street's enthusiasm for the retailer.",
-            "pubDate": "2025-02-28T13:59:20",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-2189635836-e1740751070775.jpg?w=2048"
-        },
-        {
-            "title": "China reacts angrily to new Trump tariff, says U.S. addiction is driving fentanyl problem",
-            "link": "https://www.washingtontimes.com/news/2025/feb/28/china-reacts-angrily-new-trump-tariff-says-us-addiction-driving/?utm_source=RSS_Feed&utm_medium=RSS",
-            "description": "China is reacting angrily to President Trump's pledge to impose an additional 10% tariff on its products, saying fentanyl is \"the U.S.'s own problem.\"",
-            "pubDate": "2025-02-28T12:35:24",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2024/09/16/DEA-China_Closures_20027_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "Bitcoin plunges 28% from all-time high as Trump pump turns into slump",
-            "link": "https://fortune.com/crypto/2025/02/28/bitcoin-plunges-trump-pump-transforms-crypto-slump/",
-            "description": "Trump’s tariff threats are weighing on the crypto market as investors flee risky assets.",
-            "pubDate": "2025-02-28T16:11:08",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/6709bb0b-12d9-4b10-ab30-77037baa96ee.jpg?w=2048"
-        },
-        {
-            "title": "Iran Tried To Put A Bullet In My Head Because I Support The West’s Pressure Against The Regime",
-            "link": "https://thefederalist.com/2025/02/28/iran-tried-to-put-a-bullet-in-my-head-because-i-support-the-wests-pressure-against-the-regime/?utm_source=rss&utm_medium=rss&utm_campaign=iran-tried-to-put-a-bullet-in-my-head-because-i-support-the-wests-pressure-against-the-regime",
-            "description": "Trump has correctly adopted a maximum pressure policy. The United Kingdom, the European Union, and its member states should follow suit.",
-            "pubDate": "2025-02-28T12:36:22",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/4771396847_141da13f3a_o-e1740696159139-1200x675.jpg"
+            "title": "New Takes on <i>Girl with a Pearl Earring</i>, an Ancient Bronze Returns to Turkey, and the Gold Toilet Whodunit",
+            "link": "https://www.nationalreview.com/2025/03/new-takes-on-girl-with-a-pearl-earring-an-ancient-bronze-returns-to-turkey-and-the-gold-toilet-whodunnit/",
+            "description": "In the news are smiles in The Hague and tears in Cleveland. Plus where did 227 pounds of gold go?",
+            "pubDate": "2025-03-01T11:30:38",
+            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/test-brian.jpg?fit=527%2C307&ssl=1"
         },
         {
             "title": "Luck vs. Skill: Great Investment Leaders Know the Difference",
@@ -213,6 +80,139 @@
             "description": "Our egos are hardwired to fall into the trap of confounding luck and skill. By recognizing the role of chance and reinforcing analytical discipline, i...",
             "pubDate": "2025-02-21T11:02:21",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Trump says Zelenskyy 'overplayed his hand' in White House meeting",
+            "link": "https://www.washingtontimes.com/news/2025/feb/28/trump-says-zelenskyy-overplayed-hand-white-house-meeting/?utm_source=RSS_Feed&utm_medium=RSS",
+            "description": "President Trump said Ukrainian President Volodymyr Zelenskyy's actions in the Oval Office showed that he is not focused on achieving peace for his cou...",
+            "pubDate": "2025-02-28T23:26:54",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/02/28/Trump_Zelenskyy_27904_s1440x1080.jpg?d091f0ac6a77bac1b6357990e6e1f57b58a17971"
+        },
+        {
+            "title": "Americans’ Trust In The Propaganda Press Has Literally Never Been Lower: Poll",
+            "link": "https://thefederalist.com/2025/02/28/americans-trust-in-the-propaganda-press-has-literally-never-been-lower-poll/?utm_source=rss&utm_medium=rss&utm_campaign=americans-trust-in-the-propaganda-press-has-literally-never-been-lower-poll",
+            "description": "36 percent of Americans say they have 'no trust at all' in the media to report 'fully, accurately and fairly' -- up from 6 percent in 1972.",
+            "pubDate": "2025-02-28T20:25:01",
+            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/Duh-Media-1200x675.png"
+        },
+        {
+            "title": "Blame game intensifies in Congress as government shutdown threat inches closer",
+            "link": "https://www.foxnews.com/politics/blame-game-intensifies-congress-government-shutdown-threat-inches-closer",
+            "description": "Democrats and Republicans are already pointing fingers over a potential government shutdown next month. Republicans may pass a short-term extension of...",
+            "pubDate": "2025-03-01T09:00:37",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/07/931/523/jeffries-johnson-1.jpg?ve=1&tl=1"
+        },
+        {
+            "title": "Here's what happened during President Donald Trump's 6th week in office",
+            "link": "https://www.foxnews.com/politics/heres-what-happened-during-president-donald-trumps-6th-week-office",
+            "description": "The Trump administrations efforts to broker a peace negotiation ending the war in Ukraine came to an abrupt halt on Friday.",
+            "pubDate": "2025-03-01T09:00:49",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/trump-zelenskyy-oval-office.jpg?ve=1&tl=1"
+        },
+        {
+            "title": "A Good Start by Tulsi Gabbard",
+            "link": "https://www.nationalreview.com/2025/03/a-good-start-by-tulsi-gabbard/",
+            "description": "She got the first big thing right: protecting our technology industry and all Americans from the Luddite demands of Britain’s Labour government.",
+            "pubDate": "2025-03-01T11:30:13",
+            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/tulsi-gabbard-2.jpg?fit=527%2C307&ssl=1"
+        },
+        {
+            "title": "Texas lawmaker proposes bill to ban gender transition treatment for everyone, including adults",
+            "link": "https://www.foxnews.com/politics/texas-lawmaker-proposes-bill-ban-gender-transition-treatment-everyone-including-adults",
+            "description": "A Texas state lawmaker introduced a bill to amend the state's ban on gender transition procedures or treatment for minors to also apply to adults.",
+            "pubDate": "2025-03-01T06:04:13",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/01/931/523/Texas-State-Capitol.jpg?ve=1&tl=1"
+        },
+        {
+            "title": "It Isn’t A ‘Crisis’ For Trump To Fire Flag Officers, It’s A Crisis To Think He Can’t",
+            "link": "https://thefederalist.com/2025/02/28/it-isnt-a-crisis-for-trump-to-fire-flag-officers-its-a-crisis-to-think-he-cant/?utm_source=rss&utm_medium=rss&utm_campaign=it-isnt-a-crisis-for-trump-to-fire-flag-officers-its-a-crisis-to-think-he-cant",
+            "description": "Trump's decision to fire flag officers isn’t a break with American law and tradition. The warning about a crisis is the crisis.",
+            "pubDate": "2025-02-28T20:19:04",
+            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/The-White-House-P20250222JB-0828-2-1200x675.jpg"
+        },
+        {
+            "title": "Unilever’s woes in Indonesia carry a warning for its new CEO",
+            "link": "https://fortune.com/asia/2025/03/01/new-unilever-ceo-fernando-fernandez-indonesia/",
+            "description": "Unilever’s local rivals’ “game is simple: just cut the price,” said Willy Goutama, an equity analyst at PT Maybank Sekuritas Indonesia.",
+            "pubDate": "2025-03-01T06:20:30",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/03/GettyImages-2048711238-e1740809840452.jpg?w=2048"
+        },
+        {
+            "title": "What Trump's order making English the official language in the U.S. could mean",
+            "link": "https://www.washingtontimes.com/news/2025/feb/28/donald-trumps-order-making-english-official-language-us-could-mean/?utm_source=RSS_Feed&utm_medium=RSS",
+            "description": "As President Donald Trump is expected to sign an executive order designating English as the official language of the United States, activists and advo...",
+            "pubDate": "2025-02-28T22:50:30",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/02/28/Trump_English_Official_Language_72066_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "Bank Runs and Liquidity Crises: Insights from the Diamond-Dybvig Model",
+            "link": "https://blogs.cfainstitute.org/investor/2025/02/24/bank-runs-and-liquidity-crises-insights-from-the-diamond-dybvig-model/",
+            "description": "This blog explores the mechanics of bank runs -- why they happen even in the absence of fundamental financial distress, and how central banks can inte...",
+            "pubDate": "2025-02-24T11:33:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Beyond the Marketing Pitch: Understanding Hedge Fund Risks and Returns",
+            "link": "https://blogs.cfainstitute.org/investor/2025/02/27/beyond-the-marketing-pitch-understanding-hedge-fund-risks-and-returns/",
+            "description": "Hedge funds can serve as legitimate diversifiers, but blind allocation is risky. Traditional risk measures like standard deviation and correlation don...",
+            "pubDate": "2025-02-27T11:38:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "In Oval Office Temper Tantrum, Zelensky Blows Up Peace Talks",
+            "link": "https://thefederalist.com/2025/02/28/in-oval-office-temper-tantrum-zelensky-blows-up-peace-talks/?utm_source=rss&utm_medium=rss&utm_campaign=in-oval-office-temper-tantrum-zelensky-blows-up-peace-talks",
+            "description": "Trump and Vance told Zelensky he is in no position to make demands of the U.S. government after the Ukrainian leader attempted to strong-arm the Unite...",
+            "pubDate": "2025-02-28T20:26:04",
+            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/IMG_2961-1200x675.jpg"
+        },
+        {
+            "title": "The FBI Raided Her Home by Mistake. Will the Supreme Court Provide Justice?",
+            "link": "https://www.nationalreview.com/2025/03/the-fbi-raided-her-home-by-mistake-will-the-supreme-court-provide-justice/",
+            "description": "Denied appeal by lower courts for a SWAT raid gone wrong at her house, Atlanta mom Trina Martin now seeks recompense at the nation’s highest court.",
+            "pubDate": "2025-03-01T11:30:26",
+            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/10/fbi-police-hoover-building.jpg?fit=527%2C307&ssl=1"
+        },
+        {
+            "title": "Trump staffers load boxes of items seized by FBI in 2022 Mar-a-Lago raid onto Air Force One",
+            "link": "https://www.foxnews.com/politics/trump-staffers-load-boxes-taken-fbi-2022-mar-a-lago-raid-onto-air-force-one",
+            "description": "President Trump's staff loaded boxes of items taken from his home in Florida during an FBI raid in 2022 onto Air Force One at Joint Base Andrew Friday...",
+            "pubDate": "2025-03-01T02:57:57",
+            "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/trump-boxes-af1.gif"
+        },
+        {
+            "title": "Six years ago 23andMe was worth $6 billion. Now CEO Anne Wojcicki is trying to buy it back for $75 million",
+            "link": "https://fortune.com/2025/03/01/23andme-buy-back-attempt-board-experts-shareholder-questions-anne-wojcicki/",
+            "description": "Experts say the CEO’s second attempt to buy back the troubled DNA startup comes with a slew of corporate governance red flags.",
+            "pubDate": "2025-03-01T09:00:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/02/Anne-Wojcicki-GettyImages-1205639908-e1740786492614.jpg?w=2048"
+        },
+        {
+            "title": "Georgia committee that has pursued Fani Willis now wants to investigate Stacey Abrams",
+            "link": "https://www.washingtontimes.com/news/2025/feb/28/georgia-committee-pursued-da-fani-willis-wants-investigate-stacey/?utm_source=RSS_Feed&utm_medium=RSS",
+            "description": "A Georgia state Senate committee pursuing a thus-far fruitless investigation of Fulton County District Attorney Fani Willis wants to add Stacey Abrams...",
+            "pubDate": "2025-02-28T22:26:52",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/02/28/Election_2026_Georgia_Governor_86350_s1440x963.jpg?6fb357e90856e447e826abad217089687abef4b1"
+        },
+        {
+            "title": "Stop Blaming America First. Europe Lost the War",
+            "link": "https://www.nationalreview.com/2025/02/stop-blaming-america-first-europe-lost-the-war/",
+            "description": "Americans, knowing in their bones that democracy and republican government can be imperiled by global affinities, are naturally pulling away in disgus...",
+            "pubDate": "2025-03-01T02:21:09",
+            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/trump-zelensky2.jpg?fit=527%2C307&ssl=1"
+        },
+        {
+            "title": "Zelensky Isn’t Serious About Making A Peace Deal",
+            "link": "https://thefederalist.com/2025/02/28/zelensky-isnt-serious-about-making-a-peace-deal/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-isnt-serious-about-making-a-peace-deal",
+            "description": "Volodymyr Zelensky squandered an opportunity and his people will continue to die if he doesn't learn to show some humility and gratitude.",
+            "pubDate": "2025-02-28T21:32:44",
+            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/Zelensky-Trump-1200x675.png"
+        },
+        {
+            "title": "Trump Administration Will ‘Take Action’ If Keir Starmer-Led U.K. Censors Americans",
+            "link": "https://thefederalist.com/2025/02/28/trump-administration-will-take-action-if-keir-starmer-led-u-k-censors-americans/?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-will-take-action-if-keir-starmer-led-u-k-censors-americans",
+            "description": "Recently, Vance pointed out that many European countries censor their own citizens because they are afraid of them.",
+            "pubDate": "2025-02-28T21:24:05",
+            "image_url": "https://thefederalist.com/wp-content/uploads/2025/02/IMG_2952-1200x675.jpg"
         }
     ]
 }

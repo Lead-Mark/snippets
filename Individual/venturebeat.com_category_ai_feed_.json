@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-02-28T11:17:42.129792",
+    "lastBuildDate": "2025-03-01T07:55:02.673385",
     "items": [
+        {
+            "title": "GPT-4.5 for enterprise: Do its accuracy and knowledge justify the cost?",
+            "link": "https://venturebeat.com/ai/gpt-4-5-for-enterprise-do-its-accuracy-and-knowledge-justify-the-cost/",
+            "description": "The price of GPT-4.5 is very steep. But it doesn't mean that it's a failure (or that it will always be so expensive).",
+            "pubDate": "2025-02-28T21:52:48",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/Rich-robot.jpeg?w=578"
+        },
         {
             "title": "Semantic understanding, not just vectors: How Intuit’s data architecture powers agentic AI with measurable ROI",
             "link": "https://venturebeat.com/ai/semantic-understanding-not-just-vectors-how-intuits-data-architecture-powers-agentic-ai-with-measurable-roi/",
@@ -30,14 +37,7 @@
             "link": "https://venturebeat.com/games/playerunknown-productions-reveals-trailer-for-emergent-open-world-survival-game/",
             "description": "PUBG creator Brendan Greene is back with a trailer for Prologue: Go Wayback, which will hit Steam early access this summer.",
             "pubDate": "2025-02-27T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Qodo’s open code embedding model sets new enterprise standard, beating OpenAI, Salesforce",
-            "link": "https://venturebeat.com/programming-development/qodos-open-code-embedding-model-sets-new-enterprise-standard-beating-openai-salesforce/",
-            "description": "The 1.5B-parameter Qodo-Embed-1-1.5B is available on Hugging Face under the OpenRAIL++-M license, allowing developers to integrate it freely",
-            "pubDate": "2025-02-27T15:00:24",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/cfr0z3n_minimalist_polygonal_simple_flat_illustration_side_prof_91b76de4-edfd-4921-bbe6-8ba064da5714.png?w=578"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }
