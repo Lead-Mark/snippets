@@ -2,49 +2,42 @@
     "title": "MYB",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from MYB, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-01T07:55:04.913315",
+    "lastBuildDate": "2025-03-01T21:50:46.610800",
     "items": [
+        {
+            "title": "The lonely unicorn",
+            "link": "https://seths.blog/2025/02/the-lonely-unicorn/",
+            "description": "That’s not what usually happens. If there’s at least one unicorn in the world, it’s likely not the only one. And if one can make a valid English word ...",
+            "pubDate": "2025-02-28T09:35:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "More From Chicago: Protecting Artists, Free Speech And The Meaning Of Education",
+            "link": "https://www.forbes.com/sites/johnwerner/2025/03/01/more-from-chicago-protecting-artists-free-speech-and-the-meaning-of-education/",
+            "description": "There are some weighty ideas that will help us get closer to equipping the next generation of professionals.",
+            "pubDate": "2025-03-02T00:51:31",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c3ab8ae75dfcf44836c567/0x0.jpg?width=960"
+        },
         {
             "title": "At the speed of judgment",
             "link": "https://seths.blog/2025/02/at-the-speed-of-judgment/",
             "description": "Getting to the conference in Santa Fe isn’t difficult. Someone will drive/fly you there. The hard part is deciding to go. And yet, it might take 8 hou...",
             "pubDate": "2025-02-26T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Long-term selfish (and the circles of us and now)",
-            "link": "https://seths.blog/2025/02/kinds-of-selfish/",
-            "description": "Whenever we make a choice, we do our best. We make a decision based on our interests. In other words, it’s selfish. So what makes a choice a selfish a...",
-            "pubDate": "2025-02-25T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "When Do The Clocks Change? When Daylight Savings Time Begins In March",
-            "link": "https://www.forbes.com/sites/jamiecartereurope/2025/03/01/when-do-the-clocks-change-when-daylight-savings-time-begins-in-march/",
-            "description": "Clocks \"spring forward\" in the U.S. and Canada on March 9 and in the U.K. and Europe on March 30, 2025. Here's exactly when — and why we have Daylight...",
-            "pubDate": "2025-03-01T10:00:00",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c1ec15529b18b731b2ae3d/0x0.jpg?width=960"
-        },
-        {
-            "title": "Book Review: ‘The Infinite Retina’ (Second Edition) By Irena Cronin And Robert Scoble",
-            "link": "https://www.forbes.com/sites/charliefink/2025/03/01/book-review-the-infinite-retina-second-edition-by-irena-cronin-and-robert-scoble/",
-            "description": "'The Infinite Retina' (2nd Ed.) explores Spatial Computing, AI, and XR’s impact on seven industries. A bold, sweeping vision—compelling, insightful, a...",
-            "pubDate": "2025-03-01T08:36:45",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c2c626abafe95d739f23aa/0x0.jpg?width=960"
-        },
-        {
-            "title": "Figma Link ‘Tears Of The Kingdom’ Toy Review: Just Astonishingly Good",
-            "link": "https://www.forbes.com/sites/olliebarder/2025/03/01/figma-link-tears-of-the-kingdom-toy-review-just-astonishingly-good/",
-            "description": "It’s been a while since I reviewed a 'Zelda' action figure, but this new Link figma from 'Tears of the Kingdom' is exceptional.",
-            "pubDate": "2025-03-01T11:23:13",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c2e82caefdba6e3015d005/0x0.jpg?width=960"
+            "title": "Forget Chrome—Google Apps Start Tracking Your Phone, ‘No Opt Out’",
+            "link": "https://www.forbes.com/sites/zakdoffman/2025/03/01/forget-chrome-google-apps-start-tracking-your-phone-no-opt-out/",
+            "description": "‘This is wrong’ — how you’re being tracked.",
+            "pubDate": "2025-03-01T23:37:11",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/677ee5daf78ee891fe5fd017/0x0.jpg?width=960&precrop=2260%2C1272%2Cx392%2Cy189"
         },
         {
             "title": "The Ikea metaphors",
             "link": "https://seths.blog/2025/03/the-ikea-metaphors/",
             "description": "",
             "pubDate": "2025-03-01T09:32:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Getting precise about tolerance",
@@ -54,25 +47,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "5,000 CAPTCHA Tests Used As Infostealer Gateways—Do Not Complete Them",
-            "link": "https://www.forbes.com/sites/daveywinder/2025/03/01/5000-captcha-tests-used-as-infostealer-gateways-do-not-complete-them/",
-            "description": "As 5,000 fake “I Am Not A Robot” tests are deployed as part of a large-scale password hacking campaign, users warned: Do not complete these CAPTCHA’s.",
-            "pubDate": "2025-03-01T11:44:50",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c2e9b93036bb3d6738c831/0x0.jpg?width=960"
+            "title": "Prompt Engineering For Advanced Multi-Agent AI Prompting",
+            "link": "https://www.forbes.com/sites/lanceeliot/2025/03/01/prompt-engineering-for-advanced-multi-agent-ai-prompting/",
+            "description": "Prompt engineering is devising best practices in prompting for multi-agent AI. Multi-agentic AI Is rising fast and will soon be predominant. Here's th...",
+            "pubDate": "2025-03-01T22:32:14",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67a8457b64f27e441e818d15/0x0.jpg?width=960&precrop=2516%2C1887%2Cx29%2Cy0"
         },
         {
-            "title": "The lonely unicorn",
-            "link": "https://seths.blog/2025/02/the-lonely-unicorn/",
-            "description": "That’s not what usually happens. If there’s at least one unicorn in the world, it’s likely not the only one. And if one can make a valid English word ...",
-            "pubDate": "2025-02-28T09:35:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Today’s ‘Wordle’ #1352 Hints, Clues And Answer For Sunday, March 2nd",
+            "link": "https://www.forbes.com/sites/erikkain/2025/03/01/todays-wordle-1352-hints-clues-and-answer-for-sunday-march-2nd/",
+            "description": "Looking for help with today's New York Times Wordle? Here are hints, clues and commentary to help you solve today's Wordle and sharpen your guessing g...",
+            "pubDate": "2025-03-02T02:30:51",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?width=960&precrop=2629%2C1480%2Cx0%2Cy131"
         },
         {
-            "title": "Northern Lights, A ‘Blood Moon’ And A Solar Eclipse: The Sky In March",
-            "link": "https://www.forbes.com/sites/jamiecartereurope/2025/03/01/northern-lights-a-blood-moon-and-a-solar-eclipse-the-sky-in-march/",
-            "description": "All the day and night sky highlights in March 2025, including a total lunar eclipse, and a deep partial solar eclipse, and a potential peak in aurora.",
-            "pubDate": "2025-03-01T11:00:00",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67ab94e0fe624f18b7ce6e38/0x0.jpg?width=960"
+            "title": "March is strategy month",
+            "link": "https://seths.blog/2025/03/march-is-strategy-month/",
+            "description": "January feels like the start of the year, but there’s always a hangover from the holidays. In the northern Hemisphere, February is dark and dreary and...",
+            "pubDate": "2025-03-01T16:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Today’s NYT Mini Crossword Clues And Answers For Sunday, March 2nd",
+            "link": "https://www.forbes.com/sites/erikkain/2025/03/01/todays-nyt-mini-crossword-clues-and-answers-for-sunday-march-2nd/",
+            "description": "Looking for help with today's NYT Mini Crossword puzzle? Here are some hints and answers for the puzzle.",
+            "pubDate": "2025-03-02T00:31:38",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/66ad93159698a3280d18584c/0x0.jpg?width=960"
         }
     ]
 }
