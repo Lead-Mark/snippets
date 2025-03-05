@@ -2,49 +2,98 @@
     "title": "SevenAtSevenSection1",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-04T14:56:36.293774",
+    "lastBuildDate": "2025-03-05T06:35:39.986807",
     "items": [
+        {
+            "title": "Apple is challenging U.K.’s iCloud encryption backdoor order",
+            "link": "https://techcrunch.com/2025/03/05/apple-is-challenging-u-k-s-icloud-encryption-backdoor-order/",
+            "description": "Apple is challenging a U.K. Government data access order in the Investigatory Powers Tribunal (IPT), the Financial Times reports. The order targeted i...",
+            "pubDate": "2025-03-05T08:59:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "The Tax-Free Retirement Strategy 95% of Americans Don’t Know About",
+            "link": "https://www.biggerpockets.com/blog/money-612",
+            "description": "The wealthy are using one unique retirement account to build their fortunes tax-free. You may have never heard of it, but knowing about it can change ...",
+            "pubDate": "2025-03-04T12:00:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Senate panel questions Trump nominee to lead National Institutes of Health",
+            "link": "https://apnews.com/article/nih-trump-bhattacharya-health-medicine-research-e0bbe375b498daccfcdcd1a1242d1b94",
+            "description": "",
+            "pubDate": "2025-03-05T06:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Darwinbox, the HR upstart from India, raises $140M to take on Deel and Rippling",
+            "link": "https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/",
+            "description": "Darwinbox, an Indian startup building a SaaS platform for hiring, onboarding and employee administration, has raised $140 million to take on the likes...",
+            "pubDate": "2025-03-05T08:39:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "'God walks with us through the ashes.' A poignant Ash Wednesday after LA wildfires",
+            "link": "https://www.npr.org/2025/03/05/nx-s1-5292449/god-walks-with-us-through-the-ashes-a-poignant-ash-wednesday-after-la-wildfires",
+            "description": "On Ash Wednesday, Christians hear the words \"Remember that you are dust and to dust you shall return.\" Those words ring differently for many whose chu...",
+            "pubDate": "2025-03-05T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1200+0+0/resize/1600x1200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F09%2F85d950d24621b9619c4260a2b300%2Fash-wednesday-1.jpg"
+        },
+        {
+            "title": "ARM to sign $250M chip deal with Malaysia",
+            "link": "https://techcrunch.com/2025/03/05/arm-to-sign-250m-chip-deal-with-malaysia/",
+            "description": "The SoftBank-backed chipmaker has signed an agreement with the Malaysian government to bolster the country's chip design ecosystem. © 2024 TechCrunch....",
+            "pubDate": "2025-03-05T11:29:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "CoreWeave acquires AI developer platform Weights & Biases",
+            "link": "https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/",
+            "description": "Nvidia-backed data center company CoreWeave has acquired AI developer platform Weights & Biases for an undisclosed sum. According to The Information, ...",
+            "pubDate": "2025-03-05T07:37:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Despite weather concerns, New Orleans celebrates Mardi Gras Day and bids farewell to Carnival season",
+            "link": "https://apnews.com/article/mardi-gras-new-orleans-parades-weather-70fcfa4f36d72526ea6b616ff067fd04",
+            "description": "",
+            "pubDate": "2025-03-04T00:02:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "6 takeaways from Trump's pointedly partisan address to Congress",
+            "link": "https://www.npr.org/2025/03/05/nx-s1-5318104/trump-joint-address-congress-takeaways",
+            "description": "After a firehose of a first six weeks back in the White House, President Trump delivered a boastful and partisan address to a joint session of Congres...",
+            "pubDate": "2025-03-05T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3485+0+0/resize/5000x3485!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Ff3%2Ff795072b451b8605a781b33f65a1%2Fgettyimages-2202771545.jpg"
+        },
+        {
+            "title": "From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste",
+            "link": "https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/",
+            "description": "A U.K. startup, originating from founder Jacob Nathan’s high school science project on using enzymes to break down plastic waste, has secured an overs...",
+            "pubDate": "2025-03-05T08:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "In Key West, testing shows cruise ships stir up as much sediment as a hurricane",
+            "link": "https://www.npr.org/2025/03/05/nx-s1-5294512/key-west-cruise-ships-sediment-testing",
+            "description": "Tests in Key West show sediment stirred up by cruise ships, which can harm marine life, routinely exceed federal standards. Key West has responded by ...",
+            "pubDate": "2025-03-05T09:22:53",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F7c%2F0a0e45c84e158dd2b86838b28571%2Fgettyimages-1240036817.jpg"
+        },
         {
             "title": "Build-to-Rent: A Pathway to Long-Term Growth and Stability for Investors",
             "link": "https://www.biggerpockets.com/blog/build-to-rent-is-a-pathway-to-long-term-growth-and-stability-for-investors",
             "description": "The real estate market is continuously evolving, and one of the most significant shifts in recent years has been the growing demand for build-to-rent ...",
             "pubDate": "2025-03-04T19:14:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Powerful US storm threatens to create a blizzard, tornadoes and fires",
+            "link": "https://apnews.com/article/tornadoes-storms-mardi-gras-rescheduled-579b9ec79b2c5f08e977e018a73aab81",
+            "description": "Powerful storms have killed two people in Mississippi, torn the roofs off an apartment building and a nursing home in Oklahoma and threatened communit...",
+            "pubDate": "2025-03-04T00:12:27",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "West Texans, Mennonites at center of measles outbreak choose medical freedom over vaccine mandates",
-            "link": "https://apnews.com/article/measles-outbreak-texas-rfk-vaccines-8cf4641b04731c713edb524ca943490c",
-            "description": "",
-            "pubDate": "2025-03-04T06:17:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Canada and China say the fentanyl crisis is only a 'pretext' for Trump's new tariffs",
-            "link": "https://www.npr.org/2025/03/04/nx-s1-5317494/tariffs-fentanyl-canada-mexico-trump",
-            "description": "Canadian and Chinese officials say they were already helping reduce fentanyl smuggling. Prime Minister Justin Trudeau said fentanyl crossing the north...",
-            "pubDate": "2025-03-04T15:31:12",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6417x4278+0+0/resize/6417x4278!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2Ff0%2F381011b745b08b1868e9c567ad10%2Fgettyimages-2197523243.jpg"
-        },
-        {
-            "title": "U.S. stock markets plunge as Trump's tariffs spark fears about a trade war",
-            "link": "https://www.npr.org/2025/03/04/nx-s1-5317515/u-s-stock-markets-plunge-trump-tariffs-canada-mexico-china",
-            "description": "U.S. stock markets plummeted on Tuesday morning as a new global trade war began.",
-            "pubDate": "2025-03-04T16:06:37",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4112x2790+0+0/resize/4112x2790!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F23%2F294cbe004e778fd147eab607c2dd%2Fgettyimages-2202696767.jpg"
-        },
-        {
-            "title": "Google still limits how Gemini answers political questions",
-            "link": "https://techcrunch.com/2025/03/04/google-still-limits-how-gemini-answers-political-questions/",
-            "description": "While several of Google’s rivals, including OpenAI, have tweaked their AI chatbots to discuss politically sensitive subjects in recent months, Google ...",
-            "pubDate": "2025-03-04T19:25:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Klarna CEO doubts that other companies will replace Salesforce with AI",
-            "link": "https://techcrunch.com/2025/03/04/klarna-ceo-doubts-that-other-companies-will-replace-salesforce-with-ai/",
-            "description": "The founder and CEO of IPO-bound fintech Klarna took to X to once again explain why his company ditched Salesforce’s flagship CRM product about a year...",
-            "pubDate": "2025-03-04T19:30:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Have We Entered a “Landlord-Friendly” Era?",
@@ -54,81 +103,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Q&A: Early Retirement Doesn’t Equal “Done”—It’s a Pivot",
-            "link": "https://www.biggerpockets.com/blog/early-retirement-doesnt-equal-done-how-this-2-million-dollar-couple-is-realizing-that",
-            "description": "Below is an email transcript from a BiggerPockets Money listener who sent me a message about their personal financial situation and wanted my insights...",
-            "pubDate": "2025-03-03T22:34:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The CFPB drops its case against payment app Zelle, in another sign of a Trump pivot",
-            "link": "https://www.npr.org/2025/03/04/nx-s1-5317679/cfpb-drops-zelle-lawsuit",
-            "description": "It's the latest lawsuit abandoned by the Consumer Financial Protection Bureau since Trump appointees have taken over at the bureau.",
-            "pubDate": "2025-03-04T19:36:28",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1796x1265+0+0/resize/1796x1265!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F2b%2F69c62a944d15ba831f61f05f0add%2Fgettyimages-1552137439-copy.jpg"
-        },
-        {
-            "title": "The Tax-Free Retirement Strategy 95% of Americans Don’t Know About",
-            "link": "https://www.biggerpockets.com/blog/money-612",
-            "description": "The wealthy are using one unique retirement account to build their fortunes tax-free. You may have never heard of it, but knowing about it can change ...",
-            "pubDate": "2025-03-04T12:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Vance's comments about European peacekeeping plan for Ukraine draw ire abroad",
-            "link": "https://www.npr.org/2025/03/04/nx-s1-5317553/jd-vance-europe-ukraine-fox",
-            "description": "Vice President Vance said the best security guarantee for Ukraine is to sign a mineral deal with the United States.",
-            "pubDate": "2025-03-04T16:23:07",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+3/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F9b%2F4ca1588a40daa3d3843aa89bad1e%2Fgettyimages-2202534414.jpg"
-        },
-        {
-            "title": "OpenAI chairman Bret Taylor lays out the bull case for AI agents",
-            "link": "https://techcrunch.com/2025/03/04/openai-chairman-bret-taylor-lays-out-the-bull-case-for-ai-agents/",
-            "description": "We still didn’t get a straight-up definition of exactly what an AI agent is during Bret Taylor’s Mobile World Congress fireside chat in Barcelona on T...",
-            "pubDate": "2025-03-04T18:06:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Despite weather concerns, New Orleans celebrates Mardi Gras Day and bids farewell to Carnival season",
-            "link": "https://apnews.com/article/mardi-gras-new-orleans-parades-weather-70fcfa4f36d72526ea6b616ff067fd04",
-            "description": "Thousands of revelers in outlandish costumes filled the streets of New Orleans as the city celebrated Mardi Gras Day despite the threat of storms.",
-            "pubDate": "2025-03-04T00:02:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Amazon is reportedly developing its own AI ‘reasoning’ model",
-            "link": "https://techcrunch.com/2025/03/04/amazon-is-reportedly-developing-its-own-ai-reasoning-model/",
-            "description": "Amazon reportedly wants to get in on the AI “reasoning” model game. According to Business Insider, Amazon is developing an AI model that incorporates ...",
-            "pubDate": "2025-03-04T19:27:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Fargo has an election method that helps mainstream candidates. North Dakota lawmakers may ban it",
-            "link": "https://apnews.com/article/fargo-north-dakota-voting-democracy-bdda17efb891a5f910423394d554c41e",
-            "description": "",
-            "pubDate": "2025-03-04T14:07:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "American businesses reel as Trump tariffs start to bite",
-            "link": "https://www.npr.org/2025/03/04/nx-s1-5316843/trump-tariffs-canada-mexico-us",
-            "description": "Business owners across the country worry they will also suffer the impact from President Trump's tariffs on imports from Mexico, Canada and China.",
-            "pubDate": "2025-03-04T19:10:39",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5843x3895+0+0/resize/5843x3895!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2Fcf%2Fa6ea9ee349f38a7268586e570c71%2Fgettyimages-2196530421.jpg"
-        },
-        {
             "title": "5 Investments You Can’t Hold in an IRA",
             "link": "https://www.biggerpockets.com/blog/investments-you-cannot-hold-in-an-ira",
             "description": "Real estate investors are increasingly looking for ways to grow their portfolios, and self-directed IRAs offer a way to invest in real estate while de...",
             "pubDate": "2025-03-03T20:39:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Hackers launder most of Bybit’s stolen crypto worth $1.4B",
-            "link": "https://techcrunch.com/2025/03/04/hackers-launder-most-of-bybits-stolen-crypto-worth-1-4-billion/",
-            "description": "Experts note that this is just the first step for the alleged North Korean hackers to profit from the historic heist. © 2024 TechCrunch. All rights re...",
-            "pubDate": "2025-03-04T19:23:49",
+            "title": "Q&A: Early Retirement Doesn’t Equal “Done”—It’s a Pivot",
+            "link": "https://www.biggerpockets.com/blog/early-retirement-doesnt-equal-done-how-this-2-million-dollar-couple-is-realizing-that",
+            "description": "Below is an email transcript from a BiggerPockets Money listener who sent me a message about their personal financial situation and wanted my insights...",
+            "pubDate": "2025-03-03T22:34:56",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Consumers can buy Zepbound direct from the drugmaker if they'll pay out of pocket",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/03/05/nx-s1-5308603/zepbound-eli-lilly-direct-cost",
+            "description": "Eli Lilly is offering vials of its obesity drug Zepbound to patients at a discount — but only if they skip their insurance.",
+            "pubDate": "2025-03-05T10:15:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2122x1412+0+0/resize/2122x1412!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F81%2Ff6977ccf450dab79ae2082d1db1a%2Fgettyimages-1255378748.jpg"
+        },
+        {
+            "title": "Dear Life Kit: My friend texts me way too much. How do I get her to stop?",
+            "link": "https://www.npr.org/2025/03/05/nx-s1-5308309/dear-life-kit-my-friend-texts-me-way-too-much-how-do-i-get-her-to-stop",
+            "description": "An NPR listener says her friend pings her morning, noon and night, even if she doesn't respond. She'd like to say something, but she's afraid it will ...",
+            "pubDate": "2025-03-05T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F1b%2F588656374b81b60e4ce5c5bc5472%2Flk-dlk-texting-gettyimages-1706550580-copy-lk-colors.jpg"
         }
     ]
 }
