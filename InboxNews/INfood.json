@@ -2,7 +2,7 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-05T14:15:48.133767",
+    "lastBuildDate": "2025-03-06T06:54:48.130528",
     "items": [
         {
             "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
@@ -17,27 +17,6 @@
             "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
             "pubDate": "2025-02-25T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
-        },
-        {
-            "title": "Hungarian Cabbage Rolls",
-            "link": "https://therecipecritic.com/hungarian-cabbage-rolls/",
-            "description": "Hungarian cabbage rolls are packed with rich, hearty flavors in every bite! I know you love a good cabbage roll…",
-            "pubDate": "2025-03-03T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/hungarian-cabbage-.jpg"
-        },
-        {
-            "title": "Colcannon Soup",
-            "link": "https://therecipecritic.com/colcannon-soup/",
-            "description": "Colcannon soup is a creamy, luscious soup inspired by the traditional Irish dish that is made with potatoes, cabbage, kale,…",
-            "pubDate": "2025-03-05T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/colcannons-soup-2.jpg"
-        },
-        {
-            "title": "Hawaiian Roll French Toast",
-            "link": "https://therecipecritic.com/hawaiian-roll-french-toast/",
-            "description": "Hawaiian Roll French Toast is a fun twist on the classic, with sweet, buttery rolls that stay soft inside and…",
-            "pubDate": "2025-03-02T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/hawaiian-roll-french-toast-.jpg"
         },
         {
             "title": "Slow Cooker Honey Teriyaki Chicken",
@@ -61,11 +40,32 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2014/12/breakfastcasserole-1.jpg"
         },
         {
+            "title": "Colcannon Soup",
+            "link": "https://therecipecritic.com/colcannon-soup/",
+            "description": "Colcannon soup is a creamy, luscious soup inspired by the traditional Irish dish that is made with potatoes, cabbage, kale,…",
+            "pubDate": "2025-03-05T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/colcannons-soup-2.jpg"
+        },
+        {
+            "title": "Hungarian Cabbage Rolls",
+            "link": "https://therecipecritic.com/hungarian-cabbage-rolls/",
+            "description": "Hungarian cabbage rolls are packed with rich, hearty flavors in every bite! I know you love a good cabbage roll…",
+            "pubDate": "2025-03-03T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/hungarian-cabbage-.jpg"
+        },
+        {
             "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
             "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
             "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
             "pubDate": "2025-02-18T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
+        },
+        {
+            "title": "Hawaiian Roll French Toast",
+            "link": "https://therecipecritic.com/hawaiian-roll-french-toast/",
+            "description": "Hawaiian Roll French Toast is a fun twist on the classic, with sweet, buttery rolls that stay soft inside and…",
+            "pubDate": "2025-03-02T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/hawaiian-roll-french-toast-.jpg"
         }
     ]
 }
