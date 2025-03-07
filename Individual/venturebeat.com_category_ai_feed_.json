@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-07T10:02:38.967534",
+    "lastBuildDate": "2025-03-07T13:01:53.141120",
     "items": [
+        {
+            "title": "How Yelp reviewed competing LLMs for correctness, relevance and tone to develop its user-friendly AI assistant",
+            "link": "https://venturebeat.com/ai/how-yelp-reviewed-competing-llms-for-correctness-relevance-and-tone-to-develop-its-user-friendly-ai-assistant/",
+            "description": "Yelp found that when it first launched a GPT-4o-powered AI chatbot, usage rates dropped. But training it to sound like a human changed that.",
+            "pubDate": "2025-03-07T17:54:27",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_looking_at_a_phone_app_for_res_4008bf89-38b4-4f5e-95c1-05072a193fdc.jpeg?w=578"
+        },
+        {
+            "title": "Mayo Clinic’s secret weapon against AI hallucinations: Reverse RAG in action",
+            "link": "https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/",
+            "description": "To tackle data-retrieval-based hallucinations in non-diagnostic use cases, Mayo Clinic has applied CURE reverse RAG paired with vector databases.",
+            "pubDate": "2025-03-07T16:31:35",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/a-vector-art-of-an-ai-model-wearing-a-do_Lq_CQUBoRA-YvNRraZ1AYQ_S5nWTg8jR8O78NOJKAtl5w.jpeg?w=578"
+        },
         {
             "title": "Infinite Realms turns fantasy books into living, breathing game worlds with help of AI",
             "link": "https://venturebeat.com/games/infinite-realms-turns-fantasy-books-into-living-breathing-game-worlds-with-help-of-ai/",
@@ -24,20 +38,6 @@
             "description": "Anthropic launches upgraded Console with team prompt collaboration tools and Claude 3.7 Sonnet's extended thinking controls.",
             "pubDate": "2025-03-06T21:05:39",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/Prompt-Generator.jpg?w=578"
-        },
-        {
-            "title": "Peer raises $10.5M for metaverse engine, launches 3D personal planets",
-            "link": "https://venturebeat.com/games/peer-raises-10-5m-for-metaverse-engine-launches-3d-personal-planets/",
-            "description": "Peer announced today it's raised new funding to build its AI-powered metaverse engine and launched its \"personal planets\" feature.",
-            "pubDate": "2025-03-06T18:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "A standard, open framework for building AI agents is coming from Cisco, LangChain and Galileo",
-            "link": "https://venturebeat.com/ai/a-standard-open-framework-for-building-ai-agents-is-coming-from-cisco-langchain-and-galileo/",
-            "description": "The collective, called AGNTCY, aims to create a standard way for AI agents from different platforms and frameworks to talk to each other.",
-            "pubDate": "2025-03-06T17:41:59",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_robot_store_robots_in_business_suits__fb7a1c66-dfb8-49ed-9c91-185a83c54352.jpeg?w=578"
         }
     ]
 }
