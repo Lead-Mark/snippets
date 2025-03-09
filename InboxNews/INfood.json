@@ -2,7 +2,7 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-08T13:05:41.449556",
+    "lastBuildDate": "2025-03-09T06:05:03.060345",
     "items": [
         {
             "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
@@ -12,11 +12,39 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
         },
         {
-            "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
-            "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
-            "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
-            "pubDate": "2025-02-25T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
+            "title": "Guinness Brownies",
+            "link": "https://therecipecritic.com/guinness-brownies/",
+            "description": "Rich, fudgy, and packed with deep chocolate flavor, Guinness Brownies are a must-try for any dessert lover! The stout beer enhances…",
+            "pubDate": "2025-03-06T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/guiness-brownies-1.jpg"
+        },
+        {
+            "title": "Weekly Meal Plan #37",
+            "link": "https://therecipecritic.com/weekly-meal-plan-37/",
+            "description": "Looking for some tasty meals everyone in the family will actually eat? These 5 easy recipes are super yummy and…",
+            "pubDate": "2025-03-07T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/Week-37-Meal-Plan-Collage-.png"
+        },
+        {
+            "title": "Ground Turkey Tacos",
+            "link": "https://therecipecritic.com/ground-turkey-tacos/",
+            "description": "These ground turkey tacos are full of fiesta flavor, all with less fat! Don’t let ground turkey steer you away!…",
+            "pubDate": "2025-03-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/ground-turkey-tacos-1-2.jpg"
+        },
+        {
+            "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
+            "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
+            "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
+            "pubDate": "2025-02-18T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
+        },
+        {
+            "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
+            "link": "https://minimalistbaker.com/banana-chocolate-pecan-muffins-vegan-gf/",
+            "description": "Chocolate, banana, and pecans…this flavor combination is meant to be. And in a muffin? Truly magical ! These FLUFFY banana nut muffins are vegan , glu...",
+            "pubDate": "2025-01-21T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/1-Bowl-Vegan-Gluten-Free-Banana-Chocolate-Chip-Pecan-Muffins-5-680x1020.jpg"
         },
         {
             "title": "Colcannon Soup",
@@ -33,39 +61,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2018/02/beef-cabbage-soup-2.jpg"
         },
         {
-            "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
-            "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
-            "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
-            "pubDate": "2025-02-18T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
-        },
-        {
-            "title": "Guinness Brownies",
-            "link": "https://therecipecritic.com/guinness-brownies/",
-            "description": "Rich, fudgy, and packed with deep chocolate flavor, Guinness Brownies are a must-try for any dessert lover! The stout beer enhances…",
-            "pubDate": "2025-03-06T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/guiness-brownies-1.jpg"
-        },
-        {
-            "title": "Ground Turkey Tacos",
-            "link": "https://therecipecritic.com/ground-turkey-tacos/",
-            "description": "These ground turkey tacos are full of fiesta flavor, all with less fat! Don’t let ground turkey steer you away!…",
-            "pubDate": "2025-03-08T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/ground-turkey-tacos-1-2.jpg"
-        },
-        {
-            "title": "Weekly Meal Plan #37",
-            "link": "https://therecipecritic.com/weekly-meal-plan-37/",
-            "description": "Looking for some tasty meals everyone in the family will actually eat? These 5 easy recipes are super yummy and…",
-            "pubDate": "2025-03-07T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/Week-37-Meal-Plan-Collage-.png"
-        },
-        {
-            "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
-            "link": "https://minimalistbaker.com/banana-chocolate-pecan-muffins-vegan-gf/",
-            "description": "Chocolate, banana, and pecans…this flavor combination is meant to be. And in a muffin? Truly magical ! These FLUFFY banana nut muffins are vegan , glu...",
-            "pubDate": "2025-01-21T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/1-Bowl-Vegan-Gluten-Free-Banana-Chocolate-Chip-Pecan-Muffins-5-680x1020.jpg"
+            "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
+            "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
+            "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
+            "pubDate": "2025-02-25T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
         }
     ]
 }
