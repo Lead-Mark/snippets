@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-10T10:02:00.609937",
+    "lastBuildDate": "2025-03-10T13:01:37.032191",
     "items": [
+        {
+            "title": "Chain-of-experts (CoE): A lower-cost LLM framework that increases efficiency and accuracy",
+            "link": "https://venturebeat.com/ai/chain-of-experts-coe-a-lower-cost-llm-framework-that-increases-efficiency-and-accuracy/",
+            "description": "Chain-of-experts chains LLM experts in a sequence, outperforming mixture-of-experts (MoE) with lower memory and compute costs.",
+            "pubDate": "2025-03-10T16:49:11",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/07/mixture-of-millions-of-experts.jpg?w=578"
+        },
         {
             "title": "Nvidia has teamed up with Utah to improve AI education and workforce training",
             "link": "https://venturebeat.com/games/nvidia-has-teamed-up-with-utah-to-improve-ai-education-and-workforce-training/",
@@ -31,13 +38,6 @@
             "description": "To tackle data-retrieval-based hallucinations in non-diagnostic use cases, Mayo Clinic has applied CURE reverse RAG paired with vector databases.",
             "pubDate": "2025-03-07T16:31:35",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/a-vector-art-of-an-ai-model-wearing-a-do_Lq_CQUBoRA-YvNRraZ1AYQ_S5nWTg8jR8O78NOJKAtl5w.jpeg?w=578"
-        },
-        {
-            "title": "Infinite Realms turns fantasy books into living, breathing game worlds with help of AI",
-            "link": "https://venturebeat.com/games/infinite-realms-turns-fantasy-books-into-living-breathing-game-worlds-with-help-of-ai/",
-            "description": "Infinite Realms wants to turn beloved fantasy books with big followings into living, breathing game worlds.",
-            "pubDate": "2025-03-07T14:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/infinite-realms.jpg?w=578"
         }
     ]
 }

@@ -2,21 +2,14 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-10T10:01:05.201537",
+    "lastBuildDate": "2025-03-10T13:00:56.583740",
     "items": [
         {
-            "title": "Marry Me Mushrooms",
-            "link": "https://therecipecritic.com/marry-me-mushrooms/",
-            "description": "The key to making these Marry Me Mushrooms irresistibly flavorful is getting the perfect sear on the mushrooms. This locks…",
-            "pubDate": "2025-03-10T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/marry-me-mushrooms-hero.jpg"
-        },
-        {
-            "title": "Ground Turkey Tacos",
-            "link": "https://therecipecritic.com/ground-turkey-tacos/",
-            "description": "These ground turkey tacos are full of fiesta flavor, all with less fat! Don’t let ground turkey steer you away!…",
-            "pubDate": "2025-03-08T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/ground-turkey-tacos-1-2.jpg"
+            "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
+            "link": "https://minimalistbaker.com/chocolate-pot-de-creme-sweet-potato/",
+            "description": "Is this a safe space to admit we have a problem? Specifically an insatiable appetite for adding sweet potato to desserts? First we made brownies, then...",
+            "pubDate": "2025-02-04T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
         },
         {
             "title": "Cowboy Spaghetti",
@@ -24,6 +17,13 @@
             "description": "Cowboy spaghetti is the ultimate flavor packed meal! By cooking the beef and sauce in flavorful bacon renderings, every bite…",
             "pubDate": "2025-03-10T01:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/02/cowboy_spaghetti-2.jpg"
+        },
+        {
+            "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
+            "link": "https://minimalistbaker.com/banana-chocolate-pecan-muffins-vegan-gf/",
+            "description": "Chocolate, banana, and pecans…this flavor combination is meant to be. And in a muffin? Truly magical ! These FLUFFY banana nut muffins are vegan , glu...",
+            "pubDate": "2025-01-21T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/1-Bowl-Vegan-Gluten-Free-Banana-Chocolate-Chip-Pecan-Muffins-5-680x1020.jpg"
         },
         {
             "title": "Best Ever Beef and Cabbage Soup",
@@ -40,13 +40,6 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
         },
         {
-            "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
-            "link": "https://minimalistbaker.com/chocolate-pot-de-creme-sweet-potato/",
-            "description": "Is this a safe space to admit we have a problem? Specifically an insatiable appetite for adding sweet potato to desserts? First we made brownies, then...",
-            "pubDate": "2025-02-04T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
-        },
-        {
             "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
             "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
             "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
@@ -54,11 +47,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
         },
         {
-            "title": "1-Bowl Banana Chocolate Pecan Muffins (Vegan + GF)",
-            "link": "https://minimalistbaker.com/banana-chocolate-pecan-muffins-vegan-gf/",
-            "description": "Chocolate, banana, and pecans…this flavor combination is meant to be. And in a muffin? Truly magical ! These FLUFFY banana nut muffins are vegan , glu...",
-            "pubDate": "2025-01-21T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/04/1-Bowl-Vegan-Gluten-Free-Banana-Chocolate-Chip-Pecan-Muffins-5-680x1020.jpg"
+            "title": "Marry Me Mushrooms",
+            "link": "https://therecipecritic.com/marry-me-mushrooms/",
+            "description": "You guys love my marry me recipes and you go crazy over all my mushrooms so I wanted to “marry”…",
+            "pubDate": "2025-03-10T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/marry-me-mushrooms-hero.jpg"
         },
         {
             "title": "Irish Brown Bread",
@@ -66,6 +59,13 @@
             "description": "Irish Brown Bread is a delicious twist on classic soda bread, offering a slightly sweet, rich, and hearty flavor. It…",
             "pubDate": "2025-03-09T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/irish-brown-bread-1.jpg"
+        },
+        {
+            "title": "Ground Turkey Tacos",
+            "link": "https://therecipecritic.com/ground-turkey-tacos/",
+            "description": "These ground turkey tacos are full of fiesta flavor, all with less fat! Don’t let ground turkey steer you away!…",
+            "pubDate": "2025-03-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/ground-turkey-tacos-1-2.jpg"
         }
     ]
 }
