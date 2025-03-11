@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-10T13:01:37.027269",
+    "lastBuildDate": "2025-03-11T06:10:37.273762",
     "items": [
+        {
+            "title": "The cheapest way to supercharge America’s power grid",
+            "link": "https://www.technologyreview.com/2025/03/10/1112904/the-cheapest-way-to-supercharge-americas-power-grid/",
+            "description": "US electricity consumption is rising faster than it has in decades, thanks in part to the boom in data center development, the resurgence in manufactu...",
+            "pubDate": "2025-03-10T13:22:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
         {
             "title": "The Download: supercharging the power grid, and a new Chinese AI agent",
             "link": "https://www.technologyreview.com/2025/03/10/1112944/the-download-supercharging-the-power-grid-and-a-new-chinese-ai-agent/",
@@ -12,53 +19,32 @@
             "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeeJll0a-NvT68jf5ZkJtgEgFF9GnsGbNWcDMwiu6Vw6lGzMXcee_MLksSgZB2ryeGz6Gx3HyIurJ7FrYzLzgiqu6X8OqlNnQEBSWIx-aoYmotktm17gbPD7u-BzWfW0RMZhU1Y?key=EvtV5XRkdJrEDa7cKsFnbTUr"
         },
         {
-            "title": "How Yelp reviewed competing LLMs for correctness, relevance and tone to develop its user-friendly AI assistant",
-            "link": "https://venturebeat.com/ai/how-yelp-reviewed-competing-llms-for-correctness-relevance-and-tone-to-develop-its-user-friendly-ai-assistant/",
-            "description": "Yelp found that when it first launched a GPT-4o-powered AI chatbot, usage rates dropped. But training it to sound like a human changed that.",
-            "pubDate": "2025-03-07T17:54:27",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_looking_at_a_phone_app_for_res_4008bf89-38b4-4f5e-95c1-05072a193fdc.jpeg?w=578"
+            "title": "GenLayer offers novel approach for AI agent transactions: getting multiple LLMs to vote on a suitable contract",
+            "link": "https://venturebeat.com/ai/genlayer-offers-novel-approach-for-ai-agent-transactions-getting-multiple-llms-to-vote-on-a-suitable-contract/",
+            "description": "GenLayer is betting that AI-driven contracts, enforced on the blockchain, will be the foundation for a trillion-dollar marketplace.",
+            "pubDate": "2025-03-11T00:07:31",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/man-typing-colorful-money.png?w=578"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "I viewed a $600K house. I discovered it has an unsafe kitchen extension. Do I tell the selling agent?",
+            "link": "https://www.marketwatch.com/story/i-viewed-a-600k-house-but-discovered-that-the-kitchen-is-unsafe-and-has-no-foundation-do-i-have-a-moral-obligation-to-tell-the-sellers-agent-d4b699af?mod=mw_rss_topstories",
+            "description": "“The next-door neighbor was going to buy it, but the seller warned him off.”",
+            "pubDate": "2025-03-11T10:00:00",
+            "image_url": "https://images.mktw.net/im-37193725"
         },
         {
-            "title": "Mayo Clinic’s secret weapon against AI hallucinations: Reverse RAG in action",
-            "link": "https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/",
-            "description": "To tackle data-retrieval-based hallucinations in non-diagnostic use cases, Mayo Clinic has applied CURE reverse RAG paired with vector databases.",
-            "pubDate": "2025-03-07T16:31:35",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/a-vector-art-of-an-ai-model-wearing-a-do_Lq_CQUBoRA-YvNRraZ1AYQ_S5nWTg8jR8O78NOJKAtl5w.jpeg?w=578"
+            "title": "PSYONIC to give live demo of its bionic technology at Robotics Summit",
+            "link": "https://www.therobotreport.com/psyonic-give-live-demo-bionic-technology-2025-robotics-summit/",
+            "description": "PSYONIC offers the Ability Hand, which has integrated sensors that detect pressure when the user grips an object. The post PSYONIC to give live demo o...",
+            "pubDate": "2025-03-10T18:07:19",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/abilityhand-featured.jpg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Why are eggs so important in our battle against inflation?",
-            "link": "https://www.marketwatch.com/story/egg-prices-have-become-a-symbol-of-our-economic-fragility-7729654a?mod=mw_rss_topstories",
-            "description": "Egg prices have become a symbol of our economic anxiety.",
-            "pubDate": "2025-03-10T17:20:00",
-            "image_url": "https://images.mktw.net/im-54529902"
-        },
-        {
-            "title": "The short, strange history of gene de-extinction",
-            "link": "https://www.technologyreview.com/2025/03/07/1112880/the-short-strange-history-of-gene-de-extinction/",
-            "description": "This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read ar...",
-            "pubDate": "2025-03-07T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "The Download: gene de-extinction, and Ukraine’s Starlink connection",
-            "link": "https://www.technologyreview.com/2025/03/07/1112921/the-download-gene-de-extinction-and-ukraines-starlink-connection/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The short, s...",
-            "pubDate": "2025-03-07T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f9bf.png"
+            "title": "Tom Lee calls Monday’s stock-market tumble an overreaction. What to watch now.",
+            "link": "https://www.marketwatch.com/story/tom-lee-calls-mondays-stock-market-tumble-an-overreaction-what-to-watch-now-c1f53e63?mod=mw_rss_topstories",
+            "description": "Tom Lee, one of the more optimistic voices on Wall Street, says that the stock-market drop on Monday was an overreaction as he points to key events th...",
+            "pubDate": "2025-03-11T10:05:00",
+            "image_url": "https://images.mktw.net/im-29019869"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -68,102 +54,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "IFR highlights 10 women shaping robotics in 2025",
-            "link": "https://www.therobotreport.com/ifr-highlights-10-women-shaping-robotics-in-2025/",
-            "description": "The IFR said it hopes the list will inspire girls and young women to pursue a career in STEM subjects or robotics. The post IFR highlights 10 women sh...",
-            "pubDate": "2025-03-08T13:15:58",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/IFR-womeninrobotics.jpg"
-        },
-        {
-            "title": "The cheapest way to supercharge America’s power grid",
-            "link": "https://www.technologyreview.com/2025/03/10/1112904/the-cheapest-way-to-supercharge-americas-power-grid/",
-            "description": "US electricity consumption is rising faster than it has in decades, thanks in part to the boom in data center development, the resurgence in manufactu...",
-            "pubDate": "2025-03-10T13:22:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The Download: Denmark’s robot city, and Google’s AI-only search results",
-            "link": "https://www.technologyreview.com/2025/03/06/1112853/the-download-denmarks-robot-city-and-googles-ai-only-search-results/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Welcome to r...",
-            "pubDate": "2025-03-06T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f354.png"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "Shield AI raises $250M to scale Hivemind Enterprise autonomy developer platform",
-            "link": "https://www.therobotreport.com/shield-ai-raises-250m-scale-hivemind-enterprise-autonomy-developer-platform/",
-            "description": "Shield AI has raised its valuation to $5.3 billion as it offers Hivemind Enterprise to help developers of autonomous drones and robots. The post Shiel...",
-            "pubDate": "2025-03-07T15:10:22",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Hivemind.jpg"
-        },
-        {
-            "title": "The great software rewiring: AI isn’t just eating everything; it is everything",
-            "link": "https://venturebeat.com/ai/the-great-software-rewiring-ai-isnt-just-eating-everything-it-is-everything/",
-            "description": "Gen AI is not just another technology layer; it has the potential to eat the entire software industry from the inside-out.",
-            "pubDate": "2025-03-09T20:05:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_robots_in_a_business_suit_marching_f423bba0-7ae7-4b26-96a2-255f691ceb4e.webp?w=578"
-        },
-        {
-            "title": "How buyers are winning bidding wars in a market where homes are selling for $620,000 over ask",
-            "link": "https://www.marketwatch.com/story/how-buyers-are-winning-bidding-wars-in-a-market-where-homes-are-going-for-620-000-over-ask-3a01da82?mod=mw_rss_topstories",
-            "description": "The spring home-buying season could be bruising in this region, where bidding wars are alive and well.",
-            "pubDate": "2025-03-10T16:34:00",
-            "image_url": "https://images.mktw.net/im-12058491"
-        },
-        {
-            "title": "ABB plans to invest $120M to expand production capacity in the U.S.",
-            "link": "https://www.therobotreport.com/abb-plans-to-invest-120m-to-expand-production-capacity-in-the-u-s/",
-            "description": "In the past three years, ABB has invested more than $500 million in its U.S. business, including a new $100 million facility in Wisconsin. The post AB...",
-            "pubDate": "2025-03-07T14:53:02",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/ABB-Selmer_TN_Rendering-featured.jpg"
-        },
-        {
-            "title": "Super Micro’s stock has its doubters, but it just got a vote of confidence",
-            "link": "https://www.marketwatch.com/story/super-micros-stock-has-its-doubters-but-it-just-got-a-vote-of-confidence-eb667381?mod=mw_rss_topstories",
-            "description": "Super Micro is a “show-me story,” says a Rosenblatt analyst, but he sees room for gross margins to expand as the company sells more to enterprise cust...",
-            "pubDate": "2025-03-10T16:43:00",
-            "image_url": "https://images.mktw.net/im-99324584"
-        },
-        {
-            "title": "MassRobotics shares its plans for National Robotics Week 2025",
-            "link": "https://www.therobotreport.com/massrobotics-shares-national-robotics-week-plans-2025/",
-            "description": "This year, with the support of DEVCOM ARL, MassRobotics will host National Robotics Week experiences for both local and out-of-state students. The pos...",
-            "pubDate": "2025-03-08T13:30:24",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/massrobotics-nrw-featured.jpg"
-        },
-        {
-            "title": "Chain-of-experts (CoE): A lower-cost LLM framework that increases efficiency and accuracy",
-            "link": "https://venturebeat.com/ai/chain-of-experts-coe-a-lower-cost-llm-framework-that-increases-efficiency-and-accuracy/",
-            "description": "Chain-of-experts chains LLM experts in a sequence, outperforming mixture-of-experts (MoE) with lower memory and compute costs.",
-            "pubDate": "2025-03-10T16:49:11",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/07/mixture-of-millions-of-experts.jpg?w=578"
-        },
-        {
-            "title": "I viewed a $600K house, but discovered the kitchen extension has no foundation. Do I have a moral obligation to tell the seller’s agent?",
-            "link": "https://www.marketwatch.com/story/i-viewed-a-600k-house-but-discovered-that-the-kitchen-is-unsafe-and-has-no-foundation-do-i-have-a-moral-obligation-to-tell-the-sellers-agent-d4b699af?mod=mw_rss_topstories",
-            "description": "“There was a bidding war.”",
-            "pubDate": "2025-03-10T17:33:00",
-            "image_url": "https://images.mktw.net/im-37193725"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "LinkedIn co-founder has known Elon Musk for years. Here’s what he says Americans don’t understand about the Tesla CEO.",
-            "link": "https://www.marketwatch.com/story/linkedin-co-founder-has-known-elon-musk-for-years-heres-what-he-says-americans-dont-understand-about-the-tesla-ceo-bb74c204?mod=mw_rss_topstories",
-            "description": "Elon Musk takes a hammer-and-nail approach to everything, LinkedIn co-founder Reid Hoffman says.",
-            "pubDate": "2025-03-10T16:02:00",
-            "image_url": "https://images.mktw.net/im-81832966"
+            "title": "Navigating the U.S. robotics market: Strategies for success",
+            "link": "https://www.therobotreport.com/anscer-robotics-navigating-u_s-robotics-market-strategies-success/",
+            "description": "ANSCER Robotics is expanding into the U.S. market, bringing low-cost mobile robots for scalable, flexible fleets. The post Navigating the U.S. robotic...",
+            "pubDate": "2025-03-10T21:37:10",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/MMessina-sq-250x250-1.png"
         },
         {
             "title": "Ainos and ugo develop service robots with a sense of smell",
@@ -173,11 +68,116 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/ainos-x-ugo1.jpg"
         },
         {
-            "title": "Nvidia has teamed up with Utah to improve AI education and workforce training",
-            "link": "https://venturebeat.com/games/nvidia-has-teamed-up-with-utah-to-improve-ai-education-and-workforce-training/",
-            "description": "Nvidia has teamed up with the state of Utah on an AI education initiative to improve workforce training and economic growth.",
-            "pubDate": "2025-03-10T15:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nvidia-utah.jpg?w=578"
+            "title": "The Download: gene de-extinction, and Ukraine’s Starlink connection",
+            "link": "https://www.technologyreview.com/2025/03/07/1112921/the-download-gene-de-extinction-and-ukraines-starlink-connection/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The short, s...",
+            "pubDate": "2025-03-07T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f9bf.png"
+        },
+        {
+            "title": "Altera launches Agilex 3 FPGAs for the intelligent edge",
+            "link": "https://venturebeat.com/games/altera-launches-agilex-3-fpgas-for-the-intelligent-edge/",
+            "description": "Altera is launching its latest family of Agilex FPGA chips to help developers expand the boundaries of the intelligent edge.",
+            "pubDate": "2025-03-11T06:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/altera-4.jpg?w=578"
+        },
+        {
+            "title": "Billy Joel sells part of Long Island estate: A 5,500-square-foot gatehouse on 5 beachfront acres for $8.5 million",
+            "link": "https://www.marketwatch.com/story/billy-joel-sells-part-of-long-island-estate-a-5-500-square-foot-gatehouse-on-5-beachfront-acres-for-8-5-million-9f73222e?mod=mw_rss_topstories",
+            "description": "To call it a gatehouse might be an understatement: This property has two kitchens, a pool and an extra apartment.",
+            "pubDate": "2025-03-11T10:04:00",
+            "image_url": "https://images.mktw.net/im-06590743"
+        },
+        {
+            "title": "MassRobotics shares its plans for National Robotics Week 2025",
+            "link": "https://www.therobotreport.com/massrobotics-shares-national-robotics-week-plans-2025/",
+            "description": "This year, with the support of DEVCOM ARL, MassRobotics will host National Robotics Week experiences for both local and out-of-state students. The pos...",
+            "pubDate": "2025-03-08T13:30:24",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/massrobotics-nrw-featured.jpg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "AGI is suddenly a dinner table topic",
+            "link": "https://www.technologyreview.com/2025/03/11/1112983/agi-is-suddenly-a-dinner-table-topic/",
+            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. The concept ...",
+            "pubDate": "2025-03-11T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "What you need to know about Manus, the new AI agentic system from China hailed as a second ‘DeepSeek moment’",
+            "link": "https://venturebeat.com/ai/what-you-need-to-know-about-manus-the-new-ai-agentic-system-from-china-hailed-as-a-second-deepseek-moment/",
+            "description": "Manus AI is designed as a multi-agent system, meaning it combines several AI models to handle tasks independently.",
+            "pubDate": "2025-03-10T18:29:15",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/2d-black-and-white-conductor-hand.png?w=578"
+        },
+        {
+            "title": "Short-term Treasury yields hold near 6-month trough amid recession chatter",
+            "link": "https://www.marketwatch.com/story/short-term-treasury-yields-hold-near-6-month-trough-amid-recession-chatter-1c4d0b6c?mod=mw_rss_topstories",
+            "description": "Bond yields were mixed across the curve early Tuesday as investors continued to take cover in government debt as concerns about a U.S. economic slowdo...",
+            "pubDate": "2025-03-11T10:50:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "These two new AI benchmarks could help make models less biased",
+            "link": "https://www.technologyreview.com/2025/03/11/1113000/two-new-measures-show-where-ai-models-fail-on-fairness/",
+            "description": "A new pair of AI benchmarks could help developers reduce bias in AI models, potentially making them fairer and less likely to cause harm. The research...",
+            "pubDate": "2025-03-11T09:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "‘Is it finally time to freak out?’ I’m in my 50s and worried about the $650K in my 401(k).",
+            "link": "https://www.marketwatch.com/story/is-it-finally-time-to-freak-out-im-in-my-50s-and-worried-about-the-650k-in-my-401-k-49f71441?mod=mw_rss_topstories",
+            "description": "“The stock market is in a downward spiral.”",
+            "pubDate": "2025-03-11T10:22:00",
+            "image_url": "https://images.mktw.net/im-92917588"
+        },
+        {
+            "title": "SCSP recommends national robotics strategy to new administration",
+            "link": "https://www.therobotreport.com/scsp-recommends-national-robotics-strategy-to-new-administration/",
+            "description": "The SCSP, or nonpartisan Special Competitive Studies Project, has recommended that the White House make AI and robotics a top priority. The post SCSP ...",
+            "pubDate": "2025-03-10T19:07:06",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/anymal-legged-robot-industrial-plant-copy.jpg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "AMD unveils 5th Gen Epyc embedded processors for networking, storage and industrial edge",
+            "link": "https://venturebeat.com/games/amd-unveils-5th-gen-epyc-embedded-processors-for-networking-storage-and-industrial-edg/",
+            "description": "AMD announced the expansion of its x86 embedded processor portfolio with the introduction of 5th Gen AMD Epyc Embedded processors.",
+            "pubDate": "2025-03-11T09:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2022/11/epyc-4.jpg?w=578"
+        },
+        {
+            "title": "Major AI market share shift revealed: DALL-E plummets 80% as Black Forest Labs dominates 2025 data",
+            "link": "https://venturebeat.com/ai/ai-market-share-2025-poe-report/",
+            "description": "New data reveals dramatic AI market share shifts in 2025 as Black Forest Labs and DeepSeek challenge OpenAI and Google's dominance.",
+            "pubDate": "2025-03-10T21:30:22",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_bar_graph_showing_competition_95f91f74-c613-4721-873a-05feabb1a486.webp?w=578"
         }
     ]
 }
