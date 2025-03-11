@@ -2,12 +2,26 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-11T10:07:17.728518",
+    "lastBuildDate": "2025-03-11T13:02:07.877469",
     "items": [
+        {
+            "title": "Anthropic’s stealth enterprise coup: How Claude 3.7 is becoming the coding agent of choice",
+            "link": "https://venturebeat.com/ai/anthropics-stealth-enterprise-coup-how-claude-3-7-is-becoming-the-coding-agent-of-choice/",
+            "description": "Anthropic is positioning Claude as the LLM that matters most for enterprise companies. Claude 3.7 Sonnet, released just two weeks ago, set new benchma...",
+            "pubDate": "2025-03-11T17:58:04",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/DALL·E-2025-03-11-09.55.49-A-sleek-minimalist-digital-illustration-representing-Anthropics-AI-coding-agent-Claude.-The-design-features-a-glowing-circuit-in-the-shape-of-a-sty.webp?w=578"
+        },
+        {
+            "title": "AI vs. AI: 6 ways enterprises are automating cybersecurity to counter AI-powered attacks",
+            "link": "https://venturebeat.com/security/ai-vs-ai-6-ways-enterprises-are-automating-cybersecurity-to-counter-ai-powered-attacks/",
+            "description": "AI-powered cybersecurity threats include deepfakes, automating breaches, and morphing malware in real time, challenging cyberdefenses.",
+            "pubDate": "2025-03-11T16:51:12",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/AI-vs.-AI-How-Enterprises-Can-Defend-Against-Automated-Cyber-Threats-in-Real-Time-hero.jpg?w=578"
+        },
         {
             "title": "CRM provider Creatio launches first ‘AI native’ platform with agentic digital talent built-in",
             "link": "https://venturebeat.com/ai/crm-provider-creatio-launches-first-ai-native-platform-with-agentic-digital-talent-built-in/",
-            "description": "The company unveiled a new CRM paradigm that puts a prompt entry box front-and-center, allowing the user to simply type in what they need.",
+            "description": "Creatio unveiled a new CRM paradigm that puts a prompt entry box front and center, allowing the user to simply type in what they need.",
             "pubDate": "2025-03-11T14:23:09",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crm-people.png?w=578"
         },
@@ -24,20 +38,6 @@
             "description": "AMD announced the expansion of its x86 embedded processor portfolio with the introduction of 5th Gen AMD Epyc Embedded processors.",
             "pubDate": "2025-03-11T09:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2022/11/epyc-4.jpg?w=578"
-        },
-        {
-            "title": "Altera launches Agilex 3 FPGAs for the intelligent edge",
-            "link": "https://venturebeat.com/games/altera-launches-agilex-3-fpgas-for-the-intelligent-edge/",
-            "description": "Altera is launching its latest family of Agilex FPGA chips to help developers expand the boundaries of the intelligent edge.",
-            "pubDate": "2025-03-11T06:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/altera-4.jpg?w=578"
-        },
-        {
-            "title": "GenLayer offers novel approach for AI agent transactions: getting multiple LLMs to vote on a suitable contract",
-            "link": "https://venturebeat.com/ai/genlayer-offers-novel-approach-for-ai-agent-transactions-getting-multiple-llms-to-vote-on-a-suitable-contract/",
-            "description": "GenLayer is betting that AI-driven contracts, enforced on the blockchain, will be the foundation for a trillion-dollar marketplace.",
-            "pubDate": "2025-03-11T00:07:31",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/man-typing-colorful-money.png?w=578"
         }
     ]
 }
