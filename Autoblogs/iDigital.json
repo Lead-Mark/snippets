@@ -2,98 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-11T13:02:07.875566",
+    "lastBuildDate": "2025-03-12T06:01:40.146590",
     "items": [
         {
-            "title": "Why OnRobot isn’t betting on turnkey robotic systems",
-            "link": "https://www.therobotreport.com/why-onrobot-is-betting-off-the-shelf-robotic-systems/",
-            "description": "Off-the-shelf automation is different from turnkey systems, and it offers unique benefits, explains OnRobot CCO James Taylor. The post Why OnRobot isn...",
-            "pubDate": "2025-03-11T16:48:47",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/onrobot-featured.jpg"
-        },
-        {
-            "title": "Cerebras just announced 6 new AI datacenters that process 40M tokens per second — and it could be bad news for Nvidia",
-            "link": "https://venturebeat.com/ai/cerebras-just-announced-6-new-ai-datacenters-that-process-40m-tokens-per-second-and-it-could-be-bad-news-for-nvidia/",
-            "description": "Cerebras Systems is challenging Nvidia with six new AI data centers across North America, promising 10x faster inference speeds and 7x cost reduction ...",
-            "pubDate": "2025-03-11T13:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_server_farm_in_the_cloud_b1af4117-3a9a-4f74-9242-d4892bb17ba9.webp?w=578"
-        },
-        {
-            "title": "Dick’s Sporting Goods faces tariff ‘unknowns’ and issues conservative outlook",
-            "link": "https://www.marketwatch.com/story/dicks-sporting-goods-outlook-falls-short-as-it-faces-dynamic-economic-environment-0551f85b?mod=mw_rss_topstories",
-            "description": "“The convergence of sport and culture in our country has never been stronger, and with a series of major sporting events set to take place in the U.S....",
-            "pubDate": "2025-03-11T17:46:00",
-            "image_url": "https://images.mktw.net/im-82653625"
-        },
-        {
-            "title": "These two new AI benchmarks could help make models less biased",
-            "link": "https://www.technologyreview.com/2025/03/11/1113000/two-new-measures-show-where-ai-models-fail-on-fairness/",
-            "description": "A new pair of AI benchmarks could help developers reduce bias in AI models, potentially making them fairer and less likely to cause harm. The research...",
-            "pubDate": "2025-03-11T09:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "The Download: making AI fairer, and why everyone’s talking about AGI",
-            "link": "https://www.technologyreview.com/2025/03/11/1113038/the-download-making-ai-fairer-and-why-everyones-talking-about-agi/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Two new meas...",
-            "pubDate": "2025-03-11T13:30:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/image.png"
-        },
-        {
-            "title": "AGI is suddenly a dinner table topic",
-            "link": "https://www.technologyreview.com/2025/03/11/1112983/agi-is-suddenly-a-dinner-table-topic/",
-            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. The concept ...",
-            "pubDate": "2025-03-11T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "A known Tesla bull calls for Musk to ‘step up.’ Will Musk listen?",
-            "link": "https://www.marketwatch.com/story/a-known-tesla-bull-calls-for-musk-to-step-up-will-musk-listen-9d8131eb?mod=mw_rss_topstories",
-            "description": "A well-known tech analyst and Tesla bull is taking a different approach as Tesla shares drop 50% from a December peak: He’s talking to the manager.",
-            "pubDate": "2025-03-11T17:28:00",
-            "image_url": "https://images.mktw.net/im-54053078"
-        },
-        {
-            "title": "Anthropic’s stealth enterprise coup: How Claude 3.7 is becoming the coding agent of choice",
-            "link": "https://venturebeat.com/ai/anthropics-stealth-enterprise-coup-how-claude-3-7-is-becoming-the-coding-agent-of-choice/",
-            "description": "Anthropic is positioning Claude as the LLM that matters most for enterprise companies. Claude 3.7 Sonnet, released just two weeks ago, set new benchma...",
-            "pubDate": "2025-03-11T17:58:04",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/DALL·E-2025-03-11-09.55.49-A-sleek-minimalist-digital-illustration-representing-Anthropics-AI-coding-agent-Claude.-The-design-features-a-glowing-circuit-in-the-shape-of-a-sty.webp?w=578"
-        },
-        {
-            "title": "SCSP recommends national robotics strategy to new administration",
-            "link": "https://www.therobotreport.com/scsp-recommends-national-robotics-strategy-to-new-administration/",
-            "description": "The SCSP, or nonpartisan Special Competitive Studies Project, has recommended that the White House make AI and robotics a top priority. The post SCSP ...",
-            "pubDate": "2025-03-10T19:07:06",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/anymal-legged-robot-industrial-plant-copy.jpg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "Navigating the U.S. robotics market: Strategies for success",
-            "link": "https://www.therobotreport.com/anscer-robotics-navigating-u_s-robotics-market-strategies-success/",
-            "description": "ANSCER Robotics is expanding into the U.S. market, bringing low-cost mobile robots for scalable, flexible fleets. The post Navigating the U.S. robotic...",
-            "pubDate": "2025-03-10T21:37:10",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/MMessina-sq-250x250-1.png"
+            "title": "Everyone in AI is talking about Manus. We put it to the test.",
+            "link": "https://www.technologyreview.com/2025/03/11/1113133/manus-ai-review/",
+            "description": "Since the general AI agent Manus was launched last week, it has spread online like wildfire. And not just in China, where it was developed by the Wuha...",
+            "pubDate": "2025-03-11T23:21:54",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/WechatIMG132.jpg"
         },
         {
             "title": "RISE Robotics sets sights on Guinness World Record for strongest prototype arm",
@@ -103,67 +19,46 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/RISE_Superjammer.jpg"
         },
         {
-            "title": "Oracle won some big cloud contracts. Here’s why its stock is falling.",
-            "link": "https://www.marketwatch.com/story/oracle-won-some-big-cloud-contracts-heres-why-its-stock-is-falling-ec29af53?mod=mw_rss_topstories",
-            "description": "Oracle Corp. regaled Wall Street on Monday with talk about the future, enormous demand and some very large cloud-services contracts, but its stock con...",
-            "pubDate": "2025-03-11T17:35:00",
-            "image_url": "https://images.mktw.net/im-10930273"
+            "title": "Navigating the U.S. robotics market: Strategies for success",
+            "link": "https://www.therobotreport.com/anscer-robotics-navigating-u_s-robotics-market-strategies-success/",
+            "description": "ANSCER Robotics is expanding into the U.S. market, bringing low-cost mobile robots for scalable, flexible fleets. The post Navigating the U.S. robotic...",
+            "pubDate": "2025-03-10T21:37:10",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/MMessina-sq-250x250-1.png"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "This artificial leaf makes hydrocarbons out of carbon dioxide",
+            "link": "https://www.technologyreview.com/2025/03/12/1113150/this-artificial-leaf-makes-hydrocarbons-out-of-carbon-dioxide/",
+            "description": "For many years, researchers have been working to build devices that can mimic photosynthesis—the process by which plants use sunlight and carbon dioxi...",
+            "pubDate": "2025-03-12T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/02/2025-02-20-artificial-leaf-fig1g-h.png?w=3000"
         },
         {
-            "title": "AMD unveils 5th Gen Epyc embedded processors for networking, storage and industrial edge",
-            "link": "https://venturebeat.com/games/amd-unveils-5th-gen-epyc-embedded-processors-for-networking-storage-and-industrial-edg/",
-            "description": "AMD announced the expansion of its x86 embedded processor portfolio with the introduction of 5th Gen AMD Epyc Embedded processors.",
-            "pubDate": "2025-03-11T09:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2022/11/epyc-4.jpg?w=578"
+            "title": "Why should I tip servers who earn $20 an hour?",
+            "link": "https://www.marketwatch.com/story/why-should-i-tip-servers-who-earn-20-an-hour-b68832f5?mod=mw_rss_topstories",
+            "description": "“It seems the whole point of tipping was to make up for low wages, and that is no longer an issue.”",
+            "pubDate": "2025-03-12T10:10:00",
+            "image_url": "https://images.mktw.net/im-36660934"
         },
         {
-            "title": "Trump doubles down on a trade war with Canada. Here’s where the U.S. gets its steel and aluminum.",
-            "link": "https://www.marketwatch.com/story/trump-doubles-down-on-a-trade-war-with-canada-heres-where-the-u-s-gets-its-steel-and-aluminum-ccb65274?mod=mw_rss_topstories",
-            "description": "President Donald Trump escalated his trade war against Canada, imposing new duties on steel and aluminum.",
-            "pubDate": "2025-03-11T17:26:00",
-            "image_url": "https://images.mktw.net/im-11733582"
+            "title": "Roche takes big step in weight-loss field with $5.3 billion deal.",
+            "link": "https://www.marketwatch.com/story/roche-takes-big-step-in-weight-loss-field-with-5-3-billion-deal-201afaf5?mod=mw_rss_topstories",
+            "description": "Swiss drugmaker Roche on Wednesday announced a major deal in the weight-loss category, agreeing to pay up to $5.3 billion to Zealand Pharma in a licen...",
+            "pubDate": "2025-03-12T10:32:00",
+            "image_url": "https://images.mktw.net/im-46502846"
         },
         {
-            "title": "CRM provider Creatio launches first ‘AI native’ platform with agentic digital talent built-in",
-            "link": "https://venturebeat.com/ai/crm-provider-creatio-launches-first-ai-native-platform-with-agentic-digital-talent-built-in/",
-            "description": "Creatio unveiled a new CRM paradigm that puts a prompt entry box front and center, allowing the user to simply type in what they need.",
-            "pubDate": "2025-03-11T14:23:09",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crm-people.png?w=578"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Waabi says its virtual robotrucks are realistic enough to prove the real ones are safe",
-            "link": "https://www.technologyreview.com/2025/03/11/1113044/waabi-says-its-virtual-robotrucks-are-realistic-enough-to-prove-the-real-ones-are-safe/",
-            "description": "The Canadian robotruck startup Waabi says its super-realistic virtual simulation is now accurate enough to prove the safety of its driverless big rigs...",
-            "pubDate": "2025-03-11T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "AI vs. AI: 6 ways enterprises are automating cybersecurity to counter AI-powered attacks",
-            "link": "https://venturebeat.com/security/ai-vs-ai-6-ways-enterprises-are-automating-cybersecurity-to-counter-ai-powered-attacks/",
-            "description": "AI-powered cybersecurity threats include deepfakes, automating breaches, and morphing malware in real time, challenging cyberdefenses.",
-            "pubDate": "2025-03-11T16:51:12",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/AI-vs.-AI-How-Enterprises-Can-Defend-Against-Automated-Cyber-Threats-in-Real-Time-hero.jpg?w=578"
-        },
-        {
-            "title": "The Download: supercharging the power grid, and a new Chinese AI agent",
-            "link": "https://www.technologyreview.com/2025/03/10/1112944/the-download-supercharging-the-power-grid-and-a-new-chinese-ai-agent/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The cheapest...",
-            "pubDate": "2025-03-10T13:50:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeeJll0a-NvT68jf5ZkJtgEgFF9GnsGbNWcDMwiu6Vw6lGzMXcee_MLksSgZB2ryeGz6Gx3HyIurJ7FrYzLzgiqu6X8OqlNnQEBSWIx-aoYmotktm17gbPD7u-BzWfW0RMZhU1Y?key=EvtV5XRkdJrEDa7cKsFnbTUr"
-        },
-        {
-            "title": "The anywhere-but-America trade has been working. But there are limits.",
-            "link": "https://www.marketwatch.com/story/the-anywhere-but-america-trade-has-been-working-but-there-are-limits-f6b64a7c?mod=mw_rss_topstories",
-            "description": "Investors have been rewarded for investing outside the United States — but real headwinds are emerging that could limit the successful trade.",
-            "pubDate": "2025-03-11T17:04:00",
-            "image_url": "https://images.mktw.net/im-83819162"
+            "title": "10 surgical robotics companies to watch in 2025",
+            "link": "https://www.therobotreport.com/10-surgical-robotics-companies-follow-2025/",
+            "description": "While Intuitive Surgical still leads the market, a number of other surgical robotics companies is making waves. The post 10 surgical robotics companie...",
+            "pubDate": "2025-03-11T19:59:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/top10surgicalrobots2025-featured.jpg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -173,11 +68,116 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
-            "title": "PSYONIC to give live demo of its bionic technology at Robotics Summit",
-            "link": "https://www.therobotreport.com/psyonic-give-live-demo-bionic-technology-2025-robotics-summit/",
-            "description": "PSYONIC offers the Ability Hand, which has integrated sensors that detect pressure when the user grips an object. The post PSYONIC to give live demo o...",
-            "pubDate": "2025-03-10T18:07:19",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/abilityhand-featured.jpg"
+            "title": "OpenAI unveils Responses API, open source Agents SDK, letting developers build their own Deep Research and Operator",
+            "link": "https://venturebeat.com/programming-development/openai-unveils-responses-api-open-source-agents-sdk-letting-developers-build-their-own-deep-research-and-operator/",
+            "description": "OpenAI is also making its web search, file search and computer use tools available directly through the responses API.",
+            "pubDate": "2025-03-11T18:23:56",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-dev-meeting.png?w=578"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "The Download: making AI fairer, and why everyone’s talking about AGI",
+            "link": "https://www.technologyreview.com/2025/03/11/1113038/the-download-making-ai-fairer-and-why-everyones-talking-about-agi/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Two new meas...",
+            "pubDate": "2025-03-11T13:30:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/image.png"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "I invested $4,000 in 2020. It’s now worth $55,000 with a 65% concentration in Nvidia. Am I now in trouble?",
+            "link": "https://www.marketwatch.com/story/i-invested-4-000-in-2020-its-now-worth-55-000-with-a-65-concentration-in-nvidia-what-now-06aab2cd?mod=mw_rss_topstories",
+            "description": "“I’ve been disabled from anorexia and postural orthostatic tachycardia syndrome for the past five years.”",
+            "pubDate": "2025-03-12T10:36:00",
+            "image_url": "https://images.mktw.net/im-97828492"
+        },
+        {
+            "title": "AGI is suddenly a dinner table topic",
+            "link": "https://www.technologyreview.com/2025/03/11/1112983/agi-is-suddenly-a-dinner-table-topic/",
+            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. The concept ...",
+            "pubDate": "2025-03-11T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "My stepmother inherited my father’s estate. She’s leaving everything to her two kids. Where do you think this money should go?",
+            "link": "https://www.marketwatch.com/story/my-stepmother-inherited-my-fathers-estate-shes-leaving-everything-to-her-two-kids-where-do-you-think-this-money-should-go-abd28e14?mod=mw_rss_topstories",
+            "description": "“I’ve had a wonderful relationship with my father as well as my stepmother.”",
+            "pubDate": "2025-03-12T10:15:00",
+            "image_url": "https://images.mktw.net/im-16611259"
+        },
+        {
+            "title": "‘Is it finally time to freak out?’ I’m in my 50s and worried about the $650K in my 401(k).",
+            "link": "https://www.marketwatch.com/story/is-it-finally-time-to-freak-out-im-in-my-50s-and-worried-about-the-650k-in-my-401-k-49f71441?mod=mw_rss_topstories",
+            "description": "“The stock market is in a downward spiral.”",
+            "pubDate": "2025-03-12T10:40:00",
+            "image_url": "https://images.mktw.net/im-92917588"
+        },
+        {
+            "title": "SCSP recommends national robotics strategy to new administration",
+            "link": "https://www.therobotreport.com/scsp-recommends-national-robotics-strategy-to-new-administration/",
+            "description": "The SCSP, or nonpartisan Special Competitive Studies Project, has recommended that the White House make AI and robotics a top priority. The post SCSP ...",
+            "pubDate": "2025-03-10T19:07:06",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/anymal-legged-robot-industrial-plant-copy.jpg"
+        },
+        {
+            "title": "Waabi says its virtual robotrucks are realistic enough to prove the real ones are safe",
+            "link": "https://www.technologyreview.com/2025/03/11/1113044/waabi-says-its-virtual-robotrucks-are-realistic-enough-to-prove-the-real-ones-are-safe/",
+            "description": "The Canadian robotruck startup Waabi says its super-realistic virtual simulation is now accurate enough to prove the safety of its driverless big rigs...",
+            "pubDate": "2025-03-11T14:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Google unveils open source Gemma 3 model with 128k context window",
+            "link": "https://venturebeat.com/ai/google-unveils-open-source-gemma-3-model-with-128k-context-window/",
+            "description": "Google's Gemma 3 is multimodal, comes in four sizes and can now handle more information and instructions thanks to a larger context window.",
+            "pubDate": "2025-03-12T08:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_abstract_illustration_of_tiny_robot_toys_running_aro_fbbccfa4-7500-47f8-8932-4becad1c672f_1.png?w=578"
+        },
+        {
+            "title": "AI vs. AI: 6 ways enterprises are automating cybersecurity to counter AI-powered attacks",
+            "link": "https://venturebeat.com/security/ai-vs-ai-6-ways-enterprises-are-automating-cybersecurity-to-counter-ai-powered-attacks/",
+            "description": "AI-powered cybersecurity threats include deepfakes, automating breaches, and morphing malware in real time, challenging cyberdefenses.",
+            "pubDate": "2025-03-11T16:51:12",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/AI-vs.-AI-How-Enterprises-Can-Defend-Against-Automated-Cyber-Threats-in-Real-Time-hero.jpg?w=578"
+        },
+        {
+            "title": "Why OnRobot isn’t betting on turnkey robotic systems",
+            "link": "https://www.therobotreport.com/why-onrobot-is-betting-off-the-shelf-robotic-systems/",
+            "description": "Off-the-shelf automation is different from turnkey systems, and it offers unique benefits, explains OnRobot CCO James Taylor. The post Why OnRobot isn...",
+            "pubDate": "2025-03-11T16:48:47",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/onrobot-featured.jpg"
+        },
+        {
+            "title": "Anthropic’s stealth enterprise coup: How Claude 3.7 is becoming the coding agent of choice",
+            "link": "https://venturebeat.com/ai/anthropics-stealth-enterprise-coup-how-claude-3-7-is-becoming-the-coding-agent-of-choice/",
+            "description": "Anthropic is positioning Claude as the LLM that matters most for enterprise companies. Claude 3.7 Sonnet, released just two weeks ago, set new benchma...",
+            "pubDate": "2025-03-11T17:58:04",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/DALL·E-2025-03-11-09.55.49-A-sleek-minimalist-digital-illustration-representing-Anthropics-AI-coding-agent-Claude.-The-design-features-a-glowing-circuit-in-the-shape-of-a-sty.webp?w=578"
+        },
+        {
+            "title": "Sony testing AI to drive PlayStation characters",
+            "link": "https://venturebeat.com/games/sony-testing-ai-to-drive-playstation-characters/",
+            "description": "PlayStation characters may one day engage you in theoretically endless conversations, if a new internal technology video bares out.",
+            "pubDate": "2025-03-11T20:02:54",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/horizonforbiddenwest.jpg?w=578"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }

@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-11T13:02:07.877469",
+    "lastBuildDate": "2025-03-12T06:01:40.148721",
     "items": [
+        {
+            "title": "Google unveils open source Gemma 3 model with 128k context window",
+            "link": "https://venturebeat.com/ai/google-unveils-open-source-gemma-3-model-with-128k-context-window/",
+            "description": "Google's Gemma 3 is multimodal, comes in four sizes and can now handle more information and instructions thanks to a larger context window.",
+            "pubDate": "2025-03-12T08:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_abstract_illustration_of_tiny_robot_toys_running_aro_fbbccfa4-7500-47f8-8932-4becad1c672f_1.png?w=578"
+        },
+        {
+            "title": "Sony testing AI to drive PlayStation characters",
+            "link": "https://venturebeat.com/games/sony-testing-ai-to-drive-playstation-characters/",
+            "description": "PlayStation characters may one day engage you in theoretically endless conversations, if a new internal technology video bares out.",
+            "pubDate": "2025-03-11T20:02:54",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/horizonforbiddenwest.jpg?w=578"
+        },
+        {
+            "title": "OpenAI unveils Responses API, open source Agents SDK, letting developers build their own Deep Research and Operator",
+            "link": "https://venturebeat.com/programming-development/openai-unveils-responses-api-open-source-agents-sdk-letting-developers-build-their-own-deep-research-and-operator/",
+            "description": "OpenAI is also making its web search, file search and computer use tools available directly through the responses API.",
+            "pubDate": "2025-03-11T18:23:56",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-dev-meeting.png?w=578"
+        },
         {
             "title": "Anthropic’s stealth enterprise coup: How Claude 3.7 is becoming the coding agent of choice",
             "link": "https://venturebeat.com/ai/anthropics-stealth-enterprise-coup-how-claude-3-7-is-becoming-the-coding-agent-of-choice/",
@@ -17,27 +38,6 @@
             "description": "AI-powered cybersecurity threats include deepfakes, automating breaches, and morphing malware in real time, challenging cyberdefenses.",
             "pubDate": "2025-03-11T16:51:12",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/AI-vs.-AI-How-Enterprises-Can-Defend-Against-Automated-Cyber-Threats-in-Real-Time-hero.jpg?w=578"
-        },
-        {
-            "title": "CRM provider Creatio launches first ‘AI native’ platform with agentic digital talent built-in",
-            "link": "https://venturebeat.com/ai/crm-provider-creatio-launches-first-ai-native-platform-with-agentic-digital-talent-built-in/",
-            "description": "Creatio unveiled a new CRM paradigm that puts a prompt entry box front and center, allowing the user to simply type in what they need.",
-            "pubDate": "2025-03-11T14:23:09",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crm-people.png?w=578"
-        },
-        {
-            "title": "Cerebras just announced 6 new AI datacenters that process 40M tokens per second — and it could be bad news for Nvidia",
-            "link": "https://venturebeat.com/ai/cerebras-just-announced-6-new-ai-datacenters-that-process-40m-tokens-per-second-and-it-could-be-bad-news-for-nvidia/",
-            "description": "Cerebras Systems is challenging Nvidia with six new AI data centers across North America, promising 10x faster inference speeds and 7x cost reduction ...",
-            "pubDate": "2025-03-11T13:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_server_farm_in_the_cloud_b1af4117-3a9a-4f74-9242-d4892bb17ba9.webp?w=578"
-        },
-        {
-            "title": "AMD unveils 5th Gen Epyc embedded processors for networking, storage and industrial edge",
-            "link": "https://venturebeat.com/games/amd-unveils-5th-gen-epyc-embedded-processors-for-networking-storage-and-industrial-edg/",
-            "description": "AMD announced the expansion of its x86 embedded processor portfolio with the introduction of 5th Gen AMD Epyc Embedded processors.",
-            "pubDate": "2025-03-11T09:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2022/11/epyc-4.jpg?w=578"
         }
     ]
 }
