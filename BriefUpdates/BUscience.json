@@ -2,35 +2,70 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-14T10:08:36.419689",
+    "lastBuildDate": "2025-03-14T13:10:01.966671",
     "items": [
         {
-            "title": "Pinpointing where Yellowstone will erupt in the very distant future",
-            "link": "https://www.nsf.gov/news/pinpointing-where-yellowstone-will-erupt-very-distant-future",
-            "description": "U.S. National Science Foundation-supported researchers published new findings suggesting a location where the Yellowstone Caldera could erupt, hundred...",
-            "pubDate": "2025-01-27T15:30:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "New method to keep protein-based drugs stable without refrigeration",
+            "link": "https://www.nsf.gov/news/new-method-keep-protein-based-drugs-stable-without",
+            "description": "A team of researchers led by the recipient of a U.S. National Science Foundation Faculty Early Career Development grant has developed a new storage me...",
+            "pubDate": "2025-03-14T16:28:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Biofabricating human tissues enhanced through use of gallium",
-            "link": "https://www.nsf.gov/news/biofabricating-human-tissues-enhanced-through-use-gallium",
-            "description": "The manufacturing technique known as 3D printing, now being used everywhere, from aircraft manufacturers to public libraries, has never been more affo...",
-            "pubDate": "2025-01-29T14:00:06",
+            "title": "Cutting-edge air quality monitoring strengthens public health nationwide",
+            "link": "https://www.nsf.gov/news/cutting-edge-air-quality-monitoring-strengthens-public",
+            "description": "The fires that devastated many in Los Angeles in January 2025 not only scarred the landscape but also changed the air. A day after the Eaton fire burn...",
+            "pubDate": "2025-03-14T15:20:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "AI pioneers Andrew Barto and Richard Sutton win 2024 Turing Award for groundbreaking contributions to reinforcement learning",
+            "link": "https://www.nsf.gov/news/ai-pioneers-andrew-barto-richard-sutton-win-2024-turing",
+            "description": "The computing world is celebrating a major milestone as Andrew Barto, professor emeritus at the University of Massachusetts Amherst, and Richard Sutto...",
+            "pubDate": "2025-03-05T23:07:22",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "New name for one of the world's rarest rhinoceroses",
-            "link": "https://www.sciencedaily.com/releases/2025/03/250313130938.htm",
-            "description": "A recent study has reclassified the species commonly known as the Javan rhinoceros, proposing a more precise scientific name: Eurhinoceros sondaicus. ...",
-            "pubDate": "2025-03-13T18:09:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "US bird populations continue alarming decline",
             "link": "https://www.sciencedaily.com/releases/2025/03/250313130951.htm",
             "description": "The 2025 U. S. State of the Birds Report, produced by a coalition of leading science and conservation organizations, reveals continued widespread decl...",
             "pubDate": "2025-03-13T18:09:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "New name for one of the world's rarest rhinoceroses",
+            "link": "https://www.sciencedaily.com/releases/2025/03/250313130938.htm",
+            "description": "A recent study has reclassified the species commonly known as the Javan rhinoceros, proposing a more precise scientific name: Eurhinoceros sondaicus. ...",
+            "pubDate": "2025-03-13T18:09:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Unique skeletal tissue may enable new regenerative medical treatments",
+            "link": "https://www.nsf.gov/news/unique-skeletal-tissue-may-enable-new-regenerative-medical",
+            "description": "Supported by multiple grants from the U.S. National Science Foundation, researchers have comprehensively characterized the properties of a unique type...",
+            "pubDate": "2025-03-14T16:25:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Dozens of 3-toed dinosaurs leave their mark in Australia",
+            "link": "https://www.sciencedaily.com/releases/2025/03/250313130943.htm",
+            "description": "A researcher has confirmed a boulder at a regional school contains one of the highest concentrations of dinosaur footprints per square meter ever docu...",
+            "pubDate": "2025-03-13T18:09:43",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "NSF-DOE Vera C. Rubin Observatory installs LSST Camera on telescope",
+            "link": "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-installs-lsst-camera",
+            "description": "NSF-DOE Vera C. Rubin Observatory, funded by the U.S. National Science Foundation and the U.S. Department of Energy’s Office of Science, has achieved ...",
+            "pubDate": "2025-03-12T15:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Does exercise really extend life? Finnish twin study offers new insights",
+            "link": "https://www.sciencedaily.com/releases/2025/03/250313130533.htm",
+            "description": "Physical activity is seen as a way to extend the human lifespan, but twin studies found the benefits of physical activity for longevity may not be as ...",
+            "pubDate": "2025-03-13T18:05:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Most current AI struggles to read clocks and calendars",
@@ -38,41 +73,6 @@
             "description": "Some of the world's most advanced AI systems struggle to tell the time and work out dates on calendars, a study suggests.",
             "pubDate": "2025-03-13T18:05:57",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Does exercise really extend life? Finnish twin study offers new insights",
-            "link": "https://www.sciencedaily.com/releases/2025/03/250313130533.htm",
-            "description": "Physical activity is seen as a way to extend the human lifespan, but twin studies found the benefits of physical activity for longevity may not be as ...",
-            "pubDate": "2025-03-13T18:05:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "NSF–DOE Vera C. Rubin observatory will detect millions of exploding stars",
-            "link": "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-will-detect-millions",
-            "description": "NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy's Office of Science, will ...",
-            "pubDate": "2025-01-24T15:22:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Dozens of 3-toed dinosaurs leave their mark in Australia",
-            "link": "https://www.sciencedaily.com/releases/2025/03/250313130943.htm",
-            "description": "A researcher has confirmed a boulder at a regional school contains one of the highest concentrations of dinosaur footprints per square meter ever docu...",
-            "pubDate": "2025-03-13T18:09:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "AI pioneers Andrew Barto and Richard Sutton win 2024 Turing Award for groundbreaking contributions to reinforcement learning",
-            "link": "https://www.nsf.gov/news/ai-pioneers-andrew-barto-richard-sutton-win-2024-turing",
-            "description": "The computing world is celebrating a major milestone as Andrew Barto, professor emeritus at the University of Massachusetts Amherst, and Richard Sutto...",
-            "pubDate": "2025-03-05T23:07:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "NSF-DOE Vera C. Rubin Observatory installs LSST Camera on telescope",
-            "link": "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-installs-lsst-camera",
-            "description": "NSF-DOE Vera C. Rubin Observatory, funded by the U.S. National Science Foundation and the U.S. Department of Energy’s Office of Science, has achieved ...",
-            "pubDate": "2025-03-12T15:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }

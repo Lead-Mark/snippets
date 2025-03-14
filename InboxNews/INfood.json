@@ -2,14 +2,42 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-14T10:05:38.427229",
+    "lastBuildDate": "2025-03-14T13:06:47.713777",
     "items": [
+        {
+            "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
+            "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
+            "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
+            "pubDate": "2025-02-25T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
+        },
+        {
+            "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
+            "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
+            "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
+            "pubDate": "2025-02-18T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
+        },
         {
             "title": "Creamy Tuscan Shrimp Pasta (Dairy-Free)",
             "link": "https://minimalistbaker.com/creamy-tuscan-shrimp-pasta-dairy-free/",
             "description": "Weekend flavor meets weeknight ease: 30-minute Tuscan-style shrimp pasta! This CREAMY, dairy-free dish is rich, garlicky, and bursting with bright tom...",
             "pubDate": "2025-03-11T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Dairy-Free-Tuscan-Shrimp-Pasta-8-680x1020.jpg"
+        },
+        {
+            "title": "The Easiest Homemade Marinara Sauce",
+            "link": "https://therecipecritic.com/easiest-homemade-marinara/",
+            "description": "After retesting this Homemade Marinara Sauce, I can confidently say it’s the BEST! You can make it in 15 minutes,…",
+            "pubDate": "2025-03-11T12:30:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2023/09/homemade-marinara-sauce-6.jpg"
+        },
+        {
+            "title": "French Onion Pot Roast",
+            "link": "https://therecipecritic.com/french-onion-pot-roast/",
+            "description": "I am thrilled with how incredibly delicious this Fench Onion Pot Roast turned out! The meat is melt-in-your-mouth tender, after…",
+            "pubDate": "2025-03-12T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/french-onion-roast-1.jpg"
         },
         {
             "title": "Cheesy Beer Bread Muffins",
@@ -26,39 +54,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/marry-me-mushrooms-hero.jpg"
         },
         {
-            "title": "French Onion Pot Roast",
-            "link": "https://therecipecritic.com/french-onion-pot-roast/",
-            "description": "I am thrilled with how incredibly delicious this Fench Onion Pot Roast turned out! The meat is melt-in-your-mouth tender, after…",
-            "pubDate": "2025-03-12T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/french-onion-roast-1.jpg"
-        },
-        {
-            "title": "The Easiest Homemade Marinara Sauce",
-            "link": "https://therecipecritic.com/easiest-homemade-marinara/",
-            "description": "After retesting this Homemade Marinara Sauce, I can confidently say it’s the BEST! You can make it in 15 minutes,…",
-            "pubDate": "2025-03-11T12:30:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2023/09/homemade-marinara-sauce-6.jpg"
-        },
-        {
             "title": "Weekly Meal Plan #38",
             "link": "https://therecipecritic.com/weekly-meal-plan-38/",
             "description": "This week’s meal plan includes a NEW one that I know you are going to be obsessed with… French Onion…",
             "pubDate": "2025-03-14T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/Week-38-Meal-Plan-Collage-.png"
-        },
-        {
-            "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
-            "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
-            "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
-            "pubDate": "2025-02-18T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
-        },
-        {
-            "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
-            "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
-            "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
-            "pubDate": "2025-02-25T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
         },
         {
             "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
