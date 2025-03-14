@@ -2,21 +2,28 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-14T06:07:48.827872",
+    "lastBuildDate": "2025-03-14T10:05:38.427229",
     "items": [
-        {
-            "title": "Cowboy Spaghetti",
-            "link": "https://therecipecritic.com/cowboy-spaghetti/",
-            "description": "Cowboy spaghetti is the ultimate flavor packed meal! By cooking the beef and sauce in flavorful bacon renderings, every bite…",
-            "pubDate": "2025-03-10T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/02/cowboy_spaghetti-2.jpg"
-        },
         {
             "title": "Creamy Tuscan Shrimp Pasta (Dairy-Free)",
             "link": "https://minimalistbaker.com/creamy-tuscan-shrimp-pasta-dairy-free/",
             "description": "Weekend flavor meets weeknight ease: 30-minute Tuscan-style shrimp pasta! This CREAMY, dairy-free dish is rich, garlicky, and bursting with bright tom...",
             "pubDate": "2025-03-11T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Dairy-Free-Tuscan-Shrimp-Pasta-8-680x1020.jpg"
+        },
+        {
+            "title": "Cheesy Beer Bread Muffins",
+            "link": "https://therecipecritic.com/beer-bread-muffins/",
+            "description": "These cheesy beer bread muffins are light, fluffy, and packed with savory flavor! The key is to not overmix the…",
+            "pubDate": "2025-03-13T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/beer-cheddar-muffins-1.jpg"
+        },
+        {
+            "title": "Marry Me Mushrooms",
+            "link": "https://therecipecritic.com/marry-me-mushrooms/",
+            "description": "You guys love my marry me recipes and you go crazy over all my mushrooms so I wanted to “marry”…",
+            "pubDate": "2025-03-10T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/marry-me-mushrooms-hero.jpg"
         },
         {
             "title": "French Onion Pot Roast",
@@ -33,6 +40,13 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2023/09/homemade-marinara-sauce-6.jpg"
         },
         {
+            "title": "Weekly Meal Plan #38",
+            "link": "https://therecipecritic.com/weekly-meal-plan-38/",
+            "description": "This week’s meal plan includes a NEW one that I know you are going to be obsessed with… French Onion…",
+            "pubDate": "2025-03-14T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/Week-38-Meal-Plan-Collage-.png"
+        },
+        {
             "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
             "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
             "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
@@ -40,11 +54,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
         },
         {
-            "title": "Cheesy Beer Bread Muffins",
-            "link": "https://therecipecritic.com/beer-bread-muffins/",
-            "description": "These cheesy beer bread muffins are light, fluffy, and packed with savory flavor! The key is to not overmix the…",
-            "pubDate": "2025-03-13T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/beer-cheddar-muffins-1.jpg"
+            "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
+            "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
+            "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
+            "pubDate": "2025-02-25T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
         },
         {
             "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
@@ -52,20 +66,6 @@
             "description": "Is this a safe space to admit we have a problem? Specifically an insatiable appetite for adding sweet potato to desserts? First we made brownies, then...",
             "pubDate": "2025-02-04T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
-        },
-        {
-            "title": "Marry Me Mushrooms",
-            "link": "https://therecipecritic.com/marry-me-mushrooms/",
-            "description": "You guys love my marry me recipes and you go crazy over all my mushrooms so I wanted to “marry”…",
-            "pubDate": "2025-03-10T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/marry-me-mushrooms-hero.jpg"
-        },
-        {
-            "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
-            "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
-            "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
-            "pubDate": "2025-02-25T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
         }
     ]
 }

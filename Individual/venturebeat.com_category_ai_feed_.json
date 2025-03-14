@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-14T06:16:01.666204",
+    "lastBuildDate": "2025-03-14T10:12:18.896812",
     "items": [
+        {
+            "title": "The risks of AI-generated code are real — here’s how enterprises can manage the risk",
+            "link": "https://venturebeat.com/ai/the-risks-of-ai-generated-code-are-real-heres-how-enterprises-can-manage-the-risk/",
+            "description": "AI generated code is set to dominate application development. Here's what enterprises can do now to lower the risk.",
+            "pubDate": "2025-03-14T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/ai_generated_code_SMK.jpg?w=578"
+        },
         {
             "title": "Nvidia’s GTC keynote will emphasize AI over gaming",
             "link": "https://venturebeat.com/games/nvidias-gtc-keynote-will-emphasize-ai-over-gaming/",
@@ -31,13 +38,6 @@
             "description": "Patronus AI launches the first multimodal LLM-as-a-Judge for evaluating AI systems that process images, with Etsy already implementing the technology ...",
             "pubDate": "2025-03-13T17:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_robot_in_a_judges_clothes_courtoom_ga_dfb49cec-3315-4e40-9b41-17080d5fe70d.webp?w=578"
-        },
-        {
-            "title": "Anthropic researchers forced Claude to become deceptive — what they discovered could save us from rogue AI",
-            "link": "https://venturebeat.com/ai/anthropic-researchers-forced-claude-to-become-deceptive-what-they-discovered-could-save-us-from-rogue-ai/",
-            "description": "Anthropic researchers reveal groundbreaking techniques to detect hidden objectives in AI systems, training Claude to conceal its true goals before suc...",
-            "pubDate": "2025-03-13T17:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_robot_looking_in_the_mirror_in_burnt__2cdcae3d-6c62-471f-8e6c-e458c3454f0a.webp?w=578"
         }
     ]
 }
