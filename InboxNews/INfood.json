@@ -2,22 +2,8 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-17T11:11:11.447891",
+    "lastBuildDate": "2025-03-17T13:00:47.093187",
     "items": [
-        {
-            "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
-            "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
-            "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
-            "pubDate": "2025-02-18T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
-        },
-        {
-            "title": "Creamy Tuscan Shrimp Pasta (Dairy-Free)",
-            "link": "https://minimalistbaker.com/creamy-tuscan-shrimp-pasta-dairy-free/",
-            "description": "Weekend flavor meets weeknight ease: 30-minute Tuscan-style shrimp pasta! This CREAMY, dairy-free dish is rich, garlicky, and bursting with bright tom...",
-            "pubDate": "2025-03-11T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Dairy-Free-Tuscan-Shrimp-Pasta-8-680x1020.jpg"
-        },
         {
             "title": "Creamy Lemon Parmesan Chicken",
             "link": "https://therecipecritic.com/creamy-lemon-parmesan-chicken/",
@@ -33,11 +19,32 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
         },
         {
+            "title": "Weekly Meal Plan #38",
+            "link": "https://therecipecritic.com/weekly-meal-plan-38/",
+            "description": "This week’s meal plan includes a NEW one that I know you are going to be obsessed with… French Onion…",
+            "pubDate": "2025-03-14T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/Week-38-Meal-Plan-Collage-.png"
+        },
+        {
+            "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
+            "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
+            "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
+            "pubDate": "2025-02-25T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
+        },
+        {
             "title": "Tomato Soup Cake",
             "link": "https://therecipecritic.com/tomato-soup-cake/",
             "description": "It’s time to bring back the retro Tomato Soup Cake! In 1960, it was one of the first recipes to…",
             "pubDate": "2025-03-15T01:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/tomato-soup-cake-1.jpg"
+        },
+        {
+            "title": "Creamy Tuscan Shrimp Pasta (Dairy-Free)",
+            "link": "https://minimalistbaker.com/creamy-tuscan-shrimp-pasta-dairy-free/",
+            "description": "Weekend flavor meets weeknight ease: 30-minute Tuscan-style shrimp pasta! This CREAMY, dairy-free dish is rich, garlicky, and bursting with bright tom...",
+            "pubDate": "2025-03-11T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Dairy-Free-Tuscan-Shrimp-Pasta-8-680x1020.jpg"
         },
         {
             "title": "Cowboy Mac and Cheese",
@@ -54,18 +61,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/03/egg-salad-1.jpg"
         },
         {
-            "title": "Weekly Meal Plan #38",
-            "link": "https://therecipecritic.com/weekly-meal-plan-38/",
-            "description": "This week’s meal plan includes a NEW one that I know you are going to be obsessed with… French Onion…",
-            "pubDate": "2025-03-14T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/Week-38-Meal-Plan-Collage-.png"
-        },
-        {
-            "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
-            "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
-            "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
-            "pubDate": "2025-02-25T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
+            "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
+            "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
+            "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
+            "pubDate": "2025-02-18T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
         }
     ]
 }
