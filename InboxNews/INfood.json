@@ -2,14 +2,21 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-16T06:19:50.352404",
+    "lastBuildDate": "2025-03-16T12:48:52.671775",
     "items": [
         {
-            "title": "Cheesy Beer Bread Muffins",
-            "link": "https://therecipecritic.com/beer-bread-muffins/",
-            "description": "These cheesy beer bread muffins are light, fluffy, and packed with savory flavor! The key is to not overmix the…",
-            "pubDate": "2025-03-13T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/beer-cheddar-muffins-1.jpg"
+            "title": "Tomato Soup Cake",
+            "link": "https://therecipecritic.com/tomato-soup-cake/",
+            "description": "It’s time to bring back the retro Tomato Soup Cake! In 1960, it was one of the first recipes to…",
+            "pubDate": "2025-03-15T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/tomato-soup-cake-1.jpg"
+        },
+        {
+            "title": "Creamy Lemon Parmesan Chicken",
+            "link": "https://therecipecritic.com/creamy-lemon-parmesan-chicken/",
+            "description": "Creamy Lemon Parmesan Chicken is an incredible restaurant-quality meal you can make in under 30 minutes. The key is to…",
+            "pubDate": "2025-03-15T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/04/creamy-lemon-parmesan-chicken-4.jpg"
         },
         {
             "title": "Chocolate Pot de Crème (with a Secret Ingredient!)",
@@ -19,18 +26,18 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Chocolate-Pot-de-Creme-with-Sweet-Potato-10-680x1020.jpg"
         },
         {
-            "title": "Tomato Soup Cake",
-            "link": "https://therecipecritic.com/tomato-soup-cake/",
-            "description": "It’s time to bring back the retro Tomato Soup Cake! In 1960, it was one of the first recipes to…",
-            "pubDate": "2025-03-15T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/tomato-soup-cake-1.jpg"
-        },
-        {
             "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
             "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
             "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
             "pubDate": "2025-02-18T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
+        },
+        {
+            "title": "Literally The BEST Egg Salad",
+            "link": "https://therecipecritic.com/egg-salad/",
+            "description": "My egg salad has been a reader favorite for years because it’s creamy, simple, and lets the eggs shine. It’s…",
+            "pubDate": "2025-03-16T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/03/egg-salad-1.jpg"
         },
         {
             "title": "Creamy Tuscan Shrimp Pasta (Dairy-Free)",
@@ -40,13 +47,6 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Creamy-Dairy-Free-Tuscan-Shrimp-Pasta-8-680x1020.jpg"
         },
         {
-            "title": "French Onion Pot Roast",
-            "link": "https://therecipecritic.com/french-onion-pot-roast/",
-            "description": "I am thrilled with how incredibly delicious this Fench Onion Pot Roast turned out! The meat is melt-in-your-mouth tender, after…",
-            "pubDate": "2025-03-12T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/french-onion-roast-1.jpg"
-        },
-        {
             "title": "Gluten-Free Lemon Poppy Seed Muffins (Vegan)",
             "link": "https://minimalistbaker.com/gluten-free-lemon-poppy-seed-muffins-vegan/",
             "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
@@ -54,18 +54,18 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
         },
         {
+            "title": "Cheesy Beer Bread Muffins",
+            "link": "https://therecipecritic.com/beer-bread-muffins/",
+            "description": "These cheesy beer bread muffins are light, fluffy, and packed with savory flavor! The key is to not overmix the…",
+            "pubDate": "2025-03-13T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/beer-cheddar-muffins-1.jpg"
+        },
+        {
             "title": "Weekly Meal Plan #38",
             "link": "https://therecipecritic.com/weekly-meal-plan-38/",
             "description": "This week’s meal plan includes a NEW one that I know you are going to be obsessed with… French Onion…",
             "pubDate": "2025-03-14T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/Week-38-Meal-Plan-Collage-.png"
-        },
-        {
-            "title": "Creamy Lemon Parmesan Chicken",
-            "link": "https://therecipecritic.com/creamy-lemon-parmesan-chicken/",
-            "description": "Creamy Lemon Parmesan Chicken is an incredible restaurant-quality meal you can make in under 30 minutes. The key is to…",
-            "pubDate": "2025-03-15T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/04/creamy-lemon-parmesan-chicken-4.jpg"
         }
     ]
 }
