@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-17T07:05:40.537210",
+    "lastBuildDate": "2025-03-17T10:01:27.871843",
     "items": [
+        {
+            "title": "Roblox unveils Roblox Cube GenAI and other game dev tools for GDC",
+            "link": "https://venturebeat.com/game-development/roblox-unveils-roblox-cube-genai-and-other-game-dev-tools-for-gdc/",
+            "description": "Roblox introduced its Roblox Cube AI tools, the core generative AI system for building 3D objects and scenes.",
+            "pubDate": "2025-03-17T14:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/roblox-Fully-textured-meshes.jpg?w=578"
+        },
+        {
+            "title": "GGWP adds voice moderation for Unity’s Vivox voice chat and Gorilla Tag",
+            "link": "https://venturebeat.com/games/ggwp-adds-voice-moderation-for-unitys-vivox-voice-chat-and-gorilla-tag/",
+            "description": "GGWP, a brand safety platform for online communities, said its voice moderation tools are being used by Unity's Vivox and Another Axiom.",
+            "pubDate": "2025-03-17T14:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/gorilla-tag-4.jpg?w=578"
+        },
+        {
+            "title": "Klang Games partners with Google Cloud on AI-driven simulation game Seed",
+            "link": "https://venturebeat.com/games/klang-games-partners-with-google-cloud-on-ai-driven-simulation-game-seed/",
+            "description": "Klang, the pioneering studio behind the ambitious simulation Seed, announced a strategic partnership with Google Cloud.",
+            "pubDate": "2025-03-17T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/Klang_SEED_AvestaStreets.jpg?w=578"
+        },
+        {
+            "title": "Inside Zoom’s AI evolution: From basic meeting tools to agentic productivity platform powered by LLMs and SLMs",
+            "link": "https://venturebeat.com/ai/inside-zooms-ai-evolution-from-basic-meeting-tools-to-agentic-productivity-platform-powered-by-llms-and-slms/",
+            "description": "Zoom's CTO explains how the web conferencing vendor’s technology has evolved and expanded into agentic AI capabilities.",
+            "pubDate": "2025-03-17T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/zoom_evolves_from_image.jpg?w=578"
+        },
         {
             "title": "Inching towards AGI: How reasoning and deep research are expanding AI from statistical prediction to structured problem-solving",
             "link": "https://venturebeat.com/ai/inching-towards-agi-how-reasoning-and-deep-research-are-expanding-ai-from-statistical-prediction-to-structured-problem-solving/",
             "description": "GUEST: AI has evolved at an astonishing pace. What seemed like science fiction just a few years ago is now an undeniable reality. Back in 2017, my fir...",
             "pubDate": "2025-03-16T19:50:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/image1_c4e6d8.png?w=578"
-        },
-        {
-            "title": "Launching your first AI project with a grain of RICE: Weighing reach, impact, confidence and effort to create your roadmap",
-            "link": "https://venturebeat.com/ai/launching-your-first-ai-project-with-a-grain-of-rice-weighing-reach-impact-confidence-and-effort-to-create-your-roadmap/",
-            "description": "A new framework inspired by the RICE scoring model balances business value, time-to-market, scalability and risk for your first AI project.",
-            "pubDate": "2025-03-15T19:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_science_vs._business_ec56cad4-dcb1-48b8-a6d8-addecd51ddac.webp?w=578"
-        },
-        {
-            "title": "OpenAI’s strategic gambit: The Agents SDK and why it changes everything for enterprise AI",
-            "link": "https://venturebeat.com/ai/openais-strategic-gambit-the-agent-sdk-and-why-it-changes-everything-for-enterprise-ai/",
-            "description": "OpenAI's new API and Agents SDK consolidate a previously fragmented complex ecosystem into a unified, production-ready framework. For enterprise AI te...",
-            "pubDate": "2025-03-14T20:25:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/tcblank.png?w=578"
-        },
-        {
-            "title": "Lovelace Studio uses AI to help players build survival craft sandbox worlds",
-            "link": "https://venturebeat.com/games/lovelace-studio-uses-ai-to-help-players-build-survival-craft-sandbox-worlds-the-deanbeat/",
-            "description": "Lovelace Studio is using generative AI to build Nyric, a tool that can help bring gaming worlds to life for player builders who work in harmony.",
-            "pubDate": "2025-03-14T18:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/PortalImage.jpg?w=578"
-        },
-        {
-            "title": "51 seconds to breach: How CISOs are countering AI-driven, lightning-fast deepfake, vishing and social engineering attacks",
-            "link": "https://venturebeat.com/security/51-seconds-to-breach-how-cisos-are-fighting-back-against-lightning-fast-attacks/",
-            "description": "Attackers can breach a network in 51 seconds. CISOs fight back with zero-trust, AI-based threat detection & instant session token revocation.",
-            "pubDate": "2025-03-14T16:51:07",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/51-seconds-to-breach-How-CISOs-are-fighting-back-against-lightning-fast-attacks-hero.jpg?w=578"
         }
     ]
 }
