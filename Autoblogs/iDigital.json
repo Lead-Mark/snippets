@@ -2,112 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-18T14:43:43.574848",
+    "lastBuildDate": "2025-03-19T06:48:03.684330",
     "items": [
         {
-            "title": "Halliday raises $20 million to build AI agents that operate safely on blockchain",
-            "link": "https://venturebeat.com/ai/halliday-raises-20-million-to-build-ai-agents-that-operate-safely-on-blockchain/",
-            "description": "Halliday secures $20 million to develop secure AI agents for blockchain, solving critical safety challenges for enterprise applications with immutable...",
-            "pubDate": "2025-03-18T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
-        },
-        {
-            "title": "Locus Array automates induction, storage for ‘zero touch’ fulfillment",
-            "link": "https://www.therobotreport.com/locus-array-automates-induction-storage-for-zero-touch-fulfillment/",
-            "description": "Locus Array combines an autonomous mobile robot with a picking arm to fulfill orders from 10-ft.-high shelving. The post Locus Array automates inducti...",
-            "pubDate": "2025-03-18T15:28:31",
-            "image_url": "https://www.automatedwarehouseonline.com/wp-content/uploads/2025/03/locusbot-1b.jpg"
-        },
-        {
-            "title": "How to win the high-momentum stock game",
-            "link": "https://www.marketwatch.com/story/how-to-win-the-high-momentum-stock-game-922ba57b?mod=mw_rss_topstories",
-            "description": "Momentum stocks have historically beaten the stock market by a large margin — until recently.",
-            "pubDate": "2025-03-18T18:39:00",
-            "image_url": "https://images.mktw.net/im-63637490"
-        },
-        {
-            "title": "Adobe’s new AI agents can make personal websites for your customers",
-            "link": "https://venturebeat.com/ai/adobes-new-ai-agents-can-make-personal-websites-for-your-customers/",
-            "description": "Adobe's new Brand Concierge feature lets customers create websites that respond to visitors with personalization.",
-            "pubDate": "2025-03-18T19:09:30",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/ai-agent-orchestrator.png?w=578"
-        },
-        {
-            "title": "Nvidia partners with telecom leaders to develop AI-native 6G wireless networks",
-            "link": "https://venturebeat.com/games/nvidia-partners-with-telecom-leaders-to-develop-ai-native-6g-wireless-networks/",
-            "description": "Nvidia said 6G wireless networks are coming, with help from artificial intelligence processing.",
-            "pubDate": "2025-03-18T19:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nvidia-6g.jpg?w=578"
-        },
-        {
-            "title": "Why sportsbooks like FanDuel and DraftKings really need March Madness bettors to lose this year",
-            "link": "https://www.marketwatch.com/story/why-sportsbooks-really-need-march-madness-bettors-to-lose-this-year-e97f321a?mod=mw_rss_topstories",
-            "description": "March Madness numbers to know include $3.1 billion in wagers and nearly $5 million in earnings for one player.",
-            "pubDate": "2025-03-18T19:01:00",
-            "image_url": "https://images.mktw.net/im-62269638"
-        },
-        {
-            "title": "Orion Security emerges from stealth using LLMs to track your enterprise’s data flow and stop it from leaking out",
-            "link": "https://venturebeat.com/security/orion-security-emerges-from-stealth-using-llms-to-track-your-enterprises-data-flow-and-stop-it-from-leaking-out/",
-            "description": "Beyond catching malicious insiders, Orion also distinguishes between human errors and external attackers for specificity.",
-            "pubDate": "2025-03-18T15:48:11",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/cfr0z3n_vector_art_line_art_graphic_novel_style_dark_moody_gr_d8919ec4-9f56-4c74-9b9c-d6c8eb6b8dcd_2.png?w=578"
-        },
-        {
-            "title": "Markets on alert for changes to runoff of Fed’s balance sheet",
-            "link": "https://www.marketwatch.com/story/markets-on-alert-for-changes-to-runoff-of-feds-balance-sheet-a012de1b?mod=mw_rss_topstories",
-            "description": "Financial markets are not just focused on what the Federal Reserve says about the future path of interest rates on Wednesday. The markets are also on ...",
-            "pubDate": "2025-03-18T19:24:00",
-            "image_url": "https://images.mktw.net/im-274289"
-        },
-        {
-            "title": "Dexterity launches Mech dual-armed mobile manipulator for truck loading",
-            "link": "https://www.therobotreport.com/dexterity-launches-mech-dual-armed-mobile-manipulator-for-truck-unloading/",
-            "description": "Mech is available to Dexterity’s industrial and enterprise customers for truck loading, with plans to expand the system's capabilities in 2025. The po...",
-            "pubDate": "2025-03-18T15:00:47",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/mech-dexterity-featured.jpg"
-        },
-        {
-            "title": "The Download: speaking to robots, and growing pharmaceutical mushrooms",
-            "link": "https://www.technologyreview.com/2025/03/18/1113280/the-download-speaking-to-robots-and-growing-pharmaceutical-mushrooms/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. When you mig...",
-            "pubDate": "2025-03-18T14:10:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXevnMDmlJ54VlvqdLmuQHSllbILC5h38x2A7496ygctSlyLyVLBOhkwKkTqY98o3C04jHp492NQu6civroJc6e0cWBcnSOBaOiaMVkITqu3LRNftfTcdhNRa1I1P__t7op_yiM4iw?key=T2o-JbqKCmDTz8wo1OY__rVO"
-        },
-        {
-            "title": "Anyware Robotics picks up $12M seed funding to automate container unloading",
-            "link": "https://www.therobotreport.com/anyware-robotics-picks-up-12m-seed-funding-to-automate-container-unloading/",
-            "description": "Anyware Robotics raised $12M to expand its Pixmo robot, automating warehouse unloading and improving worker safety. The post Anyware Robotics picks up...",
-            "pubDate": "2025-03-18T14:00:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/02/anyware-robotics-featured.jpg"
-        },
-        {
-            "title": "Apptronik brings in another $53 million to fuel Apollo production",
-            "link": "https://www.therobotreport.com/apptronik-brings-in-another-53-million-to-fuel-apollo-production/",
-            "description": "Apptronik plans to use the fresh funds to support growing customer demand for Apollo across key industries. The post Apptronik brings in another $53 m...",
-            "pubDate": "2025-03-18T17:20:00",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/apptronik-featured.jpg"
-        },
-        {
-            "title": "Women’s March Madness teams are being paid for the first time — but they’re splitting $200 million less than the men",
-            "link": "https://www.marketwatch.com/story/womens-march-madness-teams-are-being-paid-for-the-first-time-but-heres-why-theyre-splitting-200-million-less-than-the-men-31c44b36?mod=mw_rss_topstories",
-            "description": "Players won’t receive any of the prize money themselves, but their schools’ basketball programs and athletic departments reap the rewards.",
-            "pubDate": "2025-03-18T18:38:00",
-            "image_url": "https://images.mktw.net/im-98774689"
-        },
-        {
-            "title": "Copper settles near a record high. Why it’s not a great economic indicator anymore.",
-            "link": "https://www.marketwatch.com/story/copper-may-no-longer-be-a-good-economic-indicator-because-of-trumps-global-trade-war-1426eeaa?mod=mw_rss_topstories",
-            "description": "Copper settled above $5 a pound Tuesday on Comex for the first time since May, but the industrial metal’s ability to offer signals about the health of...",
-            "pubDate": "2025-03-18T18:36:00",
-            "image_url": "https://images.mktw.net/im-355596"
-        },
-        {
-            "title": "Muse unveils wearable that combines brainwave tracking and brain oxygen measurements",
-            "link": "https://venturebeat.com/games/muse-unveils-wearable-that-combines-brainwave-tracking-and-brain-oxygen-measurements/",
-            "description": "Muse by Interaxon, a neurotechnology startup, unveiled Muse S Athena, a consumer wearable that can deliver advanced cognitive fitness insights.",
-            "pubDate": "2025-03-18T13:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/muse.jpg?w=578"
+            "title": "‘They hate our generation’: My son and daughter-in-law want us to sell our house — and move to Oregon to start a commune",
+            "link": "https://www.marketwatch.com/story/they-hate-our-generation-my-son-and-daughter-in-law-want-us-to-sell-our-house-and-move-to-oregon-to-start-a-commune-849b2330?mod=mw_rss_topstories",
+            "description": "“They have spent thousands of dollars taking month-long earthship-building classes.”",
+            "pubDate": "2025-03-19T11:38:00",
+            "image_url": "https://images.mktw.net/im-57939805"
         },
         {
             "title": "Five benefits of a health tech accelerator program",
@@ -117,34 +19,6 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/GettyImages-2162514249.jpg"
         },
         {
-            "title": "HIV could infect 1,400 infants every day because of US aid disruptions",
-            "link": "https://www.technologyreview.com/2025/03/18/1113288/hiv-could-infect-1400-infants-every-day-due-to-disruptions-in-aid-from-the-us/",
-            "description": "Around 1,400 infants are being infected by HIV every day as a result of the new US administration’s cuts to funding to AIDS organizations, new modelin...",
-            "pubDate": "2025-03-18T18:05:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "When you might start speaking to robots",
-            "link": "https://www.technologyreview.com/2025/03/18/1113271/when-you-might-start-speaking-to-robots/",
-            "description": "Last Wednesday, Google made a somewhat surprising announcement. It launched a version of its AI model, Gemini, that can do things not just in the digi...",
-            "pubDate": "2025-03-18T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "The Download: Google playing AI search catchup, and forming relationships with chatbots",
-            "link": "https://www.technologyreview.com/2025/03/17/1113264/the-download-google-playing-ai-search-catchup-and-forming-relationships-with-chatbots/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is Google pl...",
-            "pubDate": "2025-03-17T14:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/05/Mitvirus_color.jpg?fit=1126,633"
-        },
-        {
-            "title": "Dobot enters the humanoid robot race with Atom",
-            "link": "https://www.therobotreport.com/dobot-enters-the-humanoid-robot-race-with-atom/",
-            "description": "The Chinese developer of collaborative robot arms is now making its first foray into the humanoid robot market with Atom. The post Dobot enters the hu...",
-            "pubDate": "2025-03-17T20:09:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -152,11 +26,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "The Download: speaking to robots, and growing pharmaceutical mushrooms",
+            "link": "https://www.technologyreview.com/2025/03/18/1113280/the-download-speaking-to-robots-and-growing-pharmaceutical-mushrooms/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. When you mig...",
+            "pubDate": "2025-03-18T14:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXevnMDmlJ54VlvqdLmuQHSllbILC5h38x2A7496ygctSlyLyVLBOhkwKkTqY98o3C04jHp492NQu6civroJc6e0cWBcnSOBaOiaMVkITqu3LRNftfTcdhNRa1I1P__t7op_yiM4iw?key=T2o-JbqKCmDTz8wo1OY__rVO"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -166,11 +40,53 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Dexterity launches Mech dual-armed mobile manipulator for truck loading",
+            "link": "https://www.therobotreport.com/dexterity-launches-mech-dual-armed-mobile-manipulator-for-truck-unloading/",
+            "description": "Mech is available to Dexterity’s industrial and enterprise customers for truck loading, with plans to expand the system's capabilities in 2025. The po...",
+            "pubDate": "2025-03-18T15:00:47",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/mech-dexterity-featured.jpg"
+        },
+        {
+            "title": "‘I’m absolutely terrible at managing money’: I’m 35 with zero savings and $8,000 debt. How do I turn my life around?",
+            "link": "https://www.marketwatch.com/story/im-absolutely-terrible-at-managing-money-im-35-with-zero-savings-and-8-000-debt-how-do-i-turn-my-life-around-2c0f1544?mod=mw_rss_topstories",
+            "description": "“I want to get into a financial position where I’ve got decent retirement savings.”",
+            "pubDate": "2025-03-19T10:15:00",
+            "image_url": "https://images.mktw.net/im-10612960"
+        },
+        {
+            "title": "‘In their last days, our parents changed their will’: They left me $250,000, but gave my sister $1 million. What should I do?",
+            "link": "https://www.marketwatch.com/story/my-parents-left-me-250k-but-gave-my-irrational-and-neurotic-sister-1-million-would-you-sever-all-ties-a26e5c12?mod=mw_rss_topstories",
+            "description": "“How many people maintain a relationship with their siblings after their parents died?”",
+            "pubDate": "2025-03-19T10:55:00",
+            "image_url": "https://images.mktw.net/im-50549663"
+        },
+        {
+            "title": "Nvidia Omniverse Blueprint enables better Earth-2 weather forecasting",
+            "link": "https://venturebeat.com/game-development/nvidia-omniverse-blueprint-enables-better-earth-2-weather-forecasting/",
+            "description": "Nvidia announced the Omniverse Blueprint for Earth-2 weather analytics to accelerate the development of more accurate weather forecasting.",
+            "pubDate": "2025-03-18T21:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/Earth-2-Image.jpg?w=578"
+        },
+        {
+            "title": "Nvidia’s GTC 2025 keynote: 40x AI performance leap, open-source ‘Dynamo’, and a walking Star Wars-inspired ‘Blue’ robot",
+            "link": "https://venturebeat.com/ai/nvidias-gtc-2025-keynote-40x-ai-performance-leap-open-source-dynamo-and-a-walking-star-wars-inspired-blue-robot/",
+            "description": "Nvidia CEO Jensen Huang unveils 40x faster Blackwell platform, Vera Rubin roadmap through 2027, open-source Dynamo software, humanoid robotics AI, and...",
+            "pubDate": "2025-03-19T04:56:25",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/Screenshot-2025-03-18-at-3.28.35 PM.png?w=578"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Apptronik brings in another $53 million to fuel Apollo production",
+            "link": "https://www.therobotreport.com/apptronik-brings-in-another-53-million-to-fuel-apollo-production/",
+            "description": "Apptronik plans to use the fresh funds to support growing customer demand for Apollo across key industries. The post Apptronik brings in another $53 m...",
+            "pubDate": "2025-03-18T17:20:00",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/apptronik-featured.jpg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -178,6 +94,90 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Locus Array automates induction, storage for ‘zero touch’ fulfillment",
+            "link": "https://www.therobotreport.com/locus-array-automates-induction-storage-for-zero-touch-fulfillment/",
+            "description": "Locus Array combines an autonomous mobile robot with a picking arm to fulfill orders from 10-ft.-high shelving. The post Locus Array automates inducti...",
+            "pubDate": "2025-03-18T15:28:31",
+            "image_url": "https://www.automatedwarehouseonline.com/wp-content/uploads/2025/03/locusbot-1b.jpg"
+        },
+        {
+            "title": "When you might start speaking to robots",
+            "link": "https://www.technologyreview.com/2025/03/18/1113271/when-you-might-start-speaking-to-robots/",
+            "description": "Last Wednesday, Google made a somewhat surprising announcement. It launched a version of its AI model, Gemini, that can do things not just in the digi...",
+            "pubDate": "2025-03-18T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Nvidia launches Blackwell RTX Pro for workstations and servers",
+            "link": "https://venturebeat.com/games/nvidia-launches-blackwell-rtx-pro-for-workstations-and-servers/",
+            "description": "Nvidia today announced the Nvidia RTX Pro Blackwell series — a new generation of workstation and server graphics processing units. Nvidia said the GPU...",
+            "pubDate": "2025-03-18T21:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/NVIDIA-RTX-PRO-Blackwell-Series.jpg?w=578"
+        },
+        {
+            "title": "Trump and the Fed are getting along, but now there are new fears about firings.",
+            "link": "https://www.marketwatch.com/story/trump-and-the-fed-are-getting-along-but-now-there-are-new-fears-about-firings-0024f7b9?mod=mw_rss_topstories",
+            "description": "An action taken late on Tuesday is again raising the question of Trump’s authority to dismiss Fed officials",
+            "pubDate": "2025-03-19T11:35:00",
+            "image_url": "https://images.mktw.net/im-20694069"
+        },
+        {
+            "title": "Nvidia gets industrial software firms to integrate Omniverse to accelerate physical AI",
+            "link": "https://venturebeat.com/games/nvidia-gets-industrial-software-firms-to-integrate-omniverse-to-accelerate-physical-ai/",
+            "description": "Nvidia said the big industrial software and service providers are integrating Omniverse into their platforms to accelerate physical AI.",
+            "pubDate": "2025-03-18T21:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/Omniverse-Image-1.jpg?w=578"
+        },
+        {
+            "title": "The Download: Google playing AI search catchup, and forming relationships with chatbots",
+            "link": "https://www.technologyreview.com/2025/03/17/1113264/the-download-google-playing-ai-search-catchup-and-forming-relationships-with-chatbots/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is Google pl...",
+            "pubDate": "2025-03-17T14:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/05/Mitvirus_color.jpg?fit=1126,633"
+        },
+        {
+            "title": "Anyware Robotics picks up $12M seed funding to automate container unloading",
+            "link": "https://www.therobotreport.com/anyware-robotics-picks-up-12m-seed-funding-to-automate-container-unloading/",
+            "description": "Anyware Robotics raised $12M to expand its Pixmo robot, automating warehouse unloading and improving worker safety. The post Anyware Robotics picks up...",
+            "pubDate": "2025-03-18T14:00:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/02/anyware-robotics-featured.jpg"
+        },
+        {
+            "title": "‘I’ll retire when I’m dead’: My 401(k) lost $50,000 in the market turmoil. I’m in my early 40s. What should I do now?",
+            "link": "https://www.marketwatch.com/story/ill-retire-when-im-dead-my-401-k-lost-50-000-in-the-market-turmoil-im-in-my-early-40s-what-should-i-do-now-98cb9ce9?mod=mw_rss_topstories",
+            "description": "“I have no clue how the funds in my 401(k) are invested.”",
+            "pubDate": "2025-03-19T10:28:00",
+            "image_url": "https://images.mktw.net/im-54193086"
+        },
+        {
+            "title": "HIV could infect 1,400 infants every day because of US aid disruptions",
+            "link": "https://www.technologyreview.com/2025/03/18/1113288/hiv-could-infect-1400-infants-every-day-due-to-disruptions-in-aid-from-the-us/",
+            "description": "Around 1,400 infants are being infected by HIV every day as a result of the new US administration’s cuts to funding to AIDS organizations, new modelin...",
+            "pubDate": "2025-03-18T18:05:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Nvidia will build accelerated quantum computing research center",
+            "link": "https://venturebeat.com/games/nvidia-will-build-accelerated-quantum-computing-research-center/",
+            "description": "Nvidia said it is building a Boston-based research center to provide cutting-edge technologies to advance quantum computing.",
+            "pubDate": "2025-03-18T21:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/Quantum-Computing-Press-Release-Image.jpg?w=578"
+        },
+        {
+            "title": "Ocado unveils Porter pallet moving AMR at ProMat",
+            "link": "https://www.therobotreport.com/ocado-unveils-porter-pallet-moving-amr-at-promat/",
+            "description": "Porter picks, moves, and places pallets directly from the floor with precision, even when they are aligned back-to-back. The post Ocado unveils Porter...",
+            "pubDate": "2025-03-18T20:35:40",
+            "image_url": "https://www.automatedwarehouseonline.com/wp-content/uploads/2025/03/porteramr-featured.jpg"
         }
     ]
 }
