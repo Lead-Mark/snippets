@@ -2,62 +2,34 @@
     "title": "INfinance",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfinance, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-19T06:57:25.737487",
+    "lastBuildDate": "2025-03-19T10:02:09.821901",
     "items": [
-        {
-            "title": "‘I’m absolutely terrible at managing money’: I’m 35 with zero savings and $8,000 debt. How do I turn my life around?",
-            "link": "https://www.marketwatch.com/story/im-absolutely-terrible-at-managing-money-im-35-with-zero-savings-and-8-000-debt-how-do-i-turn-my-life-around-2c0f1544?mod=mw_rss_topstories",
-            "description": "“I want to get into a financial position where I’ve got decent retirement savings.”",
-            "pubDate": "2025-03-19T10:15:00",
-            "image_url": "https://images.mktw.net/im-10612960"
-        },
-        {
-            "title": "‘They hate our generation’: My son and daughter-in-law want us to sell our house — and move to Oregon to start a commune",
-            "link": "https://www.marketwatch.com/story/they-hate-our-generation-my-son-and-daughter-in-law-want-us-to-sell-our-house-and-move-to-oregon-to-start-a-commune-849b2330?mod=mw_rss_topstories",
-            "description": "“They have spent thousands of dollars taking month-long earthship-building classes.”",
-            "pubDate": "2025-03-19T11:38:00",
-            "image_url": "https://images.mktw.net/im-57939805"
-        },
-        {
-            "title": "‘In their last days, our parents changed their will’: They left me $250,000, but gave my sister $1 million. What should I do?",
-            "link": "https://www.marketwatch.com/story/my-parents-left-me-250k-but-gave-my-irrational-and-neurotic-sister-1-million-would-you-sever-all-ties-a26e5c12?mod=mw_rss_topstories",
-            "description": "“How many people maintain a relationship with their siblings after their parents died?”",
-            "pubDate": "2025-03-19T10:55:00",
-            "image_url": "https://images.mktw.net/im-50549663"
-        },
-        {
-            "title": "Trump and the Fed are getting along, but now there are new fears about firings.",
-            "link": "https://www.marketwatch.com/story/trump-and-the-fed-are-getting-along-but-now-there-are-new-fears-about-firings-0024f7b9?mod=mw_rss_topstories",
-            "description": "An action taken late on Tuesday is again raising the question of Trump’s authority to dismiss Fed officials",
-            "pubDate": "2025-03-19T11:35:00",
-            "image_url": "https://images.mktw.net/im-20694069"
-        },
-        {
-            "title": "‘I’ll retire when I’m dead’: My 401(k) lost $50,000 in the market turmoil. I’m in my early 40s. What should I do now?",
-            "link": "https://www.marketwatch.com/story/ill-retire-when-im-dead-my-401-k-lost-50-000-in-the-market-turmoil-im-in-my-early-40s-what-should-i-do-now-98cb9ce9?mod=mw_rss_topstories",
-            "description": "“I have no clue how the funds in my 401(k) are invested.”",
-            "pubDate": "2025-03-19T10:28:00",
-            "image_url": "https://images.mktw.net/im-54193086"
-        },
-        {
-            "title": "Financial Services Roundup: Market Talk",
-            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-            "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-            "pubDate": "2025-01-27T17:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
-            "pubDate": "2025-01-27T19:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
         {
             "title": "DeepSeek Won't Sink U.S. AI Titans",
             "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
             "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
             "pubDate": "2025-01-27T18:12:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Netflix paid $55 million for a show. Prosecutors say the creator blew it on Rolls Royces and crypto.",
+            "link": "https://www.marketwatch.com/story/netflix-paid-55-million-for-a-show-prosecutors-say-the-creator-blew-it-on-rolls-royces-and-crypto-8f065cf6?mod=mw_rss_topstories",
+            "description": "Netflix paid Carl Erik Rinsch top dollar during the peak streaming boom for a sci-fi series he never delivered, losing it all on bad investments and l...",
+            "pubDate": "2025-03-19T13:17:00",
+            "image_url": "https://images.mktw.net/im-78881509"
+        },
+        {
+            "title": "There are new fears about Fed firings after FTC dismissals. What analysts are saying.",
+            "link": "https://www.marketwatch.com/story/trump-and-the-fed-are-getting-along-but-now-there-are-new-fears-about-firings-0024f7b9?mod=mw_rss_topstories",
+            "description": "An action taken late on Tuesday is again raising the question of Trump’s authority to dismiss Fed officials",
+            "pubDate": "2025-03-19T13:47:00",
+            "image_url": "https://images.mktw.net/im-20694069"
+        },
+        {
+            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
+            "pubDate": "2025-01-27T17:20:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
@@ -68,11 +40,39 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
-            "pubDate": "2025-01-27T17:20:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Treasury yields steady ahead of Fed decision",
+            "link": "https://www.marketwatch.com/story/treasury-yields-nudge-lower-ahead-of-fed-decision-d9d0367a?mod=mw_rss_topstories",
+            "description": "Yields on U.S. government debt moved slightly higher Wednesday morning as traders awaited a monetary policy update from the Federal Reserve.",
+            "pubDate": "2025-03-19T14:46:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "European defense stocks dip from peaks after traders ‘buy the rumor, sell the fact’",
+            "link": "https://www.marketwatch.com/story/european-defense-stocks-dip-from-peaks-after-traders-buy-the-rumor-sell-the-fact-7c76d1e6?mod=mw_rss_topstories",
+            "description": "There’s now looming uncertainty about how exactly new military spending will be allocated.",
+            "pubDate": "2025-03-19T13:53:00",
+            "image_url": "https://images.mktw.net/im-37072414"
+        },
+        {
+            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
+            "pubDate": "2025-01-27T19:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Financial Services Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+            "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+            "pubDate": "2025-01-27T17:27:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "General Mills sees slump in snack sales as customers focus on essentials",
+            "link": "https://www.marketwatch.com/story/snack-sale-slowdown-impacts-general-mills-revenue-as-stock-falls-22f32745?mod=mw_rss_topstories",
+            "description": "The company said that organic net sales “finished below our expectations.”",
+            "pubDate": "2025-03-19T13:08:00",
+            "image_url": "https://images.mktw.net/im-73868645"
         }
     ]
 }
