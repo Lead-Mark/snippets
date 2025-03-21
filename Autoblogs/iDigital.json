@@ -2,15 +2,8 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-21T07:13:11.911666",
+    "lastBuildDate": "2025-03-21T10:49:53.599595",
     "items": [
-        {
-            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
-            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
-            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
-            "pubDate": "2025-03-21T00:06:20",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
-        },
         {
             "title": "Inside a new quest to save the “doomsday glacier”",
             "link": "https://www.technologyreview.com/2025/03/21/1113396/inside-a-new-quest-to-save-the-doomsday-glacier/",
@@ -19,11 +12,39 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/674CC16C-F763-42DC-8821-49D78FAAEF64.jpeg?w=2667"
         },
         {
+            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
+            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
+            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
+            "pubDate": "2025-03-21T00:06:20",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
+        },
+        {
+            "title": "The Download: saving the “doomsday glacier,” and Europe’s hopes for its rockets",
+            "link": "https://www.technologyreview.com/2025/03/21/1113624/the-download-saving-the-doomsday-glacier-and-europes-hopes-for-its-rockets/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside a new...",
+            "pubDate": "2025-03-21T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f494.png"
+        },
+        {
             "title": "Autopsies can reveal intimate health details. Should they be kept private?",
             "link": "https://www.technologyreview.com/2025/03/21/1113549/autopsies-reveal-intimate-health-details-kept-private/",
             "description": "Over the past couple of weeks, I’ve been following news of the deaths of actor Gene Hackman and his wife, pianist Betsy Arakawa. It was heartbreaking ...",
             "pubDate": "2025-03-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "ABB launches RoboMasters app-based robotics training tool",
+            "link": "https://www.therobotreport.com/abb-launches-robomasters-app-based-robotics-training-tool/",
+            "description": "The RoboMasters app builds on ABB Robotics' physical training courses to offer a convenient, easy-to-use tool. The post ABB launches RoboMasters app-b...",
+            "pubDate": "2025-03-20T21:32:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/abb-featured.jpg"
+        },
+        {
+            "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
+            "link": "https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/",
+            "description": "Three, all new proprietary voice models called gpt-4o-transcribe, gpt-4o-mini-transcribe and gpt-4o-mini-tts.",
+            "pubDate": "2025-03-20T19:21:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-answers-phone.png?w=578"
         },
         {
             "title": "Figure AI unveils BotQ high-volume humanoid manufacturing facility",
@@ -40,11 +61,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/c-Isar-Aerospace-Photo-Wingmen-Media-_9-Engine-Hot-Fire-Stage-1.jpg?w=3000"
         },
         {
-            "title": "ABB launches RoboMasters app-based robotics training tool",
-            "link": "https://www.therobotreport.com/abb-launches-robomasters-app-based-robotics-training-tool/",
-            "description": "The RoboMasters app builds on ABB Robotics' physical training courses to offer a convenient, easy-to-use tool. The post ABB launches RoboMasters app-b...",
-            "pubDate": "2025-03-20T21:32:40",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/abb-featured.jpg"
+            "title": "Anthropic just gave Claude a superpower: real-time web search. Here’s why it changes everything",
+            "link": "https://venturebeat.com/ai/anthropic-just-gave-claude-a-superpower-real-time-web-search-heres-why-it-changes-everything/",
+            "description": "Anthropic launches real-time web search for Claude AI, challenging ChatGPT's dominance while securing $3.5 billion in funding at a $61.5 billion valua...",
+            "pubDate": "2025-03-20T17:50:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/website-hero-websearch.jpg?w=578"
         },
         {
             "title": "Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules",
@@ -54,46 +75,11 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/2025-03-19_16-19-34.jpg?w=578"
         },
         {
-            "title": "The Download: the future of energy, and chatting about chatbots",
-            "link": "https://www.technologyreview.com/2025/03/20/1113490/the-download-the-future-of-energy-and-chatting-about-chatbots/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 4 technologi...",
-            "pubDate": "2025-03-20T13:40:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd18l_uzgExdBfSGkNUEaS8bB_X17wqdcv-vqXeYFCVicOYalZlve_dDhns1BZ-25axBUJ4wUtMtM4AFRdJ7B13VDeWgqYsky8C5lz3WbZQBQg3ug0GGO8So89mfCP_k01OsxXaug?key=jutyaNpm-zvXmLPGJwhBg8Y0"
-        },
-        {
-            "title": "Anthropic just gave Claude a superpower: real-time web search. Here’s why it changes everything",
-            "link": "https://venturebeat.com/ai/anthropic-just-gave-claude-a-superpower-real-time-web-search-heres-why-it-changes-everything/",
-            "description": "Anthropic launches real-time web search for Claude AI, challenging ChatGPT's dominance while securing $3.5 billion in funding at a $61.5 billion valua...",
-            "pubDate": "2025-03-20T17:50:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/website-hero-websearch.jpg?w=578"
-        },
-        {
-            "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
-            "link": "https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/",
-            "description": "Three, all new proprietary voice models called gpt-4o-transcribe, gpt-4o-mini-transcribe and gpt-4o-mini-tts.",
-            "pubDate": "2025-03-20T19:21:53",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-answers-phone.png?w=578"
-        },
-        {
             "title": "Roundtables: AI Chatbots Have Joined the Chat",
             "link": "https://www.technologyreview.com/2025/03/20/1113501/roundtables-ai-chatbots-have-joined-the-chat/",
             "description": "Recorded on March 20, 2025 AI Chatbots Have Joined the Chat Speakers: Rachel Courtland, commissioning editor, Rhiannon Williams, news reporter, and Ei...",
             "pubDate": "2025-03-20T18:45:57",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Women in robotics breakfast returns to Robotics Summit",
-            "link": "https://www.therobotreport.com/women-in-robotics-breakfast-returns-to-robotics-summit/",
-            "description": "The Robotics Summit will feature a conversation between Motional's Laura Major and MassRobotics' Joyce Sidopoulos. The post Women in robotics breakfas...",
-            "pubDate": "2025-03-19T16:13:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/MAJOR.jpg"
-        },
-        {
-            "title": "NVIDIA’s GTC 2025: Here’s the top medtech AI news",
-            "link": "https://www.therobotreport.com/nvidias-gtc-2025-heres-the-top-medtech-ai-news/",
-            "description": "GTC 2025 has seen news about using AI to advance autonomous imaging, surgical robotics, brain-computer interfaces, and more. The post NVIDIA’s GTC 202...",
-            "pubDate": "2025-03-19T20:02:29",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Isaac-for-Healthcare-768x499-1.jpg"
         },
         {
             "title": "Hugging Face submits open-source blueprint, challenging Big Tech in White House AI policy fight",
@@ -110,18 +96,25 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/NVIDIA-GR00T-featured.jpg"
         },
         {
+            "title": "NVIDIA’s GTC 2025: Here’s the top medtech AI news",
+            "link": "https://www.therobotreport.com/nvidias-gtc-2025-heres-the-top-medtech-ai-news/",
+            "description": "GTC 2025 has seen news about using AI to advance autonomous imaging, surgical robotics, brain-computer interfaces, and more. The post NVIDIA’s GTC 202...",
+            "pubDate": "2025-03-19T20:02:29",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Isaac-for-Healthcare-768x499-1.jpg"
+        },
+        {
+            "title": "Women in robotics breakfast returns to Robotics Summit",
+            "link": "https://www.therobotreport.com/women-in-robotics-breakfast-returns-to-robotics-summit/",
+            "description": "The Robotics Summit will feature a conversation between Motional's Laura Major and MassRobotics' Joyce Sidopoulos. The post Women in robotics breakfas...",
+            "pubDate": "2025-03-19T16:13:18",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/MAJOR.jpg"
+        },
+        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
             "pubDate": "2021-10-29T00:18:48",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -143,6 +136,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }

@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-21T07:11:02.125079",
+    "lastBuildDate": "2025-03-21T10:49:16.120418",
     "items": [
+        {
+            "title": "Weekly Meal Plan #39",
+            "link": "https://therecipecritic.com/weekly-meal-plan-39/",
+            "description": "Don’t forget that all of my meal plans come with a free shopping list! It makes your life so easy…",
+            "pubDate": "2025-03-21T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/Week-39-Meal-Plan-Collage-1-1.png"
+        },
         {
             "title": "Classic Homemade Mozzarella Sticks",
             "link": "https://therecipecritic.com/mozzarella-sticks/",
@@ -31,13 +38,6 @@
             "description": "My egg salad has been a reader favorite for years because it’s creamy, simple, and lets the eggs shine. It’s…",
             "pubDate": "2025-03-16T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/03/egg-salad-1.jpg"
-        },
-        {
-            "title": "Creamy Lemon Parmesan Chicken",
-            "link": "https://therecipecritic.com/creamy-lemon-parmesan-chicken/",
-            "description": "Creamy Lemon Parmesan Chicken is an incredible restaurant-quality meal you can make in under 30 minutes. The key is to…",
-            "pubDate": "2025-03-15T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/04/creamy-lemon-parmesan-chicken-4.jpg"
         },
         {
             "title": "Creamy Tuscan Shrimp Pasta (Dairy-Free)",
