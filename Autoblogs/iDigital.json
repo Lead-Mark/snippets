@@ -2,7 +2,7 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-20T21:58:04.492273",
+    "lastBuildDate": "2025-03-21T07:13:11.911666",
     "items": [
         {
             "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
@@ -12,11 +12,18 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
         },
         {
-            "title": "ABB launches RoboMasters app-based robotics training tool",
-            "link": "https://www.therobotreport.com/abb-launches-robomasters-app-based-robotics-training-tool/",
-            "description": "The RoboMasters app builds on ABB Robotics' physical training courses to offer a convenient, easy-to-use tool. The post ABB launches RoboMasters app-b...",
-            "pubDate": "2025-03-20T21:32:40",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/abb-featured.jpg"
+            "title": "Inside a new quest to save the “doomsday glacier”",
+            "link": "https://www.technologyreview.com/2025/03/21/1113396/inside-a-new-quest-to-save-the-doomsday-glacier/",
+            "description": "The Thwaites glacier is a fortress larger than Florida, a wall of ice that reaches nearly 4,000 feet above the bedrock of West Antarctica, guarding th...",
+            "pubDate": "2025-03-21T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/674CC16C-F763-42DC-8821-49D78FAAEF64.jpeg?w=2667"
+        },
+        {
+            "title": "Autopsies can reveal intimate health details. Should they be kept private?",
+            "link": "https://www.technologyreview.com/2025/03/21/1113549/autopsies-reveal-intimate-health-details-kept-private/",
+            "description": "Over the past couple of weeks, I’ve been following news of the deaths of actor Gene Hackman and his wife, pianist Betsy Arakawa. It was heartbreaking ...",
+            "pubDate": "2025-03-21T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Figure AI unveils BotQ high-volume humanoid manufacturing facility",
@@ -33,18 +40,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/c-Isar-Aerospace-Photo-Wingmen-Media-_9-Engine-Hot-Fire-Stage-1.jpg?w=3000"
         },
         {
+            "title": "ABB launches RoboMasters app-based robotics training tool",
+            "link": "https://www.therobotreport.com/abb-launches-robomasters-app-based-robotics-training-tool/",
+            "description": "The RoboMasters app builds on ABB Robotics' physical training courses to offer a convenient, easy-to-use tool. The post ABB launches RoboMasters app-b...",
+            "pubDate": "2025-03-20T21:32:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/abb-featured.jpg"
+        },
+        {
             "title": "Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules",
             "link": "https://venturebeat.com/security/googles-32b-wiz-bet-ai-driven-cnapp-will-finally-eliminate-devsecops-bottlenecks/",
             "description": "The real story behind Google acquiring Wiz is how the need for speed and better cloud security dominates every enterprise’s devops cycles.",
             "pubDate": "2025-03-20T18:54:45",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/2025-03-19_16-19-34.jpg?w=578"
-        },
-        {
-            "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
-            "link": "https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/",
-            "description": "Three, all new proprietary voice models called gpt-4o-transcribe, gpt-4o-mini-transcribe and gpt-4o-mini-tts.",
-            "pubDate": "2025-03-20T19:21:53",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-answers-phone.png?w=578"
         },
         {
             "title": "The Download: the future of energy, and chatting about chatbots",
@@ -61,32 +68,18 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/website-hero-websearch.jpg?w=578"
         },
         {
+            "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
+            "link": "https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/",
+            "description": "Three, all new proprietary voice models called gpt-4o-transcribe, gpt-4o-mini-transcribe and gpt-4o-mini-tts.",
+            "pubDate": "2025-03-20T19:21:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-answers-phone.png?w=578"
+        },
+        {
             "title": "Roundtables: AI Chatbots Have Joined the Chat",
             "link": "https://www.technologyreview.com/2025/03/20/1113501/roundtables-ai-chatbots-have-joined-the-chat/",
             "description": "Recorded on March 20, 2025 AI Chatbots Have Joined the Chat Speakers: Rachel Courtland, commissioning editor, Rhiannon Williams, news reporter, and Ei...",
             "pubDate": "2025-03-20T18:45:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The elephant in the room for energy tech? Uncertainty.",
-            "link": "https://www.technologyreview.com/2025/03/20/1113392/energy-uncertainty/",
-            "description": "At a conference dedicated to energy technology that I attended this week, I noticed an outward attitude of optimism and excitement. But it’s hard to m...",
-            "pubDate": "2025-03-20T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Hugging Face submits open-source blueprint, challenging Big Tech in White House AI policy fight",
-            "link": "https://venturebeat.com/ai/hugging-face-submits-open-source-blueprint-challenging-big-tech-in-white-house-ai-policy-fight/",
-            "description": "Hugging Face challenges Big Tech in White House AI Action Plan submission, arguing open-source models match commercial performance while democratizing...",
-            "pubDate": "2025-03-19T23:48:58",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_the_White_House_made_out_of_computer_co_d09135cc-5c50-4881-ab8a-b34c1d920646.webp?w=578"
-        },
-        {
-            "title": "Biggest robotics news from NVIDIA GTC day 2",
-            "link": "https://www.therobotreport.com/the-biggest-robotics-news-from-nvidia-gtc-day-2/",
-            "description": "NVIDIA GTC is in full swing in San Jose. This article recaps the second day of the event including CEO Jensen Huang's keynote presentation. The post B...",
-            "pubDate": "2025-03-19T19:29:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/NVIDIA-GR00T-featured.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Women in robotics breakfast returns to Robotics Summit",
@@ -103,18 +96,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Isaac-for-Healthcare-768x499-1.jpg"
         },
         {
-            "title": "4 technologies that could power the future of energy",
-            "link": "https://www.technologyreview.com/2025/03/19/1113381/energy-technology-lasers-steel-batteries/",
-            "description": "Where can you find lasers, electric guitars, and racks full of novel batteries, all in the same giant room? This week, the answer was the 2025 ARPA-E ...",
-            "pubDate": "2025-03-19T16:40:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Hugging Face submits open-source blueprint, challenging Big Tech in White House AI policy fight",
+            "link": "https://venturebeat.com/ai/hugging-face-submits-open-source-blueprint-challenging-big-tech-in-white-house-ai-policy-fight/",
+            "description": "Hugging Face challenges Big Tech in White House AI Action Plan submission, arguing open-source models match commercial performance while democratizing...",
+            "pubDate": "2025-03-19T23:48:58",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_the_White_House_made_out_of_computer_co_d09135cc-5c50-4881-ab8a-b34c1d920646.webp?w=578"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Biggest robotics news from NVIDIA GTC day 2",
+            "link": "https://www.therobotreport.com/the-biggest-robotics-news-from-nvidia-gtc-day-2/",
+            "description": "NVIDIA GTC is in full swing in San Jose. This article recaps the second day of the event including CEO Jensen Huang's keynote presentation. The post B...",
+            "pubDate": "2025-03-19T19:29:18",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/NVIDIA-GR00T-featured.jpg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -143,6 +136,13 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
