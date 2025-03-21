@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-20T17:21:22.797320",
+    "lastBuildDate": "2025-03-20T21:58:04.498812",
     "items": [
+        {
+            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
+            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
+            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
+            "pubDate": "2025-03-21T00:06:20",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
+        },
         {
             "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
             "link": "https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/",
@@ -31,13 +38,6 @@
             "description": "Hugging Face challenges Big Tech in White House AI Action Plan submission, arguing open-source models match commercial performance while democratizing...",
             "pubDate": "2025-03-19T23:48:58",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_the_White_House_made_out_of_computer_co_d09135cc-5c50-4881-ab8a-b34c1d920646.webp?w=578"
-        },
-        {
-            "title": "Nvidia’s Cosmos-Transfer1 makes robot training freakishly realistic—and that changes everything",
-            "link": "https://venturebeat.com/ai/nvidias-cosmos-transfer1-makes-robot-training-freakishly-realistic-and-that-changes-everything/",
-            "description": "Nvidia releases Cosmos-Transfer1, a groundbreaking AI model that generates photorealistic simulations for training robots and autonomous vehicles by b...",
-            "pubDate": "2025-03-19T20:14:59",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_self-driving_car_and_a_robot_in_Nvidia__ac29134f-49c0-4687-9bc1-6cb0abb32256.webp?w=578"
         }
     ]
 }
