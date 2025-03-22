@@ -2,21 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-21T10:49:53.599595",
+    "lastBuildDate": "2025-03-22T08:40:35.510067",
     "items": [
         {
-            "title": "Inside a new quest to save the “doomsday glacier”",
-            "link": "https://www.technologyreview.com/2025/03/21/1113396/inside-a-new-quest-to-save-the-doomsday-glacier/",
-            "description": "The Thwaites glacier is a fortress larger than Florida, a wall of ice that reaches nearly 4,000 feet above the bedrock of West Antarctica, guarding th...",
-            "pubDate": "2025-03-21T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/674CC16C-F763-42DC-8821-49D78FAAEF64.jpeg?w=2667"
+            "title": "Recap: Check out the robots at  Promat and GTC 2025",
+            "link": "https://www.therobotreport.com/recap-check-out-the-robots-at-promat-and-gtc-2025/",
+            "description": "Missed ProMat 2025 and/or NVIDIA GTC 2025? Our editorial staff was there, and recap what they learned in this episode. The post Recap: Check out the r...",
+            "pubDate": "2025-03-22T01:17:32",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/RSE25_728x90_RegNow-1_Vs1.jpg"
         },
         {
-            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
-            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
-            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
-            "pubDate": "2025-03-21T00:06:20",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
+            "title": "The future of flight: How autonomous systems are shaping the next generation of UAVs",
+            "link": "https://www.therobotreport.com/uavs-future-flight-how-autonomy-shaping-next-generation-drones/",
+            "description": "Fully autonomous UAVs open up possibilities for market growth, operational efficiency, and security, writes Swift Engineering's president. The post Th...",
+            "pubDate": "2025-03-22T13:30:58",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/SULE-Test-Flight014.jpg"
         },
         {
             "title": "The Download: saving the “doomsday glacier,” and Europe’s hopes for its rockets",
@@ -26,18 +26,53 @@
             "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f494.png"
         },
         {
+            "title": "Inside a new quest to save the “doomsday glacier”",
+            "link": "https://www.technologyreview.com/2025/03/21/1113396/inside-a-new-quest-to-save-the-doomsday-glacier/",
+            "description": "The Thwaites glacier is a fortress larger than Florida, a wall of ice that reaches nearly 4,000 feet above the bedrock of West Antarctica, guarding th...",
+            "pubDate": "2025-03-21T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/674CC16C-F763-42DC-8821-49D78FAAEF64.jpeg?w=2667"
+        },
+        {
+            "title": "Less is more: UC Berkeley and Google unlock LLM potential through simple sampling",
+            "link": "https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/",
+            "description": "With multiple sampling and self-verification, Gemini 1.5 Pro can outperform o1-preview in reasoning tasks.",
+            "pubDate": "2025-03-21T23:39:14",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/LLM-self-verification.jpeg?w=578"
+        },
+        {
+            "title": "Sanctuary AI uses NVIDIA Isaac Lab to accelerate robot training",
+            "link": "https://www.therobotreport.com/sanctuary-ai-uses-nvidia-isaac-lab-to-accelerate-robot-training/",
+            "description": "Sanctuary AI uses Isaac Lab to train its hydraulic hands to perform cutting-edge manipulation tasks, in simulation and in reality. The post Sanctuary ...",
+            "pubDate": "2025-03-21T18:52:16",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/20250313NVIDIAIsaacv2.jpg"
+        },
+        {
+            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
+            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
+            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
+            "pubDate": "2025-03-21T00:06:20",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
+        },
+        {
+            "title": "IntuiCell augments off the shelf quadruped with a ‘digital nervous system’",
+            "link": "https://www.therobotreport.com/intuicell-augments-off-the-shelf-quadruped-digital-nervous-system/",
+            "description": "IntuiCell created a physical AI agent capable of learning autonomously in a manner that mimics a biological nervous system. The post IntuiCell augment...",
+            "pubDate": "2025-03-21T20:59:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/intuicell-featured.jpg"
+        },
+        {
             "title": "Autopsies can reveal intimate health details. Should they be kept private?",
             "link": "https://www.technologyreview.com/2025/03/21/1113549/autopsies-reveal-intimate-health-details-kept-private/",
             "description": "Over the past couple of weeks, I’ve been following news of the deaths of actor Gene Hackman and his wife, pianist Betsy Arakawa. It was heartbreaking ...",
             "pubDate": "2025-03-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "ABB launches RoboMasters app-based robotics training tool",
-            "link": "https://www.therobotreport.com/abb-launches-robomasters-app-based-robotics-training-tool/",
-            "description": "The RoboMasters app builds on ABB Robotics' physical training courses to offer a convenient, easy-to-use tool. The post ABB launches RoboMasters app-b...",
-            "pubDate": "2025-03-20T21:32:40",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/abb-featured.jpg"
+            "title": "OpenAI has released its first research into how using ChatGPT affects people’s emotional wellbeing",
+            "link": "https://www.technologyreview.com/2025/03/21/1113635/openai-has-released-its-first-research-into-how-using-chatgpt-affects-peoples-emotional-wellbeing/",
+            "description": "OpenAI says over 400 million people use ChatGPT every week. But how does interacting with it affect us? Does it make us more or less lonely? These are...",
+            "pubDate": "2025-03-21T18:44:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
@@ -47,18 +82,11 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-answers-phone.png?w=578"
         },
         {
-            "title": "Figure AI unveils BotQ high-volume humanoid manufacturing facility",
-            "link": "https://www.therobotreport.com/figure-ai-unveils-botq-high-volume-humanoid-manufacturing-facility/",
-            "description": "Figure AI said it's moving the manufacturing of its humanoids in-house to control the build process and quality. The post Figure AI unveils BotQ high-...",
-            "pubDate": "2025-03-20T22:24:15",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/BotQ7.jpg"
-        },
-        {
-            "title": "Europe is finally getting serious about commercial rockets",
-            "link": "https://www.technologyreview.com/2025/03/20/1113582/europe-is-finally-getting-serious-about-commercial-rockets/",
-            "description": "Europe is on the cusp of a new dawn in commercial space technology. As global political tensions intensify and relationships with the US become increa...",
-            "pubDate": "2025-03-20T19:19:14",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/c-Isar-Aerospace-Photo-Wingmen-Media-_9-Engine-Hot-Fire-Stage-1.jpg?w=3000"
+            "title": "Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules",
+            "link": "https://venturebeat.com/security/googles-32b-wiz-bet-ai-driven-cnapp-will-finally-eliminate-devsecops-bottlenecks/",
+            "description": "The real story behind Google acquiring Wiz is how the need for speed and better cloud security dominates every enterprise’s devops cycles.",
+            "pubDate": "2025-03-20T18:54:45",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/2025-03-19_16-19-34.jpg?w=578"
         },
         {
             "title": "Anthropic just gave Claude a superpower: real-time web search. Here’s why it changes everything",
@@ -68,46 +96,18 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/website-hero-websearch.jpg?w=578"
         },
         {
-            "title": "Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules",
-            "link": "https://venturebeat.com/security/googles-32b-wiz-bet-ai-driven-cnapp-will-finally-eliminate-devsecops-bottlenecks/",
-            "description": "The real story behind Google acquiring Wiz is how the need for speed and better cloud security dominates every enterprise’s devops cycles.",
-            "pubDate": "2025-03-20T18:54:45",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/2025-03-19_16-19-34.jpg?w=578"
+            "title": "Europe is finally getting serious about commercial rockets",
+            "link": "https://www.technologyreview.com/2025/03/20/1113582/europe-is-finally-getting-serious-about-commercial-rockets/",
+            "description": "Europe is on the cusp of a new dawn in commercial space technology. As global political tensions intensify and relationships with the US become increa...",
+            "pubDate": "2025-03-20T19:19:14",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/c-Isar-Aerospace-Photo-Wingmen-Media-_9-Engine-Hot-Fire-Stage-1.jpg?w=3000"
         },
         {
-            "title": "Roundtables: AI Chatbots Have Joined the Chat",
-            "link": "https://www.technologyreview.com/2025/03/20/1113501/roundtables-ai-chatbots-have-joined-the-chat/",
-            "description": "Recorded on March 20, 2025 AI Chatbots Have Joined the Chat Speakers: Rachel Courtland, commissioning editor, Rhiannon Williams, news reporter, and Ei...",
-            "pubDate": "2025-03-20T18:45:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Hugging Face submits open-source blueprint, challenging Big Tech in White House AI policy fight",
-            "link": "https://venturebeat.com/ai/hugging-face-submits-open-source-blueprint-challenging-big-tech-in-white-house-ai-policy-fight/",
-            "description": "Hugging Face challenges Big Tech in White House AI Action Plan submission, arguing open-source models match commercial performance while democratizing...",
-            "pubDate": "2025-03-19T23:48:58",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_the_White_House_made_out_of_computer_co_d09135cc-5c50-4881-ab8a-b34c1d920646.webp?w=578"
-        },
-        {
-            "title": "Biggest robotics news from NVIDIA GTC day 2",
-            "link": "https://www.therobotreport.com/the-biggest-robotics-news-from-nvidia-gtc-day-2/",
-            "description": "NVIDIA GTC is in full swing in San Jose. This article recaps the second day of the event including CEO Jensen Huang's keynote presentation. The post B...",
-            "pubDate": "2025-03-19T19:29:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/NVIDIA-GR00T-featured.jpg"
-        },
-        {
-            "title": "NVIDIA’s GTC 2025: Here’s the top medtech AI news",
-            "link": "https://www.therobotreport.com/nvidias-gtc-2025-heres-the-top-medtech-ai-news/",
-            "description": "GTC 2025 has seen news about using AI to advance autonomous imaging, surgical robotics, brain-computer interfaces, and more. The post NVIDIA’s GTC 202...",
-            "pubDate": "2025-03-19T20:02:29",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Isaac-for-Healthcare-768x499-1.jpg"
-        },
-        {
-            "title": "Women in robotics breakfast returns to Robotics Summit",
-            "link": "https://www.therobotreport.com/women-in-robotics-breakfast-returns-to-robotics-summit/",
-            "description": "The Robotics Summit will feature a conversation between Motional's Laura Major and MassRobotics' Joyce Sidopoulos. The post Women in robotics breakfas...",
-            "pubDate": "2025-03-19T16:13:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/MAJOR.jpg"
+            "title": "Figure AI unveils BotQ high-volume humanoid manufacturing facility",
+            "link": "https://www.therobotreport.com/figure-ai-unveils-botq-high-volume-humanoid-manufacturing-facility/",
+            "description": "Figure AI said it's moving the manufacturing of its humanoids in-house to control the build process and quality. The post Figure AI unveils BotQ high-...",
+            "pubDate": "2025-03-20T22:24:15",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/BotQ7.jpg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -117,13 +117,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -143,6 +136,13 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }

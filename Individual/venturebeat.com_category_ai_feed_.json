@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-21T10:49:53.605946",
+    "lastBuildDate": "2025-03-22T08:40:35.513110",
     "items": [
+        {
+            "title": "Less is more: UC Berkeley and Google unlock LLM potential through simple sampling",
+            "link": "https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/",
+            "description": "With multiple sampling and self-verification, Gemini 1.5 Pro can outperform o1-preview in reasoning tasks.",
+            "pubDate": "2025-03-21T23:39:14",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/LLM-self-verification.jpeg?w=578"
+        },
         {
             "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
             "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
@@ -31,13 +38,6 @@
             "description": "Anthropic launches real-time web search for Claude AI, challenging ChatGPT's dominance while securing $3.5 billion in funding at a $61.5 billion valua...",
             "pubDate": "2025-03-20T17:50:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/website-hero-websearch.jpg?w=578"
-        },
-        {
-            "title": "Hugging Face submits open-source blueprint, challenging Big Tech in White House AI policy fight",
-            "link": "https://venturebeat.com/ai/hugging-face-submits-open-source-blueprint-challenging-big-tech-in-white-house-ai-policy-fight/",
-            "description": "Hugging Face challenges Big Tech in White House AI Action Plan submission, arguing open-source models match commercial performance while democratizing...",
-            "pubDate": "2025-03-19T23:48:58",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_the_White_House_made_out_of_computer_co_d09135cc-5c50-4881-ab8a-b34c1d920646.webp?w=578"
         }
     ]
 }
