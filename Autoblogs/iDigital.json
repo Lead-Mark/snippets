@@ -2,21 +2,49 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-22T08:40:35.510067",
+    "lastBuildDate": "2025-03-23T02:08:55.991454",
     "items": [
-        {
-            "title": "Recap: Check out the robots at  Promat and GTC 2025",
-            "link": "https://www.therobotreport.com/recap-check-out-the-robots-at-promat-and-gtc-2025/",
-            "description": "Missed ProMat 2025 and/or NVIDIA GTC 2025? Our editorial staff was there, and recap what they learned in this episode. The post Recap: Check out the r...",
-            "pubDate": "2025-03-22T01:17:32",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/RSE25_728x90_RegNow-1_Vs1.jpg"
-        },
         {
             "title": "The future of flight: How autonomous systems are shaping the next generation of UAVs",
             "link": "https://www.therobotreport.com/uavs-future-flight-how-autonomy-shaping-next-generation-drones/",
             "description": "Fully autonomous UAVs open up possibilities for market growth, operational efficiency, and security, writes Swift Engineering's president. The post Th...",
             "pubDate": "2025-03-22T13:30:58",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/SULE-Test-Flight014.jpg"
+        },
+        {
+            "title": "The open-source AI debate: Why selective transparency poses a serious risk",
+            "link": "https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/",
+            "description": "It is misleading to call AI open source when no one can look at, experiment with and understand each element that went into creating it.",
+            "pubDate": "2025-03-22T21:45:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_robot_scientist_vs_robot_businessman_632ad8fb-90de-4747-8bda-2faf5ffcd5be.webp?w=578"
+        },
+        {
+            "title": "Recap: Check out the robots at ProMat and GTC 2025",
+            "link": "https://www.therobotreport.com/recap-check-out-the-robots-at-promat-and-gtc-2025/",
+            "description": "Missed ProMat 2025 and/or NVIDIA GTC 2025? Our editorial staff was there, and recap what they learned in this episode. The post Recap: Check out the r...",
+            "pubDate": "2025-03-22T01:17:32",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/RSE25_728x90_RegNow-1_Vs1.jpg"
+        },
+        {
+            "title": "Less is more: UC Berkeley and Google unlock LLM potential through simple sampling",
+            "link": "https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/",
+            "description": "With multiple sampling and self-verification, Gemini 1.5 Pro can outperform o1-preview in reasoning tasks.",
+            "pubDate": "2025-03-21T23:39:14",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/LLM-self-verification.jpeg?w=578"
+        },
+        {
+            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
+            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
+            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
+            "pubDate": "2025-03-21T00:06:20",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
+        },
+        {
+            "title": "Sanctuary AI uses NVIDIA Isaac Lab to accelerate robot training",
+            "link": "https://www.therobotreport.com/sanctuary-ai-uses-nvidia-isaac-lab-to-accelerate-robot-training/",
+            "description": "Sanctuary AI uses Isaac Lab to train its hydraulic hands to perform cutting-edge manipulation tasks, in simulation and in reality. The post Sanctuary ...",
+            "pubDate": "2025-03-21T18:52:16",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/20250313NVIDIAIsaacv2.jpg"
         },
         {
             "title": "The Download: saving the “doomsday glacier,” and Europe’s hopes for its rockets",
@@ -33,27 +61,6 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/674CC16C-F763-42DC-8821-49D78FAAEF64.jpeg?w=2667"
         },
         {
-            "title": "Less is more: UC Berkeley and Google unlock LLM potential through simple sampling",
-            "link": "https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/",
-            "description": "With multiple sampling and self-verification, Gemini 1.5 Pro can outperform o1-preview in reasoning tasks.",
-            "pubDate": "2025-03-21T23:39:14",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/LLM-self-verification.jpeg?w=578"
-        },
-        {
-            "title": "Sanctuary AI uses NVIDIA Isaac Lab to accelerate robot training",
-            "link": "https://www.therobotreport.com/sanctuary-ai-uses-nvidia-isaac-lab-to-accelerate-robot-training/",
-            "description": "Sanctuary AI uses Isaac Lab to train its hydraulic hands to perform cutting-edge manipulation tasks, in simulation and in reality. The post Sanctuary ...",
-            "pubDate": "2025-03-21T18:52:16",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/20250313NVIDIAIsaacv2.jpg"
-        },
-        {
-            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
-            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
-            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
-            "pubDate": "2025-03-21T00:06:20",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
-        },
-        {
             "title": "IntuiCell augments off the shelf quadruped with a ‘digital nervous system’",
             "link": "https://www.therobotreport.com/intuicell-augments-off-the-shelf-quadruped-digital-nervous-system/",
             "description": "IntuiCell created a physical AI agent capable of learning autonomously in a manner that mimics a biological nervous system. The post IntuiCell augment...",
@@ -65,21 +72,21 @@
             "link": "https://www.technologyreview.com/2025/03/21/1113549/autopsies-reveal-intimate-health-details-kept-private/",
             "description": "Over the past couple of weeks, I’ve been following news of the deaths of actor Gene Hackman and his wife, pianist Betsy Arakawa. It was heartbreaking ...",
             "pubDate": "2025-03-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "OpenAI has released its first research into how using ChatGPT affects people’s emotional wellbeing",
             "link": "https://www.technologyreview.com/2025/03/21/1113635/openai-has-released-its-first-research-into-how-using-chatgpt-affects-peoples-emotional-wellbeing/",
             "description": "OpenAI says over 400 million people use ChatGPT every week. But how does interacting with it affect us? Does it make us more or less lonely? These are...",
             "pubDate": "2025-03-21T18:44:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
-            "link": "https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/",
-            "description": "Three, all new proprietary voice models called gpt-4o-transcribe, gpt-4o-mini-transcribe and gpt-4o-mini-tts.",
-            "pubDate": "2025-03-20T19:21:53",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-answers-phone.png?w=578"
+            "title": "Figure AI unveils BotQ high-volume humanoid manufacturing facility",
+            "link": "https://www.therobotreport.com/figure-ai-unveils-botq-high-volume-humanoid-manufacturing-facility/",
+            "description": "Figure AI said it's moving the manufacturing of its humanoids in-house to control the build process and quality. The post Figure AI unveils BotQ high-...",
+            "pubDate": "2025-03-20T22:24:15",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/BotQ7.jpg"
         },
         {
             "title": "Speed is King: How Google’s $32B Wiz play rewrites DevOps security rules",
@@ -89,13 +96,6 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/2025-03-19_16-19-34.jpg?w=578"
         },
         {
-            "title": "Anthropic just gave Claude a superpower: real-time web search. Here’s why it changes everything",
-            "link": "https://venturebeat.com/ai/anthropic-just-gave-claude-a-superpower-real-time-web-search-heres-why-it-changes-everything/",
-            "description": "Anthropic launches real-time web search for Claude AI, challenging ChatGPT's dominance while securing $3.5 billion in funding at a $61.5 billion valua...",
-            "pubDate": "2025-03-20T17:50:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/website-hero-websearch.jpg?w=578"
-        },
-        {
             "title": "Europe is finally getting serious about commercial rockets",
             "link": "https://www.technologyreview.com/2025/03/20/1113582/europe-is-finally-getting-serious-about-commercial-rockets/",
             "description": "Europe is on the cusp of a new dawn in commercial space technology. As global political tensions intensify and relationships with the US become increa...",
@@ -103,11 +103,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/c-Isar-Aerospace-Photo-Wingmen-Media-_9-Engine-Hot-Fire-Stage-1.jpg?w=3000"
         },
         {
-            "title": "Figure AI unveils BotQ high-volume humanoid manufacturing facility",
-            "link": "https://www.therobotreport.com/figure-ai-unveils-botq-high-volume-humanoid-manufacturing-facility/",
-            "description": "Figure AI said it's moving the manufacturing of its humanoids in-house to control the build process and quality. The post Figure AI unveils BotQ high-...",
-            "pubDate": "2025-03-20T22:24:15",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/BotQ7.jpg"
+            "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
+            "link": "https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/",
+            "description": "Three, all new proprietary voice models called gpt-4o-transcribe, gpt-4o-mini-transcribe and gpt-4o-mini-tts.",
+            "pubDate": "2025-03-20T19:21:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-answers-phone.png?w=578"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -124,11 +131,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -136,13 +143,6 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
