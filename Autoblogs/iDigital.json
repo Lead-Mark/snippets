@@ -2,21 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-24T07:23:43.454247",
+    "lastBuildDate": "2025-03-24T11:07:59.986152",
     "items": [
+        {
+            "title": "The high- and low-level context behind Nvidia CEO Jensen Huang’s GTC 2025 keynote | Dion Harris interview",
+            "link": "https://venturebeat.com/games/the-high-and-low-level-context-behind-nvidia-ceo-jensen-huangs-gtc-2025-keynote-dion-harris-interview/",
+            "description": "Dion Harris of Nvidia helped us piece together the context for Nvidia CEO Jensen Huang's GTC 2025 keynote.",
+            "pubDate": "2025-03-24T14:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/03/Earth-2-Image.jpg?w=578"
+        },
+        {
+            "title": "The Download: the dangers of AI agents, and ChatGPT’s effects on our wellbeing",
+            "link": "https://www.technologyreview.com/2025/03/24/1113683/the-download-the-dangers-of-ai-agents-and-chatgpts-effects-on-our-wellbeing/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why handing ...",
+            "pubDate": "2025-03-24T14:00:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1fa9f.png"
+        },
         {
             "title": "Why handing over total control to AI agents would be a huge mistake",
             "link": "https://www.technologyreview.com/2025/03/24/1113647/why-handing-over-total-control-to-ai-agents-would-be-a-huge-mistake/",
             "description": "AI agents have set the tech industry abuzz. Unlike chatbots, these groundbreaking new systems operate outside of a chat window, navigating multiple ap...",
             "pubDate": "2025-03-24T11:55:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "‘Gradually then suddenly’: Is AI job displacement following this pattern?",
-            "link": "https://venturebeat.com/ai/gradually-then-suddenly-is-ai-job-displacement-following-this-pattern/",
-            "description": "Many technological shifts have coincided with economic downturns. Will 2025 be the year AI not only augments jobs but starts to replace them?",
-            "pubDate": "2025-03-23T21:15:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/image1_33685a.png?w=578"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "BlueHalo wins $30M follow-on contract with the U.S. Navy",
@@ -26,11 +33,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/bluehalo-featured.jpg"
         },
         {
-            "title": "The open-source AI debate: Why selective transparency poses a serious risk",
-            "link": "https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/",
-            "description": "It is misleading to call AI open source when no one can look at, experiment with and understand each element that went into creating it.",
-            "pubDate": "2025-03-22T21:45:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_robot_scientist_vs_robot_businessman_632ad8fb-90de-4747-8bda-2faf5ffcd5be.webp?w=578"
+            "title": "‘Gradually then suddenly’: Is AI job displacement following this pattern?",
+            "link": "https://venturebeat.com/ai/gradually-then-suddenly-is-ai-job-displacement-following-this-pattern/",
+            "description": "Many technological shifts have coincided with economic downturns. Will 2025 be the year AI not only augments jobs but starts to replace them?",
+            "pubDate": "2025-03-23T21:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/image1_33685a.png?w=578"
         },
         {
             "title": "The future of flight: How autonomous systems are shaping the next generation of UAVs",
@@ -40,32 +47,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/SULE-Test-Flight014.jpg"
         },
         {
+            "title": "The open-source AI debate: Why selective transparency poses a serious risk",
+            "link": "https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/",
+            "description": "It is misleading to call AI open source when no one can look at, experiment with and understand each element that went into creating it.",
+            "pubDate": "2025-03-22T21:45:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_robot_scientist_vs_robot_businessman_632ad8fb-90de-4747-8bda-2faf5ffcd5be.webp?w=578"
+        },
+        {
             "title": "Recap: Check out the robots at ProMat and GTC 2025",
             "link": "https://www.therobotreport.com/recap-check-out-the-robots-at-promat-and-gtc-2025/",
             "description": "Missed ProMat 2025 and/or NVIDIA GTC 2025? Our editorial staff was there, and recap what they learned in this episode. The post Recap: Check out the r...",
             "pubDate": "2025-03-22T01:17:32",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/RSE25_728x90_RegNow-1_Vs1.jpg"
-        },
-        {
-            "title": "The Download: saving the “doomsday glacier,” and Europe’s hopes for its rockets",
-            "link": "https://www.technologyreview.com/2025/03/21/1113624/the-download-saving-the-doomsday-glacier-and-europes-hopes-for-its-rockets/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside a new...",
-            "pubDate": "2025-03-21T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f494.png"
-        },
-        {
-            "title": "Sanctuary AI uses NVIDIA Isaac Lab to accelerate robot training",
-            "link": "https://www.therobotreport.com/sanctuary-ai-uses-nvidia-isaac-lab-to-accelerate-robot-training/",
-            "description": "Sanctuary AI uses Isaac Lab to train its hydraulic hands to perform cutting-edge manipulation tasks, in simulation and in reality. The post Sanctuary ...",
-            "pubDate": "2025-03-21T18:52:16",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/20250313NVIDIAIsaacv2.jpg"
-        },
-        {
-            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
-            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
-            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
-            "pubDate": "2025-03-21T00:06:20",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
         },
         {
             "title": "IntuiCell augments off the shelf quadruped with a ‘digital nervous system’",
@@ -89,32 +82,39 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/LLM-self-verification.jpeg?w=578"
         },
         {
+            "title": "The Download: saving the “doomsday glacier,” and Europe’s hopes for its rockets",
+            "link": "https://www.technologyreview.com/2025/03/21/1113624/the-download-saving-the-doomsday-glacier-and-europes-hopes-for-its-rockets/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside a new...",
+            "pubDate": "2025-03-21T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f494.png"
+        },
+        {
+            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
+            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
+            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
+            "pubDate": "2025-03-21T00:06:20",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
+        },
+        {
+            "title": "Sanctuary AI uses NVIDIA Isaac Lab to accelerate robot training",
+            "link": "https://www.therobotreport.com/sanctuary-ai-uses-nvidia-isaac-lab-to-accelerate-robot-training/",
+            "description": "Sanctuary AI uses Isaac Lab to train its hydraulic hands to perform cutting-edge manipulation tasks, in simulation and in reality. The post Sanctuary ...",
+            "pubDate": "2025-03-21T18:52:16",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/20250313NVIDIAIsaacv2.jpg"
+        },
+        {
             "title": "OpenAI has released its first research into how using ChatGPT affects people’s emotional wellbeing",
             "link": "https://www.technologyreview.com/2025/03/21/1113635/openai-has-released-its-first-research-into-how-using-chatgpt-affects-peoples-emotional-wellbeing/",
             "description": "OpenAI says over 400 million people use ChatGPT every week. But how does interacting with it affect us? Does it make us more or less lonely? These are...",
             "pubDate": "2025-03-21T18:44:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Autopsies can reveal intimate health details. Should they be kept private?",
-            "link": "https://www.technologyreview.com/2025/03/21/1113549/autopsies-reveal-intimate-health-details-kept-private/",
-            "description": "Over the past couple of weeks, I’ve been following news of the deaths of actor Gene Hackman and his wife, pianist Betsy Arakawa. It was heartbreaking ...",
-            "pubDate": "2025-03-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "OpenAI’s new voice AI model gpt-4o-transcribe lets you add speech to your existing text apps in seconds",
-            "link": "https://venturebeat.com/ai/openais-new-voice-ai-models-gpt-4o-transcribe-let-you-add-speech-to-your-existing-text-apps-in-seconds/",
-            "description": "Three, all new proprietary voice models called gpt-4o-transcribe, gpt-4o-mini-transcribe and gpt-4o-mini-tts.",
-            "pubDate": "2025-03-20T19:21:53",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-answers-phone.png?w=578"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -124,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
