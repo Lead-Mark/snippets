@@ -2,14 +2,49 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-24T11:07:59.986152",
+    "lastBuildDate": "2025-03-25T06:36:31.729788",
     "items": [
         {
-            "title": "The high- and low-level context behind Nvidia CEO Jensen Huang’s GTC 2025 keynote | Dion Harris interview",
-            "link": "https://venturebeat.com/games/the-high-and-low-level-context-behind-nvidia-ceo-jensen-huangs-gtc-2025-keynote-dion-harris-interview/",
-            "description": "Dion Harris of Nvidia helped us piece together the context for Nvidia CEO Jensen Huang's GTC 2025 keynote.",
-            "pubDate": "2025-03-24T14:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/03/Earth-2-Image.jpg?w=578"
+            "title": "From alerts to autonomy: How leading SOCs use AI copilots to fight signal overload and staffing shortfalls",
+            "link": "https://venturebeat.com/security/ai-copilots-cut-false-positives-and-burnout-in-overworked-socs/",
+            "description": "SOCs are seeing false positive rates drop 70%, while shaving 40+ hrs a week of manual triage thanks to the rapid advances in AI copilots.",
+            "pubDate": "2025-03-25T01:33:23",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/AI-Security-Copilots-Are-Slashing-False-Positives—And-Burnout—in-Understaffed-SOCs.jpg?w=578"
+        },
+        {
+            "title": "Why the world is looking to ditch US AI models",
+            "link": "https://www.technologyreview.com/2025/03/25/1113696/why-the-world-is-looking-to-ditch-us-ai-models/",
+            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This week’s ...",
+            "pubDate": "2025-03-25T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Ethically sourced “spare” human bodies could revolutionize medicine",
+            "link": "https://www.technologyreview.com/2025/03/25/1113611/ethically-sourced-spare-human-bodies-could-revolutionize-medicine/",
+            "description": "Why do we hear about medical breakthroughs in mice, but rarely see them translate into cures for human disease? Why do so few drugs that enter clinica...",
+            "pubDate": "2025-03-25T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Bota Systems gets hands-on with haptic teleoperation at Robotics Summit",
+            "link": "https://www.therobotreport.com/bota-systems-gets-hands-on-with-haptic-teleoperation-at-robotics-summit/",
+            "description": "Attendees will see for the first time the Bota FT Stack developed for robotic software engineers of any level. A demonstrator of haptic teleoperation ...",
+            "pubDate": "2025-03-24T16:42:01",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Robots-with-the-Sense-of-Touch-e1742830519437.png"
+        },
+        {
+            "title": "The Bot Company, led by Kyle Vogt, brings in another $150M",
+            "link": "https://www.therobotreport.com/the-bot-company-led-by-kyle-vogt-brings-in-another-150m/",
+            "description": "Over a year after Vogt launched The Bot Company, and with no publicly unveiled prototype, the startup is valued at $3 billion. The post The Bot Compan...",
+            "pubDate": "2025-03-24T20:01:18",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/05/cruise-kyle-vogt-keynote.jpg"
+        },
+        {
+            "title": "Boston Dynamics plans to use NVIDIA’s Isaac GR00T to build AI capabilities for Atlas",
+            "link": "https://www.therobotreport.com/boston-dynamics-plans-to-use-nvidias-isaac-gr00t-to-build-ai-capabilities-for-atlas/",
+            "description": "Boston Dynamics and its research partners are collaborating on learned dexterity and locomotion AI policies using Isaac Lab. The post Boston Dynamics ...",
+            "pubDate": "2025-03-24T18:01:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/atlas-news-featured.jpg"
         },
         {
             "title": "The Download: the dangers of AI agents, and ChatGPT’s effects on our wellbeing",
@@ -17,6 +52,27 @@
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why handing ...",
             "pubDate": "2025-03-24T14:00:00",
             "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1fa9f.png"
+        },
+        {
+            "title": "Midjourney’s surprise: new research on making LLMs write more creatively",
+            "link": "https://venturebeat.com/ai/midjourneys-surprise-new-research-on-making-llms-write-more-creatively/",
+            "description": "There's still a lot of juice left to be squeezed, cognitively and performance-wise, from classic Transformer-based, text-focused LLMs.",
+            "pubDate": "2025-03-24T22:36:24",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/cfr0z3n_surreal_image_of_researchers_gathered_around_looking_in_9545941e-3bbf-46e0-ac02-84c6fb6e6f89-1.png?w=578"
+        },
+        {
+            "title": "DeepSeek-V3 now runs at 20 tokens per second on Mac Studio, and that’s a nightmare for OpenAI",
+            "link": "https://venturebeat.com/ai/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio-and-thats-a-nightmare-for-openai/",
+            "description": "DeepSeek's free 685B-parameter AI model runs at 20 tokens/second on Apple's Mac Studio, outperforming Claude Sonnet while using just 200 watts, challe...",
+            "pubDate": "2025-03-24T20:50:58",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_whale_made_of_computer_code_chinese_f_619bb717-8408-4140-90f1-dd66bfc1e499.webp?w=578"
+        },
+        {
+            "title": "The high- and low-level context behind Nvidia CEO Jensen Huang’s GTC 2025 keynote | Dion Harris interview",
+            "link": "https://venturebeat.com/games/the-high-and-low-level-context-behind-nvidia-ceo-jensen-huangs-gtc-2025-keynote-dion-harris-interview/",
+            "description": "Dion Harris of Nvidia helped us piece together the context for Nvidia CEO Jensen Huang's GTC 2025 keynote.",
+            "pubDate": "2025-03-24T14:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/03/Earth-2-Image.jpg?w=578"
         },
         {
             "title": "Why handing over total control to AI agents would be a huge mistake",
@@ -47,67 +103,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/SULE-Test-Flight014.jpg"
         },
         {
-            "title": "The open-source AI debate: Why selective transparency poses a serious risk",
-            "link": "https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/",
-            "description": "It is misleading to call AI open source when no one can look at, experiment with and understand each element that went into creating it.",
-            "pubDate": "2025-03-22T21:45:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_robot_scientist_vs_robot_businessman_632ad8fb-90de-4747-8bda-2faf5ffcd5be.webp?w=578"
-        },
-        {
-            "title": "Recap: Check out the robots at ProMat and GTC 2025",
-            "link": "https://www.therobotreport.com/recap-check-out-the-robots-at-promat-and-gtc-2025/",
-            "description": "Missed ProMat 2025 and/or NVIDIA GTC 2025? Our editorial staff was there, and recap what they learned in this episode. The post Recap: Check out the r...",
-            "pubDate": "2025-03-22T01:17:32",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/RSE25_728x90_RegNow-1_Vs1.jpg"
-        },
-        {
-            "title": "IntuiCell augments off the shelf quadruped with a ‘digital nervous system’",
-            "link": "https://www.therobotreport.com/intuicell-augments-off-the-shelf-quadruped-digital-nervous-system/",
-            "description": "IntuiCell created a physical AI agent capable of learning autonomously in a manner that mimics a biological nervous system. The post IntuiCell augment...",
-            "pubDate": "2025-03-21T20:59:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/intuicell-featured.jpg"
-        },
-        {
-            "title": "Inside a new quest to save the “doomsday glacier”",
-            "link": "https://www.technologyreview.com/2025/03/21/1113396/inside-a-new-quest-to-save-the-doomsday-glacier/",
-            "description": "The Thwaites glacier is a fortress larger than Florida, a wall of ice that reaches nearly 4,000 feet above the bedrock of West Antarctica, guarding th...",
-            "pubDate": "2025-03-21T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/674CC16C-F763-42DC-8821-49D78FAAEF64.jpeg?w=2667"
-        },
-        {
-            "title": "Less is more: UC Berkeley and Google unlock LLM potential through simple sampling",
-            "link": "https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/",
-            "description": "With multiple sampling and self-verification, Gemini 1.5 Pro can outperform o1-preview in reasoning tasks.",
-            "pubDate": "2025-03-21T23:39:14",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/LLM-self-verification.jpeg?w=578"
-        },
-        {
-            "title": "The Download: saving the “doomsday glacier,” and Europe’s hopes for its rockets",
-            "link": "https://www.technologyreview.com/2025/03/21/1113624/the-download-saving-the-doomsday-glacier-and-europes-hopes-for-its-rockets/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside a new...",
-            "pubDate": "2025-03-21T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f494.png"
-        },
-        {
-            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
-            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
-            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
-            "pubDate": "2025-03-21T00:06:20",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
-        },
-        {
-            "title": "Sanctuary AI uses NVIDIA Isaac Lab to accelerate robot training",
-            "link": "https://www.therobotreport.com/sanctuary-ai-uses-nvidia-isaac-lab-to-accelerate-robot-training/",
-            "description": "Sanctuary AI uses Isaac Lab to train its hydraulic hands to perform cutting-edge manipulation tasks, in simulation and in reality. The post Sanctuary ...",
-            "pubDate": "2025-03-21T18:52:16",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/20250313NVIDIAIsaacv2.jpg"
-        },
-        {
-            "title": "OpenAI has released its first research into how using ChatGPT affects people’s emotional wellbeing",
+            "title": "OpenAI has released its first research into how using ChatGPT affects people’s emotional well-being",
             "link": "https://www.technologyreview.com/2025/03/21/1113635/openai-has-released-its-first-research-into-how-using-chatgpt-affects-peoples-emotional-wellbeing/",
             "description": "OpenAI says over 400 million people use ChatGPT every week. But how does interacting with it affect us? Does it make us more or less lonely? These are...",
             "pubDate": "2025-03-21T18:44:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -117,18 +117,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",

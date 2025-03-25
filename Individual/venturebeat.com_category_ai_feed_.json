@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-24T11:07:59.991639",
+    "lastBuildDate": "2025-03-25T06:36:31.734216",
     "items": [
+        {
+            "title": "From alerts to autonomy: How leading SOCs use AI copilots to fight signal overload and staffing shortfalls",
+            "link": "https://venturebeat.com/security/ai-copilots-cut-false-positives-and-burnout-in-overworked-socs/",
+            "description": "SOCs are seeing false positive rates drop 70%, while shaving 40+ hrs a week of manual triage thanks to the rapid advances in AI copilots.",
+            "pubDate": "2025-03-25T01:33:23",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/AI-Security-Copilots-Are-Slashing-False-Positives—And-Burnout—in-Understaffed-SOCs.jpg?w=578"
+        },
+        {
+            "title": "Midjourney’s surprise: new research on making LLMs write more creatively",
+            "link": "https://venturebeat.com/ai/midjourneys-surprise-new-research-on-making-llms-write-more-creatively/",
+            "description": "There's still a lot of juice left to be squeezed, cognitively and performance-wise, from classic Transformer-based, text-focused LLMs.",
+            "pubDate": "2025-03-24T22:36:24",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/cfr0z3n_surreal_image_of_researchers_gathered_around_looking_in_9545941e-3bbf-46e0-ac02-84c6fb6e6f89-1.png?w=578"
+        },
+        {
+            "title": "DeepSeek-V3 now runs at 20 tokens per second on Mac Studio, and that’s a nightmare for OpenAI",
+            "link": "https://venturebeat.com/ai/deepseek-v3-now-runs-at-20-tokens-per-second-on-mac-studio-and-thats-a-nightmare-for-openai/",
+            "description": "DeepSeek's free 685B-parameter AI model runs at 20 tokens/second on Apple's Mac Studio, outperforming Claude Sonnet while using just 200 watts, challe...",
+            "pubDate": "2025-03-24T20:50:58",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_a_whale_made_of_computer_code_chinese_f_619bb717-8408-4140-90f1-dd66bfc1e499.webp?w=578"
+        },
         {
             "title": "The high- and low-level context behind Nvidia CEO Jensen Huang’s GTC 2025 keynote | Dion Harris interview",
             "link": "https://venturebeat.com/games/the-high-and-low-level-context-behind-nvidia-ceo-jensen-huangs-gtc-2025-keynote-dion-harris-interview/",
@@ -17,27 +38,6 @@
             "description": "Many technological shifts have coincided with economic downturns. Will 2025 be the year AI not only augments jobs but starts to replace them?",
             "pubDate": "2025-03-23T21:15:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/image1_33685a.png?w=578"
-        },
-        {
-            "title": "The open-source AI debate: Why selective transparency poses a serious risk",
-            "link": "https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/",
-            "description": "It is misleading to call AI open source when no one can look at, experiment with and understand each element that went into creating it.",
-            "pubDate": "2025-03-22T21:45:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_robot_scientist_vs_robot_businessman_632ad8fb-90de-4747-8bda-2faf5ffcd5be.webp?w=578"
-        },
-        {
-            "title": "Less is more: UC Berkeley and Google unlock LLM potential through simple sampling",
-            "link": "https://venturebeat.com/ai/less-is-more-uc-berkeley-and-google-unlock-llm-potential-through-simple-sampling/",
-            "description": "With multiple sampling and self-verification, Gemini 1.5 Pro can outperform o1-preview in reasoning tasks.",
-            "pubDate": "2025-03-21T23:39:14",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/LLM-self-verification.jpeg?w=578"
-        },
-        {
-            "title": "Small models as paralegals: LexisNexis distills models to build AI assistant",
-            "link": "https://venturebeat.com/ai/small-models-as-paralegals-lexisnexis-distills-models-to-build-ai-assistant/",
-            "description": "LexisNexis fine-tuned Mistral models to build its Protege AI assistant, relying on distilled and small models for its AI platform.",
-            "pubDate": "2025-03-21T00:06:20",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/crimedy7_illustration_of_a_robot_lawyer_in_a_courtroom_comic_st_0f329656-c60d-42b3-b0e9-daa3cdaa1eb6.jpeg?w=578"
         }
     ]
 }
