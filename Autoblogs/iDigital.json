@@ -2,8 +2,22 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-26T07:03:03.953140",
+    "lastBuildDate": "2025-03-26T11:06:04.350402",
     "items": [
+        {
+            "title": "Rapt AI and AMD work to make GPU utilization more efficient",
+            "link": "https://venturebeat.com/games/rapt-ai-and-amd-work-to-make-gpu-utilization-more-efficient/",
+            "description": "Rapt AI, a provider of AI-powered AI-workload automation for GPUs and AI accelerators, has teamed with AMD to enhance AI infrastructure.",
+            "pubDate": "2025-03-26T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/AMD-Instinct-MI300X_Delidded-Die_Left.jpg?w=578"
+        },
+        {
+            "title": "Observe launches VoiceAI agents to automate customer call centers with realistic, humanlike voices that don’t interrupt",
+            "link": "https://venturebeat.com/ai/observe-launches-voiceai-agents-to-automate-customer-call-centers-with-realistic-humanlike-voices-that-dont-interrupt/",
+            "description": "Observe.AI has officially launched VoiceAI agents, a solution designed to automate routine customer interactions in contact centers. The latest additi...",
+            "pubDate": "2025-03-26T14:47:38",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-call-center.png?w=578"
+        },
         {
             "title": "Microsoft infuses enterprise agents with deep reasoning, unveils data Analyst agent that outsmarts competitors",
             "link": "https://venturebeat.com/ai/microsoft-infuses-enterprise-agents-with-deep-reasoning-unveils-data-analyst-agent-that-outsmarts-competitors/",
@@ -12,39 +26,32 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/ChatGPT-Image-Mar-25-2025-11_00_30-AM.png?w=578"
         },
         {
-            "title": "China built hundreds of AI data centers to catch the AI boom. Now many stand unused.",
-            "link": "https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/",
-            "description": "A year or so ago, Xiao Li was seeing floods of Nvidia chip deals on WeChat. A real estate contractor turned data center project manager, he had pivote...",
-            "pubDate": "2025-03-26T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "The Download: China’s empty data centers, and OpenAI’s new practical image generator",
+            "link": "https://www.technologyreview.com/2025/03/26/1113810/the-download-chinas-empty-data-centers-and-openais-new-practical-image-generator/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China built ...",
+            "pubDate": "2025-03-26T14:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/GettyImages-1433324047.jpeg?fit=1456,818"
+        },
+        {
+            "title": "AI advances lead to more nimble humanoids, greater autonomy at NVIDIA GTC",
+            "link": "https://www.therobotreport.com/nvidia-gtc-ai-advances-lead-nimble-humanoids-greater-autonomy/",
+            "description": "From teleoperated humanoids to cutting-edge surgical systems, NVIDIA GTC featured robots using AI to train autonomous functionality. The post AI advan...",
+            "pubDate": "2025-03-26T13:30:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/GTC-2025-featured.jpg"
         },
         {
             "title": "The AI Hype Index: DeepSeek mania, Israel’s spying tool, and cheating at chess",
             "link": "https://www.technologyreview.com/2025/03/26/1113694/ai-hype-index-artificial-intelligence-openai-manus-doge/",
             "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
             "pubDate": "2025-03-26T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Google releases ‘most intelligent model to date,’ Gemini 2.5 Pro",
-            "link": "https://venturebeat.com/ai/google-releases-most-intelligent-model-to-date-gemini-2-5-pro/",
-            "description": "Gemini 2.5 Pro is now available for Gemini Advanced users and is Google's most capable model with a 1 million token context window.",
-            "pubDate": "2025-03-25T21:17:11",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-office.png?w=578"
-        },
-        {
-            "title": "OpenAI’s new image generator aims to be practical enough for designers and advertisers",
-            "link": "https://www.technologyreview.com/2025/03/25/1113745/openais-new-image-generator-aims-to-be-practical-enough-for-designers-and-advertisers/",
-            "description": "OpenAI has released a new image generator that’s designed less for typical surrealist AI art and more for highly controllable and practical creation o...",
-            "pubDate": "2025-03-25T19:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/4x4.png?w=512"
-        },
-        {
-            "title": "igus to show educational robots, axis Community at Robotics Summit",
-            "link": "https://www.therobotreport.com/igus-to-show-educational-robots-axis-community-at-robotics-summit/",
-            "description": "Equipped with a gripper and built for modular functionality, igus' ReBeL EduMove mobile robot can incorporate additional technologies such as lidar se...",
-            "pubDate": "2025-03-25T21:12:43",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/igus-at-robotics-summit.jpg"
+            "title": "China built hundreds of AI data centers to catch the AI boom. Now many stand unused.",
+            "link": "https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/",
+            "description": "A year or so ago, Xiao Li was seeing floods of Nvidia chip deals on WeChat. A real estate contractor turned data center project manager, he had pivote...",
+            "pubDate": "2025-03-26T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Contoro picks up $12M to scale container unloading robots",
@@ -54,32 +61,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/States_and_Contoro.jpg"
         },
         {
-            "title": "Beyond transformers: Nvidia’s MambaVision aims to unlock faster, cheaper enterprise computer vision",
-            "link": "https://venturebeat.com/ai/beyond-transformers-nvidias-mambavision-aims-to-unlock-faster-cheaper-enterprise-computer-vision/",
-            "description": "Nvidia is updating its computer vision models with new versions of MambaVision that combine the best of Mamba and transformers to improve efficiency.",
-            "pubDate": "2025-03-25T23:35:25",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/faster_computer_vi_image_smk.jpg?w=578"
-        },
-        {
-            "title": "‘Insane’: OpenAI introduces GPT-4o native image generation and it’s already wowing users",
-            "link": "https://venturebeat.com/ai/insane-openai-introduces-gpt-4o-native-image-generation-and-its-already-wowing-users/",
-            "description": "As AI-generated images become more precise and accessible, GPT-4o represents a significant step forward in the space.",
-            "pubDate": "2025-03-25T20:10:37",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/dude-freaking-art.png?w=578"
-        },
-        {
-            "title": "China to invest $137B in robotics and high-tech industries, reports IFR",
-            "link": "https://www.therobotreport.com/china-invests-137b-robotics-high-tech-industries-reports-ifr/",
-            "description": "The National People's Congress is planning a venture fund that could reach 1 trillion yuan as China focuses on producing and using robots. The post Ch...",
-            "pubDate": "2025-03-25T16:34:50",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/China_Humanoide_Robot_2025.jpg"
-        },
-        {
-            "title": "Teradyne Robotics, NVIDIA show latest AI Accelerator toolkit at GTC",
-            "link": "https://www.therobotreport.com/teradyne-robotics-nvidia-shows-latest-ai-accelerator-toolkit-gtc/",
-            "description": "The AI Accelerator is a toolkit designed by Teradyne Robotics company Universal Robots to enable the development of AI-powered applications. The post ...",
-            "pubDate": "2025-03-25T21:09:35",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/teradyne-nvidia-featured.jpg"
+            "title": "Waymo to expand robotaxi services to Washington, D.C., next year",
+            "link": "https://www.therobotreport.com/waymo-expand-robotaxi-services-washington-2026/",
+            "description": "In addition to Washington, D.C., Waymo plans to bring its autonomous vehicles to Atlanta and Miami later this year. The post Waymo to expand robotaxi ...",
+            "pubDate": "2025-03-25T20:40:55",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/waymo-DC-featured.jpg"
         },
         {
             "title": "METASCALE improves LLM reasoning with adaptive strategies",
@@ -89,6 +75,20 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/04/an-ai-thinking-deeply-d1QQ83YATmWIi27u1BpWAQ-n6j3Yxn7TMuUfTDndIEbUA-transformed.jpeg?w=578"
         },
         {
+            "title": "OpenAI’s new image generator aims to be practical enough for designers and advertisers",
+            "link": "https://www.technologyreview.com/2025/03/25/1113745/openais-new-image-generator-aims-to-be-practical-enough-for-designers-and-advertisers/",
+            "description": "OpenAI has released a new image generator that’s designed less for typical surrealist AI art and more for highly controllable and practical creation o...",
+            "pubDate": "2025-03-25T19:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/4x4.png?w=512"
+        },
+        {
+            "title": "Beyond transformers: Nvidia’s MambaVision aims to unlock faster, cheaper enterprise computer vision",
+            "link": "https://venturebeat.com/ai/beyond-transformers-nvidias-mambavision-aims-to-unlock-faster-cheaper-enterprise-computer-vision/",
+            "description": "Nvidia is updating its computer vision models with new versions of MambaVision that combine the best of Mamba and transformers to improve efficiency.",
+            "pubDate": "2025-03-25T23:35:25",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/faster_computer_vi_image_smk.jpg?w=578"
+        },
+        {
             "title": "The Download: creating “spare” human bodies, and ditching US AI models",
             "link": "https://www.technologyreview.com/2025/03/25/1113734/the-download-creating-spare-human-bodies-and-ditching-us-ai-models/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Ethically so...",
@@ -96,18 +96,25 @@
             "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXddWM2-JfvEqM5l7jYHDLDUSQ3QaKJqp8ROQ7XowH2fDjIy05_TUK0vbF9GCsO7bgn1E5yi6RpYD0AgVmlA_TJEt2tCRCut8E3soaOJSg53EtgU7drlAzQAAyTjmnVew7aAZbGAZQ?key=M0YLPGx6eKuWM-ISKkcCCzjG"
         },
         {
-            "title": "Waymo to expand robotaxi services to Washington, D.C., next year",
-            "link": "https://www.therobotreport.com/waymo-expand-robotaxi-services-washington-2026/",
-            "description": "In addition to Washington, D.C., Waymo plans to bring its autonomous vehicles to Atlanta and Miami later this year. The post Waymo to expand robotaxi ...",
-            "pubDate": "2025-03-25T20:40:55",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/waymo-DC-featured.jpg"
+            "title": "Teradyne Robotics, NVIDIA show latest AI Accelerator toolkit at GTC",
+            "link": "https://www.therobotreport.com/teradyne-robotics-nvidia-shows-latest-ai-accelerator-toolkit-gtc/",
+            "description": "The AI Accelerator is a toolkit designed by Teradyne Robotics company Universal Robots to enable the development of AI-powered applications. The post ...",
+            "pubDate": "2025-03-25T21:09:35",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/teradyne-nvidia-featured.jpg"
         },
         {
-            "title": "How to… delete your 23andMe data",
-            "link": "https://www.technologyreview.com/2025/03/25/1105488/how-to-delete-your-23andme-data/",
-            "description": "This story was originally published in October 2024. In March 2025, 23andMe filed for bankruptcy and announced its plans to “facilitate a sale process...",
-            "pubDate": "2025-03-25T12:09:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "igus to show educational robots, axis Community at Robotics Summit",
+            "link": "https://www.therobotreport.com/igus-to-show-educational-robots-axis-community-at-robotics-summit/",
+            "description": "Equipped with a gripper and built for modular functionality, igus' ReBeL EduMove mobile robot can incorporate additional technologies such as lidar se...",
+            "pubDate": "2025-03-25T21:12:43",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/igus-at-robotics-summit.jpg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -124,11 +131,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -136,13 +143,6 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
