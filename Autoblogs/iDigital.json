@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-28T06:59:53.327095",
+    "lastBuildDate": "2025-03-28T11:12:33.993864",
     "items": [
+        {
+            "title": "The Download: peering inside an LLM, and the rise of Signal",
+            "link": "https://www.technologyreview.com/2025/03/28/1113950/the-download-peering-inside-an-llm-and-the-rise-of-signal/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic ca...",
+            "pubDate": "2025-03-28T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f9f2.png"
+        },
         {
             "title": "The TAO of data: How Databricks is optimizing  AI LLM fine-tuning without data labels",
             "link": "https://venturebeat.com/data-infrastructure/the-tao-of-data-how-databricks-is-optimizing-ai-llm-fine-tuning-without-data-labels/",
@@ -12,18 +19,18 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/enterprise_ai_data_labeling-smk.jpg?w=578"
         },
         {
+            "title": "How a bankruptcy judge can stop a genetic privacy disaster",
+            "link": "https://www.technologyreview.com/2025/03/28/1113911/how-a-bankruptcy-judge-can-stop-a-genetic-privacy-disaster/",
+            "description": "Stop me if you’ve heard this one before: A tech company accumulates a ton of user data, hoping to figure out a business model later. That business mod...",
+            "pubDate": "2025-03-28T14:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
             "title": "“Spare” living human bodies might provide us with organs for transplantation",
             "link": "https://www.technologyreview.com/2025/03/28/1113923/spare-living-human-bodies-might-provide-organs/",
             "description": "This week, MIT Technology Review published a piece on bodyoids—living bodies that cannot think or feel pain. In the piece, a trio of scientists argue ...",
             "pubDate": "2025-03-28T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Zoox issues voluntary software recall for 258 vehicles",
-            "link": "https://www.therobotreport.com/zoox-issues-voluntary-software-recall-258-vehicles/",
-            "description": "The recalled software is no longer in use, and no Zoox vehicles on the road operate with this software today. The post Zoox issues voluntary software ...",
-            "pubDate": "2025-03-27T13:30:45",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Zoox-Las-Vegas-featured.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Anthropic scientists expose how AI actually ‘thinks’ — and discover it secretly plans ahead and sometimes lies",
@@ -33,18 +40,11 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_circuit_tracing_in_a_brain_fluorescent__e5c3e1b0-80ed-49e4-b134-c5e84232180d.webp?w=578"
         },
         {
-            "title": "Anthropic can now track the bizarre inner workings of a large language model",
-            "link": "https://www.technologyreview.com/2025/03/27/1113916/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/",
-            "description": "The AI firm Anthropic has developed a way to peer inside a large language model and watch what it does as it comes up with a response, revealing key n...",
-            "pubDate": "2025-03-27T18:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/claudemath.jpg"
-        },
-        {
-            "title": "ChatGPT gets smarter: OpenAI adds internal data referencing",
-            "link": "https://venturebeat.com/ai/chatgpt-gets-smarter-openai-adds-internal-data-referencing/",
-            "description": "Users of ChatGPT Team can now add internal databases as references for ChatGPT, making the chat platform respond with better context.",
-            "pubDate": "2025-03-27T23:39:09",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-dev-meeting.png?w=578"
+            "title": "INCYMO launches AI-powered mobile gaming creative ad platform",
+            "link": "https://venturebeat.com/games/incymo-launches-ai-powered-mobile-gaming-creative-ad-platform/",
+            "description": "INCYMO.AI launched its human-powered, AI-aided creative platform for crafting mobile gaming advertisements.",
+            "pubDate": "2025-03-27T13:45:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/incymo.jpg?w=578"
         },
         {
             "title": "The watchful AI that never sleeps: Hakimo’s $10.5M bet on autonomous security",
@@ -54,20 +54,6 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_HAL-9000_eye_c13aa77e-8fc2-497c-afb4-7dbd1417d17d.webp?w=578"
         },
         {
-            "title": "The Download: how people fall for pig butchering schemes, and saving glaciers",
-            "link": "https://www.technologyreview.com/2025/03/27/1113913/the-download-how-people-fall-for-pig-butchering-schemes-and-saving-glaciers/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside a rom...",
-            "pubDate": "2025-03-27T14:00:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f489.png"
-        },
-        {
-            "title": "INCYMO launches AI-powered mobile gaming creative ad platform",
-            "link": "https://venturebeat.com/games/incymo-launches-ai-powered-mobile-gaming-creative-ad-platform/",
-            "description": "INCYMO.AI launched its human-powered, AI-aided creative platform for crafting mobile gaming advertisements.",
-            "pubDate": "2025-03-27T13:45:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/incymo.jpg?w=578"
-        },
-        {
             "title": "Torc debuts physical AI for long-haul trucking at NVIDIA GTC 2025",
             "link": "https://www.therobotreport.com/torc-debuts-physical-ai-long-haul-trucking-nvidia-gtc-2025/",
             "description": "Torc, Flex, and NVIDIA have partnered to develop a scalable AI compute system for autonomous trucks, aiming for 2027 commercial launch. The post Torc ...",
@@ -75,18 +61,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/RSE25_728x90_RegNow-1_Vs1.jpg"
         },
         {
-            "title": "How to save a glacier",
-            "link": "https://www.technologyreview.com/2025/03/27/1113864/how-to-save-a-glacier/",
-            "description": "Glaciers generally move so slowly you can’t see their progress with the naked eye. (Their pace is … glacial.) But these massive bodies of ice do march...",
-            "pubDate": "2025-03-27T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "ChatGPT gets smarter: OpenAI adds internal data referencing",
+            "link": "https://venturebeat.com/ai/chatgpt-gets-smarter-openai-adds-internal-data-referencing/",
+            "description": "Users of ChatGPT Team can now add internal databases as references for ChatGPT, making the chat platform respond with better context.",
+            "pubDate": "2025-03-27T23:39:09",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/robot-dev-meeting.png?w=578"
+        },
+        {
+            "title": "Zoox issues voluntary software recall for 258 vehicles",
+            "link": "https://www.therobotreport.com/zoox-issues-voluntary-software-recall-258-vehicles/",
+            "description": "The recalled software is no longer in use, and no Zoox vehicles on the road operate with this software today. The post Zoox issues voluntary software ...",
+            "pubDate": "2025-03-27T13:30:45",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Zoox-Las-Vegas-featured.jpg"
+        },
+        {
+            "title": "Anthropic can now track the bizarre inner workings of a large language model",
+            "link": "https://www.technologyreview.com/2025/03/27/1113916/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/",
+            "description": "The AI firm Anthropic has developed a way to peer inside a large language model and watch what it does as it comes up with a response, revealing key n...",
+            "pubDate": "2025-03-27T18:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/claudemath.jpg"
         },
         {
             "title": "What is Signal? The messaging app, explained.",
             "link": "https://www.technologyreview.com/2025/03/27/1113919/what-is-signal-the-messaging-app-explained/",
             "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
             "pubDate": "2025-03-27T18:03:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Flexxbotics updates FlexxCORE to help robotic companies scale production",
