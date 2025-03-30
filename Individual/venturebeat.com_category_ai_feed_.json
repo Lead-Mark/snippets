@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-29T01:48:46.781226",
+    "lastBuildDate": "2025-03-30T09:04:11.607829",
     "items": [
+        {
+            "title": "Why businesses judge AI like humans — and what that means for adoption",
+            "link": "https://venturebeat.com/ai/why-businesses-judge-ai-like-humans-and-what-that-means-for-adoption/",
+            "description": "Enterprises adopting AI aren’t just signing a “utility contract” for revenue growth; they’re entering an “emotional contract.”",
+            "pubDate": "2025-03-29T20:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_science_vs._business_9fd64199-a8dd-4de8-961d-28abb66c6dce.webp?w=578"
+        },
+        {
+            "title": "Google’s Gemini 2.5 Pro is the smartest model you’re not using – and 4 reasons it matters for enterprise AI",
+            "link": "https://venturebeat.com/ai/googles-gemini-2-5-pro-is-the-smartest-model-youre-not-using-and-4-reasons-it-matters-for-enterprise-ai/",
+            "description": "Gemini 2.5 Pro marks a significant leap forward for Google in the foundational model race – not just in benchmarks, but in usability. Based on early e...",
+            "pubDate": "2025-03-29T16:28:44",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/ChatGPT-Image-Mar-29-2025-08_23_02-AM.png?w=578"
+        },
         {
             "title": "Credit where credit’s due: Inside Experian’s AI framework that’s changing financial access",
             "link": "https://venturebeat.com/ai/credit-where-credits-due-inside-experians-ai-framework-thats-changing-financial-access/",
@@ -24,20 +38,6 @@
             "description": "The researchers compared two versions of OLMo-1b: one pre-trained on 2.3 trillion tokens and another on 3 trillion tokens.",
             "pubDate": "2025-03-28T21:01:20",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/cfr0z3n_an_overworeked_humanoid_robot_emits_visible_sweat_drops_ec3ba283-683f-4c5b-94c2-fc1b228577c4.png?w=578"
-        },
-        {
-            "title": "Hands on with Gemini 2.5 Pro: why it might be the most useful reasoning model yet",
-            "link": "https://venturebeat.com/ai/beyond-benchmarks-gemini-2-5-pro-is-probably-the-best-reasoning-model-yet/",
-            "description": "Gemini 2.5 Pro stands out with its massive context window, impressive multimodal reasoning and detailed reasoning chain.",
-            "pubDate": "2025-03-28T20:39:59",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nuneybits_Abstract_impressionist_art_of_a_Google_robot_e6cf73cd-bf9f-473b-8456-75f43d1d2e95-transformed.webp?w=578"
-        },
-        {
-            "title": "The TAO of data: How Databricks is optimizing  AI LLM fine-tuning without data labels",
-            "link": "https://venturebeat.com/data-infrastructure/the-tao-of-data-how-databricks-is-optimizing-ai-llm-fine-tuning-without-data-labels/",
-            "description": "New approach flips the script on enterprise AI adoption by using input data you already have for fine-tuning instead of needing labelled data.",
-            "pubDate": "2025-03-28T00:53:43",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/enterprise_ai_data_labeling-smk.jpg?w=578"
         }
     ]
 }
