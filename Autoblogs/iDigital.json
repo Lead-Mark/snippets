@@ -2,8 +2,29 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-03-31T06:44:38.251356",
+    "lastBuildDate": "2025-03-31T10:59:53.981020",
     "items": [
+        {
+            "title": "The Download: generative AI therapy, and the future of 23andMe’s genetic data",
+            "link": "https://www.technologyreview.com/2025/03/31/1114041/the-download-generative-ai-therapy-and-the-future-of-23andmes-genetic-data/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The first tr...",
+            "pubDate": "2025-03-31T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdNDry87Q16gFMS1BvFNoI4L2vjMc2-rC4WAdK19UI3gMHO6fwP_16qx7sAAI5OqfLj5yvkn70fKzw1yzOJgG-u71kWIxom4BzU61NpRvrWTBgP-dKxb9gvnoUkZh8rUb9mkEJJOw?key=QaZKt6gq5hS7FtkZOUZkcQSk"
+        },
+        {
+            "title": "A new, enterprise-specific AI speech model is here: Jargonic from aiOla claims to best rivals at your business’s lingo",
+            "link": "https://venturebeat.com/ai/a-new-enterprise-specific-ai-speech-model-is-here-jargonic-from-aiola-claims-to-best-rivals-at-your-businesss-lingo/",
+            "description": "The model’s architecture integrates keyword spotting directly into the transcription process, allowing Jargonic to maintain accuracy...",
+            "pubDate": "2025-03-31T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/cfr0z3n_a_robot_with_headphones_emitting_visible_sound_waves_in_4f884cad-1490-4163-977a-c8fb88af3c56.png?w=578"
+        },
+        {
+            "title": "How do you design a Museum of the Future? | Brendan McGetrick interview",
+            "link": "https://venturebeat.com/games/how-do-you-design-a-museum-of-the-future-brendan-mcgetrick-interview/",
+            "description": "Brendan McGetrick, the creative director of Museum of the Future, came to Austin, Texas, with a traveling exhibit for the first time recently.",
+            "pubDate": "2025-03-31T14:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/WebHigh-Fine-Art-Wide-Fog-View-1.jpg?w=578"
+        },
         {
             "title": "Building robots can be a pain: 6 reasons you should let someone else do it",
             "link": "https://www.therobotreport.com/building-robots-can-be-a-pain-6-reasons-let-someone-else-do-it-ska-robotics/",
@@ -19,11 +40,11 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/HALtransformed.webp?w=578"
         },
         {
-            "title": "Kollmorgen releases SFD-M high-resolution encoder with multi-turn absolute feedback",
-            "link": "https://www.therobotreport.com/kollmorgen-releases-sfd-m-high-resolution-encoder-multi-turn-absolute-feedback/",
-            "description": "Designed to work with AKD and AKD2G drives, the SFD-M absolute multi-turn encoder can be integrated into Kollmorgen-housed servo motors. The post Koll...",
-            "pubDate": "2025-03-29T01:29:54",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Kollmorgen-featured.jpg"
+            "title": "Johnson & Johnson MedTech launches Dualto generator that will work with Ottava surgical robot",
+            "link": "https://www.therobotreport.com/johnson-johnson-medtech-launches-dualto-generator-work-ottava-surgical-robot/",
+            "description": "Johnson & Johnson designed Dualto to deliver the choice of powering monopolar, bipolar, ultrasonic, or advanced bipolar instruments. The post Johnson ...",
+            "pubDate": "2025-03-29T13:30:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/JnJ-Dualto-768x499-1.jpg"
         },
         {
             "title": "Why businesses judge AI like humans — and what that means for adoption",
@@ -33,25 +54,11 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_science_vs._business_9fd64199-a8dd-4de8-961d-28abb66c6dce.webp?w=578"
         },
         {
-            "title": "Credit where credit’s due: Inside Experian’s AI framework that’s changing financial access",
-            "link": "https://venturebeat.com/ai/credit-where-credits-due-inside-experians-ai-framework-thats-changing-financial-access/",
-            "description": "Experian's enterprise AI framework offers valuable lessons for businesses seeking to scale beyond proof of concept.",
-            "pubDate": "2025-03-29T00:13:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/ai_being_used_credit_SMK.jpg?w=578"
-        },
-        {
             "title": "Google’s Gemini 2.5 Pro is the smartest model you’re not using – and 4 reasons it matters for enterprise AI",
             "link": "https://venturebeat.com/ai/googles-gemini-2-5-pro-is-the-smartest-model-youre-not-using-and-4-reasons-it-matters-for-enterprise-ai/",
             "description": "Gemini 2.5 Pro marks a significant leap forward for Google in the foundational model race – not just in benchmarks, but in usability. Based on early e...",
             "pubDate": "2025-03-29T16:28:44",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/ChatGPT-Image-Mar-29-2025-08_23_02-AM.png?w=578"
-        },
-        {
-            "title": "Johnson & Johnson MedTech launches Dualto generator that will work with Ottava surgical robot",
-            "link": "https://www.therobotreport.com/johnson-johnson-medtech-launches-dualto-generator-work-ottava-surgical-robot/",
-            "description": "Johnson & Johnson designed Dualto to deliver the choice of powering monopolar, bipolar, ultrasonic, or advanced bipolar instruments. The post Johnson ...",
-            "pubDate": "2025-03-29T13:30:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/JnJ-Dualto-768x499-1.jpg"
         },
         {
             "title": "Serve Robotics CEO Ali Kashani on the future of last-mile logistics",
@@ -61,18 +68,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Ali-Kashani-circle.jpg"
         },
         {
+            "title": "Kollmorgen releases SFD-M high-resolution encoder with multi-turn absolute feedback",
+            "link": "https://www.therobotreport.com/kollmorgen-releases-sfd-m-high-resolution-encoder-multi-turn-absolute-feedback/",
+            "description": "Designed to work with AKD and AKD2G drives, the SFD-M absolute multi-turn encoder can be integrated into Kollmorgen-housed servo motors. The post Koll...",
+            "pubDate": "2025-03-29T01:29:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/Kollmorgen-featured.jpg"
+        },
+        {
             "title": "3 women share advice for navigating the robotics industry",
             "link": "https://www.therobotreport.com/3-women-share-advice-for-navigating-the-robotics-industry/",
             "description": "This Women's History Month, we spoke with 3 women with a variety of industry experiences about what they've learned from working in robotics. The post...",
             "pubDate": "2025-03-28T21:01:10",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/womeninrobotics-featured.jpg"
-        },
-        {
-            "title": "New approach to agent reliability, AgentSpec, forces agents to follow rules",
-            "link": "https://venturebeat.com/ai/new-approach-to-agent-reliability-agentspec-forces-agents-to-follow-rules/",
-            "description": "Researchers from Singapore Management University developed a new domain-specific language for agents to remain reliable.",
-            "pubDate": "2025-03-28T21:05:33",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_robot_scientist_vs_robot_businessman_e9e69d34-ef1e-4ca9-94c3-091e3376e0c2.webp?w=578"
         },
         {
             "title": "The Download: peering inside an LLM, and the rise of Signal",
@@ -82,39 +89,32 @@
             "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f9f2.png"
         },
         {
-            "title": "The first trial of generative AI therapy shows it might help with depression",
-            "link": "https://www.technologyreview.com/2025/03/28/1114001/the-first-trial-of-generative-ai-therapy-shows-it-might-help-with-depression/",
-            "description": "The first clinical trial of a therapy bot that uses generative AI suggests it was as effective as human therapy for participants with depression, anxi...",
-            "pubDate": "2025-03-28T18:07:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "“Spare” living human bodies might provide us with organs for transplantation",
+            "link": "https://www.technologyreview.com/2025/03/28/1113923/spare-living-human-bodies-might-provide-organs/",
+            "description": "This week, MIT Technology Review published a piece on bodyoids—living bodies that cannot think or feel pain. In the piece, a trio of experts argue tha...",
+            "pubDate": "2025-03-28T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "How a bankruptcy judge can stop a genetic privacy disaster",
             "link": "https://www.technologyreview.com/2025/03/28/1113911/how-a-bankruptcy-judge-can-stop-a-genetic-privacy-disaster/",
             "description": "Stop me if you’ve heard this one before: A tech company accumulates a ton of user data, hoping to figure out a business model later. That business mod...",
             "pubDate": "2025-03-28T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "“Spare” living human bodies might provide us with organs for transplantation",
-            "link": "https://www.technologyreview.com/2025/03/28/1113923/spare-living-human-bodies-might-provide-organs/",
-            "description": "This week, MIT Technology Review published a piece on bodyoids—living bodies that cannot think or feel pain. In the piece, a trio of scientists argue ...",
-            "pubDate": "2025-03-28T10:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "What is Signal? The messaging app, explained.",
-            "link": "https://www.technologyreview.com/2025/03/27/1113919/what-is-signal-the-messaging-app-explained/",
-            "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
-            "pubDate": "2025-03-27T18:03:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "The first trial of generative AI therapy shows it might help with depression",
+            "link": "https://www.technologyreview.com/2025/03/28/1114001/the-first-trial-of-generative-ai-therapy-shows-it-might-help-with-depression/",
+            "description": "The first clinical trial of a therapy bot that uses generative AI suggests it was as effective as human therapy for participants with depression, anxi...",
+            "pubDate": "2025-03-28T18:07:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -124,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
