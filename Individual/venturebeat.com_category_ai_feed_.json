@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-03-30T09:04:11.607829",
+    "lastBuildDate": "2025-03-31T06:44:38.256163",
     "items": [
+        {
+            "title": "Beyond encryption: Why quantum computing might be more of a science boom than a cybersecurity bust",
+            "link": "https://venturebeat.com/security/beyond-encryption-why-quantum-computing-might-be-more-of-a-science-boom-than-a-cybersecurity-bust/",
+            "description": "While quantum computers will be able to break traditional encryption, we’re still a long way from “No More Secrets” decryption.",
+            "pubDate": "2025-03-30T19:05:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/HALtransformed.webp?w=578"
+        },
         {
             "title": "Why businesses judge AI like humans — and what that means for adoption",
             "link": "https://venturebeat.com/ai/why-businesses-judge-ai-like-humans-and-what-that-means-for-adoption/",
@@ -31,13 +38,6 @@
             "description": "Researchers from Singapore Management University developed a new domain-specific language for agents to remain reliable.",
             "pubDate": "2025-03-28T21:05:33",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_robot_scientist_vs_robot_businessman_e9e69d34-ef1e-4ca9-94c3-091e3376e0c2.webp?w=578"
-        },
-        {
-            "title": "Researchers warn of ‘catastrophic overtraining’ in LLMs",
-            "link": "https://venturebeat.com/ai/researchers-warn-of-catastrophic-overtraining-in-large-language-models/",
-            "description": "The researchers compared two versions of OLMo-1b: one pre-trained on 2.3 trillion tokens and another on 3 trillion tokens.",
-            "pubDate": "2025-03-28T21:01:20",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/cfr0z3n_an_overworeked_humanoid_robot_emits_visible_sweat_drops_ec3ba283-683f-4c5b-94c2-fc1b228577c4.png?w=578"
         }
     ]
 }
