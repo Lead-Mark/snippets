@@ -2,42 +2,63 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-02T07:07:30.391623",
+    "lastBuildDate": "2025-04-02T13:51:44.584987",
     "items": [
         {
-            "title": "Gladia launches Solaria as AI-based multi-lingual speech recognition model for speech-to-text transcription",
-            "link": "https://venturebeat.com/games/gladia-launches-solaria-as-ai-based-multi-lingual-speech-recognition-model-for-speech-to-text-transcription/",
-            "description": "Gladia, an AI transcription and audio intelligence provider, launched Solaria, a next-gen automatic speech recognition (ASR) model designed to redefin...",
-            "pubDate": "2025-04-02T12:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/gladia.jpg?w=578"
+            "title": "Zencoder’s ‘Coffee Mode’ is the future of coding: Hit a button and let AI write your unit tests",
+            "link": "https://venturebeat.com/ai/zencoders-coffee-mode-is-the-future-of-coding-hit-a-button-and-let-ai-write-your-unit-tests/",
+            "description": "Zencoder launches powerful AI coding agents with \"Coffee Mode\" that outperform competitors on benchmarks while integrating with existing developer env...",
+            "pubDate": "2025-04-02T14:01:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_robot_in_a_business_suit_holding_a_cu_d6414664-3059-44c6-b309-256854780022.webp?w=578"
+        },
+        {
+            "title": "50 most innovative robotics companies",
+            "link": "https://www.therobotreport.com/rbr50-2025/",
+            "description": "See who won Robot of the Year, Startup of the Year, Application of the Year, the new Robots for Good Award, and more. The post 50 most innovative robo...",
+            "pubDate": "2025-04-02T15:44:47",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/10/RBR50_2020_logo-437x1024-2-e1644899333753-159x300-1.png"
+        },
+        {
+            "title": "Augment Code debuts AI agent with 70% win rate over GitHub Copilot and record-breaking SWE-bench score",
+            "link": "https://venturebeat.com/ai/augment-code-debuts-ai-agent-with-70-win-rate-over-github-copilot-and-record-breaking-swe-bench-score/",
+            "description": "Augment Code launches AI technology that outperforms GitHub Copilot by 70% through real-time context understanding of massive codebases, securing $270...",
+            "pubDate": "2025-04-02T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_modern_workstation_computer_code_on_t_6e44c3e5-7a2b-4d0c-8f98-8590907428cf.webp?w=578"
+        },
+        {
+            "title": "Anthropic flips the script on AI in education: Claude’s Learning Mode makes students do the thinking",
+            "link": "https://venturebeat.com/ai/anthropic-flips-the-script-on-ai-in-education-claude-learning-mode-makes-students-do-the-thinking/",
+            "description": "Anthropic launches Claude for Education with Learning Mode that teaches critical thinking rather than providing answers, partnering with top universit...",
+            "pubDate": "2025-04-02T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_robot_Socrates_c06af523-2b7b-4884-bfff-9ac22a72d8db.webp?w=578"
+        },
+        {
+            "title": "Uplimit raises stakes in corporate learning with suite of AI agents that can train 1,000 employees simultaneously",
+            "link": "https://venturebeat.com/ai/uplimit-raises-stakes-in-corporate-learning-with-suite-of-ai-agents-that-can-train-1000-employees-simultaneously/",
+            "description": "Uplimit launches AI learning agents that help enterprises boost employee skills with 94% completion rates while reducing training admin time by 75%, a...",
+            "pubDate": "2025-04-02T15:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_upskilling_607255d2-08ce-47a3-875c-743f4ff2fcae.webp?w=578"
+        },
+        {
+            "title": "How Amex uses AI to increase efficiency: 40% fewer IT escalations, 85% travel assistance boost",
+            "link": "https://venturebeat.com/ai/how-amex-uses-ai-to-increase-efficiency-40-fewer-it-escalations-85-travel-assistance-boost/",
+            "description": "The AI-infused chatbot now interacts more intuitively, adapts to feedback and walks users through problems step-by-step.",
+            "pubDate": "2025-04-02T18:39:32",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/upscalemedia-transformed.png?w=578"
+        },
+        {
+            "title": "The Download: how to make better cooling systems, and farming on Mars",
+            "link": "https://www.technologyreview.com/2025/04/02/1114171/the-download-how-to-make-better-cooling-systems-and-farming-on-mars/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How 3D print...",
+            "pubDate": "2025-04-02T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/Eugenia-Cheng-thumb.jpeg"
         },
         {
             "title": "How 3D printing could make better cooling systems",
             "link": "https://www.technologyreview.com/2025/04/02/1114166/how-3d-printing-could-make-better-cooling-systems/",
             "description": "A new 3D-printed design could make an integral part of cooling systems like air conditioners or refrigerators smaller and more efficient, according to...",
             "pubDate": "2025-04-02T09:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "OpenAI to release open-source model as AI economics force strategic shift",
-            "link": "https://venturebeat.com/ai/openai-to-release-open-source-model-as-ai-economics-force-strategic-shift/",
-            "description": "OpenAI plans to release its first open-weight AI model since 2019 as economic pressures mount from competitors like DeepSeek and Meta, marking a signi...",
-            "pubDate": "2025-04-01T01:44:52",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/xfRFKXF.jpg?w=578"
-        },
-        {
-            "title": "Emergence AI’s new system automatically creates AI agents rapidly in realtime based on the work at hand",
-            "link": "https://venturebeat.com/ai/emergence-ais-new-system-automatically-creates-ai-agents-rapidly-in-realtime-based-on-the-work-at-hand/",
-            "description": "The new system is literally a no code, natural language, AI-powered multi-agent builder, and it works in real time.",
-            "pubDate": "2025-04-01T17:12:10",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_flat_illustration_corporate_memphis_style_minimalist__a526965a-cbc5-4f3d-95d2-fe44039b62f5_3.png?w=578"
-        },
-        {
-            "title": "RDS fleet management system applies across industrial scenarios, says SEER Robotics",
-            "link": "https://www.therobotreport.com/rds-fleet-management-applies-across-industrial-scenarios-says-seer-robotics/",
-            "description": "RDS can accelerate automation in cross-floor uses, complex plants, warehouse logistics, and precision manufacturing, says SEER Robotics. The post RDS ...",
-            "pubDate": "2025-04-01T20:28:10",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/SEER_elevator.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Agility Robotics shows off latest advances for Digit humanoid",
@@ -47,32 +68,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/67eaf9852fcb4a15fe08f37d_digit-promat-copy.jpg"
         },
         {
-            "title": "I asked an AI swarm to fill out a March Madness bracket — here’s what happened",
-            "link": "https://venturebeat.com/ai/i-asked-an-ai-swarm-to-fill-out-a-march-madness-bracket-heres-what-happened/",
-            "description": "How 50 random sports fans created a highly-accurate March Madness bracket through real-time conversational deliberation.",
-            "pubDate": "2025-04-01T18:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/upscalemedia-transformed.png?w=578"
-        },
-        {
-            "title": "Build or buy: Learn from commercialization experts at the Robotics Summit",
-            "link": "https://www.therobotreport.com/build-buy-learn-from-commercialization-experts-robotics-summit/",
-            "description": "At the Robotics Summit & Expo, a panel of seasoned experts will explore the critical role of outsourcing in robotics commercialization. The post Build...",
-            "pubDate": "2025-04-01T16:52:37",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/The-Robotics-Scale-Up-Commercialization-Journey-featured.jpg"
-        },
-        {
             "title": "The Download: brain-computer interfaces, and teaching an AI model to give therapy",
             "link": "https://www.technologyreview.com/2025/04/01/1114065/the-download-brain-computer-interfaces-and-teaching-an-ai-model-to-give-therapy/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Brain-comput...",
             "pubDate": "2025-04-01T13:10:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/10/GettyImages-1303037324.jpg?fit=1064,598"
-        },
-        {
-            "title": "Nvidia open sources Run:ai Scheduler to foster community collaboration",
-            "link": "https://venturebeat.com/games/nvidia-open-sources-runai-scheduler-to-foster-community-collaboration/",
-            "description": "Following up on previously announced plans, Nvidia said that it has open sourced new elements of the Run:ai platform, including the KAI Scheduler.",
-            "pubDate": "2025-04-01T09:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/kai-scheduler-cycle-1200-675.jpg?w=578"
         },
         {
             "title": "Top 10 robotics developments of March 2025",
@@ -82,39 +82,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/top10surgicalrobots2025-featured-300x195.jpg"
         },
         {
-            "title": "Brain-computer interfaces face a critical test",
-            "link": "https://www.technologyreview.com/2025/04/01/1114009/brain-computer-interfaces-10-breakthrough-technologies-2025/",
-            "description": "Tech companies are always trying out new ways for people to interact with computers—consider efforts like Google Glass, the Apple Watch, and Amazon’s ...",
-            "pubDate": "2025-04-01T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "RDS fleet management system applies across industrial scenarios, says SEER Robotics",
+            "link": "https://www.therobotreport.com/rds-fleet-management-applies-across-industrial-scenarios-says-seer-robotics/",
+            "description": "RDS can accelerate automation in cross-floor uses, complex plants, warehouse logistics, and precision manufacturing, says SEER Robotics. The post RDS ...",
+            "pubDate": "2025-04-01T20:28:10",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/SEER_elevator.jpg"
+        },
+        {
+            "title": "Build or buy: Learn from commercialization experts at the Robotics Summit",
+            "link": "https://www.therobotreport.com/build-buy-learn-from-commercialization-experts-robotics-summit/",
+            "description": "At the Robotics Summit & Expo, a panel of seasoned experts will explore the critical role of outsourcing in robotics commercialization. The post Build...",
+            "pubDate": "2025-04-01T16:52:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/The-Robotics-Scale-Up-Commercialization-Journey-featured.jpg"
         },
         {
             "title": "How do you teach an AI model to give therapy?",
             "link": "https://www.technologyreview.com/2025/04/01/1114059/how-do-you-teach-an-ai-model-to-give-therapy/",
             "description": "On March 27, the results of the first clinical trial for a generative AI therapy bot were published, and they showed that people in the trial who had ...",
             "pubDate": "2025-04-01T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "3PL automation: See the good, the bad, and the ugly at the 2025 Robotics Summit",
-            "link": "https://www.therobotreport.com/see-3pl-auotmation-good-bad-ugly-2025-robotics-summit/",
-            "description": "The future of 3PL involves robotics, but integration can be a challenge. Learn best practices in this Robotics Summit panel. The post 3PL automation: ...",
-            "pubDate": "2025-03-31T16:53:52",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/PANEL_-3PL-IN-ROBOTICS_-THE-GOOD-THE-BAD-THE-UGLY-copy.jpg"
-        },
-        {
-            "title": "The Download: generative AI therapy, and the future of 23andMe’s genetic data",
-            "link": "https://www.technologyreview.com/2025/03/31/1114041/the-download-generative-ai-therapy-and-the-future-of-23andmes-genetic-data/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The first tr...",
-            "pubDate": "2025-03-31T13:10:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdNDry87Q16gFMS1BvFNoI4L2vjMc2-rC4WAdK19UI3gMHO6fwP_16qx7sAAI5OqfLj5yvkn70fKzw1yzOJgG-u71kWIxom4BzU61NpRvrWTBgP-dKxb9gvnoUkZh8rUb9mkEJJOw?key=QaZKt6gq5hS7FtkZOUZkcQSk"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Brain-computer interfaces face a critical test",
+            "link": "https://www.technologyreview.com/2025/04/01/1114009/brain-computer-interfaces-10-breakthrough-technologies-2025/",
+            "description": "Tech companies are always trying out new ways for people to interact with computers—consider efforts like Google Glass, the Apple Watch, and Amazon’s ...",
+            "pubDate": "2025-04-01T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -122,6 +115,13 @@
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
             "pubDate": "2021-10-29T00:18:48",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
