@@ -2,12 +2,33 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-02T13:51:44.588547",
+    "lastBuildDate": "2025-04-03T07:03:40.248016",
     "items": [
+        {
+            "title": "Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data",
+            "link": "https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/",
+            "description": "Hugging Face warned that Yourbench is compute intensive but this might be a price enterprises are willing to pay to evaluate models on their data.",
+            "pubDate": "2025-04-02T22:33:57",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_a_smiling_hugging_face_emoji_with_arms__a0538182-2148-4c6e-a5cb-6b49ebd883ea.webp?w=578"
+        },
+        {
+            "title": "The tool integration problem that’s holding back enterprise AI (and how CoTools solves it)",
+            "link": "https://venturebeat.com/ai/the-tool-integration-problem-thats-holding-back-enterprise-ai-and-how-cotools-solves-it/",
+            "description": "CoTools uses hidden states and in-context learning to enable LLMs to use more than 1,000 tools very efficiently.",
+            "pubDate": "2025-04-02T20:59:41",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/LLM-tool-use.webp?w=578"
+        },
+        {
+            "title": "What you need to know about Amazon Nova Act: the new AI agent SDK challenging OpenAI, Microsoft, Salesforce",
+            "link": "https://venturebeat.com/ai/what-you-need-to-know-about-amazon-nova-act-the-new-ai-agent-sdk-challenging-openai-microsoft-salesforce/",
+            "description": "An experimental developer kit for building AI agents that can navigate the web and complete tasks autonomously, powered by Amazon Nova.",
+            "pubDate": "2025-04-02T20:53:48",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_a_diverse_group_of_scientists_in_white_lab_coats_stan_ac9142cc-1eb4-4e10-a891-29182615ad56_0.png?w=578"
+        },
         {
             "title": "How Amex uses AI to increase efficiency: 40% fewer IT escalations, 85% travel assistance boost",
             "link": "https://venturebeat.com/ai/how-amex-uses-ai-to-increase-efficiency-40-fewer-it-escalations-85-travel-assistance-boost/",
-            "description": "The AI-infused chatbot now interacts more intuitively, adapts to feedback and walks users through problems step-by-step.",
+            "description": "Amex has more than 70 AI use cases in production, including an IT chatbot that solves issues on its own and a travel counselor assistant.",
             "pubDate": "2025-04-02T18:39:32",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/upscalemedia-transformed.png?w=578"
         },
@@ -17,27 +38,6 @@
             "description": "Anthropic launches Claude for Education with Learning Mode that teaches critical thinking rather than providing answers, partnering with top universit...",
             "pubDate": "2025-04-02T16:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_robot_Socrates_c06af523-2b7b-4884-bfff-9ac22a72d8db.webp?w=578"
-        },
-        {
-            "title": "Uplimit raises stakes in corporate learning with suite of AI agents that can train 1,000 employees simultaneously",
-            "link": "https://venturebeat.com/ai/uplimit-raises-stakes-in-corporate-learning-with-suite-of-ai-agents-that-can-train-1000-employees-simultaneously/",
-            "description": "Uplimit launches AI learning agents that help enterprises boost employee skills with 94% completion rates while reducing training admin time by 75%, a...",
-            "pubDate": "2025-04-02T15:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_upskilling_607255d2-08ce-47a3-875c-743f4ff2fcae.webp?w=578"
-        },
-        {
-            "title": "Zencoder’s ‘Coffee Mode’ is the future of coding: Hit a button and let AI write your unit tests",
-            "link": "https://venturebeat.com/ai/zencoders-coffee-mode-is-the-future-of-coding-hit-a-button-and-let-ai-write-your-unit-tests/",
-            "description": "Zencoder launches powerful AI coding agents with \"Coffee Mode\" that outperform competitors on benchmarks while integrating with existing developer env...",
-            "pubDate": "2025-04-02T14:01:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_robot_in_a_business_suit_holding_a_cu_d6414664-3059-44c6-b309-256854780022.webp?w=578"
-        },
-        {
-            "title": "Augment Code debuts AI agent with 70% win rate over GitHub Copilot and record-breaking SWE-bench score",
-            "link": "https://venturebeat.com/ai/augment-code-debuts-ai-agent-with-70-win-rate-over-github-copilot-and-record-breaking-swe-bench-score/",
-            "description": "Augment Code launches AI technology that outperforms GitHub Copilot by 70% through real-time context understanding of massive codebases, securing $270...",
-            "pubDate": "2025-04-02T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_modern_workstation_computer_code_on_t_6e44c3e5-7a2b-4d0c-8f98-8590907428cf.webp?w=578"
         }
     ]
 }
