@@ -2,35 +2,70 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-04T07:12:47.538875",
+    "lastBuildDate": "2025-04-04T11:10:36.698873",
     "items": [
         {
-            "title": "JPMorgan now sees a 60% chance of a recession after tariff hikes",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b99f993d-b9a7-408b-bfed-2bdd687ea763&mod=mw_rss_bulletins",
+            "title": "Tesla, and Musk, in crosshairs as Trump-vs.-China trade war unfolds",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b0f4f932-94b6-47b0-a144-0819a71a354e&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-04-04T11:10:11",
+            "pubDate": "2025-04-04T14:25:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "U.S. unemployment rate edges up as economy generates more new jobs than forecast",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0ad5a67d-c57d-4b5d-8eb6-dbc2de0f0232&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-04-04T13:33:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Trump open to tariff negotiations, contradicting White House aides",
+            "link": "https://www.cnbc.com/2025/04/03/trump-tariffs-live-updates-stock-market-trade-war.html",
+            "description": "Trump's tariff fallout starts with layoffs, price hikes and trade war tensions, driving a broad market sell-off.",
+            "pubDate": "2025-04-04T13:06:32",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Bill Gross says don't buy the dip in stocks",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8e71ce40-e0c2-4971-a625-4bef8cf51ad7&mod=mw_rss_bulletins",
+            "title": "Tech-stock-intensive Nasdaq is now testing bear-market territory — live updates",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=71a00d96-66d2-423d-bef9-af88f23521a4&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-04-04T08:58:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "pubDate": "2025-04-04T15:05:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "China tariff live updates: Trump blasts Beijing as 'PANICKED' while markets continue to drop",
+            "link": "https://www.cnbc.com/2025/04/04/trump-tariff-live-updates-retaliation-trade-war.html",
+            "description": "China retaliated against Trump's tariffs with its own 34% levy. U.S. markets dropped on the news.",
+            "pubDate": "2025-04-04T16:05:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "U.S. stock market has lost $9.6 trillion in value since Inauguration Day",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=241bca98-983e-4d15-957c-e77942c18944&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-04-04T15:36:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Dow industrials fall a further 1,055 points at Friday opening bell — follow live",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=58da6365-233b-4820-99d9-c98c75e51e5d&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-04-04T14:35:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "South Korea's Constitutional Court upholds impeachment of President Yoon, ousting him from office",
             "link": "https://www.cnbc.com/2025/04/04/south-korea-upholds-impeachment-of-president-yoon-ousting-him-from-office.html",
             "description": "This starts a 60-day countdown where an election must be held to select the next president.",
             "pubDate": "2025-04-04T05:09:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "China announces 34% tariff on U.S. goods starting April 10, stock futures tumble",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0aed463f-c7dc-4869-8e1d-b28494466350&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-04-04T11:31:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "What Trump says he's trying to accomplish with tariffs",
+            "link": "https://www.cnbc.com/2025/04/03/trump-tariffs-goals-deficit-jobs.html",
+            "description": "President Donald Trump contends tariffs will pay for tax cuts, lower foreign trade barriers, revive U.S. factories, curb fentanyl and reduce the natio...",
+            "pubDate": "2025-04-04T00:10:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Trump tariffs are 'pure madness' and the European Union should not comply, former Italian PM says",
@@ -38,41 +73,6 @@
             "description": "U.S. President Donald Trump's so-called 'Liberation Day' trade tariffs are \"madness, pure madness\", according to former Italian Prime Minister Enrico ...",
             "pubDate": "2025-04-04T11:26:04",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "What Trump says he's trying to accomplish with tariffs",
-            "link": "https://www.cnbc.com/2025/04/03/trump-tariffs-goals-deficit-jobs.html",
-            "description": "President Donald Trump contends tariffs will pay for tax cuts, lower foreign trade barriers, revive U.S. factories, curb fentanyl and reduce the natio...",
-            "pubDate": "2025-04-04T00:10:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Goldman cuts oil-price view on tariff risks, OPEC+ supply",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=933edc7a-ec52-4410-89e7-a217e6076a1e&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-04-04T09:31:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Morgan Stanley says this is the next line in the sand for the S&P 500",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bb225a24-b04b-4868-b5e8-178e17651118&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-04-04T09:59:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Trump open to tariff negotiations, contradicting White House aides",
-            "link": "https://www.cnbc.com/2025/04/03/trump-tariffs-live-updates-stock-market-trade-war.html",
-            "description": "Trump's tariff fallout starts with layoffs, price hikes and trade war tensions, driving a broad market sell-off.",
-            "pubDate": "2025-04-04T00:42:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Trump administration lifts sanctions on wife of Putin ally Boris Rotenberg",
-            "link": "https://www.cnbc.com/2025/04/03/trump-treasury-sanctions-putin-russia-rotenberg-ukraine.html",
-            "description": "Karina Rotenberg and her husband were placed on a sanctions list by the Biden adminstration after Russia invaded Ukraine.",
-            "pubDate": "2025-04-03T22:19:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

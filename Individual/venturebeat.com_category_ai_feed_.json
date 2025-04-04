@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-04T07:10:00.108811",
+    "lastBuildDate": "2025-04-04T11:07:58.035571",
     "items": [
+        {
+            "title": "Beyond RAG: How Articul8’s supply chain models achieve 92% accuracy where general AI fails",
+            "link": "https://venturebeat.com/ai/enterprise-supply-chains-need-domain-specific-ai-not-general-models-how-articul8-has-built-out-new-models-with-3x-performance-gains/",
+            "description": "Articul8's specialized models tackle complex industrial sequences where timing and order matter, challenging the one-size-fits-all approach to enterpr...",
+            "pubDate": "2025-04-04T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/domain_specific_ai_image_SMK.jpg?w=578"
+        },
+        {
+            "title": "Genies unveils user-generated content tools that let anyone create custom AI avatars",
+            "link": "https://venturebeat.com/games/genies-unveils-user-generated-content-tools-that-let-anyone-create-custom-ai-avatars/",
+            "description": "Genies, the avatar and game technology company, is revealing its user-generated content tools that let anyone create custom AI avatars.",
+            "pubDate": "2025-04-04T14:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/genies.jpg?w=578"
+        },
+        {
+            "title": "Open Deep Search arrives to challenge Perplexity and ChatGPT Search",
+            "link": "https://venturebeat.com/ai/open-deep-search-arrives-to-challenge-perplexity-and-chatgpt-search/",
+            "description": "This open source framework matches the performance of Perplexity and ChatGPT Search with greater transparency and control.",
+            "pubDate": "2025-04-04T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/nuneybits_Search_bar_painted_in_pastels_and_watercolors_7572ca4e-e3de-450f-b294-f2e66acd4e1b.webp?w=578"
+        },
         {
             "title": "OpenAI just made ChatGPT Plus free for millions of college students — and it’s a brilliant competitive move against Anthropic",
             "link": "https://venturebeat.com/ai/openai-just-made-chatgpt-plus-free-for-millions-of-college-students-and-its-a-brilliant-competitive-move-against-anthropic/",
@@ -17,27 +38,6 @@
             "description": "New research from Anthropic found that reasoning models willfully omit where it got some information.",
             "pubDate": "2025-04-03T23:53:03",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/04/hero-Defending-against-IoT-ransomware-attacks-in-a-zero-trust-world-16-9-.jpg?w=578"
-        },
-        {
-            "title": "AI lie detector: How HallOumi’s open-source approach to hallucination could unlock enterprise AI adoption",
-            "link": "https://venturebeat.com/ai/ai-lie-detector-how-halloumis-open-source-approach-to-hallucination-could-unlock-enterprise-ai-adoption/",
-            "description": "Oumi's open-source HallOumi tool helps enterprises combat AI hallucinations through sentence-level verification that provides confidence scores, citat...",
-            "pubDate": "2025-04-03T22:28:29",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/an_ai_hooked_up_to_lie_detector_smk.jpg?w=578"
-        },
-        {
-            "title": "Devin 2.0 is here: Cognition slashes price of AI software engineer to $20 per month from $500",
-            "link": "https://venturebeat.com/programming-development/devin-2-0-is-here-cognition-slashes-price-of-ai-software-engineer-to-20-per-month-from-500/",
-            "description": "Devin attracted interest from enterprise customers seeking to incorporate autonomous coding agents into their software development processes.",
-            "pubDate": "2025-04-03T20:11:53",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_surreal_image_of_researchers_with_laptops_gathered_arou_5e34f6c1-554a-4506-9900-9d52c1a30043.png?w=578"
-        },
-        {
-            "title": "Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data",
-            "link": "https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/",
-            "description": "Hugging Face warned that Yourbench is compute intensive but this might be a price enterprises are willing to pay to evaluate models on their data.",
-            "pubDate": "2025-04-02T22:33:57",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_a_smiling_hugging_face_emoji_with_arms__a0538182-2148-4c6e-a5cb-6b49ebd883ea.webp?w=578"
         }
     ]
 }
