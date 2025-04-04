@@ -2,14 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-04T11:07:58.027108",
+    "lastBuildDate": "2025-04-04T14:06:08.374258",
     "items": [
         {
-            "title": "OpenAI just made ChatGPT Plus free for millions of college students — and it’s a brilliant competitive move against Anthropic",
-            "link": "https://venturebeat.com/ai/openai-just-made-chatgpt-plus-free-for-millions-of-college-students-and-its-a-brilliant-competitive-move-against-anthropic/",
-            "description": "OpenAI offers free ChatGPT Plus to college students just before finals week, escalating competition with Anthropic's Claude as tech giants battle for ...",
-            "pubDate": "2025-04-04T01:26:26",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_college_professor_who_is_a_robot_cf1ea93e-cb28-42c5-ad9f-bfdf62b71d0a.webp?w=578"
+            "title": "Beyond RAG: How Articul8’s supply chain models achieve 92% accuracy where general AI fails",
+            "link": "https://venturebeat.com/ai/enterprise-supply-chains-need-domain-specific-ai-not-general-models-how-articul8-has-built-out-new-models-with-3x-performance-gains/",
+            "description": "Articul8's specialized models tackle complex industrial sequences where timing and order matter, challenging the one-size-fits-all approach to enterpr...",
+            "pubDate": "2025-04-04T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/domain_specific_ai_image_SMK.jpg?w=578"
         },
         {
             "title": "Genies unveils user-generated content tools that let anyone create custom AI avatars",
@@ -19,13 +19,6 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/genies.jpg?w=578"
         },
         {
-            "title": "The Download: what Trump’s tariffs mean for climate tech, and hacking AI agents",
-            "link": "https://www.technologyreview.com/2025/04/04/1114227/the-download-what-trumps-tariffs-mean-for-climate-tech-and-hacking-ai-agents/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s tari...",
-            "pubDate": "2025-04-04T13:10:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1D5JZ0mECVfVKLNtrCfCPMf1VG_tpgNaZiLKeN3LjDzDcgyf6PPe-IXuXhUp2668yD6E1uuTP2dtRWi9PobtAnXMxWlFw4bxaqXPZ8sohkObPO-DrLSD6i6TgerOPYJv_O14F?key=VnQrLVGPgQea8tldyRlzZpFp"
-        },
-        {
             "title": "Robotic picking experts to explain AI advancements in webinar",
             "link": "https://www.therobotreport.com/robotic-picking-experts-explain-ai-advancements-webinar/",
             "description": "In this free webinar, executives from ABB, Ambi Robotics, and Plus One will discuss how AI and robotic picking have evolved. The post Robotic picking ...",
@@ -33,18 +26,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/ambikit-ai-powered-ecommerce-kitting-robot-copy.jpg"
         },
         {
-            "title": "Hyundai to buy ‘tens of thousands’ of Boston Dynamics robots",
-            "link": "https://www.therobotreport.com/hyundai-purchase-tens-of-thousands-boston-dynamics-robots/",
-            "description": "Hyundai will also help Boston Dynamics grow by integrating its manufacturing capabilities with those of the robot provider. The post Hyundai to buy ‘t...",
-            "pubDate": "2025-04-04T13:15:31",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/atlas-sequencing-featured.jpg"
-        },
-        {
-            "title": "Beyond RAG: How Articul8’s supply chain models achieve 92% accuracy where general AI fails",
-            "link": "https://venturebeat.com/ai/enterprise-supply-chains-need-domain-specific-ai-not-general-models-how-articul8-has-built-out-new-models-with-3x-performance-gains/",
-            "description": "Articul8's specialized models tackle complex industrial sequences where timing and order matter, challenging the one-size-fits-all approach to enterpr...",
-            "pubDate": "2025-04-04T16:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/domain_specific_ai_image_SMK.jpg?w=578"
+            "title": "The Download: what Trump’s tariffs mean for climate tech, and hacking AI agents",
+            "link": "https://www.technologyreview.com/2025/04/04/1114227/the-download-what-trumps-tariffs-mean-for-climate-tech-and-hacking-ai-agents/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s tari...",
+            "pubDate": "2025-04-04T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1D5JZ0mECVfVKLNtrCfCPMf1VG_tpgNaZiLKeN3LjDzDcgyf6PPe-IXuXhUp2668yD6E1uuTP2dtRWi9PobtAnXMxWlFw4bxaqXPZ8sohkObPO-DrLSD6i6TgerOPYJv_O14F?key=VnQrLVGPgQea8tldyRlzZpFp"
         },
         {
             "title": "Open Deep Search arrives to challenge Perplexity and ChatGPT Search",
@@ -54,11 +40,32 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/nuneybits_Search_bar_painted_in_pastels_and_watercolors_7572ca4e-e3de-450f-b294-f2e66acd4e1b.webp?w=578"
         },
         {
+            "title": "How external development became a critical layer in game development — Keywords CEO interview | The DeanBeat",
+            "link": "https://venturebeat.com/games/how-external-development-became-a-critical-layer-in-game-development-keywords-ceo-interview-the-deanbeat/",
+            "description": "The structure of the game business has changed. And one of the essential new kinds of companies in that structure is Keywords.",
+            "pubDate": "2025-04-04T18:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/keywords.jpg?w=578"
+        },
+        {
+            "title": "Hyundai to buy ‘tens of thousands’ of Boston Dynamics robots",
+            "link": "https://www.therobotreport.com/hyundai-purchase-tens-of-thousands-boston-dynamics-robots/",
+            "description": "Hyundai will also help Boston Dynamics grow by integrating its manufacturing capabilities with those of the robot provider. The post Hyundai to buy ‘t...",
+            "pubDate": "2025-04-04T13:15:31",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/atlas-sequencing-featured.jpg"
+        },
+        {
+            "title": "OpenAI just made ChatGPT Plus free for millions of college students — and it’s a brilliant competitive move against Anthropic",
+            "link": "https://venturebeat.com/ai/openai-just-made-chatgpt-plus-free-for-millions-of-college-students-and-its-a-brilliant-competitive-move-against-anthropic/",
+            "description": "OpenAI offers free ChatGPT Plus to college students just before finals week, escalating competition with Anthropic's Claude as tech giants battle for ...",
+            "pubDate": "2025-04-04T01:26:26",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_college_professor_who_is_a_robot_cf1ea93e-cb28-42c5-ad9f-bfdf62b71d0a.webp?w=578"
+        },
+        {
             "title": "Cyberattacks by AI agents are coming",
             "link": "https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming/",
             "description": "Agents are the talk of the AI industry—they’re capable of planning, reasoning, and executing complex tasks like scheduling meetings, ordering grocerie...",
             "pubDate": "2025-04-04T11:32:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "U.S. government policy shifts offer opportunities for robotics, note panelists",
@@ -68,13 +75,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Mapping_drone.jpg"
         },
         {
-            "title": "Don’t believe reasoning models’ Chains of Thought, says Anthropic",
-            "link": "https://venturebeat.com/ai/dont-believe-reasoning-models-chains-of-thought-says-anthropic/",
-            "description": "New research from Anthropic found that reasoning models willfully omit where it got some information.",
-            "pubDate": "2025-04-03T23:53:03",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/04/hero-Defending-against-IoT-ransomware-attacks-in-a-zero-trust-world-16-9-.jpg?w=578"
-        },
-        {
             "title": "The Download: dethroning SpaceX, and air-conditioning’s energy demands",
             "link": "https://www.technologyreview.com/2025/04/03/1114204/the-download-dethroning-spacex-and-air-conditionings-energy-demands/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Rivals are r...",
@@ -82,18 +82,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/select-dna.jpg?fit=1064,598"
         },
         {
-            "title": "Trump’s tariffs will deliver a big blow to climate tech",
-            "link": "https://www.technologyreview.com/2025/04/03/1114209/trumps-tariffs-will-deliver-a-big-blow-to-climate-tech/",
-            "description": "US president Donald Trump’s massive, sweeping tariffs sent global stock markets tumbling on Thursday, setting the stage for a worldwide trade war and ...",
-            "pubDate": "2025-04-03T23:43:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
             "title": "We should talk more about air-conditioning",
             "link": "https://www.technologyreview.com/2025/04/03/1114182/air-conditioning-demand/",
             "description": "Things are starting to warm up here in the New York City area, and it’s got me thinking once again about something that people aren’t talking about en...",
             "pubDate": "2025-04-03T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Trump’s tariffs will deliver a big blow to climate tech",
+            "link": "https://www.technologyreview.com/2025/04/03/1114209/trumps-tariffs-will-deliver-a-big-blow-to-climate-tech/",
+            "description": "US president Donald Trump’s massive, sweeping tariffs sent global stock markets tumbling on Thursday, setting the stage for a worldwide trade war and ...",
+            "pubDate": "2025-04-03T23:43:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Carbon Robotics introduces the new Carbon AutoTractor autonomy kit",
@@ -110,6 +110,13 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/advanced-farm-robot.jpg"
         },
         {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
@@ -124,11 +131,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -136,13 +143,6 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
