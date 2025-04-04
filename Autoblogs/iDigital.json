@@ -2,14 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-03T11:07:57.679641",
+    "lastBuildDate": "2025-04-04T07:10:00.101085",
     "items": [
         {
-            "title": "U.S. government policy shifts offer opportunities for robotics, note panelists",
-            "link": "https://www.therobotreport.com/government-policy-shifts-offer-opportunities-u-s-robotics-note-panelists/",
-            "description": "While there is uncertainty around DOGE, drone and robotics companies can still find ways to collaborate with the government, said panelists in New Yor...",
-            "pubDate": "2025-04-03T14:54:28",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Mapping_drone.jpg"
+            "title": "OpenAI just made ChatGPT Plus free for millions of college students — and it’s a brilliant competitive move against Anthropic",
+            "link": "https://venturebeat.com/ai/openai-just-made-chatgpt-plus-free-for-millions-of-college-students-and-its-a-brilliant-competitive-move-against-anthropic/",
+            "description": "OpenAI offers free ChatGPT Plus to college students just before finals week, escalating competition with Anthropic's Claude as tech giants battle for ...",
+            "pubDate": "2025-04-04T01:26:26",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_college_professor_who_is_a_robot_cf1ea93e-cb28-42c5-ad9f-bfdf62b71d0a.webp?w=578"
+        },
+        {
+            "title": "Cyberattacks by AI agents are coming",
+            "link": "https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming/",
+            "description": "Agents are the talk of the AI industry—they’re capable of planning, reasoning, and executing complex tasks like scheduling meetings, ordering grocerie...",
+            "pubDate": "2025-04-04T11:32:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "The Download: dethroning SpaceX, and air-conditioning’s energy demands",
@@ -19,46 +26,53 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/select-dna.jpg?fit=1064,598"
         },
         {
+            "title": "Don’t believe reasoning models’ Chains of Thought, says Anthropic",
+            "link": "https://venturebeat.com/ai/dont-believe-reasoning-models-chains-of-thought-says-anthropic/",
+            "description": "New research from Anthropic found that reasoning models willfully omit where it got some information.",
+            "pubDate": "2025-04-03T23:53:03",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/04/hero-Defending-against-IoT-ransomware-attacks-in-a-zero-trust-world-16-9-.jpg?w=578"
+        },
+        {
+            "title": "AI lie detector: How HallOumi’s open-source approach to hallucination could unlock enterprise AI adoption",
+            "link": "https://venturebeat.com/ai/ai-lie-detector-how-halloumis-open-source-approach-to-hallucination-could-unlock-enterprise-ai-adoption/",
+            "description": "Oumi's open-source HallOumi tool helps enterprises combat AI hallucinations through sentence-level verification that provides confidence scores, citat...",
+            "pubDate": "2025-04-03T22:28:29",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/an_ai_hooked_up_to_lie_detector_smk.jpg?w=578"
+        },
+        {
+            "title": "U.S. government policy shifts offer opportunities for robotics, note panelists",
+            "link": "https://www.therobotreport.com/government-policy-shifts-offer-opportunities-u-s-robotics-note-panelists/",
+            "description": "While there is uncertainty around DOGE, drone and robotics companies can still find ways to collaborate with the government, said panelists in New Yor...",
+            "pubDate": "2025-04-03T14:54:28",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Mapping_drone.jpg"
+        },
+        {
+            "title": "Devin 2.0 is here: Cognition slashes price of AI software engineer to $20 per month from $500",
+            "link": "https://venturebeat.com/programming-development/devin-2-0-is-here-cognition-slashes-price-of-ai-software-engineer-to-20-per-month-from-500/",
+            "description": "Devin attracted interest from enterprise customers seeking to incorporate autonomous coding agents into their software development processes.",
+            "pubDate": "2025-04-03T20:11:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_surreal_image_of_researchers_with_laptops_gathered_arou_5e34f6c1-554a-4506-9900-9d52c1a30043.png?w=578"
+        },
+        {
             "title": "We should talk more about air-conditioning",
             "link": "https://www.technologyreview.com/2025/04/03/1114182/air-conditioning-demand/",
             "description": "Things are starting to warm up here in the New York City area, and it’s got me thinking once again about something that people aren’t talking about en...",
             "pubDate": "2025-04-03T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Trump’s tariffs will deliver a big blow to climate tech",
+            "link": "https://www.technologyreview.com/2025/04/03/1114209/trumps-tariffs-will-deliver-a-big-blow-to-climate-tech/",
+            "description": "US president Donald Trump’s massive, sweeping tariffs sent global stock markets tumbling on Thursday, setting the stage for a worldwide trade war and ...",
+            "pubDate": "2025-04-03T23:43:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Rivals are rising to challenge the dominance of SpaceX",
             "link": "https://www.technologyreview.com/2025/04/03/1114198/rivals-are-rising-to-challenge-the-dominance-of-spacex/",
             "description": "SpaceX is a space launch juggernaut. In just two decades, the company has managed to edge out former aerospace heavyweights Boeing, Lockheed, and Nort...",
             "pubDate": "2025-04-03T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "How Amex uses AI to increase efficiency: 40% fewer IT escalations, 85% travel assistance boost",
-            "link": "https://venturebeat.com/ai/how-amex-uses-ai-to-increase-efficiency-40-fewer-it-escalations-85-travel-assistance-boost/",
-            "description": "Amex has more than 70 AI use cases in production, including an IT chatbot that solves issues on its own and a travel counselor assistant.",
-            "pubDate": "2025-04-02T18:39:32",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/upscalemedia-transformed.png?w=578"
-        },
-        {
-            "title": "Carbon Robotics introduces the new Carbon AutoTractor autonomy kit",
-            "link": "https://www.therobotreport.com/carbon-robotics-introduces-new-carbon-autotractor-autonomy-kit/",
-            "description": "Installed on existing tractors, Carbon AutoTractor offers farmers production-ready autonomy to eliminate stoppages while operating 24/7. The post Carb...",
-            "pubDate": "2025-04-02T21:05:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/carbon-robotics-autotractor-featured.jpg"
-        },
-        {
-            "title": "Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data",
-            "link": "https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/",
-            "description": "Hugging Face warned that Yourbench is compute intensive but this might be a price enterprises are willing to pay to evaluate models on their data.",
-            "pubDate": "2025-04-02T22:33:57",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_a_smiling_hugging_face_emoji_with_arms__a0538182-2148-4c6e-a5cb-6b49ebd883ea.webp?w=578"
-        },
-        {
-            "title": "Anthropic flips the script on AI in education: Claude’s Learning Mode makes students do the thinking",
-            "link": "https://venturebeat.com/ai/anthropic-flips-the-script-on-ai-in-education-claude-learning-mode-makes-students-do-the-thinking/",
-            "description": "Anthropic launches Claude for Education with Learning Mode that teaches critical thinking rather than providing answers, partnering with top universit...",
-            "pubDate": "2025-04-02T16:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_robot_Socrates_c06af523-2b7b-4884-bfff-9ac22a72d8db.webp?w=578"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "CNH acquires intellectual property and assets of Advanced Farm",
@@ -68,25 +82,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/advanced-farm-robot.jpg"
         },
         {
-            "title": "The Download: how to make better cooling systems, and farming on Mars",
-            "link": "https://www.technologyreview.com/2025/04/02/1114171/the-download-how-to-make-better-cooling-systems-and-farming-on-mars/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How 3D print...",
-            "pubDate": "2025-04-02T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/Eugenia-Cheng-thumb.jpeg"
+            "title": "Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data",
+            "link": "https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/",
+            "description": "Hugging Face warned that Yourbench is compute intensive but this might be a price enterprises are willing to pay to evaluate models on their data.",
+            "pubDate": "2025-04-02T22:33:57",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_a_smiling_hugging_face_emoji_with_arms__a0538182-2148-4c6e-a5cb-6b49ebd883ea.webp?w=578"
         },
         {
-            "title": "What you need to know about Amazon Nova Act: the new AI agent SDK challenging OpenAI, Microsoft, Salesforce",
-            "link": "https://venturebeat.com/ai/what-you-need-to-know-about-amazon-nova-act-the-new-ai-agent-sdk-challenging-openai-microsoft-salesforce/",
-            "description": "An experimental developer kit for building AI agents that can navigate the web and complete tasks autonomously, powered by Amazon Nova.",
-            "pubDate": "2025-04-02T20:53:48",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_a_diverse_group_of_scientists_in_white_lab_coats_stan_ac9142cc-1eb4-4e10-a891-29182615ad56_0.png?w=578"
-        },
-        {
-            "title": "The machines are rising — but developers still hold the keys",
-            "link": "https://www.technologyreview.com/2025/04/02/1114134/the-machines-are-rising-but-developers-still-hold-the-keys/",
-            "description": "Rumors of the ongoing death of software development — that it’s being slain by AI — are greatly exaggerated. In reality, software development is at a ...",
-            "pubDate": "2025-04-02T18:50:55",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/04/TW-art.jpg"
+            "title": "Carbon Robotics introduces the new Carbon AutoTractor autonomy kit",
+            "link": "https://www.therobotreport.com/carbon-robotics-introduces-new-carbon-autotractor-autonomy-kit/",
+            "description": "Installed on existing tractors, Carbon AutoTractor offers farmers production-ready autonomy to eliminate stoppages while operating 24/7. The post Carb...",
+            "pubDate": "2025-04-02T21:05:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/carbon-robotics-autotractor-featured.jpg"
         },
         {
             "title": "50 most innovative robotics companies",
@@ -96,25 +103,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/10/RBR50_2020_logo-437x1024-2-e1644899333753-159x300-1.png"
         },
         {
-            "title": "The tool integration problem that’s holding back enterprise AI (and how CoTools solves it)",
-            "link": "https://venturebeat.com/ai/the-tool-integration-problem-thats-holding-back-enterprise-ai-and-how-cotools-solves-it/",
-            "description": "CoTools uses hidden states and in-context learning to enable LLMs to use more than 1,000 tools very efficiently.",
-            "pubDate": "2025-04-02T20:59:41",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/LLM-tool-use.webp?w=578"
-        },
-        {
             "title": "RDS fleet management system applies across industrial scenarios, says SEER Robotics",
             "link": "https://www.therobotreport.com/rds-fleet-management-applies-across-industrial-scenarios-says-seer-robotics/",
             "description": "RDS can accelerate automation in cross-floor uses, complex plants, warehouse logistics, and precision manufacturing, says SEER Robotics. The post RDS ...",
             "pubDate": "2025-04-01T20:28:10",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/SEER_elevator.jpg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -124,6 +117,13 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
@@ -131,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
             "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }

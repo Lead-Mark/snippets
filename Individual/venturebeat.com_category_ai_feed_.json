@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-03T11:07:57.685339",
+    "lastBuildDate": "2025-04-04T07:10:00.108811",
     "items": [
+        {
+            "title": "OpenAI just made ChatGPT Plus free for millions of college students — and it’s a brilliant competitive move against Anthropic",
+            "link": "https://venturebeat.com/ai/openai-just-made-chatgpt-plus-free-for-millions-of-college-students-and-its-a-brilliant-competitive-move-against-anthropic/",
+            "description": "OpenAI offers free ChatGPT Plus to college students just before finals week, escalating competition with Anthropic's Claude as tech giants battle for ...",
+            "pubDate": "2025-04-04T01:26:26",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_college_professor_who_is_a_robot_cf1ea93e-cb28-42c5-ad9f-bfdf62b71d0a.webp?w=578"
+        },
+        {
+            "title": "Don’t believe reasoning models’ Chains of Thought, says Anthropic",
+            "link": "https://venturebeat.com/ai/dont-believe-reasoning-models-chains-of-thought-says-anthropic/",
+            "description": "New research from Anthropic found that reasoning models willfully omit where it got some information.",
+            "pubDate": "2025-04-03T23:53:03",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/04/hero-Defending-against-IoT-ransomware-attacks-in-a-zero-trust-world-16-9-.jpg?w=578"
+        },
+        {
+            "title": "AI lie detector: How HallOumi’s open-source approach to hallucination could unlock enterprise AI adoption",
+            "link": "https://venturebeat.com/ai/ai-lie-detector-how-halloumis-open-source-approach-to-hallucination-could-unlock-enterprise-ai-adoption/",
+            "description": "Oumi's open-source HallOumi tool helps enterprises combat AI hallucinations through sentence-level verification that provides confidence scores, citat...",
+            "pubDate": "2025-04-03T22:28:29",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/an_ai_hooked_up_to_lie_detector_smk.jpg?w=578"
+        },
+        {
+            "title": "Devin 2.0 is here: Cognition slashes price of AI software engineer to $20 per month from $500",
+            "link": "https://venturebeat.com/programming-development/devin-2-0-is-here-cognition-slashes-price-of-ai-software-engineer-to-20-per-month-from-500/",
+            "description": "Devin attracted interest from enterprise customers seeking to incorporate autonomous coding agents into their software development processes.",
+            "pubDate": "2025-04-03T20:11:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_surreal_image_of_researchers_with_laptops_gathered_arou_5e34f6c1-554a-4506-9900-9d52c1a30043.png?w=578"
+        },
         {
             "title": "Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data",
             "link": "https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/",
             "description": "Hugging Face warned that Yourbench is compute intensive but this might be a price enterprises are willing to pay to evaluate models on their data.",
             "pubDate": "2025-04-02T22:33:57",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vector_art_of_a_smiling_hugging_face_emoji_with_arms__a0538182-2148-4c6e-a5cb-6b49ebd883ea.webp?w=578"
-        },
-        {
-            "title": "The tool integration problem that’s holding back enterprise AI (and how CoTools solves it)",
-            "link": "https://venturebeat.com/ai/the-tool-integration-problem-thats-holding-back-enterprise-ai-and-how-cotools-solves-it/",
-            "description": "CoTools uses hidden states and in-context learning to enable LLMs to use more than 1,000 tools very efficiently.",
-            "pubDate": "2025-04-02T20:59:41",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/LLM-tool-use.webp?w=578"
-        },
-        {
-            "title": "What you need to know about Amazon Nova Act: the new AI agent SDK challenging OpenAI, Microsoft, Salesforce",
-            "link": "https://venturebeat.com/ai/what-you-need-to-know-about-amazon-nova-act-the-new-ai-agent-sdk-challenging-openai-microsoft-salesforce/",
-            "description": "An experimental developer kit for building AI agents that can navigate the web and complete tasks autonomously, powered by Amazon Nova.",
-            "pubDate": "2025-04-02T20:53:48",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_a_diverse_group_of_scientists_in_white_lab_coats_stan_ac9142cc-1eb4-4e10-a891-29182615ad56_0.png?w=578"
-        },
-        {
-            "title": "How Amex uses AI to increase efficiency: 40% fewer IT escalations, 85% travel assistance boost",
-            "link": "https://venturebeat.com/ai/how-amex-uses-ai-to-increase-efficiency-40-fewer-it-escalations-85-travel-assistance-boost/",
-            "description": "Amex has more than 70 AI use cases in production, including an IT chatbot that solves issues on its own and a travel counselor assistant.",
-            "pubDate": "2025-04-02T18:39:32",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/upscalemedia-transformed.png?w=578"
-        },
-        {
-            "title": "Anthropic flips the script on AI in education: Claude’s Learning Mode makes students do the thinking",
-            "link": "https://venturebeat.com/ai/anthropic-flips-the-script-on-ai-in-education-claude-learning-mode-makes-students-do-the-thinking/",
-            "description": "Anthropic launches Claude for Education with Learning Mode that teaches critical thinking rather than providing answers, partnering with top universit...",
-            "pubDate": "2025-04-02T16:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_robot_Socrates_c06af523-2b7b-4884-bfff-9ac22a72d8db.webp?w=578"
         }
     ]
 }
