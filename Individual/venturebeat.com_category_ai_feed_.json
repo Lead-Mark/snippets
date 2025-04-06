@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-05T01:17:28.202761",
+    "lastBuildDate": "2025-04-06T01:29:10.608396",
     "items": [
+        {
+            "title": "Meta’s answer to DeepSeek is here: Llama 4 launches with long context Scout and Maverick models, and 2T parameter Behemoth on the way!",
+            "link": "https://venturebeat.com/ai/metas-answer-to-deepseek-is-here-llama-4-launches-with-long-context-scout-and-maverick-models-and-2t-parameter-behemoth-on-the-way/",
+            "description": "While DeepSeek R1 and OpenAI o1 edge out Behemoth on a couple metrics, Llama 4 Behemoth remains highly competitive.",
+            "pubDate": "2025-04-05T22:46:57",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_vector_art_minimalist_acid_wash_flat_illustration_2D_sc_3a905d5f-566a-4c8b-b16b-8ac8836f837a.png?w=578"
+        },
+        {
+            "title": "DeepSeek jolts AI industry: Why AI’s next leap may not come from more data, but more compute at inference",
+            "link": "https://venturebeat.com/ai/deepseek-jolts-ai-industry-why-ais-next-leap-may-not-come-from-more-data-but-more-compute-at-inference/",
+            "description": "To contextualize DeepSeek’s disruption, let's consider the broader shift in AI being driven by the scarcity of training data.",
+            "pubDate": "2025-04-05T20:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/Datatransformer.webp?w=578"
+        },
         {
             "title": "Genspark’s Super Agent ups the ante in the general AI agent race",
             "link": "https://venturebeat.com/ai/gensparks-super-agent-ups-the-ante-in-the-general-ai-agent-race/",
@@ -24,20 +38,6 @@
             "description": "Enterprise AI application development is moving forward with a new generation of vibe coding tools.",
             "pubDate": "2025-04-04T22:37:31",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/vibe_coder_surfing_image_smk.jpg?w=578"
-        },
-        {
-            "title": "Gemini 2.5 Pro is now available without limits and for cheaper than Claude, GPT-4o",
-            "link": "https://venturebeat.com/ai/gemini-2-5-pro-is-now-available-without-limits-and-for-cheaper-than-claude-gpt-4o/",
-            "description": "Google released Gemini 2.5 Pro publicly with higher rate limits and for a lower price than Anthropic's Claude or OpenAI's models.",
-            "pubDate": "2025-04-04T22:15:16",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_money_bag_cash_falling_behind_it_4fceec4e-d409-43f6-bab2-eec236b08736.webp?w=578"
-        },
-        {
-            "title": "Midjourney v7 launches with voice prompting and faster draft mode — why is it getting mixed reviews?",
-            "link": "https://venturebeat.com/ai/midjourney-v7-launches-with-voice-prompting-and-faster-draft-mode-why-is-it-getting-mixed-reviews/",
-            "description": "While most Midjourney releases were met with overwhelming excitement and adulation, the initial reception to v7 is decidedly more mixed.",
-            "pubDate": "2025-04-04T19:47:47",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_An_attractive_androgynous_young_adult_with_cybernetic_l_42a3d8f9-318a-48c6-b577-ae86beb36599.png?w=578"
         }
     ]
 }
