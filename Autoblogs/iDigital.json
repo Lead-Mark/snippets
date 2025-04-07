@@ -2,35 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-07T07:25:29.125163",
+    "lastBuildDate": "2025-04-07T11:11:48.956541",
     "items": [
+        {
+            "title": "The Download: how the US is meeting China’s technological rise, and Trump’s tariff war intensifies",
+            "link": "https://www.technologyreview.com/2025/04/07/1114289/the-download-how-the-us-is-meeting-chinas-technological-rise-and-trumps-tariff-war-intensifies/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How the Pent...",
+            "pubDate": "2025-04-07T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT_electro_Final.v2.jpg?fit=1126,633"
+        },
+        {
+            "title": "Enter the era of physical intelligence at the 2025 Robotics Summit",
+            "link": "https://www.therobotreport.com/enter-physical-intelligence-era-2025-robotics-summit/",
+            "description": "In her keynote, MIT CSAIL Director Daniela Rus will discuss the challenges of transformer-based foundation AI models. The post Enter the era of physic...",
+            "pubDate": "2025-04-07T14:56:27",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/RUS.jpg"
+        },
         {
             "title": "How the Pentagon is adapting to China’s technological rise",
             "link": "https://www.technologyreview.com/2025/04/07/1114242/kathleen-hicks-on-china/",
             "description": "It’s been just over two months since Kathleen Hicks stepped down as US deputy secretary of defense. As the highest-ranking woman in Pentagon history, ...",
             "pubDate": "2025-04-07T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Serve Robotics brings autonomous delivery robots to Dallas",
-            "link": "https://www.therobotreport.com/serve-robotics-brings-autonomous-delivery-robots-to-dallas/",
-            "description": "Serve operates in the Uptown neighborhoods of Pearl, State Thomas, West Village, and South Routh, reaching 22,000 households in Dallas. The post Serve...",
-            "pubDate": "2025-04-06T16:32:38",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/serve-robot-featured.jpg"
-        },
-        {
-            "title": "H2 Clipper plans to deploy robotic swarms in aerospace manufacturing",
-            "link": "https://www.therobotreport.com/h2-clipper-plans-to-deploy-robotic-swarms-in-aerospace-manufacturing/",
-            "description": "H2 Clipper's patented system employs a network of robots that operate collaboratively to construct large aerospace structures. The post H2 Clipper pla...",
-            "pubDate": "2025-04-06T16:57:34",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/swarm-robots-v42-featured.jpg"
-        },
-        {
-            "title": "From MIPS to exaflops in mere decades: Compute power is exploding, and it will transform AI",
-            "link": "https://venturebeat.com/ai/mips-to-exaflops-in-just-40-years-compute-power-is-exploding-and-it-will-transform-ai/",
-            "description": "For the first time, we may have the computing power and the intelligence to tackle problems with AI that were once beyond human reach.",
-            "pubDate": "2025-04-06T22:35:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/GG1.png?w=578"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "From AI agent hype to practicality: Why enterprises must consider fit over flash",
@@ -40,18 +33,25 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/upscalemedia-transformed_5d8055.png?w=578"
         },
         {
-            "title": "Vine robot from MIT can squeeze through rubble to help emergency responders",
-            "link": "https://www.therobotreport.com/mit-vine-robot-squeezes-through-rubble-helping-emergency-responders/",
-            "description": "The joint research team from MIT and Notre Dame created the Soft Pathfinding Robotic Observation Unit, or SPROUT. The post Vine robot from MIT can squ...",
-            "pubDate": "2025-04-05T13:30:39",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/MIT-vinerobot-featured.jpg"
+            "title": "H2 Clipper plans to deploy robotic swarms in aerospace manufacturing",
+            "link": "https://www.therobotreport.com/h2-clipper-plans-to-deploy-robotic-swarms-in-aerospace-manufacturing/",
+            "description": "H2 Clipper's patented system employs a network of robots that operate collaboratively to construct large aerospace structures. The post H2 Clipper pla...",
+            "pubDate": "2025-04-06T16:57:34",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/swarm-robots-v42-featured.jpg"
         },
         {
-            "title": "LG Electronics unveils robotic vacuum for hotel cleaning, plans Marriott pilot",
-            "link": "https://www.therobotreport.com/lg-electronics-unveils-robotic-vacuum-hotel-cleaning-marriott-pilot-planned/",
-            "description": "LG said it designed the vacuum in partnership with Marriott Design Lab to meet the demands of commercial environments like hotels and resorts. The pos...",
-            "pubDate": "2025-04-05T19:46:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/VacuumBot-featured.jpg"
+            "title": "Serve Robotics brings autonomous delivery robots to Dallas",
+            "link": "https://www.therobotreport.com/serve-robotics-brings-autonomous-delivery-robots-to-dallas/",
+            "description": "Serve operates in the Uptown neighborhoods of Pearl, State Thomas, West Village, and South Routh, reaching 22,000 households in Dallas. The post Serve...",
+            "pubDate": "2025-04-06T16:32:38",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/serve-robot-featured.jpg"
+        },
+        {
+            "title": "From MIPS to exaflops in mere decades: Compute power is exploding, and it will transform AI",
+            "link": "https://venturebeat.com/ai/mips-to-exaflops-in-just-40-years-compute-power-is-exploding-and-it-will-transform-ai/",
+            "description": "For the first time, we may have the computing power and the intelligence to tackle problems with AI that were once beyond human reach.",
+            "pubDate": "2025-04-06T22:35:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/GG1.png?w=578"
         },
         {
             "title": "Meta’s answer to DeepSeek is here: Llama 4 launches with long context Scout and Maverick models, and 2T parameter Behemoth on the way!",
@@ -61,25 +61,25 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_vector_art_minimalist_acid_wash_flat_illustration_2D_sc_3a905d5f-566a-4c8b-b16b-8ac8836f837a.png?w=578"
         },
         {
+            "title": "LG Electronics unveils robotic vacuum for hotel cleaning, plans Marriott pilot",
+            "link": "https://www.therobotreport.com/lg-electronics-unveils-robotic-vacuum-hotel-cleaning-marriott-pilot-planned/",
+            "description": "LG said it designed the vacuum in partnership with Marriott Design Lab to meet the demands of commercial environments like hotels and resorts. The pos...",
+            "pubDate": "2025-04-05T19:46:18",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/VacuumBot-featured.jpg"
+        },
+        {
+            "title": "Vine robot from MIT can squeeze through rubble to help emergency responders",
+            "link": "https://www.therobotreport.com/mit-vine-robot-squeezes-through-rubble-helping-emergency-responders/",
+            "description": "The joint research team from MIT and Notre Dame created the Soft Pathfinding Robotic Observation Unit, or SPROUT. The post Vine robot from MIT can squ...",
+            "pubDate": "2025-04-05T13:30:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/MIT-vinerobot-featured.jpg"
+        },
+        {
             "title": "DeepSeek jolts AI industry: Why AI’s next leap may not come from more data, but more compute at inference",
             "link": "https://venturebeat.com/ai/deepseek-jolts-ai-industry-why-ais-next-leap-may-not-come-from-more-data-but-more-compute-at-inference/",
             "description": "To contextualize DeepSeek’s disruption, let's consider the broader shift in AI being driven by the scarcity of training data.",
             "pubDate": "2025-04-05T20:15:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/Datatransformer.webp?w=578"
-        },
-        {
-            "title": "RBR50 recap: Spotlight on robotics innovation",
-            "link": "https://www.therobotreport.com/rbr50-recap-spotlight-robotics-innovation/",
-            "description": "The editorial team recaps some of the most innovative robotic solutions in the 2025 cohort of RBR50 winners. The post RBR50 recap: Spotlight on roboti...",
-            "pubDate": "2025-04-04T21:07:26",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/03/RSE25_728x90_RegNow-1_Vs1.jpg"
-        },
-        {
-            "title": "Genspark’s Super Agent ups the ante in the general AI agent race",
-            "link": "https://venturebeat.com/ai/gensparks-super-agent-ups-the-ante-in-the-general-ai-agent-race/",
-            "description": "This week, Palo Alto-based startup Genspark released what it calls Super Agent, a fast-moving autonomous system designed to handle real-world tasks ac...",
-            "pubDate": "2025-04-04T23:46:01",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-4-2025-02_34_27-PM.png?w=578"
         },
         {
             "title": "The Download: what Trump’s tariffs mean for climate tech, and hacking AI agents",
@@ -89,25 +89,32 @@
             "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1D5JZ0mECVfVKLNtrCfCPMf1VG_tpgNaZiLKeN3LjDzDcgyf6PPe-IXuXhUp2668yD6E1uuTP2dtRWi9PobtAnXMxWlFw4bxaqXPZ8sohkObPO-DrLSD6i6TgerOPYJv_O14F?key=VnQrLVGPgQea8tldyRlzZpFp"
         },
         {
+            "title": "Genspark’s Super Agent ups the ante in the general AI agent race",
+            "link": "https://venturebeat.com/ai/gensparks-super-agent-ups-the-ante-in-the-general-ai-agent-race/",
+            "description": "This week, Palo Alto-based startup Genspark released what it calls Super Agent, a fast-moving autonomous system designed to handle real-world tasks ac...",
+            "pubDate": "2025-04-04T23:46:01",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-4-2025-02_34_27-PM.png?w=578"
+        },
+        {
             "title": "Cyberattacks by AI agents are coming",
             "link": "https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming/",
             "description": "Agents are the talk of the AI industry—they’re capable of planning, reasoning, and executing complex tasks like scheduling meetings, ordering grocerie...",
             "pubDate": "2025-04-04T11:32:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The Download: dethroning SpaceX, and air-conditioning’s energy demands",
-            "link": "https://www.technologyreview.com/2025/04/03/1114204/the-download-dethroning-spacex-and-air-conditionings-energy-demands/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Rivals are r...",
-            "pubDate": "2025-04-03T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/select-dna.jpg?fit=1064,598"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Trump’s tariffs will deliver a big blow to climate tech",
             "link": "https://www.technologyreview.com/2025/04/03/1114209/trumps-tariffs-will-deliver-a-big-blow-to-climate-tech/",
             "description": "US president Donald Trump’s massive, sweeping tariffs sent global stock markets tumbling on Thursday, setting the stage for a worldwide trade war and ...",
             "pubDate": "2025-04-03T23:43:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -124,11 +131,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -136,13 +143,6 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
