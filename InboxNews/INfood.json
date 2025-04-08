@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-07T14:53:42.388147",
+    "lastBuildDate": "2025-04-08T07:16:12.986627",
     "items": [
+        {
+            "title": "Creamy Mocha Chia Pudding",
+            "link": "https://minimalistbaker.com/creamy-mocha-chia-pudding/",
+            "description": "For those days when you’re needing an extra skip in your step, try this Mocha Chia Pudding! It’s a rich, creamy, chocolaty, energizing, fiber-packed b...",
+            "pubDate": "2025-04-08T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/02/Mocha-Chia-Pudding-6-680x1020.jpg"
+        },
         {
             "title": "Tuscan Chicken Pasta Bake",
             "link": "https://therecipecritic.com/tuscan-chicken-pasta-bake/",
@@ -59,13 +66,6 @@
             "description": "Friends, prepare to level up your muffin game with these undetectably vegan and gluten-free lemon poppy seed muffins! They’re perfectly sweet, tender,...",
             "pubDate": "2025-02-25T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Gluten-Free-Lemon-Poppy-Seed-Muffins-Vegan-18-680x1020.jpg"
-        },
-        {
-            "title": "Italian Lentil Soup (Zuppa di Lenticchie)",
-            "link": "https://minimalistbaker.com/italian-lentil-soup-zuppa-di-lenticchie/",
-            "description": "If you’ve ever eaten at a classic Italian restaurant, you may have had the delicious lentil soup known as “zuppa di lenticchie.” It’s a simple, nouris...",
-            "pubDate": "2025-02-18T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/12/Italian-Lentil-Soup-Zuppa-Di-Lenticchie-6-680x1030.jpg"
         }
     ]
 }
