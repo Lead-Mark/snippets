@@ -2,36 +2,8 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-08T11:01:07.043412",
+    "lastBuildDate": "2025-04-08T14:42:18.010524",
     "items": [
-        {
-            "title": "Game of clones: Colossal’s new wolves are cute, but are they dire?",
-            "link": "https://www.technologyreview.com/2025/04/08/1114371/game-of-clones-colossals-new-wolves-are-cute-but-are-they-dire/",
-            "description": "Somewhere in the northern US, drones fly over a 2,000-acre preserve, protected by a nine-foot fence built to zoo standards. It is off-limits to curiou...",
-            "pubDate": "2025-04-08T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/04/250404_DW_1Month_NonExclusive_Embed2.jpg?w=2788"
-        },
-        {
-            "title": "The RAG reality check: New open-source framework lets enterprises scientifically measure AI performance",
-            "link": "https://venturebeat.com/ai/the-rag-reality-check-new-open-source-framework-lets-enterprises-scientifically-measure-ai-performance/",
-            "description": "New open-source evaluation framework quantifies RAG pipeline performance with scientific metrics, helping enterprises cut through the AI hype cycle wi...",
-            "pubDate": "2025-04-08T13:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ai_evaluation_framework_smk.jpg?w=578"
-        },
-        {
-            "title": "Move over, Alexa: Amazon launches new realtime voice model Nova Sonic for third-party enterprise development",
-            "link": "https://venturebeat.com/ai/move-over-alexa-amazon-launches-new-realtime-voice-model-nova-sonic-for-third-party-enterprise-development/",
-            "description": "Currently, the model supports multiple expressive voices, both masculine and feminine, in American and British English.",
-            "pubDate": "2025-04-08T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-8-2025-08_32_36-AM.png?w=578"
-        },
-        {
-            "title": "Stanford’s AI Index: 5 critical insights reshaping enterprise tech strategy",
-            "link": "https://venturebeat.com/ai/stanfords-ai-index-5-critical-insights-reshaping-enterprise-tech-strategy/",
-            "description": "Stanford's annual AI Index Report offers a comprehensive view of the AI landscape. Here are the most critical insights for enterprise IT decision make...",
-            "pubDate": "2025-04-08T01:21:21",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/enterprise_ai_reasoning-smk.jpg?w=578"
-        },
         {
             "title": "The Download: a “dire wolf” revival, and safeguarding AI companions",
             "link": "https://www.technologyreview.com/2025/04/08/1114426/the-download-a-dire-wolf-revival-and-safeguarding-ai-companions/",
@@ -47,11 +19,46 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Cyngn_Patent-copy.jpg"
         },
         {
+            "title": "Move over, Alexa: Amazon launches new realtime voice model Nova Sonic for third-party enterprise development",
+            "link": "https://venturebeat.com/ai/move-over-alexa-amazon-launches-new-realtime-voice-model-nova-sonic-for-third-party-enterprise-development/",
+            "description": "Currently, the model supports multiple expressive voices, both masculine and feminine, in American and British English.",
+            "pubDate": "2025-04-08T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-8-2025-08_32_36-AM.png?w=578"
+        },
+        {
+            "title": "Game of clones: Colossal’s new wolves are cute, but are they dire?",
+            "link": "https://www.technologyreview.com/2025/04/08/1114371/game-of-clones-colossals-new-wolves-are-cute-but-are-they-dire/",
+            "description": "Somewhere in the northern US, drones fly over a 2,000-acre preserve, protected by a nine-foot fence built to zoo standards. It is off-limits to curiou...",
+            "pubDate": "2025-04-08T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/04/250404_DW_1Month_NonExclusive_Embed2.jpg?w=2788"
+        },
+        {
             "title": "Announcing the 2025 Product 50 Award winners!",
             "link": "https://venturebeat.com/programming-development/announcing-the-2025-product-50-award-winners/",
             "description": "In an increasingly uncertain global market, product and growth leaders have a greater effect than ever on a company’s success, impacting not only busi...",
             "pubDate": "2025-04-08T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/product-50-venturebeat-blog.png?w=578"
+        },
+        {
+            "title": "The RAG reality check: New open-source framework lets enterprises scientifically measure AI performance",
+            "link": "https://venturebeat.com/ai/the-rag-reality-check-new-open-source-framework-lets-enterprises-scientifically-measure-ai-performance/",
+            "description": "New open-source evaluation framework quantifies RAG pipeline performance with scientific metrics, helping enterprises cut through the AI hype cycle wi...",
+            "pubDate": "2025-04-08T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ai_evaluation_framework_smk.jpg?w=578"
+        },
+        {
+            "title": "Saildrone, Thales Australia integrate acoustic sensor technology into Surveyor USV",
+            "link": "https://www.therobotreport.com/saildrone-thales-australia-integrate-acoustic-sensor-technology-into-surveyor-usv/",
+            "description": "During an ONR trial, the Saildrone Surveyor and BlueSentry system operated continuously for 26 days and maintained uptime greater than 96%. The post S...",
+            "pubDate": "2025-04-08T16:25:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/saildrone-featured.jpg"
+        },
+        {
+            "title": "Nvidia’s new Llama-3.1 Nemotron Ultra outperforms DeepSeek R1 at half the size",
+            "link": "https://venturebeat.com/ai/nvidias-new-llama-3-1-nemotron-ultra-outperforms-deepseek-r1-at-half-the-size/",
+            "description": "Compared to DeepSeek R1, Llama-3.1-Nemotron-Ultra-253B shows competitive results despite having less than half the parameters.",
+            "pubDate": "2025-04-08T16:08:32",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_vector_art_line_art_flat_illustration_dominant_green_co_65518dbc-121a-44f2-b5d6-1f85445fe701.png?w=578"
         },
         {
             "title": "The dire wolf has returned from the dead. A Dallas company ‘de-extincted’ them",
@@ -65,14 +72,7 @@
             "link": "https://www.technologyreview.com/2025/04/08/1114369/ai-companions-are-the-final-stage-of-digital-addiction-and-lawmakers-are-taking-aim/",
             "description": "On Tuesday, California state senator Steve Padilla will make an appearance with Megan Garcia, the mother of a Florida teen who killed himself followin...",
             "pubDate": "2025-04-08T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The Download: how the US is meeting China’s technological rise, and Trump’s tariff war intensifies",
-            "link": "https://www.technologyreview.com/2025/04/07/1114289/the-download-how-the-us-is-meeting-chinas-technological-rise-and-trumps-tariff-war-intensifies/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How the Pent...",
-            "pubDate": "2025-04-07T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT_electro_Final.v2.jpg?fit=1126,633"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "CMR Surgical raises $200M to expand Versius robot access across the U.S.",
@@ -80,6 +80,13 @@
             "description": "CMR plans to use the funds to accelerate commercial expansion of the Versius Surgical Robotic System to hospitals around the world. The post CMR Surgi...",
             "pubDate": "2025-04-07T22:01:40",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/CMR-Versius-NHS-Hospital-featured.jpg"
+        },
+        {
+            "title": "The Download: how the US is meeting China’s technological rise, and Trump’s tariff war intensifies",
+            "link": "https://www.technologyreview.com/2025/04/07/1114289/the-download-how-the-us-is-meeting-chinas-technological-rise-and-trumps-tariff-war-intensifies/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How the Pent...",
+            "pubDate": "2025-04-07T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT_electro_Final.v2.jpg?fit=1126,633"
         },
         {
             "title": "Enter the era of physical intelligence at the 2025 Robotics Summit",
@@ -96,25 +103,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Serve Robotics brings autonomous delivery robots to Dallas",
-            "link": "https://www.therobotreport.com/serve-robotics-brings-autonomous-delivery-robots-to-dallas/",
-            "description": "Serve operates in the Uptown neighborhoods of Pearl, State Thomas, West Village, and South Routh, reaching 22,000 households in Dallas. The post Serve...",
-            "pubDate": "2025-04-06T16:32:38",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/serve-robot-featured.jpg"
-        },
-        {
             "title": "H2 Clipper plans to deploy robotic swarms in aerospace manufacturing",
             "link": "https://www.therobotreport.com/h2-clipper-plans-to-deploy-robotic-swarms-in-aerospace-manufacturing/",
             "description": "H2 Clipper's patented system employs a network of robots that operate collaboratively to construct large aerospace structures. The post H2 Clipper pla...",
             "pubDate": "2025-04-06T16:57:34",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/swarm-robots-v42-featured.jpg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -129,6 +122,13 @@
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
