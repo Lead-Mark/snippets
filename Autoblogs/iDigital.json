@@ -2,15 +2,8 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-08T07:16:47.505890",
+    "lastBuildDate": "2025-04-08T11:01:07.043412",
     "items": [
-        {
-            "title": "Stanford’s AI Index: 5 critical insights reshaping enterprise tech strategy",
-            "link": "https://venturebeat.com/ai/stanfords-ai-index-5-critical-insights-reshaping-enterprise-tech-strategy/",
-            "description": "Stanford's annual AI Index Report offers a comprehensive view of the AI landscape. Here are the most critical insights for enterprise IT decision make...",
-            "pubDate": "2025-04-08T01:21:21",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/enterprise_ai_reasoning-smk.jpg?w=578"
-        },
         {
             "title": "Game of clones: Colossal’s new wolves are cute, but are they dire?",
             "link": "https://www.technologyreview.com/2025/04/08/1114371/game-of-clones-colossals-new-wolves-are-cute-but-are-they-dire/",
@@ -19,25 +12,67 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/04/250404_DW_1Month_NonExclusive_Embed2.jpg?w=2788"
         },
         {
-            "title": "Meta defends Llama 4 release against ‘reports of mixed quality,’ blames bugs",
-            "link": "https://venturebeat.com/ai/meta-defends-llama-4-release-against-reports-of-mixed-quality-blames-bugs/",
-            "description": "Llama 4 continues to spread to other inference providers, but it's safe to say the initial release has not been a slam dunk.",
-            "pubDate": "2025-04-08T01:11:14",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_vector_art_minimalist_acid_wash_flat_illustration_2D__4d1b2d49-d940-4a0c-86d3-beb181a36b7c_0.png?w=578"
+            "title": "The RAG reality check: New open-source framework lets enterprises scientifically measure AI performance",
+            "link": "https://venturebeat.com/ai/the-rag-reality-check-new-open-source-framework-lets-enterprises-scientifically-measure-ai-performance/",
+            "description": "New open-source evaluation framework quantifies RAG pipeline performance with scientific metrics, helping enterprises cut through the AI hype cycle wi...",
+            "pubDate": "2025-04-08T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ai_evaluation_framework_smk.jpg?w=578"
         },
         {
-            "title": "AI companions are the final stage of digital addiction, and lawmakers are taking aim",
-            "link": "https://www.technologyreview.com/2025/04/08/1114369/ai-companions-are-the-final-stage-of-digital-addiction-and-lawmakers-are-taking-aim/",
-            "description": "On Tuesday, California state senator Steve Padilla will make an appearance with Megan Garcia, the mother of a Florida teen who killed himself followin...",
-            "pubDate": "2025-04-08T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Move over, Alexa: Amazon launches new realtime voice model Nova Sonic for third-party enterprise development",
+            "link": "https://venturebeat.com/ai/move-over-alexa-amazon-launches-new-realtime-voice-model-nova-sonic-for-third-party-enterprise-development/",
+            "description": "Currently, the model supports multiple expressive voices, both masculine and feminine, in American and British English.",
+            "pubDate": "2025-04-08T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-8-2025-08_32_36-AM.png?w=578"
+        },
+        {
+            "title": "Stanford’s AI Index: 5 critical insights reshaping enterprise tech strategy",
+            "link": "https://venturebeat.com/ai/stanfords-ai-index-5-critical-insights-reshaping-enterprise-tech-strategy/",
+            "description": "Stanford's annual AI Index Report offers a comprehensive view of the AI landscape. Here are the most critical insights for enterprise IT decision make...",
+            "pubDate": "2025-04-08T01:21:21",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/enterprise_ai_reasoning-smk.jpg?w=578"
+        },
+        {
+            "title": "The Download: a “dire wolf” revival, and safeguarding AI companions",
+            "link": "https://www.technologyreview.com/2025/04/08/1114426/the-download-a-dire-wolf-revival-and-safeguarding-ai-companions/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Game of clon...",
+            "pubDate": "2025-04-08T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f3c4.png"
+        },
+        {
+            "title": "Cyngn adds patent for autonomous vehicle and cloud technologies",
+            "link": "https://www.therobotreport.com/cyngn-adds-patent-autonomous-vehicle-cloud-technologies/",
+            "description": "Cyngn said its latest U.S. patent, which covers cloud computing to reduce onboard hardware needs, brings its total to 22. The post Cyngn adds patent f...",
+            "pubDate": "2025-04-08T14:45:58",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Cyngn_Patent-copy.jpg"
+        },
+        {
+            "title": "Announcing the 2025 Product 50 Award winners!",
+            "link": "https://venturebeat.com/programming-development/announcing-the-2025-product-50-award-winners/",
+            "description": "In an increasingly uncertain global market, product and growth leaders have a greater effect than ever on a company’s success, impacting not only busi...",
+            "pubDate": "2025-04-08T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/product-50-venturebeat-blog.png?w=578"
         },
         {
             "title": "The dire wolf has returned from the dead. A Dallas company ‘de-extincted’ them",
             "link": "https://venturebeat.com/games/the-dire-wolf-has-returned-from-the-dead-a-dallas-company-de-extincted-them/",
             "description": "Colossal Biosciences, the de-extinction company, has announced that it has brought the dire wolf back from extinction.",
             "pubDate": "2025-04-08T02:53:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "AI companions are the final stage of digital addiction, and lawmakers are taking aim",
+            "link": "https://www.technologyreview.com/2025/04/08/1114369/ai-companions-are-the-final-stage-of-digital-addiction-and-lawmakers-are-taking-aim/",
+            "description": "On Tuesday, California state senator Steve Padilla will make an appearance with Megan Garcia, the mother of a Florida teen who killed himself followin...",
+            "pubDate": "2025-04-08T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "The Download: how the US is meeting China’s technological rise, and Trump’s tariff war intensifies",
+            "link": "https://www.technologyreview.com/2025/04/07/1114289/the-download-how-the-us-is-meeting-chinas-technological-rise-and-trumps-tariff-war-intensifies/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How the Pent...",
+            "pubDate": "2025-04-07T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT_electro_Final.v2.jpg?fit=1126,633"
         },
         {
             "title": "CMR Surgical raises $200M to expand Versius robot access across the U.S.",
@@ -54,25 +89,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/RUS.jpg"
         },
         {
-            "title": "The Download: how the US is meeting China’s technological rise, and Trump’s tariff war intensifies",
-            "link": "https://www.technologyreview.com/2025/04/07/1114289/the-download-how-the-us-is-meeting-chinas-technological-rise-and-trumps-tariff-war-intensifies/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How the Pent...",
-            "pubDate": "2025-04-07T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT_electro_Final.v2.jpg?fit=1126,633"
-        },
-        {
-            "title": "$115 million just poured into this startup that makes engineering 1,000x faster — and Bezos, Altman, and Nvidia are all betting on its success",
-            "link": "https://venturebeat.com/ai/115-million-just-poured-into-this-startup-that-makes-engineering-1000x-faster-and-bezos-altman-and-nvidia-are-all-betting-on-its-success/",
-            "description": "Rescale secures $115 million in Series D funding to accelerate AI physics technology that speeds up engineering simulations by 1000x, backed by tech l...",
-            "pubDate": "2025-04-07T23:26:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_Boeing_787_Dreamliner_aerodynamics_mo_cdee02cc-0a7e-40d6-9531-3f1edf3db95a.webp?w=578"
-        },
-        {
             "title": "How the Pentagon is adapting to China’s technological rise",
             "link": "https://www.technologyreview.com/2025/04/07/1114242/kathleen-hicks-on-china/",
             "description": "It’s been just over two months since Kathleen Hicks stepped down as US deputy secretary of defense. As the highest-ranking woman in Pentagon history, ...",
             "pubDate": "2025-04-07T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Serve Robotics brings autonomous delivery robots to Dallas",
@@ -82,32 +103,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/serve-robot-featured.jpg"
         },
         {
-            "title": "From MIPS to exaflops in mere decades: Compute power is exploding, and it will transform AI",
-            "link": "https://venturebeat.com/ai/mips-to-exaflops-in-just-40-years-compute-power-is-exploding-and-it-will-transform-ai/",
-            "description": "For the first time, we may have the computing power and the intelligence to tackle problems with AI that were once beyond human reach.",
-            "pubDate": "2025-04-06T22:35:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/GG1.png?w=578"
-        },
-        {
             "title": "H2 Clipper plans to deploy robotic swarms in aerospace manufacturing",
             "link": "https://www.therobotreport.com/h2-clipper-plans-to-deploy-robotic-swarms-in-aerospace-manufacturing/",
             "description": "H2 Clipper's patented system employs a network of robots that operate collaboratively to construct large aerospace structures. The post H2 Clipper pla...",
             "pubDate": "2025-04-06T16:57:34",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/swarm-robots-v42-featured.jpg"
-        },
-        {
-            "title": "LG Electronics unveils robotic vacuum for hotel cleaning, plans Marriott pilot",
-            "link": "https://www.therobotreport.com/lg-electronics-unveils-robotic-vacuum-hotel-cleaning-marriott-pilot-planned/",
-            "description": "LG said it designed the vacuum in partnership with Marriott Design Lab to meet the demands of commercial environments like hotels and resorts. The pos...",
-            "pubDate": "2025-04-05T19:46:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/VacuumBot-featured.jpg"
-        },
-        {
-            "title": "The Download: what Trump’s tariffs mean for climate tech, and hacking AI agents",
-            "link": "https://www.technologyreview.com/2025/04/04/1114227/the-download-what-trumps-tariffs-mean-for-climate-tech-and-hacking-ai-agents/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s tari...",
-            "pubDate": "2025-04-04T13:10:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1D5JZ0mECVfVKLNtrCfCPMf1VG_tpgNaZiLKeN3LjDzDcgyf6PPe-IXuXhUp2668yD6E1uuTP2dtRWi9PobtAnXMxWlFw4bxaqXPZ8sohkObPO-DrLSD6i6TgerOPYJv_O14F?key=VnQrLVGPgQea8tldyRlzZpFp"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -131,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
             "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
