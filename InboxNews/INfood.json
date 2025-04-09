@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-08T14:41:38.816691",
+    "lastBuildDate": "2025-04-09T07:08:42.669703",
     "items": [
+        {
+            "title": "Crispy Rice Salad",
+            "link": "https://therecipecritic.com/crispy-rice-salad/",
+            "description": "I’ve seen this trendy crispy rice salad all over social media, so I had to try it… and it lives…",
+            "pubDate": "2025-04-09T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/crispy-rice-salad-2.jpg"
+        },
         {
             "title": "Creamy Mocha Chia Pudding",
             "link": "https://minimalistbaker.com/creamy-mocha-chia-pudding/",
@@ -38,13 +45,6 @@
             "description": "I’m obsessed with dill pickles, and you guys go nuts over my viral chicken salad. So, I made this high…",
             "pubDate": "2025-04-01T01:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/dill-pickle-pasta-salad-1.jpg"
-        },
-        {
-            "title": "Cucumber Dip",
-            "link": "https://therecipecritic.com/cucumber-dip/",
-            "description": "You guys are going to love how refreshing and flavorful this cucumber dip is. It’s the perfect mix of creamy…",
-            "pubDate": "2025-03-31T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/cucumber-dip-2-2.jpg"
         },
         {
             "title": "Easy Raspberry Compote (Naturally Sweetened)",

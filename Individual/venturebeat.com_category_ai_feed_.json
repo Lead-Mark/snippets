@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-08T14:42:18.016130",
+    "lastBuildDate": "2025-04-09T07:09:17.141673",
     "items": [
+        {
+            "title": "DeepSeek unveils new technique for smarter, scalable AI reward models",
+            "link": "https://venturebeat.com/ai/deepseek-unveils-new-technique-for-smarter-scalable-ai-reward-models/",
+            "description": "Reward models holding back AI? DeepSeek's SPCT creates self-guiding critiques, promising more scalable intelligence for enterprise LLMs.",
+            "pubDate": "2025-04-08T23:33:13",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/deepseek-reward-model.webp?w=578"
+        },
+        {
+            "title": "New open source AI company Deep Cogito releases first models and they’re already topping the charts",
+            "link": "https://venturebeat.com/ai/new-open-source-ai-company-deep-cogito-releases-first-models-and-theyre-already-topping-the-charts/",
+            "description": "The initial model lineup includes five base sizes: 3 billion, 8 billion, 14 billion, 32 billion, and 70 billion parameters.",
+            "pubDate": "2025-04-08T23:01:34",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_davinci_scientific_diagram_showing_a_human_palm_with_fi_b8a07744-bd15-4aec-8945-46b7fa1a7369.png?w=578"
+        },
+        {
+            "title": "Wells Fargo’s AI assistant just crossed 245 million interactions – no human handoffs, no sensitive data exposed",
+            "link": "https://venturebeat.com/ai/wells-fargos-ai-assistant-just-crossed-245-million-interactions-with-zero-humans-in-the-loop-and-zero-pii-to-the-llm/",
+            "description": "Wells Fargo’s generative AI assistant, Fargo, surpassed 245 million interactions in 2024 using a model-agnostic architecture powered by Google’s Flash...",
+            "pubDate": "2025-04-08T20:01:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-8-2025-09_18_23-AM.png?w=578"
+        },
         {
             "title": "Nvidia’s new Llama-3.1 Nemotron Ultra outperforms DeepSeek R1 at half the size",
             "link": "https://venturebeat.com/ai/nvidias-new-llama-3-1-nemotron-ultra-outperforms-deepseek-r1-at-half-the-size/",
@@ -17,27 +38,6 @@
             "description": "In an increasingly uncertain global market, product and growth leaders have a greater effect than ever on a company’s success, impacting not only busi...",
             "pubDate": "2025-04-08T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/product-50-venturebeat-blog.png?w=578"
-        },
-        {
-            "title": "Move over, Alexa: Amazon launches new realtime voice model Nova Sonic for third-party enterprise development",
-            "link": "https://venturebeat.com/ai/move-over-alexa-amazon-launches-new-realtime-voice-model-nova-sonic-for-third-party-enterprise-development/",
-            "description": "Currently, the model supports multiple expressive voices, both masculine and feminine, in American and British English.",
-            "pubDate": "2025-04-08T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-8-2025-08_32_36-AM.png?w=578"
-        },
-        {
-            "title": "The RAG reality check: New open-source framework lets enterprises scientifically measure AI performance",
-            "link": "https://venturebeat.com/ai/the-rag-reality-check-new-open-source-framework-lets-enterprises-scientifically-measure-ai-performance/",
-            "description": "New open-source evaluation framework quantifies RAG pipeline performance with scientific metrics, helping enterprises cut through the AI hype cycle wi...",
-            "pubDate": "2025-04-08T13:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ai_evaluation_framework_smk.jpg?w=578"
-        },
-        {
-            "title": "The dire wolf has returned from the dead. A Dallas company ‘de-extincted’ them",
-            "link": "https://venturebeat.com/games/the-dire-wolf-has-returned-from-the-dead-a-dallas-company-de-extincted-them/",
-            "description": "Colossal Biosciences, the de-extinction company, has announced that it has brought the dire wolf back from extinction.",
-            "pubDate": "2025-04-08T02:53:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }
