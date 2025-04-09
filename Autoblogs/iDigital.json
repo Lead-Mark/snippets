@@ -2,28 +2,63 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-09T07:09:17.136805",
+    "lastBuildDate": "2025-04-09T11:06:13.030482",
     "items": [
+        {
+            "title": "The Download: detecting bird flu, and powering industrial processes with nuclear energy",
+            "link": "https://www.technologyreview.com/2025/04/09/1114686/the-download-detecting-bird-flu-and-powering-industrial-processes-with-nuclear-energy/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new biosen...",
+            "pubDate": "2025-04-09T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEPR2qOjDb30TpaWXO5LhVFGg0KWvaqz2BUdee2_bTbPM7eaU-YS6IYjoxbe5MaioSgWDWyAOiNTAGNeIeL8vnyqQER6S15SAGB_w_B2erIlsQqIM1uUV90gv40BRaY6xQWIg82g?key=yzBIKa2ON5OPkKKGgIPl8eRz"
+        },
+        {
+            "title": "Google’s new Agent Development Kit lets enterprises rapidly prototype and deploy AI agents without recoding",
+            "link": "https://venturebeat.com/ai/googles-new-agent-development-kit-lets-enterprises-rapidly-prototype-and-deploy-ai-agents-without-recoding/",
+            "description": "Google expanded its agent offering with Agent Development Kit where enterprises can build and deploy AI agents all in one place.",
+            "pubDate": "2025-04-09T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/crimedy7_illustration_of_robots_building_a_house_comic_book_sty_30c5e6cb-aae8-4159-b24f-2829e3883035.png?w=578"
+        },
+        {
+            "title": "Google Cloud intros AI security agents, unified security platform to consolidate ops, triage, threat intel",
+            "link": "https://venturebeat.com/security/google-cloud-intros-ai-security-agents-unified-security-platform-to-consolidate-ops-triage-threat-intel/",
+            "description": "Google Cloud releases new Google Unified Security platform to simplify cybersecurity, along with new semi-autonomous AI security agents.",
+            "pubDate": "2025-04-09T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/Google-Cloud.jpeg?w=578"
+        },
+        {
+            "title": "Google’s new Ironwood chip is 24x more powerful than the world’s fastest supercomputer",
+            "link": "https://venturebeat.com/ai/googles-new-ironwood-chip-is-24x-more-powerful-than-the-worlds-fastest-supercomputer/",
+            "description": "Google unveils Ironwood, its seventh-generation TPU chip delivering 42.5 exaflops of AI compute power — 24x more than the world's fastest supercompute...",
+            "pubDate": "2025-04-09T13:01:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_tensor_processing_unit_TPU_in_the_col_dcabdd0f-c4c7-417c-8017-f957c5614024.webp?w=578"
+        },
+        {
+            "title": "Google Cloud Next ’25: New AI chips and agent ecosystem challenge Microsoft and Amazon",
+            "link": "https://venturebeat.com/ai/google-cloud-next-25-new-ai-chips-and-agent-ecosystem-challenge-microsoft-and-amazon/",
+            "description": "Google unveils Ironwood TPUs, Gemini 2.5 \"thinking models,\" and Agent2Agent protocol at Cloud Next '25, challenging Microsoft and Amazon with a compre...",
+            "pubDate": "2025-04-09T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_server_rack_in_the_clouds_in_the_colo_11a3c29f-4411-4407-b215-97b8465778ab.webp?w=578"
+        },
+        {
+            "title": "Google’s Agent2Agent interoperability protocol aims to standardize agentic communication",
+            "link": "https://venturebeat.com/ai/googles-agent2agent-interoperability-protocol-aims-to-standardize-agentic-communication/",
+            "description": "Google's agent interoperability protocol Agent2Agent aims to standardize communication between agents from different frameworks.",
+            "pubDate": "2025-04-09T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
+        },
         {
             "title": "A new biosensor can detect bird flu in five minutes",
             "link": "https://www.technologyreview.com/2025/04/09/1114252/new-bird-flu-sensor-disease-outbreaks/",
             "description": "Over the winter, eggs suddenly became all but impossible to buy. As a bird flu outbreak rippled through dairy and poultry farms, grocery stores strugg...",
             "pubDate": "2025-04-09T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "This Texas chemical plant could get its own nuclear reactors",
             "link": "https://www.technologyreview.com/2025/04/09/1114589/chemical-plant-nuclear/",
             "description": "Nuclear reactors could someday power a chemical plant in Texas, making it the first with such a facility onsite. The factory, which makes plastics and...",
             "pubDate": "2025-04-09T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The Download: a “dire wolf” revival, and safeguarding AI companions",
-            "link": "https://www.technologyreview.com/2025/04/08/1114426/the-download-a-dire-wolf-revival-and-safeguarding-ai-companions/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Game of clon...",
-            "pubDate": "2025-04-08T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f3c4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Game of clones: Colossal’s new wolves are cute, but are they dire?",
@@ -33,20 +68,6 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/04/250404_DW_1Month_NonExclusive_Embed2.jpg?w=2788"
         },
         {
-            "title": "Celebrate top robotics innovators at the Robotics Summit & Expo’s RBR50 Gala",
-            "link": "https://www.therobotreport.com/celebrate-top-innovators-in-robotics-2025-robotics-summit-expos-rbr50-gala/",
-            "description": "End the first day of the Robotics Summit with the RBR50 Gala, which offers a chance to connect with the world’s leading robotics innovators. The post ...",
-            "pubDate": "2025-04-08T20:01:54",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/2024RBR50gala-featured.jpg"
-        },
-        {
-            "title": "New open source AI company Deep Cogito releases first models and they’re already topping the charts",
-            "link": "https://venturebeat.com/ai/new-open-source-ai-company-deep-cogito-releases-first-models-and-theyre-already-topping-the-charts/",
-            "description": "The initial model lineup includes five base sizes: 3 billion, 8 billion, 14 billion, 32 billion, and 70 billion parameters.",
-            "pubDate": "2025-04-08T23:01:34",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_davinci_scientific_diagram_showing_a_human_palm_with_fi_b8a07744-bd15-4aec-8945-46b7fa1a7369.png?w=578"
-        },
-        {
             "title": "Saildrone, Thales Australia integrate acoustic sensor technology into Surveyor USV",
             "link": "https://www.therobotreport.com/saildrone-thales-australia-integrate-acoustic-sensor-technology-into-surveyor-usv/",
             "description": "During an ONR trial, the Saildrone Surveyor and BlueSentry system operated continuously for 26 days and maintained uptime greater than 96%. The post S...",
@@ -54,18 +75,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/saildrone-featured.jpg"
         },
         {
-            "title": "DeepSeek unveils new technique for smarter, scalable AI reward models",
-            "link": "https://venturebeat.com/ai/deepseek-unveils-new-technique-for-smarter-scalable-ai-reward-models/",
-            "description": "Reward models holding back AI? DeepSeek's SPCT creates self-guiding critiques, promising more scalable intelligence for enterprise LLMs.",
-            "pubDate": "2025-04-08T23:33:13",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/deepseek-reward-model.webp?w=578"
+            "title": "Celebrate top robotics innovators at the Robotics Summit & Expo’s RBR50 Gala",
+            "link": "https://www.therobotreport.com/celebrate-top-innovators-in-robotics-2025-robotics-summit-expos-rbr50-gala/",
+            "description": "End the first day of the Robotics Summit with the RBR50 Gala, which offers a chance to connect with the world’s leading robotics innovators. The post ...",
+            "pubDate": "2025-04-08T20:01:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/2024RBR50gala-featured.jpg"
         },
         {
-            "title": "Wells Fargo’s AI assistant just crossed 245 million interactions – no human handoffs, no sensitive data exposed",
-            "link": "https://venturebeat.com/ai/wells-fargos-ai-assistant-just-crossed-245-million-interactions-with-zero-humans-in-the-loop-and-zero-pii-to-the-llm/",
-            "description": "Wells Fargo’s generative AI assistant, Fargo, surpassed 245 million interactions in 2024 using a model-agnostic architecture powered by Google’s Flash...",
-            "pubDate": "2025-04-08T20:01:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-8-2025-09_18_23-AM.png?w=578"
+            "title": "The Download: a “dire wolf” revival, and safeguarding AI companions",
+            "link": "https://www.technologyreview.com/2025/04/08/1114426/the-download-a-dire-wolf-revival-and-safeguarding-ai-companions/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Game of clon...",
+            "pubDate": "2025-04-08T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f3c4.png"
         },
         {
             "title": "Cyngn adds patent for autonomous vehicle and cloud technologies",
@@ -73,27 +94,6 @@
             "description": "Cyngn said its latest U.S. patent, which covers cloud computing to reduce onboard hardware needs, brings its total to 22. The post Cyngn adds patent f...",
             "pubDate": "2025-04-08T14:45:58",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Cyngn_Patent-copy.jpg"
-        },
-        {
-            "title": "Nvidia’s new Llama-3.1 Nemotron Ultra outperforms DeepSeek R1 at half the size",
-            "link": "https://venturebeat.com/ai/nvidias-new-llama-3-1-nemotron-ultra-outperforms-deepseek-r1-at-half-the-size/",
-            "description": "Compared to DeepSeek R1, Llama-3.1-Nemotron-Ultra-253B shows competitive results despite having less than half the parameters.",
-            "pubDate": "2025-04-08T16:08:32",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_vector_art_line_art_flat_illustration_dominant_green_co_65518dbc-121a-44f2-b5d6-1f85445fe701.png?w=578"
-        },
-        {
-            "title": "Announcing the 2025 Product 50 Award winners!",
-            "link": "https://venturebeat.com/programming-development/announcing-the-2025-product-50-award-winners/",
-            "description": "In an increasingly uncertain global market, product and growth leaders have a greater effect than ever on a company’s success, impacting not only busi...",
-            "pubDate": "2025-04-08T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/product-50-venturebeat-blog.png?w=578"
-        },
-        {
-            "title": "AI companions are the final stage of digital addiction, and lawmakers are taking aim",
-            "link": "https://www.technologyreview.com/2025/04/08/1114369/ai-companions-are-the-final-stage-of-digital-addiction-and-lawmakers-are-taking-aim/",
-            "description": "On Tuesday, California state senator Steve Padilla will make an appearance with Megan Garcia, the mother of a Florida teen who killed himself followin...",
-            "pubDate": "2025-04-08T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "CMR Surgical raises $200M to expand Versius robot access across the U.S.",
@@ -117,13 +117,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -143,6 +136,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
