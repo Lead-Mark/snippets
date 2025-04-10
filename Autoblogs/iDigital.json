@@ -2,42 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-09T11:06:13.030482",
+    "lastBuildDate": "2025-04-09T22:31:39.843362",
     "items": [
         {
-            "title": "The Download: detecting bird flu, and powering industrial processes with nuclear energy",
-            "link": "https://www.technologyreview.com/2025/04/09/1114686/the-download-detecting-bird-flu-and-powering-industrial-processes-with-nuclear-energy/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new biosen...",
-            "pubDate": "2025-04-09T13:10:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEPR2qOjDb30TpaWXO5LhVFGg0KWvaqz2BUdee2_bTbPM7eaU-YS6IYjoxbe5MaioSgWDWyAOiNTAGNeIeL8vnyqQER6S15SAGB_w_B2erIlsQqIM1uUV90gv40BRaY6xQWIg82g?key=yzBIKa2ON5OPkKKGgIPl8eRz"
+            "title": "Google introduces Firebase Studio, an end-to-end platform that builds custom apps in-browser, in minutes",
+            "link": "https://venturebeat.com/ai/google-introduces-firebase-studio-an-end-to-end-platform-that-builds-custom-apps-in-browser-in-minutes/",
+            "description": "Devs and non-devs can use the cloud-based, Gemini-powered platform to build, launch, iterate and monitor apps, APIs, backends and frontends.",
+            "pubDate": "2025-04-10T00:52:55",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/upscalemedia-transformed_825d26.png?w=578"
         },
         {
-            "title": "Google’s new Agent Development Kit lets enterprises rapidly prototype and deploy AI agents without recoding",
-            "link": "https://venturebeat.com/ai/googles-new-agent-development-kit-lets-enterprises-rapidly-prototype-and-deploy-ai-agents-without-recoding/",
-            "description": "Google expanded its agent offering with Agent Development Kit where enterprises can build and deploy AI agents all in one place.",
-            "pubDate": "2025-04-09T13:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/crimedy7_illustration_of_robots_building_a_house_comic_book_sty_30c5e6cb-aae8-4159-b24f-2829e3883035.png?w=578"
-        },
-        {
-            "title": "Google Cloud intros AI security agents, unified security platform to consolidate ops, triage, threat intel",
-            "link": "https://venturebeat.com/security/google-cloud-intros-ai-security-agents-unified-security-platform-to-consolidate-ops-triage-threat-intel/",
-            "description": "Google Cloud releases new Google Unified Security platform to simplify cybersecurity, along with new semi-autonomous AI security agents.",
-            "pubDate": "2025-04-09T13:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/Google-Cloud.jpeg?w=578"
-        },
-        {
-            "title": "Google’s new Ironwood chip is 24x more powerful than the world’s fastest supercomputer",
-            "link": "https://venturebeat.com/ai/googles-new-ironwood-chip-is-24x-more-powerful-than-the-worlds-fastest-supercomputer/",
-            "description": "Google unveils Ironwood, its seventh-generation TPU chip delivering 42.5 exaflops of AI compute power — 24x more than the world's fastest supercompute...",
-            "pubDate": "2025-04-09T13:01:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_tensor_processing_unit_TPU_in_the_col_dcabdd0f-c4c7-417c-8017-f957c5614024.webp?w=578"
-        },
-        {
-            "title": "Google Cloud Next ’25: New AI chips and agent ecosystem challenge Microsoft and Amazon",
-            "link": "https://venturebeat.com/ai/google-cloud-next-25-new-ai-chips-and-agent-ecosystem-challenge-microsoft-and-amazon/",
-            "description": "Google unveils Ironwood TPUs, Gemini 2.5 \"thinking models,\" and Agent2Agent protocol at Cloud Next '25, challenging Microsoft and Amazon with a compre...",
-            "pubDate": "2025-04-09T13:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_server_rack_in_the_clouds_in_the_colo_11a3c29f-4411-4407-b215-97b8465778ab.webp?w=578"
+            "title": "Google launches Gemini in Android Studio for Businesses, making it easier for devs to design work apps",
+            "link": "https://venturebeat.com/programming-development/google-launches-gemini-in-android-studio-for-businesses-making-it-easier-for-devs-to-design-work-apps/",
+            "description": "The business version of Gemini builds on the core AI capabilities already familiar to Android developers but introduces enhanced features for organiza...",
+            "pubDate": "2025-04-09T18:43:23",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_pov_over_the_shoulder_vector_art_line_art_flat_illustra_58ce485d-fb36-4629-a1f1-9b83f31f9740.png?w=578"
         },
         {
             "title": "Google’s Agent2Agent interoperability protocol aims to standardize agentic communication",
@@ -47,32 +26,74 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
         },
         {
+            "title": "Google’s new Ironwood chip is 24x more powerful than the world’s fastest supercomputer",
+            "link": "https://venturebeat.com/ai/googles-new-ironwood-chip-is-24x-more-powerful-than-the-worlds-fastest-supercomputer/",
+            "description": "Google unveils Ironwood, its seventh-generation TPU chip delivering 42.5 exaflops of AI compute power — 24x more than the world's fastest supercompute...",
+            "pubDate": "2025-04-09T13:01:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_tensor_processing_unit_TPU_in_the_col_dcabdd0f-c4c7-417c-8017-f957c5614024.webp?w=578"
+        },
+        {
+            "title": "The Download: detecting bird flu, and powering industrial processes with nuclear energy",
+            "link": "https://www.technologyreview.com/2025/04/09/1114686/the-download-detecting-bird-flu-and-powering-industrial-processes-with-nuclear-energy/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new biosen...",
+            "pubDate": "2025-04-09T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEPR2qOjDb30TpaWXO5LhVFGg0KWvaqz2BUdee2_bTbPM7eaU-YS6IYjoxbe5MaioSgWDWyAOiNTAGNeIeL8vnyqQER6S15SAGB_w_B2erIlsQqIM1uUV90gv40BRaY6xQWIg82g?key=yzBIKa2ON5OPkKKGgIPl8eRz"
+        },
+        {
+            "title": "Nuro brings in $106M to bolster licensing-driven business model",
+            "link": "https://www.therobotreport.com/nuro-brings-106m-bolster-licensing-driven-business-model/",
+            "description": "Nuro said it's one of the few companies to have successfully deployed driverless technology at city scale with no safety driver. The post Nuro brings ...",
+            "pubDate": "2025-04-09T20:52:42",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Nuro_P2_On-Road-featured.jpg"
+        },
+        {
+            "title": "OpenMind and DIMO provide car-to-robot connectivity to realize smart cities",
+            "link": "https://www.therobotreport.com/openmind-and-dimo-provide-car-robot-connectivity-realize-smart-cities/",
+            "description": "OpenMind is combining its decentralized AI architecture with DIMO’s blockchain-powered vehicle network so machines can interact in real time. The post...",
+            "pubDate": "2025-04-09T22:16:26",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/OpenMind_DIMO.jpg"
+        },
+        {
+            "title": "BRINC raises $75M in funding for emergency response drones",
+            "link": "https://www.therobotreport.com/brinc-raises-75m-emergency-response-drones/",
+            "description": "BRINC secured investment led by Index Ventures, with Motorola Solutions participating, to boost technology and production. The post BRINC raises $75M ...",
+            "pubDate": "2025-04-09T17:51:17",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/brinc-drones-featured.jpg"
+        },
+        {
+            "title": "Anthropic just launched a $200 version of Claude AI — here’s what you get for the premium price",
+            "link": "https://venturebeat.com/ai/anthropic-just-launched-a-200-version-of-claude-ai-heres-what-you-get-for-the-premium-price/",
+            "description": "Anthropic launches new Claude Max subscription tiers at $100 and $200 monthly, challenging OpenAI's premium offerings while targeting power users who ...",
+            "pubDate": "2025-04-09T20:51:07",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_laptop_on_a_desk_workstation_in_burnt_ca93ef8d-c772-44ac-9a96-6daf307da534.webp?w=578"
+        },
+        {
+            "title": "Sager Electronics to exhibit at the Robotics Summit & Expo",
+            "link": "https://www.therobotreport.com/sager-electronics-to-exhibit-at-the-robotics-summit-expo/",
+            "description": "Sager Electronics will show its interconnect, power, and electromechanical systems, plus offer expert consultation and partner demonstrations. The pos...",
+            "pubDate": "2025-04-09T16:06:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Robotics-Summit-25_1200x627_Large.jpg"
+        },
+        {
             "title": "A new biosensor can detect bird flu in five minutes",
             "link": "https://www.technologyreview.com/2025/04/09/1114252/new-bird-flu-sensor-disease-outbreaks/",
             "description": "Over the winter, eggs suddenly became all but impossible to buy. As a bird flu outbreak rippled through dairy and poultry farms, grocery stores strugg...",
             "pubDate": "2025-04-09T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "This Texas chemical plant could get its own nuclear reactors",
             "link": "https://www.technologyreview.com/2025/04/09/1114589/chemical-plant-nuclear/",
             "description": "Nuclear reactors could someday power a chemical plant in Texas, making it the first with such a facility onsite. The factory, which makes plastics and...",
             "pubDate": "2025-04-09T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Game of clones: Colossal’s new wolves are cute, but are they dire?",
-            "link": "https://www.technologyreview.com/2025/04/08/1114371/game-of-clones-colossals-new-wolves-are-cute-but-are-they-dire/",
-            "description": "Somewhere in the northern US, drones fly over a 2,000-acre preserve, protected by a nine-foot fence built to zoo standards. It is off-limits to curiou...",
-            "pubDate": "2025-04-08T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/04/250404_DW_1Month_NonExclusive_Embed2.jpg?w=2788"
-        },
-        {
-            "title": "Saildrone, Thales Australia integrate acoustic sensor technology into Surveyor USV",
-            "link": "https://www.therobotreport.com/saildrone-thales-australia-integrate-acoustic-sensor-technology-into-surveyor-usv/",
-            "description": "During an ONR trial, the Saildrone Surveyor and BlueSentry system operated continuously for 26 days and maintained uptime greater than 96%. The post S...",
-            "pubDate": "2025-04-08T16:25:39",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/saildrone-featured.jpg"
+            "title": "Tariffs are bad news for batteries",
+            "link": "https://www.technologyreview.com/2025/04/09/1114736/tariffs-batteries/",
+            "description": "Update: Since this story was first published in The Spark, our weekly climate newsletter, the White House announced that most reciprocal tariffs would...",
+            "pubDate": "2025-04-09T19:43:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Celebrate top robotics innovators at the Robotics Summit & Expo’s RBR50 Gala",
@@ -89,27 +110,6 @@
             "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f3c4.png"
         },
         {
-            "title": "Cyngn adds patent for autonomous vehicle and cloud technologies",
-            "link": "https://www.therobotreport.com/cyngn-adds-patent-autonomous-vehicle-cloud-technologies/",
-            "description": "Cyngn said its latest U.S. patent, which covers cloud computing to reduce onboard hardware needs, brings its total to 22. The post Cyngn adds patent f...",
-            "pubDate": "2025-04-08T14:45:58",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Cyngn_Patent-copy.jpg"
-        },
-        {
-            "title": "CMR Surgical raises $200M to expand Versius robot access across the U.S.",
-            "link": "https://www.therobotreport.com/cmr-surgical-raises-over-200m-expand-versius-robot-access/",
-            "description": "CMR plans to use the funds to accelerate commercial expansion of the Versius Surgical Robotic System to hospitals around the world. The post CMR Surgi...",
-            "pubDate": "2025-04-07T22:01:40",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/CMR-Versius-NHS-Hospital-featured.jpg"
-        },
-        {
-            "title": "Enter the era of physical intelligence at the 2025 Robotics Summit",
-            "link": "https://www.therobotreport.com/enter-physical-intelligence-era-2025-robotics-summit/",
-            "description": "In her keynote, MIT CSAIL Director Daniela Rus will discuss the challenges of transformer-based foundation AI models. The post Enter the era of physic...",
-            "pubDate": "2025-04-07T14:56:27",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/RUS.jpg"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
@@ -117,18 +117,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
             "pubDate": "2021-10-29T00:18:48",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
