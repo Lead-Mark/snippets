@@ -2,56 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-09T22:31:39.843362",
+    "lastBuildDate": "2025-04-10T07:56:42.637052",
     "items": [
+        {
+            "title": "How AI can help supercharge creativity",
+            "link": "https://www.technologyreview.com/2025/04/10/1114256/ai-creativity-art-collaboration-music/",
+            "description": "Sometimes Lizzie Wilson shows up to a rave with her AI sidekick. One weeknight this past February, Wilson plugged her laptop into a projector that thr...",
+            "pubDate": "2025-04-10T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/04/4_digitalselves_photocredit_AdelaFestival.jpg?w=1198"
+        },
         {
             "title": "Google introduces Firebase Studio, an end-to-end platform that builds custom apps in-browser, in minutes",
             "link": "https://venturebeat.com/ai/google-introduces-firebase-studio-an-end-to-end-platform-that-builds-custom-apps-in-browser-in-minutes/",
             "description": "Devs and non-devs can use the cloud-based, Gemini-powered platform to build, launch, iterate and monitor apps, APIs, backends and frontends.",
             "pubDate": "2025-04-10T00:52:55",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/upscalemedia-transformed_825d26.png?w=578"
-        },
-        {
-            "title": "Google launches Gemini in Android Studio for Businesses, making it easier for devs to design work apps",
-            "link": "https://venturebeat.com/programming-development/google-launches-gemini-in-android-studio-for-businesses-making-it-easier-for-devs-to-design-work-apps/",
-            "description": "The business version of Gemini builds on the core AI capabilities already familiar to Android developers but introduces enhanced features for organiza...",
-            "pubDate": "2025-04-09T18:43:23",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_pov_over_the_shoulder_vector_art_line_art_flat_illustra_58ce485d-fb36-4629-a1f1-9b83f31f9740.png?w=578"
-        },
-        {
-            "title": "Google’s Agent2Agent interoperability protocol aims to standardize agentic communication",
-            "link": "https://venturebeat.com/ai/googles-agent2agent-interoperability-protocol-aims-to-standardize-agentic-communication/",
-            "description": "Google's agent interoperability protocol Agent2Agent aims to standardize communication between agents from different frameworks.",
-            "pubDate": "2025-04-09T13:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
-        },
-        {
-            "title": "Google’s new Ironwood chip is 24x more powerful than the world’s fastest supercomputer",
-            "link": "https://venturebeat.com/ai/googles-new-ironwood-chip-is-24x-more-powerful-than-the-worlds-fastest-supercomputer/",
-            "description": "Google unveils Ironwood, its seventh-generation TPU chip delivering 42.5 exaflops of AI compute power — 24x more than the world's fastest supercompute...",
-            "pubDate": "2025-04-09T13:01:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_tensor_processing_unit_TPU_in_the_col_dcabdd0f-c4c7-417c-8017-f957c5614024.webp?w=578"
-        },
-        {
-            "title": "The Download: detecting bird flu, and powering industrial processes with nuclear energy",
-            "link": "https://www.technologyreview.com/2025/04/09/1114686/the-download-detecting-bird-flu-and-powering-industrial-processes-with-nuclear-energy/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new biosen...",
-            "pubDate": "2025-04-09T13:10:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEPR2qOjDb30TpaWXO5LhVFGg0KWvaqz2BUdee2_bTbPM7eaU-YS6IYjoxbe5MaioSgWDWyAOiNTAGNeIeL8vnyqQER6S15SAGB_w_B2erIlsQqIM1uUV90gv40BRaY6xQWIg82g?key=yzBIKa2ON5OPkKKGgIPl8eRz"
-        },
-        {
-            "title": "Nuro brings in $106M to bolster licensing-driven business model",
-            "link": "https://www.therobotreport.com/nuro-brings-106m-bolster-licensing-driven-business-model/",
-            "description": "Nuro said it's one of the few companies to have successfully deployed driverless technology at city scale with no safety driver. The post Nuro brings ...",
-            "pubDate": "2025-04-09T20:52:42",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Nuro_P2_On-Road-featured.jpg"
-        },
-        {
-            "title": "OpenMind and DIMO provide car-to-robot connectivity to realize smart cities",
-            "link": "https://www.therobotreport.com/openmind-and-dimo-provide-car-robot-connectivity-realize-smart-cities/",
-            "description": "OpenMind is combining its decentralized AI architecture with DIMO’s blockchain-powered vehicle network so machines can interact in real time. The post...",
-            "pubDate": "2025-04-09T22:16:26",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/OpenMind_DIMO.jpg"
         },
         {
             "title": "BRINC raises $75M in funding for emergency response drones",
@@ -61,6 +26,41 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/brinc-drones-featured.jpg"
         },
         {
+            "title": "Nuro brings in $106M to bolster licensing-driven business model",
+            "link": "https://www.therobotreport.com/nuro-brings-106m-bolster-licensing-driven-business-model/",
+            "description": "Nuro said it's one of the few companies to have successfully deployed driverless technology at city scale with no safety driver. The post Nuro brings ...",
+            "pubDate": "2025-04-09T20:52:42",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Nuro_P2_On-Road-featured.jpg"
+        },
+        {
+            "title": "Google’s new Ironwood chip is 24x more powerful than the world’s fastest supercomputer",
+            "link": "https://venturebeat.com/ai/googles-new-ironwood-chip-is-24x-more-powerful-than-the-worlds-fastest-supercomputer/",
+            "description": "Google unveils Ironwood, its seventh-generation TPU chip delivering 42.5 exaflops of AI compute power — 24x more than the world's fastest supercompute...",
+            "pubDate": "2025-04-09T13:01:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_tensor_processing_unit_TPU_in_the_col_dcabdd0f-c4c7-417c-8017-f957c5614024.webp?w=578"
+        },
+        {
+            "title": "Google’s Agent2Agent interoperability protocol aims to standardize agentic communication",
+            "link": "https://venturebeat.com/ai/googles-agent2agent-interoperability-protocol-aims-to-standardize-agentic-communication/",
+            "description": "Google's agent interoperability protocol Agent2Agent aims to standardize communication between agents from different frameworks.",
+            "pubDate": "2025-04-09T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
+        },
+        {
+            "title": "OpenMind and DIMO provide car-to-robot connectivity to realize smart cities",
+            "link": "https://www.therobotreport.com/openmind-and-dimo-provide-car-robot-connectivity-realize-smart-cities/",
+            "description": "OpenMind is combining its decentralized AI architecture with DIMO’s blockchain-powered vehicle network so machines can interact in real time. The post...",
+            "pubDate": "2025-04-09T22:16:26",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/OpenMind_DIMO.jpg"
+        },
+        {
+            "title": "The Download: detecting bird flu, and powering industrial processes with nuclear energy",
+            "link": "https://www.technologyreview.com/2025/04/09/1114686/the-download-detecting-bird-flu-and-powering-industrial-processes-with-nuclear-energy/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new biosen...",
+            "pubDate": "2025-04-09T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEPR2qOjDb30TpaWXO5LhVFGg0KWvaqz2BUdee2_bTbPM7eaU-YS6IYjoxbe5MaioSgWDWyAOiNTAGNeIeL8vnyqQER6S15SAGB_w_B2erIlsQqIM1uUV90gv40BRaY6xQWIg82g?key=yzBIKa2ON5OPkKKGgIPl8eRz"
+        },
+        {
             "title": "Anthropic just launched a $200 version of Claude AI — here’s what you get for the premium price",
             "link": "https://venturebeat.com/ai/anthropic-just-launched-a-200-version-of-claude-ai-heres-what-you-get-for-the-premium-price/",
             "description": "Anthropic launches new Claude Max subscription tiers at $100 and $200 monthly, challenging OpenAI's premium offerings while targeting power users who ...",
@@ -68,11 +68,25 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_laptop_on_a_desk_workstation_in_burnt_ca93ef8d-c772-44ac-9a96-6daf307da534.webp?w=578"
         },
         {
+            "title": "Google launches Gemini in Android Studio for Businesses, making it easier for devs to design work apps",
+            "link": "https://venturebeat.com/programming-development/google-launches-gemini-in-android-studio-for-businesses-making-it-easier-for-devs-to-design-work-apps/",
+            "description": "The business version of Gemini builds on the core AI capabilities already familiar to Android developers but introduces enhanced features for organiza...",
+            "pubDate": "2025-04-09T18:43:23",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_pov_over_the_shoulder_vector_art_line_art_flat_illustra_58ce485d-fb36-4629-a1f1-9b83f31f9740.png?w=578"
+        },
+        {
             "title": "Sager Electronics to exhibit at the Robotics Summit & Expo",
             "link": "https://www.therobotreport.com/sager-electronics-to-exhibit-at-the-robotics-summit-expo/",
             "description": "Sager Electronics will show its interconnect, power, and electromechanical systems, plus offer expert consultation and partner demonstrations. The pos...",
             "pubDate": "2025-04-09T16:06:25",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Robotics-Summit-25_1200x627_Large.jpg"
+        },
+        {
+            "title": "Tariffs are bad news for batteries",
+            "link": "https://www.technologyreview.com/2025/04/09/1114736/tariffs-batteries/",
+            "description": "Update: Since this story was first published in The Spark, our weekly climate newsletter, the White House announced that most reciprocal tariffs would...",
+            "pubDate": "2025-04-09T19:43:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "A new biosensor can detect bird flu in five minutes",
@@ -86,14 +100,7 @@
             "link": "https://www.technologyreview.com/2025/04/09/1114589/chemical-plant-nuclear/",
             "description": "Nuclear reactors could someday power a chemical plant in Texas, making it the first with such a facility onsite. The factory, which makes plastics and...",
             "pubDate": "2025-04-09T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Tariffs are bad news for batteries",
-            "link": "https://www.technologyreview.com/2025/04/09/1114736/tariffs-batteries/",
-            "description": "Update: Since this story was first published in The Spark, our weekly climate newsletter, the White House announced that most reciprocal tariffs would...",
-            "pubDate": "2025-04-09T19:43:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Celebrate top robotics innovators at the Robotics Summit & Expo’s RBR50 Gala",
@@ -101,13 +108,6 @@
             "description": "End the first day of the Robotics Summit with the RBR50 Gala, which offers a chance to connect with the world’s leading robotics innovators. The post ...",
             "pubDate": "2025-04-08T20:01:54",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/2024RBR50gala-featured.jpg"
-        },
-        {
-            "title": "The Download: a “dire wolf” revival, and safeguarding AI companions",
-            "link": "https://www.technologyreview.com/2025/04/08/1114426/the-download-a-dire-wolf-revival-and-safeguarding-ai-companions/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Game of clon...",
-            "pubDate": "2025-04-08T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f3c4.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
