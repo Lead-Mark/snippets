@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-10T07:56:42.643907",
+    "lastBuildDate": "2025-04-10T11:13:17.290861",
     "items": [
+        {
+            "title": "NTT launches physics of AI group and AI inference chip design for 4K video",
+            "link": "https://venturebeat.com/games/ntt-launches-physics-of-ai-group-and-ai-inference-chip-design-for-4k-video/",
+            "description": "NTT Research announced at an event that it has started a new AI basic research group, dubbed the Physics of Artificial Intelligence Group.",
+            "pubDate": "2025-04-10T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/Kazu-Gomi-U25-PAI-Group-4.9.25.jpg?w=578"
+        },
+        {
+            "title": "Why security stacks need to think like an attacker, and score every user in real time",
+            "link": "https://venturebeat.com/security/from-risk-to-real-time-fraud-detection-moves-to-the-soc/",
+            "description": "Sophisticated attacks must be tracked and contained in a business's core security infrastructure, managed from its SOC.",
+            "pubDate": "2025-04-10T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/SOC-Fraud-Alert.jpg?w=578"
+        },
         {
             "title": "Google introduces Firebase Studio, an end-to-end platform that builds custom apps in-browser, in minutes",
             "link": "https://venturebeat.com/ai/google-introduces-firebase-studio-an-end-to-end-platform-that-builds-custom-apps-in-browser-in-minutes/",
@@ -24,20 +38,6 @@
             "description": "The business version of Gemini builds on the core AI capabilities already familiar to Android developers but introduces enhanced features for organiza...",
             "pubDate": "2025-04-09T18:43:23",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cfr0z3n_pov_over_the_shoulder_vector_art_line_art_flat_illustra_58ce485d-fb36-4629-a1f1-9b83f31f9740.png?w=578"
-        },
-        {
-            "title": "Google’s new Ironwood chip is 24x more powerful than the world’s fastest supercomputer",
-            "link": "https://venturebeat.com/ai/googles-new-ironwood-chip-is-24x-more-powerful-than-the-worlds-fastest-supercomputer/",
-            "description": "Google unveils Ironwood, its seventh-generation TPU chip delivering 42.5 exaflops of AI compute power — 24x more than the world's fastest supercompute...",
-            "pubDate": "2025-04-09T13:01:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_tensor_processing_unit_TPU_in_the_col_dcabdd0f-c4c7-417c-8017-f957c5614024.webp?w=578"
-        },
-        {
-            "title": "Google’s Agent2Agent interoperability protocol aims to standardize agentic communication",
-            "link": "https://venturebeat.com/ai/googles-agent2agent-interoperability-protocol-aims-to-standardize-agentic-communication/",
-            "description": "Google's agent interoperability protocol Agent2Agent aims to standardize communication between agents from different frameworks.",
-            "pubDate": "2025-04-09T13:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
         }
     ]
 }
