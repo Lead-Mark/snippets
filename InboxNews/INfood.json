@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-11T06:13:00.666730",
+    "lastBuildDate": "2025-04-11T15:32:57.763991",
     "items": [
+        {
+            "title": "Easter Dinner Menu Plan",
+            "link": "https://therecipecritic.com/easter-menu-plan/",
+            "description": "Easter is one of my favorite holidays to cook for—ham, veggies, and all the fun egg dishes! This menu plan…",
+            "pubDate": "2025-04-11T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/04/Easter-Menu-Plan-2-1.png"
+        },
         {
             "title": "Crispy Rice Salad",
             "link": "https://therecipecritic.com/crispy-rice-salad/",
@@ -38,13 +45,6 @@
             "description": "You guys can’t get enough of my 3 packet roast, so it’s time for a new version, 3 Packet Crockpot…",
             "pubDate": "2025-04-02T01:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/3-packet-chicken-breast.jpg"
-        },
-        {
-            "title": "Dill Pickle Chicken Salad",
-            "link": "https://therecipecritic.com/dill-pickle-chicken-salad/",
-            "description": "I’m obsessed with dill pickles, and you guys go nuts over my viral chicken salad. So, I made this high…",
-            "pubDate": "2025-04-01T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/dill-pickle-pasta-salad-1.jpg"
         },
         {
             "title": "Easy Raspberry Compote (Naturally Sweetened)",
