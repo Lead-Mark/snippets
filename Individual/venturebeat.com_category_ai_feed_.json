@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-12T00:32:29.486712",
+    "lastBuildDate": "2025-04-13T00:56:18.334869",
     "items": [
+        {
+            "title": "Bigger isn’t always better: Examining the business case for multi-million token LLMs",
+            "link": "https://venturebeat.com/ai/bigger-isnt-always-better-examining-the-business-case-for-multi-million-token-llms/",
+            "description": "Are we unlocking new frontiers in AI reasoning, or simply stretching the limits of token memory without meaningful improvements?",
+            "pubDate": "2025-04-12T20:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/image1.jpg?w=578"
+        },
+        {
+            "title": "Trump backs off on electronics tariffs",
+            "link": "https://venturebeat.com/games/trump-backs-off-on-electronics-tariffs/",
+            "description": "Reacting to continuing stock market woes and perhaps tech industry lobbyin, Trump backed off on tariffs for electronics late last night.",
+            "pubDate": "2025-04-12T19:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nvidia-blackwell-2.jpg?w=578"
+        },
         {
             "title": "Now it’s TikTok parent ByteDance’s turn for a reasoning AI: enter Seed-Thinking-v1.5!",
             "link": "https://venturebeat.com/ai/now-its-tiktok-parent-bytedances-turn-for-a-reasoning-ai-enter-seed-thinking-v1-5/",
@@ -24,20 +38,6 @@
             "description": "DeepCoder-14B competes with frontier models like o3 and o1—and the weights, code, and optimization platform are open source.",
             "pubDate": "2025-04-10T23:19:54",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/03/a_robot_working_as_a_programmer_writing_on_a_mo.jpg?w=578"
-        },
-        {
-            "title": "What’s inside the LLM? Ai2 OLMoTrace will ‘trace’ the source",
-            "link": "https://venturebeat.com/ai/whats-inside-the-llm-ai2-olmotrace-will-trace-the-source/",
-            "description": "Ai2's new open-source OLMoTrace tool allows enterprises to directly trace LLM outputs back to original training data, bringing transparency to AI deci...",
-            "pubDate": "2025-04-10T23:10:33",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/whats-inside-the-ai-box-smk.jpg?w=578"
-        },
-        {
-            "title": "ChatGPT’s memory can now reference all past conversations, not just what you tell it to",
-            "link": "https://venturebeat.com/ai/chatgpts-memory-can-now-reference-all-past-conversations-not-just-what-you-tell-it-to/",
-            "description": "ChatGPT Plus and Pro users can access the updated Memory feature.",
-            "pubDate": "2025-04-10T22:12:47",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/08/scientist-reveals-robot-head-busts.png?w=578"
         }
     ]
 }
