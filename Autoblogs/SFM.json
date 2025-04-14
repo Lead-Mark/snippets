@@ -2,34 +2,20 @@
     "title": "SFM",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SFM, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-14T07:08:35.847799",
+    "lastBuildDate": "2025-04-14T10:43:19.623049",
     "items": [
         {
-            "title": "Goldman Sachs is about to report first-quarter earnings",
+            "title": "Goldman Sachs tops estimates on boom in equities trading revenue",
             "link": "https://www.cnbc.com/2025/04/14/goldman-sachs-gs-earnings-q1-2025.html",
-            "description": "Goldman Sachs may prove to be a beneficiary of the recent market environment.",
-            "pubDate": "2025-04-14T10:22:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "description": "Goldman Sachs joins rivals JPMorgan Chase and Morgan Stanley in posting better-than-expected equities trading revenue.",
+            "pubDate": "2025-04-14T15:43:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Here are the 2 big things we're watching in the stock market this week",
             "link": "https://www.cnbc.com/2025/04/13/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
             "description": "First-quarter earnings season picks up steam after one of Wall Street's most volatile weeks on record.",
             "pubDate": "2025-04-13T17:11:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "We trimmed our Wells Fargo price target after mixed earnings. But that's not the whole story",
-            "link": "https://www.cnbc.com/2025/04/11/we-trimmed-our-wells-fargo-price-target-after-mixed-q1-earnings.html",
-            "description": "We're willing to look through these results because of a key catalyst on the horizon.",
-            "pubDate": "2025-04-11T20:21:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Wells Fargo shares fall on lower net interest income, CEO calls for 'timely' trade resolution",
-            "link": "https://www.cnbc.com/2025/04/11/wells-fargo-wfc-earnings-q1-2025.html",
-            "description": "Net interest income, a key measure of what a bank makes on loans, fell 6% year over year to $11.50 billion,",
-            "pubDate": "2025-04-11T21:00:47",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -40,11 +26,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
-            "pubDate": "2025-01-27T19:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Wells Fargo shares fall on lower net interest income, CEO calls for 'timely' trade resolution",
+            "link": "https://www.cnbc.com/2025/04/11/wells-fargo-wfc-earnings-q1-2025.html",
+            "description": "Net interest income, a key measure of what a bank makes on loans, fell 6% year over year to $11.50 billion,",
+            "pubDate": "2025-04-11T21:00:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "We trimmed our Wells Fargo price target after mixed earnings. But that's not the whole story",
+            "link": "https://www.cnbc.com/2025/04/11/we-trimmed-our-wells-fargo-price-target-after-mixed-q1-earnings.html",
+            "description": "We're willing to look through these results because of a key catalyst on the horizon.",
+            "pubDate": "2025-04-11T20:21:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
@@ -54,25 +47,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "DeepSeek Won't Sink U.S. AI Titans",
-            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-            "pubDate": "2025-01-27T18:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
             "title": "Comex Gold, Silver Settle Lower",
             "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
             "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
             "pubDate": "2025-01-27T19:01:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "DeepSeek Won't Sink U.S. AI Titans",
+            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+            "pubDate": "2025-01-27T18:12:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
+            "pubDate": "2025-01-27T19:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Financial Services Roundup: Market Talk",
             "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
             "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
             "pubDate": "2025-01-27T17:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }
