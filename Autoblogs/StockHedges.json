@@ -2,63 +2,49 @@
     "title": "StockHedges",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from StockHedges, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-15T07:20:13.474974",
+    "lastBuildDate": "2025-04-15T10:37:27.850822",
     "items": [
+        {
+            "title": "Citigroup results exceed analysts' estimates on gains in fixed income and equities trading",
+            "link": "https://www.cnbc.com/2025/04/15/citigroup-c-earnings-q1-2025.html",
+            "description": "CEO Jane Fraser said Tuesday that the bank was continuing to earn credibility with investors and that she remains focused on executing on her strategy...",
+            "pubDate": "2025-04-15T15:11:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Bunq, a neobank for 'digital nomads,' accelerates U.S. expansion effort as profit jumps 65%",
+            "link": "https://www.cnbc.com/2025/04/15/digital-bank-bunq-accelerates-us-expansion-effort-as-profit-jumps.html",
+            "description": "Dutch digital bank Bunq said Tuesday that it's applied for a broker-dealer license, in an initial step toward securing a full banking license.",
+            "pubDate": "2025-04-15T13:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
         {
             "title": "Bank of America tops analysts' estimates on better-than-expected interest income, trading",
             "link": "https://www.cnbc.com/2025/04/15/bank-of-america-bac-earnings-q1-2025.html",
             "description": "Bank of America shares have sold off in recent weeks on concern that President Donald Trump's tariff policies could cause a recession.",
-            "pubDate": "2025-04-15T12:17:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Goldman Sachs tops estimates on boom in equities trading revenue",
-            "link": "https://www.cnbc.com/2025/04/14/goldman-sachs-gs-earnings-q1-2025.html",
-            "description": "Goldman Sachs joins rivals JPMorgan Chase and Morgan Stanley in posting better-than-expected equities trading revenue.",
-            "pubDate": "2025-04-14T15:43:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "pubDate": "2025-04-15T15:09:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Goldman's earnings provide reasons to believe in the stock despite a blurry backdrop",
             "link": "https://www.cnbc.com/2025/04/14/goldmans-earnings-provide-reasons-to-believe-in-the-stock-despite-a-blurry-backdrop.html",
             "description": "We're reiterating our buy-equivalent rating on the investment bank.",
             "pubDate": "2025-04-14T17:13:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Here are the 2 big things we're watching in the stock market this week",
-            "link": "https://www.cnbc.com/2025/04/13/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
-            "description": "First-quarter earnings season picks up steam after one of Wall Street's most volatile weeks on record.",
-            "pubDate": "2025-04-13T17:11:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "JPMorgan Chase tops quarterly expectations as Dimon says U.S. economy faces ‘considerable turbulence’",
-            "link": "https://www.cnbc.com/2025/04/11/jpmorgan-chase-jpm-earnings-q1-2025.html",
-            "description": "While JPMorgan CEO Jamie Dimon touted his company's solid results in the quarter, he also struck a note of caution on the broader economy.",
-            "pubDate": "2025-04-11T22:11:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "DeepSeek Won't Sink U.S. AI Titans",
-            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-            "pubDate": "2025-01-27T18:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Goldman Sachs tops estimates on boom in equities trading revenue",
+            "link": "https://www.cnbc.com/2025/04/14/goldman-sachs-gs-earnings-q1-2025.html",
+            "description": "Goldman Sachs joins rivals JPMorgan Chase and Morgan Stanley in posting better-than-expected equities trading revenue.",
+            "pubDate": "2025-04-14T15:43:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Comex Gold, Silver Settle Lower",
             "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
             "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
             "pubDate": "2025-01-27T19:01:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
-            "pubDate": "2025-01-27T17:20:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Financial Services Roundup: Market Talk",
@@ -72,7 +58,21 @@
             "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
             "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
             "pubDate": "2025-01-27T19:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
+            "pubDate": "2025-01-27T17:20:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "DeepSeek Won't Sink U.S. AI Titans",
+            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+            "pubDate": "2025-01-27T18:12:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
