@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-16T11:02:00.959893",
+    "lastBuildDate": "2025-04-17T07:19:16.580058",
     "items": [
+        {
+            "title": "Swapping LLMs isn’t plug-and-play: Inside the hidden cost of model migration",
+            "link": "https://venturebeat.com/ai/swapping-llms-isnt-plug-and-play-inside-the-hidden-cost-of-model-migration/",
+            "description": "Based on hands-on comparisons and real-world tests, this guide unpacks what happens when you switch from OpenAI to Anthropic or Google’s Gemini and wh...",
+            "pubDate": "2025-04-16T23:55:20",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/190B0A8B-EB94-4F8B-92DE-C221C2E4C54E.png?w=578"
+        },
+        {
+            "title": "OpenAI launches o3 and o4-mini, AI models that ‘think with images’ and use tools autonomously",
+            "link": "https://venturebeat.com/ai/openai-launches-o3-and-o4-mini-ai-models-that-think-with-images-and-use-tools-autonomously/",
+            "description": "OpenAI launches groundbreaking o3 and o4-mini AI models that can manipulate and reason with images, representing a major advance in visual problem-sol...",
+            "pubDate": "2025-04-16T19:38:37",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_robot_who_can_see_very_well_a092bb47-3b17-473e-82a2-69296cc80b4d.webp?w=578"
+        },
         {
             "title": "404-GEN integrates decentralized 3D model generation platform with Unity",
             "link": "https://venturebeat.com/games/404-gen-integrates-decentralized-3d-model-generation-platform-with-unity/",
@@ -23,21 +37,7 @@
             "link": "https://venturebeat.com/games/infinite-reality-will-acquire-agentic-ai-firm-touchcast-for-500m/",
             "description": "Infinite Reality is paying $500 million for Touchcast, an agentic AI startup with 70 people. That's the AI boom for ya.",
             "pubDate": "2025-04-16T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "When AI reasoning goes wrong: Microsoft Research shows more tokens can mean more problems",
-            "link": "https://venturebeat.com/ai/when-ai-reasoning-goes-wrong-microsoft-research-shows-more-tokens-can-mean-more-problems/",
-            "description": "Not all AI scaling strategies are equal. Longer reasoning chains are not sign of higher intelligence. More compute isn't always the answer.",
-            "pubDate": "2025-04-16T00:50:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/11/LLM-reasoning.jpg?w=578"
-        },
-        {
-            "title": "Sam Altman at TED 2025: Inside the most uncomfortable — and important — AI interview of the year",
-            "link": "https://venturebeat.com/ai/sam-altman-at-ted-2025-inside-the-most-uncomfortable-and-important-ai-interview-of-the-year/",
-            "description": "At TED 2025, OpenAI CEO Sam Altman faced tough questions on AI ethics, artist compensation, and the risks of autonomous agents in a tense interview wi...",
-            "pubDate": "2025-04-15T22:17:23",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/TED2025_20250411_2JR4077-medium.jpg?w=578"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
