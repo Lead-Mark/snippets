@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-23T11:02:22.826538",
+    "lastBuildDate": "2025-04-23T14:57:35.395255",
     "items": [
+        {
+            "title": "OpenAI makes ChatGPT’s image generation available as API",
+            "link": "https://venturebeat.com/ai/openai-makes-chatgpts-image-generation-available-as-api/",
+            "description": "Enterprises can now make Studio Ghibli-inspired images through OpenAI's API.",
+            "pubDate": "2025-04-23T18:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/gptimagemodel-robot-artist.png?w=578"
+        },
+        {
+            "title": "From friction to flow: Why Swissport scrapped its VPN maze for Cato’s SASE fabric",
+            "link": "https://venturebeat.com/security/swissport-reinvents-global-ops-with-unified-sase-stack/",
+            "description": "Swissport ditches legacy tech, deploying a global, Zero Trust SASE architecture with Cato Networks securing 26,000 users, unlocking real-time control.",
+            "pubDate": "2025-04-23T17:53:22",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/Swissport-goes-all-in-on-SASE-with-Cato-Networks-Unifying-security-and-networking-across-more-than-26000-users-hero-image.jpg?w=578"
+        },
         {
             "title": "Microsoft just launched powerful AI ‘agents’ that could completely transform your workday — and challenge Google’s workplace dominance",
             "link": "https://venturebeat.com/ai/microsoft-just-launched-powerful-ai-agents-that-could-completely-transform-your-workday-and-challenge-googles-workplace-dominance/",
@@ -24,20 +38,6 @@
             "description": "Researchers from MIT, Yale, McGill University and others found that adapting the Sequential Monte Carlo algorithm can make AI-generated code better.",
             "pubDate": "2025-04-23T01:09:49",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_cute_robot_coding_on_a_computer_the_s_19fc3865-26b4-44b4-a547-71d72317afb7.webp?w=578"
-        },
-        {
-            "title": "SWiRL: The business case for AI that thinks like your best problem-solvers",
-            "link": "https://venturebeat.com/ai/swirl-the-business-case-for-ai-that-thinks-like-your-best-problem-solvers/",
-            "description": "Training LLMs on trajectories of reasoning and tool use makes them superior at multi-step reasoning tasks.",
-            "pubDate": "2025-04-23T00:53:59",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/robot-solving-problem.webp?w=578"
-        },
-        {
-            "title": "Batch data processing is too slow for real-time AI: How open-source Apache Airflow 3.0 solves the challenge with event-driven data orchestration",
-            "link": "https://venturebeat.com/data-infrastructure/open-source-airflow-3-0-set-to-accelerate-data-orchestration-for-enterprise-ai-inference/",
-            "description": "Open-source data orchestration gets a major rewrite to help support inference and enterprise AI",
-            "pubDate": "2025-04-22T21:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ai_airflow-smk.jpg?w=578"
         }
     ]
 }
