@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-24T07:20:44.879807",
+    "lastBuildDate": "2025-04-24T12:01:48.938605",
     "items": [
+        {
+            "title": "Evil Geniuses and Theta Labs launch AI chatbot based on esports mascot Meesh",
+            "link": "https://venturebeat.com/games/evil-geniuses-and-theta-labs-launch-ai-chatbot-based-on-esports-mascot-meesh/",
+            "description": "Evil Geniuses, the well-known esports organization and brand, has launched its Meesh AI chatbot in a partnership with Theta Labs.",
+            "pubDate": "2025-04-24T15:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/meesh.jpg?w=578"
+        },
         {
             "title": "Google adds more AI tools to its Workspace productivity apps",
             "link": "https://venturebeat.com/ai/google-adds-more-ai-tools-to-its-workspace-productivity-apps/",
@@ -31,13 +38,6 @@
             "description": "Enterprises can now make Studio Ghibli-inspired images through OpenAI's API.",
             "pubDate": "2025-04-23T18:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/gptimagemodel-robot-artist.png?w=578"
-        },
-        {
-            "title": "From friction to flow: Why Swissport scrapped its VPN maze for Cato’s SASE fabric",
-            "link": "https://venturebeat.com/security/swissport-reinvents-global-ops-with-unified-sase-stack/",
-            "description": "Swissport ditches legacy tech, deploying a global, Zero Trust SASE architecture with Cato Networks securing 26,000 users, unlocking real-time control.",
-            "pubDate": "2025-04-23T17:53:22",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/Swissport-goes-all-in-on-SASE-with-Cato-Networks-Unifying-security-and-networking-across-more-than-26000-users-hero-image.jpg?w=578"
         }
     ]
 }

@@ -2,41 +2,62 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-24T07:23:08.472147",
+    "lastBuildDate": "2025-04-24T12:04:11.590874",
     "items": [
         {
-            "title": "Dow, S&P 500 and Nasdaq on tap for lower open after two-day rally, gold rebounds",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=725dde15-fcdb-486d-8932-3fef62f33c7a&mod=mw_rss_bulletins",
+            "title": "Merck says it’s folded $200 million in tariff costs into its full-year outlook",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5dd96a0c-9234-4b31-bb2b-3f85f4b2f958&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-04-24T10:02:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "pubDate": "2025-04-24T14:27:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "JPMorgan says hedge funds, not foreign buyers, have been dumping U.S. stocks",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5ca34983-f60b-431e-a3cd-673ff43496d1&mod=mw_rss_bulletins",
+            "title": "Tariff ‘front running’ bolstered durable-goods orders last month",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a528d50f-ea19-4428-aac3-d6fffcbbe617&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-04-24T11:09:47",
+            "pubDate": "2025-04-24T15:01:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "U.S. first-time claims for unemployment benefits edge upward",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b589643b-bba9-4dc1-920b-a6e5af3ee098&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-04-24T13:37:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "U.S. experiences sharpest monthly decline in existing-home sales since 2022",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=256b4e6f-2da7-47bb-9540-8513faa88dea&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-04-24T15:23:57",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Dozen states sue Trump in bid to block new tariffs",
             "link": "https://www.cnbc.com/2025/04/23/states-sue-trump-in-bid-to-block-new-tariffs.html",
             "description": "The lawsuit in the U.S. Court of International Trade argues that Trump cannot use the International Emergency Economic Powers Act to impose tariffs.",
-            "pubDate": "2025-04-24T00:19:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "pubDate": "2025-04-24T14:19:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Talk of a Trump pivot on tariffs helps stocks — but companies want trade deals",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3db6c023-44b5-46ef-8854-cd3537c1d956&mod=mw_rss_bulletins",
+            "title": "Trump tells Putin to 'STOP!' Russian strikes on Kyiv",
+            "link": "https://www.cnbc.com/2025/04/24/trump-putin-russia-ukraine-kyiv.html",
+            "description": "Trump's message to Vladimir Putin came a day after the American president said he believed that \"Russia is ready\" for a peace deal with Ukraine.",
+            "pubDate": "2025-04-24T16:50:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Why Treasury chief Bessent’s invitation-only JPMorgan talk was so controversial",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dfce0e2d-a612-44a8-97cc-a7da2350468c&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-04-23T22:25:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "pubDate": "2025-04-24T16:22:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Trump says he has 'no intention' of firing Fed Chair Powell",
-            "link": "https://www.cnbc.com/2025/04/22/trump-says-he-has-no-intention-of-firing-fed-chair-powell.html",
-            "description": "Powell, whom Trump appointed Fed chair during his first term as president, has flatly stated that the president cannot remove him under the law.",
-            "pubDate": "2025-04-23T15:17:16",
+            "title": "Confidence in Trump's handling of the U.S. economy plummets, new polls show",
+            "link": "https://www.cnbc.com/2025/04/23/trump-economic-approval-rating.html",
+            "description": "Americans' views of President Donald Trump's ability to handle the economy gave him an edge during the 2024 presidential election.",
+            "pubDate": "2025-04-23T22:55:12",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -44,35 +65,14 @@
             "link": "https://www.cnbc.com/2025/04/23/bessent-china-tariffs-trade-trump.html",
             "description": "Bessent named-checked Bridgewater founder Ray Dalio, who recently expressed fears of a sharp fallout from President Donald Trump's tariff policies.",
             "pubDate": "2025-04-23T19:29:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Confidence in Trump's handling of the U.S. economy plummets, new polls show",
-            "link": "https://www.cnbc.com/2025/04/23/trump-economic-approval-rating.html",
-            "description": "Americans' views of President Donald Trump's ability to handle the economy gave him an edge during the 2024 presidential election.",
-            "pubDate": "2025-04-23T22:55:12",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Trump reportedly exempting automakers from some tariffs; GM, Ford shares climb",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1d2c532a-c33d-4082-a95a-a5e4c4e8df54&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-04-23T22:28:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Is recession ‘inevitable’? Markets say don’t be so sure.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8e44af9a-87f7-4213-bc18-a4045937a300&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-04-23T23:50:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Treasury Secretary Bessent calls out China, World Bank, IMF in speech on global economy",
             "link": "https://www.cnbc.com/2025/04/23/watch-live-treasury-chief-scott-bessent-tariffs-china-trump.html",
             "description": "\"China needs to change,\" Treasury Secretary Scott Bessent told the Institute of International Finance in Washington, D.C.",
             "pubDate": "2025-04-23T18:09:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }
