@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-23T14:57:35.395255",
+    "lastBuildDate": "2025-04-24T07:20:44.879807",
     "items": [
+        {
+            "title": "Google adds more AI tools to its Workspace productivity apps",
+            "link": "https://venturebeat.com/ai/google-adds-more-ai-tools-to-its-workspace-productivity-apps/",
+            "description": "Google expanded Gemini's features, adding the popular podcast-style feature Audio Overviews to the platform.",
+            "pubDate": "2025-04-23T23:43:25",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/09/cfr0z3n_a_sleek_friendly_robot_sits_in_a_podcast_booth_wearin_1a28c93e-9bbc-438c-b336-798837d2e787_0.png?w=578"
+        },
+        {
+            "title": "Former DeepSeeker and collaborators release new method for training reliable AI agents: RAGEN",
+            "link": "https://venturebeat.com/ai/former-deepseeker-and-collaborators-release-new-method-for-training-reliable-ai-agents-ragen/",
+            "description": "RAGEN stands out not just as a technical contribution but as a conceptual step toward more autonomous, reasoning-capable AI agents.",
+            "pubDate": "2025-04-23T21:04:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_college_classroom_with_robots_in_it_a5945ebd-0047-40a5-aeb7-79daba2024a0.webp?w=578"
+        },
+        {
+            "title": "Amazon’s SWE-PolyBench just exposed the dirty secret about your AI coding assistant",
+            "link": "https://venturebeat.com/ai/amazon-swe-polybench-just-exposed-the-dirty-secret-about-your-ai-coding-assistant/",
+            "description": "Amazon launches SWE-PolyBench, a groundbreaking multi-language benchmark that exposes critical limitations in AI coding assistants across Python, Java...",
+            "pubDate": "2025-04-23T20:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_rectro_computer_showing_computer_code_123735a8-fce0-4b93-9664-a3b0b18c08df.webp?w=578"
+        },
         {
             "title": "OpenAI makes ChatGPT’s image generation available as API",
             "link": "https://venturebeat.com/ai/openai-makes-chatgpts-image-generation-available-as-api/",
@@ -17,27 +38,6 @@
             "description": "Swissport ditches legacy tech, deploying a global, Zero Trust SASE architecture with Cato Networks securing 26,000 users, unlocking real-time control.",
             "pubDate": "2025-04-23T17:53:22",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/Swissport-goes-all-in-on-SASE-with-Cato-Networks-Unifying-security-and-networking-across-more-than-26000-users-hero-image.jpg?w=578"
-        },
-        {
-            "title": "Microsoft just launched powerful AI ‘agents’ that could completely transform your workday — and challenge Google’s workplace dominance",
-            "link": "https://venturebeat.com/ai/microsoft-just-launched-powerful-ai-agents-that-could-completely-transform-your-workday-and-challenge-googles-workplace-dominance/",
-            "description": "Microsoft unveils new AI reasoning agents and Copilot features to transform workplace productivity, with Chief Product Officer Aparna Chennapragada sh...",
-            "pubDate": "2025-04-23T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_computer_with_a_Microsoft_logo_on_the_8fb1055a-4481-47a6-81cd-d84fcfb8d40b.webp?w=578"
-        },
-        {
-            "title": "$42.1 million poured into startup offering energy-efficient solutions for costly and unwieldy operational data and AI workloads",
-            "link": "https://venturebeat.com/data-infrastructure/42-1-million-poured-into-startup-offering-energy-efficient-solutions-for-costly-and-unwieldy-operational-data-and-ai-workloads/",
-            "description": "The funding infusion sharpens a mission to make hyperscale analytics radically cheaper and greener at the very moment enterprises fear ballooning data...",
-            "pubDate": "2025-04-23T03:28:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=578"
-        },
-        {
-            "title": "More accurate coding: Researchers adapt Sequential Monte Carlo for AI-generated code",
-            "link": "https://venturebeat.com/ai/more-accurate-coding-researchers-adapt-sequential-monte-carlo-for-ai-generated-code/",
-            "description": "Researchers from MIT, Yale, McGill University and others found that adapting the Sequential Monte Carlo algorithm can make AI-generated code better.",
-            "pubDate": "2025-04-23T01:09:49",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_cute_robot_coding_on_a_computer_the_s_19fc3865-26b4-44b4-a547-71d72317afb7.webp?w=578"
         }
     ]
 }
