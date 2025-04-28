@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-27T22:30:18.854411",
+    "lastBuildDate": "2025-04-28T06:47:48.082058",
     "items": [
+        {
+            "title": "Does RAG make LLMs less safe?  Bloomberg research reveals hidden dangers",
+            "link": "https://venturebeat.com/ai/does-rag-make-llms-less-safe-bloomberg-research-reveals-hidden-dangers/",
+            "description": "RAG is supposed to make enterprise AI more accurate, but it could potentially also make it less safe according to new research.",
+            "pubDate": "2025-04-28T11:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ai-bypassing-guardrails-smk.jpg?w=578"
+        },
         {
             "title": "Is your AI product actually working? How to develop the right metric system",
             "link": "https://venturebeat.com/ai/is-your-ai-product-actually-working-how-to-develop-the-right-metric-system/",
@@ -31,13 +38,6 @@
             "description": "Explore the Google vs OpenAI AI ecosystem battle post-o3. Deep dive into Google's huge cost advantage (TPU vs GPU), agent strategies & model risks for...",
             "pubDate": "2025-04-25T21:26:46",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-25-2025-01_21_24-PM.png?w=578"
-        },
-        {
-            "title": "Is that really your boss calling? Jericho Security raises $15M to stop deepfake fraud that’s cost businesses $200M in 2025 alone",
-            "link": "https://venturebeat.com/ai/is-that-really-your-boss-calling-jericho-security-raises-15m-to-stop-deepfake-fraud-thats-cost-businesses-200m-in-2025-alone/",
-            "description": "Pentagon-backed Jericho Security raises $15 million to combat deepfake fraud that has already cost North American businesses $200 million in 2025, usi...",
-            "pubDate": "2025-04-24T23:18:45",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_retro_computer_on_the_computer_screen_eb75076b-1b63-4eff-8629-e4d166b60095.webp?w=578"
         }
     ]
 }
