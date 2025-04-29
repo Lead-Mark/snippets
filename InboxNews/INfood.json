@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-29T06:10:59.367885",
+    "lastBuildDate": "2025-04-29T11:54:04.712998",
     "items": [
+        {
+            "title": "Homemade BBQ Seasoning",
+            "link": "https://therecipecritic.com/homemade-bbq-seasoning/",
+            "description": "My homemade BBQ seasoning brings bold, smoky flavor to just about anything! It’s the perfect blend of sweet, savory, and…",
+            "pubDate": "2025-04-29T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/04/BBQ-seasoning.jpg"
+        },
         {
             "title": "Cucumber Lime Agua Fresca",
             "link": "https://minimalistbaker.com/cucumber-lime-agua-fresca/",
@@ -38,13 +45,6 @@
             "description": "I was looking for the perfect strawberry dessert, and this Strawberry Delight blew me away! It’s got the buttery crust, creamy layers,…",
             "pubDate": "2025-04-15T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/strawberry-delite-1.jpg"
-        },
-        {
-            "title": "Baked Pierogi Casserole",
-            "link": "https://therecipecritic.com/pierogi-casserole/",
-            "description": "You guys go wild for my homemade pierogis and kielbasa bites, so I combined them into one killer casserole. Trust me, it’ll…",
-            "pubDate": "2025-04-14T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/pierogi-casserole-2-2.jpg"
         },
         {
             "title": "Creamy Mocha Chia Pudding",
