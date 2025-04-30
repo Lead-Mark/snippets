@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-04-29T14:49:57.107428",
+    "lastBuildDate": "2025-04-30T06:51:25.036965",
     "items": [
+        {
+            "title": "No more window switching: Mastercard’s Agent Pay transforms how enterprises use AI search",
+            "link": "https://venturebeat.com/ai/no-more-window-switching-mastercards-agent-pay-transforms-how-enterprises-use-ai-search/",
+            "description": "Mastercard is working with AI companies and banks to allow AI platforms and agents to facilitate transactions.",
+            "pubDate": "2025-04-29T23:24:52",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cute-robot-paying-with-a-card-dalle.png?w=578"
+        },
+        {
+            "title": "Meta unleashes Llama API running 18x faster than OpenAI: Cerebras partnership delivers 2,600 tokens per second",
+            "link": "https://venturebeat.com/ai/meta-unleashes-llama-api-running-18x-faster-than-openai-cerebras-partnership-delivers-2600-tokens-per-second/",
+            "description": "Meta partners with Cerebras to launch its new Llama API, offering developers AI inference speeds up to 18 times faster than traditional GPU solutions,...",
+            "pubDate": "2025-04-29T21:02:04",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_computer_chip_in_the_colors_of_Goolge_71db7087-b8f7-4ae3-ae07-4b36bdee2086.webp?w=578"
+        },
         {
             "title": "Meta’s first dedicated AI app is here with Llama 4 — but it’s more consumer than productivity or business oriented",
             "link": "https://venturebeat.com/ai/metas-first-dedicated-ai-app-is-here-with-llama-4-but-its-more-consumer-than-productivity-or-business-oriented/",
@@ -16,7 +30,7 @@
             "link": "https://venturebeat.com/games/tripp-launches-kokua-ai-as-mental-wellness-coach-across-multiple-platforms/",
             "description": "Tripp launched Kōkua AI, a mental wellness guide designed to deliver real-time, personalized emotional support across multiple platforms.",
             "pubDate": "2025-04-29T14:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "xMEMS extends micro cooling fan-on-a-chip tech to AI data centers",
@@ -24,20 +38,6 @@
             "description": "xMEMS Labs, a pioneer of MEMS-based chips, announced that its innovative µCooling fan-on-a-chip tech will be expanded to AI data centers.",
             "pubDate": "2025-04-29T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/AdobeStock_958211993.jpeg?w=578"
-        },
-        {
-            "title": "Alibaba launches open source Qwen3 model that surpasses OpenAI o1 and DeepSeek R1",
-            "link": "https://venturebeat.com/ai/alibaba-launches-open-source-qwen3-model-that-surpasses-openai-o1-and-deepseek-r1/",
-            "description": "Qwen3’s open-weight release under an accessible license marks an important milestone, lowering barriers for developers and organizations.",
-            "pubDate": "2025-04-29T00:56:06",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/029ebd88-b24c-4396-80ff-2a47b3477cc6.png?w=578"
-        },
-        {
-            "title": "Ex-OpenAI CEO and power users sound alarm over AI sycophancy and flattery of users",
-            "link": "https://venturebeat.com/ai/ex-openai-ceo-and-power-users-sound-alarm-over-ai-sycophancy-and-flattery-of-users/",
-            "description": "Crucially, the turbulence also nudges many organizations to explore open-source models they can host, monitor, and fine-tune themselves.",
-            "pubDate": "2025-04-28T22:49:36",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-28-2025-05_38_52-PM-1.png?w=578"
         }
     ]
 }
