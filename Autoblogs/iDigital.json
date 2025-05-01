@@ -2,14 +2,105 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-04-30T10:52:14.128732",
+    "lastBuildDate": "2025-05-01T14:14:51.975873",
     "items": [
         {
-            "title": "Structify raises $4.1M seed to turn unstructured web data into enterprise-ready datasets",
-            "link": "https://venturebeat.com/ai/structify-raises-4-1m-seed-to-turn-unstructured-web-data-into-enterprise-ready-datasets/",
-            "description": "Brooklyn-based Structify emerges from stealth with $4.1 million in seed funding to transform how businesses prepare data for AI, promising to save dat...",
-            "pubDate": "2025-04-30T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/IMG_3617.jpg?w=578"
+            "title": "McDonald’s sees lower foot traffic as revenue misses Wall Street expectations",
+            "link": "https://www.marketwatch.com/story/mcdonalds-same-store-sales-drop-as-u-s-foot-traffic-falls-e50414a8?mod=mw_rss_topstories",
+            "description": "Fast-food giant says consumers continue to grapple with economic uncertainty.",
+            "pubDate": "2025-05-01T19:07:00",
+            "image_url": "https://images.mktw.net/im-37582245"
+        },
+        {
+            "title": "Medical-products maker Becton Dickinson says cuts in global research funding have hurt sales",
+            "link": "https://www.marketwatch.com/story/medical-products-maker-becton-dickinson-says-cuts-in-global-research-funding-have-hurt-sales-3ecab6de?mod=mw_rss_topstories",
+            "description": "“It’s become clear that pressure on research spending increased in the second quarter and will likely persist through fiscal year 2025,” the company s...",
+            "pubDate": "2025-05-01T18:46:00",
+            "image_url": "https://images.mktw.net/im-90271254"
+        },
+        {
+            "title": "Astronomer’s $93M raise underscores a new reality: Orchestration is king in AI infrastructure",
+            "link": "https://venturebeat.com/ai/astronomer-93m-raise-underscores-a-new-reality-orchestration-is-king-in-ai-infrastructure/",
+            "description": "Astronomer secures $93 million in Series D funding to solve the AI implementation gap through data orchestration, helping enterprises streamline compl...",
+            "pubDate": "2025-05-01T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_an_astronomer_3d788534-ac39-4092-b6f9-d8f7af309852.webp?w=578"
+        },
+        {
+            "title": "Your guide to Day 2 of the 2025 Robotics Summit & Expo",
+            "link": "https://www.therobotreport.com/your-guide-to-day-2-of-the-2025-robotics-summit-expo/",
+            "description": "Day 2 of the Robotics Summit & Expo will start at 8 a.m. with the Women in Robotics Breakfast at the Boston Convention and Exhibition Center. The post...",
+            "pubDate": "2025-05-01T13:00:12",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/roboticssummit-featured.jpg"
+        },
+        {
+            "title": "Salesforce takes aim at ‘jagged intelligence’ in push for more reliable AI",
+            "link": "https://venturebeat.com/ai/salesforce-tackles-jagged-intelligence-problem-with-new-ai-benchmarks-and-models/",
+            "description": "Salesforce unveils groundbreaking AI research tackling \"jagged intelligence,\" introducing new benchmarks, models, and guardrails to make enterprise AI...",
+            "pubDate": "2025-05-01T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Salesforce-handshake.webp?w=578"
+        },
+        {
+            "title": "Bulls beware: A volatile stock market like this one is dangerous and can easily turn",
+            "link": "https://www.marketwatch.com/story/bulls-beware-a-volatile-stock-market-like-this-one-is-dangerous-and-can-easily-turn-225f1964?mod=mw_rss_topstories",
+            "description": "What began as an oversold rally in early April is now generating some buy signals, but that doesn’t mean all is bullish again.",
+            "pubDate": "2025-05-01T19:08:00",
+            "image_url": "https://images.mktw.net/im-16705430"
+        },
+        {
+            "title": "Microsoft launches Phi-4-Reasoning-Plus, a small, powerful, open weights reasoning model!",
+            "link": "https://venturebeat.com/ai/microsoft-launches-phi-4-reasoning-plus-a-small-powerful-open-weights-reasoning-model/",
+            "description": "The release demonstrates that with carefully curated data and training techniques, small models can deliver strong reasoning performance.",
+            "pubDate": "2025-05-01T13:41:29",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_minimalist_2D_flat_vector_style_small_robot_looking_u_f27d3fd8-4e61-47b3-9c41-cf963278731b_3_b1cc86.png?w=578"
+        },
+        {
+            "title": "‘Retirement is within my grasp’: I’m 57, my 401(k) is dropping and I’m feeling anxious about a recession. What can I do?",
+            "link": "https://www.marketwatch.com/story/retirement-is-within-my-grasp-a-recession-is-on-the-horizon-and-stocks-are-falling-im-57-what-if-anything-can-i-do-bdcc73c7?mod=mw_rss_topstories",
+            "description": "“I feel like I’m fiddling while Wall Street burns.”",
+            "pubDate": "2025-05-01T18:37:00",
+            "image_url": "https://images.mktw.net/im-96465160"
+        },
+        {
+            "title": "‘We are the most privileged’: My husband and I are tired of paying for our friends. How do we get them to pay their way?",
+            "link": "https://www.marketwatch.com/story/we-are-not-poor-my-husband-and-i-are-tired-of-picking-up-the-check-for-our-friends-how-can-we-get-them-to-step-up-a05c7622?mod=mw_rss_topstories",
+            "description": "“My husband almost always ends up paying for everyone or picks up the entire bill.”",
+            "pubDate": "2025-05-01T18:32:00",
+            "image_url": "https://images.mktw.net/im-87734477"
+        },
+        {
+            "title": "The Download: China’s energy throwback, and choosing between love and immortality",
+            "link": "https://www.technologyreview.com/2025/05/01/1115999/the-download-chinas-energy-throwback-and-choosing-between-love-and-immortality/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A long-aband...",
+            "pubDate": "2025-05-01T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/geoengineering-measures3.jpeg?fit=1064,598"
+        },
+        {
+            "title": "Senior State Department official sought internal communications with journalists, European officials, and Trump critics",
+            "link": "https://www.technologyreview.com/2025/05/01/1115988/senior-state-department-official-sought-internal-communications-with-journalists-european-officials-and-trump-critics/",
+            "description": "A previously unreported document distributed by senior US State Department official Darren Beattie reveals a sweeping effort to uncover all communicat...",
+            "pubDate": "2025-05-01T18:41:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "A long-abandoned US nuclear technology is making a comeback in China",
+            "link": "https://www.technologyreview.com/2025/05/01/1115957/old-new-nuclear-technology/",
+            "description": "China has once again beat everyone else to a clean energy milestone—its new nuclear reactor is reportedly one of the first to use thorium instead of u...",
+            "pubDate": "2025-05-01T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The ‘era of experience’ will unleash self-learning AI agents across the web—here’s how to prepare",
+            "link": "https://venturebeat.com/ai/the-era-of-experience-will-unleash-self-learning-ai-agents-across-the-web-heres-how-to-prepare/",
+            "description": "AI visionaries predict an 'Era of Experience' where AI learns autonomously, and it will have important implications for application design.",
+            "pubDate": "2025-04-30T21:38:01",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/era-of-experience.webp?w=578"
+        },
+        {
+            "title": "UiPath’s new orchestrator guides AI agents to follow your enterprise’s rules",
+            "link": "https://venturebeat.com/ai/uipaths-new-orchestrator-guides-ai-agents-to-follow-your-enterprises-rules/",
+            "description": "UiPath's agent orchestration layer Maestro moves prompts through three layers: the agent, a human and the robotic process automation system.",
+            "pubDate": "2025-04-30T22:20:16",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2022/05/data-observability-e1655328076213.jpg?w=578"
         },
         {
             "title": "Your guide to Day 1 of the 2025 Robotics Summit & Expo",
@@ -17,41 +108,6 @@
             "description": "The Robotics Summit & Expo begins at 9:00 a.m. at the Boston Convention and Exhibition Center with back-to-back keynote presentations. The post Your g...",
             "pubDate": "2025-04-30T13:00:26",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/BostonDeviceRobotics-featured-1.jpg"
-        },
-        {
-            "title": "Why emerging-markets guru Mobius is 95% in cash",
-            "link": "https://www.marketwatch.com/story/why-emerging-markets-guru-mobius-is-95-in-cash-e423830b?mod=mw_rss_topstories",
-            "description": "Mark Mobius, the self-styled ‘father of emerging markets,’ has spent his entire career in an asset class notorious for its volatility and his pronounc...",
-            "pubDate": "2025-04-30T15:24:00",
-            "image_url": "https://images.mktw.net/im-596916"
-        },
-        {
-            "title": "As Apple reports earnings, here’s why $200 is a key stock price to watch",
-            "link": "https://www.marketwatch.com/story/as-apple-reports-earnings-heres-why-200-is-a-key-stock-price-to-watch-c58a859f?mod=mw_rss_topstories",
-            "description": "With shares trading just above a key support level, investors will be alert for clues about Apple’s manufacturing plans.",
-            "pubDate": "2025-04-30T15:39:00",
-            "image_url": "https://images.mktw.net/im-56866579"
-        },
-        {
-            "title": "Social Security seems much less secure 100 days into Trump’s second term",
-            "link": "https://www.marketwatch.com/story/social-security-seems-much-less-secure-100-days-into-trumps-second-term-9ca0d5b5?mod=mw_rss_topstories",
-            "description": "In retrospectives of Trump’s first months back in the White House, this short phrase is going to be much more than a footnote.",
-            "pubDate": "2025-04-30T15:43:00",
-            "image_url": "https://images.mktw.net/im-57830041"
-        },
-        {
-            "title": "Americans boosted spending last month — but mainly to avoid tariff price increases",
-            "link": "https://www.marketwatch.com/story/americans-spent-more-last-month-probably-to-avoid-tariff-price-increases-9e2a9afe?mod=mw_rss_topstories",
-            "description": "Consumer spending climbs 0.7% in March. Auto sales surge.",
-            "pubDate": "2025-04-30T15:22:00",
-            "image_url": "https://images.mktw.net/im-34387991"
-        },
-        {
-            "title": "Inflation slowed in March — but that was before trade wars threatened to raise prices",
-            "link": "https://www.marketwatch.com/story/inflation-slowed-in-march-but-that-was-before-trade-wars-erupted-and-threatened-to-raise-prices-004e0f5d?mod=mw_rss_topstories",
-            "description": "PCE shows inflation rate decelerating to 2.3%",
-            "pubDate": "2025-04-30T15:10:00",
-            "image_url": "https://images.mktw.net/im-16629938"
         },
         {
             "title": "The Download: stereotypes in AI models, and the new age of coding",
@@ -65,56 +121,7 @@
             "link": "https://www.technologyreview.com/2025/04/30/1115946/this-data-set-helps-researchers-spot-harmful-stereotypes-in-llms/",
             "description": "AI models are riddled with culturally specific biases. A new data set, called SHADES, is designed to help developers combat the problem by spotting ha...",
             "pubDate": "2025-04-30T10:41:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "NexCOBOT to demonstrate EtherCAT AI robot controllers at Robotics Summit",
-            "link": "https://www.therobotreport.com/nexcobot-demonstrates-ethercat-ai-robot-controllers-2025-robotics-summit/",
-            "description": "NexCOBOT will be doing live demonstrations of its dual EtherCAT master AI robot controllers on the Robotics Summit Expo floor in Booth 451. The post N...",
-            "pubDate": "2025-04-29T13:00:27",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/NexCOBOT_in_collaboration_with_German_partner_Sysgo_and_BOTFELLOWS_has_developed_a_high-safety-level_robotic_dynamic_safety_collaboration_space_featured.jpg"
-        },
-        {
-            "title": "A guide to everything going on at the 2025 Robotics Summit & Expo",
-            "link": "https://www.therobotreport.com/guide-everything-going-on-2025-robotics-summit-expo/",
-            "description": "To help you keep track of everything going on, we've compiled a summary of the activities at the Robotics Summit over the next two days. The post A gu...",
-            "pubDate": "2025-04-29T13:30:10",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/BostonDeviceRobotics-featured.jpg"
-        },
-        {
-            "title": "Meta’s first dedicated AI app is here with Llama 4 — but it’s more consumer than productivity or business oriented",
-            "link": "https://venturebeat.com/ai/metas-first-dedicated-ai-app-is-here-with-llama-4-but-its-more-consumer-than-productivity-or-business-oriented/",
-            "description": "This mainstream exposure will likely accelerate a shift in what people expect not just from consumer apps, but from workplaces...",
-            "pubDate": "2025-04-29T19:19:30",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/mark_zuckerberg_staring_with_amazement_at_a-2.jpeg?w=578"
-        },
-        {
-            "title": "Meta unleashes Llama API running 18x faster than OpenAI: Cerebras partnership delivers 2,600 tokens per second",
-            "link": "https://venturebeat.com/ai/meta-unleashes-llama-api-running-18x-faster-than-openai-cerebras-partnership-delivers-2600-tokens-per-second/",
-            "description": "Meta partners with Cerebras to launch its new Llama API, offering developers AI inference speeds up to 18 times faster than traditional GPU solutions,...",
-            "pubDate": "2025-04-29T21:02:04",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_computer_chip_in_the_colors_of_Goolge_71db7087-b8f7-4ae3-ae07-4b36bdee2086.webp?w=578"
-        },
-        {
-            "title": "No more window switching: Mastercard’s Agent Pay transforms how enterprises use AI search",
-            "link": "https://venturebeat.com/ai/no-more-window-switching-mastercards-agent-pay-transforms-how-enterprises-use-ai-search/",
-            "description": "Mastercard is working with AI companies and banks to allow AI platforms and agents to facilitate transactions.",
-            "pubDate": "2025-04-29T23:24:52",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/cute-robot-paying-with-a-card-dalle.png?w=578"
-        },
-        {
-            "title": "The Download: the AI Hype Index, and “normal” AI",
-            "link": "https://www.technologyreview.com/2025/04/29/1115932/the-download-the-ai-hype-index-and-normal-ai/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI Hype ...",
-            "pubDate": "2025-04-29T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f52d.png"
-        },
-        {
-            "title": "Epson adds GX-C Series with RC800A controller to its robot line",
-            "link": "https://www.therobotreport.com/epson-robots-adds-gx-c-series-line/",
-            "description": "The GX-C robot line, which will be shown at Automate, is designed for high precision and flexibility, according to Epson. The post Epson adds GX-C Ser...",
-            "pubDate": "2025-04-29T11:15:16",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/Epson-GX-C-Robot_3.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "BurgerBots opens restaurant with ABB robots preparing fast food",
@@ -124,25 +131,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/ABB-Robotics_BurgerBots-launch_Dual-arm-YuMi.jpg"
         },
         {
-            "title": "Tripp launches Kōkua AI as mental wellness coach across multiple platforms",
-            "link": "https://venturebeat.com/games/tripp-launches-kokua-ai-as-mental-wellness-coach-across-multiple-platforms/",
-            "description": "Tripp launched Kōkua AI, a mental wellness guide designed to deliver real-time, personalized emotional support across multiple platforms.",
-            "pubDate": "2025-04-29T14:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "A guide to everything going on at the 2025 Robotics Summit & Expo",
+            "link": "https://www.therobotreport.com/guide-everything-going-on-2025-robotics-summit-expo/",
+            "description": "To help you keep track of everything going on, we've compiled a summary of the activities at the Robotics Summit over the next two days. The post A gu...",
+            "pubDate": "2025-04-29T13:30:10",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/BostonDeviceRobotics-featured.jpg"
         },
         {
-            "title": "We need to start thinking of AI as “normal”",
-            "link": "https://www.technologyreview.com/2025/04/29/1115928/is-ai-normal/",
-            "description": "Right now, despite its ubiquity, AI is seen as anything but a normal technology. There is talk of AI systems that will soon merit the term “superintel...",
-            "pubDate": "2025-04-29T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The AI Hype Index: AI agent cyberattacks, racing robots, and musical models",
-            "link": "https://www.technologyreview.com/2025/04/29/1115918/the-ai-hype-index-ai-agent-cyberattacks-racing-robots-and-musical-models/",
-            "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
-            "pubDate": "2025-04-29T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "NexCOBOT to demonstrate EtherCAT AI robot controllers at Robotics Summit",
+            "link": "https://www.therobotreport.com/nexcobot-demonstrates-ethercat-ai-robot-controllers-2025-robotics-summit/",
+            "description": "NexCOBOT will be doing live demonstrations of its dual EtherCAT master AI robot controllers on the Robotics Summit Expo floor in Booth 451. The post N...",
+            "pubDate": "2025-04-29T13:00:27",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/NexCOBOT_in_collaboration_with_German_partner_Sysgo_and_BOTFELLOWS_has_developed_a_high-safety-level_robotic_dynamic_safety_collaboration_space_featured.jpg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
