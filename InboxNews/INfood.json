@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-01T14:14:15.614012",
+    "lastBuildDate": "2025-05-02T11:12:19.227525",
     "items": [
+        {
+            "title": "Mother’s Day Breakfast Menu",
+            "link": "https://therecipecritic.com/mothers-day-breakfast-menu/",
+            "description": "What mom doesn’t love it when a meal is planned for her? This mother’s day menu plan has recipes that…",
+            "pubDate": "2025-05-02T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/04/Mothers-Day-Brunch-Menu-Plan-.png"
+        },
         {
             "title": "One-Pan Creamy Lemon Orzo",
             "link": "https://therecipecritic.com/creamy-lemon-orzo/",
@@ -38,13 +45,6 @@
             "description": "You guys love lemon chicken anything—and honestly, I’m the same. So I had to give you this lemon chicken casserole.…",
             "pubDate": "2025-04-20T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/lemon-chicken-casserole-.jpg"
-        },
-        {
-            "title": "Weekly Meal Plan #42",
-            "link": "https://therecipecritic.com/weekly-meal-plan-42/",
-            "description": "Another week, another what’s for dinner? moment, right? This week’s meal plan is all about keeping things simple without skimping on flavor—and…",
-            "pubDate": "2025-04-18T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/04/Week-42-Meal-Plan-Collage-.png"
         },
         {
             "title": "Creamy Mocha Chia Pudding",
