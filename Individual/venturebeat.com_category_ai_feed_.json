@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-03T00:19:40.286310",
+    "lastBuildDate": "2025-05-04T01:47:09.034213",
     "items": [
+        {
+            "title": "Not everything needs an LLM: A framework for evaluating when AI makes sense",
+            "link": "https://venturebeat.com/ai/not-everything-needs-an-llm-a-framework-for-evaluating-when-ai-makes-sense/",
+            "description": "The answer to 'What customer needs requires an AI solution?' isn’t always 'Yes.' LLMs are still expensive and not always accurate.",
+            "pubDate": "2025-05-03T20:35:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/DDM-Sat.webp?w=578"
+        },
         {
             "title": "RSAC 2025: Why the AI agent era means more demand for CISOS",
             "link": "https://venturebeat.com/security/rsac-2025-why-the-ai-agent-era-means-more-demand-for-cisos/",
@@ -31,13 +38,6 @@
             "description": "It is a well-known fact that different model families can use different tokenizers. However, there has been limited analysis on how the process of “to...",
             "pubDate": "2025-05-01T21:14:04",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/ChatGPT-Image-May-1-2025-11_45_21-AM.png?w=578"
-        },
-        {
-            "title": "Astronomer’s $93M raise underscores a new reality: Orchestration is king in AI infrastructure",
-            "link": "https://venturebeat.com/ai/astronomer-93m-raise-underscores-a-new-reality-orchestration-is-king-in-ai-infrastructure/",
-            "description": "Astronomer secures $93 million in Series D funding to solve the AI implementation gap through data orchestration, helping enterprises streamline compl...",
-            "pubDate": "2025-05-01T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_an_astronomer_3d788534-ac39-4092-b6f9-d8f7af309852.webp?w=578"
         }
     ]
 }
