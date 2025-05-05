@@ -2,49 +2,21 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-05T10:39:44.423881",
+    "lastBuildDate": "2025-05-05T13:02:28.876117",
     "items": [
         {
             "title": "New study informs fire prevention strategies to save lives and property",
             "link": "https://www.nsf.gov/news/new-study-informs-fire-prevention-strategies-save-lives",
             "description": "U.S. National Science Foundation-supported research shows that fires in populated areas are three times more likely to lead to premature deaths than w...",
             "pubDate": "2025-05-05T13:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "From electronic bugs to real ones, methods for listening provide insights into communication and hearing",
-            "link": "https://www.nsf.gov/news/electronic-bugs-real-ones-methods-listening-provide-insights",
-            "description": "A new study by U.S. National Science Foundation-funded researchers on how members of the animal world sense and react to sounds provides insight into ...",
-            "pubDate": "2025-05-02T14:33:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The secret to happiness lies within you, or society -- or both",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250502102702.htm",
-            "description": "What is the secret to happiness? Does happiness come from within, or is it shaped by external influences such as our jobs, health, relationships and m...",
-            "pubDate": "2025-05-02T15:27:02",
+            "title": "Specialized sponge recycles minerals from stormwater for reuse in agriculture and other industries",
+            "link": "https://www.nsf.gov/news/specialized-sponge-recycles-minerals-stormwater-reuse",
+            "description": "Funded by multiple grants from the U.S. National Science Foundation, researchers created a functional sponge that can soak up certain pollutants from ...",
+            "pubDate": "2025-05-05T15:44:33",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Scientists discover key to taming unrest at Italy's Campi Flegrei",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250502182509.htm",
-            "description": "New research shows that elevation changes and earthquakes in Italy's Campi Flegrei volcanic area are caused by rising pressure in a geothermal reservo...",
-            "pubDate": "2025-05-02T23:25:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "The future of brain activity monitoring may look like a strand of hair",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250502133950.htm",
-            "description": "Researchers have created a hairlike device for long-term, non-invasive monitoring of the brain's electrical activity. The lightweight and flexible ele...",
-            "pubDate": "2025-05-02T18:39:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Antivenom neutralizes the neurotoxins of 19 of the world's deadliest snakes",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250502133806.htm",
-            "description": "By using antibodies from a human donor with a self-induced hyper-immunity to snake venom, scientists have developed the most broadly effective antiven...",
-            "pubDate": "2025-05-02T18:38:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "The all-female Korean Haenyeo divers show genetic adaptions to cold water diving",
@@ -54,25 +26,53 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
+            "title": "Scientists discover key to taming unrest at Italy's Campi Flegrei",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250502182509.htm",
+            "description": "New research shows that elevation changes and earthquakes in Italy's Campi Flegrei volcanic area are caused by rising pressure in a geothermal reservo...",
+            "pubDate": "2025-05-02T23:25:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "From electronic bugs to real ones, methods for listening provide insights into communication and hearing",
+            "link": "https://www.nsf.gov/news/electronic-bugs-real-ones-methods-listening-provide-insights",
+            "description": "A new study by U.S. National Science Foundation-funded researchers on how members of the animal world sense and react to sounds provides insight into ...",
+            "pubDate": "2025-05-02T14:33:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The secret to happiness lies within you, or society -- or both",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250502102702.htm",
+            "description": "What is the secret to happiness? Does happiness come from within, or is it shaped by external influences such as our jobs, health, relationships and m...",
+            "pubDate": "2025-05-02T15:27:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Antivenom neutralizes the neurotoxins of 19 of the world's deadliest snakes",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250502133806.htm",
+            "description": "By using antibodies from a human donor with a self-induced hyper-immunity to snake venom, scientists have developed the most broadly effective antiven...",
+            "pubDate": "2025-05-02T18:38:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "The future of brain activity monitoring may look like a strand of hair",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250502133950.htm",
+            "description": "Researchers have created a hairlike device for long-term, non-invasive monitoring of the brain's electrical activity. The lightweight and flexible ele...",
+            "pubDate": "2025-05-02T18:39:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
             "title": "In extreme conditions, heat does not flow between materials. It bounces off.",
             "link": "https://www.nsf.gov/news/extreme-conditions-heat-does-not-flow-between-materials-it",
             "description": "A new study supported by the U.S. National Science Foundation shows, for the first time, how heat moves — or rather, doesn't — between materials in a ...",
             "pubDate": "2025-05-01T18:51:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Statement by Director Sethuraman Panchanathan on his departure",
             "link": "https://www.nsf.gov/news/statement-director-sethuraman-panchanathan-his-departure",
             "description": "\"Today, I am announcing my decision to step down as Director of the U.S. National Science Foundation (NSF), effective today. It has been an honor and ...",
             "pubDate": "2025-04-24T19:40:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Atmospheric winds have surprising impact on ocean weather",
-            "link": "https://www.nsf.gov/news/atmospheric-winds-have-surprising-impact-ocean-weather",
-            "description": "U.S. National Science Foundation-supported researchers published a new paper that explains how atmospheric wind affects eddies, an ocean weather pheno...",
-            "pubDate": "2025-04-21T13:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
