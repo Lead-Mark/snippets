@@ -2,62 +2,41 @@
     "title": "StockHedges",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from StockHedges, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-06T05:58:51.944310",
+    "lastBuildDate": "2025-05-06T11:43:17.115454",
     "items": [
         {
-            "title": "Fashion retailer Hugo Boss shares pop 5% on better-than-feared first-quarter sales",
-            "link": "https://www.cnbc.com/2025/05/06/hugo-boss-q1-2025-earnings-tariff-impact.html",
-            "description": "Shares of Hugo Boss climbed after posting a lower-than-feared decline in first-quarter sales and reiterated its full-year guidance.",
-            "pubDate": "2025-05-06T10:37:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Palantir falls 12% as analysts raise international growth concerns",
+            "link": "https://www.cnbc.com/2025/05/06/palantir-earnings-international-growth.html",
+            "description": "Palantir fell more than 10% even after the company hiked its guidance as AI demand fueled revenue growth.",
+            "pubDate": "2025-05-06T16:04:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Ford suspends 2025 guidance amid $2.5 billion tariff impact",
-            "link": "https://www.cnbc.com/2025/05/05/ford-motor-f-earnings-q1-2025.html",
-            "description": "Ford Motor beat Wall Street's first-quarter expectations, but suspended its 2025 financial guidance amid an expected $2.5 billion impact this year fro...",
-            "pubDate": "2025-05-06T00:01:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Doordash announces $1.2 billion SevenRooms deal, misses revenue expectations",
+            "link": "https://www.cnbc.com/2025/05/06/doordash-announces-1point2-billion-sevenrooms-deal-misses-revenue-expectations.html",
+            "description": "Doordash on Tuesday announced the $1.2 billion acquisition of restaurant booking platform SevenRooms and reported first-quarter earnings.",
+            "pubDate": "2025-05-06T14:32:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Luxury carmaker Ferrari warns of U.S. tariff risks after 17% jump in first-quarter profit",
+            "link": "https://www.cnbc.com/2025/05/06/ferrari-q1-earnings-2025.html",
+            "description": "Luxury carmaker Ferrari on Tuesday reported a significant upswing in first-quarter profit, citing robust demand for personalized vehicles.",
+            "pubDate": "2025-05-06T15:56:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Palantir shares fall as company reports in-line earnings, lifts full-year guidance",
             "link": "https://www.cnbc.com/2025/05/05/palantir-pltr-q1-earnings-report-2025.html",
             "description": "Palantir boosted its guidance for the year on Monday, as net income in the latest quarter more than doubled.",
-            "pubDate": "2025-05-05T23:27:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "pubDate": "2025-05-06T15:06:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Hims & Hers gives weak outlook but says more collaborations are coming",
-            "link": "https://www.cnbc.com/2025/05/05/hims-hers-hims-q1-earnings-2025.html",
-            "description": "Hims & Hers shares fell in extended trading on Monday after the company reported first-quarter earnings that offered soft guidance.",
-            "pubDate": "2025-05-05T22:47:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "2 big things to watch this week as the S&P 500 looks to extend its historic win streak",
-            "link": "https://www.cnbc.com/2025/05/04/2-big-things-to-watch-this-week-as-the-sp-500-looks-to-extend-its-historic-win-streak.html",
-            "description": "Could the rallying S&P 500 go for 10 in a row?",
-            "pubDate": "2025-05-04T16:24:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "DeepSeek Won't Sink U.S. AI Titans",
-            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-            "pubDate": "2025-01-27T18:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Financial Services Roundup: Market Talk",
-            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-            "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-            "pubDate": "2025-01-27T17:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
-            "pubDate": "2025-01-27T17:20:00",
+            "title": "Ford suspends 2025 guidance amid $2.5 billion tariff impact",
+            "link": "https://www.cnbc.com/2025/05/05/ford-motor-f-earnings-q1-2025.html",
+            "description": "Ford Motor beat Wall Street's first-quarter expectations, but suspended its 2025 financial guidance amid an expected $2.5 billion impact this year fro...",
+            "pubDate": "2025-05-06T13:37:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
@@ -65,6 +44,13 @@
             "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
             "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
             "pubDate": "2025-01-27T19:01:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "DeepSeek Won't Sink U.S. AI Titans",
+            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+            "pubDate": "2025-01-27T18:12:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -72,7 +58,21 @@
             "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
             "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
             "pubDate": "2025-01-27T19:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Financial Services Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+            "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+            "pubDate": "2025-01-27T17:27:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
+            "pubDate": "2025-01-27T17:20:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
