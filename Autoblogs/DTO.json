@@ -2,28 +2,77 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-07T06:49:35.540866",
+    "lastBuildDate": "2025-05-07T11:25:47.730063",
     "items": [
+        {
+            "title": "Germany finally has a leader. Now comes the hard part for Friedrich Merz",
+            "link": "https://www.cnbc.com/2025/05/07/germany-finally-has-a-leader-now-comes-the-hard-part-for-merz.html",
+            "description": "Friedrich Merz is Germany's chancellor, but after a rocky start to his term, more challenges are ahead.",
+            "pubDate": "2025-05-07T12:55:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "The stock market may see limited upside till late in the year — live updates",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3eb1ffc5-1338-4598-bc17-db53a9df21c1&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-07T15:33:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
         {
             "title": "Trump officials Bessent and Greer to meet with Chinese counterparts on trade, economic issues",
             "link": "https://www.cnbc.com/2025/05/06/trump-trade-china-switzerland-tariffs.html",
-            "description": "President Trump earlier in the day had downplayed tariff negotiations, saying at the White House, \"We don’t have to sign deals.\"",
-            "pubDate": "2025-05-07T01:01:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "description": "President Donald Trump earlier in the day had downplayed tariff negotiations, saying at the White House, \"We don’t have to sign deals.\"",
+            "pubDate": "2025-05-07T15:52:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Uber’s stock has run up big gains in 2025. Now it’s hit a speed bump.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1dc5064d-9dfa-44dc-8005-6fe23d250e70&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-07T14:50:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Disney park in Abu Dhabi to be ‘authentically Disney and distinctly Emirati’",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1b1d1567-0a9b-481c-8e21-6e8115532404&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-07T15:58:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Any Fed rate cut in 2025 is a bad sign, says Lazard CEO and former OMB director",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3ebb24ea-be96-44a7-896b-551314c38b2b&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-07T14:31:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Treasury yields in holding pattern as investors await Fed decision — follow live",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2905ea0-2e2d-4ea8-b288-bf65f6ca3ae2&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-07T14:03:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Carney tells Trump: Canada 'won't be for sale ever'",
+            "link": "https://www.cnbc.com/2025/05/06/trump-canada-carney-tariffs-trade.html",
+            "description": "Carney's first visit to the White House since his election comes as the U.S.-Canada trade relationship has been upended as a result of Trump's tariffs...",
+            "pubDate": "2025-05-06T21:23:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "U.S. commodities regulator seeks to drop appeal of Kalshi election bets offers",
             "link": "https://www.cnbc.com/2025/05/05/cftc-kalshi-election-betting-commodities.html",
             "description": "Kalsi in January named Donald Trump Jr., the eldest son of President Trump, as a strategic advisor.",
             "pubDate": "2025-05-06T21:43:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Trump downplays tariff talks: 'We don't have to sign deals'",
             "link": "https://www.cnbc.com/2025/05/06/trump-tariffs-trade-canada-china.html",
             "description": "U.S. markets moved lower Tuesday after Trump's comments on trade deals.",
             "pubDate": "2025-05-06T21:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

@@ -2,34 +2,20 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-07T06:47:05.234150",
+    "lastBuildDate": "2025-05-07T11:22:41.759390",
     "items": [
         {
-            "title": "Two new crocodile species discovered",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250506170923.htm",
-            "description": "Biologists have discovered two previously unknown species of crocodiles, one living on the island of Cozumel and the other on the atoll of Banco Chinc...",
-            "pubDate": "2025-05-06T22:09:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "4 planets discovered around Barnard's star, one of the closest stars to Earth",
+            "link": "https://www.nsf.gov/news/4-planets-discovered-around-barnards-star-one-closest-stars",
+            "description": "Researchers supported by the U.S. National Science Foundation have discovered four tiny exoplanets orbiting Barnard's star, a red dwarf at the center ...",
+            "pubDate": "2025-05-07T14:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "New drone-assisted 3D model offers a more accurate way to date dinosaur fossils",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250506170928.htm",
-            "description": "A new study is reshaping how scientists date dinosaur fossils in Alberta's Dinosaur Provincial Park (DPP). Using advanced drone-assisted 3D mapping, r...",
-            "pubDate": "2025-05-06T22:09:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Study suggests we don't just hear music, but 'become it'",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250506170920.htm",
-            "description": "Psychologists suggest our brains and bodies don't just understand music, they physically resonate with it. These discoveries, based on findings in neu...",
-            "pubDate": "2025-05-06T22:09:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "2024 sea level 'report cards' map futures of US coastal communities",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250506135744.htm",
-            "description": "Researchers have released their 2024 U.S. sea level 'report cards,' providing updated analyses of sea level trends and projections for 36 coastal comm...",
-            "pubDate": "2025-05-06T18:57:44",
+            "title": "Using machine learning to speed up discovery for drug delivery and disease treatment",
+            "link": "https://www.nsf.gov/news/using-machine-learning-speed-discovery-drug-delivery-disease",
+            "description": "A new computational tool developed with support from the U.S. National Science Foundation could greatly speed up determining the 3D structure of RNAs,...",
+            "pubDate": "2025-05-07T16:00:08",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
@@ -37,7 +23,56 @@
             "link": "https://www.sciencedaily.com/releases/2025/05/250506170931.htm",
             "description": "A new discovery about the slime ejected by velvet worms could revolutionize sustainable material design. The findings outline how a naturally occurrin...",
             "pubDate": "2025-05-06T22:09:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "2024 sea level 'report cards' map futures of US coastal communities",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250506135744.htm",
+            "description": "Researchers have released their 2024 U.S. sea level 'report cards,' providing updated analyses of sea level trends and projections for 36 coastal comm...",
+            "pubDate": "2025-05-06T18:57:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Leopard spots and protein nanoclusters: How pattern rules could advance muscular dystrophy treatment",
+            "link": "https://www.nsf.gov/news/leopard-spots-protein-nanoclusters-how-pattern-rules-could",
+            "description": "Although a leopard cannot change its spots, new research funded by the U.S. National Science Foundation uses the principles that govern patterns like ...",
+            "pubDate": "2025-05-06T13:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Study suggests we don't just hear music, but 'become it'",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250506170920.htm",
+            "description": "Psychologists suggest our brains and bodies don't just understand music, they physically resonate with it. These discoveries, based on findings in neu...",
+            "pubDate": "2025-05-06T22:09:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "New drone-assisted 3D model offers a more accurate way to date dinosaur fossils",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250506170928.htm",
+            "description": "A new study is reshaping how scientists date dinosaur fossils in Alberta's Dinosaur Provincial Park (DPP). Using advanced drone-assisted 3D mapping, r...",
+            "pubDate": "2025-05-06T22:09:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Two new crocodile species discovered",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250506170923.htm",
+            "description": "Biologists have discovered two previously unknown species of crocodiles, one living on the island of Cozumel and the other on the atoll of Banco Chinc...",
+            "pubDate": "2025-05-06T22:09:23",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "New study informs fire prevention strategies to save lives and property",
+            "link": "https://www.nsf.gov/news/new-study-informs-fire-prevention-strategies-save-lives",
+            "description": "U.S. National Science Foundation-supported research shows that fires in populated areas are three times more likely to lead to premature deaths than w...",
+            "pubDate": "2025-05-05T13:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Specialized sponge recycles minerals from stormwater for reuse in agriculture and other industries",
+            "link": "https://www.nsf.gov/news/specialized-sponge-recycles-minerals-stormwater-reuse",
+            "description": "Funded by multiple grants from the U.S. National Science Foundation, researchers created a functional sponge that can soak up certain pollutants from ...",
+            "pubDate": "2025-05-05T15:44:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

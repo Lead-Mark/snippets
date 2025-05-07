@@ -2,42 +2,77 @@
     "title": "INtech",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INtech, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-07T06:47:44.566668",
+    "lastBuildDate": "2025-05-07T11:23:22.595377",
     "items": [
         {
-            "title": "Don’t Have a Real ID? You Can Still Fly With a License, for Now",
-            "link": "https://www.wired.com/story/how-to-get-a-real-id-license/",
-            "description": "If you don’t have a Real ID or a passport, you can still board an airplane while traveling within the US. Just be prepared for a longer wait going thr...",
-            "pubDate": "2025-05-07T10:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Amazon Has Made a Robot With a Sense of Touch",
-            "link": "https://www.wired.com/story/ai-lab-amazon-launches-vulcan-a-robot-that-can-feel/",
-            "description": "Vulcan, a robot with tactile senses, is a step towards automating more of picking and stowing work done by humans inside Amazon’s fulfillment centers.",
-            "pubDate": "2025-05-07T09:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "9 Best Dry Shampoos, Editor Tested and Reviewed (2025)",
-            "link": "https://www.wired.com/gallery/the-best-dry-shampoos/",
-            "description": "I spent months testing 30 dry shampoos on day-two hair and beyond—these are the most effective formulas you can buy.",
-            "pubDate": "2025-05-07T11:32:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "The Signal Clone Mike Waltz Was Caught Using Has Direct Access to User Chats",
-            "link": "https://www.wired.com/story/tm-signal-telemessage-plaintext-message-archive/",
-            "description": "A new analysis of TM Signal’s source code appears to show that the app sends users’ message logs in plaintext. At least one top Trump administration o...",
-            "pubDate": "2025-05-06T21:24:44",
+            "title": "The web series is back — only this time, they’re TikToks",
+            "link": "https://techcrunch.com/2025/05/07/the-web-series-is-back-only-this-time-theyre-tiktoks/",
+            "description": "“Day 25 of starting over my whole entire life,” Raegan Lynch narrates over a short video. “Right now, I’m wandering around the city I just moved to, i...",
+            "pubDate": "2025-05-07T15:23:29",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Tulsi Gabbard Reused the Same Weak Password on Multiple Accounts for Years",
-            "link": "https://www.wired.com/story/tulsi-gabbard-dni-weak-password/",
-            "description": "Now the US director of national intelligence, Gabbard failed to follow basic cybersecurity practices on several of her personal accounts, leaked recor...",
-            "pubDate": "2025-05-06T20:27:19",
+            "title": "13 Best Soundbars We’ve Tested and Reviewed (2025): Sonos, Sony, Bose",
+            "link": "https://www.wired.com/gallery/best-soundbars/",
+            "description": "Every television deserves a row of speakers to call its own. These are our favorite soundbars.",
+            "pubDate": "2025-05-07T14:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Mistral claims its newest AI model delivers leading performance for the price",
+            "link": "https://techcrunch.com/2025/05/07/mistral-claims-its-newest-ai-model-delivers-leading-performance-for-the-price/",
+            "description": "French AI startup Mistral is releasing a new AI model, Mistral Medium 3, that’s focused on efficiency without compromising performance. Available in M...",
+            "pubDate": "2025-05-07T15:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "D’Addario XPND Pedal Power Battery Kit Review: Get Juiced",
+            "link": "https://www.wired.com/review/daddario-xpnd-pedal-power-battery-kit/",
+            "description": "This kit lets you build custom-length power cables for a cleaner-looking pedalboard for your instrument.",
+            "pubDate": "2025-05-07T15:33:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Uber invests $100M in WeRide to fuel robotaxi expansion across 15 more cities",
+            "link": "https://techcrunch.com/2025/05/07/uber-invests-100m-in-weride-to-fuel-robotaxi-expansion-across-15-more-cities/",
+            "description": "Uber has committed $100 million to Chinese robotaxi firm WeRide as they expand to 15 more cities.",
+            "pubDate": "2025-05-07T16:14:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Amazon to invest $4B in Chile to launch AWS infrastructure region",
+            "link": "https://techcrunch.com/2025/05/07/amazon-to-invest-4b-in-chile-to-launch-aws-infrastructure-region/",
+            "description": "Amazon is making a sizable investment to support new and existing Amazon Web Services (AWS) customers in Chile. The tech conglomerate announced on Wed...",
+            "pubDate": "2025-05-07T16:08:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Birdfy Nest Polygon Smart Birdhouse Review: Primed for Pictures",
+            "link": "https://www.wired.com/review/birdfy-nest-polygon-smart-birdhouse/",
+            "description": "This creatively designed nest box is ready to tell a story—if it can attract birds.",
+            "pubDate": "2025-05-07T13:32:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "CrowdStrike says it will lay off 500 workers",
+            "link": "https://techcrunch.com/2025/05/07/crowdstrike-says-it-will-lay-off-500-workers/",
+            "description": "The cybersecurity company said it will lay off 5% of its global workforce.",
+            "pubDate": "2025-05-07T15:25:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Silence Speaks Has Created AI-Powered Signing Avatars for the Deaf",
+            "link": "https://www.wired.com/story/silence-speaks-deaf-ai-signing/",
+            "description": "New technology from British startup Silence Speaks enables an AI-generated sign language avatar to effectively give the deaf and hard of hearing an in...",
+            "pubDate": "2025-05-07T14:39:49",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "9 Best Mechanical Keyboards (2025), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-mechanical-keyboards/",
+            "description": "We’ve typed thousands of words to help you find the ideal clacky—or thocky—mechanical keyboard for your refined taste.",
+            "pubDate": "2025-05-07T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }
