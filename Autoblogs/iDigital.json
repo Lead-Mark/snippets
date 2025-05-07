@@ -2,147 +2,56 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-06T11:43:23.239518",
+    "lastBuildDate": "2025-05-07T06:47:24.588167",
     "items": [
         {
-            "title": "Ōura adds AI-driven meal and glucose tracking features with Stelo by Dexcom",
-            "link": "https://venturebeat.com/games/oura-adds-ai-driven-meal-and-glucose-tracking-features-with-stelo-by-dexcom/",
-            "description": "Ōura, maker of a health-monitoring smart ring, announced that it will use AI to track and analyze two new metabolic health features: meals and glucose...",
-            "pubDate": "2025-05-06T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Oura-Metabolic-4.jpg?w=578"
+            "title": "This patient’s Neuralink brain implant gets a boost from generative AI",
+            "link": "https://www.technologyreview.com/2025/05/07/1116139/this-brain-implant-gets-a-boost-from-generative-ai/",
+            "description": "Last November, Bradford G. Smith got a brain implant from Elon Musk’s company Neuralink. The device, a set of thin wires attached to a computer about ...",
+            "pubDate": "2025-05-07T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "The Download: a longevity influencer’s new religion, and humanoid robots’ shortcomings",
-            "link": "https://www.technologyreview.com/2025/05/06/1116114/the-download-a-longevity-influencers-new-religion-and-humanoid-robots-shortcomings/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Bryan Johnso...",
-            "pubDate": "2025-05-06T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png"
+            "title": "Lightricks just made AI video generation 30x faster — and you won’t need a $10,000 GPU",
+            "link": "https://venturebeat.com/ai/lightricks-just-made-ai-video-generation-30x-faster-and-you-wont-need-a-10000-gpu/",
+            "description": "Lightricks unveils groundbreaking LTXV-13B AI video model that runs 30X faster than competitors on consumer hardware through innovative \"multiscale re...",
+            "pubDate": "2025-05-06T18:56:44",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-10.47.38 AM.jpg?w=578"
         },
         {
-            "title": "IBM thinks that over a billion new applications will be built with gen AI : Here’s how they’re going to help that happen with agentic AI",
-            "link": "https://venturebeat.com/ai/agents-are-key-to-enterprise-ai-success-heres-ibms-plan-on-how-to-make-it-happen/",
-            "description": "IBM details its plans to help enterprises to actually do more with AI, with an expanded set of agentic AI capabilities.",
-            "pubDate": "2025-05-06T05:01:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/corporate-ai-usage-smk.jpg?w=578"
+            "title": "AWS report: Generative AI overtakes security in global tech budgets for 2025",
+            "link": "https://venturebeat.com/ai/aws-report-generative-ai-overtakes-security-in-global-tech-budgets-for-2025/",
+            "description": "New AWS report reveals 45% of global IT leaders now prioritize generative AI over cybersecurity in 2025 tech budgets as companies race to hire AI tale...",
+            "pubDate": "2025-05-06T22:33:16",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_a_server_farm_in_the_cloud_eabe8f44-4654-4483-8a52-3323b5e73242.webp?w=578"
         },
         {
-            "title": "Korl launches platform orchestrating AI agents from OpenAI, Gemini and Anthropic to hyper-customize customer messaging",
-            "link": "https://venturebeat.com/ai/how-openai-gemini-and-anthropic-help-korl-prepare-customer-materials-in-minutes/",
-            "description": "Korl's platform works across multiple systems, using multi-agent and multimodal AI to create highly-customized customer messaging.",
-            "pubDate": "2025-05-06T15:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/upscalemedia-transformed.webp?w=578"
+            "title": "ServiceNow lets users see more of their AI",
+            "link": "https://venturebeat.com/ai/servicenow-lets-users-see-more-of-their-ai/",
+            "description": "ServiceNow also announced a way for agents to communicate with others along with its new observability platform.",
+            "pubDate": "2025-05-06T18:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2023/08/OIG-3-e1692047476613.jpeg?w=578"
         },
         {
-            "title": "Meta, Cisco put open-source LLMs at the core of next-gen SOC workflows",
-            "link": "https://venturebeat.com/ai/rsac-2025-cisco-and-meta-put-open-source-ai-at-the-heart-of-enterprise-threat-defense/",
-            "description": "Cisco’s Foundation-sec-8B LLM & Meta’s AI Defenders redefine cybersecurity with open-source AI for scalable SOCs.",
-            "pubDate": "2025-05-06T01:08:44",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/hero-image-open-source.jpg?w=578"
+            "title": "Teradyne Robotics makes leadership changes at MiR, UR",
+            "link": "https://www.therobotreport.com/teradyne-robotics-makes-leadership-changes-at-mir-ur/",
+            "description": "Jean-Pierre Hathout transitions from MiR to UR replacing Kim Povlsen. Kevin Dumas is promoted to the helm of MiR. The post Teradyne Robotics makes lea...",
+            "pubDate": "2025-05-06T21:02:10",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/Jean-Pierre-Hathout-headshot.jpg"
         },
         {
-            "title": "Report: OpenAI is buying AI-powered developer platform Windsurf — what happens to its support for rival LLMs?",
-            "link": "https://venturebeat.com/ai/report-openai-is-buying-ai-powered-developer-platform-windsurf-what-happens-to-its-support-for-rival-llms/",
-            "description": "OpenAI could see which types of developers use rival models such as the Meta Llama variants and Anthropic's Claude, and for what purposes.",
-            "pubDate": "2025-05-06T15:37:13",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_flat_illustration_line_art_minimalist_corporate_memphis_1507b341-aaa4-4ab0-a1d9-f0ab23ff7860-1.png?w=578"
+            "title": "Meet the new king of AI coding: Google’s Gemini 2.5 Pro I/O Edition dethrones Claude 3.7 Sonnet",
+            "link": "https://venturebeat.com/ai/meet-the-new-king-of-ai-coding-googles-gemini-2-5-pro-i-o-edition-dethrones-claude-3-7-sonnet/",
+            "description": "One of the standout features of the update is its ability to build full, interactive web apps or simulations from a single prompt.",
+            "pubDate": "2025-05-06T19:39:50",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_flat_crisp_line_art_a_primary_colored_robot_wears_a_cro_95a19f57-38e3-4314-add6-0b9b0775c622.png?w=578"
         },
         {
-            "title": "Top 10 robotics developments of April 2025",
-            "link": "https://www.therobotreport.com/top-10-robotics-developments-april-2025/",
-            "description": "April brought changes for the robotics industry, including shake-ups at large companies, new deployments, and the 2025 RBR50 being announced. The post...",
-            "pubDate": "2025-05-06T13:21:09",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/04/swarm-robots-v42-featured-300x195.jpg"
-        },
-        {
-            "title": "Why the humanoid workforce is running late",
-            "link": "https://www.technologyreview.com/2025/05/06/1116108/why-the-humanoid-workforce-is-running-late/",
-            "description": "On Thursday I watched Daniela Rus, one of the world’s top experts on AI-powered robots, address a packed room at a Boston robotics expo. Rus spent a p...",
-            "pubDate": "2025-05-06T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "igus introduces Iggy Rob low-cost humanoid for service, industrial applications",
-            "link": "https://www.therobotreport.com/igus-introduces-iggy-rob-low-cost-humanoid-service-industrial-applications/",
-            "description": "igus has applied its expertise with motion plastics, affordable cobots, and mobile platforms to offer its first humanoid robot. The post igus introduc...",
-            "pubDate": "2025-05-05T18:03:32",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/igus_Iggy_Rob.jpg"
-        },
-        {
-            "title": "Aurora begins driverless commercial trucking in Texas",
-            "link": "https://www.therobotreport.com/aurora-begins-driverless-commercial-trucking-texas/",
-            "description": "Aurora is deploying its flagship product, the Aurora Driver, an SAE Level 4 self-driving system in long-haul trucking. The post Aurora begins driverle...",
-            "pubDate": "2025-05-05T20:02:41",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/Aurora-Launch-featured.jpg"
-        },
-        {
-            "title": "Bryan Johnson wants to start a new religion in which “the body is God”",
-            "link": "https://www.technologyreview.com/2025/05/05/1116090/bryan-johnson-new-religion-body-is-god/",
-            "description": "Bryan Johnson is on a mission to not die. The 47-year-old multimillionaire has already applied his slogan “Don’t Die” to events, merchandise, and a Ne...",
-            "pubDate": "2025-05-05T10:00:00",
+            "title": "Recapping Robotics Summit & Expo 2025",
+            "link": "https://www.therobotreport.com/recapping-robotics-summit-expo-2025/",
+            "description": "We recap the Robotics Summit & Expo 2025 with a live feed from the show floor in Boston. The post Recapping Robotics Summit & Expo 2025 appeared first...",
+            "pubDate": "2025-05-06T21:51:58",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "HEBI Robotics wins RBR50 award for ‘inchworm’ robot family",
-            "link": "https://www.therobotreport.com/hebi-robotics-wins-rbr50-award-inchworm-robot-family/",
-            "description": "The RBR50 Robotics Innovation Awards recognized HEBI Robotics' flexible and scalable mobile manipulator, which builds on its modular platform. The pos...",
-            "pubDate": "2025-05-04T13:27:46",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/HEBI_inchworm.jpg"
-        },
-        {
-            "title": "SEER Robotics offers digital product matrix",
-            "link": "https://www.therobotreport.com/seer-robotics-offers-digital-product-matrix/",
-            "description": "SEER Robotics outlines the capabilities of its M4 Smart Logistics Management System and the Visualization Series Products. The post SEER Robotics offe...",
-            "pubDate": "2025-05-03T14:19:33",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/SEER_pic1.jpg"
-        },
-        {
-            "title": "The Download: foreign disinformation intel, and gene-edited pork",
-            "link": "https://www.technologyreview.com/2025/05/02/1116079/the-download-foreign-disinformation-intel-and-gene-edited-pork/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A senior Sta...",
-            "pubDate": "2025-05-02T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a9.png"
-        },
-        {
-            "title": "The US has approved CRISPR pigs for food",
-            "link": "https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/",
-            "description": "Most pigs in the US are confined to factory farms where they can be afflicted by a nasty respiratory virus that kills piglets. The illness is called p...",
-            "pubDate": "2025-05-02T09:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
