@@ -1,14 +1,28 @@
 {
     "title": "SevenAtSevenSection1",
-    "link": "http://example.com/interleaved_feed.json",
-    "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-08T12:49:57.805765",
+    "link": "http://example.com/feed",
+    "description": "Aggregated feed for SevenAtSevenSection1",
+    "lastBuildDate": "2025-05-08T15:05:44.824301",
     "items": [
+        {
+            "title": "How one writer quit dieting and discovered her strength through weightlifting",
+            "link": "https://www.npr.org/2025/05/08/nx-s1-5377615/weight-lifting-women-strength-training-running",
+            "description": "Casey Johnston spent years running and restricting calories. When she started weightlifting, she rebuilt muscle mass — and her relationship with her b...",
+            "pubDate": "2025-05-08T12:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2120x1414+0+0/resize/2120x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F8e%2F0552e5204c7c9d329b4c290be0ce%2Fgettyimages-1667790093.jpg"
+        },
+        {
+            "title": "A firing squad tried to shoot a prisoner in the heart. They missed, autopsy indicates",
+            "link": "https://www.npr.org/2025/05/08/nx-s1-5389846/firing-squad-south-carolina-death-penalty-execution",
+            "description": "The autopsy notes two bullet wounds even though there were three shooters, and a forensic expert says the misfires likely caused \"excruciating conscio...",
+            "pubDate": "2025-05-08T15:05:44.823328",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3399x2266+350+650/resize/3399x2266!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Ffa%2F2eb923234b3e8b724660b76c3c1b%2Fcurrent-photo-2023.jpg"
+        },
         {
             "title": "Former CDC staff warn of \"a five alarm fire\"",
             "link": "https://www.npr.org/sections/shots-health-news/2025/05/08/nx-s1-5391534/former-cdc-staff-warn-of-a-five-alarm-fire",
             "description": "The Centers for Disease Control and Prevention has laid off thousands of workers since January. Current and former CDC staff are grappling with uncert...",
-            "pubDate": "2025-05-08T17:45:08",
+            "pubDate": "2025-05-08T15:05:44.823358",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1536+0+0/resize/2048x1536!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F11%2F07141e2a4d5ab9becb8f136be99a%2Fimg-7473-beach-1.JPEG"
         },
         {
@@ -19,116 +33,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Fe1%2Fab2d004e46048fcb7451becb33a1%2Fkimberly-drennan.jpeg"
         },
         {
-            "title": "Holy white smoke, the Catholic Church has a new pope!",
+            "title": "Cardinal Robert Prevost becomes the first American pope, choosing the name Leo XIV",
             "link": "https://www.npr.org/2025/05/08/nx-s1-5385327/vatican-white-smoke-new-pope-conclave",
-            "description": "White smoke streamed from a chimney atop the Sistine Chapel, signaling to the world that the 133 cardinals inside have elected a new pope. But we don'...",
-            "pubDate": "2025-05-08T17:09:30",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2509x1673+0+0/resize/2509x1673!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F72%2F485b3e27414db9c96b4cd0353ec9%2Fap25128582700074.jpg"
-        },
-        {
-            "title": "Medicaid payments barely keep hospital mental health units afloat. Federal cuts could sink them",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/05/08/nx-s1-5389885/medicaid-payments-barely-keep-hospital-mental-health-units-afloat-federal-cuts-could-sink-them",
-            "description": "Patients seeking mental health care are more likely to be on Medicaid than patients in more profitable areas of care, such as cancer or cardiac treatm...",
-            "pubDate": "2025-05-08T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/4032x2688!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fab%2F4c2139b548b1b95d7578fd7db472%2Fspencerhospital-01.jpg"
-        },
-        {
-            "title": "How one writer quit dieting and discovered her strength through weightlifting",
-            "link": "https://www.npr.org/2025/05/08/nx-s1-5377615/weight-lifting-women-strength-training-running",
-            "description": "Casey Johnston spent years running and restricting calories. When she started weightlifting, she rebuilt muscle mass — and her relationship with her b...",
-            "pubDate": "2025-05-08T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2120x1414+0+0/resize/2120x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F8e%2F0552e5204c7c9d329b4c290be0ce%2Fgettyimages-1667790093.jpg"
-        },
-        {
-            "title": "Sequoia leads $1.5B tender offer for sales automation startup Clay",
-            "link": "https://techcrunch.com/2025/05/08/clay-authorizes-employee-tender-at-a-1-5b-valuation-led-by-sequoia/",
-            "description": "It took seven years of hard work for Kareem Amin, co-founder and CEO of sales automation startup Clay, to see the company’s product finally take off i...",
-            "pubDate": "2025-05-08T17:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Why We’re Buying Real Estate Before Serious Economic Risks Kick In",
-            "link": "https://www.biggerpockets.com/blog/on-the-market-319",
-            "description": "Economic risk is growing, and protecting/building your wealth could get more challenging. Stocks are overvalued, mortgage rates are high, and many Ame...",
-            "pubDate": "2025-05-08T12:00:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Smokey Robinson’s lawyer says rape allegations against him are ‘vile’ and ‘false’",
-            "link": "https://apnews.com/article/smokey-robinson-sexual-assault-rape-allegations-lawsuit-08049df432e11c820bfa4f23bf9b05ea",
-            "description": "",
-            "pubDate": "2025-05-08T04:33:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Exhibit your startup at TechCrunch Sessions: AI while you still can!",
-            "link": "https://techcrunch.com/2025/05/08/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/",
-            "description": "If you’ve been waiting for the right moment to act, this is it. You have just 24 hours left to secure your exhibit table at TechCrunch Sessions: AI an...",
-            "pubDate": "2025-05-08T17:39:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "OpenAI launches a data residency program in Asia",
-            "link": "https://techcrunch.com/2025/05/08/openai-launches-a-data-residency-program-in-asia/",
-            "description": "OpenAI is introducing a new data residency program in Asia, the company announced Thursday, following the rollout of its data residency program in Eur...",
-            "pubDate": "2025-05-08T15:34:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Starlink’s launch in India now a matter of when, not if",
-            "link": "https://techcrunch.com/2025/05/08/starlinks-launch-in-india-now-a-matter-of-when-not-if/",
-            "description": "Elon Musk’s Starlink has received anticipated state approval in India, opening the door to enter the world’s second-biggest internet market after Chin...",
-            "pubDate": "2025-05-08T17:28:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Bill Gates tells his foundation to spend it all by 2045",
-            "link": "https://techcrunch.com/2025/05/08/bill-gates-tells-his-foundation-to-spend-it-all-by-2045/",
-            "description": "The Gates Foundation is expected to spend $200 billion over the next 20 years to support causes related to health and human development.",
-            "pubDate": "2025-05-08T15:22:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Civil rights leaders say acquittals in Tyre Nichols’ death highlight the need for police reform",
-            "link": "https://apnews.com/article/tyre-nichols-police-reform-memphis-4be9f28531bb70e4be07c12dd8431d84",
-            "description": "",
-            "pubDate": "2025-05-08T02:25:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Deadly April rainfall in US South and Midwest was intensified by climate change, scientists say",
-            "link": "https://apnews.com/article/climate-change-flood-rain-south-midwest-9c25897fb9821c4cb3fe1f59878824fe",
-            "description": "Human-caused climate change intensified deadly rainfall in Kentucky, Tennessee, Arkansas and other states in early April and made it more likely to oc...",
-            "pubDate": "2025-05-08T07:13:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The Hidden Costs of Poor Deal Management—and How to Avoid Them",
-            "link": "https://www.biggerpockets.com/blog/the-hidden-costs-of-poor-deal-management-and-how-to-avoid-them",
-            "description": "Let me tell you about a deal I lost that still stings. A while back, I made a lowball offer on a property. The sellers weren’t interested—flat-out rej...",
-            "pubDate": "2025-05-07T19:15:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Rental Demand is Surging 3x Faster Than Homeownership—Here’s How to Catch the Wave",
-            "link": "https://www.biggerpockets.com/blog/capitalizing-on-americas-rental-wave-with-better-financing",
-            "description": "More Americans than ever are pressing pause on the dream of homeownership and turning to long-term rentals instead. And honestly, can you blame them? ...",
-            "pubDate": "2025-05-07T19:20:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "How Confident Are Builders? Q1 Data Reveals Insights",
-            "link": "https://www.biggerpockets.com/blog/building-permits-slow-nationally-while-select-markets-heat-up-q1-2025",
-            "description": "Every month, the NAHB/Wells Fargo Housing Market Index (HMI) tracks the sentiment of homebuilders nationwide. Rated from 0 to 100, a score greater tha...",
-            "pubDate": "2025-05-07T19:49:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "I Retired Early in My 40s WITHOUT Withdrawing from My Portfolio! | Life After FIRE",
-            "link": "https://www.biggerpockets.com/blog/money-638",
-            "description": "You CAN retire early in just ten years IF you save and invest enough. Fortunately, your retirement expenses may be less than you think. Chris Luger, f...",
-            "pubDate": "2025-05-07T12:00:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "description": "Cardinal Robert Prevost has been elected pope, the first time an American has led the Roman Catholic Church. Provost, 69, chose the name Pope Leo XIV.",
+            "pubDate": "2025-05-08T15:05:44.823413",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2648x1766+0+0/resize/2648x1766!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2Fbc%2Ff80295a6417489396fcd93f99957%2Fap25128626700383.jpg"
         }
     ]
 }
