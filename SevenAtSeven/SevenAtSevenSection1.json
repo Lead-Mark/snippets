@@ -1,29 +1,29 @@
 {
     "title": "SevenAtSevenSection1",
-    "link": "http://example.com/feed",
-    "description": "Aggregated feed for SevenAtSevenSection1",
-    "lastBuildDate": "2025-05-08T15:05:44.823826",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
+    "lastBuildDate": "2025-05-08T15:14:46.435785",
     "items": [
-        {
-            "title": "How one writer quit dieting and discovered her strength through weightlifting",
-            "link": "https://www.npr.org/2025/05/08/nx-s1-5377615/weight-lifting-women-strength-training-running",
-            "description": "Casey Johnston spent years running and restricting calories. When she started weightlifting, she rebuilt muscle mass — and her relationship with her b...",
-            "pubDate": "2025-05-08T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2120x1414+0+0/resize/2120x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F8e%2F0552e5204c7c9d329b4c290be0ce%2Fgettyimages-1667790093.jpg"
-        },
         {
             "title": "A firing squad tried to shoot a prisoner in the heart. They missed, autopsy indicates",
             "link": "https://www.npr.org/2025/05/08/nx-s1-5389846/firing-squad-south-carolina-death-penalty-execution",
             "description": "The autopsy notes two bullet wounds even though there were three shooters, and a forensic expert says the misfires likely caused \"excruciating conscio...",
-            "pubDate": "2025-05-08T15:05:44.823328",
+            "pubDate": "2025-05-08T19:41:05",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3399x2266+350+650/resize/3399x2266!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Ffa%2F2eb923234b3e8b724660b76c3c1b%2Fcurrent-photo-2023.jpg"
         },
         {
-            "title": "Former CDC staff warn of \"a five alarm fire\"",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/05/08/nx-s1-5391534/former-cdc-staff-warn-of-a-five-alarm-fire",
-            "description": "The Centers for Disease Control and Prevention has laid off thousands of workers since January. Current and former CDC staff are grappling with uncert...",
-            "pubDate": "2025-05-08T15:05:44.823358",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1536+0+0/resize/2048x1536!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F11%2F07141e2a4d5ab9becb8f136be99a%2Fimg-7473-beach-1.JPEG"
+            "title": "Trump pulls controversial pick for U.S. Attorney for D.C.",
+            "link": "https://www.npr.org/2025/05/08/nx-s1-5391840/trump-ed-martin-withdraws-nomination-prosecutor",
+            "description": "President Trump will replace his controversial pick, Ed Martin, for the role of top prosecutor in Washington, D.C. following bipartisan Senate opposit...",
+            "pubDate": "2025-05-08T20:03:09",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x2999+0+0/resize/4492x2999!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb8%2F15%2Fe84b8af64d1ca2c395c1a1262c97%2Fap25028646091865.jpg"
+        },
+        {
+            "title": "Cardinal Robert Prevost becomes the first American pope, choosing the name Leo XIV",
+            "link": "https://www.npr.org/2025/05/08/nx-s1-5385327/vatican-white-smoke-new-pope-conclave",
+            "description": "Cardinal Robert Prevost has been elected pope, the first time an American has led the Roman Catholic Church. Provost, 69, chose the name Pope Leo XIV.",
+            "pubDate": "2025-05-08T17:09:30",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2648x1766+0+0/resize/2648x1766!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2Fbc%2Ff80295a6417489396fcd93f99957%2Fap25128626700383.jpg"
         },
         {
             "title": "Americans are already seeing Trump's tariffs kick in. They sent in receipts to prove it",
@@ -33,11 +33,102 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Fe1%2Fab2d004e46048fcb7451becb33a1%2Fkimberly-drennan.jpeg"
         },
         {
-            "title": "Cardinal Robert Prevost becomes the first American pope, choosing the name Leo XIV",
-            "link": "https://www.npr.org/2025/05/08/nx-s1-5385327/vatican-white-smoke-new-pope-conclave",
-            "description": "Cardinal Robert Prevost has been elected pope, the first time an American has led the Roman Catholic Church. Provost, 69, chose the name Pope Leo XIV.",
-            "pubDate": "2025-05-08T15:05:44.823413",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2648x1766+0+0/resize/2648x1766!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2Fbc%2Ff80295a6417489396fcd93f99957%2Fap25128626700383.jpg"
+            "title": "Former CDC staff warn of \"a five alarm fire\"",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/05/08/nx-s1-5391534/former-cdc-staff-warn-of-a-five-alarm-fire",
+            "description": "The Centers for Disease Control and Prevention has laid off thousands of workers since January. Current and former CDC staff are grappling with uncert...",
+            "pubDate": "2025-05-08T17:45:08",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1536+0+0/resize/2048x1536!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F11%2F07141e2a4d5ab9becb8f136be99a%2Fimg-7473-beach-1.JPEG"
+        },
+        {
+            "title": "Cash-strapped Bureau of Prisons freezes some hiring to ‘avoid more extreme measures,’ director says",
+            "link": "https://apnews.com/article/bureau-of-prisons-staffing-trump-hiring-freeze-justice-department-1d1d892dccaf97db2c6fb8696e69ac51",
+            "description": "The Trump administration is halting some hiring at the federal Bureau of Prisons, the crisis-plagued agency where chronic understaffing has led to lon...",
+            "pubDate": "2025-05-08T15:06:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Why We’re Buying Real Estate Before Serious Economic Risks Kick In",
+            "link": "https://www.biggerpockets.com/blog/on-the-market-319",
+            "description": "Economic risk is growing, and protecting/building your wealth could get more challenging. Stocks are overvalued, mortgage rates are high, and many Ame...",
+            "pubDate": "2025-05-08T12:00:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Google launches ‘implicit caching’ to make accessing its latest AI models cheaper",
+            "link": "https://techcrunch.com/2025/05/08/google-launches-implicit-caching-to-make-accessing-its-latest-ai-models-cheaper/",
+            "description": "Google is rolling out a feature in its Gemini API that the company claims will make its latest AI models cheaper for third-party developers. Google ca...",
+            "pubDate": "2025-05-08T19:20:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Libraries Are Still Useful!",
+            "link": "https://www.biggerpockets.com/blog/libraries-are-still-useful",
+            "description": "Reading is something that I love to do. I also love watching TV, so don’t think I am over here, on my high horse, talking about how I just read […]",
+            "pubDate": "2025-05-08T19:10:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Prevost, now Pope Leo XIV, overcame a taboo against a US pontiff",
+            "link": "https://apnews.com/article/prevost-american-pope-profile-leo-xiv-f9d14d75ae3bbe50bda121f27ee0e42b",
+            "description": "",
+            "pubDate": "2025-05-08T14:52:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Meta taps former Google DeepMind director to lead its AI research lab",
+            "link": "https://techcrunch.com/2025/05/08/meta-taps-former-google-deepmind-director-to-lead-its-ai-research-lab/",
+            "description": "Meta has chosen Robert Fergus to lead its Fundamental AI Research (FAIR) lab, according to Bloomberg. Fergus had been working at Google DeepMind as a ...",
+            "pubDate": "2025-05-08T19:39:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Social media startup Fizz sues Instacart and Partiful for trademark infringement over new Fizz app",
+            "link": "https://techcrunch.com/2025/05/08/social-media-startup-fizz-sues-instacart-and-partiful-for-trademark-infringement-over-new-fizz-app/",
+            "description": "Social media startup Fizz is suing grocery delivery giant Instacart and party planning app Partiful for trademark infringement, the company announced ...",
+            "pubDate": "2025-05-08T20:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Instagram Threads is getting video ads",
+            "link": "https://techcrunch.com/2025/05/08/instagram-threads-is-getting-video-ads/",
+            "description": "Instagram Threads will begin testing video ads, Meta announced on Thursday. The test, which will make Threads look more like its competitor X, is an e...",
+            "pubDate": "2025-05-08T19:15:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Trump’s Proposed HUD Cuts and Section 8 Elimination: Implications For Investors and the Housing Market",
+            "link": "https://www.biggerpockets.com/blog/trump-administration-proposes-sweeping-cuts-to-hud-and-elimination-of-section-8",
+            "description": "President Trump’s recent budget proposal introduces significant reductions to the Department of Housing and Urban Development (HUD), aiming to reshape...",
+            "pubDate": "2025-05-08T17:04:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "No verdict, mistrial declared, in trial of Michigan police officer who killed Congolese immigrant",
+            "link": "https://apnews.com/article/police-shooting-patrick-lyoya-mistrial-christopher-schurr-1b3c23989215a684adf2eadc3356f566",
+            "description": "",
+            "pubDate": "2025-05-08T11:00:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Ex-Synapse CEO reportedly trying to raise $100M for his new humanoid robotics venture",
+            "link": "https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/",
+            "description": "Sankaet Pathak’s last startup, fintech Synapse, filed for bankruptcy in 2024 amid issues with partner Evolve Bank & Trust. Tens of millions of dollars...",
+            "pubDate": "2025-05-08T20:03:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Check Your Credit Card Statements EVERY Month",
+            "link": "https://www.biggerpockets.com/blog/check-your-credit-card-statements-every-month",
+            "description": "Your credit card company very helpfully sends you a list of every single item charged to your credit card. This is called a statement, and it comes ev...",
+            "pubDate": "2025-05-08T19:18:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "How Confident Are Builders? Q1 Data Reveals Insights",
+            "link": "https://www.biggerpockets.com/blog/building-permits-slow-nationally-while-select-markets-heat-up-q1-2025",
+            "description": "Every month, the NAHB/Wells Fargo Housing Market Index (HMI) tracks the sentiment of homebuilders nationwide. Rated from 0 to 100, a score greater tha...",
+            "pubDate": "2025-05-07T19:49:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

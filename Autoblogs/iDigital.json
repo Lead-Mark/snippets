@@ -1,71 +1,57 @@
 {
     "title": "iDigital",
-    "link": "http://example.com/feed",
-    "description": "Aggregated feed for iDigital",
-    "lastBuildDate": "2025-05-08T15:07:20.012225",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
+    "lastBuildDate": "2025-05-08T15:16:03.689918",
     "items": [
         {
-            "title": "I told my bank to fund a backdoor IRA, but my adviser left the money in the wrong account. Should I sue?",
-            "link": "https://www.marketwatch.com/story/i-told-my-bank-to-fund-a-backdoor-ira-but-my-adviser-left-the-money-in-the-wrong-account-should-i-sue-a612c511?mod=mw_rss_topstories",
-            "description": "“The return value of the IRA account increased about 20% that year.”",
-            "pubDate": "2025-05-08T15:07:20.011489",
-            "image_url": "https://images.mktw.net/im-25160474"
+            "title": "Mem0’s scalable memory promises more reliable AI agents that remembers context across lengthy conversations",
+            "link": "https://venturebeat.com/ai/mem0s-scalable-memory-promises-more-reliable-ai-agents-that-remembers-context-across-lengthy-conversations/",
+            "description": "Mem0's architecture is designed to LLM memory and enhance consistency for more reliable agent performance in long conversations.",
+            "pubDate": "2025-05-08T20:13:30",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/robot-recalling-past-conversations.webp?w=578"
         },
         {
             "title": "OpenAI names Instacart leader Fidji Simo as new CEO of Applications",
             "link": "https://venturebeat.com/ai/openai-names-instacart-leader-fidji-simo-as-new-ceo-of-applications/",
             "description": "Simo’s appointment may also hint at a broader productization push within OpenAI. Her background at Facebook and Instacart underscores...",
-            "pubDate": "2025-05-08T15:07:20.011506",
+            "pubDate": "2025-05-08T16:25:24",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_httpss.mj_.runtlTnPxtQCV0_woman_opens_a_door_leading_to__e604197a-033b-4816-8673-03508edea2d4.png?w=578"
-        },
-        {
-            "title": "Egg lovers can’t get a break. Vital Farms to raise prices because of tariffs.",
-            "link": "https://www.marketwatch.com/story/egg-lovers-cant-get-a-break-vital-farms-to-raise-prices-because-of-tariffs-76f5ac42?mod=mw_rss_topstories",
-            "description": "Citing effects of tariffs, Vital Farms tells retail partners like Kroger, Target and Whole Foods that it will raise egg prices at least 10% this month...",
-            "pubDate": "2025-05-08T15:07:20.011520",
-            "image_url": "https://images.mktw.net/im-12882473"
-        },
-        {
-            "title": "Imagination unveils E-Series GPUs for graphics and AI at the edge",
-            "link": "https://venturebeat.com/games/imagination-unveils-e-series-gpus-for-graphics-and-ai-at-the-edge/",
-            "description": "Imagination Technologies is unveiling its E-Series graphics processing units (GPUs) for graphics and AI processing at the edge.",
-            "pubDate": "2025-05-08T08:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/imagination-6.jpg?w=578"
-        },
-        {
-            "title": "Burger King parent saw slower start to the year as revenue and earnings miss marks",
-            "link": "https://www.marketwatch.com/story/burger-king-parent-saw-slower-start-to-the-year-as-revenue-and-earnings-miss-marks-9c8d39ba?mod=mw_rss_topstories",
-            "description": "Restaurant Brands is the latest fast-food giant to cite weak first-quarter demand.",
-            "pubDate": "2025-05-08T15:07:20.011561",
-            "image_url": "https://images.mktw.net/im-33689182"
-        },
-        {
-            "title": "Krispy Kreme rethinks McDonald’s partnership, scraps dividend to save cash",
-            "link": "https://www.marketwatch.com/story/krispy-kreme-scraps-dividend-to-save-cash-and-the-stock-sinks-to-record-low-d32b1750?mod=mw_rss_topstories",
-            "description": "Krispy Kreme’s stock suffering a record plunge after the doughnut seller scraps its dividend, reassesses its McDonald’s arrangement and reports downbe...",
-            "pubDate": "2025-05-08T15:07:20.011575",
-            "image_url": "https://images.mktw.net/im-38657325"
-        },
-        {
-            "title": "Nvidia welcomes Trump’s proposal to rescind global chip restrictions",
-            "link": "https://venturebeat.com/gaming-business/nvidia-welcomes-trumps-proposal-to-rescind-global-chip-restrictions/",
-            "description": "Donald Trump's administration is expected to rescind Joe Biden's curbs on AI chip sales as part of a broader effort to revise semiconductor restrictio...",
-            "pubDate": "2025-05-08T07:20:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nvidia-link-system.jpg?w=578"
-        },
-        {
-            "title": "Nvidia’s Jensen Huang fears losing the Chinese market. One analyst says that’s short-term thinking.",
-            "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-fears-losing-the-chinese-market-one-analyst-says-thats-short-term-thinking-ca487a9f?mod=mw_rss_topstories",
-            "description": "While Nvidia could get shut out of China, it has a big opportunity to grow in other international markets over time.",
-            "pubDate": "2025-05-08T15:07:20.011602",
-            "image_url": "https://images.mktw.net/im-35285272"
         },
         {
             "title": "Uber investing $100M into WeRide to bring robotaxis to 15 cities",
             "link": "https://www.therobotreport.com/uber-to-invest-100m-into-weride-to-bring-robotaxis-to-15-cities/",
             "description": "This expansion follows WeRide's AV launch in Abu Dhabi, and plans to launch a service in Dubai soon, with new cities in Europe to follow. The post Ube...",
-            "pubDate": "2025-05-08T15:07:20.011616",
+            "pubDate": "2025-05-08T18:56:15",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/uber-weride-featured.jpg"
+        },
+        {
+            "title": "This retiree figured out a way to pay almost no taxes. Here’s his secret.",
+            "link": "https://www.marketwatch.com/story/this-retiree-figured-out-a-way-to-pay-almost-no-taxes-heres-his-secret-966219ca?mod=mw_rss_topstories",
+            "description": "A Fix My Portfolio reader shares how they avoided a “tax bomb” in retirement through Roth conversions and careful financial planning.",
+            "pubDate": "2025-05-08T18:43:00",
+            "image_url": "https://images.mktw.net/im-41244493"
+        },
+        {
+            "title": "Trump rolls out U.K. trade agreement. It’s a relief — but deals with other countries are more crucial.",
+            "link": "https://www.marketwatch.com/story/trump-rolls-out-u-k-trade-agreement-its-a-relief-but-deals-with-other-nations-are-more-crucial-eb8358d8?mod=mw_rss_topstories",
+            "description": "President Donald Trump on Thursday said his administration has reached a preliminary deal with the U.K. on trade, offering a bit of relief to investor...",
+            "pubDate": "2025-05-08T18:27:00",
+            "image_url": "https://images.mktw.net/im-76723492"
+        },
+        {
+            "title": "MicroStrategy’s stock surges to highest price this year as bitcoin regains $100K",
+            "link": "https://www.marketwatch.com/story/microstrategys-stock-surges-to-highest-price-this-year-as-bitcoin-regains-100k-418cd845?mod=mw_rss_topstories",
+            "description": "Bitcoin’s rally boosts the value of the cryptocurrency Strategy has purchased this year by more than $830 million.",
+            "pubDate": "2025-05-08T19:40:00",
+            "image_url": "https://images.mktw.net/im-83699625"
+        },
+        {
+            "title": "Empty shelves, for-lease signs and job layoffs point to recession by summer",
+            "link": "https://www.marketwatch.com/story/empty-shelves-for-lease-signs-and-job-layoffs-point-to-recession-by-summer-697ff68b?mod=mw_rss_topstories",
+            "description": "Stop the trade flow and you stop the economy — as Americans are about to learn.",
+            "pubDate": "2025-05-08T20:11:00",
+            "image_url": "https://images.mktw.net/im-45951373"
         },
         {
             "title": "The Download: AI benchmarks, and Spain’s grid blackout",
@@ -75,11 +61,46 @@
             "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f9e0.png"
         },
         {
-            "title": "The Download: Neuralink’s AI boost, and Trump’s tariffs",
-            "link": "https://www.technologyreview.com/2025/05/07/1116147/the-download-neuralinks-ai-boost-and-trumps-tariffs/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This patient...",
-            "pubDate": "2025-05-07T13:10:00",
-            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdHf8m6XODkAEaqMBSd9bl8L5RA3yQUi3kUTb89DN-8rQSiOg-IALHngbIH9amQRbDtXBRgvr9PzUT9GC4yrZveepXTsPl2j7SlxCtUv3nktVa1eouSPGe7U3ljc8D6AH8KZJQW3Q?key=3P2bj8ERLXyUYixWmVlYtw"
+            "title": "Nvidia welcomes Trump’s proposal to rescind global chip restrictions",
+            "link": "https://venturebeat.com/gaming-business/nvidia-welcomes-trumps-proposal-to-rescind-global-chip-restrictions/",
+            "description": "Donald Trump's administration is expected to rescind Joe Biden's curbs on AI chip sales as part of a broader effort to revise semiconductor restrictio...",
+            "pubDate": "2025-05-08T07:20:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nvidia-link-system.jpg?w=578"
+        },
+        {
+            "title": "Imagination unveils E-Series GPUs for graphics and AI at the edge",
+            "link": "https://venturebeat.com/games/imagination-unveils-e-series-gpus-for-graphics-and-ai-at-the-edge/",
+            "description": "Imagination Technologies is unveiling its E-Series graphics processing units (GPUs) for graphics and AI processing at the edge.",
+            "pubDate": "2025-05-08T08:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/imagination-6.jpg?w=578"
+        },
+        {
+            "title": "‘We live modestly’: My wife and I have $900K in stocks and $380K in savings and CDs. Do we have too much cash?",
+            "link": "https://www.marketwatch.com/story/we-live-modestly-my-wife-and-i-have-900k-in-stocks-and-380k-in-savings-and-cds-are-we-holding-too-much-cash-a8da648a?mod=mw_rss_topstories",
+            "description": "“My investment adviser says we have too much invested in cash instruments.”",
+            "pubDate": "2025-05-08T18:12:00",
+            "image_url": "https://images.mktw.net/im-24565250"
+        },
+        {
+            "title": "Alibaba’s ‘ZeroSearch’ lets AI learn to google itself — slashing training costs by 88 percent",
+            "link": "https://venturebeat.com/ai/alibabas-zerosearch-lets-ai-learn-to-google-itself-slashing-training-costs-by-88-percent/",
+            "description": "Alibaba’s ZeroSearch trains large language models to beat Google Search and slash API costs by 88%, redefining how AI learns to retrieve information.",
+            "pubDate": "2025-05-08T20:15:29",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_web_search_b324c6ac-bcd1-4106-8ed1-dd4969cc9e5b.webp?w=578"
+        },
+        {
+            "title": "How to build a better AI benchmark",
+            "link": "https://www.technologyreview.com/2025/05/08/1116192/how-to-build-a-better-ai-benchmark/",
+            "description": "It’s not easy being one of Silicon Valley’s favorite benchmarks. SWE-Bench (pronounced “swee bench”) launched in November 2024 to evaluate an AI model...",
+            "pubDate": "2025-05-08T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Did solar power cause Spain’s blackout?",
+            "link": "https://www.technologyreview.com/2025/05/08/1116166/spain-blackout-grid/",
+            "description": "At roughly midday on Monday, April 28, the lights went out in Spain. The grid blackout, which extended into parts of Portugal and France, affected ten...",
+            "pubDate": "2025-05-08T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Amazon’s Vulcan robot uses force sensing to stow items",
@@ -89,13 +110,6 @@
             "image_url": "https://assets.aboutamazon.com/4a/6e/72515ee04afca2520cd3a6781dca/about-amazon-inline-inline006-aa-vulcan-amazon-ham2-still-8-copy-3453x1942.jpg"
         },
         {
-            "title": "RoboBusiness 2025 call for speakers now open",
-            "link": "https://www.therobotreport.com/robobusiness-2025-call-for-speakers-now-open/",
-            "description": "In addition to enabling tech and robotics development, RoboBusiness focuses on investments and business challenges. Deadline to submit is June 20. The...",
-            "pubDate": "2025-05-07T16:22:52",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/048A0583.jpg"
-        },
-        {
             "title": "The business of the future is adaptive",
             "link": "https://www.technologyreview.com/2025/05/07/1116098/the-business-of-the-future-is-adaptive/",
             "description": "Manufacturing is in a state of flux. From supply chain disruptions to rising costs, tougher environmental regulations, and a changing consumer market,...",
@@ -103,18 +117,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/05/cover-FINAL-MIT_SiemensR2_V10_050625.pdf.jpg?w=1556"
         },
         {
-            "title": "Mistral comes out swinging for enterprise AI customers with new Le Chat Enterprise, Medium 3 model",
-            "link": "https://venturebeat.com/ai/mistral-comes-out-swinging-for-enterprise-ai-customers-with-new-le-chat-enterprise-medium-3-model/",
-            "description": "Mistral AI is making a concerted push to lower the barriers to scalable, privacy-respecting AI adoption for modern enterprises.",
-            "pubDate": "2025-05-07T16:13:39",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_minimalist_beige_and_orange_angular_giant_robot_mecha_w_9816ffda-3d40-4e8c-b222-07d410659cf0.png?w=578"
+            "title": "RoboBusiness 2025 call for speakers now open",
+            "link": "https://www.therobotreport.com/robobusiness-2025-call-for-speakers-now-open/",
+            "description": "In addition to enabling tech and robotics development, RoboBusiness focuses on investments and business challenges. Deadline to submit is June 20. The...",
+            "pubDate": "2025-05-07T16:22:52",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/048A0583.jpg"
         },
         {
-            "title": "Anthropic launches Claude web search API, betting on the future of post-Google information access",
-            "link": "https://venturebeat.com/ai/anthropic-launches-claude-web-search-api-betting-on-the-future-of-post-google-information-access/",
-            "description": "Anthropic launches web search API for Claude as Apple considers AI search alternatives to Google, signaling a major shift in how users discover inform...",
-            "pubDate": "2025-05-07T23:01:33",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_a_web_search_globe_logo_image_in_a_burn_8efb6e98-b2a2-41f3-9ea9-d2f504a1eb45.webp?w=578"
+            "title": "The Download: Neuralink’s AI boost, and Trump’s tariffs",
+            "link": "https://www.technologyreview.com/2025/05/07/1116147/the-download-neuralinks-ai-boost-and-trumps-tariffs/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This patient...",
+            "pubDate": "2025-05-07T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdHf8m6XODkAEaqMBSd9bl8L5RA3yQUi3kUTb89DN-8rQSiOg-IALHngbIH9amQRbDtXBRgvr9PzUT9GC4yrZveepXTsPl2j7SlxCtUv3nktVa1eouSPGe7U3ljc8D6AH8KZJQW3Q?key=3P2bj8ERLXyUYixWmVlYtw"
         },
         {
             "title": "Teradyne Robotics makes leadership changes at MiR, UR",
@@ -124,6 +138,13 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/Jean-Pierre-Hathout-headshot.jpg"
         },
         {
+            "title": "Recapping Robotics Summit & Expo 2025",
+            "link": "https://www.therobotreport.com/recapping-robotics-summit-expo-2025/",
+            "description": "We recap the Robotics Summit & Expo 2025 with a live feed from the show floor in Boston. The post Recapping Robotics Summit & Expo 2025 appeared first...",
+            "pubDate": "2025-05-06T21:51:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
@@ -131,18 +152,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",

@@ -2,13 +2,27 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-08T15:07:12.052559",
+    "lastBuildDate": "2025-05-08T15:16:03.692611",
     "items": [
+        {
+            "title": "Alibaba’s ‘ZeroSearch’ lets AI learn to google itself — slashing training costs by 88 percent",
+            "link": "https://venturebeat.com/ai/alibabas-zerosearch-lets-ai-learn-to-google-itself-slashing-training-costs-by-88-percent/",
+            "description": "Alibaba’s ZeroSearch trains large language models to beat Google Search and slash API costs by 88%, redefining how AI learns to retrieve information.",
+            "pubDate": "2025-05-08T20:15:29",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_web_search_b324c6ac-bcd1-4106-8ed1-dd4969cc9e5b.webp?w=578"
+        },
+        {
+            "title": "Mem0’s scalable memory promises more reliable AI agents that remembers context across lengthy conversations",
+            "link": "https://venturebeat.com/ai/mem0s-scalable-memory-promises-more-reliable-ai-agents-that-remembers-context-across-lengthy-conversations/",
+            "description": "Mem0's architecture is designed to LLM memory and enhance consistency for more reliable agent performance in long conversations.",
+            "pubDate": "2025-05-08T20:13:30",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/robot-recalling-past-conversations.webp?w=578"
+        },
         {
             "title": "OpenAI names Instacart leader Fidji Simo as new CEO of Applications",
             "link": "https://venturebeat.com/ai/openai-names-instacart-leader-fidji-simo-as-new-ceo-of-applications/",
             "description": "Simo’s appointment may also hint at a broader productization push within OpenAI. Her background at Facebook and Instacart underscores...",
-            "pubDate": "2025-05-08T15:07:12.052196",
+            "pubDate": "2025-05-08T16:25:24",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_httpss.mj_.runtlTnPxtQCV0_woman_opens_a_door_leading_to__e604197a-033b-4816-8673-03508edea2d4.png?w=578"
         },
         {
@@ -24,20 +38,6 @@
             "description": "Donald Trump's administration is expected to rescind Joe Biden's curbs on AI chip sales as part of a broader effort to revise semiconductor restrictio...",
             "pubDate": "2025-05-08T07:20:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/01/nvidia-link-system.jpg?w=578"
-        },
-        {
-            "title": "Anthropic launches Claude web search API, betting on the future of post-Google information access",
-            "link": "https://venturebeat.com/ai/anthropic-launches-claude-web-search-api-betting-on-the-future-of-post-google-information-access/",
-            "description": "Anthropic launches web search API for Claude as Apple considers AI search alternatives to Google, signaling a major shift in how users discover inform...",
-            "pubDate": "2025-05-07T23:01:33",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_a_web_search_globe_logo_image_in_a_burn_8efb6e98-b2a2-41f3-9ea9-d2f504a1eb45.webp?w=578"
-        },
-        {
-            "title": "Mistral comes out swinging for enterprise AI customers with new Le Chat Enterprise, Medium 3 model",
-            "link": "https://venturebeat.com/ai/mistral-comes-out-swinging-for-enterprise-ai-customers-with-new-le-chat-enterprise-medium-3-model/",
-            "description": "Mistral AI is making a concerted push to lower the barriers to scalable, privacy-respecting AI adoption for modern enterprises.",
-            "pubDate": "2025-05-07T16:13:39",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_minimalist_beige_and_orange_angular_giant_robot_mecha_w_9816ffda-3d40-4e8c-b222-07d410659cf0.png?w=578"
         }
     ]
 }

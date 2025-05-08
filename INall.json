@@ -1,7 +1,148 @@
 {
     "title": "INall",
-    "link": "http://example.com/feed",
-    "description": "Aggregated feed for INall",
-    "lastBuildDate": "2025-05-08T15:00:34.908633",
-    "items": []
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from INall, skipping any feeds with errors.",
+    "lastBuildDate": "2025-05-08T15:15:35.907711",
+    "items": [
+        {
+            "title": "Delta updates mobile app with Live Activity support and more",
+            "link": "https://thepointsguy.com/news/fly-delta-app-update/",
+            "description": "Delta Air Lines is giving you another reason to download (or update) its mobile app. The Atlanta-based carrier just announced its latest app release, ...",
+            "pubDate": "2025-05-08T16:06:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Burger King parent saw slower start to the year as revenue and earnings miss marks",
+            "link": "https://www.marketwatch.com/story/burger-king-parent-saw-slower-start-to-the-year-as-revenue-and-earnings-miss-marks-9c8d39ba?mod=mw_rss_topstories",
+            "description": "Restaurant Brands is the latest fast-food giant to cite weak first-quarter demand.",
+            "pubDate": "2025-05-08T18:33:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Exhibit your startup at TechCrunch Sessions: AI while you still can!",
+            "link": "https://techcrunch.com/2025/05/08/exhibit-your-startup-at-techcrunch-sessions-ai-while-you-still-can/",
+            "description": "If you’ve been waiting for the right moment to act, this is it. You have just 24 hours left to secure your exhibit table at TechCrunch Sessions: AI an...",
+            "pubDate": "2025-05-08T18:39:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Benefit cut for top-tier Delta elite members as airline shakes up boarding process",
+            "link": "https://thepointsguy.com/news/delta-air-lines-boarding-process/",
+            "description": "There’s been a downgrade for Delta Air Lines’ top-tier Delta 360 elite members as Delta shakes up the boarding process again. Delta 360 is Delta’s inv...",
+            "pubDate": "2025-05-08T16:06:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "7 Best Dehumidifiers We’ve Tested and Reviewed (2025)",
+            "link": "https://www.wired.com/gallery/best-dehumidifiers/",
+            "description": "If you care about good air, it’s time for a dehumidifier. These are the ones we recommend for everything from basements to drying laundry.",
+            "pubDate": "2025-05-08T17:04:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Chase Sapphire Preferred Card review: Last chance to earn 100K Chase Ultimate Rewards points",
+            "link": "https://thepointsguy.com/guide/chase-sapphire-preferred-review/",
+            "description": "Editor’s note: This is a recurring post, regularly updated with new information and offers. Chase Sapphire Preferred Card overview The Chase Sapphire ...",
+            "pubDate": "2025-05-08T16:06:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "8 Best Flower Delivery Services of 2025, Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-flower-delivery-service/",
+            "description": "Let’s skip the sad grocery store bouquet this Mother’s Day. These flower delivery services do the heavy lifting for you—just don’t forget the card.",
+            "pubDate": "2025-05-08T16:38:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Tokyo Narita vs. Haneda: Which airport should I fly into?",
+            "link": "https://thepointsguy.com/guide/tokyo-narita-vs-haneda-which-airport-should-i-fly-into/",
+            "description": "Editor’s note: This is a recurring post updated frequently with new offers and information. Tokyo remains a perennial tourist favorite, attracting a r...",
+            "pubDate": "2025-05-08T16:06:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Reviewers Are Ditching Melatonin For This Gentle Sleep Supplement",
+            "link": "https://www.mindbodygreen.com/articles/this-sleep-supplement-is-more-effective-and-safer-than-melatonin-know-about-the-benefits",
+            "description": "Prepare to snooze.",
+            "pubDate": "2025-05-08T12:20:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "PSA: Both Collagen & Hyaluronic Acid Drop Dramatically By Your 50s",
+            "link": "https://www.mindbodygreen.com/articles/collagen-and-hyaluronic-acid-declines-by-your-50s-what-to-do-how-to-deal-with-it",
+            "description": "Our skin goes through lots of changes throughout our lifetime—including collagen and hyaluronic acid decline in our 50s. Here, how to deal.",
+            "pubDate": "2025-05-08T12:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Sequoia leads $1.5B tender offer for sales automation startup Clay",
+            "link": "https://techcrunch.com/2025/05/08/clay-authorizes-employee-tender-at-a-1-5b-valuation-led-by-sequoia/",
+            "description": "It took seven years of hard work for Kareem Amin, co-founder and CEO of sales automation startup Clay, to see the company’s product finally take off i...",
+            "pubDate": "2025-05-08T18:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Study Shows This Is The Best Way To Exercise Your Way To Perfect Poops",
+            "link": "https://www.mindbodygreen.com/articles/this-is-how-your-workouts-impact-your-poop-schedule-could-experience-stomach-cramps",
+            "description": "Turns out, how you move plays a huge role in the digestive process.",
+            "pubDate": "2025-05-08T12:05:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "I told my bank to fund a backdoor IRA, but my adviser left the money in the wrong account. Should I sue?",
+            "link": "https://www.marketwatch.com/story/i-told-my-bank-to-fund-a-backdoor-ira-but-my-adviser-left-the-money-in-the-wrong-account-should-i-sue-a612c511?mod=mw_rss_topstories",
+            "description": "“The return value of the IRA account increased about 20% that year.”",
+            "pubDate": "2025-05-08T17:49:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Nvidia’s Jensen Huang fears losing the Chinese market. One analyst says that’s short-term thinking.",
+            "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-fears-losing-the-chinese-market-one-analyst-says-thats-short-term-thinking-ca487a9f?mod=mw_rss_topstories",
+            "description": "While Nvidia could get shut out of China, it has a big opportunity to grow in other international markets over time.",
+            "pubDate": "2025-05-08T18:06:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Egg lovers can’t get a break. Vital Farms to raise prices because of tariffs.",
+            "link": "https://www.marketwatch.com/story/egg-lovers-cant-get-a-break-vital-farms-to-raise-prices-because-of-tariffs-76f5ac42?mod=mw_rss_topstories",
+            "description": "Citing effects of tariffs, Vital Farms tells retail partners like Kroger, Target and Whole Foods that it will raise egg prices at least 10% this month...",
+            "pubDate": "2025-05-08T18:23:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "My second wife says her 2 kids should inherit our estate, but I also have 2 kids. Is that fair?",
+            "link": "https://www.marketwatch.com/story/my-second-wife-says-her-2-kids-should-inherit-our-estate-but-i-also-have-2-kids-is-that-fair-22c71a86?mod=mw_rss_topstories",
+            "description": "“I will leave the $1 million inheritance I received from my parents to my biological daughters.”",
+            "pubDate": "2025-05-08T17:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "The best ways to use your Chase 5/24 slots",
+            "link": "https://thepointsguy.com/guide/the-best-ways-to-use-your-5-24-slots/",
+            "description": "Editor’s note: This is a recurring post, regularly updated with new information and offers. Due to Chase’s restrictions on credit-card applications, t...",
+            "pubDate": "2025-05-08T16:06:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Starlink’s launch in India now a matter of when, not if",
+            "link": "https://techcrunch.com/2025/05/08/starlinks-launch-in-india-now-a-matter-of-when-not-if/",
+            "description": "Elon Musk’s Starlink has received anticipated state approval in India, opening the door to enter the world’s second-biggest internet market after Chin...",
+            "pubDate": "2025-05-08T18:28:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "The 3 Habits You Need To Start Doing Immediately For Healthier, Brighter Skin",
+            "link": "https://www.mindbodygreen.com/articles/3-beauty-habits-to-start-now-for-brighter-skin-try-using-retinol-enlist-an-antioxidant-serum-commit-to-daily-face-massage",
+            "description": "They'll give you the biggest ROI.",
+            "pubDate": "2025-05-08T13:09:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "I've Taken This Sleep Supplement For Over A Year & It Still Works Like A Charm*",
+            "link": "https://www.mindbodygreen.com/articles/how-mbgs-sleep-support-helps-me-sleep-well-and-wake-up-energized-or-support",
+            "description": "I look forward to continuing to take it night after sleepy night.",
+            "pubDate": "2025-05-08T12:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        }
+    ]
 }

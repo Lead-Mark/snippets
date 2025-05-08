@@ -1,43 +1,92 @@
 {
     "title": "TGaceAllStories",
-    "link": "http://example.com/feed",
-    "description": "Aggregated feed for TGaceAllStories",
-    "lastBuildDate": "2025-05-08T15:06:55.810422",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from TGaceAllStories, skipping any feeds with errors.",
+    "lastBuildDate": "2025-05-08T15:15:44.978255",
     "items": [
         {
-            "title": "Krispy Kreme rethinks McDonald’s partnership, scraps dividend to save cash",
-            "link": "https://www.marketwatch.com/story/krispy-kreme-scraps-dividend-to-save-cash-and-the-stock-sinks-to-record-low-d32b1750?mod=mw_rss_topstories",
-            "description": "Krispy Kreme’s stock suffering a record plunge after the doughnut seller scraps its dividend, reassesses its McDonald’s arrangement and reports downbe...",
-            "pubDate": "2025-05-08T15:06:55.810107",
-            "image_url": "https://images.mktw.net/im-38657325"
+            "title": "Empty shelves, for-lease signs and job layoffs point to recession by summer",
+            "link": "https://www.marketwatch.com/story/empty-shelves-for-lease-signs-and-job-layoffs-point-to-recession-by-summer-697ff68b?mod=mw_rss_topstories",
+            "description": "Stop the trade flow and you stop the economy — as Americans are about to learn.",
+            "pubDate": "2025-05-08T20:11:00",
+            "image_url": "https://images.mktw.net/im-45951373"
         },
         {
-            "title": "Burger King parent saw slower start to the year as revenue and earnings miss marks",
-            "link": "https://www.marketwatch.com/story/burger-king-parent-saw-slower-start-to-the-year-as-revenue-and-earnings-miss-marks-9c8d39ba?mod=mw_rss_topstories",
-            "description": "Restaurant Brands is the latest fast-food giant to cite weak first-quarter demand.",
-            "pubDate": "2025-05-08T15:06:55.810128",
-            "image_url": "https://images.mktw.net/im-33689182"
+            "title": "‘We live modestly’: My wife and I have $900K in stocks and $380K in savings and CDs. Do we have too much cash?",
+            "link": "https://www.marketwatch.com/story/we-live-modestly-my-wife-and-i-have-900k-in-stocks-and-380k-in-savings-and-cds-are-we-holding-too-much-cash-a8da648a?mod=mw_rss_topstories",
+            "description": "“My investment adviser says we have too much invested in cash instruments.”",
+            "pubDate": "2025-05-08T18:12:00",
+            "image_url": "https://images.mktw.net/im-24565250"
         },
         {
-            "title": "Egg lovers can’t get a break. Vital Farms to raise prices because of tariffs.",
-            "link": "https://www.marketwatch.com/story/egg-lovers-cant-get-a-break-vital-farms-to-raise-prices-because-of-tariffs-76f5ac42?mod=mw_rss_topstories",
-            "description": "Citing effects of tariffs, Vital Farms tells retail partners like Kroger, Target and Whole Foods that it will raise egg prices at least 10% this month...",
-            "pubDate": "2025-05-08T15:06:55.810144",
-            "image_url": "https://images.mktw.net/im-12882473"
+            "title": "MicroStrategy’s stock surges to highest price this year as bitcoin regains $100K",
+            "link": "https://www.marketwatch.com/story/microstrategys-stock-surges-to-highest-price-this-year-as-bitcoin-regains-100k-418cd845?mod=mw_rss_topstories",
+            "description": "Bitcoin’s rally boosts the value of the cryptocurrency Strategy has purchased this year by more than $830 million.",
+            "pubDate": "2025-05-08T19:40:00",
+            "image_url": "https://images.mktw.net/im-83699625"
         },
         {
-            "title": "Nvidia’s Jensen Huang fears losing the Chinese market. One analyst says that’s short-term thinking.",
-            "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-fears-losing-the-chinese-market-one-analyst-says-thats-short-term-thinking-ca487a9f?mod=mw_rss_topstories",
-            "description": "While Nvidia could get shut out of China, it has a big opportunity to grow in other international markets over time.",
-            "pubDate": "2025-05-08T15:06:55.810160",
-            "image_url": "https://images.mktw.net/im-35285272"
+            "title": "Trump rolls out U.K. trade agreement. It’s a relief — but deals with other countries are more crucial.",
+            "link": "https://www.marketwatch.com/story/trump-rolls-out-u-k-trade-agreement-its-a-relief-but-deals-with-other-nations-are-more-crucial-eb8358d8?mod=mw_rss_topstories",
+            "description": "President Donald Trump on Thursday said his administration has reached a preliminary deal with the U.K. on trade, offering a bit of relief to investor...",
+            "pubDate": "2025-05-08T18:27:00",
+            "image_url": "https://images.mktw.net/im-76723492"
         },
         {
-            "title": "I told my bank to fund a backdoor IRA, but my adviser left the money in the wrong account. Should I sue?",
-            "link": "https://www.marketwatch.com/story/i-told-my-bank-to-fund-a-backdoor-ira-but-my-adviser-left-the-money-in-the-wrong-account-should-i-sue-a612c511?mod=mw_rss_topstories",
-            "description": "“The return value of the IRA account increased about 20% that year.”",
-            "pubDate": "2025-05-08T15:06:55.810176",
-            "image_url": "https://images.mktw.net/im-25160474"
+            "title": "This retiree figured out a way to pay almost no taxes. Here’s his secret.",
+            "link": "https://www.marketwatch.com/story/this-retiree-figured-out-a-way-to-pay-almost-no-taxes-heres-his-secret-966219ca?mod=mw_rss_topstories",
+            "description": "A Fix My Portfolio reader shares how they avoided a “tax bomb” in retirement through Roth conversions and careful financial planning.",
+            "pubDate": "2025-05-08T18:43:00",
+            "image_url": "https://images.mktw.net/im-41244493"
+        },
+        {
+            "title": "Alphabet faces 'watershed moment' if AI erodes search dominance, analysts say",
+            "link": "https://www.cnbc.com/2025/05/08/alphabet-faces-watershed-moment-if-search-dominance-erodes-analysts-say.html",
+            "description": "Some analysts on Wall Street say that cracks are beginning to appear in Alphabet's armor.",
+            "pubDate": "2025-05-08T18:46:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Best Stocks: The unique internet retailer that's cheap, trending higher and a possible trade war winner",
+            "link": "https://www.cnbc.com/2025/05/08/best-stocks-the-unique-internet-retailer-thats-cheap-trending-higher-and-a-possible-trade-war-winner.html",
+            "description": "Josh Brown and Sean Russo of Ritholtz Wealth Management profile eBay.",
+            "pubDate": "2025-05-08T17:58:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Sezzle Stock Soars After Stellar Q1 Earnings: What’s Driving the Surge and What Traders Need to Know",
+            "link": "https://ragingbull.com/editorial/sezzle-stock-soars-after-stellar-q1-earnings-whats-driving-the-surge-and-what-traders-need-to-know/",
+            "description": "Listen up, folks! If you’re scanning the market for action, Sezzle Inc. (NASDAQ: SEZL) is screaming for attention today, rocketing nearly 50% as of th...",
+            "pubDate": "2025-05-08T16:14:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Dan Ives names his favorite ways to play the AI revolution from here",
+            "link": "https://www.cnbc.com/2025/05/08/dan-ives-names-his-favorite-ways-to-play-the-ai-revolution-from-here.html",
+            "description": "While President Trump's tariffs have spurred worries about artificial intelligence, Wedbush's Dan Ives thinks it's still full-steam ahead for the indu...",
+            "pubDate": "2025-05-08T18:21:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Josh Brown on the UK trade deal rally and how he's playing it",
+            "link": "https://www.cnbc.com/2025/05/08/josh-brown-on-the-uk-trade-deal-rally-and-how-hes-playing-it.html",
+            "description": "The Ritholtz Wealth CEO said investors are enjoying a recent batch of positive headlines.",
+            "pubDate": "2025-05-08T18:54:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Dave Inc. (DAVE) Skyrockets After Smashing Q1 Earnings: What’s Driving the Surge?",
+            "link": "https://ragingbull.com/editorial/dave-inc-dave-skyrockets-after-smashing-q1-earnings-whats-driving-the-surge/",
+            "description": "Bam! The market’s buzzing today, and Dave Inc. (DAVE) is stealing the spotlight, rocketing over 35% as of this writing. Why? This digital banking dyna...",
+            "pubDate": "2025-05-08T16:25:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "This stock tied to crypto is breaking out as bitcoin retests $100,000 level, according to the charts",
+            "link": "https://www.cnbc.com/2025/05/08/this-stock-tied-to-crypto-is-breaking-out-as-bitcoin-retests-100000-level-according-to-the-charts.html",
+            "description": "If we see a successful push above the $100,000 level, this stock could just be in the early stages of a new bullish trend phase.",
+            "pubDate": "2025-05-08T18:53:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "The Minor Leaguers",
@@ -45,6 +94,20 @@
             "description": "Hey! My friend Steve Strazza over at All Star Charts just released a new “Minor Leaguers” letter Monday. He’s focusing on identifying small-cap stocks...",
             "pubDate": "2025-05-07T19:40:13",
             "image_url": "https://media-allstarcharts.s3.amazonaws.com/wp-content/uploads/2024/07/minor-leaguers-logo--dark.png"
+        },
+        {
+            "title": "NerdWallet Stock Soars on Stellar Q1 Earnings: What’s Driving the Surge and What It Means for Traders",
+            "link": "https://ragingbull.com/editorial/nerdwallet-stock-soars-on-stellar-q1-earnings-whats-driving-the-surge-and-what-it-means-for-traders/",
+            "description": "Buckle up, folks, because NerdWallet, Inc. (NRDS) is making waves in the market today! As of this writing, the stock is up a jaw-dropping 27.84%, trad...",
+            "pubDate": "2025-05-07T16:45:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Oscar Health Surges Over 28% on Stellar Q1 Earnings Beat",
+            "link": "https://ragingbull.com/editorial/oscar-health-surges-over-28-on-stellar-q1-earnings-beat/",
+            "description": "Oscar Health Surges Over 28% on Stellar Q1 Earnings Beat: Is This Healthcare Disruptor Finally Breaking Through? As of this writing, Oscar Health (NYS...",
+            "pubDate": "2025-05-07T23:33:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }

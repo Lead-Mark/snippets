@@ -1,7 +1,78 @@
 {
     "title": "BUscience",
-    "link": "http://example.com/feed",
-    "description": "Aggregated feed for BUscience",
-    "lastBuildDate": "2025-05-08T15:00:44.097745",
-    "items": []
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
+    "lastBuildDate": "2025-05-08T15:15:43.225025",
+    "items": [
+        {
+            "title": "Lab-synthesized botanical compound shows promise for fighting aggressive breast cancer",
+            "link": "https://www.nsf.gov/news/lab-synthesized-botanical-compound-shows-promise-fighting",
+            "description": "Chemists funded by the U.S. National Science Foundation have developed a new process to synthesize a plant-based compound that shows effectiveness aga...",
+            "pubDate": "2025-05-08T14:18:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Robotic dog mimics mammals for superior mobility on land and in water",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250508112731.htm",
+            "description": "A team of researchers has unveiled a cutting-edge Amphibious Robotic Dog capable of roving across both land and water with remarkable efficiency.",
+            "pubDate": "2025-05-08T16:27:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Waxing and waning prairie: New study unravels causes of ancient climate changes",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250508113112.htm",
+            "description": "A long period of drought in North America has been recognized by scientists for decades. A new study links the severe climate to a change in Earth's o...",
+            "pubDate": "2025-05-08T16:31:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Eating ultra-processed foods may harm your health",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250508113139.htm",
+            "description": "Consumption of ultra-processed foods, such as sugar-sweetened beverages, potato chips and packaged cookies, may be associated with adverse health outc...",
+            "pubDate": "2025-05-08T16:31:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "One glass, full color: Sub-millimeter waveguide shrinks AR glasses",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250508113117.htm",
+            "description": "Augmented-reality (AR) technology is rapidly finding its way into everyday life, from education and healthcare to gaming and entertainment. However, t...",
+            "pubDate": "2025-05-08T16:31:17",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Satellites observe glacier committing 'ice piracy'",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250508113134.htm",
+            "description": "A glacier in Antarctica is committing 'ice piracy' -- stealing ice from a neighbor -- in a phenomenon that has never been observed in such a short tim...",
+            "pubDate": "2025-05-08T16:31:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "4 planets discovered around Barnard's star, one of the closest stars to Earth",
+            "link": "https://www.nsf.gov/news/4-planets-discovered-around-barnards-star-one-closest-stars",
+            "description": "Researchers supported by the U.S. National Science Foundation have discovered four tiny exoplanets orbiting Barnard's star, a red dwarf at the center ...",
+            "pubDate": "2025-05-07T14:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Using machine learning to speed up discovery for drug delivery and disease treatment",
+            "link": "https://www.nsf.gov/news/using-machine-learning-speed-discovery-drug-delivery-disease",
+            "description": "A new computational tool developed with support from the U.S. National Science Foundation could greatly speed up determining the 3D structure of RNAs,...",
+            "pubDate": "2025-05-07T16:00:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Leopard spots and protein nanoclusters: How pattern rules could advance muscular dystrophy treatment",
+            "link": "https://www.nsf.gov/news/leopard-spots-protein-nanoclusters-how-pattern-rules-could",
+            "description": "Although a leopard cannot change its spots, new research funded by the U.S. National Science Foundation uses the principles that govern patterns like ...",
+            "pubDate": "2025-05-06T13:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Specialized sponge recycles minerals from stormwater for reuse in agriculture and other industries",
+            "link": "https://www.nsf.gov/news/specialized-sponge-recycles-minerals-stormwater-reuse",
+            "description": "Funded by multiple grants from the U.S. National Science Foundation, researchers created a functional sponge that can soak up certain pollutants from ...",
+            "pubDate": "2025-05-05T15:44:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        }
+    ]
 }
