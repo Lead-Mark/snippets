@@ -2,48 +2,41 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-08T15:18:32.502727",
+    "lastBuildDate": "2025-05-09T01:19:33.430970",
     "items": [
         {
-            "title": "Robert Prevost is first American pope: Leo XIV",
-            "link": "https://www.cnbc.com/2025/05/08/new-pope-white-smoke-vatican.html",
-            "description": "Robert Francis Prevost succeeds Pope Francis. Pope Leo spent much of his ministry in Peru, and only was made a cardinal of the Roman Catholic Church i...",
-            "pubDate": "2025-05-08T19:41:05",
-            "image_url": "https://image.cnbcfm.com/api/v1/image/108143050-1746725209385-108143050-17467251432025-05-08t172510z_557306782_rc2tdea9k495_rtrmadp_0_pope-succession.jpg?v=1746725218&w=1260&h=709&ffmt=webp&vtcrop=y"
-        },
-        {
-            "title": "How a trip to Disney’s new park in Abu Dhabi may cost less than going to Orlando",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ca8c05c7-549c-4f32-a1df-584e61110b0c&mod=mw_rss_bulletins&class=es-button",
-            "description": "",
-            "pubDate": "2025-05-08T19:13:39",
-            "image_url": "https://images.mktw.net/im-36098945?width=1260&size=1.3305613305613306&pixel_ratio=1.5"
-        },
-        {
-            "title": "Trump says it is 'such an honor' that Vatican elected first U.S. pope",
-            "link": "https://www.cnbc.com/2025/05/08/trump-pope-prevost-leo.html",
-            "description": "Robert Francis Prevost took the papal name Leo XIV after his election as the first American-born pope in the history of the Roman Catholic Church.",
-            "pubDate": "2025-05-08T20:15:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "The real reason Berkshire Hathaway has been sitting on $350 billion in cash",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b14a165c-8cbd-4ea6-b8b3-571df0f6bcf3&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-05-08T18:57:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Trump indicates it’s not worth his while to meet with Fed chair Powell",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=41155cbd-50cf-4716-9835-9cd17d0cb2e0&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-05-08T17:54:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Jeanine Pirro picked Trump as interim top federal prosecutor in D.C.",
+            "link": "https://www.cnbc.com/2025/05/08/trump-martin-prosecutor-doj-jan6.html",
+            "description": "Ed Martin was the second Trump nominee in as many days to be pulled after it appeared they would not have the Senate votes to be confirmed.",
+            "pubDate": "2025-05-09T02:10:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Crypto regulation bill fails to advance in the Senate",
             "link": "https://www.cnbc.com/2025/05/08/senate-stablecoin-vote-democrats.html",
             "description": "Several Democrats who previously voted for the bill abruptly backed out, but the final vote wasn't close to the 60 needed to advance.",
             "pubDate": "2025-05-08T19:59:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Trump’s plan to increase taxes on the rich could hit most U.S. businesses",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e77d558a-1874-4006-9e58-3c96defb67e5&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-08T22:16:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Robert Prevost is first American pope: Leo XIV",
+            "link": "https://www.cnbc.com/2025/05/08/new-pope-white-smoke-vatican.html",
+            "description": "Robert Francis Prevost, Pope Leo XIV, succeeds Pope Francis. Leo spent much of his ministry in Peru and was elected a Roman Catholic cardinal only in ...",
+            "pubDate": "2025-05-08T23:09:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Trump calls Robert Prevost's election as first U.S. pope 'such an honor'",
+            "link": "https://www.cnbc.com/2025/05/08/trump-pope-prevost-leo.html",
+            "description": "Robert Francis Prevost took the papal name Leo XIV after his election as the first American-born pope in the history of the Roman Catholic Church.",
+            "pubDate": "2025-05-08T23:00:19",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
@@ -51,28 +44,35 @@
             "link": "https://www.cnbc.com/2025/05/08/trump-calls-fed-chair-jerome-powell-a-fool-after-central-bank-keeps-rates-steady.html",
             "description": "The Fed on Wednesday voted to keep its benchmark interest rate in a range of 4.25% to 4.5%, where it's kept it on hold since December.",
             "pubDate": "2025-05-08T19:35:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Dow set to exit correction, but still well below December's highs — follow live",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e505e8ec-8885-4321-a528-a3884830c19a&mod=mw_rss_bulletins",
+            "title": "Bitcoin rallies with stocks to top $100K again, as exuberance returns to markets",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8dc26e9c-1d0a-434b-8421-8c35aae373f8&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-05-08T19:50:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "pubDate": "2025-05-08T21:41:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Trump unveils United Kingdom trade deal, first since 'reciprocal' tariff pause",
-            "link": "https://www.cnbc.com/2025/05/08/trump-uk-trade-deal-tariffs.html",
-            "description": "President Trump imposed \"reciprocal\" tariffs on nearly all other countries, but quickly paused them to allow time to negotiate trade agreements with t...",
-            "pubDate": "2025-05-08T19:27:38",
+            "title": "Why Trump’s tariffs may not disrupt U.S. economy as much as Wall Street expects",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=002b4ccc-980e-405e-8c66-473422ef56f6&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-08T23:32:26",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Boeing, Disney and Goldman Sachs lead way as Dow runs day’s gain to 625 points",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=be04d2cc-e7fd-4d6f-9a74-12cc1a541fed&mod=mw_rss_bulletins",
+            "title": "Trump’s U.K. trade deal is a relief — but other countries are more crucial",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f55d616b-7e32-4bbf-b681-752dbee600a2&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-05-08T17:46:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "pubDate": "2025-05-08T20:19:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Dow closes just shy of exiting correction as stocks rise on U.S.-U.K. trade deal",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6f58be5e-db0e-4e11-86a0-98786e69408b&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-08T21:05:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }
