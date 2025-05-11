@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-10T00:34:50.132832",
+    "lastBuildDate": "2025-05-11T06:35:27.341659",
     "items": [
+        {
+            "title": "MCP and the innovation paradox: Why open standards will save AI from itself",
+            "link": "https://venturebeat.com/ai/mcp-and-the-innovation-paradox-why-open-standards-will-save-ai-from-itself/",
+            "description": "Much like HTTP and REST standardized how web applications connect to services, MCP standardizes how AI models connect to tools.",
+            "pubDate": "2025-05-10T20:05:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/upscalemedia-transformed.jpeg?w=578"
+        },
         {
             "title": "Fine-tuning vs. in-context learning: New research guides better LLM customization for real-world tasks",
             "link": "https://venturebeat.com/ai/fine-tuning-vs-in-context-learning-new-research-guides-better-llm-customization-for-real-world-tasks/",
@@ -31,13 +38,6 @@
             "description": "Zencoder launches Zen Agents, the first AI platform enabling teams to create, share, and leverage custom development assistants organization-wide, plu...",
             "pubDate": "2025-05-09T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_AI_agents_network_optimistic_692e449c-6200-4c51-bfbe-d954449234d8.webp?w=578"
-        },
-        {
-            "title": "OpenAI, Microsoft tell Senate ‘no one country can win AI’",
-            "link": "https://venturebeat.com/ai/openai-microsoft-tell-senate-no-one-country-can-win-ai/",
-            "description": "Executives like OpenAI's Sam Altman said US support for infrastructure would make it easier for AI companies to meet demand.",
-            "pubDate": "2025-05-09T02:02:24",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/11/DALL·E-2024-11-26-15.37.14-An-image-symbolizing-AI-regulation-and-the-current-chaotic-state-of-oversight.-The-scene-includes-visual-elements-representing-artificial-intelligence.webp?w=578"
         }
     ]
 }
