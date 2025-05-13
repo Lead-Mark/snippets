@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-12T10:45:28.798462",
+    "lastBuildDate": "2025-05-13T01:16:45.906569",
     "items": [
+        {
+            "title": "Sakana introduces new AI architecture, ‘Continuous Thought Machines’ to make models reason with less guidance — like human brains",
+            "link": "https://venturebeat.com/ai/sakana-introduces-new-ai-architecture-continuous-thought-machines-to-make-models-reason-with-less-guidance-like-human-brains/",
+            "description": "While the CTM shows strong promise, it is still primarily a research architecture and is not yet production-ready out of the box.",
+            "pubDate": "2025-05-13T00:08:55",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_stark_crisp_neat_pop_art_colorful_flat_illustration_pol_570ae7e2-ddaf-4775-b7da-c0dd0257c8d0.png?w=578"
+        },
+        {
+            "title": "OpenAI just fixed ChatGPT’s most annoying business problem: meet the PDF export that changes everything",
+            "link": "https://venturebeat.com/ai/openai-just-fixed-chatgpts-most-annoying-business-problem-meet-the-pdf-export-that-changes-everything/",
+            "description": "OpenAI has added a powerful PDF export feature to its Deep Research tool, signaling a major push into enterprise AI and transforming how businesses ge...",
+            "pubDate": "2025-05-12T21:43:51",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_a_PDF_file_icon_in_pastels_3540832e-2fed-4b22-aee4-d8dd9c16a157.webp?w=578"
+        },
+        {
+            "title": "New fully open source vision encoder OpenVision arrives to improve on OpenAI’s Clip, Google’s SigLIP",
+            "link": "https://venturebeat.com/ai/new-fully-open-source-vision-encoder-openvision-arrives-to-improve-on-openais-clip-googles-siglip/",
+            "description": "A vision encoder is a necessary component for allowing many leading LLMs to be able to work with images uploaded by users.",
+            "pubDate": "2025-05-12T19:19:20",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_stark_crisp_neat_pop_art_yellow_dominant_image_of_a_hum_0c2088ff-9ca4-4b34-8c66-7c8fdb496e14.png?w=578"
+        },
         {
             "title": "Glass Imaging raises $20M to use AI to improve digital image quality",
             "link": "https://venturebeat.com/games/glass-imaging-raises-20m-to-use-ai-to-improve-digital-image-quality/",
@@ -13,31 +34,10 @@
         },
         {
             "title": "Aarki launches Encore as privacy-first mobile growth platform",
-            "link": "https://venturebeat.com/business/aarki-launches-encore-as-privacy-first-mobile-growth-platform/",
+            "link": "https://venturebeat.com/games/aarki-launches-encore-as-privacy-first-mobile-growth-platform/",
             "description": "Aarki has launched Encore, a next-generation machine learning platform built to deliver full-funnel growth for mobile marketers in a privacy-first lan...",
             "pubDate": "2025-05-12T13:30:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/aarki.jpg?w=578"
-        },
-        {
-            "title": "From silicon to sentience: The legacy guiding AI’s next frontier and human cognitive migration",
-            "link": "https://venturebeat.com/ai/from-silicon-to-sentience-the-legacy-guiding-ais-next-frontier-and-human-cognitive-migration/",
-            "description": "As AI systems master tasks once uniquely human, we find ourselves on an accelerated journey to discover what truly lies beyond automation.",
-            "pubDate": "2025-05-11T18:05:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Cover-image-1.jpg?w=578"
-        },
-        {
-            "title": "MCP and the innovation paradox: Why open standards will save AI from itself",
-            "link": "https://venturebeat.com/ai/mcp-and-the-innovation-paradox-why-open-standards-will-save-ai-from-itself/",
-            "description": "Much like HTTP and REST standardized how web applications connect to services, MCP standardizes how AI models connect to tools.",
-            "pubDate": "2025-05-10T20:05:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/upscalemedia-transformed.jpeg?w=578"
-        },
-        {
-            "title": "Fine-tuning vs. in-context learning: New research guides better LLM customization for real-world tasks",
-            "link": "https://venturebeat.com/ai/fine-tuning-vs-in-context-learning-new-research-guides-better-llm-customization-for-real-world-tasks/",
-            "description": "By combining fine-tuning and in-context learning, you get LLMs that can learn tasks that would be too difficult or expensive for either method",
-            "pubDate": "2025-05-10T01:23:09",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/09/cfr0z3n_a_robot_in_a_collared_polo_sits_at_a_desk_dutifully_sta_1a510b62-1550-4ca9-839a-dfd64d6c304c-1.png?w=578"
         }
     ]
 }
