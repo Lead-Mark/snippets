@@ -2,28 +2,105 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-15T11:16:44.377889",
+    "lastBuildDate": "2025-05-16T10:38:35.502520",
     "items": [
         {
-            "title": "You.com’s ARI Enterprise crushes OpenAI in head-to-head tests, aims at deep research market",
-            "link": "https://venturebeat.com/ai/you-coms-ari-enterprise-crushes-openai-in-head-to-head-tests-aims-at-deep-research-market/",
-            "description": "You.com launches ARI Enterprise, an AI research platform that outperforms OpenAI in 76% of head-to-head tests and integrates with enterprise data sour...",
-            "pubDate": "2025-05-15T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_magnifying_glass_over_data_stream_44a1caca-f229-4504-97bb-b40d7808693f.webp?w=578"
+            "title": "Software engineering-native AI models have arrived: What Windsurf’s SWE-1 means for technical decision-makers",
+            "link": "https://venturebeat.com/ai/software-engineering-native-ai-models-have-arrived-what-windsurfs-swe-1-means-for-technical-decision-makers/",
+            "description": "Windsurf's new SWE-1 AI models tackle the complete software engineering workflow, potentially reducing development cycles and technical debt.",
+            "pubDate": "2025-05-16T01:30:35",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/enterprise_ai_develeper-smk.jpg?w=578"
         },
         {
-            "title": "Beyond sycophancy: DarkBench exposes six hidden ‘dark patterns’ lurking in today’s top LLMs",
-            "link": "https://venturebeat.com/ai/darkness-rising-the-hidden-dangers-of-ai-sycophancy-and-dark-patterns/",
-            "description": "Without a strong push from AI companies to combat sycophancy and other dark patterns, the default trajectory is more engagement optimization, more man...",
-            "pubDate": "2025-05-15T00:14:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/ChatGPT-Image-May-14-2025-04_11_40-PM.png?w=578"
+            "title": "Virgin Galactic’s stock is skyrocketing. This is why.",
+            "link": "https://www.marketwatch.com/story/virgin-galactics-stock-is-skyrocketing-this-is-why-783216eb?mod=mw_rss_topstories",
+            "description": "Space-tourism company Virgin Galactic expects private astronauts to pay more than $600,000 for a ticket on its new Delta-class SpaceShips",
+            "pubDate": "2025-05-16T15:34:00",
+            "image_url": "https://images.mktw.net/im-810079"
         },
         {
-            "title": "Wholesale inflation shows biggest decline since 2020, but the good news is unlikely to last",
-            "link": "https://www.marketwatch.com/story/wholesale-inflation-shows-biggest-drop-since-2020-but-its-unlikely-to-last-f063a765?mod=mw_rss_topstories",
-            "description": "Wholesale prices posted the biggest drop in April since the pandemic in 2020, but economists say the decline in inflation appeared to be a one-off tha...",
-            "pubDate": "2025-05-15T15:12:00",
-            "image_url": "https://images.mktw.net/im-49310107"
+            "title": "Acer unveils AI-powered wearables at Computex 2025",
+            "link": "https://venturebeat.com/games/acer-unveils-ai-powered-wearables-at-computex-2025/",
+            "description": "Acer Gadget, a subsidiary of Acer, unveiled AI-powered wearables at the Computex 2025 trade show in Taiwan.",
+            "pubDate": "2025-05-16T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Acer-FreeSense-Ring.jpg?w=578"
+        },
+        {
+            "title": "Fintech stocks are hot again, as Coinbase and eToro whet investor appetite",
+            "link": "https://www.marketwatch.com/story/fintech-stocks-are-hot-again-as-coinbase-and-etoro-whet-investor-appetite-c39d31fd?mod=mw_rss_topstories",
+            "description": "Crypto broker Coinbase is slated to join the S&P 500 on Monday as the sector gains favor while trading platform eToro’s IPO hits pay dirt and Chime fi...",
+            "pubDate": "2025-05-16T15:16:00",
+            "image_url": "https://images.mktw.net/im-88100466"
+        },
+        {
+            "title": "Home builders and buyers face bleak picture this spring. Weak housing starts illustrate why.",
+            "link": "https://www.marketwatch.com/story/home-builders-and-buyers-face-bleak-picture-weak-housing-starts-illustrate-the-problem-e502967f?mod=mw_rss_topstories",
+            "description": "Spring is usually the time when construction companies build more homes in anticipation of rising sales. But for the third year in a row the picture i...",
+            "pubDate": "2025-05-16T14:50:00",
+            "image_url": "https://images.mktw.net/im-528299"
+        },
+        {
+            "title": "Reduce model integration costs while scaling AI: LangChain’s open ecosystem delivers where closed vendors can’t",
+            "link": "https://venturebeat.com/ai/reduce-model-integration-costs-while-scaling-ai-langchains-open-ecosystem-delivers-where-closed-vendors-cant/",
+            "description": "Through the LangGraph Platform, organizations can deploy agents with one-click deployment, horizontal scaling to handle “bursty, long-running traffic....",
+            "pubDate": "2025-05-16T00:16:24",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_AI_agents_network_optimistic_692e449c-6200-4c51-bfbe-d954449234d8_f4c549.webp?w=578"
+        },
+        {
+            "title": "Elon Musk’s xAI tries to explain Grok’s South African race relations freakout the other day",
+            "link": "https://venturebeat.com/ai/elon-musks-xai-tries-to-explain-groks-south-african-race-relations-freakout-the-other-day/",
+            "description": "With its prompts now public and a team of human babysitters on call, Grok is supposedly back on script. But the incident underscores...",
+            "pubDate": "2025-05-16T03:47:22",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_remove_and_replace_with__-chaos_20_-ar_9151_-raw_-_59ecf2ed-ce6b-4f34-8503-b8b1ea5fc6d9_0.png?w=578"
+        },
+        {
+            "title": "Imported-goods costs showing signs of tariff-related price pressures",
+            "link": "https://www.marketwatch.com/story/imported-goods-costs-showing-signs-of-tariff-related-price-pressures-02104621?mod=mw_rss_topstories",
+            "description": "The cost of imports barely rose in April, but only because of a global decline in oil prices. Yet many products such as foreign cars, consumer goods a...",
+            "pubDate": "2025-05-16T14:57:00",
+            "image_url": "https://images.mktw.net/im-85472055"
+        },
+        {
+            "title": "The Download: the first personalized gene-editing drug, and Montana’s Right to Try experiment",
+            "link": "https://www.technologyreview.com/2025/05/16/1116619/the-download-the-first-personalized-gene-editing-drug-and-montanas-right-to-try-experiment/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This baby bo...",
+            "pubDate": "2025-05-16T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f9e0.png"
+        },
+        {
+            "title": "I have $50,000 in credit-card debt after my divorce, but received $30,000 after a car wreck. Do I buy a used Lexus?",
+            "link": "https://www.marketwatch.com/story/i-have-50-000-in-credit-card-debt-after-my-divorce-but-received-30-000-after-a-car-wreck-do-i-buy-a-used-lexus-6666fb78?mod=mw_rss_topstories",
+            "description": "“I previously drove a fully loaded BMW X7, and driving a used Lexus feels like a big drop.”",
+            "pubDate": "2025-05-16T14:55:00",
+            "image_url": "https://images.mktw.net/im-24506556"
+        },
+        {
+            "title": "Access to experimental medical treatments is expanding across the US",
+            "link": "https://www.technologyreview.com/2025/05/16/1116526/access-to-experimental-medical-treatments-expanding-us/",
+            "description": "A couple of weeks ago I was in Washington, DC, for a gathering of scientists, policymakers, and longevity enthusiasts. They had come together to discu...",
+            "pubDate": "2025-05-16T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The $1 Billion database bet: What Databricks’ Neon acquisition means for your AI strategy",
+            "link": "https://venturebeat.com/data-infrastructure/the-1-billion-database-bet-what-databricks-neon-acquisition-means-for-your-ai-strategy/",
+            "description": "Databricks' $1 billion acquisition of Neon highlights how serverless PostgreSQL has become essential for agentic AI development.",
+            "pubDate": "2025-05-15T23:54:06",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/databricks-postgres-neon-smk.jpg?w=578"
+        },
+        {
+            "title": "Intuitive Surgical is making a CEO change",
+            "link": "https://www.therobotreport.com/intuitive-surgical-is-making-a-ceo-change/",
+            "description": "Gary Guthart, who spent the last 15 years as Intuitive’s CEO, called it “an honor and a privilege” to serve in the corner office. The post Intuitive S...",
+            "pubDate": "2025-05-15T18:24:55",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/Intuitive-Surgical-Dave-Rosa-President-headshot-768x499-1.jpg"
+        },
+        {
+            "title": "New enabling technologies from Automate 2025",
+            "link": "https://www.therobotreport.com/new-enabling-technologies-from-automate-2025/",
+            "description": "Here's the scoop on six new product announcements from Automate 2025 that you might have missed so far this week. The post New enabling technologies f...",
+            "pubDate": "2025-05-15T22:16:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/xBMCU_Front_Alt_22-1024x697.jpg"
         },
         {
             "title": "The Download: Montana’s experimental treatments, and Google DeepMind’s new AI agent",
@@ -33,53 +110,18 @@
             "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png"
         },
         {
-            "title": "Jobless claims hold steady in latest week, continuing to signal healthy labor market",
-            "link": "https://www.marketwatch.com/story/jobless-claims-hold-steady-in-latest-week-continuing-to-signal-healthy-labor-market-db1f0f84?mod=mw_rss_topstories",
-            "description": "Initial jobless claims held steady at 229,000 in the week ending May 10, the Labor Department said Thursday.",
-            "pubDate": "2025-05-15T15:06:00",
-            "image_url": "https://images.mktw.net/im-13659164"
-        },
-        {
-            "title": "America just imported a mountain of gold. Here’s why that should scare you.",
-            "link": "https://www.marketwatch.com/story/america-just-imported-a-mountain-of-gold-heres-why-that-should-scare-you-1a2e2b67?mod=mw_rss_topstories",
-            "description": "What do central banks know that the rest of us don’t?",
-            "pubDate": "2025-05-15T15:02:00",
-            "image_url": "https://images.mktw.net/im-20835544"
-        },
-        {
-            "title": "Walmart’s CEO says Americans should brace for higher prices",
-            "link": "https://www.marketwatch.com/story/walmarts-stock-jumps-as-outlook-maintained-streak-of-earnings-beats-extended-4b2d557f?mod=mw_rss_topstories",
-            "description": "Walmart is set to start marking up prices in the current quarter, as the magnitude of U.S. tariffs on imported goods — even amid pauses and reductions...",
-            "pubDate": "2025-05-15T15:33:00",
-            "image_url": "https://images.mktw.net/im-71005460"
-        },
-        {
-            "title": "OpenAI brings GPT-4.1 and 4.1 mini to ChatGPT — what enterprises should know",
-            "link": "https://venturebeat.com/ai/openai-brings-gpt-4-1-and-4-1-mini-to-chatgpt-what-enterprises-should-know/",
-            "description": "As OpenAI continues to evolve its model offerings, GPT-4.1 represents a step forward in democratizing advanced AI for enterprise environments",
-            "pubDate": "2025-05-15T00:46:50",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_stark_white_backdrop_with_colorful_marker_illustration__ec28f705-82a7-40c2-bd35-b4819a1d0290.png?w=578"
-        },
-        {
-            "title": "Foot Locker’s beaten-down stock jumps 82% on agreement to be acquired by Dick’s Sporting Goods",
-            "link": "https://www.marketwatch.com/story/foot-lockers-beaten-down-stock-jumps-more-than-60-on-report-of-dicks-acquisition-ef89daca?mod=mw_rss_topstories",
-            "description": "Dick’s Sporting Goods, which operates 850 stores, said the deal with Foot Locker gives it access to international retail space for the first time in a...",
-            "pubDate": "2025-05-15T15:19:00",
-            "image_url": "https://images.mktw.net/im-83196073"
+            "title": "This baby boy was treated with the first personalized gene-editing drug",
+            "link": "https://www.technologyreview.com/2025/05/15/1116524/this-baby-boy-was-treated-with-the-first-personalized-gene-editing-drug/",
+            "description": "Doctors say they constructed a bespoke gene-editing treatment in less than seven months and used it to treat a baby with a deadly metabolic condition....",
+            "pubDate": "2025-05-15T18:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "How US research cuts are threatening crucial climate data",
             "link": "https://www.technologyreview.com/2025/05/15/1116485/climate-data/",
             "description": "Over the last few months, and especially the last few weeks, there’s been an explosion of news about proposed budget cuts to science in the US. One tr...",
             "pubDate": "2025-05-15T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Meet AlphaEvolve, the Google AI that writes its own code—and just saved millions in computing costs",
-            "link": "https://venturebeat.com/ai/meet-alphaevolve-the-google-ai-that-writes-its-own-code-and-just-saved-millions-in-computing-costs/",
-            "description": "Google DeepMind's AlphaEvolve AI system breaks a 56-year-old mathematical record by discovering a more efficient matrix multiplication algorithm that ...",
-            "pubDate": "2025-05-14T16:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_evolving_code_tree_in_Google_colors_2e392766-16da-4fbf-b4da-2c23cfbd7cb4.webp?w=578"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Former UR president Povlsen joins quantum technology leader",
@@ -89,20 +131,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/Kim-Povlsen-universal-robots.jpg"
         },
         {
-            "title": "The Download: taking the temperature of snow, and the future of privacy",
-            "link": "https://www.technologyreview.com/2025/05/14/1116426/the-download-taking-the-temperature-of-snow-and-the-future-of-privacy/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why climate ...",
-            "pubDate": "2025-05-14T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f697.png"
-        },
-        {
-            "title": "Waymo updates 1,200+ robotaxis in software recall",
-            "link": "https://www.therobotreport.com/waymo-updates-1200-robotaxis-in-software-recall/",
-            "description": "Waymo said it resolved the underlying issue with a November 2024 software update, and that this recall doesn't affect its current fleet. The post Waym...",
-            "pubDate": "2025-05-14T21:29:29",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/waymo-featured.jpg"
-        },
-        {
             "title": "RoboBusiness Pitchfire competition opens call for robotics startups",
             "link": "https://www.therobotreport.com/robobusiness-pitchfire-competition-opens-call-for-robotics-startups/",
             "description": "Participating startups will receive a free booth on the expo floor, meet with investors, network with industry leaders, and appear on The Robot Report...",
@@ -110,46 +138,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/048A9893.jpg"
         },
         {
-            "title": "Elon Musk’s Grok AI is spamming X users about South African race relations now, for some reason",
-            "link": "https://venturebeat.com/ai/elon-musks-grok-ai-is-spamming-x-users-about-south-african-race-relations-now-for-some-reason/",
-            "description": "Grok was caught earlier this year censoring results critical of President Trump and Musk himself, sowing more doubt of its factual integrity.",
-            "pubDate": "2025-05-14T20:08:41",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_graphic_novel_style_splash_page_of_elon_musk_looking_wi_da1722d3-823f-403b-bd7a-ddb264b6a38a.png?w=578"
-        },
-        {
-            "title": "Google DeepMind’s new AI agent cracks real-world problems better than humans can",
-            "link": "https://www.technologyreview.com/2025/05/14/1116438/google-deepminds-new-ai-uses-large-language-models-to-crack-real-world-problems/",
-            "description": "Google DeepMind has once again used large language models to discover new solutions to long-standing problems in math and computer science. This time ...",
-            "pubDate": "2025-05-14T16:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "The first US hub for experimental medical treatments is coming",
-            "link": "https://www.technologyreview.com/2025/05/14/1116428/first-us-hub-for-experimental-medical-treatments/",
-            "description": "A bill that allows medical clinics to sell unproven treatments has been passed in Montana. Under the legislation, doctors can apply for a license to o...",
-            "pubDate": "2025-05-14T13:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Despite the hype, Interact Analysis expects humanoid adoption to remain slow",
-            "link": "https://www.therobotreport.com/despite-the-hype-interact-analysis-expects-humanoid-adoption-to-remain-slow/",
-            "description": "In its new report, Interact Analysis assesses the potential and likely future development of the global humanoid robot market by scenario. The post De...",
-            "pubDate": "2025-05-13T19:31:14",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/agility-featured.jpg"
-        },
-        {
-            "title": "DHL buying 1,000+ Stretch robots from Boston Dynamics",
-            "link": "https://www.therobotreport.com/dhl-buying-1000-stretch-robots-from-boston-dynamics/",
-            "description": "Boston Dynamics and DHL plan to prioritize the development of applications for Stretch beyond container unloading. The post DHL buying 1,000+ Stretch ...",
-            "pubDate": "2025-05-13T19:42:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Waymo updates 1,200+ robotaxis in software recall",
+            "link": "https://www.therobotreport.com/waymo-updates-1200-robotaxis-in-software-recall/",
+            "description": "Waymo said it resolved the underlying issue with a November 2024 software update, and that this recall doesn't affect its current fleet. The post Waym...",
+            "pubDate": "2025-05-14T21:29:29",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/waymo-featured.jpg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -166,11 +159,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -178,6 +171,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
