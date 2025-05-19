@@ -2,13 +2,20 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-19T06:46:54.704232",
+    "lastBuildDate": "2025-05-19T10:59:48.228965",
     "items": [
         {
             "title": "Researchers find CRISPR is capable of even more than we thought",
             "link": "https://www.sciencedaily.com/releases/2025/05/250516192951.htm",
             "description": "Newly discovered weapons of bacterial self-defense take different approaches to achieving the same goal: preventing a virus from spreading through the...",
             "pubDate": "2025-05-17T00:29:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Overlooked cell type orchestrates brain rewiring",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250516134834.htm",
+            "description": "Researchers have shown in mice that brain cells known as astrocytes are required for a signaling chemical called norepinephrine to modify brain activi...",
+            "pubDate": "2025-05-16T18:48:34",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -16,63 +23,56 @@
             "link": "https://www.sciencedaily.com/releases/2025/05/250516134534.htm",
             "description": "How sensitively does organic carbon stored in soils react to changes in temperature and humidity?",
             "pubDate": "2025-05-16T18:45:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Overlooked cell type orchestrates brain rewiring",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250516134834.htm",
-            "description": "Researchers have shown in mice that brain cells known as astrocytes are required for a signaling chemical called norepinephrine to modify brain activi...",
-            "pubDate": "2025-05-16T18:48:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "One in ten asthma cases can be avoided with a better urban environment",
             "link": "https://www.sciencedaily.com/releases/2025/05/250516134549.htm",
             "description": "The combination of air pollution, dense urban development and limited green spaces increases the risk of asthma in both children and adults.",
             "pubDate": "2025-05-16T18:45:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Study reveals healing the ozone hole helps the Southern Ocean take up carbon",
             "link": "https://www.sciencedaily.com/releases/2025/05/250516165150.htm",
             "description": "New research suggests that the negative effects of the ozone hole on the carbon uptake of the Southern Ocean are reversible, but only if greenhouse ga...",
             "pubDate": "2025-05-16T21:51:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Preparing science educators to use and teach AI in the classroom",
             "link": "https://www.nsf.gov/news/preparing-science-educators-use-teach-ai-classroom",
             "description": "An interdisciplinary team of researchers funded by the U.S. National Science Foundation has created a teacher-driven curriculum called Shark AI. This ...",
             "pubDate": "2025-05-13T19:32:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Lab-synthesized botanical compound shows promise for fighting aggressive breast cancer",
             "link": "https://www.nsf.gov/news/lab-synthesized-botanical-compound-shows-promise-fighting",
             "description": "Chemists funded by the U.S. National Science Foundation have developed a new process to synthesize a plant-based compound that shows effectiveness aga...",
             "pubDate": "2025-05-08T14:18:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Using machine learning to speed up discovery for drug delivery and disease treatment",
-            "link": "https://www.nsf.gov/news/using-machine-learning-speed-discovery-drug-delivery-disease",
-            "description": "A new computational tool developed with support from the U.S. National Science Foundation could greatly speed up determining the 3D structure of RNAs,...",
-            "pubDate": "2025-05-07T16:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "4 planets discovered around Barnard's star, one of the closest stars to Earth",
             "link": "https://www.nsf.gov/news/4-planets-discovered-around-barnards-star-one-closest-stars",
             "description": "Researchers supported by the U.S. National Science Foundation have discovered four tiny exoplanets orbiting Barnard's star, a red dwarf at the center ...",
             "pubDate": "2025-05-07T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Using machine learning to speed up discovery for drug delivery and disease treatment",
+            "link": "https://www.nsf.gov/news/using-machine-learning-speed-discovery-drug-delivery-disease",
+            "description": "A new computational tool developed with support from the U.S. National Science Foundation could greatly speed up determining the 3D structure of RNAs,...",
+            "pubDate": "2025-05-07T16:00:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Leopard spots and protein nanoclusters: How pattern rules could advance muscular dystrophy treatment",
             "link": "https://www.nsf.gov/news/leopard-spots-protein-nanoclusters-how-pattern-rules-could",
             "description": "Although a leopard cannot change its spots, new research funded by the U.S. National Science Foundation uses the principles that govern patterns like ...",
             "pubDate": "2025-05-06T13:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }
