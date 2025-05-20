@@ -2,8 +2,22 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-20T10:46:43.641260",
+    "lastBuildDate": "2025-05-20T14:30:07.338247",
     "items": [
+        {
+            "title": "Simbe upgrades vision platform with AI-powered capabilities",
+            "link": "https://www.therobotreport.com/simbe-upgrades-vision-platform-with-ai-powered-capabilities/",
+            "description": "Simbe Vision's new capabilities include low-stock detection, product recognition, similarity detection, and shelf-to-stock comparison. The post Simbe ...",
+            "pubDate": "2025-05-20T19:27:27",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/Tally-simbe-featured.jpg"
+        },
+        {
+            "title": "Orbit 5.0 adds features to Boston Dynamics’ Spot quadruped robot",
+            "link": "https://www.therobotreport.com/orbit-5-0-adds-features-boston-dynamics-spot-quadruped-robot/",
+            "description": "Boston Dynamics has added capabilities for scalable fleet management and insights from inspection data to Orbit 5.0 for Spot. The post Orbit 5.0 adds ...",
+            "pubDate": "2025-05-20T17:34:05",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/Spot_Orbit_Inspections.jpg"
+        },
         {
             "title": "Automate 2025 recap",
             "link": "https://www.therobotreport.com/automate-2025-recap/",
@@ -24,20 +38,6 @@
             "description": "Orbbec recently unveiled the Gemini 435Le, the latest addition to its stereo vision lineup. The post Orbbec, Connect Tech to provide support for Gemin...",
             "pubDate": "2025-05-19T18:25:28",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/Gemini-335Lg-featured.jpg"
-        },
-        {
-            "title": "NVIDIA releases cloud-to-robot computing platforms for physical AI, humanoid development",
-            "link": "https://www.therobotreport.com/nvidia-cloud-robot-computing-platforms-physical-ai-humanoid-development/",
-            "description": "New NVIDIA Isaac GR00T humanoid models will be available on Hugging Face, and RTX PRO 6000 workstations and RTX PRO servers can accelerate simulation,...",
-            "pubDate": "2025-05-19T07:00:44",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/humanoid-image-1.png"
-        },
-        {
-            "title": "NVIDIA accepts Ekso Bionics into its Connect program",
-            "link": "https://www.therobotreport.com/nvidia-accepts-ekso-bionics-into-its-connect-program/",
-            "description": "NVIDIA Connect brings together emerging and established technology companies such as Ekso to accelerate product development. The post NVIDIA accepts E...",
-            "pubDate": "2025-05-18T13:29:03",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/eksobionics-featured.jpg"
         }
     ]
 }
