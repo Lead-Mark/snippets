@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-19T10:59:32.213689",
+    "lastBuildDate": "2025-05-20T10:46:07.983981",
     "items": [
+        {
+            "title": "The Best BLT Pasta Salad",
+            "link": "https://therecipecritic.com/blt-pasta-salad/",
+            "description": "The best sandwich ever? Hands down, a BLT. Add in my obsession with pasta salads and, chef’s kiss! This BLT…",
+            "pubDate": "2025-05-20T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/blt-pasta-salad-.jpg"
+        },
         {
             "title": "Elote Pasta Salad",
             "link": "https://therecipecritic.com/elote-pasta-salad/",
@@ -26,13 +33,6 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/05/Jerk-Tofu-and-Roasted-Plantain-Bowls-7-680x1020.jpg"
         },
         {
-            "title": "Easy Mango Cucumber Salad",
-            "link": "https://minimalistbaker.com/easy-mango-cucumber-salad/",
-            "description": "It’s no secret we love spicy , smoky entrées here at MB (exhibits a, b, and c). And what’s the perfect side to accompany them, you ask? Mango cucumber...",
-            "pubDate": "2025-05-13T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/05/Mango-Cucumber-Salad-6-680x1020.jpg"
-        },
-        {
             "title": "Easy Grilled Pizza",
             "link": "https://therecipecritic.com/grilled-pizza/",
             "description": "I’m all about pizza and grilling, so when I can combine the two, it’s a win. The grill gives pizza…",
@@ -40,18 +40,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/grilled-pizza-.jpg"
         },
         {
+            "title": "Easy Mango Cucumber Salad",
+            "link": "https://minimalistbaker.com/easy-mango-cucumber-salad/",
+            "description": "It’s no secret we love spicy , smoky entrées here at MB (exhibits a, b, and c). And what’s the perfect side to accompany them, you ask? Mango cucumber...",
+            "pubDate": "2025-05-13T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/05/Mango-Cucumber-Salad-6-680x1020.jpg"
+        },
+        {
             "title": "Mango Salsa Salmon",
             "link": "https://therecipecritic.com/mango-salsa-salmon/",
             "description": "I’m obsessed with salmon, and this Mango Salsa Salmon might be my new favorite! It’s quick, flavorful, and my kids…",
             "pubDate": "2025-05-11T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/mango-salsa-salmon.jpg"
-        },
-        {
-            "title": "Weekly Meal Plan #44",
-            "link": "https://therecipecritic.com/weekly-meal-plan-44/",
-            "description": "This week’s meal plan is all about keeping things simple and delicious! I’ve rounded up a fresh batch of easy-to-make dinners that’ll…",
-            "pubDate": "2025-05-09T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/Week-44-Meal-Plan-Collage-.png"
         },
         {
             "title": "No-Bake Vegan Chocolate Cheesecake Cups (5 Minutes!)",
