@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-21T10:52:02.182375",
+    "lastBuildDate": "2025-05-21T16:32:23.228817",
     "items": [
+        {
+            "title": "OpenAI updates its new Responses API rapidly with MCP support, GPT-4o native image gen, and more enterprise features",
+            "link": "https://venturebeat.com/programming-development/openai-updates-its-new-responses-api-rapidly-with-mcp-support-gpt-4o-native-image-gen-and-more-enterprise-features/",
+            "description": "Support for remote Model Context Protocol servers, integration of image generation and Code Interpreter tools, and upgrades to file search...",
+            "pubDate": "2025-05-21T16:30:22",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-11_23_37-AM.png?w=578"
+        },
+        {
+            "title": "Mistral AI launches Devstral, powerful new open source SWE agent model that runs on laptops",
+            "link": "https://venturebeat.com/ai/mistral-ai-launches-devstral-powerful-new-open-source-swe-agent-model-that-runs-on-laptops/",
+            "description": "Beyond performance and portability, its Apache 2.0 license offers a compelling proposition for commercial applications.",
+            "pubDate": "2025-05-21T15:57:15",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_close_up_on_tiny_humanoid_robot_standing_triumphantly_9942c223-9a98-4052-b8ee-2faf93d3f157_0.png?w=578"
+        },
         {
             "title": "AMD unveils new Threadripper CPUs and Radeon GPUs for gamers at Computex 2025",
             "link": "https://venturebeat.com/games/amd-unveils-new-threadripper-cpus-and-radeon-gpus-for-gamers-at-computex-2025/",
@@ -24,20 +38,6 @@
             "description": "Google unveiled major AI advancements at I/O 2025, including Gemini 2.5 with Deep Think, AI Mode in Search, Veo 3 for video with audio, and a $249 Ult...",
             "pubDate": "2025-05-20T18:45:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Laptop_made_of_computer_code_code_spilling_out_of_the_d8ee2bfb-424f-4a73-a2f1-e1c485dd723a.webp?w=578"
-        },
-        {
-            "title": "Google’s Jules aims to out-code Codex in battle for the AI developer stack",
-            "link": "https://venturebeat.com/ai/googles-jules-aims-to-out-code-codex-in-battle-for-the-ai-developer-stack/",
-            "description": "Google released Jules, its coding agent, into beta as autonomous coding agents are quickly gaining market share.",
-            "pubDate": "2025-05-20T18:45:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/05/adobe-firefly-robot-working-on-laptop-coding.jpg?w=578"
-        },
-        {
-            "title": "Inside Google’s AI leap: Gemini 2.5 thinks deeper, speaks smarter and codes faster",
-            "link": "https://venturebeat.com/ai/inside-google-ai-leap-gemini-2-5-thinks-deeper-speaks-smarter-codes-faster/",
-            "description": "Google is moving closer to its goal of autonomous agentic AI with a series of enhancements to Gemini 2.5 Pro and Flash.",
-            "pubDate": "2025-05-20T18:45:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Google.jpeg?w=578"
         }
     ]
 }
