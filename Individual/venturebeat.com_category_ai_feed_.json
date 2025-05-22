@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-22T10:19:13.290963",
+    "lastBuildDate": "2025-05-22T14:35:47.046034",
     "items": [
+        {
+            "title": "Anthropic overtakes OpenAI: Claude Opus 4 codes seven hours nonstop, sets record SWE-Bench score and reshapes enterprise AI",
+            "link": "https://venturebeat.com/ai/anthropic-claude-opus-4-can-code-for-7-hours-straight-and-its-about-to-change-how-we-work-with-ai/",
+            "description": "Anthropic's Claude Opus 4 outperforms OpenAI's GPT-4.1 with unprecedented seven-hour autonomous coding sessions and record-breaking 72.5% SWE-bench sc...",
+            "pubDate": "2025-05-22T17:45:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_a_modern_computer_with_computer_code_on_50902dd1-2dee-4268-bf6f-2c0cd89cd43c.webp?w=578"
+        },
+        {
+            "title": "Time Magazine appears to accidentally publish embargoed story confirming new Anthropic model",
+            "link": "https://venturebeat.com/ai/time-magazine-appears-to-accidentally-publish-embargoed-story-confirming-anthropic-claude-4-opus/",
+            "description": "Someone also appears to have published a full scrape of the Time article online on the news aggregator app Newsbreak.",
+            "pubDate": "2025-05-22T16:26:30",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/06/cfr0z3n_vector_art_line_art_minimalist_flat_illustration_a_huma_0ee908ee-b815-4f79-8814-e728db0d08fa.png?w=578"
+        },
         {
             "title": "Enchant launches zero-equity accelerator for gaming and AI startups",
             "link": "https://venturebeat.com/games/enchant-launches-zero-equity-accelerator-for-gaming-and-ai-startups/",
@@ -24,20 +38,6 @@
             "description": "Support for remote Model Context Protocol servers, integration of image generation and Code Interpreter tools, and upgrades to file search...",
             "pubDate": "2025-05-21T16:30:22",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-11_23_37-AM.png?w=578"
-        },
-        {
-            "title": "Mistral AI launches Devstral, powerful new open source SWE agent model that runs on laptops",
-            "link": "https://venturebeat.com/ai/mistral-ai-launches-devstral-powerful-new-open-source-swe-agent-model-that-runs-on-laptops/",
-            "description": "Beyond performance and portability, its Apache 2.0 license offers a compelling proposition for commercial applications.",
-            "pubDate": "2025-05-21T15:57:15",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_close_up_on_tiny_humanoid_robot_standing_triumphantly_9942c223-9a98-4052-b8ee-2faf93d3f157_0.png?w=578"
-        },
-        {
-            "title": "AMD unveils new Threadripper CPUs and Radeon GPUs for gamers at Computex 2025",
-            "link": "https://venturebeat.com/games/amd-unveils-new-threadripper-cpus-and-radeon-gpus-for-gamers-at-computex-2025/",
-            "description": "AMD held a Computex press event to introduce its Radeon RX 9060 XT graphics cards and Threadripper CPUs for next-gen gaming and workstations.",
-            "pubDate": "2025-05-21T04:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Radeon_RIGHT.jpg?w=578"
         }
     ]
 }
