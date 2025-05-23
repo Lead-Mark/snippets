@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-22T14:35:47.046034",
+    "lastBuildDate": "2025-05-23T10:39:46.267395",
     "items": [
+        {
+            "title": "Why enterprise RAG systems fail: Google study introduces ‘sufficient context’ solution",
+            "link": "https://venturebeat.com/ai/why-enterprise-rag-systems-fail-google-study-introduces-sufficient-context-solution/",
+            "description": "Google's \"sufficient context\" helps refine RAG systems, reduce LLM hallucinations, and boost AI reliability for business applications.",
+            "pubDate": "2025-05-23T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/agentic-rag-smk.jpg?w=578"
+        },
+        {
+            "title": "After GPT-4o backlash, researchers benchmark models on moral endorsement—find sycophancy persists across the board",
+            "link": "https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/",
+            "description": "A new benchmark can test how much LLMs become sycophants, and found that GPT-4o was the most sycophantic of the models tested.",
+            "pubDate": "2025-05-23T00:46:40",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vecor_art_of_human_chatting_with_a_chatbot_two_chat_b_14075c47-8e58-4110-b3b3-96385f4ebd44.webp?w=578"
+        },
+        {
+            "title": "Anthropic faces backlash to Claude 4 Opus behavior that contacts authorities, press if it thinks you’re doing something ‘egregiously immoral’",
+            "link": "https://venturebeat.com/ai/anthropic-faces-backlash-to-claude-4-opus-behavior-that-contacts-authorities-press-if-it-thinks-youre-doing-something-immoral/",
+            "description": "Bowman later edited his tweet and the following one in a thread to read as follows, but it still didn't convince the naysayers.",
+            "pubDate": "2025-05-22T20:12:32",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_flat_illustration_2D_minimalist_elegant_style_close_u_e8200cd6-fc94-43c7-977c-189ef18b30c8_0.png?w=578"
+        },
         {
             "title": "Anthropic overtakes OpenAI: Claude Opus 4 codes seven hours nonstop, sets record SWE-Bench score and reshapes enterprise AI",
             "link": "https://venturebeat.com/ai/anthropic-claude-opus-4-can-code-for-7-hours-straight-and-its-about-to-change-how-we-work-with-ai/",
@@ -17,27 +38,6 @@
             "description": "Someone also appears to have published a full scrape of the Time article online on the news aggregator app Newsbreak.",
             "pubDate": "2025-05-22T16:26:30",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/06/cfr0z3n_vector_art_line_art_minimalist_flat_illustration_a_huma_0ee908ee-b815-4f79-8814-e728db0d08fa.png?w=578"
-        },
-        {
-            "title": "Enchant launches zero-equity accelerator for gaming and AI startups",
-            "link": "https://venturebeat.com/games/enchant-launches-zero-equity-accelerator-for-gaming-and-ai-startups/",
-            "description": "Enchant is launching a new zero-equity accelerator for gaming and AI startups, with applications now open for its three-month program.",
-            "pubDate": "2025-05-22T13:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/enchant-4.jpg?w=578"
-        },
-        {
-            "title": "At Google I/O, Sergey Brin makes surprise appearance — and declares Google will build the first AGI",
-            "link": "https://venturebeat.com/ai/at-google-i-o-sergey-brin-makes-surprise-appearance-and-declares-google-will-build-the-first-agi/",
-            "description": "Google co-founder Sergey Brin makes surprise appearance at Google I/O, declaring \"Gemini will be the very first AGI,\" revealing philosophical tensions...",
-            "pubDate": "2025-05-21T23:20:36",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/photo-1.jpg?w=578"
-        },
-        {
-            "title": "OpenAI updates its new Responses API rapidly with MCP support, GPT-4o native image gen, and more enterprise features",
-            "link": "https://venturebeat.com/programming-development/openai-updates-its-new-responses-api-rapidly-with-mcp-support-gpt-4o-native-image-gen-and-more-enterprise-features/",
-            "description": "Support for remote Model Context Protocol servers, integration of image generation and Code Interpreter tools, and upgrades to file search...",
-            "pubDate": "2025-05-21T16:30:22",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-11_23_37-AM.png?w=578"
         }
     ]
 }

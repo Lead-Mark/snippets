@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-22T14:35:36.406258",
+    "lastBuildDate": "2025-05-23T10:39:37.066824",
     "items": [
+        {
+            "title": "My Most Popular Recipes Meal Plan",
+            "link": "https://therecipecritic.com/popular-recipes-meal-plan/",
+            "description": "I couldn’t let another week go by without making this meal plan for you! This is made up of all…",
+            "pubDate": "2025-05-23T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/Popular-Recipes-Meal-Plan-Collage-1-1.png"
+        },
         {
             "title": "The Best BLT Pasta Salad",
             "link": "https://therecipecritic.com/blt-pasta-salad/",
@@ -45,13 +52,6 @@
             "description": "I’m all about pizza and grilling, so when I can combine the two, it’s a win. The grill gives pizza…",
             "pubDate": "2025-05-13T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/grilled-pizza-.jpg"
-        },
-        {
-            "title": "Mango Salsa Salmon",
-            "link": "https://therecipecritic.com/mango-salsa-salmon/",
-            "description": "I’m obsessed with salmon, and this Mango Salsa Salmon might be my new favorite! It’s quick, flavorful, and my kids…",
-            "pubDate": "2025-05-11T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/mango-salsa-salmon.jpg"
         },
         {
             "title": "No-Bake Vegan Chocolate Cheesecake Cups (5 Minutes!)",
