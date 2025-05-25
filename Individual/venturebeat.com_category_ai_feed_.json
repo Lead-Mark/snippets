@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-24T01:37:33.945213",
+    "lastBuildDate": "2025-05-25T00:30:21.833890",
     "items": [
+        {
+            "title": "Beyond single-model AI: How architectural design drives reliable multi-agent orchestration",
+            "link": "https://venturebeat.com/ai/beyond-single-model-ai-how-architectural-design-drives-reliable-multi-agent-orchestration/",
+            "description": "Successful AI agents require enterprises to orchestrate interactions, manage shared knowledge and plan for failure.",
+            "pubDate": "2025-05-24T23:35:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/upscalemedia-transformed_3b4ff6.webp?w=578"
+        },
         {
             "title": "OpenAI updates Operator to o3, making its $200 monthly ChatGPT Pro subscription more enticing",
             "link": "https://venturebeat.com/ai/openai-updates-operator-to-o3-making-its-200-monthly-chatgpt-subscription-more-enticing/",
@@ -31,13 +38,6 @@
             "description": "Google's \"sufficient context\" helps refine RAG systems, reduce LLM hallucinations, and boost AI reliability for business applications.",
             "pubDate": "2025-05-23T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/agentic-rag-smk.jpg?w=578"
-        },
-        {
-            "title": "After GPT-4o backlash, researchers benchmark models on moral endorsement—find sycophancy persists across the board",
-            "link": "https://venturebeat.com/ai/after-gpt-4o-backlash-researchers-benchmark-models-on-moral-endorsement-find-sycophancy-persists-across-the-board/",
-            "description": "A new benchmark can test how much LLMs become sycophants, and found that GPT-4o was the most sycophantic of the models tested.",
-            "pubDate": "2025-05-23T00:46:40",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/02/nuneybits_Vecor_art_of_human_chatting_with_a_chatbot_two_chat_b_14075c47-8e58-4110-b3b3-96385f4ebd44.webp?w=578"
         }
     ]
 }
