@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-25T00:30:21.833890",
+    "lastBuildDate": "2025-05-25T23:33:41.017637",
     "items": [
+        {
+            "title": "Google’s ‘world-model’ bet: building the AI operating layer before Microsoft captures the UI",
+            "link": "https://venturebeat.com/ai/googles-world-model-bet-building-the-ai-operating-layer-before-microsoft-captures-the-ui/",
+            "description": "Google doubles down on its ‘world-model’ vision, racing to build an AI operating layer to drive a universal personal assistant with Gemini. Even as Mi...",
+            "pubDate": "2025-05-25T18:42:05",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Gemini_Generated_Image_q6msrxq6msrxq6ms_9f93e4.jpeg?w=578"
+        },
         {
             "title": "Beyond single-model AI: How architectural design drives reliable multi-agent orchestration",
             "link": "https://venturebeat.com/ai/beyond-single-model-ai-how-architectural-design-drives-reliable-multi-agent-orchestration/",
@@ -31,13 +38,6 @@
             "description": "Enterprises looking to build with AI should find plenty to look forward to with the announcements from Microsoft, Google & Anthropic this week.",
             "pubDate": "2025-05-23T21:29:55",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/ChatGPT-Image-May-23-2025-01_24_11-PM.png?w=578"
-        },
-        {
-            "title": "Why enterprise RAG systems fail: Google study introduces ‘sufficient context’ solution",
-            "link": "https://venturebeat.com/ai/why-enterprise-rag-systems-fail-google-study-introduces-sufficient-context-solution/",
-            "description": "Google's \"sufficient context\" helps refine RAG systems, reduce LLM hallucinations, and boost AI reliability for business applications.",
-            "pubDate": "2025-05-23T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/agentic-rag-smk.jpg?w=578"
         }
     ]
 }
