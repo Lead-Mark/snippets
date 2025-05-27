@@ -2,28 +2,70 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-26T21:00:11.689760",
+    "lastBuildDate": "2025-05-27T11:15:10.834268",
     "items": [
         {
-            "title": "U.S. stock futures rally after Trump delays E.U. tariff deadline",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ab9c11a8-af11-4083-8d27-a5dfa8557487&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-05-26T23:28:11",
+            "title": "Trump considers redirecting $3 billion in Harvard grants to U.S. trade schools",
+            "link": "https://www.cnbc.com/2025/05/26/trump-considers-redirecting-3-billion-in-harvard-grants-to-us-trade-schools.html",
+            "description": "U.S. President Donald Trump said on Monday he is considering taking $3 billion of previously awarded grant money from Harvard and giving it to trade s...",
+            "pubDate": "2025-05-27T12:52:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Trump administration moves to cut rest of Harvard contracts with federal government",
+            "link": "https://www.cnbc.com/2025/05/27/harvard-trump-administration-cut-federal-contracts.html",
+            "description": "President Donald Trump in a social media post suggested taking $3 billion in frozen grant money to Harvard and and give it to trade schools.",
+            "pubDate": "2025-05-27T13:42:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "How Salesforce’s plan to buy Informatica is an $8 billion AI play",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b5479777-5262-40f9-b870-92bf6834d8f0&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-27T13:41:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "NPR sues Trump over executive order cutting federal funding",
+            "link": "https://www.cnbc.com/2025/05/27/trump-npr-lawsuit-funding-order.html",
+            "description": "National Public Radio sued President Donald Trump over his executive order to cease all federal funding for the broadcaster.",
+            "pubDate": "2025-05-27T14:44:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Durable-goods orders show Trump’s tariffs continue to disrupt U.S. economy",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=47e01225-80d6-4ca0-b7cc-f42796f6d0a1&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-27T14:00:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Nvidia earnings are a day away. And this is the No. 1 issue on investor minds.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5c2f3392-dca8-4b3b-94d3-49796e7dcb6c&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-27T15:49:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "U.S. consumer confidence rebounds in May on easing of China trade tension",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b50689c9-899d-4de6-86be-f8d0eb0dbb73&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-27T15:16:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "U.S. stock indexes rise after Trump presses pause on his European tariff threat",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3548a1f8-a5d2-4651-ae5b-c316480f370e&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-05-27T14:43:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "France, Vietnam sign Airbus, satellite deals as Macron visits Hanoi",
             "link": "https://www.cnbc.com/2025/05/26/france-vietnam-sign-airbus-satellite-deals-as-macron-visits-hanoi.html",
             "description": "France and Vietnam signed a deal on Monday for 20 Airbus planes, among other pacts, as President Emmanuel Macron visited Hanoi.",
             "pubDate": "2025-05-26T07:16:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Trump considers redirecting $3 billion in Harvard grants to U.S. trade schools",
-            "link": "https://www.cnbc.com/2025/05/26/trump-considers-redirecting-3-billion-in-harvard-grants-to-us-trade-schools.html",
-            "description": "President Donald Trump said he is considering taking $3 billion of previously awarded grant money for research away from Harvard and giving it to trad...",
-            "pubDate": "2025-05-26T16:29:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Trump delays 50% tariffs on EU to July 9",
@@ -31,48 +73,6 @@
             "description": "President of the European Commission Ursula Von der Leyen said that she had a \"good call\" with Trump, but needed until July 9 to \"reach a good deal.\"",
             "pubDate": "2025-05-26T00:57:12",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Sen. Ron Johnson says there are 'enough' GOP senators to stall House budget bill",
-            "link": "https://www.cnbc.com/2025/05/25/republicans-senate-house-budget-bill-trump.html",
-            "description": "The Republican lawmakers' concerns underscore the potentially difficult path ahead for the sweeping domestic policy package.",
-            "pubDate": "2025-05-25T19:20:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "House Speaker Johnson downplays deficit concerns as budget bill faces skeptics in Senate",
-            "link": "https://www.cnbc.com/2025/05/25/mike-johnson-budget-house-deficit-senate-republicans-trump.html",
-            "description": "Speaker Mike Johnson rejected concerns that the \"big, beautiful bill\" will add to the federal deficit.",
-            "pubDate": "2025-05-25T16:06:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Why wealth rarely survives grandchildren — and how your family can beat the odds",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=33e1eb3a-a827-43c1-a5ae-b69b1503d945&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-05-24T19:32:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Rising bond yields give stock-market investors the yips. Watch these levels.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a7ce1055-c28e-4abe-8f9c-30fcea34f75b&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-05-24T14:22:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Apple has been the worst Big Tech stock lately. What investors are missing.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eaf79173-5586-48b2-b19b-2be8ca6308a2&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-05-24T14:54:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Ship crossings to the U.S. are being canceled. Trump’s latest threat won’t help.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=edd4a2e7-a531-46d1-8491-80f6428eaad2&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-05-24T00:10:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

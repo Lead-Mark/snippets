@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-26T20:59:08.310615",
+    "lastBuildDate": "2025-05-27T11:14:07.391335",
     "items": [
+        {
+            "title": "Coconut Cream Lush",
+            "link": "https://therecipecritic.com/coconut-lush/",
+            "description": "I love coconut cream pie, but let’s be real, I’m not always up for all that work. This Coconut Lush…",
+            "pubDate": "2025-05-27T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/coconut-cream-lush-2.jpg"
+        },
         {
             "title": "Fluffy Lime Jello Salad",
             "link": "https://therecipecritic.com/lime-jello-salad-2/",
@@ -31,13 +38,6 @@
             "description": "Guys, I’m obsessed with elote, so obviously I had to turn all that smoky, creamy, cheesy, lime magic into a…",
             "pubDate": "2025-05-18T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/elote-pasta-salad-.jpg"
-        },
-        {
-            "title": "Weekly Meal Plan #45",
-            "link": "https://therecipecritic.com/weekly-meal-plan-45/",
-            "description": "Can you believe we’re at Week 45 of meal planning? This week’s menu is full of easy, family-friendly dinners—and it comes with…",
-            "pubDate": "2025-05-16T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/Week-45-Meal-Plan-Collage-1-1.png"
         },
         {
             "title": "Jerk Tofu & Roasted Plantain Bowls",
