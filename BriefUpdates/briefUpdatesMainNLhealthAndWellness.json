@@ -2,42 +2,14 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-28T10:57:07.292529",
+    "lastBuildDate": "2025-05-28T12:59:06.376314",
     "items": [
-        {
-            "title": "Can Magnesium Help with Depression? Here’s What Research Says",
-            "link": "https://www.webmd.com/depression/magnesium-for-depression",
-            "description": "Could a magnesium deficiency be affecting your mood? Many Americans don’t get enough -- and some research links low levels to depression. Here’s what ...",
-            "pubDate": "2025-05-28T11:47:47",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/SEEDs/1800x1200-magnesium-for-depression-project.jpg?resize=484px:*&output-quality=70"
-        },
         {
             "title": "Surprising Things That Could Be Raising Your Blood Pressure",
             "link": "https://www.webmd.com/hypertension-high-blood-pressure/ss/slideshow-surprising-things-raise-blood-pressure",
             "description": "",
             "pubDate": "2025-05-28T11:47:47",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/limit_these_foods_with_hypoparathyroidism_slideshow/1800ss_getty_rf_glasses_of_cola.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Becton Dickinson Unveils Artificial Intelligence Powered Monitor for Surgery",
-            "link": "https://www.2minutemedicine.com/becton-dickinson-unveils-artificial-intelligence-powered-monitor-for-surgery/",
-            "description": "Key points:1. The HemoSphere Alta system from Becton Dickinson uses artificial intelligence to predict blood pressure drops during surgery2. Early tes...",
-            "pubDate": "2025-05-28T15:00:16",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/hospital-bed-300x150.jpg"
-        },
-        {
-            "title": "What Your Sleep Position Says About Your Sleep Quality",
-            "link": "https://www.webmd.com/sleep-disorders/best-sleep-positions",
-            "description": "",
-            "pubDate": "2025-05-28T11:47:47",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/when_to_toss_common_household_items_slideshow/1800ss_thinkstock_man_asleep_in_bed.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Unconditional cash transfers may increase breastfeeding but have little effect on postpartum mood",
-            "link": "https://www.2minutemedicine.com/unconditional-cash-transfers-may-increase-breastfeeding-but-have-little-effect-on-postpartum-mood/",
-            "description": "1. In this systematic review, strong evidence showed that unconditional cash transfers may increase breastfeeding in diverse populations. 2. There was...",
-            "pubDate": "2025-05-28T11:00:19",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/03/800px-US_Navy_midwife_checks_on_a_mom1-e1374614038732-300x150.jpg"
         },
         {
             "title": "Social isolation is a marker of increased mortality and cardiovascular risk in patients with chronic kidney disease",
@@ -47,32 +19,67 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/01/Doctor_and_couple_talking_edited-e1744678764447-300x213.jpg"
         },
         {
-            "title": "Eptinezumab for Episodic Cluster Headache Prevention",
-            "link": "https://www.medscape.com/viewarticle/eptinezumab-episodic-cluster-headache-prevention-2025a1000d6u?src=rss",
-            "description": "Eptinezumab use improves quality-of-life measures but does not significantly reduce the number of episodic cluster headache attacks in early trial wee...",
-            "pubDate": "2025-05-28T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Can Magnesium Help with Depression? Here’s What Research Says",
+            "link": "https://www.webmd.com/depression/magnesium-for-depression",
+            "description": "Could a magnesium deficiency be affecting your mood? Many Americans don’t get enough -- and some research links low levels to depression. Here’s what ...",
+            "pubDate": "2025-05-28T11:47:47",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/SEEDs/1800x1200-magnesium-for-depression-project.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Switch to a Second JAK Inhibitor Helpful in UC",
-            "link": "https://www.medscape.com/viewarticle/switch-second-janus-kinase-inhibitor-helpful-ulcerative-2025a1000d7z?src=rss",
-            "description": "Nearly half of patients with active ulcerative colitis experience steroid-free clinical remission after switching from one to a second JAK inhibitor, ...",
-            "pubDate": "2025-05-28T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Becton Dickinson Unveils Artificial Intelligence Powered Monitor for Surgery",
+            "link": "https://www.2minutemedicine.com/becton-dickinson-unveils-artificial-intelligence-powered-monitor-for-surgery/",
+            "description": "Key points:1. The HemoSphere Alta system from Becton Dickinson uses artificial intelligence to predict blood pressure drops during surgery2. Early tes...",
+            "pubDate": "2025-05-28T15:00:16",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/hospital-bed-300x150.jpg"
+        },
+        {
+            "title": "Unconditional cash transfers may increase breastfeeding but have little effect on postpartum mood",
+            "link": "https://www.2minutemedicine.com/unconditional-cash-transfers-may-increase-breastfeeding-but-have-little-effect-on-postpartum-mood/",
+            "description": "1. In this systematic review, strong evidence showed that unconditional cash transfers may increase breastfeeding in diverse populations. 2. There was...",
+            "pubDate": "2025-05-28T11:00:19",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/03/800px-US_Navy_midwife_checks_on_a_mom1-e1374614038732-300x150.jpg"
+        },
+        {
+            "title": "What Your Sleep Position Says About Your Sleep Quality",
+            "link": "https://www.webmd.com/sleep-disorders/best-sleep-positions",
+            "description": "",
+            "pubDate": "2025-05-28T11:47:47",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/when_to_toss_common_household_items_slideshow/1800ss_thinkstock_man_asleep_in_bed.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Deupirfenidone Shows Promise Against IPF-Linked Lung Decline",
+            "link": "https://www.medscape.com/viewarticle/deupirfenidone-shows-promise-against-ipf-linked-lung-decline-2025a1000dkn?src=rss",
+            "description": "Tweaking the pirfenidone molecule yields an evidently effective but less toxic antifibrotic drug, investigators say. Medscape Medical News",
+            "pubDate": "2025-05-28T13:37:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Better dizziness diagnosis through skilled exams [PODCAST]",
             "link": "https://kevinmd.com/2025/05/better-dizziness-diagnosis-through-skilled-exams-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Physical therapist John Corsino discusses his article, “Lifelong lear...",
             "pubDate": "2025-05-28T00:00:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Doctors Oppose Mental Health Detention Power Proposals",
-            "link": "https://www.medscape.com/viewarticle/doctors-oppose-mental-health-detention-power-proposals-2025a1000dgv?src=rss",
-            "description": "Medical groups have warned that proposed amendments to mental health legislation giving powers of detention to healthcare staff could cause ‘significa...",
-            "pubDate": "2025-05-28T15:06:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "NICE Approves Sparsentan for Kidney Disease Treatment",
+            "link": "https://www.medscape.com/viewarticle/nice-approves-sparsentan-kidney-disease-treatment-2025a1000dod?src=rss",
+            "description": "NICE reversed its earlier decision on sparsentan for treating primary immunoglobulin A nephropathy after additional evidence and a price reduction fro...",
+            "pubDate": "2025-05-28T16:07:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Botox Formulations Differ in Onset, Duration for Frown Lines",
+            "link": "https://www.medscape.com/viewarticle/botulinum-toxin-formulations-differ-onset-duration-frown-2025a1000dd0?src=rss",
+            "description": "Botulinum toxin A formulations show distinct differences in onset and duration of effect in women with glabellar rhytids. Medscape Medical News",
+            "pubDate": "2025-05-28T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Eptinezumab for Episodic Cluster Headache Prevention",
+            "link": "https://www.medscape.com/viewarticle/eptinezumab-episodic-cluster-headache-prevention-2025a1000d6u?src=rss",
+            "description": "Eptinezumab use improves quality-of-life measures but does not significantly reduce the number of episodic cluster headache attacks in early trial wee...",
+            "pubDate": "2025-05-28T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "When moisturizers trigger airport bomb alarms",
@@ -82,25 +89,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "NICU Admissions Higher in Pregestational Diabetes",
-            "link": "https://www.medscape.com/viewarticle/nicu-admissions-higher-pregestational-diabetes-2025a1000d81?src=rss",
-            "description": "The type of maternal diabetes strongly influences neonatal intensive care unit admission rates and outcomes. Medscape News UK",
-            "pubDate": "2025-05-28T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Deupirfenidone Shows Promise Against IPF-Linked Lung Decline",
-            "link": "https://www.medscape.com/viewarticle/deupirfenidone-shows-promise-against-ipf-linked-lung-decline-2025a1000dkn?src=rss",
-            "description": "Tweaking the pirfenidone molecule yields an evidently effective but less toxic antifibrotic drug, investigators say. Medscape Medical News",
-            "pubDate": "2025-05-28T13:37:14",
+            "title": "Doctors Oppose Mental Health Detention Power Proposals",
+            "link": "https://www.medscape.com/viewarticle/doctors-oppose-mental-health-detention-power-proposals-2025a1000dgv?src=rss",
+            "description": "Medical groups have warned that proposed amendments to mental health legislation giving powers of detention to healthcare staff could cause ‘significa...",
+            "pubDate": "2025-05-28T15:06:23",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "The Scan by 2 Minute Medicine®: Billy Joel’s Brain Condition, Gigi Robinson’s Surgical Advocacy, Climate and Cancer Risk, and West Nile Virus Reaches the United Kingdom",
-            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-billy-joels-brain-condition-gigi-robinsons-surgical-advocacy-climate-and-cancer-risk-and-west-nile-virus-reaches-the-united-kingdom/",
-            "description": "The Scan by 2 Minute Medicine® is a pop-culture medical newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. Billy Joel’s Brain Co...",
-            "pubDate": "2025-05-27T16:01:24",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
         },
         {
             "title": "Artificial Intelligence and Real World Data Speed Up Drug Development",
@@ -110,25 +103,32 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/breast-cancer-cells-PD-300x150.jpg"
         },
         {
-            "title": "Why physicians deserve more than an oxygen mask",
-            "link": "https://kevinmd.com/2025/05/why-physicians-deserve-more-than-an-oxygen-mask.html",
-            "description": "In medicine, we’ve long relied on the oxygen mask analogy to justify self-care: “Put your own mask on first before assisting others.” It’s a powerful ...",
-            "pubDate": "2025-05-27T18:00:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "The Scan by 2 Minute Medicine®: Billy Joel’s Brain Condition, Gigi Robinson’s Surgical Advocacy, Climate and Cancer Risk, and West Nile Virus Reaches the United Kingdom",
+            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-billy-joels-brain-condition-gigi-robinsons-surgical-advocacy-climate-and-cancer-risk-and-west-nile-virus-reaches-the-united-kingdom/",
+            "description": "The Scan by 2 Minute Medicine® is a pop-culture medical newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. Billy Joel’s Brain Co...",
+            "pubDate": "2025-05-27T16:01:24",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
         },
         {
             "title": "Medicaid cuts are quietly fueling the diabetic kidney failure crisis",
             "link": "https://kevinmd.com/2025/05/medicaid-cuts-are-quietly-fueling-the-diabetic-kidney-failure-crisis.html",
             "description": "We’re constantly reminded of the organ shortage and the lives lost while waiting for a kidney. Like fish unaware they swim in water, we’ve accepted th...",
             "pubDate": "2025-05-27T20:00:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Addressing the physician shortage: How AI can help, not replace",
             "link": "https://kevinmd.com/2025/05/addressing-the-physician-shortage-how-ai-can-help-not-replace.html",
             "description": "The physician shortage in the United States is a real and urgent issue. Projections from the Association of American Medical Colleges (AAMC) estimate ...",
             "pubDate": "2025-05-27T16:00:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Why physicians deserve more than an oxygen mask",
+            "link": "https://kevinmd.com/2025/05/why-physicians-deserve-more-than-an-oxygen-mask.html",
+            "description": "In medicine, we’ve long relied on the oxygen mask analogy to justify self-care: “Put your own mask on first before assisting others.” It’s a powerful ...",
+            "pubDate": "2025-05-27T18:00:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }
