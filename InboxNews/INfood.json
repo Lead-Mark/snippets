@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-28T13:00:41.559180",
+    "lastBuildDate": "2025-05-29T11:37:49.026182",
     "items": [
+        {
+            "title": "Ingredient Substitution Guide",
+            "link": "https://therecipecritic.com/ingredient-substitution-guide/",
+            "description": "Ever start a recipe, only to realize you’re missing a key ingredient? Don’t worry—it happens to all of us! Whether…",
+            "pubDate": "2025-05-29T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/04/measuring-ingredients-.jpg"
+        },
         {
             "title": "Coconut Cream Lush",
             "link": "https://therecipecritic.com/coconut-lush/",
@@ -31,13 +38,6 @@
             "description": "The best sandwich ever? Hands down, a BLT. Add in my obsession with pasta salads and, chef’s kiss! This BLT…",
             "pubDate": "2025-05-20T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/blt-pasta-salad-.jpg"
-        },
-        {
-            "title": "Elote Pasta Salad",
-            "link": "https://therecipecritic.com/elote-pasta-salad/",
-            "description": "Guys, I’m obsessed with elote, so obviously I had to turn all that smoky, creamy, cheesy, lime magic into a…",
-            "pubDate": "2025-05-18T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/elote-pasta-salad-.jpg"
         },
         {
             "title": "Jerk Tofu & Roasted Plantain Bowls",

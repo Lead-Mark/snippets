@@ -2,56 +2,70 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-05-28T13:00:44.446706",
+    "lastBuildDate": "2025-05-29T11:37:52.096410",
     "items": [
+        {
+            "title": "New tools to identify and monitor cardiovascular disease",
+            "link": "https://www.nsf.gov/news/new-tools-identify-monitor-cardiovascular-disease",
+            "description": "Cardiovascular diseases cause one death every 33 seconds in America. Diagnosing these conditions, which account for approximately 20% of all deaths an...",
+            "pubDate": "2025-05-29T14:01:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Mid-air transformation helps flying, rolling robot to transition smoothly",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250528150829.htm",
+            "description": "Engineers have developed a real-life Transformer that has the 'brains' to morph in midair, allowing the drone-like robot to smoothly roll away and beg...",
+            "pubDate": "2025-05-28T20:08:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Clearest-ever images of sun's corona captured with new optical technique",
+            "link": "https://www.nsf.gov/news/clearest-ever-images-suns-corona-captured-new-optical",
+            "description": "Using a new optical system, scientists at the U.S. National Science Foundation National Solar Observatory and the New Jersey Institute of Technology h...",
+            "pubDate": "2025-05-28T19:36:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "Volcanic ash is critical to tracking changes in eruption behavior",
             "link": "https://www.nsf.gov/news/volcanic-ash-critical-tracking-changes-eruption-behavior",
             "description": "U.S. National Science Foundation-funded researchers discovered that subtle changes in magma composition may drive tremors during volcanic eruptions, o...",
             "pubDate": "2025-05-28T14:24:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Huge sea-urchin populations are overwhelming Hawaii's coral reefs",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250528150650.htm",
+            "description": "This study measured the growth rate of coral reefs in Honaunau Bay, Hawaii, using on-site data gathering and aerial imagery. Researchers found that th...",
+            "pubDate": "2025-05-28T20:06:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "New AI tool reveals single-cell structure of chromosomes -- in 3D",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250528131824.htm",
+            "description": "In a major leap forward for genetic and biomedical research, scientists have developed a powerful new artificial intelligence tool that can predict th...",
+            "pubDate": "2025-05-28T18:18:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "A sweeping study of 7,000 years of monuments in South Arabia",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250528150706.htm",
+            "description": "New research brings together 7,000 years of history in South Arabia to show how ancient pastoralists changed placement and construction of monuments o...",
+            "pubDate": "2025-05-28T20:07:06",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "New fuel cell could enable electric aviation",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250527124115.htm",
-            "description": "Engineers developed a fuel cell that offers more than three times as much energy per pound compared to lithium-ion batteries. Powered by a reaction be...",
-            "pubDate": "2025-05-27T17:41:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "'Raindrops in the Sun's corona': New adaptive optics shows stunning details of our star's atmosphere",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250527124440.htm",
-            "description": "Scientists have produced the finest images of the Sun's corona to date. To make these high-resolution images and movies, the team developed a new 'cor...",
-            "pubDate": "2025-05-27T17:44:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The ocean seems to be getting darker",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250527124438.htm",
-            "description": "Scientists, who have spent more than a decade examining the impact of artificial light at night on the world's coasts and oceans, have shown that more...",
-            "pubDate": "2025-05-27T17:44:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Why after 2000 years we still don't know how tickling works",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250527124227.htm",
-            "description": "How come you can't tickle yourself? And why can some people handle tickling perfectly fine while others scream their heads off? Neuroscientists argue ...",
-            "pubDate": "2025-05-27T17:42:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "The magic of light: Dozens of images hidden in a single screen",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250527124546.htm",
-            "description": "New technology that uses light's color and spin to display multiple images.",
-            "pubDate": "2025-05-27T17:45:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Nearly five million seized seahorses just 'tip of the iceberg' in global wildlife smuggling",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250528132240.htm",
+            "description": "Close to five million smuggled seahorses worth an estimated CAD$29 million were seized by authorities over a 10-year span, according to a new study th...",
+            "pubDate": "2025-05-28T18:22:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Preparing science educators to use and teach AI in the classroom",
             "link": "https://www.nsf.gov/news/preparing-science-educators-use-teach-ai-classroom",
             "description": "An interdisciplinary team of researchers funded by the U.S. National Science Foundation has created a teacher-driven curriculum called Shark AI. This ...",
             "pubDate": "2025-05-13T19:32:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Lab-synthesized botanical compound shows promise for fighting aggressive breast cancer",
@@ -59,20 +73,6 @@
             "description": "Chemists funded by the U.S. National Science Foundation have developed a new process to synthesize a plant-based compound that shows effectiveness aga...",
             "pubDate": "2025-05-08T14:18:24",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Using machine learning to speed up discovery for drug delivery and disease treatment",
-            "link": "https://www.nsf.gov/news/using-machine-learning-speed-discovery-drug-delivery-disease",
-            "description": "A new computational tool developed with support from the U.S. National Science Foundation could greatly speed up determining the 3D structure of RNAs,...",
-            "pubDate": "2025-05-07T16:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "4 planets discovered around Barnard's star, one of the closest stars to Earth",
-            "link": "https://www.nsf.gov/news/4-planets-discovered-around-barnards-star-one-closest-stars",
-            "description": "Researchers supported by the U.S. National Science Foundation have discovered four tiny exoplanets orbiting Barnard's star, a red dwarf at the center ...",
-            "pubDate": "2025-05-07T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }
