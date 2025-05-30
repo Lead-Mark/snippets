@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-29T11:37:57.979501",
+    "lastBuildDate": "2025-05-30T11:07:52.102663",
     "items": [
+        {
+            "title": "FLUX.1 Kontext enables in-context image generation for enterprise AI pipelines",
+            "link": "https://venturebeat.com/ai/flux-1-kontext-enables-in-context-image-generation-for-enterprise-ai-pipelines/",
+            "description": "FLUX.1 Kontext from Black Forest Labs aims to let users edit images multiple times through both text and reference images without losing speed.",
+            "pubDate": "2025-05-30T00:32:17",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/generation-ea8c698d-2cc4-4d75-bbb6-f06d2d95c369.png?w=578"
+        },
+        {
+            "title": "Emotive voice AI startup Hume launches new EVI 3 model with rapid custom voice creation",
+            "link": "https://venturebeat.com/ai/emotive-voice-ai-startup-hume-launches-new-evi-3-model-with-rapid-custom-voice-creation/",
+            "description": "While EVI 3’s specific API pricing has not been announced yet (marked as TBA), the pattern suggests it will be usage-based.",
+            "pubDate": "2025-05-29T19:50:47",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_minimalist_flat_polygonal_basic_shapes_retro_modern_col_54f82d10-cd96-4390-ad57-eb1b220e3c3a.png?w=578"
+        },
         {
             "title": "DeepSeek R1-0528 arrives in powerful open source challenge to OpenAI o3 and Google Gemini 2.5 Pro",
             "link": "https://venturebeat.com/ai/deepseek-r1-0528-arrives-in-powerful-open-source-challenge-to-openai-o3-and-google-gemini-2-5-pro/",
@@ -24,20 +38,6 @@
             "description": "EnCharge AI, a startup that raised $144 million to date, announced the EnCharge EN100, an AI accelerator built on analog in-memory computing.",
             "pubDate": "2025-05-29T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/encharge.jpg?w=578"
-        },
-        {
-            "title": "Peer launches Global Simulation as real-time digital Earth with AI agents",
-            "link": "https://venturebeat.com/games/peer-launches-global-simulation-as-real-time-digital-earth-with-ai-agents/",
-            "description": "Peer launched Global Simulation, a real-time digital Earth where players use avatars to connect by location and build relationships in a living, spati...",
-            "pubDate": "2025-05-29T13:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "DanaBot takedown shows how agentic AI cut months of SOC analysis to weeks",
-            "link": "https://venturebeat.com/security/agentic-ai-defeated-danabot-exposing-key-lessons-for-soc-teams/",
-            "description": "Agentic AI played a decisive role in dismantling DanaBot, a Russian malware platform responsible for more than 50 million dollars in damages.",
-            "pubDate": "2025-05-29T01:23:47",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/new-AND-FINAL-hero.jpg?w=578"
         }
     ]
 }
