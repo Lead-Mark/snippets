@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-05-30T11:07:52.102663",
+    "lastBuildDate": "2025-05-31T02:24:16.340361",
     "items": [
+        {
+            "title": "QwenLong-L1 solves long-context reasoning challenge that stumps current LLMs",
+            "link": "https://venturebeat.com/ai/qwenlong-l1-solves-long-context-reasoning-challenge-that-stumps-current-llms/",
+            "description": "Alibaba's QwenLong-L1 helps LLMs deeply understand long documents, unlocking advanced reasoning for practical enterprise applications.",
+            "pubDate": "2025-05-31T00:39:01",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/Robot-reading-script.webp?w=578"
+        },
+        {
+            "title": "ElevenLabs debuts Conversational AI 2.0 voice assistants that understand when to pause, speak, and take turns talking",
+            "link": "https://venturebeat.com/ai/elevenlabs-debuts-conversational-ai-2-0-voice-assistants-that-understand-when-to-pause-speak-and-take-turns-talking/",
+            "description": "With Conversational AI 2.0, ElevenLabs aims to provide tools and infrastructure for truly intelligent, context-aware enterprise voice agents.",
+            "pubDate": "2025-05-30T23:00:52",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_minimalist_cheerful_simple_charcoal_pen_illustration__4c764cd5-177c-4f37-a56d-4853083d9e06_0-1.png?w=578"
+        },
+        {
+            "title": "Which LLM should you use? Token Monster automatically combines multiple models and tools for you",
+            "link": "https://venturebeat.com/ai/which-llm-should-you-use-token-monster-automatically-combines-multiple-models-and-tools-for-you/",
+            "description": "This architecture lets Token Monster tap into a range of models from different providers without having to build separate integrations for each one.",
+            "pubDate": "2025-05-30T19:35:57",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_hand_drawn_messy_flat_2D_illustration_childish_orange_125668c3-2ad5-4c38-a94c-e1bc43570593_2.png?w=578"
+        },
         {
             "title": "FLUX.1 Kontext enables in-context image generation for enterprise AI pipelines",
             "link": "https://venturebeat.com/ai/flux-1-kontext-enables-in-context-image-generation-for-enterprise-ai-pipelines/",
@@ -17,27 +38,6 @@
             "description": "While EVI 3’s specific API pricing has not been announced yet (marked as TBA), the pattern suggests it will be usage-based.",
             "pubDate": "2025-05-29T19:50:47",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_minimalist_flat_polygonal_basic_shapes_retro_modern_col_54f82d10-cd96-4390-ad57-eb1b220e3c3a.png?w=578"
-        },
-        {
-            "title": "DeepSeek R1-0528 arrives in powerful open source challenge to OpenAI o3 and Google Gemini 2.5 Pro",
-            "link": "https://venturebeat.com/ai/deepseek-r1-0528-arrives-in-powerful-open-source-challenge-to-openai-o3-and-google-gemini-2-5-pro/",
-            "description": "Additionally, the model’s hallucination rate has been reduced, contributing to more reliable and consistent output.",
-            "pubDate": "2025-05-29T14:22:40",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/cfr0z3n_3D_cell_shaded_artwork_a_giant_sperm_whale_breaches_the_0c213898-9b46-4bbd-9687-ce32e1914685.png?w=578"
-        },
-        {
-            "title": "How Snowflake’s open-source text-to-SQL and Arctic inference models solve enterprise AI’s two biggest deployment headaches",
-            "link": "https://venturebeat.com/ai/how-snowflakes-open-source-text-to-sql-and-arctic-inference-models-solve-enterprise-ais-two-biggest-deployment-headaches/",
-            "description": "New open-source efforts from Snowflake aim to help solve that unsolved challenges of text-to-SQL and inference performance for enterprise AI.",
-            "pubDate": "2025-05-29T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/corporate_develope_image-smk.jpg?w=578"
-        },
-        {
-            "title": "Encharge AI unveils EN100 AI accelerator chip with analog memory",
-            "link": "https://venturebeat.com/games/encharge-ai-unveils-en100-ai-accelerator-chip-with-analog-memory/",
-            "description": "EnCharge AI, a startup that raised $144 million to date, announced the EnCharge EN100, an AI accelerator built on analog in-memory computing.",
-            "pubDate": "2025-05-29T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/encharge.jpg?w=578"
         }
     ]
 }
