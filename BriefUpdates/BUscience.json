@@ -2,49 +2,56 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-02T12:01:05.364587",
+    "lastBuildDate": "2025-06-02T14:52:03.728381",
     "items": [
         {
             "title": "Singing to babies improves their mood",
             "link": "https://www.sciencedaily.com/releases/2025/05/250530124123.htm",
             "description": "Singing to your infant can significantly boost the baby's mood, according to a recent study. Around the world and across cultures, singing to babies s...",
             "pubDate": "2025-05-30T17:41:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Long shot science leads to revised age for land-animal ancestor",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250529194648.htm",
-            "description": "The fossils of ancient salamander-like creatures in Scotland are among the most well-preserved examples of early stem tetrapods -- some of the first a...",
-            "pubDate": "2025-05-30T00:46:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Scientists discover new evidence of intermediate-mass black holes",
             "link": "https://www.sciencedaily.com/releases/2025/05/250530123810.htm",
             "description": "A series of studies sheds light on the origins and characteristics of intermediate-mass black holes.",
             "pubDate": "2025-05-30T17:38:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "NSF advanced computing accelerates preeclampsia research and potential treatments",
             "link": "https://www.nsf.gov/news/nsf-advanced-computing-accelerates-preeclampsia-research",
             "description": "Each year, preeclampsia—a life-threatening pregnancy complication—affects nearly 1 in 25 expectant mothers in the United States. Emerging suddenly aft...",
             "pubDate": "2025-05-30T16:36:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Listening to electrons talk",
-            "link": "https://www.sciencedaily.com/releases/2025/05/250529155435.htm",
-            "description": "Researchers present new experimental and theoretical results for the bound electron g-factor in lithium-like tin which has a much higher nuclear charg...",
-            "pubDate": "2025-05-29T20:54:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Long shot science leads to revised age for land-animal ancestor",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250529194648.htm",
+            "description": "The fossils of ancient salamander-like creatures in Scotland are among the most well-preserved examples of early stem tetrapods -- some of the first a...",
+            "pubDate": "2025-05-30T00:46:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Save twice the ice by limiting global warming",
             "link": "https://www.sciencedaily.com/releases/2025/05/250529155432.htm",
             "description": "A new study finds that if global warming exceeds the Paris Climate Agreement targets, the non-polar glacier mass will diminish significantly. However,...",
             "pubDate": "2025-05-29T20:54:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Learning occurs quicker than thought, according to brain imaging",
+            "link": "https://www.nsf.gov/news/learning-occurs-quicker-thought-according-brain-imaging",
+            "description": "Researchers supported by the U.S. National Science Foundation have provided a new understanding of how and where learning occurs in the brain. The two...",
+            "pubDate": "2025-05-29T16:30:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Listening to electrons talk",
+            "link": "https://www.sciencedaily.com/releases/2025/05/250529155435.htm",
+            "description": "Researchers present new experimental and theoretical results for the bound electron g-factor in lithium-like tin which has a much higher nuclear charg...",
+            "pubDate": "2025-05-29T20:54:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "New tools to identify and monitor cardiovascular disease",
@@ -54,25 +61,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Learning occurs quicker than thought, according to brain imaging",
-            "link": "https://www.nsf.gov/news/learning-occurs-quicker-thought-according-brain-imaging",
-            "description": "Researchers supported by the U.S. National Science Foundation have provided a new understanding of how and where learning occurs in the brain. The two...",
-            "pubDate": "2025-05-29T16:30:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
             "title": "Clearest-ever images of sun's corona captured with new optical technique",
             "link": "https://www.nsf.gov/news/clearest-ever-images-suns-corona-captured-new-optical",
             "description": "Using a new optical system, scientists at the U.S. National Science Foundation National Solar Observatory and the New Jersey Institute of Technology h...",
             "pubDate": "2025-05-28T19:36:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Volcanic ash is critical to tracking changes in eruption behavior",
             "link": "https://www.nsf.gov/news/volcanic-ash-critical-tracking-changes-eruption-behavior",
             "description": "U.S. National Science Foundation-funded researchers discovered that subtle changes in magma composition may drive tremors during volcanic eruptions, o...",
             "pubDate": "2025-05-28T14:24:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }
