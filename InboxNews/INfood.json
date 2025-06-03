@@ -2,8 +2,22 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-02T14:52:00.069882",
+    "lastBuildDate": "2025-06-03T10:46:26.933995",
     "items": [
+        {
+            "title": "Zucchini Pesto Pasta with Roasted Tomatoes & Chickpeas",
+            "link": "https://minimalistbaker.com/zucchini-pesto-pasta/",
+            "description": "Whether you’re a gardener, farmers market goer, or just love summer produce, this is the dish for you! A summery zucchini pesto pasta with caramelized...",
+            "pubDate": "2025-06-03T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/02/Zucchini-Pesto-Pasta-with-Roasted-Chickpeas-7-680x1020.jpg"
+        },
+        {
+            "title": "Crispy Cauliflower Fritters",
+            "link": "https://therecipecritic.com/crispy-cauliflower-fritters/",
+            "description": "These crispy cauliflower fritters are how I trick my kids into eating veggies. They even ask for seconds. The parmesan…",
+            "pubDate": "2025-06-02T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/cauliflower-fritters-2-2.jpg"
+        },
         {
             "title": "Creamy Green Goddess Pasta Salad",
             "link": "https://therecipecritic.com/green-goddess-pasta-salad/",
@@ -33,13 +47,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/coconut-cream-lush-2.jpg"
         },
         {
-            "title": "Fluffy Lime Jello Salad",
-            "link": "https://therecipecritic.com/lime-jello-salad-2/",
-            "description": "I gave the vintage lime Jello salad a modern makeover. With cream cheese for tang, pineapple and lime for zip,…",
-            "pubDate": "2025-05-25T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/green-jello-salad.jpg"
-        },
-        {
             "title": "Jerk Tofu & Roasted Plantain Bowls",
             "link": "https://minimalistbaker.com/jerk-tofu-roasted-plantain-bowls/",
             "description": "Why choose between spicy, savory, and sweet when you can have them ALL? All the taste buds light up with this Caribbean-inspired bowl featuring roaste...",
@@ -59,13 +66,6 @@
             "description": "When you’re craving cheesecake and you’re craving it now , look no further! These NO-BAKE chocolate cheesecake cups come together fast with simple met...",
             "pubDate": "2025-05-06T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/11/No-Bake-Vegan-Chocolate-Cheesecake-Cups-9-680x1020.jpg"
-        },
-        {
-            "title": "Cucumber Lime Agua Fresca",
-            "link": "https://minimalistbaker.com/cucumber-lime-agua-fresca/",
-            "description": "Staycation, anyone? One sip in and this cucumber lime agua fresca will have you feeling in full vacation mode. Made with just 3 ingredients in 10 minu...",
-            "pubDate": "2025-04-29T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/03/Cucumber-Lime-Agua-Fresca-6-680x1020.jpg"
         }
     ]
 }
