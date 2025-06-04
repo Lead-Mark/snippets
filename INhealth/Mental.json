@@ -2,70 +2,98 @@
     "title": "Mental",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Mental, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-03T10:47:11.605069",
+    "lastBuildDate": "2025-06-04T10:59:18.508435",
     "items": [
         {
-            "title": "Drink This Type Of Coffee To Lower Type 2 Diabetes Risk (By Up To 4% Per Cup)",
-            "link": "https://www.mindbodygreen.com/articles/coffee-can-lower-type-2-diabetes-risk-according-to-new-researchknow-more-about-it",
-            "description": "Plus, how to get the most benefit from your morning brew.",
-            "pubDate": "2025-06-03T10:04:00",
+            "title": "This Common Factor Could Be Making You Less Motivated To Work Out",
+            "link": "https://www.mindbodygreen.com/articles/exercise-motivation-may-rely-on-gut-health-new-study-finds-your-gut-health",
+            "description": "When it comes to exercise, motivation is everything.",
+            "pubDate": "2025-06-04T13:05:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "The Surprising Health Benefits Of Fidgeting & How To Use It To Your Advantage",
+            "link": "https://www.mindbodygreen.com/articles/surprising-health-benefits-of-fidgeting-and-gesturingadvantage-how-to-use",
+            "description": "Sitting still could be getting in the way of your creativity.",
+            "pubDate": "2025-06-04T12:06:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Here's What All 12 Signs Need To Include On Their Summer Bucket List",
-            "link": "https://www.mindbodygreen.com/articles/summer-bucket-list-based-on-zodiac-sign",
-            "description": "'Tis the season.",
-            "pubDate": "2025-06-03T15:04:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Want To Slow Cellular Aging? Study Shows This Vitamin Can Help",
-            "link": "https://www.mindbodygreen.com/articles/this-vitamin-slows-cellular-aging-according-to-new-study",
-            "description": "You're probably not getting enough of it through diet alone.",
-            "pubDate": "2025-06-03T11:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "In Women's Heart Health, Muscle Mass Is Far More Important Than Weight",
-            "link": "https://www.mindbodygreen.com/articles/women-should-worry-more-about-muscle-than-fat-for-heart-health-in-matters-of-the-heart",
-            "description": "Ditch the scale; hit the gym.",
-            "pubDate": "2025-06-03T11:14:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "3 Eating Habits That Could Lead To Clear & Firm Skin",
-            "link": "https://www.mindbodygreen.com/articles/clean-beauty-school-rakhi-roy-ms-rd",
-            "description": "“Simplify your skincare and diversify your diet.\"",
-            "pubDate": "2025-06-03T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Cancer & Mental Health: Tools to Support Your Journey",
-            "link": "https://www.talkspace.com/blog/cancer-mental-health-tools/",
-            "description": "Cancer is a life-altering diagnosis that not only comes with physical challenges but also emotional hurdles. Feelings of… The post Cancer & Mental Hea...",
-            "pubDate": "2025-06-02T17:36:53",
+            "title": "Balance Your Good & Bad Gut Bacteria By Eating More Of This",
+            "link": "https://www.mindbodygreen.com/articles/these-nutrients-are-key-for-diversifying-your-gut-microbiome-research-finds",
+            "description": "Time for a rainbow salad, anyone?",
+            "pubDate": "2025-06-04T13:04:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Give It To Me Straight — Is Brown Rice That Much Better Than White?",
+            "link": "https://www.mindbodygreen.com/articles/brown-rice-vs-white-rice-which-is-healthier",
+            "description": "This vs. that, rice edition.",
+            "pubDate": "2025-06-04T13:04:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "3 Things That Can Happen When You Eat Late At Night, According To Research",
+            "link": "https://www.mindbodygreen.com/articles/eating-late-at-night-according-to-research-3-reasons-to-avoid",
+            "description": "From late dinners to midnight snacks.",
+            "pubDate": "2025-06-04T11:45:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "8 Effective Alternatives to Effexor",
+            "link": "https://www.talkspace.com/blog/effexor-alternatives/",
+            "description": "Effexor (venlafaxine) is an antidepressant in the class of drugs known as serotonin-norepinephrine reuptake inhibitors (SNRIs). It’s widely… The post ...",
+            "pubDate": "2025-06-03T21:02:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "How Long Does It Take Effexor to Work?",
+            "link": "https://www.talkspace.com/blog/how-long-does-it-take-for-effexor-to-work/",
+            "description": "Effexor (venlafaxine) is a serotonin-norepinephrine reuptake inhibitor (SNRI) used to treat mental health conditions like major depressive disorder… T...",
+            "pubDate": "2025-06-03T21:03:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Cymbalta vs Effexor: Which is Right for You?",
+            "link": "https://www.talkspace.com/blog/cymbalta-vs-effexor/",
+            "description": "Cymbalta (duloxetine) and Effexor (venlafaxine) are both medications in the class of drugs known as serotonin-norepinephrine reuptake inhibitors… The ...",
+            "pubDate": "2025-06-03T21:02:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Effexor vs Lexapro: Which Is Right for You?",
+            "link": "https://www.talkspace.com/blog/effexor-vs-lexapro/",
+            "description": "Effexor (venlafaxine) and Lexapro (escitalopram) are two commonly prescribed antidepressants used to treat depression and anxiety. While both… The pos...",
+            "pubDate": "2025-06-03T21:02:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Effexor Withdrawal: What You Need to Know",
+            "link": "https://www.talkspace.com/blog/effexor-withdrawal/",
+            "description": "Like any prescription antidepressant, discontinuing Effexor abruptly can cause uncomfortable, even dangerous, withdrawal symptoms. Withdrawal from thi...",
+            "pubDate": "2025-06-03T21:00:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Poem #2 I see  you",
             "link": "https://support.therapytribe.com/poem-2-i-see-you/",
             "description": "I see the smiles on your face, the way they fade when no one else is around. I see you get up, then stumble, I see you cry, then wipe the tears away l...",
             "pubDate": "2025-06-02T19:15:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Im Back",
-            "link": "https://support.therapytribe.com/im-back-3/",
-            "description": "Ive known about this site since before i was 15. I am now 18 ive been using this site since i was 14 years old. Do you know how depressing it is to co...",
-            "pubDate": "2025-05-29T06:08:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Poem #1 Child Eyes",
             "link": "https://support.therapytribe.com/poem-1-child-eyes/",
             "description": "**Child Eyes** Do you see that light above the sky? Do you see how it shines, how it dances, how it whispers secrets to the night? Do you see the star...",
             "pubDate": "2025-05-29T23:09:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Im Back",
+            "link": "https://support.therapytribe.com/im-back-3/",
+            "description": "Ive known about this site since before i was 15. I am now 18 ive been using this site since i was 14 years old. Do you know how depressing it is to co...",
+            "pubDate": "2025-05-29T06:08:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Suicide",
@@ -79,70 +107,42 @@
             "link": "https://support.therapytribe.com/i-hate-my-life-2/",
             "description": "If it weren’t for my parents I would’ve killed myself by now. I’m stuck. Besides my parents I hate everyone in my life. I hate this fucking place so g...",
             "pubDate": "2025-05-24T00:17:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Navigating Life as a Solo Ager: What You Need to Know",
-            "link": "https://www.talkspace.com/blog/solo-aging/",
-            "description": "The term solo aging is exactly what it sounds like — growing old alone — and it’s a… The post Navigating Life as a Solo Ager: What You Need to Know ap...",
-            "pubDate": "2025-05-05T17:54:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Uncovering the Causes of Aggression in Older Adults",
-            "link": "https://www.talkspace.com/blog/aggression-in-older-adults/",
-            "description": "Aggression in seniors can take many forms—verbal outbursts, passive-aggressive behaviors, or even physical confrontations. While these episodes may… T...",
-            "pubDate": "2025-05-05T17:51:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How Seniors Can Overcome Worry & Find Peace",
-            "link": "https://www.talkspace.com/blog/how-to-stop-worrying-as-a-senior/",
-            "description": "As we age, worry often grows. While the golden years can be filled with joy and companionship, persistent… The post How Seniors Can Overcome Worry & F...",
-            "pubDate": "2025-05-05T18:07:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Understanding Personality Changes in Older Adults",
-            "link": "https://www.talkspace.com/blog/personality-changes-in-older-adults/",
-            "description": "Our personalities continue to change throughout our lifetime, often influenced by many factors, including biological, psychological, and social… The p...",
-            "pubDate": "2025-05-05T17:53:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Understanding Bereavement After a Loss",
             "link": "https://www.calmsage.com/understanding-bereavement-after-a-loss/",
             "description": "If you have lost any of your loved ones, then this can be considered as the most painful instance in your life. This particular situation in life, whe...",
             "pubDate": "2025-03-13T12:02:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "What You Need to Know About Cushing’s Syndrome",
             "link": "https://www.calmsage.com/what-you-need-to-know-about-cushings-syndrome/",
             "description": "By now, you might be well aware of what dopamine, serotonin, and even cortisol do to your body and mind. In small waves, these hormones can have posit...",
             "pubDate": "2025-03-06T11:01:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "How the “Let Them” Theory Can Change Your Relationships",
             "link": "https://www.calmsage.com/how-the-let-them-theory-can-change-your-relationships/",
             "description": "Relationships are unpredictable, so when you try to control them, it can go out of hand. One aspect of this forms the basis of the ‘Let Them’ theory. ...",
             "pubDate": "2025-02-27T08:14:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Double Texting: What It Is and When to Do It",
             "link": "https://www.calmsage.com/double-texting-what-it-is-and-when-to-do-it/",
             "description": "Double texting is when you send a text, wait for hours, and then press enter to send another text. This dilemma is what many of us face, so you’re not...",
             "pubDate": "2025-02-20T09:50:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "How to Sober Up Fast: 10 Healthy Ways",
             "link": "https://www.calmsage.com/how-to-sober-up-fast-10-healthy-ways/",
             "description": "So, you’ve had a few drinks in you, and now you’re thinking about how to sober up fast. Trust me, it happens to the best of us, so seeking answers for...",
             "pubDate": "2025-02-16T14:37:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
