@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-04T10:57:45.225847",
+    "lastBuildDate": "2025-06-05T11:17:31.346418",
     "items": [
+        {
+            "title": "Databricks and Noma tackle CISOs’ AI nightmares around inference vulnerabilities",
+            "link": "https://venturebeat.com/security/databricks-noma-tackle-cisos-ai-inference-nightmare/",
+            "description": "Databricks Ventures and Noma Security partner to tackle critical AI inference vulnerabilities with real-time threat analytics, proactive red teaming, ...",
+            "pubDate": "2025-06-05T15:13:05",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/HERO-IMAGE-FOR-DATABRICKS-AND-NOMA-SECURITY-STORY.jpg?w=578"
+        },
+        {
+            "title": "Stop guessing why your LLMs break: Anthropic’s new tool shows you exactly what goes wrong",
+            "link": "https://venturebeat.com/ai/stop-guessing-why-your-llms-break-anthropics-new-tool-shows-you-exactly-what-goes-wrong/",
+            "description": "Anthropic's open-source circuit tracing tool can help developers debug, optimize, and control AI for reliable and trustable applications.",
+            "pubDate": "2025-06-04T23:39:09",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Interpretable-AI.webp?w=578"
+        },
+        {
+            "title": "OpenAI hits 3M business users and launches workplace tools to take on Microsoft",
+            "link": "https://venturebeat.com/ai/openai-hits-3m-business-users-and-launches-workplace-tools-to-take-on-microsoft/",
+            "description": "OpenAI reaches 3 million paying business users with 50% growth since February, launching new workplace AI tools including connectors and coding agents...",
+            "pubDate": "2025-06-04T18:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_a_modern_work_desk_with_a_computer_in_p_173d3d40-633f-457a-9291-9ed6205da39c.webp?w=578"
+        },
         {
             "title": "Mistral AI’s new coding assistant takes direct aim at GitHub Copilot",
             "link": "https://venturebeat.com/ai/mistral-ais-new-coding-assistant-takes-direct-aim-at-github-copilot/",
@@ -17,27 +38,6 @@
             "description": "Nvidia announced today its Blackwell chips are leading the AI benchmarks when it comes to training AI large-language models.",
             "pubDate": "2025-06-04T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/blackwell-8.jpg?w=578"
-        },
-        {
-            "title": "Your AI models are failing in production—Here’s how to fix model selection",
-            "link": "https://venturebeat.com/ai/your-ai-models-are-failing-in-production-heres-how-to-fix-model-selection/",
-            "description": "The Allen Institute of AI updated its reward model evaluation RewardBench to better reflect real-life scenarios for enterprises.",
-            "pubDate": "2025-06-04T00:47:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/crimedy7_illustration_of_a_robot_rewarding_another_robot_abstra_11fd0825-4ec3-4e18-80c7-dd371d901a25.png?w=578"
-        },
-        {
-            "title": "Nvidia CEO Jensen Huang sings praises of processor in Nintendo Switch 2",
-            "link": "https://venturebeat.com/gaming-business/nvidia-ceo-jensen-huang-sings-praises-of-processor-in-nintendo-switch-2/",
-            "description": "Nvidia CEO Jensen Huang, a key supplier for the hybrid console, sang the praises of the Switch 2 and its main processor today.",
-            "pubDate": "2025-06-03T23:48:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nvidia-nintendo-switch-2.jpg?w=578"
-        },
-        {
-            "title": "Phonely’s new AI agents hit 99% accuracy—and customers can’t tell they’re not human",
-            "link": "https://venturebeat.com/ai/phonelys-new-ai-agents-hit-99-accuracy-and-customers-cant-tell-theyre-not-human/",
-            "description": "Phonely, Maitai and Groq achieve breakthrough in AI phone support with sub-second response times and 99.2% accuracy, enabling human-level conversation...",
-            "pubDate": "2025-06-03T21:31:27",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_diverse_call_center_0a39d368-40f6-464f-9487-a614964bec67.webp?w=578"
         }
     ]
 }
