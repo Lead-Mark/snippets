@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-05T11:17:22.251579",
+    "lastBuildDate": "2025-06-06T11:02:14.337850",
     "items": [
+        {
+            "title": "Weekly Meal Plan #47",
+            "link": "https://therecipecritic.com/weekly-meal-plan-47/",
+            "description": "I put together a fun meal plan that will feel like you got to take a trip around the world.…",
+            "pubDate": "2025-06-06T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/Week-47-Meal-Plan-Collage-.jpg"
+        },
         {
             "title": "Zucchini Pesto Pasta with Roasted Tomatoes & Chickpeas",
             "link": "https://minimalistbaker.com/zucchini-pesto-pasta/",
@@ -38,13 +45,6 @@
             "description": "Ever start a recipe, only to realize you’re missing a key ingredient? Don’t worry—it happens to all of us! Whether…",
             "pubDate": "2025-05-29T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/04/measuring-ingredients-.jpg"
-        },
-        {
-            "title": "Coconut Cream Lush",
-            "link": "https://therecipecritic.com/coconut-lush/",
-            "description": "I love coconut cream pie, but let’s be real, I’m not always up for all that work. This Coconut Lush…",
-            "pubDate": "2025-05-27T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/coconut-cream-lush-2.jpg"
         },
         {
             "title": "Jerk Tofu & Roasted Plantain Bowls",

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-05T11:17:31.346418",
+    "lastBuildDate": "2025-06-06T11:02:23.403766",
     "items": [
         {
-            "title": "Databricks and Noma tackle CISOs’ AI nightmares around inference vulnerabilities",
+            "title": "Voice AI that actually converts: New TTS model boosts sales 15% for major brands",
+            "link": "https://venturebeat.com/ai/voice-ai-that-actually-converts-new-tts-model-boosts-sales-15-for-major-brands/",
+            "description": "A new spoken language model can quickly generate “infinite” new voices of varying genders, ages, demographics, based on a simple text prompt.",
+            "pubDate": "2025-06-06T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_surreal_a_computer_surrounded_by_human_mouths_speaking__ec99691b-8f3f-495d-a279-7e47142b569a.png?w=578"
+        },
+        {
+            "title": "Google claims Gemini 2.5 Pro preview beats DeepSeek R1 and Grok 3 Beta in coding performance",
+            "link": "https://venturebeat.com/ai/google-claims-gemini-2-5-pro-preview-beats-deepseek-r1-and-grok-3-beta-in-coding-performance/",
+            "description": "Google said the newest version of Gemini 2.5 Pro, now on preview, gives faster and more creative responses while performing better than OpenAI's o3.",
+            "pubDate": "2025-06-05T22:30:12",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/nuneybits_Vector_art_of_a_rocket_ship_in_the_colors_of_Google_963340d9-5109-47e3-8069-4a18e04ea02d.webp?w=578"
+        },
+        {
+            "title": "Solidroad just raised $6.5M to reinvent customer service with AI that coaches, not replaces",
+            "link": "https://venturebeat.com/ai/solidroad-just-raised-6-5m-to-reinvent-customer-service-with-ai-that-coaches-not-replaces/",
+            "description": "Dublin AI startup Solidroad raises $6.5M from First Round Capital to transform customer service training with AI that coaches human agents and improve...",
+            "pubDate": "2025-06-05T18:39:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/founders.jpg?w=578"
+        },
+        {
+            "title": "How much information do LLMs really memorize? Now we know, thanks to Meta, Google, Nvidia and Cornell",
+            "link": "https://venturebeat.com/ai/how-much-information-do-llms-really-memorize-now-we-know-thanks-to-meta-google-nvidia-and-cornell/",
+            "description": "Using a clever solution, researchers find GPT-style models have a fixed memorization capacity of approximately 3.6 bits per parameter.",
+            "pubDate": "2025-06-05T16:35:34",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_stark_crisp_neat_pop_art_colorful_flat_illustration_pol_390d4d22-fe0b-4e8f-8582-f917f6e29d3b.png?w=578"
+        },
+        {
+            "title": "Securing AI at scale: Databricks and Noma close the inference vulnerability gap",
             "link": "https://venturebeat.com/security/databricks-noma-tackle-cisos-ai-inference-nightmare/",
             "description": "Databricks Ventures and Noma Security partner to tackle critical AI inference vulnerabilities with real-time threat analytics, proactive red teaming, ...",
             "pubDate": "2025-06-05T15:13:05",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/HERO-IMAGE-FOR-DATABRICKS-AND-NOMA-SECURITY-STORY.jpg?w=578"
-        },
-        {
-            "title": "Stop guessing why your LLMs break: Anthropic’s new tool shows you exactly what goes wrong",
-            "link": "https://venturebeat.com/ai/stop-guessing-why-your-llms-break-anthropics-new-tool-shows-you-exactly-what-goes-wrong/",
-            "description": "Anthropic's open-source circuit tracing tool can help developers debug, optimize, and control AI for reliable and trustable applications.",
-            "pubDate": "2025-06-04T23:39:09",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Interpretable-AI.webp?w=578"
-        },
-        {
-            "title": "OpenAI hits 3M business users and launches workplace tools to take on Microsoft",
-            "link": "https://venturebeat.com/ai/openai-hits-3m-business-users-and-launches-workplace-tools-to-take-on-microsoft/",
-            "description": "OpenAI reaches 3 million paying business users with 50% growth since February, launching new workplace AI tools including connectors and coding agents...",
-            "pubDate": "2025-06-04T18:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_a_modern_work_desk_with_a_computer_in_p_173d3d40-633f-457a-9291-9ed6205da39c.webp?w=578"
-        },
-        {
-            "title": "Mistral AI’s new coding assistant takes direct aim at GitHub Copilot",
-            "link": "https://venturebeat.com/ai/mistral-ais-new-coding-assistant-takes-direct-aim-at-github-copilot/",
-            "description": "Mistral AI launches enterprise coding assistant with on-premise deployment to challenge GitHub Copilot, targeting corporate developers with data sover...",
-            "pubDate": "2025-06-04T15:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_a_retro_computer_screen_with_an_M_made__7941788c-1b4e-41e5-8c44-97f4bd4d471f.webp?w=578"
-        },
-        {
-            "title": "Nvidia says its Blackwell chips lead benchmarks in training AI LLMs",
-            "link": "https://venturebeat.com/games/nvidia-says-its-blackwell-chips-lead-benchmarks-in-training-ai-llms/",
-            "description": "Nvidia announced today its Blackwell chips are leading the AI benchmarks when it comes to training AI large-language models.",
-            "pubDate": "2025-06-04T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/blackwell-8.jpg?w=578"
         }
     ]
 }
