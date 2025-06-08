@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-06T11:02:23.403766",
+    "lastBuildDate": "2025-06-08T02:35:37.010106",
     "items": [
+        {
+            "title": "Agent-based computing is outgrowing the web as we know it",
+            "link": "https://venturebeat.com/ai/agent-based-computing-is-outgrowing-the-web-as-we-know-it/",
+            "description": "AI agents are moving from passive assistants to active participants. Today, we ask them to do. Tomorrow, we’ll authorize them to act.",
+            "pubDate": "2025-06-07T23:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/upscalemedia-transformed.webp?w=578"
+        },
+        {
+            "title": "Sam Altman calls for ‘AI privilege’ as OpenAI clarifies court order to retain temporary and deleted ChatGPT sessions",
+            "link": "https://venturebeat.com/ai/sam-altman-calls-for-ai-privilege-as-openai-clarifies-court-order-to-retain-temporary-and-deleted-chatgpt-sessions/",
+            "description": "Should talking to an AI chatbot be protected and privileged information, like talking to a doctor or lawyer? A new court order raises the idea",
+            "pubDate": "2025-06-06T18:48:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_flat_illustration_corporate_memphis_style_minimalist_sh_a3fa0a6c-ff2e-4f8a-9209-ce8a08d1806c.png?w=578"
+        },
         {
             "title": "Voice AI that actually converts: New TTS model boosts sales 15% for major brands",
             "link": "https://venturebeat.com/ai/voice-ai-that-actually-converts-new-tts-model-boosts-sales-15-for-major-brands/",
@@ -24,20 +38,6 @@
             "description": "Dublin AI startup Solidroad raises $6.5M from First Round Capital to transform customer service training with AI that coaches human agents and improve...",
             "pubDate": "2025-06-05T18:39:53",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/founders.jpg?w=578"
-        },
-        {
-            "title": "How much information do LLMs really memorize? Now we know, thanks to Meta, Google, Nvidia and Cornell",
-            "link": "https://venturebeat.com/ai/how-much-information-do-llms-really-memorize-now-we-know-thanks-to-meta-google-nvidia-and-cornell/",
-            "description": "Using a clever solution, researchers find GPT-style models have a fixed memorization capacity of approximately 3.6 bits per parameter.",
-            "pubDate": "2025-06-05T16:35:34",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_stark_crisp_neat_pop_art_colorful_flat_illustration_pol_390d4d22-fe0b-4e8f-8582-f917f6e29d3b.png?w=578"
-        },
-        {
-            "title": "Securing AI at scale: Databricks and Noma close the inference vulnerability gap",
-            "link": "https://venturebeat.com/security/databricks-noma-tackle-cisos-ai-inference-nightmare/",
-            "description": "Databricks Ventures and Noma Security partner to tackle critical AI inference vulnerabilities with real-time threat analytics, proactive red teaming, ...",
-            "pubDate": "2025-06-05T15:13:05",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/HERO-IMAGE-FOR-DATABRICKS-AND-NOMA-SECURITY-STORY.jpg?w=578"
         }
     ]
 }
