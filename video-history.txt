@@ -1,19 +1,21 @@
 1st title/link/image shows original
 2nd title/link/image shows update
+NL goes out at 9:30. last update before this time is commit that went out.
+if no update day of before 9:30, previous day's last update went out.
 
 commit 471291b0ea0f1a6b565afde00e8c76895c1061bd
 Author: musicis3965 <bobby.timmons@rocketmail.com>
 Date:   Mon Jun 9 14:25:20 2025 -0400
 
 
--            "title": "Is AI Replacing Software Engineering?",
--            "link": "https://www.youtube.com/watch?v=pJ5dLwpG0_I",
-+            "title": "Why Does Gen Z Look So Old",
-+            "link": "https://www.youtube.com/watch?v=z1wWOaH3YVk",
+-            "title": "Is AI Replacing Software Engineering?",         <<<< original
+-            "link": "https://www.youtube.com/watch?v=pJ5dLwpG0_I",    <<<< original
++            "title": "Why Does Gen Z Look So Old",                    <<<<< update
++            "link": "https://www.youtube.com/watch?v=z1wWOaH3YVk",    <<<<< update
              "description": "No description provided",
              "pubDate": "2025-01-31T00:00:00",
--            "image_url": "https://i.ytimg.com/vi/pJ5dLwpG0_I/hqdefault.jpg"
-+            "image_url": "https://i.ytimg.com/vi/z1wWOaH3YVk/hqdefault.jpg"
+-            "image_url": "https://i.ytimg.com/vi/pJ5dLwpG0_I/hqdefault.jpg"    <<<< original
++            "image_url": "https://i.ytimg.com/vi/z1wWOaH3YVk/hqdefault.jpg"    <<<<< update
          },
          {
 -            "title": "These Natural Phenomena Challenge What We Know About Earth",
