@@ -2,8 +2,22 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-09T14:14:39.520432",
+    "lastBuildDate": "2025-06-10T11:02:03.996541",
     "items": [
+        {
+            "title": "The Perfect Arnold Palmer",
+            "link": "https://therecipecritic.com/arnold-palmer-recipe/",
+            "description": "If you love iced tea, you’re going to be obsessed with this Arnold Palmer. The combo of crisp black tea…",
+            "pubDate": "2025-06-10T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/arnold-palmer-.jpg"
+        },
+        {
+            "title": "No-Bake Coconut Lime Energy Bites",
+            "link": "https://minimalistbaker.com/coconut-lime-energy-bites/",
+            "description": "Let your tastebuds transport you to a tropical destination with our new NO-BAKE Coconut Lime Energy Bites! What started as a cake quickly turned into ...",
+            "pubDate": "2025-06-10T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/05/No-Bake-Coconut-Lime-Energy-Bites-6-680x1020.jpg"
+        },
         {
             "title": "Crack Corn Dip",
             "link": "https://therecipecritic.com/crack-corn-dip/",
@@ -40,13 +54,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/green-goddess-pasta-salad-.jpg"
         },
         {
-            "title": "Weekly Meal Plan #46",
-            "link": "https://therecipecritic.com/weekly-meal-plan-46/",
-            "description": "I wanted to make this week as delicious and stress-free as possible. This meal plan is packed with easy, comforting…",
-            "pubDate": "2025-05-30T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/Week-46-Meal-Plan-Collage-.jpg"
-        },
-        {
             "title": "Jerk Tofu & Roasted Plantain Bowls",
             "link": "https://minimalistbaker.com/jerk-tofu-roasted-plantain-bowls/",
             "description": "Why choose between spicy, savory, and sweet when you can have them ALL? All the taste buds light up with this Caribbean-inspired bowl featuring roaste...",
@@ -59,13 +66,6 @@
             "description": "It’s no secret we love spicy , smoky entrées here at MB (exhibits a, b, and c). And what’s the perfect side to accompany them, you ask? Mango cucumber...",
             "pubDate": "2025-05-13T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/05/Mango-Cucumber-Salad-6-680x1020.jpg"
-        },
-        {
-            "title": "No-Bake Vegan Chocolate Cheesecake Cups (5 Minutes!)",
-            "link": "https://minimalistbaker.com/vegan-chocolate-cheesecake-cups/",
-            "description": "When you’re craving cheesecake and you’re craving it now , look no further! These NO-BAKE chocolate cheesecake cups come together fast with simple met...",
-            "pubDate": "2025-05-06T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/11/No-Bake-Vegan-Chocolate-Cheesecake-Cups-9-680x1020.jpg"
         }
     ]
 }
