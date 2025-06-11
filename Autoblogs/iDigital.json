@@ -2,35 +2,42 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-11T10:53:16.047694",
+    "lastBuildDate": "2025-06-11T14:31:57.438186",
     "items": [
         {
-            "title": "Wandercraft raises $75M for acceleration of AI-powered humanoid robotics and exoskeletons",
-            "link": "https://venturebeat.com/games/wandercraft-raises-75m-for-acceleration-of-ai-powered-humanoid-robotics-and-exoskeletons/",
-            "description": "Wandercraft, a maker of self-balancing robotic mobility systems, has secured $75 million in funding to accelerate AI-powered robotics.",
+            "title": "Why most enterprise AI agents never reach production and how Databricks plans to fix it",
+            "link": "https://venturebeat.com/ai/why-most-enterprise-ai-agents-never-reach-production-and-how-databricks-plans-to-fix-it/",
+            "description": "Databricks Agent Bricks automates enterprise AI agent optimization and evaluation, eliminating manual processes that block production deployments.",
             "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/wandercraft.jpg?w=578"
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/corporate_user_ai_bricks_smk.jpg?w=578"
         },
         {
-            "title": "The Saylor-Chanos clash of Wall Street heavyweights is all about MicroStrategy’s premium to bitcoin",
-            "link": "https://www.marketwatch.com/story/explaining-the-saylor-chanos-clash-of-wall-street-heavyweights-over-microstrategy-89594c1f?mod=mw_rss_topstories",
-            "description": "What Michael Saylor and Jim Chanos are actually disagreeing about.",
-            "pubDate": "2025-06-11T14:45:00",
-            "image_url": "https://images.mktw.net/im-24428723"
+            "title": "Here’s how the 55% U.S. tariffs on China are broken down",
+            "link": "https://www.marketwatch.com/story/heres-how-the-55-u-s-tariffs-on-china-are-broken-down-1457e40b?mod=mw_rss_topstories",
+            "description": "President Trump, in a post on Truth Social, said the U.S. is “getting a total of 55% tariffs.”",
+            "pubDate": "2025-06-11T18:51:00",
+            "image_url": "https://images.mktw.net/im-93949333"
         },
         {
-            "title": "Was the Trump-Musk feud just a ploy to distance Tesla from the MAGA brand?",
-            "link": "https://www.marketwatch.com/story/almost-everything-youve-read-about-the-trump-musk-feud-is-probably-wrong-290b0978?mod=mw_rss_topstories",
-            "description": "Everything you have read about the squabble between the president and world’s richest man is probably wrong.",
-            "pubDate": "2025-06-11T15:00:00",
-            "image_url": "https://images.mktw.net/im-02732550"
+            "title": "Universal Robots offers direct torque control for demanding cobot tasks",
+            "link": "https://www.therobotreport.com/universal-robots-offers-direct-torque-control-for-demanding-cobot-tasks/",
+            "description": "Universal Robots says direct torque control has potential for cobot applications such as assembly and screwdriving. The post Universal Robots offers d...",
+            "pubDate": "2025-06-11T13:30:09",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/universalrobots-featured.jpg"
         },
         {
-            "title": "NVIDIA Isaac, Omniverse, and Halos to aid European robotics developers",
-            "link": "https://www.therobotreport.com/nvidia-isaac-omniverse-halos-aid-european-robotics-developers/",
-            "description": "NVIDIA has released a safety platform for robotics developers and updated its simulation, AI, and autonomous vehicle offerings. The post NVIDIA Isaac,...",
-            "pubDate": "2025-06-11T12:00:49",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Robotics-Blog_2.jpg"
+            "title": "Wandercraft raises $75M to scale exoskeletons, humanoids",
+            "link": "https://www.therobotreport.com/wandercraft-raises-75m-to-scale-exoskeletons-humanoids/",
+            "description": "The new funding will help propel Wandercraft into its next phase of growth, which involves deploying its new Calvin-40 humanoid. The post Wandercraft ...",
+            "pubDate": "2025-06-11T18:35:15",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/wandercraft-featured.jpg"
+        },
+        {
+            "title": "‘Generative AI helps us bend time’: CrowdStrike, Nvidia embed real-time LLM defense, changing how enterprises secure AI",
+            "link": "https://venturebeat.com/security/crowdstrike-falcon-now-powers-runtime-defense-in-nvidias-llms/",
+            "description": "Falcon is now built into Nvidia’s LLMs, delivering native runtime threat defense and eliminating blind spots across AI pipelines.",
+            "pubDate": "2025-06-11T17:39:08",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/final-hero.jpg?w=578"
         },
         {
             "title": "Outset raises $17M to replace human interviewers with AI agents for enterprise research",
@@ -47,46 +54,25 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/drone-swarms.jpg"
         },
         {
-            "title": "Here’s how the 55% U.S. tariffs on China are broken down",
-            "link": "https://www.marketwatch.com/story/heres-how-the-55-u-s-tariffs-on-china-are-broken-down-1457e40b?mod=mw_rss_topstories",
-            "description": "Trump, in a post on Truth Social, said the U.S. is “getting a total of 55% tariffs.”",
-            "pubDate": "2025-06-11T15:42:00",
-            "image_url": "https://images.mktw.net/im-93949333"
+            "title": "Databricks open-sources declarative ETL framework powering 90% faster pipeline builds",
+            "link": "https://venturebeat.com/data-infrastructure/databricks-open-sources-declarative-etl-framework-powering-90-faster-pipeline-builds/",
+            "description": "With Apache Spark Declarative Pipelines, engineers describe what their pipeline should do using SQL or Python, and Apache Spark handles the execution.",
+            "pubDate": "2025-06-11T18:29:32",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/a-digital-illustration-depicting-a-futur_kE-H4taWRP2kXzwqOaoFVA_-sNhwELMQDSW37kE1R_8ww.png?w=578"
         },
         {
-            "title": "Quantum Art integrates Nvidia for its scalable quantum computers",
-            "link": "https://venturebeat.com/games/quantum-art-integrates-nvidia-for-its-scalable-quantum-computers/",
-            "description": "Quantum Art a developer of full-stack quantum computers, has integrated Nvidia's CUDA-Q hybrid quantum-classical platform into its \"qubits.\"",
-            "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/quantum-art.jpg?w=578"
+            "title": "This Buffett favorite is one of 4 cheap stocks the ‘smartest money’ has been buying lately",
+            "link": "https://www.marketwatch.com/story/this-buffett-favorite-is-one-of-4-cheap-stocks-the-smartest-money-has-been-buying-lately-acd7cb60?mod=mw_rss_topstories",
+            "description": "It’s bullish when insiders invest their own money into their companies — especially when those executives and directors have a record of savvy timing.",
+            "pubDate": "2025-06-11T18:59:00",
+            "image_url": "https://images.mktw.net/im-05455526"
         },
         {
-            "title": "Lemony is a plug-and-play device for secure on-premise AI",
-            "link": "https://venturebeat.com/games/lemony-is-a-plug-and-play-device-for-secure-on-premise-ai/",
-            "description": "Lemony launched a simple-looking device to deliver on-premise artificial intelligence to redefine how organizations deploy generative AI.",
-            "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/lemony-2.jpg?w=578"
-        },
-        {
-            "title": "Why most enterprise AI agents never reach production and how Databricks plans to fix it",
-            "link": "https://venturebeat.com/ai/why-most-enterprise-ai-agents-never-reach-production-and-how-databricks-plans-to-fix-it/",
-            "description": "Databricks Agent Bricks automates enterprise AI agent optimization and evaluation, eliminating manual processes that block production deployments.",
-            "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/corporate_user_ai_bricks_smk.jpg?w=578"
-        },
-        {
-            "title": "Universal Robots offers direct torque control for demanding cobot tasks",
-            "link": "https://www.therobotreport.com/universal-robots-offers-direct-torque-control-for-demanding-cobot-tasks/",
-            "description": "Universal Robots says direct torque control has potential for cobot applications such as assembly and screwdriving. The post Universal Robots offers d...",
-            "pubDate": "2025-06-11T13:30:09",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/universalrobots-featured.jpg"
-        },
-        {
-            "title": "You might think you know all about money. Answer these 5 questions to find out.",
-            "link": "https://www.marketwatch.com/story/you-might-think-you-know-all-about-money-answer-these-5-questions-to-find-out-b7ed9d58?mod=mw_rss_topstories",
-            "description": "Financial literacy not only leads to better investment outcomes, it can save you time.",
-            "pubDate": "2025-06-11T15:01:00",
-            "image_url": "https://images.mktw.net/im-68948274"
+            "title": "NVIDIA Isaac, Omniverse, and Halos to aid European robotics developers",
+            "link": "https://www.therobotreport.com/nvidia-isaac-omniverse-halos-aid-european-robotics-developers/",
+            "description": "NVIDIA has released a safety platform for robotics developers and updated its simulation, AI, and autonomous vehicle offerings. The post NVIDIA Isaac,...",
+            "pubDate": "2025-06-11T12:00:49",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Robotics-Blog_2.jpg"
         },
         {
             "title": "Inside Amsterdam’s high-stakes experiment to create fair welfare AI",
@@ -96,11 +82,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/MIT_Welfare_Spot_1.jpg?w=1500"
         },
         {
-            "title": "I transferred company stock out of an old 401(k). Now I’m worried I’m facing a nasty tax surprise.",
-            "link": "https://www.marketwatch.com/story/i-transferred-company-stock-out-of-an-old-401-k-now-im-worried-im-facing-a-nasty-tax-surprise-b8c2d342?mod=mw_rss_topstories",
-            "description": "Net unrealized appreciation is a thorny tax issue.",
-            "pubDate": "2025-06-11T15:00:00",
-            "image_url": "https://images.mktw.net/im-29177593"
+            "title": "Microsoft-backed Mistral launches European AI cloud to compete with AWS and Azure",
+            "link": "https://venturebeat.com/ai/microsoft-backed-mistral-launches-european-ai-cloud-to-compete-with-aws-and-azure/",
+            "description": "Mistral AI partners with Nvidia to launch European AI infrastructure platform, challenging US cloud giants while unveiling breakthrough reasoning mode...",
+            "pubDate": "2025-06-11T18:51:22",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_Eiffel_Tower_circuits_6a1ca273-1df7-48b0-b782-c8d34a66ef18.webp?w=578"
         },
         {
             "title": "The Download: Amsterdam’s welfare AI experiment, and making humanoid robots safer",
@@ -110,25 +96,32 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/10/Spa3.jpg?fit=1616,908"
         },
         {
+            "title": "Why GM investors seem to like the idea of spending billions to boost U.S. production",
+            "link": "https://www.marketwatch.com/story/why-gm-investors-seem-to-like-the-idea-of-spending-billions-to-boost-u-s-production-6aefc942?mod=mw_rss_topstories",
+            "description": "GM’s stock climbs as the carmaker’s $4 billion investment to expand existing capacity is viewed as a better than building new plants, one analyst said...",
+            "pubDate": "2025-06-11T18:48:00",
+            "image_url": "https://images.mktw.net/im-02732891"
+        },
+        {
+            "title": "Value investing is finally excelling again in 2025 — but there is one catch for Americans",
+            "link": "https://www.marketwatch.com/story/value-investing-is-finally-excelling-again-in-2025-but-there-is-one-catch-for-americans-62571e4c?mod=mw_rss_topstories",
+            "description": "The concept of value investing was pioneered in the U.S. roughly a century ago. But lately, the approach has had far more success abroad.",
+            "pubDate": "2025-06-11T18:23:00",
+            "image_url": "https://images.mktw.net/im-06872918"
+        },
+        {
+            "title": "Social Security’s new commissioner, rule reversals and cost cuts: Here’s everything that’s happening at the agency",
+            "link": "https://www.marketwatch.com/story/social-security-under-pressure-heres-whats-happening-now-f0c4b44a?mod=mw_rss_topstories",
+            "description": "A Social Security “war room,” threats to shut the agency, worker buyouts and a restraining order — here’s a timeline of what has taken place so far th...",
+            "pubDate": "2025-06-11T18:26:00",
+            "image_url": "https://images.mktw.net/im-09344796"
+        },
+        {
             "title": "Why humanoid robots need their own safety rules",
             "link": "https://www.technologyreview.com/2025/06/11/1118519/humanoids-safety-rules/",
             "description": "Last year, a humanoid warehouse robot named Digit set to work handling boxes of Spanx. Digit can lift boxes up to 16 kilograms between trolleys and co...",
             "pubDate": "2025-06-11T11:11:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Walmart, Wing launch drone delivery in 5 more cities",
-            "link": "https://www.therobotreport.com/walmart-wing-launch-drone-delivery-in-5-more-cities/",
-            "description": "The new drone service will launch at 100 stores, building on Wing and Walmart's operations in Northwest Arkansas and Dallas-Fort Worth. The post Walma...",
-            "pubDate": "2025-06-10T14:52:42",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/drone-with-walmart-delivery-featured.jpg"
-        },
-        {
-            "title": "1X’s NEO humanoid gains autonomy with new Redwood AI model",
-            "link": "https://www.therobotreport.com/1xs-neo-humanoid-gains-autonomy-with-new-redwood-ai-model/",
-            "description": "1X's NEO robot gains new Redwood AI, enabling autonomous household tasks like laundry and navigation. The post 1X’s NEO humanoid gains autonomy with n...",
-            "pubDate": "2025-06-10T19:11:30",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/1x-redwood-ai-humanoid.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "The Download: IBM’s quantum computer, and cuts to military AI testing",
@@ -138,18 +131,18 @@
             "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0l2B3M2oJ3JYooGMlaGXtLg1GpoKoz0glXz3ewPkl4Y9VhPsav4BBDxzP-_A6PFdQd1wh6v1q9zbQe9ID7hBe1QxaW7w7-Us84u4-kJuUuRldLr2Ly782mFFtV8pM-K2RYWUoIw?key=RgKYX7X11629u9SsgJZfNQ"
         },
         {
+            "title": "1X’s NEO humanoid gains autonomy with new Redwood AI model",
+            "link": "https://www.therobotreport.com/1xs-neo-humanoid-gains-autonomy-with-new-redwood-ai-model/",
+            "description": "1X's NEO robot gains new Redwood AI, enabling autonomous household tasks like laundry and navigation. The post 1X’s NEO humanoid gains autonomy with n...",
+            "pubDate": "2025-06-10T19:11:30",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/1x-redwood-ai-humanoid.jpg"
+        },
+        {
             "title": "Your AI and Data Future is Sovereign",
             "link": "https://www.technologyreview.com/2025/06/10/1118376/your-ai-and-data-future-is-sovereign/",
             "description": "",
             "pubDate": "2025-06-10T13:14:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -157,6 +150,13 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",

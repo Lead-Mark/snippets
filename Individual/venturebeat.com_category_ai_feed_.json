@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-11T10:53:16.052571",
+    "lastBuildDate": "2025-06-11T14:31:57.440505",
     "items": [
+        {
+            "title": "Microsoft-backed Mistral launches European AI cloud to compete with AWS and Azure",
+            "link": "https://venturebeat.com/ai/microsoft-backed-mistral-launches-european-ai-cloud-to-compete-with-aws-and-azure/",
+            "description": "Mistral AI partners with Nvidia to launch European AI infrastructure platform, challenging US cloud giants while unveiling breakthrough reasoning mode...",
+            "pubDate": "2025-06-11T18:51:22",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_Eiffel_Tower_circuits_6a1ca273-1df7-48b0-b782-c8d34a66ef18.webp?w=578"
+        },
+        {
+            "title": "Databricks open-sources declarative ETL framework powering 90% faster pipeline builds",
+            "link": "https://venturebeat.com/data-infrastructure/databricks-open-sources-declarative-etl-framework-powering-90-faster-pipeline-builds/",
+            "description": "With Apache Spark Declarative Pipelines, engineers describe what their pipeline should do using SQL or Python, and Apache Spark handles the execution.",
+            "pubDate": "2025-06-11T18:29:32",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/a-digital-illustration-depicting-a-futur_kE-H4taWRP2kXzwqOaoFVA_-sNhwELMQDSW37kE1R_8ww.png?w=578"
+        },
+        {
+            "title": "‘Generative AI helps us bend time’: CrowdStrike, Nvidia embed real-time LLM defense, changing how enterprises secure AI",
+            "link": "https://venturebeat.com/security/crowdstrike-falcon-now-powers-runtime-defense-in-nvidias-llms/",
+            "description": "Falcon is now built into Nvidia’s LLMs, delivering native runtime threat defense and eliminating blind spots across AI pipelines.",
+            "pubDate": "2025-06-11T17:39:08",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/final-hero.jpg?w=578"
+        },
         {
             "title": "Why most enterprise AI agents never reach production and how Databricks plans to fix it",
             "link": "https://venturebeat.com/ai/why-most-enterprise-ai-agents-never-reach-production-and-how-databricks-plans-to-fix-it/",
@@ -17,27 +38,6 @@
             "description": "Outset raises $17M Series A to scale its AI-moderated research platform used by Nestlé, Microsoft, and WeightWatchers that's 8x faster and 81% cheaper...",
             "pubDate": "2025-06-11T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_chatbot_asking_questions_34165fac-09f7-4cef-a083-418b2c584943.webp?w=578"
-        },
-        {
-            "title": "Lemony is a plug-and-play device for secure on-premise AI",
-            "link": "https://venturebeat.com/games/lemony-is-a-plug-and-play-device-for-secure-on-premise-ai/",
-            "description": "Lemony launched a simple-looking device to deliver on-premise artificial intelligence to redefine how organizations deploy generative AI.",
-            "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/lemony-2.jpg?w=578"
-        },
-        {
-            "title": "Wandercraft raises $75M for acceleration of AI-powered humanoid robotics and exoskeletons",
-            "link": "https://venturebeat.com/games/wandercraft-raises-75m-for-acceleration-of-ai-powered-humanoid-robotics-and-exoskeletons/",
-            "description": "Wandercraft, a maker of self-balancing robotic mobility systems, has secured $75 million in funding to accelerate AI-powered robotics.",
-            "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/wandercraft.jpg?w=578"
-        },
-        {
-            "title": "Quantum Art integrates Nvidia for its scalable quantum computers",
-            "link": "https://venturebeat.com/games/quantum-art-integrates-nvidia-for-its-scalable-quantum-computers/",
-            "description": "Quantum Art a developer of full-stack quantum computers, has integrated Nvidia's CUDA-Q hybrid quantum-classical platform into its \"qubits.\"",
-            "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/quantum-art.jpg?w=578"
         }
     ]
 }
