@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-12T11:11:37.719725",
+    "lastBuildDate": "2025-06-12T14:41:05.996797",
     "items": [
+        {
+            "title": "TensorWave deploys AMD Instinct MI355X GPUs in its cloud platform",
+            "link": "https://venturebeat.com/games/tensorwave-deploys-amd-instinct-mi355x-gpus-in-its-cloud-platform/",
+            "description": "TensorWave, a leader in AMD-powered AI infrastructure solutions, today announced the deployment of AMD Instinct MI355X GPUs in its high-performance cl...",
+            "pubDate": "2025-06-12T19:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/tensorwave.jpg?w=578"
+        },
+        {
+            "title": "AMD debuts AMD Instinct MI350 Series accelerator chips with 35X better inferencing",
+            "link": "https://venturebeat.com/games/amd-debuts-amd-instinct-mi350-series-accelerator-chips-with-35x-better-inferencing/",
+            "description": "AMD announced its new AMD Instinct MI350 Series accelerators, which are four times faster on AI compute and 35 times faster on inferencing.",
+            "pubDate": "2025-06-12T19:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/amd-instinct.jpg?w=578"
+        },
         {
             "title": "Google DeepMind just changed hurricane forecasting forever with new AI model",
             "link": "https://venturebeat.com/ai/google-deepmind-just-changed-hurricane-forecasting-forever-with-new-ai-model/",
@@ -24,20 +38,6 @@
             "description": "With Apache Spark Declarative Pipelines, engineers describe what their pipeline should do using SQL or Python, and Apache Spark handles the execution.",
             "pubDate": "2025-06-11T18:29:32",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/a-digital-illustration-depicting-a-futur_kE-H4taWRP2kXzwqOaoFVA_-sNhwELMQDSW37kE1R_8ww.png?w=578"
-        },
-        {
-            "title": "‘Generative AI helps us bend time’: CrowdStrike, Nvidia embed real-time LLM defense, changing how enterprises secure AI",
-            "link": "https://venturebeat.com/security/crowdstrike-falcon-now-powers-runtime-defense-in-nvidias-llms/",
-            "description": "Falcon is now built into Nvidia’s LLMs, delivering native runtime threat defense and eliminating blind spots across AI pipelines.",
-            "pubDate": "2025-06-11T17:39:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/final-hero.jpg?w=578"
-        },
-        {
-            "title": "Asset sprawl, siloed data and CloudQuery’s search for unified cloud governance",
-            "link": "https://venturebeat.com/data-infrastructure/asset-sprawl-siloed-data-and-cloudquerys-search-for-unified-cloud-governance/",
-            "description": "CloudQuery's developer-first approach to cloud governance pulls data from 60-plus sources into a single, queryable data warehouse.",
-            "pubDate": "2025-06-11T14:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/upscalemedia-transformed_158fca.webp?w=578"
         }
     ]
 }
