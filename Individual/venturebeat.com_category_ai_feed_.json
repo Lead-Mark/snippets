@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-11T14:31:57.440505",
+    "lastBuildDate": "2025-06-12T11:11:37.719725",
     "items": [
+        {
+            "title": "Google DeepMind just changed hurricane forecasting forever with new AI model",
+            "link": "https://venturebeat.com/ai/google-deepmind-just-changed-hurricane-forecasting-forever-with-new-ai-model/",
+            "description": "Google DeepMind launches Weather Lab platform for AI hurricane forecasting, showing improved accuracy in early tests with U.S. National Hurricane Cent...",
+            "pubDate": "2025-06-12T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_hurricane_map_3d4ec51e-43e1-42e0-aafa-4beb2b4deaba.webp?w=578"
+        },
         {
             "title": "Microsoft-backed Mistral launches European AI cloud to compete with AWS and Azure",
             "link": "https://venturebeat.com/ai/microsoft-backed-mistral-launches-european-ai-cloud-to-compete-with-aws-and-azure/",
@@ -26,18 +33,11 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/final-hero.jpg?w=578"
         },
         {
-            "title": "Why most enterprise AI agents never reach production and how Databricks plans to fix it",
-            "link": "https://venturebeat.com/ai/why-most-enterprise-ai-agents-never-reach-production-and-how-databricks-plans-to-fix-it/",
-            "description": "Databricks Agent Bricks automates enterprise AI agent optimization and evaluation, eliminating manual processes that block production deployments.",
-            "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/corporate_user_ai_bricks_smk.jpg?w=578"
-        },
-        {
-            "title": "Outset raises $17M to replace human interviewers with AI agents for enterprise research",
-            "link": "https://venturebeat.com/ai/outset-raises-17m-to-replace-human-interviewers-with-ai-agents-for-enterprise-research/",
-            "description": "Outset raises $17M Series A to scale its AI-moderated research platform used by Nestlé, Microsoft, and WeightWatchers that's 8x faster and 81% cheaper...",
-            "pubDate": "2025-06-11T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_chatbot_asking_questions_34165fac-09f7-4cef-a083-418b2c584943.webp?w=578"
+            "title": "Asset sprawl, siloed data and CloudQuery’s search for unified cloud governance",
+            "link": "https://venturebeat.com/data-infrastructure/asset-sprawl-siloed-data-and-cloudquerys-search-for-unified-cloud-governance/",
+            "description": "CloudQuery's developer-first approach to cloud governance pulls data from 60-plus sources into a single, queryable data warehouse.",
+            "pubDate": "2025-06-11T14:30:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/upscalemedia-transformed_158fca.webp?w=578"
         }
     ]
 }
