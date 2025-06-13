@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-12T14:41:05.996797",
+    "lastBuildDate": "2025-06-13T11:00:55.425738",
     "items": [
+        {
+            "title": "Senator’s RISE Act would require AI developers to list training data, evaluation methods in exchange for ‘safe harbor’ from lawsuits",
+            "link": "https://venturebeat.com/ai/senators-rise-act-would-require-ai-developers-to-list-training-data-evaluation-methods-in-exchange-for-safe-harbor-from-lawsuits/",
+            "description": "The developer must also publish known failure modes, keep all documentation current, and push updates within 30 days of a version change.",
+            "pubDate": "2025-06-13T15:59:24",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_low_angle_hitchcockian_suspensful_view_bold_lines_retro_7d3c29b6-84c6-489d-b22e-863844dd098f.png?w=578"
+        },
+        {
+            "title": "Red team AI now to build safer, smarter models tomorrow",
+            "link": "https://venturebeat.com/security/red-team-ai-now-to-build-safer-smarter-models-tomorrow/",
+            "description": "AI models are under attack. Traditional defenses are failing. Discover why red teaming is crucial for thwarting adversarial threats.",
+            "pubDate": "2025-06-13T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/red-team-hero-image.jpg?w=578"
+        },
+        {
+            "title": "Meta’s new world model lets robots manipulate objects in environments they’ve never encountered before",
+            "link": "https://venturebeat.com/ai/metas-new-world-model-lets-robots-manipulate-objects-in-environments-theyve-never-encountered-before/",
+            "description": "A robot powered by V-JEPA 2 can be deployed in a new environment and successfully manipulate objects it has never encountered before.",
+            "pubDate": "2025-06-12T23:22:07",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/robot-world-models.png?w=578"
+        },
+        {
+            "title": "Cloud collapse: Replit and LlamaIndex knocked offline by Google Cloud identity outage",
+            "link": "https://venturebeat.com/ai/cloud-collapse-replit-llamaindex-knocked-offline-by-google-cloud-identity-outage/",
+            "description": "Many AI developers started their morning amid a Google Cloud outage affecting many of the tools they use to build products.",
+            "pubDate": "2025-06-12T23:05:33",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/everything-is-fine-ai.png?w=578"
+        },
         {
             "title": "TensorWave deploys AMD Instinct MI355X GPUs in its cloud platform",
             "link": "https://venturebeat.com/games/tensorwave-deploys-amd-instinct-mi355x-gpus-in-its-cloud-platform/",
             "description": "TensorWave, a leader in AMD-powered AI infrastructure solutions, today announced the deployment of AMD Instinct MI355X GPUs in its high-performance cl...",
             "pubDate": "2025-06-12T19:30:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/tensorwave.jpg?w=578"
-        },
-        {
-            "title": "AMD debuts AMD Instinct MI350 Series accelerator chips with 35X better inferencing",
-            "link": "https://venturebeat.com/games/amd-debuts-amd-instinct-mi350-series-accelerator-chips-with-35x-better-inferencing/",
-            "description": "AMD announced its new AMD Instinct MI350 Series accelerators, which are four times faster on AI compute and 35 times faster on inferencing.",
-            "pubDate": "2025-06-12T19:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/amd-instinct.jpg?w=578"
-        },
-        {
-            "title": "Google DeepMind just changed hurricane forecasting forever with new AI model",
-            "link": "https://venturebeat.com/ai/google-deepmind-just-changed-hurricane-forecasting-forever-with-new-ai-model/",
-            "description": "Google DeepMind launches Weather Lab platform for AI hurricane forecasting, showing improved accuracy in early tests with U.S. National Hurricane Cent...",
-            "pubDate": "2025-06-12T16:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_hurricane_map_3d4ec51e-43e1-42e0-aafa-4beb2b4deaba.webp?w=578"
-        },
-        {
-            "title": "Microsoft-backed Mistral launches European AI cloud to compete with AWS and Azure",
-            "link": "https://venturebeat.com/ai/microsoft-backed-mistral-launches-european-ai-cloud-to-compete-with-aws-and-azure/",
-            "description": "Mistral AI partners with Nvidia to launch European AI infrastructure platform, challenging US cloud giants while unveiling breakthrough reasoning mode...",
-            "pubDate": "2025-06-11T18:51:22",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_Eiffel_Tower_circuits_6a1ca273-1df7-48b0-b782-c8d34a66ef18.webp?w=578"
-        },
-        {
-            "title": "Databricks open-sources declarative ETL framework powering 90% faster pipeline builds",
-            "link": "https://venturebeat.com/data-infrastructure/databricks-open-sources-declarative-etl-framework-powering-90-faster-pipeline-builds/",
-            "description": "With Apache Spark Declarative Pipelines, engineers describe what their pipeline should do using SQL or Python, and Apache Spark handles the execution.",
-            "pubDate": "2025-06-11T18:29:32",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/a-digital-illustration-depicting-a-futur_kE-H4taWRP2kXzwqOaoFVA_-sNhwELMQDSW37kE1R_8ww.png?w=578"
         }
     ]
 }

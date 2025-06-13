@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-12T14:40:54.718471",
+    "lastBuildDate": "2025-06-13T11:00:45.891979",
     "items": [
+        {
+            "title": "Weekly Meal Plan #48",
+            "link": "https://therecipecritic.com/weekly-meal-plan-48/",
+            "description": "Need a break from the whole “what’s for dinner?” struggle? I’ve got you covered with this week’s meal plan. With…",
+            "pubDate": "2025-06-13T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/06/Week-48-Meal-Plan-Collage-.jpg"
+        },
         {
             "title": "No-Bake Coconut Lime Energy Bites",
             "link": "https://minimalistbaker.com/coconut-lime-energy-bites/",
@@ -45,13 +52,6 @@
             "description": "These crispy cauliflower fritters are how I trick my kids into eating veggies. They even ask for seconds. The parmesan…",
             "pubDate": "2025-06-02T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/05/cauliflower-fritters-2-2.jpg"
-        },
-        {
-            "title": "Creamy Green Goddess Pasta Salad",
-            "link": "https://therecipecritic.com/green-goddess-pasta-salad/",
-            "description": "You have to make this Green Goddess Pasta Salad, like, yesterday! It’s creamy, herby, and loaded with fresh veggies. My…",
-            "pubDate": "2025-05-31T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/green-goddess-pasta-salad-.jpg"
         },
         {
             "title": "Jerk Tofu & Roasted Plantain Bowls",
