@@ -2,8 +2,15 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-17T11:06:11.560762",
+    "lastBuildDate": "2025-06-17T14:29:42.545459",
     "items": [
+        {
+            "title": "6 Health Symptoms You Shouldn’t Ignore",
+            "link": "https://www.webmd.com/heart-disease/serious-symptoms-not-ignore",
+            "description": "Some symptoms may seem minor, but they could signal something more serious. Learn 6 signs you should never ignore -- and what they might mean.",
+            "pubDate": "2025-06-17T15:23:01",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/woman-holding-back-of-sore-calf-muscle-other/1800x1200-woman-holding-back-of-sore-calf-muscle-other.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "Fecal microbiota transplantation may be more effective than vancomycin in treating primary C. difficile infection",
             "link": "https://www.2minutemedicine.com/fecal-microbiota-transplantation-may-be-more-effective-than-vancomycin-in-treating-primary-c-difficile-infection/",
@@ -12,11 +19,18 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/1024px-Antibiotic_sensitvity_and_resistance-300x150.jpg"
         },
         {
-            "title": "13 Shower Mistakes You’re Probably Making",
-            "link": "https://www.webmd.com/a-to-z-guides/ss/slideshow-shower-bath-mistakes",
-            "description": "Some everyday shower habits could dry out your skin, cause irritation, or leave you less clean than you think. See what to avoid -- and how to improve...",
-            "pubDate": "2025-06-17T12:03:37",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/how_to_get_water_out_of_your_ears_ref_guide/1800x1200_how_to_get_water_out_of_your_ears_ref_guide.jpg?resize=484px:*&output-quality=70"
+            "title": "Your Annual Checkup Could Catch More Than You Think",
+            "link": "https://www.webmd.com/a-to-z-guides/annual-physical-examinations",
+            "description": "",
+            "pubDate": "2025-06-17T15:23:01",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/stethoscope-on-mans-chest-close-up-other/1800x1200-stethoscope-on-mans-chest-close-up-other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "What Dehydration-Related Migraines Really Feel Like",
+            "link": "https://www.webmd.com/migraines-headaches/migraine-dehydration-link",
+            "description": "",
+            "pubDate": "2025-06-17T15:23:01",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/how_caffeine_affects_your_body_slideshow/1800ss_getty_rf_woman_experiencing_hot_flash.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "#VisualAbstract: Elinzanetant Effectively Reduces Vasomotor Symptoms from Endocrine Therapy for Breast Cancer",
@@ -26,20 +40,6 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/06/2MM_06.08.25_Astrid_1_BreastCancer-300x300.jpg"
         },
         {
-            "title": "Which Diabetes Device Is Right for You?",
-            "link": "https://www.webmd.com/diabetes/blood-sugar-meters-cgms",
-            "description": "",
-            "pubDate": "2025-06-17T12:03:37",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/the_facts_about_belly_fat_slideshow/1800ss_getty_rf_glucometer.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Surprising Ways the Sun Can Damage Your Skin",
-            "link": "https://www.webmd.com/allergies/sun-reactions",
-            "description": "",
-            "pubDate": "2025-06-17T12:03:37",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/magazine/2012/10_2012/sunscreen_are_you_really_covered_magazine/1800x1200_sunscreen_are_you_really_covered_magazine.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "Frailty scores alone may be poor predictors of intensive care admission or hospital stay duration",
             "link": "https://www.2minutemedicine.com/frailty-scores-alone-may-be-poor-predictors-of-intensive-care-admission-or-hospital-stay-duration/",
             "description": "1. Frailty scores alone (mFI-5, CCI) are poor predictors of intensive care unit (ICU) admission or prolonged hospital stay in elderly patients undergo...",
@@ -47,81 +47,18 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/frailty-walker-elderly-300x150.jpeg"
         },
         {
-            "title": "AAP Updates Adolescent Contraception Guidance",
-            "link": "https://www.medscape.com/viewarticle/aap-updates-adolescent-contraception-guidance-2025a1000g6n?src=rss",
-            "description": "A new policy statement tunes in to patients’ preferences. Medscape Medical News",
-            "pubDate": "2025-06-17T15:52:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "High-Risk Older Adults Lack Knowledge, Awareness of RSV Vaccine",
-            "link": "https://www.physiciansweekly.com/high-risk-older-adults-lack-knowledge-awareness-of-rsv-vaccine/",
-            "description": "Knowledge of RSV disease and RSV vaccine eligibility is low among hospitalized older adults, according to a study published online April 1 in JAMA Net...",
-            "pubDate": "2025-06-17T11:53:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Performing Karyotype Screening in Polycythemia Vera May Improve Outcomes",
-            "link": "https://www.physiciansweekly.com/performing-karyotype-screening-in-polycythemia-vera-may-improve-outcomes/",
-            "description": "Researchers have discovered a strong correlation between the progression of polycythemia vera (PV) and the presence of an abnormal karyotype (AK) at t...",
-            "pubDate": "2025-06-17T12:14:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Why ADHD in adults is often missed—and why it matters [PODCAST]",
-            "link": "https://kevinmd.com/2025/06/why-adhd-in-adults-is-often-missed-and-why-it-matters-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Anesthesiologist Maire Daugharty, who expanded her expertise by earni...",
-            "pubDate": "2025-06-17T00:00:09",
+            "title": "Kidney atlas maps molecular landscape, unlocking clues to renal health and disease",
+            "link": "https://medicalxpress.com/news/2025-06-kidney-atlas-molecular-landscape-clues.html",
+            "description": "The kidney, a critical organ for waste filtration and fluid regulation, is the subject of a molecular mapping project that could reshape our understan...",
+            "pubDate": "2025-06-17T19:29:04",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Ozempic outperforms another diabetes drug for reducing stroke risk",
-            "link": "https://medicalxpress.com/news/2025-06-ozempic-outperforms-diabetes-drug.html",
-            "description": "Type 2 diabetes patients taking semaglutide, often sold as Ozempic or Wegovy, have a slightly lower risk of stroke compared to patients taking another...",
-            "pubDate": "2025-06-17T15:12:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Sun safety 101: A dermatologist's advice to protect your skin",
-            "link": "https://medicalxpress.com/news/2025-06-sun-safety-dermatologist-advice-skin.html",
-            "description": "With the weather finally warming up and tempting people to get outside, a dermatologist is sharing a reminder to protect our skin from serious damage ...",
-            "pubDate": "2025-06-17T15:33:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "‘Not Accountable to Anyone’: As Insurers Issue Denials, Some Patients Run Out of Options",
-            "link": "https://www.physiciansweekly.com/not-accountable-to-anyone-as-insurers-issue-denials-some-patients-run-out-of-options/",
-            "description": "BRIDGEPORT, W.Va. — By the time Eric Tennant was diagnosed in 2023 with a rare cancer of the bile ducts, the disease had spread to his bones. He weigh...",
-            "pubDate": "2025-06-17T11:30:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Evo 2 machine learning model enlists the power of AI in the fight against diseases",
-            "link": "https://medicalxpress.com/news/2025-06-evo-machine-power-ai-diseases.html",
-            "description": "From tiny tree frogs to towering redwoods—to you and me—DNA drives all life on Earth. Embedded in every cell in every organism, DNA acts as a kind of ...",
-            "pubDate": "2025-06-17T15:10:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Experts Redefine Obesity With New Diagnostic & Treatment Framework",
-            "link": "https://www.physiciansweekly.com/experts-redefine-obesity-with-new-diagnostic-treatment-framework/",
-            "description": "An expert panel recently sought to establish objective criteria for diagnosing and treating obesity, aiming to support clinicians and guide public hea...",
-            "pubDate": "2025-06-17T12:05:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Day in the Life: Clinical Trialist Drives Next-Gen AML Care",
-            "link": "https://www.medscape.com/viewarticle/day-life-clinical-trialist-drives-next-gen-aml-care-2025a1000g64?src=rss",
-            "description": "Naval Daver, MD, a hematologist-oncologist who has led more than 100 clinical trials, predicts the next 5 years will see successful development of cel...",
-            "pubDate": "2025-06-17T14:00:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "A Revolutionary Drug for Extreme Hunger Offers Clues to Obesity’s Complexity",
-            "link": "https://www.physiciansweekly.com/a-revolutionary-drug-for-extreme-hunger-offers-clues-to-obesitys-complexity/",
-            "description": "Ali Foley Shenk still remembers the panic when her 10-year-old son, Dean, finished a 20-ounce box of raisins in the seconds the cupboard was left unlo...",
-            "pubDate": "2025-06-17T11:30:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "'Active breaks' can combat the health risks of a sedentary lifestyle, but what kind of exercise is best?",
+            "link": "https://medicalxpress.com/news/2025-06-combat-health-sedentary-lifestyle-kind.html",
+            "description": "Technological advances and the habits of modern life have drastically reduced levels of physical activity around the world. The World Health Organizat...",
+            "pubDate": "2025-06-17T19:20:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "CRC Outcomes Better When First of Multiple Cancers",
@@ -131,32 +68,95 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Radiosurgery for GI Cancer Brain Metastases: Does It Help?",
-            "link": "https://www.medscape.com/viewarticle/radiosurgery-gi-cancer-brain-metastases-does-it-improve-2025a1000g5s?src=rss",
-            "description": "Patients with brain metastases from gastrointestinal cancers show worse survival after stereotactic radiosurgery than those with non-gastrointestinal ...",
-            "pubDate": "2025-06-17T13:28:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Study finds proximity to harmful algal blooms shortens life span in ALS patients",
+            "link": "https://medicalxpress.com/news/2025-06-proximity-algal-blooms-shortens-life.html",
+            "description": "Living close to cyanobacterial harmful algal blooms—which are present nationwide but are more common in coastal and Great Lakes states—heightens the r...",
+            "pubDate": "2025-06-17T19:00:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "AAP Updates Adolescent Contraception Guidance",
+            "link": "https://www.medscape.com/viewarticle/aap-updates-adolescent-contraception-guidance-2025a1000g6n?src=rss",
+            "description": "A new policy statement tunes in to patients’ preferences. Medscape Medical News",
+            "pubDate": "2025-06-17T15:52:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "New Guidelines to Make Psychedelic Trials Safer, FDA-Ready",
             "link": "https://www.medscape.com/viewarticle/new-guidelines-aim-make-psychedelic-trials-safer-clearer-and-2025a1000g68?src=rss",
             "description": "An international expert panel has developed the first consensus-based framework for reporting ‘set and setting’ variables in psychedelic clinical tria...",
             "pubDate": "2025-06-17T14:38:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "‘Not Accountable to Anyone’: As Insurers Issue Denials, Some Patients Run Out of Options",
+            "link": "https://www.physiciansweekly.com/not-accountable-to-anyone-as-insurers-issue-denials-some-patients-run-out-of-options/",
+            "description": "BRIDGEPORT, W.Va. — By the time Eric Tennant was diagnosed in 2023 with a rare cancer of the bile ducts, the disease had spread to his bones. He weigh...",
+            "pubDate": "2025-06-17T11:30:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Doula and midwife support for mothers in the neonatal intensive care unit improves postpartum care",
+            "link": "https://medicalxpress.com/news/2025-06-doula-midwife-mothers-neonatal-intensive.html",
+            "description": "In a new study, researchers at Children's Hospital of Philadelphia (CHOP) showed that partnering with doulas and midwives to support mothers with newb...",
+            "pubDate": "2025-06-17T19:10:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "A Revolutionary Drug for Extreme Hunger Offers Clues to Obesity’s Complexity",
+            "link": "https://www.physiciansweekly.com/a-revolutionary-drug-for-extreme-hunger-offers-clues-to-obesitys-complexity/",
+            "description": "Ali Foley Shenk still remembers the panic when her 10-year-old son, Dean, finished a 20-ounce box of raisins in the seconds the cupboard was left unlo...",
+            "pubDate": "2025-06-17T11:30:05",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Inner speech therapy shows promise for easing autistic children's emotional dysregulation",
-            "link": "https://medicalxpress.com/news/2025-06-speech-therapy-easing-autistic-children.html",
-            "description": "Children on the autism spectrum, often at odds with their own emotions, may find help in an unlikely place: their own inner voice. A team from the Uni...",
-            "pubDate": "2025-06-17T15:20:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Experts Redefine Obesity With New Diagnostic & Treatment Framework",
+            "link": "https://www.physiciansweekly.com/experts-redefine-obesity-with-new-diagnostic-treatment-framework/",
+            "description": "An expert panel recently sought to establish objective criteria for diagnosing and treating obesity, aiming to support clinicians and guide public hea...",
+            "pubDate": "2025-06-17T12:05:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Researcher uses AI tool to diagnose throat cancers via the human voice",
-            "link": "https://medicalxpress.com/news/2025-06-ai-tool-throat-cancers-human.html",
-            "description": "Even before he trained as an otolaryngologist, researcher Anthony Law understood that all of us are natural voice scientists with the intuitive power ...",
-            "pubDate": "2025-06-17T15:47:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Why ADHD in adults is often missed—and why it matters [PODCAST]",
+            "link": "https://kevinmd.com/2025/06/why-adhd-in-adults-is-often-missed-and-why-it-matters-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Anesthesiologist Maire Daugharty, who expanded her expertise by earni...",
+            "pubDate": "2025-06-17T00:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Atherosclerotic blood vessel cells grow similar to tumors, study reveals",
+            "link": "https://medicalxpress.com/news/2025-06-atherosclerotic-blood-vessel-cells-similar.html",
+            "description": "Researchers from the University of Southern Denmark and Odense University Hospital have studied tissue from patients with atherosclerosis. They found ...",
+            "pubDate": "2025-06-17T19:26:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Day in the Life: Clinical Trialist Drives Next-Gen AML Care",
+            "link": "https://www.medscape.com/viewarticle/day-life-clinical-trialist-drives-next-gen-aml-care-2025a1000g64?src=rss",
+            "description": "Naval Daver, MD, a hematologist-oncologist who has led more than 100 clinical trials, predicts the next 5 years will see successful development of cel...",
+            "pubDate": "2025-06-17T14:00:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "High-Risk Older Adults Lack Knowledge, Awareness of RSV Vaccine",
+            "link": "https://www.physiciansweekly.com/high-risk-older-adults-lack-knowledge-awareness-of-rsv-vaccine/",
+            "description": "Knowledge of RSV disease and RSV vaccine eligibility is low among hospitalized older adults, according to a study published online April 1 in JAMA Net...",
+            "pubDate": "2025-06-17T11:53:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Integrating CAR T and Bispecific Antibodies in MM Treatment",
+            "link": "https://www.medscape.com/viewarticle/beyond-binary-integrating-car-t-and-bispecific-antibodies-2025a1000g70?src=rss",
+            "description": "The debate between CAR T-cell therapy and bispecific antibodies is not a rivalry but a question of sequencing, personalization, and optimization. Meds...",
+            "pubDate": "2025-06-17T18:50:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Performing Karyotype Screening in Polycythemia Vera May Improve Outcomes",
+            "link": "https://www.physiciansweekly.com/performing-karyotype-screening-in-polycythemia-vera-may-improve-outcomes/",
+            "description": "Researchers have discovered a strong correlation between the progression of polycythemia vera (PV) and the presence of an abnormal karyotype (AK) at t...",
+            "pubDate": "2025-06-17T12:14:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Semaglutide may improve cardiovascular outcomes versus empagliflozin in patients with diabetes",
@@ -173,32 +173,32 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/09/hiv2-300x150.jpg"
         },
         {
-            "title": "How locum tenens work helps physicians and APPs reclaim control",
-            "link": "https://kevinmd.com/2025/06/how-locum-tenens-work-helps-physicians-and-apps-reclaim-control.html",
-            "description": "Burnout isn’t a weakness—it’s a warning sign. I recently spoke with a nurse practitioner looking for a lifestyle change that could give her more balan...",
-            "pubDate": "2025-06-16T14:00:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
             "title": "First impressions happen online—not in your exam room",
             "link": "https://kevinmd.com/2025/06/first-impressions-happen-online-not-in-your-exam-room.html",
             "description": "If you’re a physician or practice owner, here’s a challenge: open a browser and Google yourself. Now ask a trusted friend or family member—ideally som...",
             "pubDate": "2025-06-16T16:00:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "It’s time for pain protocols to catch up with the opioid crisis",
-            "link": "https://kevinmd.com/2025/06/its-time-for-pain-protocols-to-catch-up-with-the-opioid-crisis.html",
-            "description": "We are more than a decade into what has been called the deadliest drug epidemic in American history. Every medical professional is now educated on the...",
-            "pubDate": "2025-06-16T18:00:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "How locum tenens work helps physicians and APPs reclaim control",
+            "link": "https://kevinmd.com/2025/06/how-locum-tenens-work-helps-physicians-and-apps-reclaim-control.html",
+            "description": "Burnout isn’t a weakness—it’s a warning sign. I recently spoke with a nurse practitioner looking for a lifestyle change that could give her more balan...",
+            "pubDate": "2025-06-16T14:00:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Dedicated hypermobility clinics can transform patient care",
             "link": "https://kevinmd.com/2025/06/dedicated-hypermobility-clinics-can-transform-patient-care.html",
             "description": "Every week, I speak with patients who have spent years—sometimes decades—searching for answers. They’ve seen rheumatologists, neurologists, cardiologi...",
             "pubDate": "2025-06-16T20:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "It’s time for pain protocols to catch up with the opioid crisis",
+            "link": "https://kevinmd.com/2025/06/its-time-for-pain-protocols-to-catch-up-with-the-opioid-crisis.html",
+            "description": "We are more than a decade into what has been called the deadliest drug epidemic in American history. Every medical professional is now educated on the...",
+            "pubDate": "2025-06-16T18:00:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }
