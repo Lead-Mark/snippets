@@ -2,63 +2,119 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-17T14:30:32.095634",
+    "lastBuildDate": "2025-06-18T10:57:49.447663",
     "items": [
         {
-            "title": "Qodo teams up with Google Cloud, to provide devs with FREE AI code review tools directly within platform",
+            "title": "‘I’d do a much better job’: Trump blasts Powell as Fed expected to hold rates steady",
+            "link": "https://www.marketwatch.com/story/id-do-a-much-better-job-trump-blasts-powell-as-fed-expected-to-hold-rates-steady-94114a48?mod=mw_rss_topstories",
+            "description": "",
+            "pubDate": "2025-06-18T15:46:00",
+            "image_url": "https://images.mktw.net/im-47473973"
+        },
+        {
+            "title": "I’m 51, earn $129K and my 401(k) has $165K. Can I afford to retire when my husband, 59, draws Social Security at 62?",
+            "link": "https://www.marketwatch.com/story/im-51-earn-129k-and-my-401-k-has-165k-can-i-afford-to-retire-when-my-husband-59-draws-social-security-at-62-df96ad5f?mod=mw_rss_topstories",
+            "description": "“He is retired from a state job and receives a pension that nets around $3,600 per month, as well as lifelong health insurance for both of us.”",
+            "pubDate": "2025-06-18T15:53:00",
+            "image_url": "https://images.mktw.net/im-56013271"
+        },
+        {
+            "title": "PrismaX launches with $11M to scale virtual datasets for robotics foundation models",
+            "link": "https://www.therobotreport.com/prismax-launches-with-11m-to-scale-virtual-datasets-for-robotics-foundation-models/",
+            "description": "PrismaX is building a decentralized infrastructure to ensure data diversity and authenticity from a community of contributors. The post PrismaX launch...",
+            "pubDate": "2025-06-18T14:21:36",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/prismax-featured.jpg"
+        },
+        {
+            "title": "The Interpretable AI playbook: What Anthropic’s research means for your enterprise LLM strategy",
+            "link": "https://venturebeat.com/ai/the-interpretable-ai-playbook-what-anthropics-research-means-for-your-enterprise-llm-strategy/",
+            "description": "Anthropic is developing “interpretable” AI, where models let us understand what they are thinking and arrive at a particular conclusion.",
+            "pubDate": "2025-06-18T00:01:08",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/upscalemedia-transformed_978d75.webp?w=578"
+        },
+        {
+            "title": "The Download: tackling tech-facilitated abuse, and opening up AI hardware",
+            "link": "https://www.technologyreview.com/2025/06/18/1119002/the-download-tech-abuse-ai-hardware/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why it’s so ...",
+            "pubDate": "2025-06-18T13:15:00",
+            "image_url": "https://s.w.org/images/core/emoji/15.1.0/72x72/1f4d6.png"
+        },
+        {
+            "title": "This solution to the high cost of healthcare could keep Medicare and Medicaid off the chopping block",
+            "link": "https://www.marketwatch.com/story/trumps-tax-bill-forces-you-to-choose-worse-healthcare-or-unaffordable-insurance-it-doesnt-have-to-be-this-way-41beee97?mod=mw_rss_topstories",
+            "description": "Hospitals and outpatient clinics need to deliver their own spending cuts and cost savings.",
+            "pubDate": "2025-06-18T15:41:00",
+            "image_url": "https://images.mktw.net/im-02695332"
+        },
+        {
+            "title": "The quest to defend against tech in intimate partner violence",
+            "link": "https://www.technologyreview.com/2025/06/18/1118235/big-tech-intimate-partner-violence/",
+            "description": "After Gioia had her first child with her then husband, he installed baby monitors throughout their Massachusetts home—to “watch what we were doing,” s...",
+            "pubDate": "2025-06-18T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/onur-binay-x8VQhw4xbRk-unsplash.jpg?w=1655"
+        },
+        {
+            "title": "Here’s why young investors are buying so much gold and crypto right now",
+            "link": "https://www.marketwatch.com/story/heres-why-young-investors-are-buying-so-much-gold-and-crypto-right-now-dbd54071?mod=mw_rss_topstories",
+            "description": "Gold and crypto are two very different assets: The former is seen as a safe haven that tends to increase in value as other investments fall, while the...",
+            "pubDate": "2025-06-18T15:47:00",
+            "image_url": "https://images.mktw.net/im-24594955"
+        },
+        {
+            "title": "SportsVisio raises $3.2M for AI for sports athletes and fans",
+            "link": "https://venturebeat.com/games/sportsvisio-raises-3-2m-for-ai-for-sports-athletes-and-fans/",
+            "description": "SportsVisio has raised $3.2 million to put the power of advanced AI into the hands of every athlete, coach, and fan.",
+            "pubDate": "2025-06-18T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Screenshot_2025-05-30_at_15.51.36.jpg?w=578"
+        },
+        {
+            "title": "Circle Internet’s stock-market surge continues as Senate bill’s passage indicates the federal government is taking stablecoins seriously",
+            "link": "https://www.marketwatch.com/story/circle-internets-stock-market-surge-continues-as-senate-bills-passage-indicates-the-federal-government-is-taking-stablecoins-seriously-5acbdb21?mod=mw_rss_topstories",
+            "description": "Less than two weeks after IPO, Circle Internet’s market capitalization surpasses nearly half of the S&P 500.",
+            "pubDate": "2025-06-18T15:41:00",
+            "image_url": "https://images.mktw.net/im-05872666"
+        },
+        {
+            "title": "Why AI hardware needs to be open",
+            "link": "https://www.technologyreview.com/2025/06/18/1118943/ai-hardware-open/",
+            "description": "When OpenAI acquired Io to create “the coolest piece of tech that the world will have ever seen,” it confirmed what industry experts have long been sa...",
+            "pubDate": "2025-06-18T09:49:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Puzzle Corner",
+            "link": "https://www.technologyreview.com/2025/06/18/1119010/puzzle-corner-73/",
+            "description": "Ready for a fresh set of puzzles? Click here for the September/October 2024 Puzzle Corner, brought to you by guest editor Edward Faulkner ’03.",
+            "pubDate": "2025-06-18T14:05:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "OpenAI moves forward with GPT-4.5 deprecation in API, triggering developer anguish and confusion",
+            "link": "https://venturebeat.com/ai/openai-moves-forward-with-gpt-4-5-deprecation-in-api-triggering-developer-anguish-and-confusion/",
+            "description": "Despite the strong reaction, OpenAI had in fact already announced the plan to deprecate GPT-4.5 Preview back in April 2025.",
+            "pubDate": "2025-06-17T22:52:29",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_minimalist_paper_cutout_close_up_colorful_silhouettes_o_2da0448f-580c-49c4-985b-00eb0ff8f142.png?w=578"
+        },
+        {
+            "title": "Robot sales for the automotive industry remain high in Europe",
+            "link": "https://www.therobotreport.com/robot-sales-europe-automotive-industry-remain-high/",
+            "description": "At a global level, car manufacturing in Europe is highly automated, according to the International Federation of Robotics. The post Robot sales for th...",
+            "pubDate": "2025-06-17T20:16:01",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Graph_robots_automotive_industry_Europe-featured.jpg"
+        },
+        {
+            "title": "Qodo teams up with Google Cloud to provide devs with FREE AI code review tools directly within platform",
             "link": "https://venturebeat.com/programming-development/qodo-teams-up-with-google-cloud-to-provide-devs-with-free-ai-code-review-tools-directly-within-platform/",
             "description": "The goal is to make enterprise-grade code quality solutions accessible to fast-growing startups looking to scale responsibly.",
             "pubDate": "2025-06-17T14:10:45",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_stark_minimalist_bright_tropical_theme_a_purple_letter__193222d0-19aa-4bba-ab04-3696dd5f237a.png?w=578"
         },
         {
-            "title": "Netflix is setting its sights on the theme-park world, after already taking over TV",
-            "link": "https://www.marketwatch.com/story/netflix-is-setting-its-sights-on-the-theme-park-world-after-already-taking-over-tv-bd07f05e?mod=mw_rss_topstories",
-            "description": "Netflix is moving into the theme-park space with the opening of Netflix House in Philadelphia and Dallas later this year.",
-            "pubDate": "2025-06-17T18:38:00",
-            "image_url": "https://images.mktw.net/im-19900658"
-        },
-        {
-            "title": "This one-and-done heart-disease treatment just got a $1.3 billion endorsement from Eli Lilly",
-            "link": "https://www.marketwatch.com/story/this-one-and-done-heart-disease-treatment-just-got-a-1-3-billion-endorsement-from-eli-lilly-5c163b61?mod=mw_rss_topstories",
-            "description": "Verve Therapeutics’ stock was rallying by a record 80% on Eli Lilly’s premium purchase price for the drug-development company.",
-            "pubDate": "2025-06-17T19:16:00",
-            "image_url": "https://images.mktw.net/im-88097946"
-        },
-        {
-            "title": "How to create a traditional pension — right now",
-            "link": "https://www.marketwatch.com/story/how-to-create-a-traditional-pension-right-now-856e37a8?mod=mw_rss_topstories",
-            "description": "Annuities are a better deal now than even a few years ago. So why aren’t people buying them?",
-            "pubDate": "2025-06-17T18:58:00",
-            "image_url": "https://images.mktw.net/im-20839194"
-        },
-        {
-            "title": "ANYbotics launches Gas Leak and Presence Detection for ANYmal inspection robot",
-            "link": "https://www.therobotreport.com/anybotics-launches-gas-leak-presence-detection-anymal-inspection-robot/",
-            "description": "ANYbotics has integrated gas detectors and an acoustic imaging payload with its modular offerings for customizable inspections. The post ANYbotics lau...",
-            "pubDate": "2025-06-17T16:50:59",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ANYmal_01.jpg"
-        },
-        {
-            "title": "Cutting cloud waste at scale: Akamai saves 70% using AI agents orchestrated by kubernetes",
-            "link": "https://venturebeat.com/data-infrastructure/cutting-cloud-waste-at-scale-akamai-saves-70-using-ai-agents-orchestrated-by-kubernetes/",
-            "description": "Akamai needed a Kubernetes automation platform that optimized the costs of running its core infrastructure in real time on several clouds.",
-            "pubDate": "2025-06-17T00:11:15",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Cast-AI.webp?w=578"
-        },
-        {
-            "title": "My mother-in-law, 95, has $400K in stocks. Would it be smarter taxwise to gift it to her kids — or leave it to them in her will?",
-            "link": "https://www.marketwatch.com/story/my-mother-in-law-95-has-400k-in-stocks-would-it-be-smarter-taxwise-to-gift-it-to-her-kids-or-leave-it-to-them-in-her-will-1ce355bb?mod=mw_rss_topstories",
-            "description": "“What is the smartest way to go about this? Will she be taxed?”",
-            "pubDate": "2025-06-17T18:40:00",
-            "image_url": "https://images.mktw.net/im-75119554"
-        },
-        {
-            "title": "Bye-bye bidding wars: Housing market becomes more buyer-friendly as more sellers slash prices",
-            "link": "https://www.marketwatch.com/story/bye-bye-bidding-wars-housing-market-becomes-more-buyer-friendly-as-more-sellers-slash-prices-5027b845?mod=mw_rss_topstories",
-            "description": "For-sale listings are piling up in many real-estate markets in the U.S., according to data from Realtor.com.",
-            "pubDate": "2025-06-17T18:22:00",
-            "image_url": "https://images.mktw.net/im-40797422"
+            "title": "Google launches production-ready Gemini 2.5 AI models to challenge OpenAI’s enterprise dominance",
+            "link": "https://venturebeat.com/ai/google-launches-production-ready-gemini-2-5-ai-models-to-challenge-openais-enterprise-dominance/",
+            "description": "Google launches production-ready Gemini 2.5 Pro and Flash AI models for enterprises while introducing cost-efficient Flash-Lite to challenge OpenAI's ...",
+            "pubDate": "2025-06-17T22:55:56",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_a_rocket_takeoff_in_the_colors_of_Googl_34d67d80-5426-48e4-85ea-c11e8e4f2947.webp?w=578"
         },
         {
             "title": "The Download: power in Puerto Rico, and the pitfalls of AI agents",
@@ -68,53 +124,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/06/Lymph-Node-Chip-0709-1.jpg?fit=1456,818"
         },
         {
-            "title": "Puerto Rico’s power struggles",
-            "link": "https://www.technologyreview.com/2025/06/17/1118216/puerto-rico-power-struggles-future/",
-            "description": "At first glance, it seems as if life teems around Carmen Suárez Vázquez’s little teal-painted house in the municipality of Guayama, on Puerto Rico’s s...",
-            "pubDate": "2025-06-17T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/DSCF6381.jpg?w=2000"
+            "title": "Roboworx to aid Miso Robotics in installation, maintenance of its Flippy robots",
+            "link": "https://www.therobotreport.com/roboworx-aids-miso-robotics-installation-maintenance-flippy-robots/",
+            "description": "This collaboration combines Miso Robotics' AI-powered Flippy Fry Station robots with the Roboworx nationwide technician network. The post Roboworx to ...",
+            "pubDate": "2025-06-17T21:42:26",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Flippy-Next-Generation-Elevator-and-Basket-scaled-featured.jpg"
         },
         {
-            "title": "What does it mean for an algorithm to be “fair”?",
-            "link": "https://www.technologyreview.com/2025/06/17/1118918/what-does-it-mean-for-an-algorithm-to-be-fair/",
-            "description": "Back in February, I flew to Amsterdam to report on a high-stakes experiment the city had recently conducted: a pilot program for what it called Smart ...",
-            "pubDate": "2025-06-17T09:49:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "When AIs bargain, a less advanced agent could cost you",
-            "link": "https://www.technologyreview.com/2025/06/17/1118910/ai-price-negotiation/",
-            "description": "The race to build ever larger AI models is slowing down. The industry’s focus is shifting toward agents—systems that can act autonomously, make decisi...",
-            "pubDate": "2025-06-17T09:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "AI copyright anxiety will hold back creativity",
-            "link": "https://www.technologyreview.com/2025/06/17/1118898/ai-copyright-anxiety-will-hold-back-creativity/",
-            "description": "Last fall, while attending a board meeting in Amsterdam, I had a few free hours and made an impromptu visit to the Van Gogh Museum. I often steal time...",
-            "pubDate": "2025-06-17T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Premier Automation launches innovation hub in Pennsylvania",
-            "link": "https://www.therobotreport.com/premier-automation-launches-innovation-hub-in-pennsylvania/",
-            "description": "The Premier Innovation Hub will foster industrial automation, workforce development, and technology commercialization near Pittsburgh. The post Premie...",
-            "pubDate": "2025-06-16T22:03:09",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Premier_Innovation_Hub.jpg"
-        },
-        {
-            "title": "Groq just made Hugging Face way faster — and it’s coming for AWS and Google",
-            "link": "https://venturebeat.com/ai/groq-just-made-hugging-face-way-faster-and-its-coming-for-aws-and-google/",
-            "description": "Groq challenges AWS and Google with lightning-fast AI inference, exclusive 131k context windows, and new Hugging Face partnership to reach millions of...",
-            "pubDate": "2025-06-16T22:49:42",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Hugging_Face_emoji_hugging_a_golden_computer_chip_43197dd5-9825-4137-b57d-818a40816ceb.webp?w=578"
-        },
-        {
-            "title": "MiniMax-M1 is a new open source model with 1 MILLION TOKEN context and new, hyper efficient reinforcement learning",
-            "link": "https://venturebeat.com/ai/minimax-m1-is-a-new-open-source-model-with-1-million-token-context-and-new-hyper-efficient-reinforcement-learning/",
-            "description": "MiniMax-M1 presents a flexible option for organizations looking to experiment with or scale up advanced AI capabilities while managing costs.",
-            "pubDate": "2025-06-16T23:46:47",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_long_shot_far_away_impressionist_minimalist_hyper_detai_ccdff2b4-2188-4a4e-afdc-e9f76f9e2e16.png?w=578"
+            "title": "ANYbotics launches Gas Leak and Presence Detection for ANYmal inspection robot",
+            "link": "https://www.therobotreport.com/anybotics-launches-gas-leak-presence-detection-anymal-inspection-robot/",
+            "description": "ANYbotics has integrated gas detectors and an acoustic imaging payload with its modular offerings for customizable inspections. The post ANYbotics lau...",
+            "pubDate": "2025-06-17T16:50:59",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ANYmal_01.jpg"
         },
         {
             "title": "SS Innovations completes its first cardiac surgery in the Americas with SSi Mantra",
@@ -124,25 +145,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ssi-m3-featured.jpg"
         },
         {
-            "title": "Inside LinkedIn’s AI overhaul: Job search powered by LLM distillation",
-            "link": "https://venturebeat.com/ai/inside-linkedins-ai-overhaul-job-search-powered-by-llm-distillation/",
-            "description": "In building its AI-powered job search, now available to all users, LinkedIn chose to distill large models and improve its understanding of queries.",
-            "pubDate": "2025-06-16T23:52:31",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_searching_the_internet_logo_db80167a-a380-4aba-aae5-49acaf0ad4b1.jpeg?w=578"
-        },
-        {
-            "title": "farm-ng updates Amiga robot software for small, midsize farms",
-            "link": "https://www.therobotreport.com/farm-ng-updates-software-amiga-robot-small-midsize-farms/",
-            "description": "farm-ng said its latest software upgrade includes a streamlined user interface, improved implement control, and repeatable task automation. The post f...",
-            "pubDate": "2025-06-15T13:30:46",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/IMG_1607a.jpg"
-        },
-        {
-            "title": "Welding project uses robotics to crunch 12 workhours into 45 minutes",
-            "link": "https://www.therobotreport.com/welding-project-crunches-12-workhours-into-45-minutes-robotics/",
-            "description": "A welding project exceeded expectations for a time-sensitive infrastructure project by integrating robotics, motion control, and safety systems. The p...",
-            "pubDate": "2025-06-14T17:03:12",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Fig1a_20230912_084913-1.jpg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -159,11 +166,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -171,13 +178,6 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }

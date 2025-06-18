@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-17T14:30:32.100433",
+    "lastBuildDate": "2025-06-18T10:57:49.451156",
     "items": [
         {
-            "title": "Qodo teams up with Google Cloud, to provide devs with FREE AI code review tools directly within platform",
+            "title": "SportsVisio raises $3.2M for AI for sports athletes and fans",
+            "link": "https://venturebeat.com/games/sportsvisio-raises-3-2m-for-ai-for-sports-athletes-and-fans/",
+            "description": "SportsVisio has raised $3.2 million to put the power of advanced AI into the hands of every athlete, coach, and fan.",
+            "pubDate": "2025-06-18T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Screenshot_2025-05-30_at_15.51.36.jpg?w=578"
+        },
+        {
+            "title": "The Interpretable AI playbook: What Anthropic’s research means for your enterprise LLM strategy",
+            "link": "https://venturebeat.com/ai/the-interpretable-ai-playbook-what-anthropics-research-means-for-your-enterprise-llm-strategy/",
+            "description": "Anthropic is developing “interpretable” AI, where models let us understand what they are thinking and arrive at a particular conclusion.",
+            "pubDate": "2025-06-18T00:01:08",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/upscalemedia-transformed_978d75.webp?w=578"
+        },
+        {
+            "title": "Google launches production-ready Gemini 2.5 AI models to challenge OpenAI’s enterprise dominance",
+            "link": "https://venturebeat.com/ai/google-launches-production-ready-gemini-2-5-ai-models-to-challenge-openais-enterprise-dominance/",
+            "description": "Google launches production-ready Gemini 2.5 Pro and Flash AI models for enterprises while introducing cost-efficient Flash-Lite to challenge OpenAI's ...",
+            "pubDate": "2025-06-17T22:55:56",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_a_rocket_takeoff_in_the_colors_of_Googl_34d67d80-5426-48e4-85ea-c11e8e4f2947.webp?w=578"
+        },
+        {
+            "title": "OpenAI moves forward with GPT-4.5 deprecation in API, triggering developer anguish and confusion",
+            "link": "https://venturebeat.com/ai/openai-moves-forward-with-gpt-4-5-deprecation-in-api-triggering-developer-anguish-and-confusion/",
+            "description": "Despite the strong reaction, OpenAI had in fact already announced the plan to deprecate GPT-4.5 Preview back in April 2025.",
+            "pubDate": "2025-06-17T22:52:29",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_minimalist_paper_cutout_close_up_colorful_silhouettes_o_2da0448f-580c-49c4-985b-00eb0ff8f142.png?w=578"
+        },
+        {
+            "title": "Qodo teams up with Google Cloud to provide devs with FREE AI code review tools directly within platform",
             "link": "https://venturebeat.com/programming-development/qodo-teams-up-with-google-cloud-to-provide-devs-with-free-ai-code-review-tools-directly-within-platform/",
             "description": "The goal is to make enterprise-grade code quality solutions accessible to fast-growing startups looking to scale responsibly.",
             "pubDate": "2025-06-17T14:10:45",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_stark_minimalist_bright_tropical_theme_a_purple_letter__193222d0-19aa-4bba-ab04-3696dd5f237a.png?w=578"
-        },
-        {
-            "title": "Cutting cloud waste at scale: Akamai saves 70% using AI agents orchestrated by kubernetes",
-            "link": "https://venturebeat.com/data-infrastructure/cutting-cloud-waste-at-scale-akamai-saves-70-using-ai-agents-orchestrated-by-kubernetes/",
-            "description": "Akamai needed a Kubernetes automation platform that optimized the costs of running its core infrastructure in real time on several clouds.",
-            "pubDate": "2025-06-17T00:11:15",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Cast-AI.webp?w=578"
-        },
-        {
-            "title": "Inside LinkedIn’s AI overhaul: Job search powered by LLM distillation",
-            "link": "https://venturebeat.com/ai/inside-linkedins-ai-overhaul-job-search-powered-by-llm-distillation/",
-            "description": "In building its AI-powered job search, now available to all users, LinkedIn chose to distill large models and improve its understanding of queries.",
-            "pubDate": "2025-06-16T23:52:31",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_searching_the_internet_logo_db80167a-a380-4aba-aae5-49acaf0ad4b1.jpeg?w=578"
-        },
-        {
-            "title": "MiniMax-M1 is a new open source model with 1 MILLION TOKEN context and new, hyper efficient reinforcement learning",
-            "link": "https://venturebeat.com/ai/minimax-m1-is-a-new-open-source-model-with-1-million-token-context-and-new-hyper-efficient-reinforcement-learning/",
-            "description": "MiniMax-M1 presents a flexible option for organizations looking to experiment with or scale up advanced AI capabilities while managing costs.",
-            "pubDate": "2025-06-16T23:46:47",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_long_shot_far_away_impressionist_minimalist_hyper_detai_ccdff2b4-2188-4a4e-afdc-e9f76f9e2e16.png?w=578"
-        },
-        {
-            "title": "Groq just made Hugging Face way faster — and it’s coming for AWS and Google",
-            "link": "https://venturebeat.com/ai/groq-just-made-hugging-face-way-faster-and-its-coming-for-aws-and-google/",
-            "description": "Groq challenges AWS and Google with lightning-fast AI inference, exclusive 131k context windows, and new Hugging Face partnership to reach millions of...",
-            "pubDate": "2025-06-16T22:49:42",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Hugging_Face_emoji_hugging_a_golden_computer_chip_43197dd5-9825-4137-b57d-818a40816ceb.webp?w=578"
         }
     ]
 }
