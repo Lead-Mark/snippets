@@ -2,56 +2,112 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-18T13:57:29.024701",
+    "lastBuildDate": "2025-06-19T11:00:49.108156",
     "items": [
-        {
-            "title": "$1 trillion in cuts to Medicaid would have a devastating impact on people receiving long-term care. Here’s why.",
-            "link": "https://www.marketwatch.com/story/1-trillion-in-cuts-to-medicaid-would-have-a-devastating-impact-on-people-receiving-long-term-care-heres-why-77a18703?mod=mw_rss_topstories",
-            "description": "These cuts will most affect people who are least able to afford them.",
-            "pubDate": "2025-06-18T18:38:00",
-            "image_url": "https://images.mktw.net/im-22938758"
-        },
-        {
-            "title": "The Download: tackling tech-facilitated abuse, and opening up AI hardware",
-            "link": "https://www.technologyreview.com/2025/06/18/1119002/the-download-tech-abuse-ai-hardware/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why it’s so ...",
-            "pubDate": "2025-06-18T13:15:00",
-            "image_url": "https://s.w.org/images/core/emoji/15.1.0/72x72/1f4d6.png"
-        },
-        {
-            "title": "May’s missing inflation is a mystery — and a sign that the Fed will hold off on rate cuts",
-            "link": "https://www.marketwatch.com/story/mays-missing-inflation-is-a-mystery-and-a-sign-that-the-fed-will-hold-off-on-rate-cuts-a011a69c?mod=mw_rss_topstories",
-            "description": "The Fed will be less willing to bet that tariff-fueled price increases will be just “transitory.”",
-            "pubDate": "2025-06-18T18:02:00",
-            "image_url": "https://images.mktw.net/im-685946"
-        },
-        {
-            "title": "The Interpretable AI playbook: What Anthropic’s research means for your enterprise LLM strategy",
-            "link": "https://venturebeat.com/ai/the-interpretable-ai-playbook-what-anthropics-research-means-for-your-enterprise-llm-strategy/",
-            "description": "Anthropic is developing “interpretable” AI, where models let us understand what they are thinking and arrive at a particular conclusion.",
-            "pubDate": "2025-06-18T00:01:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/upscalemedia-transformed_978d75.webp?w=578"
-        },
-        {
-            "title": "Shoppers say they’re ‘not interested’ in Amazon’s longer Prime Day sale",
-            "link": "https://www.marketwatch.com/story/shoppers-say-theyre-not-interested-in-amazons-longer-prime-day-sale-7509d083?mod=mw_rss_topstories",
-            "description": "Could making the 2025 Amazon Prime Day event four days long backfire? Here’s what retail analysts think.",
-            "pubDate": "2025-06-18T18:35:00",
-            "image_url": "https://images.mktw.net/im-19312146"
-        },
-        {
-            "title": "The quest to defend against tech in intimate partner violence",
-            "link": "https://www.technologyreview.com/2025/06/18/1118235/big-tech-intimate-partner-violence/",
-            "description": "After Gioia had her first child with her then husband, he installed baby monitors throughout their Massachusetts home—to “watch what we were doing,” s...",
-            "pubDate": "2025-06-18T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/onur-binay-x8VQhw4xbRk-unsplash.jpg?w=1655"
-        },
         {
             "title": "Jamie Dimon wants workers in the office. So why is he letting JPMorgan’s European chief work remotely?",
             "link": "https://www.marketwatch.com/story/jamie-dimon-wants-workers-in-the-office-so-why-is-he-letting-jpmorgans-european-chief-work-remotely-bdff3b2c?mod=mw_rss_topstories",
             "description": "The return-to-office double standard has sparked a conversation online: “Rules for thee but not for me.”",
-            "pubDate": "2025-06-18T18:47:00",
+            "pubDate": "2025-06-19T14:34:00",
             "image_url": "https://images.mktw.net/im-89736409"
+        },
+        {
+            "title": "The Download: future grids, and bad boy bots",
+            "link": "https://www.technologyreview.com/2025/06/19/1119059/the-download-future-grids-and-bad-boy-bots/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Before we em...",
+            "pubDate": "2025-06-19T13:15:33",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/crop.jpg?w=1022"
+        },
+        {
+            "title": "All3 launches AI and robotics to tackle housing construction",
+            "link": "https://www.therobotreport.com/all3-emerges-from-stealth-ai-robotics-tackle-housing-construction/",
+            "description": "All3 has integrated robotics and AI to reduce build costs by up to 30% and construction time by up to 50%. The post All3 launches AI and robotics to t...",
+            "pubDate": "2025-06-19T10:00:29",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/All3i_Belgrade_28b.jpg"
+        },
+        {
+            "title": "Block out the noise and stay invested — stock picks and advice from one of the world’s oldest mutual funds",
+            "link": "https://www.marketwatch.com/story/block-out-the-noise-and-stay-invested-stock-picks-and-advice-from-one-of-the-worlds-oldest-mutual-funds-aefddb17?mod=mw_rss_topstories",
+            "description": "Since launching in 1934, The Investment Company of America fund has rolled with world war and evolving economies. These are its stock picks.",
+            "pubDate": "2025-06-19T15:23:00",
+            "image_url": "https://images.mktw.net/im-32993127"
+        },
+        {
+            "title": "Reservoir Farms opens applications for inaugural cohort",
+            "link": "https://www.therobotreport.com/reservoir-farms-opens-applications-for-inaugural-cohort/",
+            "description": "Reservoir Farms is offering ag robotics startups a complete design, build and testing facility. The post Reservoir Farms opens applications for inaugu...",
+            "pubDate": "2025-06-19T13:45:42",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ReservoirFarmsSalinas-featured.jpg"
+        },
+        {
+            "title": "‘Everybody is in danger’ as budget cuts gut caregiving services",
+            "link": "https://www.marketwatch.com/story/everybody-is-in-danger-as-budget-cuts-gut-caregiving-services-21678732?mod=mw_rss_topstories",
+            "description": "Labor activist Ai-jen Poo, featured in Bradley Cooper’s PBS “Caregiving” documentary, says “the story of caregiving in America is everyone’s story.”",
+            "pubDate": "2025-06-19T13:33:00",
+            "image_url": "https://images.mktw.net/im-10565658"
+        },
+        {
+            "title": "Announcing our 2025 VB Transform Innovation Showcase finalists",
+            "link": "https://venturebeat.com/ai/announcing-our-2025-vb-transform-innovation-showcase-finalists/",
+            "description": "Seven companies will be sharing their latest AI innovations from the main stage at VB Transform in SF on June 25.",
+            "pubDate": "2025-06-19T03:46:15",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/06/SHWC3584.jpg?w=578"
+        },
+        {
+            "title": "Is this the electric grid of the future?",
+            "link": "https://www.technologyreview.com/2025/06/19/1118248/electric-grid-future-lincoln-nebraska-utilities-energy-transition/",
+            "description": "One morning in the middle of March, a slow-moving spring blizzard stalled above eastern Nebraska, pounding the state capital of Lincoln with 60-mile-p...",
+            "pubDate": "2025-06-19T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/DSF3750-mag.jpg?w=1937"
+        },
+        {
+            "title": "Global stocks fall, oil futures rise, on a report U.S. may soon strike Iran",
+            "link": "https://www.marketwatch.com/story/global-stocks-fall-oil-futures-rise-on-a-report-u-s-may-soon-strike-iran-234f474e?mod=mw_rss_topstories",
+            "description": "Asian and European stocks fell on Thursday, and oil futures rose, as reports suggested a U.S. military strike against Iran could happen this weekend.",
+            "pubDate": "2025-06-19T14:56:00",
+            "image_url": "https://images.mktw.net/im-56559390"
+        },
+        {
+            "title": "GenLayer launches a new method to incentivize people to market your brand using AI and blockchain",
+            "link": "https://venturebeat.com/ai/genlayer-launches-a-new-method-to-incentivize-people-to-market-your-brand-using-ai-and-blockchain/",
+            "description": "With applications like Rally already live in beta, GenLayer presents a new category of intelligent blockchain infrastructure.",
+            "pubDate": "2025-06-19T11:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_pop_art_screenprint_close_up_giant_chain_link_covered_w_5f691bf4-b463-4430-84d0-c2c6e8cee3b6.png?w=578"
+        },
+        {
+            "title": "Social Security will stop sending paper checks soon. How to make sure you still get your benefits on time.",
+            "link": "https://www.marketwatch.com/story/social-security-will-stop-sending-paper-checks-soon-how-to-make-sure-you-still-get-your-benefits-on-time-0c12a84f?mod=mw_rss_topstories",
+            "description": "Paper Social Security checks will be eliminated on Sept. 30.",
+            "pubDate": "2025-06-19T15:00:00",
+            "image_url": "https://images.mktw.net/im-67206074"
+        },
+        {
+            "title": "Inside the US power struggle over coal",
+            "link": "https://www.technologyreview.com/2025/06/19/1119027/us-coal-power-struggle/",
+            "description": "Coal power is on life support in the US. It used to carry the grid with cheap electricity, but now plants are closing left and right. There are a lot ...",
+            "pubDate": "2025-06-19T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "OpenAI open sourced a new Customer Service Agent framework — learn more about its growing enterprise strategy",
+            "link": "https://venturebeat.com/programming-development/openai-open-sourced-a-new-customer-service-agent-framework-learn-more-about-its-growing-enterprise-strategy/",
+            "description": "By offering transparent tooling and clear implementation examples, OpenAI is pushing agentic systems out of the lab and into everyday use.",
+            "pubDate": "2025-06-18T23:30:02",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_vibrant_expressionist_blocky_messy_simple_shapes_minima_8e81cb36-5471-4207-88ef-32f9dc7c9e6e.png?w=578"
+        },
+        {
+            "title": "Celebrating 200 podcast episodes; robotics evolve in space exploration",
+            "link": "https://www.therobotreport.com/celebrating-200-episodes-evolution-robotics-nasa-space-exploration/",
+            "description": "Episode 200 features some of the show's major milestones, and Dr. Rob Ambrose joins the show to highlight robotics at NASA. The post Celebrating 200 p...",
+            "pubDate": "2025-06-18T19:28:36",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/ROBO25_728x90_CallforPresentations_Vs1.jpg"
+        },
+        {
+            "title": "From prompt chaos to clarity: How to build a robust AI orchestration layer",
+            "link": "https://venturebeat.com/ai/from-prompt-chaos-to-clarity-how-to-build-a-robust-ai-orchestration-layer/",
+            "description": "Choosing orchestration frameworks can be overwhelming, but some experts believe there are best practices to follow to find success.",
+            "pubDate": "2025-06-18T20:11:10",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_orchestra_made_of_computer_code_1c882e16-8ada-4ece-abd8-ce1357ae6365.jpeg?w=578"
         },
         {
             "title": "PrismaX launches with $11M to scale virtual datasets for robotics foundation models",
@@ -61,95 +117,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/prismax-featured.jpg"
         },
         {
-            "title": "SportsVisio raises $3.2M for AI for sports athletes and fans",
-            "link": "https://venturebeat.com/games/sportsvisio-raises-3-2m-for-ai-for-sports-athletes-and-fans/",
-            "description": "SportsVisio has raised $3.2 million to put the power of advanced AI into the hands of every athlete, coach, and fan.",
-            "pubDate": "2025-06-18T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Screenshot_2025-05-30_at_15.51.36.jpg?w=578"
+            "title": "Announcing the 2025 finalists for VentureBeat Women in AI Awards",
+            "link": "https://venturebeat.com/ai/announcing-the-2024-nominees-for-venturebeat-women-in-ai-awards-2025/",
+            "description": "Announcing the finalists for the 2025 women in AI awards.",
+            "pubDate": "2025-06-18T23:06:48",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/07/DSC2454.jpg?w=578"
         },
         {
-            "title": "Circle Internet’s stock-market surge continues as Senate bill’s passage indicates the federal government is taking stablecoins seriously",
-            "link": "https://www.marketwatch.com/story/circle-internets-stock-market-surge-continues-as-senate-bills-passage-indicates-the-federal-government-is-taking-stablecoins-seriously-5acbdb21?mod=mw_rss_topstories",
-            "description": "Less than two weeks after IPO, Circle Internet’s market capitalization surpasses nearly half of the S&P 500.",
-            "pubDate": "2025-06-18T18:54:00",
-            "image_url": "https://images.mktw.net/im-05872666"
+            "title": "Simbe, Coresight Research study finds retailers urgently need to reduce inefficiencies",
+            "link": "https://www.therobotreport.com/simbe-coresight-research-study-finds-retailers-urgently-need-to-reduce-inefficiencies/",
+            "description": "Simbe said retailers are losing $162.7 billion in margin each year due to in-store inefficiencies—a 27% increase from 2024. The post Simbe, Coresight ...",
+            "pubDate": "2025-06-18T21:43:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Tally-in-Dairy-featured.jpg"
         },
         {
-            "title": "Why AI hardware needs to be open",
-            "link": "https://www.technologyreview.com/2025/06/18/1118943/ai-hardware-open/",
-            "description": "When OpenAI acquired Io to create “the coolest piece of tech that the world will have ever seen,” it confirmed what industry experts have long been sa...",
-            "pubDate": "2025-06-18T09:49:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Puzzle Corner",
-            "link": "https://www.technologyreview.com/2025/06/18/1119010/puzzle-corner-73/",
-            "description": "Ready for a fresh set of puzzles? Click here for the September/October 2024 Puzzle Corner, brought to you by guest editor Edward Faulkner ’03.",
-            "pubDate": "2025-06-18T14:05:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "OpenAI can rehabilitate AI models that develop a “bad boy persona”",
+            "link": "https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/",
+            "description": "A new paper from OpenAI has shown why a little bit of bad training can make AI models go rogue—but also demonstrates that this problem is generally pr...",
+            "pubDate": "2025-06-18T19:19:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Puzzle Corner",
             "link": "https://www.technologyreview.com/2025/06/18/1118935/puzzle-corner-74/",
             "description": "Ready for a fresh set of puzzles? Click here for the July/August 2025 Puzzle Corner, brought to you by guest editor Ed Faulkner ’03. Send problems, so...",
             "pubDate": "2025-06-18T17:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Qodo teams up with Google Cloud to provide devs with FREE AI code review tools directly within platform",
-            "link": "https://venturebeat.com/programming-development/qodo-teams-up-with-google-cloud-to-provide-devs-with-free-ai-code-review-tools-directly-within-platform/",
-            "description": "The goal is to make enterprise-grade code quality solutions accessible to fast-growing startups looking to scale responsibly.",
-            "pubDate": "2025-06-17T14:10:45",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_stark_minimalist_bright_tropical_theme_a_purple_letter__193222d0-19aa-4bba-ab04-3696dd5f237a.png?w=578"
-        },
-        {
-            "title": "OpenAI moves forward with GPT-4.5 deprecation in API, triggering developer anguish and confusion",
-            "link": "https://venturebeat.com/ai/openai-moves-forward-with-gpt-4-5-deprecation-in-api-triggering-developer-anguish-and-confusion/",
-            "description": "Despite the strong reaction, OpenAI had in fact already announced the plan to deprecate GPT-4.5 Preview back in April 2025.",
-            "pubDate": "2025-06-17T22:52:29",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/cfr0z3n_minimalist_paper_cutout_close_up_colorful_silhouettes_o_2da0448f-580c-49c4-985b-00eb0ff8f142.png?w=578"
-        },
-        {
-            "title": "ANYbotics launches Gas Leak and Presence Detection for ANYmal inspection robot",
-            "link": "https://www.therobotreport.com/anybotics-launches-gas-leak-presence-detection-anymal-inspection-robot/",
-            "description": "ANYbotics has integrated gas detectors and an acoustic imaging payload with its modular offerings for customizable inspections. The post ANYbotics lau...",
-            "pubDate": "2025-06-17T16:50:59",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ANYmal_01.jpg"
-        },
-        {
-            "title": "Robot sales for the automotive industry remain high in Europe",
-            "link": "https://www.therobotreport.com/robot-sales-europe-automotive-industry-remain-high/",
-            "description": "At a global level, car manufacturing in Europe is highly automated, according to the International Federation of Robotics. The post Robot sales for th...",
-            "pubDate": "2025-06-17T20:16:01",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Graph_robots_automotive_industry_Europe-featured.jpg"
-        },
-        {
-            "title": "Google launches production-ready Gemini 2.5 AI models to challenge OpenAI’s enterprise dominance",
-            "link": "https://venturebeat.com/ai/google-launches-production-ready-gemini-2-5-ai-models-to-challenge-openais-enterprise-dominance/",
-            "description": "Google launches production-ready Gemini 2.5 Pro and Flash AI models for enterprises while introducing cost-efficient Flash-Lite to challenge OpenAI's ...",
-            "pubDate": "2025-06-17T22:55:56",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_a_rocket_takeoff_in_the_colors_of_Googl_34d67d80-5426-48e4-85ea-c11e8e4f2947.webp?w=578"
-        },
-        {
-            "title": "Roboworx to aid Miso Robotics in installation, maintenance of its Flippy robots",
-            "link": "https://www.therobotreport.com/roboworx-aids-miso-robotics-installation-maintenance-flippy-robots/",
-            "description": "This collaboration combines Miso Robotics' AI-powered Flippy Fry Station robots with the Roboworx nationwide technician network. The post Roboworx to ...",
-            "pubDate": "2025-06-17T21:42:26",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Flippy-Next-Generation-Elevator-and-Basket-scaled-featured.jpg"
-        },
-        {
-            "title": "SS Innovations completes its first cardiac surgery in the Americas with SSi Mantra",
-            "link": "https://www.therobotreport.com/ss-innovations-completes-first-cardiac-surgery-americas-ssi-mantra-3/",
-            "description": "Interhospital, the first hospital in South America to install the SSi Mantra, has used the system to perform a variety of surgical procedures. The pos...",
-            "pubDate": "2025-06-16T22:24:26",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ssi-m3-featured.jpg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -159,6 +152,13 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
@@ -166,18 +166,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
             "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
