@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-19T14:36:00.636966",
+    "lastBuildDate": "2025-06-20T11:02:53.705573",
     "items": [
+        {
+            "title": "Google’s Gemini transparency cut leaves enterprise developers ‘debugging blind’",
+            "link": "https://venturebeat.com/ai/googles-gemini-transparency-cut-leaves-enterprise-developers-debugging-blind/",
+            "description": "Why is Google hiding Gemini's reasoning traces? The decision sparks a debate over black-box models versus the need for transparency.",
+            "pubDate": "2025-06-20T13:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/LLM-reasoning.png?w=578"
+        },
         {
             "title": "GenLayer launches a new method to incentivize people to market your brand using AI and blockchain",
             "link": "https://venturebeat.com/ai/genlayer-launches-a-new-method-to-incentivize-people-to-market-your-brand-using-ai-and-blockchain/",
@@ -31,13 +38,6 @@
             "description": "Announcing the finalists for the 2025 women in AI awards.",
             "pubDate": "2025-06-18T23:06:48",
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/07/DSC2454.jpg?w=578"
-        },
-        {
-            "title": "From prompt chaos to clarity: How to build a robust AI orchestration layer",
-            "link": "https://venturebeat.com/ai/from-prompt-chaos-to-clarity-how-to-build-a-robust-ai-orchestration-layer/",
-            "description": "Choosing orchestration frameworks can be overwhelming, but some experts believe there are best practices to follow to find success.",
-            "pubDate": "2025-06-18T20:11:10",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_orchestra_made_of_computer_code_1c882e16-8ada-4ece-abd8-ce1357ae6365.jpeg?w=578"
         }
     ]
 }
