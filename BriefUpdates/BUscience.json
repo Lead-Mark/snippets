@@ -2,15 +2,8 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-24T12:04:16.246909",
+    "lastBuildDate": "2025-06-24T14:26:05.056904",
     "items": [
-        {
-            "title": "Your CT scan could reveal a hidden heart risk—and AI just learned how to find it",
-            "link": "https://www.sciencedaily.com/releases/2025/06/250623233238.htm",
-            "description": "What if your old chest scans—taken years ago for something unrelated—held a secret warning about your heart? A new AI tool called AI-CAC, developed by...",
-            "pubDate": "2025-06-24T04:32:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
         {
             "title": "NSF Graduate Research Fellow's work on light contributes to nanodot breakthrough",
             "link": "https://www.nsf.gov/news/nsf-graduate-research-fellows-work-light-contributes-nanodot",
@@ -19,38 +12,45 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "USC's new AI implant promises drug-free relief for chronic pain",
-            "link": "https://www.sciencedaily.com/releases/2025/06/250623233327.htm",
-            "description": "A groundbreaking wireless implant promises real-time, personalized pain relief using AI and ultrasound power no batteries, no wires, and no opioids. D...",
-            "pubDate": "2025-06-24T07:38:14",
+            "title": "Wildfires threaten water quality for up to eight years after they burn",
+            "link": "https://www.sciencedaily.com/releases/2025/06/250624044332.htm",
+            "description": "Wildfires don’t just leave behind scorched earth—they leave a toxic legacy in Western rivers that can linger for nearly a decade. A sweeping new study...",
+            "pubDate": "2025-06-24T17:13:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "COVID-19 protein triggers immune attacks on healthy cells — but a common drug can stop it",
+            "link": "https://www.sciencedaily.com/releases/2025/06/250624044324.htm",
+            "description": "Scientists have uncovered a stealthy tactic used by the SARS-CoV-2 virus: one of its proteins can leap from infected cells to healthy ones, effectivel...",
+            "pubDate": "2025-06-24T15:17:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Killer whales use seaweed tools in never-before-seen grooming behavior",
+            "link": "https://www.sciencedaily.com/releases/2025/06/250624044322.htm",
+            "description": "Southern resident killer whales have been caught on drone video crafting kelp tools to groom one another—an unprecedented behavior among marine mammal...",
+            "pubDate": "2025-06-24T14:44:46",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "123,000-year-old coral fossils warn of sudden, catastrophic sea-level rise",
-            "link": "https://www.sciencedaily.com/releases/2025/06/250623233210.htm",
-            "description": "Ancient coral fossils from the remote Seychelles islands have unveiled a dramatic warning for our future—sea levels can rise in sudden, sharp bursts e...",
-            "pubDate": "2025-06-24T04:32:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Mining the deep could mute the songs of sperm whales",
-            "link": "https://www.sciencedaily.com/releases/2025/06/250624044317.htm",
-            "description": "Exploration for deep-sea minerals in the Clarion Clipperton Zone threatens to disrupt an unexpectedly rich ecosystem of whales and dolphins. New studi...",
-            "pubDate": "2025-06-24T14:07:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "No kings buried here: DNA unravels the myth of incestuous elites in ancient Ireland",
-            "link": "https://www.sciencedaily.com/releases/2025/06/250623233320.htm",
-            "description": "DNA from a skull found at Newgrange once sparked theories of a royal incestuous elite in ancient Ireland, but new research reveals no signs of such a ...",
-            "pubDate": "2025-06-24T04:33:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "NSF invests $25.5M in research to drive new U.S. manufacturing technologies and talent pipelines",
             "link": "https://www.nsf.gov/news/nsf-invests-255m-research-drive-new-us-manufacturing",
             "description": "The U.S. National Science Foundation has announced a $25.5 million investment to support fundamental research and workforce development aimed at enabl...",
             "pubDate": "2025-06-24T15:07:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "How brain cells meant to help may be making depression worse",
+            "link": "https://www.sciencedaily.com/releases/2025/06/250624044330.htm",
+            "description": "Major depressive disorder affects hundreds of millions worldwide, but a key to understanding its origins may lie in the brain’s immune system. New fin...",
+            "pubDate": "2025-06-24T16:19:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Ancient carbon ‘burps’ caused ocean oxygen crashes — and we’re repeating the mistake",
+            "link": "https://www.sciencedaily.com/releases/2025/06/250624044326.htm",
+            "description": "Over 300 million years ago, Earth experienced powerful bursts of carbon dioxide from natural sources—like massive volcanic eruptions—that triggered dr...",
+            "pubDate": "2025-06-24T15:38:22",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -58,21 +58,21 @@
             "link": "https://www.nsf.gov/news/first-imagery-nsf-doe-vera-c-rubin-observatory",
             "description": "The NSF-DOE Vera C. Rubin Observatory, a major new scientific facility jointly funded by the U.S. National Science Foundation and the U.S. Department ...",
             "pubDate": "2025-06-23T16:30:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Microbes from Brooklyn could help mitigate industrial contamination",
             "link": "https://www.nsf.gov/news/microbes-brooklyn-could-help-mitigate-industrial",
             "description": "Microorganisms with extreme abilities have laid the groundwork for decades of biotechnologies from the PCR technique that enables amplification of DNA...",
             "pubDate": "2025-06-20T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "NSF ZEUS becomes the most powerful laser in the U.S.",
             "link": "https://www.nsf.gov/news/nsf-zeus-becomes-most-powerful-laser-us",
             "description": "The U.S. National Science Foundation Zettawatt-Equivalent Ultrashort pulse laser System (NSF ZEUS) laser facility at the University of Michigan now ha...",
             "pubDate": "2025-06-18T14:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
