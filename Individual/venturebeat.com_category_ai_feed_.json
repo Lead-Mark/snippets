@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-25T11:04:13.570960",
+    "lastBuildDate": "2025-06-25T14:56:56.852629",
     "items": [
+        {
+            "title": "Nvidia’s ‘AI Factory’ narrative faces reality check as inference wars expose 70% margins",
+            "link": "https://venturebeat.com/ai/nvidias-ai-factory-narrative-faces-reality-check-at-transform-2025/",
+            "description": "Alternative chip makers expose the contradiction in Nvidia's AI factory story: How can inference be a commodity while commanding 70% margins?",
+            "pubDate": "2025-06-25T19:56:28",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/PANEL.jpg?w=578"
+        },
+        {
+            "title": "The new AI infrastructure reality: Bring compute to data, not data to compute",
+            "link": "https://venturebeat.com/data-infrastructure/the-new-ai-infrastructure-reality-bring-compute-to-data-not-data-to-compute/",
+            "description": "PEAK:AIO’s software-defined storage layer, combined with Solidigm’s high-performance solid-state drives (SSDs), addresses both ends of this spectrum—d...",
+            "pubDate": "2025-06-25T18:57:52",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/ARRO4915.jpg?w=578"
+        },
+        {
+            "title": "Anthropic just made every Claude user a no-code app developer",
+            "link": "https://venturebeat.com/ai/anthropic-just-made-every-claude-user-a-no-code-app-developer/",
+            "description": "Anthropic transforms Claude AI into a no-code app development platform with 500 million user-created artifacts, intensifying competition with OpenAI's...",
+            "pubDate": "2025-06-25T18:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/nuneybits_Vector_art_of_a_modern_computer_with_computer_code_on_dc79f46b-77e0-4c67-8ace-6d2bf40f86ed.webp?w=578"
+        },
+        {
+            "title": "Enterprises must rethink IAM as AI agents outnumber humans 10 to 1",
+            "link": "https://venturebeat.com/security/identity-becomes-the-control-plane-for-enterprise-ai-security/",
+            "description": "Identity is the essential control plane for agentic AI security, redefining enterprise defenses amid rising credential-based breaches.",
+            "pubDate": "2025-06-25T16:05:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/FINAL-HED-.png?w=578"
+        },
         {
             "title": "Forget about AI costs: Google just changed the game with open-source Gemini CLI that will be free for most developers",
             "link": "https://venturebeat.com/ai/google-is-redefining-enterprise-ai-economics-with-open-source-gemini-cli-that-will-be-free-for-the-majority-of-developers/",
             "description": "Google is bringing Gemini Pro 2.5 to the command line with a powerful new open source tool — and it's doing it mostly for free.",
             "pubDate": "2025-06-25T14:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/corporate-dev-ai-smk.jpg?w=578"
-        },
-        {
-            "title": "Stanford’s ChatEHR allows clinicians to query patient medical records using natural language, without compromising patient data",
-            "link": "https://venturebeat.com/ai/stanfords-chatehr-allows-clinicians-to-query-patient-medical-records-using-natural-language-without-compromising-patient-data/",
-            "description": "ChatEHR accelerates chart reviews for ER admissions, streamlines patient transfer summaries and synthesizes complex medical histories.",
-            "pubDate": "2025-06-25T01:24:25",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/ARRO6091.jpg?w=578"
-        },
-        {
-            "title": "What’s inside Genspark? A new vibe working approach that ditches rigid workflows for autonomous agents",
-            "link": "https://venturebeat.com/ai/whats-inside-genspark-a-new-vibe-working-approach-that-ditches-rigid-workflows-for-autonomous-agents/",
-            "description": "Genspark's autonomous AI agents prove that less control beats rigid workflows, forcing enterprise AI leaders to rethink how they architect intelligent...",
-            "pubDate": "2025-06-25T01:09:24",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/kay-zhu-transform.jpg?w=578"
-        },
-        {
-            "title": "Windsurf CEO Varun Mohan throws cold water on 1-person, billion-dollar startup idea at VB Transform: ‘more people allow you to grow faster’",
-            "link": "https://venturebeat.com/programming-development/windsurf-ceo-varun-mohan-throws-cold-water-on-1-person-billion-dollar-startup-idea-at-vb-transform-more-people-allow-you-to-grow-faster/",
-            "description": "Internally, Windsurf organizes into lean squads of three or four engineers, each focused on testing a narrow set of product hypotheses.",
-            "pubDate": "2025-06-25T00:35:53",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/windsurf-vb.png?w=578"
-        },
-        {
-            "title": "‘Sandbox first’: Andrew Ng’s blueprint for accelerating enterprise AI innovation",
-            "link": "https://venturebeat.com/ai/sandbox-first-andrew-ngs-blueprint-for-accelerating-enterprise-ai-innovation/",
-            "description": "Speaking at VB Transform, Andrew Ng said observability and guardrails are important, but not at the cost of speed.",
-            "pubDate": "2025-06-24T21:38:49",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/CRSS7618.jpg?w=578"
         }
     ]
 }
