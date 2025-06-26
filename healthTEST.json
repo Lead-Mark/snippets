@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-26T11:05:12.249476",
+    "lastBuildDate": "2025-06-26T14:09:11.567891",
     "items": [
+        {
+            "title": "How many kids go to work instead of school?",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/06/26/g-s1-73316/child-labor-progress-asia-sub-saharan-africa",
+            "description": "They toil in mines, tend crops, scrub floors. An author of a new report on child labor points to great progress in reducing the number of kids who wor...",
+            "pubDate": "2025-06-26T12:32:29",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x3264+0+0/resize/4896x3264!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F7e%2Fa64627a5424fa3f8372e46027cfc%2Fgettyimages-539410642.jpg"
+        },
         {
             "title": "'Say no to power peeing' and other good tips from a pelvic floor physical therapist",
             "link": "https://www.npr.org/2025/06/26/nx-s1-5413369/pelvic-floor-therapy",
@@ -19,27 +26,6 @@
             "image_url": "https://cdn.physiciansweekly.com/wp-content/uploads/2024/06/HEALTHDAY_Web_small3.png"
         },
         {
-            "title": "Supreme Court upholds South Carolina's ban on Medicaid funds for Planned Parenthood",
-            "link": "https://www.npr.org/2025/06/26/nx-s1-5435021/scotus-planned-parenthood",
-            "description": "The Supreme Court allowed South Carolina to remove Planned Parenthood clinics from its state Medicaid program, even though Medicaid funds cannot gener...",
-            "pubDate": "2025-06-26T15:17:58",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8317x5545+0+0/resize/8317x5545!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F99%2F5aa9ebe441a1898db325cc7e8cba%2Fgettyimages-1260960662-3.jpg"
-        },
-        {
-            "title": "Gene Therapy Effective in Patients With Recessive Dystrophic Epidermolysis Bullosa",
-            "link": "https://www.physiciansweekly.com/gene-therapy-effective-in-patients-with-recessive-dystrophic-epidermolysis-bullosa/",
-            "description": "WEDNESDAY, June 25, 2025 (HealthDay News) — For patients with recessive dystrophic epidermolysis bullosa (RDEB), a one-time surgical application of pr...",
-            "pubDate": "2025-06-26T07:31:12",
-            "image_url": "https://cdn.physiciansweekly.com/wp-content/uploads/2024/06/HEALTHDAY_Web_small3.png"
-        },
-        {
-            "title": "The paperwork trap: A sneaky way to cut Medicaid in the 'One Big Beautiful Bill'?",
-            "link": "https://www.npr.org/sections/planet-money/2025/06/26/g-s1-74544/the-paperwork-trap-a-sneaky-way-to-cut-medicaid-in-the-one-big-beautiful-bill",
-            "description": "Republicans want to add work requirements for Americans to get Medicaid. Is that a necessary step to fight \"waste, fraud, and abuse\" or a sneaky way o...",
-            "pubDate": "2025-06-26T11:30:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4813+0+0/resize/7000x4813!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F9a%2F7b0fdb6a47989c33f4ba36b7aee1%2Fgettyimages-2040933113.jpg"
-        },
-        {
             "title": "Food compounds associated with disease activity in inflammatory bowel disease",
             "link": "https://www.2minutemedicine.com/food-compounds-associated-with-disease-activity-in-inflammatory-bowel-disease/",
             "description": "1. This retrospective cohort study identified several dietary compounds, specifically fatty acids, that are associated with remission in inflammatory ...",
@@ -47,11 +33,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/12/Crohn_Colitis_6264520294-300x150.jpg"
         },
         {
-            "title": "How many kids go to work instead of school?",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/06/26/g-s1-73316/child-labor-progress-asia-sub-saharan-africa",
-            "description": "They toil in mines, tend crops, scrub floors. An author of a new report on child labor points to great progress in reducing the number of kids who wor...",
-            "pubDate": "2025-06-26T12:32:29",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x3264+0+0/resize/4896x3264!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F7e%2Fa64627a5424fa3f8372e46027cfc%2Fgettyimages-539410642.jpg"
+            "title": "Supreme Court upholds South Carolina's ban on Medicaid funds for Planned Parenthood",
+            "link": "https://www.npr.org/2025/06/26/nx-s1-5435021/scotus-planned-parenthood",
+            "description": "The Supreme Court allowed South Carolina to remove Planned Parenthood clinics from its state Medicaid program, even though Medicaid funds cannot gener...",
+            "pubDate": "2025-06-26T15:17:58",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8317x5545+0+0/resize/8317x5545!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F99%2F5aa9ebe441a1898db325cc7e8cba%2Fgettyimages-1260960662-3.jpg"
         },
         {
             "title": "Medicaid changes don't meet Senate rules in 'big, beautiful bill' says parliamentarian",
@@ -61,102 +47,130 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7977x5318+0+0/resize/7977x5318!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F71%2Ffc5d180d40179d66543965898f4b%2Fgettyimages-2221210283.jpg"
         },
         {
-            "title": "Promising Weight-Loss Compound Targets Energy Expenditure",
-            "link": "https://www.medscape.com/viewarticle/promising-weight-loss-compound-targets-energy-expenditure-2025a1000h60?src=rss",
-            "description": "A novel weight-loss compound activates creatine-dependent thermogenesis, thereby increasing energy expenditure rather than suppressing appetite. Medsc...",
-            "pubDate": "2025-06-26T13:53:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "The paperwork trap: A sneaky way to cut Medicaid in the 'One Big Beautiful Bill'?",
+            "link": "https://www.npr.org/sections/planet-money/2025/06/26/g-s1-74544/the-paperwork-trap-a-sneaky-way-to-cut-medicaid-in-the-one-big-beautiful-bill",
+            "description": "Republicans want to add work requirements for Americans to get Medicaid. Is that a necessary step to fight \"waste, fraud, and abuse\" or a sneaky way o...",
+            "pubDate": "2025-06-26T11:30:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4813+0+0/resize/7000x4813!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F9a%2F7b0fdb6a47989c33f4ba36b7aee1%2Fgettyimages-2040933113.jpg"
         },
         {
-            "title": "What RFK Jr. Isn’t Talking About: How To Make Vaccines Safer",
-            "link": "https://www.physiciansweekly.com/what-rfk-jr-isnt-talking-about-how-to-make-vaccines-safer/",
-            "description": "Within an hour of receiving a covid vaccination in November 2020, Utah preschool teacher Brianne Dressen felt pins and needles through her arms and le...",
-            "pubDate": "2025-06-26T11:30:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "'Single shot' malaria vaccine delivery system could transform global immunization",
-            "link": "https://medicalxpress.com/news/2025-06-shot-malaria-vaccine-delivery-global.html",
-            "description": "Oxford researchers have developed programmable microcapsules to deliver vaccines in stages, potentially eliminating the need for booster shots and inc...",
-            "pubDate": "2025-06-26T16:01:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Q&A: What does a heat wave mean for your lungs and health?",
-            "link": "https://medicalxpress.com/news/2025-06-qa-lungs-health.html",
-            "description": "Charlottesville and much of central Virginia were under an extreme heat warning Tuesday, with temperatures predicted to stay in the 90s and upper 80s ...",
-            "pubDate": "2025-06-26T15:44:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Your only client is the truth: Navigating the space between medicine and law [PODCAST]",
-            "link": "https://kevinmd.com/2025/06/your-only-client-is-the-truth-navigating-the-space-between-medicine-and-law-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Nephrologist Saad S. Alshohaib discusses his article, “Why truth stil...",
-            "pubDate": "2025-06-26T00:00:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Gene Therapy Effective in Patients With Recessive Dystrophic Epidermolysis Bullosa",
+            "link": "https://www.physiciansweekly.com/gene-therapy-effective-in-patients-with-recessive-dystrophic-epidermolysis-bullosa/",
+            "description": "WEDNESDAY, June 25, 2025 (HealthDay News) — For patients with recessive dystrophic epidermolysis bullosa (RDEB), a one-time surgical application of pr...",
+            "pubDate": "2025-06-26T07:31:12",
+            "image_url": "https://cdn.physiciansweekly.com/wp-content/uploads/2024/06/HEALTHDAY_Web_small3.png"
         },
         {
             "title": "Cardiovascular Risk Not Key in Presurgical Med Management",
             "link": "https://www.medscape.com/viewarticle/cardiovascular-risk-does-not-affect-outcomes-when-managing-2025a1000h5n?src=rss",
             "description": "A new study suggests preexisting cardiovascular risk is not a significant factor in whether patients should continue or discontinue renin-angiotensin ...",
             "pubDate": "2025-06-26T13:35:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "What the science says about sunscreen",
-            "link": "https://medicalxpress.com/news/2025-06-science-sunscreen.html",
-            "description": "As temperatures climb and sleeves grow shorter, a familiar ritual returns: slathering on the sunscreen—or perhaps skipping it. Confusion lingers about...",
-            "pubDate": "2025-06-26T15:14:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Runners improve performance by narrowing their visual focus",
-            "link": "https://medicalxpress.com/news/2025-06-runners-narrowing-visual-focus.html",
-            "description": "The factors that go into optimizing athletic performance have long been of interest to trainers, scientists, and, of course, athletes themselves. Thes...",
-            "pubDate": "2025-06-26T15:18:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Nerandomilast May Slow Down Progressive Pulmonary Fibrosis",
-            "link": "https://www.medscape.com/viewarticle/nerandomilast-may-slow-down-progressive-pulmonary-fibrosis-2025a1000h69?src=rss",
-            "description": "Nerandomilast significantly reduces the decline in forced vital capacity in adults with progressive pulmonary fibrosis over 52 weeks, thereby slowing ...",
-            "pubDate": "2025-06-26T13:59:23",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Follow water safety guidelines to prevent drowning",
-            "link": "https://medicalxpress.com/news/2025-06-safety-guidelines.html",
-            "description": "Drowning fatalities among children in the summertime warrant water safety awareness. A Baylor College of Medicine emergency physician explains that wa...",
-            "pubDate": "2025-06-26T15:42:03",
+            "title": "Deeper sleep is more likely to lead to eureka moments, study indicates",
+            "link": "https://medicalxpress.com/news/2025-06-deeper-eureka-moments.html",
+            "description": "\"Sleeping on it,\" especially dropping deeper than a doze, might help people gain insight into certain kinds of tasks, according to a study published i...",
+            "pubDate": "2025-06-26T19:00:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "NHS England Approves New Cloud-Based GP IT System",
+            "link": "https://www.medscape.com/viewarticle/nhs-england-approves-new-cloud-based-gp-it-system-2025a1000h6z?src=rss",
+            "description": "Approval of a new clinical IT system will increase competition, reduce admin, and improve care within GP services, NHS England said. Medscape News UK",
+            "pubDate": "2025-06-26T16:31:15",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Guselkumab Clears Scalp Psoriasis Across Skin Tones",
-            "link": "https://www.medscape.com/viewarticle/guselkumab-clears-scalp-psoriasis-across-skin-tones-2025a1000h5c?src=rss",
-            "description": "Guselkumab improves scalp psoriasis and quality of life in patients with skin of color. Medscape Medical News",
-            "pubDate": "2025-06-26T13:30:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "How community paramedicine impacts Indigenous elders",
+            "link": "https://kevinmd.com/2025/06/how-community-paramedicine-impacts-indigenous-elders.html",
+            "description": "Tucked along the edge of the frigid James Bay, Moosonee stands as one of Northern Ontario’s most remote and storied communities—a place often referred...",
+            "pubDate": "2025-06-26T12:00:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "There is no loneliness epidemic, so why do we keep talking as if there is?",
+            "link": "https://medicalxpress.com/news/2025-06-loneliness-epidemic.html",
+            "description": "Most people experience periods of loneliness, isolation or solitude in their lives. But these are different things, and the proportion of people feeli...",
+            "pubDate": "2025-06-26T18:30:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Common bacteria in mouth can help predict progression of head and neck cancer",
+            "link": "https://medicalxpress.com/news/2025-06-common-bacteria-mouth-neck-cancer.html",
+            "description": "For decades, oral health care has mainly focused on preventing cavities and gum disease. However, scientific research has increasingly highlighted the...",
+            "pubDate": "2025-06-26T18:40:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "ACIP’s New Class Endorses RSV, Talks COVID",
+            "link": "https://www.medscape.com/viewarticle/acips-new-class-endorses-rsv-talks-covid-2025a1000h7b?src=rss",
+            "description": "In a reversal of trends from past meetings, most public comments praised vaccine safety and efficacy Medscape Medical News",
+            "pubDate": "2025-06-26T18:00:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Study finds no added benefit of surfactant treatment for babies with severe bronchiolitis",
+            "link": "https://medicalxpress.com/news/2025-06-added-benefit-surfactant-treatment-babies.html",
+            "description": "A major UK-led clinical trial has found that a treatment commonly used to help premature babies breathe offers no benefit for infants on life support ...",
+            "pubDate": "2025-06-26T18:20:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Promising Weight-Loss Compound Targets Energy Expenditure",
+            "link": "https://www.medscape.com/viewarticle/promising-weight-loss-compound-targets-energy-expenditure-2025a1000h60?src=rss",
+            "description": "A novel weight-loss compound activates creatine-dependent thermogenesis, thereby increasing energy expenditure rather than suppressing appetite. Medsc...",
+            "pubDate": "2025-06-26T13:53:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "What RFK Jr. Isn’t Talking About: How To Make Vaccines Safer",
+            "link": "https://www.physiciansweekly.com/what-rfk-jr-isnt-talking-about-how-to-make-vaccines-safer/",
+            "description": "Within an hour of receiving a covid vaccination in November 2020, Utah preschool teacher Brianne Dressen felt pins and needles through her arms and le...",
+            "pubDate": "2025-06-26T11:30:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "California’s Much-Touted IVF Law May Be Delayed Until 2026, Leaving Many in the Lurch",
             "link": "https://www.physiciansweekly.com/californias-much-touted-ivf-law-may-be-delayed-until-2026-leaving-many-in-the-lurch/",
             "description": "California lawmakers are poised to delay the state’s much-ballyhooed new law mandating in vitro fertilization insurance coverage for millions, set to ...",
             "pubDate": "2025-06-26T11:30:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "COVID-19 pandemic significantly eroded American public's trust in US public health institutions, assessment shows",
+            "link": "https://medicalxpress.com/news/2025-06-covid-pandemic-significantly-eroded-american.html",
+            "description": "Four discrete cross-sectional surveys of US adults from 2020–2024 reveal US adults reporting high confidence in the Centers for Disease Control and Pr...",
+            "pubDate": "2025-06-26T19:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Empowerment Self-Defense Arms ED Staff Against Rising Workplace Violence",
             "link": "https://www.physiciansweekly.com/empowerment-self-defense-arms-ed-staff-against-rising-workplace-violence/",
             "description": "Empowerment self-defense training protects emergency department staff, boosts confidence, enhances communication, and fosters a safer work environment...",
             "pubDate": "2025-06-26T15:06:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Your only client is the truth: Navigating the space between medicine and law [PODCAST]",
+            "link": "https://kevinmd.com/2025/06/your-only-client-is-the-truth-navigating-the-space-between-medicine-and-law-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Nephrologist Saad S. Alshohaib discusses his article, “Why truth stil...",
+            "pubDate": "2025-06-26T00:00:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Nerandomilast May Slow Down Progressive Pulmonary Fibrosis",
+            "link": "https://www.medscape.com/viewarticle/nerandomilast-may-slow-down-progressive-pulmonary-fibrosis-2025a1000h69?src=rss",
+            "description": "Nerandomilast significantly reduces the decline in forced vital capacity in adults with progressive pulmonary fibrosis over 52 weeks, thereby slowing ...",
+            "pubDate": "2025-06-26T13:59:23",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "AI-Derived Risk Score May Improve Risk Stratification of Squamous Cell Carcinomas",
-            "link": "https://www.medscape.com/viewarticle/ai-derived-risk-score-may-improve-risk-stratification-2025a1000h5z?src=rss",
-            "description": "A new AI-enabled prognostication system outperformed standard staging systems in stratifying cutaneous squamous cell carcinoma risk in an independent ...",
-            "pubDate": "2025-06-26T13:27:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Abbreviated MRI is superior to whole-breast ultrasound for detection of cancer in dense breasts",
+            "link": "https://www.2minutemedicine.com/abbreviated-mri-is-superior-to-whole-breast-ultrasound-for-detection-of-cancer-in-dense-breasts/",
+            "description": "1. Abbreviated MRI detected three times as many invasive cancers compared with ABUS. 2. Contrast-enhanced mammography detected a greater number of inv...",
+            "pubDate": "2025-06-25T22:55:09",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/06/140624-2d-3d-mammograms-jsw-136p_b324f3843fa4547c1925c97fadba01c5.nbcnews-ux-960-800-300x150.jpg"
         },
         {
             "title": "Volumetric diet and time-restricted eating demonstrate similar outcomes for weight reduction",
@@ -166,11 +180,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/09/scale2_PD_edited-300x150.jpg"
         },
         {
-            "title": "Abbreviated MRI is superior to whole-breast ultrasound for detection of cancer in dense breasts",
-            "link": "https://www.2minutemedicine.com/abbreviated-mri-is-superior-to-whole-breast-ultrasound-for-detection-of-cancer-in-dense-breasts/",
-            "description": "1. Abbreviated MRI detected three times as many invasive cancers compared with ABUS. 2. Contrast-enhanced mammography detected a greater number of inv...",
-            "pubDate": "2025-06-25T22:55:09",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/06/140624-2d-3d-mammograms-jsw-136p_b324f3843fa4547c1925c97fadba01c5.nbcnews-ux-960-800-300x150.jpg"
+            "title": "Why truth still matters in the courtroom: lessons from a physician witness",
+            "link": "https://kevinmd.com/2025/06/why-truth-still-matters-in-the-courtroom-lessons-from-a-physician-witness.html",
+            "description": "“In the courtroom, I was asked to speak about wounds. But the deepest wounds I saw weren’t just in patients — they were in trust, in truth, and in the...",
+            "pubDate": "2025-06-25T20:00:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Pain is more than physical: the story your body is trying to tell",
@@ -184,21 +198,7 @@
             "link": "https://kevinmd.com/2025/06/why-the-future-of-medicine-depends-on-leading-from-the-heart.html",
             "description": "There’s a sacred irony in medicine: Those who care for hearts often forget their own. This truth came into sharp focus for me this past weekend, where...",
             "pubDate": "2025-06-25T18:00:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Why truth still matters in the courtroom: lessons from a physician witness",
-            "link": "https://kevinmd.com/2025/06/why-truth-still-matters-in-the-courtroom-lessons-from-a-physician-witness.html",
-            "description": "“In the courtroom, I was asked to speak about wounds. But the deepest wounds I saw weren’t just in patients — they were in trust, in truth, and in the...",
-            "pubDate": "2025-06-25T20:00:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Why holding a patient’s hand matters more than technology",
-            "link": "https://kevinmd.com/2025/06/why-holding-a-patients-hand-matters-more-than-technology.html",
-            "description": "I was on another overnight shift in the OB/GYN emergency department. The air was thick with tension, as it always is when the night is full of contrac...",
-            "pubDate": "2025-06-25T12:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Tirzepatide-associated improvements in cardiometabolic risk factors linked to degree of weight loss",
