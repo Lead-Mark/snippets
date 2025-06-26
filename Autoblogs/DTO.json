@@ -2,42 +2,56 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-25T14:57:38.047126",
+    "lastBuildDate": "2025-06-26T11:05:12.999156",
     "items": [
         {
-            "title": "Home builders have too many homes to sell — and there are too few buyers",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7179f8d4-3cb2-46c1-a9b3-a9f1db248596&mod=mw_rss_bulletins",
+            "title": "GDP slumped in first quarter more than previously reported",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1c01b3d7-1e1c-4244-9fd4-f11c436b88b8&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-06-25T16:42:25",
+            "pubDate": "2025-06-26T13:48:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "What oil’s big pullback this week may mean for the U.S. stock market",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7bdef2b4-3a23-4690-aebe-3b5bf06a8686&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-06-26T12:06:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "This MLB star serves as a cautionary tale for young talent seeking upfront cash",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cca9c230-4ad6-49a9-8fda-e97f9ac3d340&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-06-26T00:24:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Why investors should maintain exposure to the ‘Magnificent Seven'",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=307c1c63-f337-4916-a341-b7a7c2aa61b0&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-06-26T14:34:47",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The U.S. dollar has fallen to a fresh three-year low",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5735d039-8da3-4c01-8bd3-3a3071bf0a23&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-06-26T10:41:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Sen. Schumer taken to hospital and treated for dehydration",
+            "link": "https://www.cnbc.com/2025/06/25/schumer-hospital-dehydration-office-says.html",
+            "description": "Schumer was absent Wednesday morning from a press conference on the major tax bill that President Donald Trump is pushing Republicans to pass through ...",
+            "pubDate": "2025-06-25T21:25:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Trump threatens tough trade deal for Spain after it refuses to meet NATO defense spending target",
             "link": "https://www.cnbc.com/2025/06/25/trump-vows-to-make-spain-pay-for-avoiding-new-nato-spending-target.html",
             "description": "\"We're negotiating with Spain on a trade deal and we're going to make them pay twice as much,\" Trump said after the country refused to meet the spendi...",
             "pubDate": "2025-06-25T19:42:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Quant funds are about to plow a massive amount of money into stocks",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e2ccbb2b-627b-4f4e-8c9c-088ca5753070&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-06-25T17:50:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Trump downplays U.S. intelligence report on Iran strikes at NATO presser",
-            "link": "https://www.cnbc.com/2025/06/25/trump-iran-intelligence-report-nato.html",
-            "description": "Trump ordered U.S. strikes on Iranian nuclear sites as part of its support for Israel, then days later announced a ceasefire agreement between the cou...",
-            "pubDate": "2025-06-25T19:05:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why this banking proposal may mean good news for the bond market and investors",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2b0bdae-2a92-4ebc-bffa-50681d8a4df7&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-06-25T18:42:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Trump says U.S. and Iran will meet next week",
@@ -47,32 +61,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "U.S. Senate committee advances advances Trump nominee to head FAA",
-            "link": "https://www.cnbc.com/2025/06/25/us-senate-committee-advances-nomination-of-republic-ceo-to-head-faa.html",
-            "description": "The Senate Commerce Committee on Wednesday voted 15 to 13 to approve the nomination of Republic Airways CEO Bryan Bedford to head the FAA.",
-            "pubDate": "2025-06-25T17:41:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Capitol Police arrest dozens of people protesting Medicaid cuts in Trump budget bill",
+            "link": "https://www.cnbc.com/2025/06/25/capitol-police-medicaid-protests-.html",
+            "description": "President Donald Trump's budget bill, which is currently with the Senate, includes deep cuts to Medicaid.",
+            "pubDate": "2025-06-25T23:46:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "The vanishing ‘Buffett premium’: Has Berkshire lost the Oracle of Omaha’s aura?",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d98027bf-cda8-4471-b5df-a51229110a6c&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-06-25T19:51:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "The era of diversification has begun. Goldman says it has further to run.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c05a6c43-72b4-4e0e-a877-5ae3b49eeef2&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-06-25T15:31:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Trump speaks at NATO press conference",
-            "link": "https://www.cnbc.com/2025/06/25/watch-live-trumps-nato-press-conference.html",
-            "description": "President Donald Trump's comments come days after he announced a ceasefire in the war between Israel and Iran.",
-            "pubDate": "2025-06-25T15:54:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Trump CIA chief says Iran nuclear program was 'severely damaged,' countering reports of U.S. intel assessment",
+            "link": "https://www.cnbc.com/2025/06/25/trump-iran-intelligence-report-nato.html",
+            "description": "Trump ordered U.S. strikes on Iranian nuclear sites as part of its support for Israel, then days later announced a ceasefire agreement between the cou...",
+            "pubDate": "2025-06-25T23:50:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-06-25T14:56:56.853159",
+    "lastBuildDate": "2025-06-26T11:04:36.845561",
     "items": [
+        {
+            "title": "NAU researchers release open-source exoskeleton framework",
+            "link": "https://www.therobotreport.com/nau-researchers-release-open-source-exoskeleton-framework/",
+            "description": "Called OpenExo, the open-source system from NAU includes instructions for building a single- or multi-joint exoskeleton. The post NAU researchers rele...",
+            "pubDate": "2025-06-25T19:00:49",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/Zachary-Lerner-Lab-featured.jpg"
+        },
         {
             "title": "A beginner’s guide to safe human-robot collaboration",
             "link": "https://www.therobotreport.com/a-beginners-guide-to-safe-human-robot-collaboration/",
@@ -31,13 +38,6 @@
             "description": "Motional CEO Laura Major and Foundation CEO Sankaet Pathek join the podcast this week with updates about their systems. The post The road ahead for ro...",
             "pubDate": "2025-06-24T21:29:02",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ROBO25_RegOpen-2_728x90_Vs1.jpg"
-        },
-        {
-            "title": "Realtime Robotics announces two new direct integrations for Resolver",
-            "link": "https://www.therobotreport.com/realtime-robotics-announces-two-new-direct-integrations-for-resolver/",
-            "description": "Realtime Robotics will show new Resolver motion-planning integrations including one with Visual Components, at Automatica. The post Realtime Robotics ...",
-            "pubDate": "2025-06-24T20:28:31",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/realtimerobotics-featured.jpg"
         }
     ]
 }
