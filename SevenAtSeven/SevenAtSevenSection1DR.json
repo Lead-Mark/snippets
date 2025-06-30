@@ -2,14 +2,35 @@
     "title": "SevenAtSevenSection1",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-30T06:50:54.446709",
+    "lastBuildDate": "2025-06-30T11:06:28.723310",
     "items": [
+        {
+            "title": "Click, speak, move: These brain implants are poised to help people with disabilities",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/06/30/nx-s1-5339708/brain-computer-interface-implants-disabilities-neuralink",
+            "description": "People who can no longer move or speak may soon have a new option: an implanted device that links their brain to a computer.",
+            "pubDate": "2025-06-30T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5445x3630+0+0/resize/5445x3630!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F68%2F0d32cff144cf95fe69175e9f6f98%2Fbci-phill-training-1sep2023-7740.jpg"
+        },
         {
             "title": "This company wants to be the first to mine the ocean floor, with Trump's help",
             "link": "https://www.npr.org/2025/06/30/nx-s1-5450336/trump-nickel-cobalt-pacific-ocean-deep-sea-mining-environmental-concerns",
             "description": "The Metals Company is applying for permission from the Trump administration to mine for nickel and cobalt beneath a remote patch of the Pacific Ocean....",
             "pubDate": "2025-06-30T11:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5872x3915+0+0/resize/5872x3915!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F84%2Fd2%2F90a934b1493a90eddbc7134226f9%2Fgettyimages-2218138279.jpg"
+        },
+        {
+            "title": "Decades later, Karen de Boer still remembers a kind gesture from her college hallmate",
+            "link": "https://www.npr.org/2025/06/30/nx-s1-5445369/unsung-hero-college-life-kindness",
+            "description": "As a college freshman, Karen de Boer was sometimes inconsiderate to her hallmate, Pam. So when Karen missed the bus to her choir performance, she was ...",
+            "pubDate": "2025-06-30T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1669x1252+73+393/resize/1669x1252!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F7f%2F6bf3a2584d3197397aade2feda88%2F1.jpg"
+        },
+        {
+            "title": "Trump DHS links data for new citizenship tracking tool. And, Senate discusses tax bill",
+            "link": "https://www.npr.org/2025/06/30/g-s1-75252/up-first-newsletter-congress-bill-medicaid-north-idaho-firefighter-shooting-citizenship-database",
+            "description": "The Trump administration is developing a searchable national citizenship data system, worrying some officials. And, the Senate focuses on the sweeping...",
+            "pubDate": "2025-06-30T12:30:39",
+            "image_url": "https://feeds.npr.org/1001/undefined"
         },
         {
             "title": "In effort to protect children, France bans smoking at parks and beaches",
@@ -19,116 +40,95 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4724x3150+0+0/resize/4724x3150!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Fee%2F499ad34043488a75dc0dd4b4c648%2Fgettyimages-2217102869.jpg"
         },
         {
-            "title": "DOJ announces plans to prioritize cases to revoke citizenship",
-            "link": "https://www.npr.org/2025/06/30/nx-s1-5445398/denaturalization-trump-immigration-enforcement",
-            "description": "Denaturalization is a tactic heavily used during the McCarthy era and one that was expanded during the Obama administration and grew further during Pr...",
-            "pubDate": "2025-06-30T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2Fb8%2F6db070374d73aed1b097fed50992%2Fgettyimages-2213176750.jpg"
+            "title": "Gunman started fire, then fatally shot 2 firefighters in ambush attack, Idaho officials say",
+            "link": "https://apnews.com/article/coeur-dalene-idaho-shooting-firefighters-024d26274e0faacec1687f6dde789ced",
+            "description": "Authorities say a man armed with a rifle started a wildfire and then began shooting at first responders in a northern Idaho mountain community, killin...",
+            "pubDate": "2025-06-30T10:36:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "80 years later, a Holocaust survivor meets an American soldier who helped free him",
-            "link": "https://www.npr.org/2025/06/30/nx-s1-5423692/world-war-ii-reunion-holocaust-liberation-buchenwald-nazis",
-            "description": "Andrew Roth survived the Nazi concentration camp Buchenwald. Jack Moran helped liberate the camp while serving in the U.S. Army. Decades after liberat...",
-            "pubDate": "2025-06-30T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Fb2%2F865e95ce4dba85a6710725b33cd2%2F2025-06-usc-holocaustsurvivors-19.jpg"
+            "title": "Cursor launches a web app to manage AI coding agents",
+            "link": "https://techcrunch.com/2025/06/30/cursor-launches-a-web-app-to-manage-ai-coding-agents/",
+            "description": "The company behind Cursor, the viral AI coding editor, launched a web app on Monday that allows users to manage a network of coding agents directly fr...",
+            "pubDate": "2025-06-30T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Click, speak, move: These brain implants are poised to help people with disabilities",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/06/30/nx-s1-5339708/brain-computer-interface-implants-disabilities-neuralink",
-            "description": "People who can no longer move or speak may soon have a new option: an implanted device that links their brain to a computer.",
-            "pubDate": "2025-06-30T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5445x3630+0+0/resize/5445x3630!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F68%2F0d32cff144cf95fe69175e9f6f98%2Fbci-phill-training-1sep2023-7740.jpg"
+            "title": "Is Florida a Warning Sign for the US Housing Market?",
+            "link": "https://www.biggerpockets.com/blog/on-the-market-334",
+            "description": "Could Florida’s housing market downturn be the first sign of a nationwide correction — or is it a regional anomaly? In this episode of On the Market, ...",
+            "pubDate": "2025-06-30T12:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage",
+            "link": "https://techcrunch.com/2025/06/30/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/",
+            "description": "Raising in 2025 doesn’t look anything like it did in 2021 — and that’s exactly the point. At TechCrunch All Stage on July 15 at Boston’s SoWa Power St...",
+            "pubDate": "2025-06-30T15:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A",
+            "link": "https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/",
+            "description": "Campfire was launched in 2023 to upend 1990s-era enterprise resource planning accounting software (ERP) like Netsuite with an LLM-powered alternative.",
+            "pubDate": "2025-06-30T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "$12,000/Month Cash Flow by Cracking the Rental “Formula”",
+            "link": "https://www.biggerpockets.com/blog/real-estate-1141",
+            "description": "This investor is producing $12,000 per month in cash flow and is well on his way to early retirement before the age of fifty, and he did it all after ...",
+            "pubDate": "2025-06-30T12:00:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "A violent ambush in Idaho leaves 2 firefighters dead and 1 injured. What to know about the attack",
             "link": "https://apnews.com/article/idaho-shooting-coeur-dalene-firefighters-mountain-d3ceec2c795aaa13d0ede2993f1681ab",
             "description": "",
             "pubDate": "2025-06-30T03:03:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Spotify revamps its Discover Weekly playlist after ten years",
-            "link": "https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/",
-            "description": "Spotify is making Discover Weekly more customizable by genre.",
-            "pubDate": "2025-06-30T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Why AI will eat McKinsey’s lunch —  but not today",
-            "link": "https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/",
-            "description": "Navin Chaddha, managing director of the 55-year-old Silicon Valley venture firm Mayfield, is betting big on AI’s ability to transform people-heavy ind...",
-            "pubDate": "2025-06-30T05:10:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Gunman started Idaho blaze and then fatally shot 2 firefighters in ambush attack, officials say",
-            "link": "https://apnews.com/article/coeur-dalene-idaho-shooting-57e4143642c5a0e98d134051a7147a89",
-            "description": "Authorities say a man armed with a rifle started a wildfire and then began shooting at first responders in a northern Idaho mountain community, killin...",
-            "pubDate": "2025-06-29T20:11:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "With ‘F1’, Apple finally has a theatrical hit",
-            "link": "https://techcrunch.com/2025/06/29/with-f1-apple-finally-has-a-theatrical-hit/",
-            "description": "Looks like Apple has its first bona fide box office hit.",
-            "pubDate": "2025-06-29T17:35:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Trump says he’s found a buyer for TikTok",
-            "link": "https://techcrunch.com/2025/06/29/trump-says-hes-found-a-buyer-for-tiktok/",
-            "description": "A group of “very wealthy people” is set to buy short-form video app TikTok, according to President Donald Trump.",
-            "pubDate": "2025-06-29T17:53:48",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Star witness against Kilmar Abrego Garcia won’t be deported, court records show",
-            "link": "https://apnews.com/article/jose-ramon-hernandez-reyes-kilmar-abrego-garcia-immigration-trump-7e54840d58c071ddd5fe3e507bdc6ca7",
+            "title": "Building Long-Term Wealth With Just 3 Properties (Less = More!)",
+            "link": "https://www.biggerpockets.com/blog/rookie-581",
+            "description": "Think you need a dozen rental properties to create generational wealth or retire with real estate? Today’s guest is proof that less is often more, esp...",
+            "pubDate": "2025-06-30T12:00:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Not just luck — it’s strategy: Tiffany Luck on winning over VCs at TechCrunch All Stage",
+            "link": "https://techcrunch.com/2025/06/30/not-just-luck-its-strategy-tiffany-luck-on-winning-over-vcs-at-techcrunch-all-stage/",
+            "description": "Join Tiffany Luck, partner from NEA, at TechCrunch All Stage as she unveils the art of pitching to venture capitalists. Luck will share insider tips o...",
+            "pubDate": "2025-06-30T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Jennifer Neundorfer on how AI is reshaping the way startups are built — live at TechCrunch All Stage",
+            "link": "https://techcrunch.com/2025/06/30/jennifer-neundorfer-on-how-ai-is-reshaping-the-way-startups-are-built-live-at-techcrunch-all-stage/",
+            "description": "AI marks the most significant revolution in startup development since the advent of cloud computing. This isn’t just an incremental change; AI is fund...",
+            "pubDate": "2025-06-30T15:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "National pride is declining in America. And it’s splitting by party lines, new Gallup polling shows",
+            "link": "https://apnews.com/article/patriotism-america-national-pride-decline-poll-gallup-0411dd2f28329a6b640d404db8626d3f",
             "description": "",
-            "pubDate": "2025-06-29T16:38:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires",
-            "link": "https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/",
-            "description": "With Meta successfully poaching a number of its senior researchers, an OpenAI executive reportedly reassured team members Saturday that company leader...",
-            "pubDate": "2025-06-29T21:16:40",
+            "pubDate": "2025-06-30T08:29:54",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Late Start to Real Estate? Investing in Your 50s/60s (Rookie Reply)",
-            "link": "https://www.biggerpockets.com/blog/rookie-580",
-            "description": "Welcome to another Rookie Reply, where Ashley and Tony answer questions from the BiggerPockets Forums and Real Estate Rookie Facebook group. This time...",
-            "pubDate": "2025-06-27T12:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Is Florida a Gigantic Warning Sign For the Rest of the Country?",
-            "link": "https://www.biggerpockets.com/blog/is-floridas-housing-market-a-warning-sign-for-the-rest-of-the-country",
-            "description": "Florida is seeing broad home price declines across many of its metros, with no clear end in sight. Some cities are posting double-digit losses. Condos...",
-            "pubDate": "2025-06-27T19:33:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "The Real Estate Rookie Implementation Guide: How to Restart Your Portfolio with Small Multifamily Properties",
-            "link": "https://www.biggerpockets.com/blog/the-real-estate-rookie-implementation-guide-how-to-restart-your-portfolio-with-small-multifamily-properties",
-            "description": "This implementation guide is based on episode 555 of the Real Estate Rookie Podcast, where Ashley shared exactly how she would start building a real e...",
-            "pubDate": "2025-06-27T19:53:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "High Season, High Stakes: Navigating Summer Risks in Property Management",
             "link": "https://www.biggerpockets.com/blog/high-season-high-stakes-navigating-summer-risks-in-property-management",
             "description": "Summer might mean beach trips, barbecues, and sunshine for most people, but for real estate investors, the warmer months also bring their own set of c...",
             "pubDate": "2025-06-27T20:10:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Investor Who Timed Market (3 Times!) Says Now May Be Bottom",
-            "link": "https://www.biggerpockets.com/blog/real-estate-1140",
-            "description": "The housing market is already predicted to see price cuts by the end of the year, but is now the time to buy, or should you wait for further price […]",
-            "pubDate": "2025-06-27T12:00:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "The Real Estate Rookie Implementation Guide: How to Restart Your Portfolio with Small Multifamily Properties",
+            "link": "https://www.biggerpockets.com/blog/the-real-estate-rookie-implementation-guide-how-to-restart-your-portfolio-with-small-multifamily-properties",
+            "description": "This implementation guide is based on episode 555 of the Real Estate Rookie Podcast, where Ashley shared exactly how she would start building a real e...",
+            "pubDate": "2025-06-27T19:53:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
