@@ -2,28 +2,14 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-06-30T11:07:38.232428",
+    "lastBuildDate": "2025-06-30T14:52:17.077107",
     "items": [
         {
-            "title": "The best support for a friend with cancer? Presence, listening and space to vent",
-            "link": "https://www.npr.org/2025/06/30/nx-s1-5430792/cancer-support-survivor-community-friends",
-            "description": "People who get cancer say their friends often disappear when they hear the bad news. Don't be that person! Here's advice for what to do and say — and ...",
-            "pubDate": "2025-06-30T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F35%2Ff4f6314948f09967f5297dc8ebe2%2Fnpr-6-27-cancerillo.jpg"
-        },
-        {
-            "title": "2 Minute Medicine Rewind June 30, 2025",
-            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-june-30-2025/",
-            "description": "Right C7 neurotomy at the intervertebral foramen plus intensive speech and language therapy versus intensive speech and language therapy alone for chr...",
-            "pubDate": "2025-06-30T11:00:08",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/04/Lacunar_stroke_MRI-300x150.jpg"
-        },
-        {
-            "title": "Click, speak, move: These brain implants are poised to help people with disabilities",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/06/30/nx-s1-5339708/brain-computer-interface-implants-disabilities-neuralink",
-            "description": "People who can no longer move or speak may soon have a new option: an implanted device that links their brain to a computer.",
-            "pubDate": "2025-06-30T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5445x3630+0+0/resize/5445x3630!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F68%2F0d32cff144cf95fe69175e9f6f98%2Fbci-phill-training-1sep2023-7740.jpg"
+            "title": "How Brazilians have safe abortions (regardless of the law)",
+            "link": "https://www.npr.org/2025/06/30/1263527167/its-been-a-minute-embedded-the-network",
+            "description": "In our 'Your Body, Whose Choice' series, we've focused a lot on the present and the future of reproductive health in this country. And now we'd like t...",
+            "pubDate": "2025-06-30T08:00:59",
+            "image_url": "https://media.npr.org/assets/img/2025/06/27/embd_the-network_web-story-art_wide-4410a4f5531c62b5e08f214a3e93bfeb86a15efc.jpg"
         },
         {
             "title": "In effort to protect children, France bans smoking at parks and beaches",
@@ -33,38 +19,108 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4724x3150+0+0/resize/4724x3150!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Fee%2F499ad34043488a75dc0dd4b4c648%2Fgettyimages-2217102869.jpg"
         },
         {
-            "title": "How Brazilians have safe abortions (regardless of the law)",
-            "link": "https://www.npr.org/2025/06/30/1263527167/its-been-a-minute-embedded-the-network",
-            "description": "In our 'Your Body, Whose Choice' series, we've focused a lot on the present and the future of reproductive health in this country. And now we'd like t...",
-            "pubDate": "2025-06-30T08:00:59",
-            "image_url": "https://media.npr.org/assets/img/2025/06/27/embd_the-network_web-story-art_wide-4410a4f5531c62b5e08f214a3e93bfeb86a15efc.jpg"
+            "title": "Structured Exercise after Adjuvant Chemotherapy for Colon Cancer",
+            "link": "https://www.2minutemedicine.com/structured-exercise-after-adjuvant-chemotherapy-for-colon-cancer/",
+            "description": "1. The 5-year disease-free survival was 80.3% in the exercise group and 73.9% in the education group, with an overall HR 0.72 (significant). 2. Muscul...",
+            "pubDate": "2025-06-30T16:30:09",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/01/exercisepreg_edited-300x150.jpg"
+        },
+        {
+            "title": "2 Minute Medicine Rewind June 30, 2025",
+            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-june-30-2025/",
+            "description": "Right C7 neurotomy at the intervertebral foramen plus intensive speech and language therapy versus intensive speech and language therapy alone for chr...",
+            "pubDate": "2025-06-30T11:00:08",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/04/Lacunar_stroke_MRI-300x150.jpg"
+        },
+        {
+            "title": "The best support for a friend with cancer? Presence, listening and space to vent",
+            "link": "https://www.npr.org/2025/06/30/nx-s1-5430792/cancer-support-survivor-community-friends",
+            "description": "People who get cancer say their friends often disappear when they hear the bad news. Don't be that person! Here's advice for what to do and say — and ...",
+            "pubDate": "2025-06-30T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F35%2Ff4f6314948f09967f5297dc8ebe2%2Fnpr-6-27-cancerillo.jpg"
+        },
+        {
+            "title": "Click, speak, move: These brain implants are poised to help people with disabilities",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/06/30/nx-s1-5339708/brain-computer-interface-implants-disabilities-neuralink",
+            "description": "People who can no longer move or speak may soon have a new option: an implanted device that links their brain to a computer.",
+            "pubDate": "2025-06-30T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5445x3630+0+0/resize/5445x3630!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F68%2F0d32cff144cf95fe69175e9f6f98%2Fbci-phill-training-1sep2023-7740.jpg"
         },
         {
             "title": "RFK Jr.'s new vaccine advisors signal big changes to come",
             "link": "https://www.npr.org/2025/06/30/1255015991/vaccines-kids-health-access-rfk-acip-cdc",
             "description": "The Advisory Committee on Immunization Policy, an influential CDC committee that shapes U.S. vaccine policy, has become a flashpoint in recent weeks. ...",
             "pubDate": "2025-06-30T08:00:59",
-            "image_url": "https://media.npr.org/assets/img/2025/06/27/6.30.25-ep_wide-5e7f076bdea1ed15ab464710db8ff1579aea7f37.jpg"
+            "image_url": "https://media.npr.org/assets/img/2025/06/27/6.30.25-ep_sq-82dc1f0d228f5dab6efe356ceac5640a8bddf0c3.jpg"
         },
         {
-            "title": "A world-first clinical trial is studying exactly what works for IBS (and how)",
-            "link": "https://medicalxpress.com/news/2025-06-world-clinical-trial-ibs.html",
-            "description": "Irritable Bowel Syndrome (commonly known as IBS) affects about 1 in 5 Australians. It's a chronic and often debilitating condition, with symptoms incl...",
-            "pubDate": "2025-06-30T15:40:02",
+            "title": "Revascularizing Vessels After STEMI Sees Durable Gains",
+            "link": "https://www.medscape.com/viewarticle/benefits-last-10-years-revascularization-non-culprit-vessels-2025a1000heo?src=rss",
+            "description": "Revascularization of all vessels with stenosis was linked to lower rates of death, another MI, and further revascularization in a 10-year follow-up st...",
+            "pubDate": "2025-06-30T13:28:37",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Novel Drug Lowers Stubbornly High BP in Phase 3 Trial",
-            "link": "https://www.medscape.com/viewarticle/novel-drug-lowers-stubbornly-high-bp-phase-3-trial-2025a1000hei?src=rss",
-            "description": "Lorundrostat, an aldosterone synthase inhibitor, effectively treated uncontrolled hypertension in Launch-HTN, researchers reported in JAMA. Medscape M...",
-            "pubDate": "2025-06-30T16:05:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Seasonal allergies caused by fungal spores now start three weeks earlier under climate change",
+            "link": "https://medicalxpress.com/news/2025-06-seasonal-allergies-fungal-spores-weeks.html",
+            "description": "Although many of us spend allergy season cursing out plant pollen, spores from mold and other fungi also deserve some of that same disdain. These invi...",
+            "pubDate": "2025-06-30T19:30:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "PW Trivia",
-            "link": "https://www.physiciansweekly.com/pw-trivia-question-of-the-month/",
-            "description": "PW trivia is focused on medical facts, history, and more. Test your medical knowledge today! The post PW Trivia first appeared on Physician's Weekly .",
-            "pubDate": "2025-06-30T05:00:37",
+            "title": "Researcher publishes three studies advancing treatment for rare and aggressive lymphoma",
+            "link": "https://medicalxpress.com/news/2025-06-publishes-advancing-treatment-rare-aggressive.html",
+            "description": "Three major Mount Sinai research studies offer new hope for patients facing chronic lymphocytic leukemia (CLL), a rare type of blood cancer. The studi...",
+            "pubDate": "2025-06-30T19:50:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Would The Pitts’ Dr. Robby Robinavitch welcome a new colleague? Yes. Especially if their initials were AI.",
+            "link": "https://kevinmd.com/2025/06/would-the-pitts-dr-robby-robinavitch-welcome-a-new-colleague-yes-especially-if-their-initials-were-ai.html",
+            "description": "When 2025 America tuned into HBO’s award-winning series The Pitt, we showed we’re seeking authenticity. As someone who works at the intersection of he...",
+            "pubDate": "2025-06-30T16:00:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Study shows racial bias in AI-generated treatment regimens for psychiatric patients",
+            "link": "https://medicalxpress.com/news/2025-06-racial-bias-ai-generated-treatment.html",
+            "description": "A new study led by Cedars-Sinai found a pattern of racial bias in treatment recommendations generated by leading artificial intelligence (AI) platform...",
+            "pubDate": "2025-06-30T19:49:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "New AI System to Flag NHS Safety Risks Early",
+            "link": "https://www.medscape.com/viewarticle/new-ai-system-flag-nhs-safety-risks-early-2025a1000hes?src=rss",
+            "description": "The UK will deploy AI technology to scan NHS data in real time, aiming to detect safety issues faster and prevent patient harm. Medscape News UK",
+            "pubDate": "2025-06-30T14:31:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "FDA Drops REMS Programs for Some CAR-Ts",
+            "link": "https://www.medscape.com/viewarticle/fda-drops-rems-programs-some-car-ts-2025a1000hfn?src=rss",
+            "description": "Using CAR T-cell therapies for blood cancer should be less burdensome following labeling updates. Medscape Medical News",
+            "pubDate": "2025-06-30T17:21:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "AI-assisted technique offers effective and painless breast imaging alternative",
+            "link": "https://medicalxpress.com/news/2025-06-ai-technique-effective-painless-breast.html",
+            "description": "A Caltech-led team has developed a safe, effective, and painless breast imaging technique that incorporates machine learning to help differentiate bet...",
+            "pubDate": "2025-06-30T19:38:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Why medicine must stop worshipping burnout and start valuing humanity",
+            "link": "https://kevinmd.com/2025/06/why-medicine-must-stop-worshipping-burnout-and-start-valuing-humanity.html",
+            "description": "Medicine loves a martyr. From the first white coat ceremony to the last day of residency, we are told a story: That good doctors are tireless, self-sa...",
+            "pubDate": "2025-06-30T14:00:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Cardiometabolic Index and Incontinence in Women",
+            "link": "https://www.physiciansweekly.com/cardiometabolic-index-and-incontinence-in-women/",
+            "description": "Higher cardiometabolic index levels were strongly linked to all types of urinary incontinence in women. The post Cardiometabolic Index and Incontinenc...",
+            "pubDate": "2025-06-30T00:00:32",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
@@ -72,97 +128,41 @@
             "link": "https://kevinmd.com/2025/06/how-organizational-culture-drives-top-talent-away-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Surgeon Suhaib J. S. Ahmad discusses his article, “Why even the best ...",
             "pubDate": "2025-06-30T00:00:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Discovery of key brain repair mechanism in vascular dementia reveals promising therapeutic target",
-            "link": "https://medicalxpress.com/news/2025-06-discovery-key-brain-mechanism-vascular.html",
-            "description": "A new study from UCLA Health has uncovered how inflammation in brain blood vessels exacerbates damage in vascular dementia and demonstrated that targe...",
-            "pubDate": "2025-06-30T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "UK economy losing billions to cancer",
-            "link": "https://medicalxpress.com/news/2025-06-uk-economy-billions-cancer.html",
-            "description": "Cancer is costly for patients and the NHS—but it also has a significant impact on the U.K. economy, according to research led by the University of Lee...",
-            "pubDate": "2025-06-30T15:25:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "New AI System to Flag NHS Safety Risks Early",
-            "link": "https://www.medscape.com/viewarticle/new-ai-system-flag-nhs-safety-risks-early-2025a1000hes?src=rss",
-            "description": "The UK will deploy AI technology to scan NHS data in real time, aiming to detect safety issues faster and prevent patient harm. Medscape News UK",
-            "pubDate": "2025-06-30T14:31:53",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Low Vision, High Stakes: Kids Slipping Through the Cracks",
-            "link": "https://www.medscape.com/viewarticle/low-vision-high-stakes-kids-slipping-through-cracks-2025a1000hef?src=rss",
-            "description": "Studies linking depression, cognitive difficulties, and behavioral challenges to vision impairment in children underscore the importance of vision scr...",
-            "pubDate": "2025-06-30T13:05:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Novel Drug Lowers Stubbornly High BP in Phase 3 Trial",
+            "link": "https://www.medscape.com/viewarticle/novel-drug-lowers-stubbornly-high-bp-phase-3-trial-2025a1000hei?src=rss",
+            "description": "Lorundrostat, an aldosterone synthase inhibitor, effectively treated uncontrolled hypertension in Launch-HTN, researchers reported in JAMA. Medscape M...",
+            "pubDate": "2025-06-30T16:05:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Why medicine must stop worshipping burnout and start valuing humanity",
-            "link": "https://kevinmd.com/2025/06/why-medicine-must-stop-worshipping-burnout-and-start-valuing-humanity.html",
-            "description": "Medicine loves a martyr. From the first white coat ceremony to the last day of residency, we are told a story: That good doctors are tireless, self-sa...",
-            "pubDate": "2025-06-30T14:00:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "AI model spots gastric cancer on routine CT scans with high accuracy, outperforming radiologists",
-            "link": "https://medicalxpress.com/news/2025-06-ai-gastric-cancer-routine-ct.html",
-            "description": "A collaboration of leading Chinese research institutions has developed an artificial intelligence-based method called GRAPE, demonstrating high accura...",
-            "pubDate": "2025-06-30T15:33:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "COVID-19 pandemic linked to surge in digestive disorders, new study finds",
-            "link": "https://medicalxpress.com/news/2025-06-covid-pandemic-linked-surge-digestive.html",
-            "description": "A study led by Cedars-Sinai investigators has uncovered a significant uptick in chronic digestive disorders, like irritable bowel syndrome, during the...",
-            "pubDate": "2025-06-30T15:38:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Revascularizing Vessels After STEMI Sees Durable Gains",
-            "link": "https://www.medscape.com/viewarticle/benefits-last-10-years-revascularization-non-culprit-vessels-2025a1000heo?src=rss",
-            "description": "Revascularization of all vessels with stenosis was linked to lower rates of death, another MI, and further revascularization in a 10-year follow-up st...",
-            "pubDate": "2025-06-30T13:28:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "FDA Approves First Treatment for MAS in Still Disease",
+            "link": "https://www.medscape.com/viewarticle/fda-approves-first-treatment-macrophage-activation-syndrome-2025a1000hfv?src=rss",
+            "description": "Emapalumab is approved for both adults and pediatric (newborn and older) patients with MAS in Still disease with an inadequate response or intolerance...",
+            "pubDate": "2025-06-30T18:42:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Why screening for diseases you might have can backfire",
             "link": "https://kevinmd.com/2025/06/why-screening-for-diseases-you-might-have-can-backfire.html",
             "description": "An excerpt from A Return to Healing. Patients often ask me to do whatever tests are necessary to make sure they don’t have cancer or any other really ...",
             "pubDate": "2025-06-30T12:00:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Cooking Fumes Raise Lung Cancer Risk in Never Smokers",
-            "link": "https://www.medscape.com/viewarticle/exposure-cooking-fumes-linked-increased-risk-lung-cancer-2025a1000h56?src=rss",
-            "description": "Never-smoking women exposed to cooking oil fumes in Taiwan and Hong Kong have a higher risk of developing lung cancer, according to a systematic revie...",
-            "pubDate": "2025-06-30T13:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Cardiometabolic Index and Incontinence in Women",
-            "link": "https://www.physiciansweekly.com/cardiometabolic-index-and-incontinence-in-women/",
-            "description": "Higher cardiometabolic index levels were strongly linked to all types of urinary incontinence in women. The post Cardiometabolic Index and Incontinenc...",
-            "pubDate": "2025-06-30T00:00:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "PW Trivia",
+            "link": "https://www.physiciansweekly.com/pw-trivia-question-of-the-month/",
+            "description": "PW trivia is focused on medical facts, history, and more. Test your medical knowledge today! The post PW Trivia first appeared on Physician's Weekly .",
+            "pubDate": "2025-06-30T05:00:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Racial Differences Affect Breast Surgery Timing",
-            "link": "https://www.physiciansweekly.com/racial-differences-affect-breast-surgery-timing/",
-            "description": "Women from racial minority groups experienced delayed breast cancer surgery regardless of distance traveled, revealing persistent care disparities. Th...",
-            "pubDate": "2025-06-29T23:00:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Why perinatal mental health is the top cause of maternal death in the U.S.",
-            "link": "https://kevinmd.com/2025/06/why-perinatal-mental-health-is-the-top-cause-of-maternal-death-in-the-u-s.html",
-            "description": "“I look at my baby and I don’t feel a thing,” the patient whispers as she cradles her 3-week-old baby. “I feel so much guilt … sometimes I don’t want ...",
-            "pubDate": "2025-06-29T20:00:35",
+            "title": "Dopamine menus: Approach uses brain chemistry to improve task performance",
+            "link": "https://medicalxpress.com/news/2025-06-dopamine-menus-approach-brain-chemistry.html",
+            "description": "You are likely accustomed to encountering a range of menus in daily life, but there is one that may be new to you: a dopamine menu. Dr. Robert Wilfahr...",
+            "pubDate": "2025-06-30T19:40:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
@@ -170,7 +170,21 @@
             "link": "https://www.physiciansweekly.com/seeding-kinetics-of-%ce%b1-synuclein-linked-to-pd-prognosis/",
             "description": "Faster α-synuclein seeding in cerebrospinal fluid signaled a higher risk of cognitive decline in Parkinson’s disease. The post Seeding Kinetics of α-S...",
             "pubDate": "2025-06-29T23:30:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Racial Differences Affect Breast Surgery Timing",
+            "link": "https://www.physiciansweekly.com/racial-differences-affect-breast-surgery-timing/",
+            "description": "Women from racial minority groups experienced delayed breast cancer surgery regardless of distance traveled, revealing persistent care disparities. Th...",
+            "pubDate": "2025-06-29T23:00:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Why perinatal mental health is the top cause of maternal death in the U.S.",
+            "link": "https://kevinmd.com/2025/06/why-perinatal-mental-health-is-the-top-cause-of-maternal-death-in-the-u-s.html",
+            "description": "“I look at my baby and I don’t feel a thing,” the patient whispers as she cradles her 3-week-old baby. “I feel so much guilt … sometimes I don’t want ...",
+            "pubDate": "2025-06-29T20:00:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Complement Levels Vary in irAE-n and Controls",
@@ -180,25 +194,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Why medical student debt is killing primary care in America",
-            "link": "https://kevinmd.com/2025/06/why-medical-student-debt-is-killing-primary-care-in-america.html",
-            "description": "For as long as I can remember, I’ve wanted to be a physician. My journey to medicine is not unique. My motivations ring familiar to all health care wo...",
-            "pubDate": "2025-06-29T16:00:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
             "title": "Weighted vests and resistance training confer similar outcomes for bone density in the elderly",
             "link": "https://www.2minutemedicine.com/weighted-vests-and-resistance-training-confer-similar-outcomes-for-bone-density-in-the-elderly/",
             "description": "1. In this 12-month randomized clinical trial, weight loss (WL)-associated bone loss occurred in older adults with obesity, regardless of whether they...",
             "pubDate": "2025-06-28T00:00:48",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/frailty-walker-elderly-300x150.jpeg"
-        },
-        {
-            "title": "Evaluating scar outcomes in pediatric burn patients following skin grafting",
-            "link": "https://www.2minutemedicine.com/evaluating-scar-outcomes-in-pediatric-burn-patients-following-skin-grafting/",
-            "description": "1. In this cohort of pediatric burn patients, poorer long-term scar outcomes, as indicated by Patient and Observer Scar Assessment Scale (POSAS) score...",
-            "pubDate": "2025-06-27T00:00:23",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/surgery-PD-300x150.jpg"
         },
         {
             "title": "Breast cancer survivors may have a lower risk of Alzheimer’s dementia",
@@ -208,11 +208,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/brain-neuro-dementia-PD-300x150.jpg"
         },
         {
-            "title": "Novel inhibitory antibody, MAR001, lowers triglycerides and remnant cholesterol in humans",
-            "link": "https://www.2minutemedicine.com/novel-inhibitory-antibody-mar001-lowers-triglycerides-and-remnant-cholesterol-in-humans/",
-            "description": "1. ANGPTL4 inhibition decreased triglyceride and remnant cholesterol levels by over 50%. 2. MAR001 was well-tolerated with no significant treatment-re...",
-            "pubDate": "2025-06-26T22:55:55",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/11/Heart_coronary_artery_lesion-300x150.jpg"
+            "title": "Evaluating scar outcomes in pediatric burn patients following skin grafting",
+            "link": "https://www.2minutemedicine.com/evaluating-scar-outcomes-in-pediatric-burn-patients-following-skin-grafting/",
+            "description": "1. In this cohort of pediatric burn patients, poorer long-term scar outcomes, as indicated by Patient and Observer Scar Assessment Scale (POSAS) score...",
+            "pubDate": "2025-06-27T00:00:23",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/surgery-PD-300x150.jpg"
         }
     ]
 }
