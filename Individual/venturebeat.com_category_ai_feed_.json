@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-07T06:26:44.112663",
+    "lastBuildDate": "2025-07-07T10:54:57.911726",
     "items": [
+        {
+            "title": "How Capital One built production multi-agent AI workflows to power enterprise use cases",
+            "link": "https://venturebeat.com/ai/how-capital-one-built-production-multi-agent-ai-workflows-to-power-enterprise-use-cases/",
+            "description": "With over 100 million customers, Capital One's agentic system is built for scale and complexity.",
+            "pubDate": "2025-07-07T15:50:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0364-X3_16d617.jpg?w=578"
+        },
+        {
+            "title": "Cracking AI’s storage bottleneck and supercharging inference at the edge",
+            "link": "https://venturebeat.com/ai/cracking-ais-storage-bottleneck-and-supercharging-inference-at-the-edge/",
+            "description": "As AI applications permeate enterprise operations, a critical bottleneck often emerges: data storage.",
+            "pubDate": "2025-07-07T13:50:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0204-X2.jpg?w=578"
+        },
         {
             "title": "Forget the hype — real AI agents solve bounded problems, not open-world fantasies",
             "link": "https://venturebeat.com/ai/forget-the-hype-real-ai-agents-solve-bounded-problems-not-open-world-fantasies/",
@@ -24,20 +38,6 @@
             "description": "Dust AI startup hits $6M revenue building enterprise agents that automate workflows and take real actions across business systems using Anthropic's Cl...",
             "pubDate": "2025-07-03T18:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_a_retro_computer_screen_glowing_compute_0ba79846-6ee0-4d39-bd64-c2917ebd5c9d.webp?w=578"
-        },
-        {
-            "title": "HOLY SMOKES! A new, 200% faster DeepSeek R1-0528 variant appears from German lab TNG Technology Consulting GmbH",
-            "link": "https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/",
-            "description": "This gain is made possible by TNG’s Assembly-of-Experts (AoE) method — a technique for building LLMs by selectively merging the weight tensors",
-            "pubDate": "2025-07-03T14:32:44",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_golden_age_sci-fi_comic_splash_page_minimalist_retro__9424f51d-4e5a-413e-a4af-911889cbe2c2_2.png?w=578"
-        },
-        {
-            "title": "Confidence in agentic AI: Why eval infrastructure must come first",
-            "link": "https://venturebeat.com/ai/confidence-in-agentic-ai-why-eval-infrastructure-must-come-first/",
-            "description": "At VentureBeat’s Transform 2025, tech leaders gathered to talk about how they're transforming their business with agents.",
-            "pubDate": "2025-07-02T16:41:49",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0666-X3.jpg?w=578"
         }
     ]
 }
