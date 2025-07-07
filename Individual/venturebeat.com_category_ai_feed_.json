@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-06T02:01:07.391055",
+    "lastBuildDate": "2025-07-07T06:26:44.112663",
     "items": [
+        {
+            "title": "Forget the hype — real AI agents solve bounded problems, not open-world fantasies",
+            "link": "https://venturebeat.com/ai/forget-the-hype-real-ai-agents-solve-bounded-problems-not-open-world-fantasies/",
+            "description": "Event-driven multi-agent systems are a practical architecture for working with imperfect tools in a structured way.",
+            "pubDate": "2025-07-06T21:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/DDM-engineer.webp?w=578"
+        },
         {
             "title": "Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%",
             "link": "https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/",
@@ -31,13 +38,6 @@
             "description": "At VentureBeat’s Transform 2025, tech leaders gathered to talk about how they're transforming their business with agents.",
             "pubDate": "2025-07-02T16:41:49",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0666-X3.jpg?w=578"
-        },
-        {
-            "title": "Transform 2025: Why observability is critical for AI agent ecosystems",
-            "link": "https://venturebeat.com/ai/transform-2025-why-observability-is-critical-for-ai-agent-ecosystems/",
-            "description": "New Relic's Ashan Willy talked about how they're instrumenting agentic systems for measurable ROI to maximize agentic AI.",
-            "pubDate": "2025-07-02T14:50:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0220-X3.jpg?w=578"
         }
     ]
 }
