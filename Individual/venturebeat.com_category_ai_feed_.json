@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-07T13:59:59.342418",
+    "lastBuildDate": "2025-07-08T11:21:23.677545",
     "items": [
+        {
+            "title": "New 1.5B router model achieves 93% accuracy without costly retraining",
+            "link": "https://venturebeat.com/ai/new-1-5b-router-model-achieves-93-accuracy-without-costly-retraining/",
+            "description": "Katanemo Labs' new LLM routing framework aligns with human preferences and adapts to new models without retraining.",
+            "pubDate": "2025-07-08T00:25:31",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-2-2025-09_19_17-AM.png?w=578"
+        },
+        {
+            "title": "Why CISOs are making the SASE switch: Fewer vendors, smarter security, better AI guardrails",
+            "link": "https://venturebeat.com/security/facing-ai-powered-threats-cisos-consolidate-around-single-vendor-sase/",
+            "description": "AI attacks are exposing gaps in multivendor stacks. CISOs are shifting to single-vendor SASE to consolidate, reduce risk and regain control.",
+            "pubDate": "2025-07-08T00:13:03",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Cato-Cubes-Photos-20250630-ACJ-0008.jpg?w=578"
+        },
+        {
+            "title": "Elon Musk’s ‘truth-seeking’ Grok AI peddles conspiracy theories about Jewish control of media",
+            "link": "https://venturebeat.com/ai/elon-musks-truth-seeking-grok-ai-peddles-conspiracy-theories-about-jewish-control-of-media/",
+            "description": "The chatbot is giving antisemitic responses and bizarre first-person replies, raising concerns about bias and safety ahead of Grok 4 launch.",
+            "pubDate": "2025-07-07T19:52:46",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_glitching_Elon_silhouette_71a5ebb8-d507-4792-90ab-eb9fc39f7524.webp?w=578"
+        },
         {
             "title": "How Capital One built production multi-agent AI workflows to power enterprise use cases",
             "link": "https://venturebeat.com/ai/how-capital-one-built-production-multi-agent-ai-workflows-to-power-enterprise-use-cases/",
@@ -17,27 +38,6 @@
             "description": "As AI applications permeate enterprise operations, a critical bottleneck often emerges: data storage.",
             "pubDate": "2025-07-07T13:50:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0204-X2.jpg?w=578"
-        },
-        {
-            "title": "Forget the hype — real AI agents solve bounded problems, not open-world fantasies",
-            "link": "https://venturebeat.com/ai/forget-the-hype-real-ai-agents-solve-bounded-problems-not-open-world-fantasies/",
-            "description": "Event-driven multi-agent systems are a practical architecture for working with imperfect tools in a structured way.",
-            "pubDate": "2025-07-06T21:15:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/DDM-engineer.webp?w=578"
-        },
-        {
-            "title": "Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%",
-            "link": "https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/",
-            "description": "Sakana AI's new inference-time scaling technique uses Monte-Carlo Tree Search to orchestrate multiple LLMs to collaborate on complex tasks.",
-            "pubDate": "2025-07-03T23:00:19",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-3-2025-09_58_19-PM.png?w=578"
-        },
-        {
-            "title": "Dust hits $6M ARR helping enterprises build AI agents that actually do stuff instead of just talking",
-            "link": "https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/",
-            "description": "Dust AI startup hits $6M revenue building enterprise agents that automate workflows and take real actions across business systems using Anthropic's Cl...",
-            "pubDate": "2025-07-03T18:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_a_retro_computer_screen_glowing_compute_0ba79846-6ee0-4d39-bd64-c2917ebd5c9d.webp?w=578"
         }
     ]
 }
