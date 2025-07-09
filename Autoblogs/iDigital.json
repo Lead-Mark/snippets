@@ -2,70 +2,105 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-08T11:21:23.676296",
+    "lastBuildDate": "2025-07-09T10:30:32.194508",
     "items": [
+        {
+            "title": "Hugging Face just launched a $299 robot that could disrupt the entire robotics industry",
+            "link": "https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/",
+            "description": "Hugging Face launches Reachy Mini, a $299 open-source desktop robot that democratizes AI development for millions of builders worldwide.",
+            "pubDate": "2025-07-09T08:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_robot_hugging_a__Hugging_Face_emoji_d069265d-d6e4-4708-9ae0-c8dd65452725.webp?w=578"
+        },
+        {
+            "title": "MCP isn’t KYC-ready: Why regulated sectors are wary of open agent exchanges",
+            "link": "https://venturebeat.com/ai/mcp-isnt-kyc-ready-why-regulated-sectors-are-wary-of-open-agent-exchanges/",
+            "description": "Model Context Protocol, or MCP, is gaining momentum. But, not everyone is fully onboard yet, as financial institutions sit and wait before adoption.",
+            "pubDate": "2025-07-09T00:33:17",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/crimedy7_Illustration_of_a_robot_in_a_bank_trying_to_show_an_ID_de0ddfcd-6a0a-4131-8aba-914b133e081c.png?w=578"
+        },
+        {
+            "title": "Merck dives into COPD treatments with $10 billion purchase of Verona Pharma",
+            "link": "https://www.marketwatch.com/story/merck-dives-into-copd-treatments-with-10-billion-purchase-of-verona-pharma-cb1da621?mod=mw_rss_topstories",
+            "description": "Verona Pharma’s stock soars toward a record after $10 billion buyout deal with Merck.",
+            "pubDate": "2025-07-09T15:01:00",
+            "image_url": "https://images.mktw.net/im-26893675"
+        },
+        {
+            "title": "Augmentus raises Series A+ funding to reduce robot programming complexity",
+            "link": "https://www.therobotreport.com/augmentus-raises-series-a-funding-to-reduce-robot-programming-complexity/",
+            "description": "Augmentus is offering 3D scanning and AI-driven path planning, expanding its network across Asia-Pacific and North America. The post Augmentus raises ...",
+            "pubDate": "2025-07-09T13:00:30",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/Augmentus_team2.jpg"
+        },
+        {
+            "title": "Cobionix ready to expand with $3M for healthcare robotics",
+            "link": "https://www.therobotreport.com/cobionix-expands-with-3m-strategic-funding/",
+            "description": "Funding to accelerate deployment of the Cobionix CODI clinical AI-powered platform across North American and U.K. healthcare systems. The post Cobioni...",
+            "pubDate": "2025-07-09T14:00:33",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2024/06/MassRobotics_Healthcare_Robotics_Startup_Catalyst.jpg"
+        },
+        {
+            "title": "The Download: a conversation with Karen Hao, and how did life begin?",
+            "link": "https://www.technologyreview.com/2025/07/09/1119923/the-download-a-conversation-with-karen-hao-and-how-did-life-begin/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside OpenA...",
+            "pubDate": "2025-07-09T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpM4iSKDKESfRE8dtWt9FeqQ1ufknplS0GI5omvwo4qZXBgRKP5R9CxuOQ2FVkZKaeX6fdg8CjPNndAeZzB2tva0bZrgO7ss4GKZTHhLvAWHBA9sHuqCT6cfWc7sL6754KrGhk?key=jwt8GONxQlylLoe59hwzNg"
+        },
+        {
+            "title": "More older people than children now need caregiving. Governments and employers need to step up.",
+            "link": "https://www.marketwatch.com/story/more-older-people-than-children-now-need-caregiving-governments-and-employers-need-to-step-up-f4ce0f1b?mod=mw_rss_topstories",
+            "description": "“Caregiving is no longer a personal issue. It’s a national crisis.”",
+            "pubDate": "2025-07-09T15:00:00",
+            "image_url": "https://images.mktw.net/im-64102788"
+        },
+        {
+            "title": "JAXA tests PickNik’s MoveIt Pro software in multi-armed robotic system for the ISS",
+            "link": "https://www.therobotreport.com/jaxa-tests-pickniks-moveit-pro-software-in-multi-armed-robotic-system-for-the-iss/",
+            "description": "PickNik is working with the Japan Aerospace Exploration Agency on multi-limbed robots for the International Space Station. The post JAXA tests PickNik...",
+            "pubDate": "2025-07-09T12:44:49",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/jaxa-picknik-featured.jpg"
+        },
+        {
+            "title": "Microsoft’s stock gets an upgrade. Why these analysts say it’s underappreciated in AI.",
+            "link": "https://www.marketwatch.com/story/microsofts-stock-gets-an-upgrade-why-these-analysts-say-its-underappreciated-in-ai-2533bf48?mod=mw_rss_topstories",
+            "description": "The sustaining growth of the company’s AI revenue and cloud platform Azure are not fully priced into the stock, Oppenheimer analysts said.",
+            "pubDate": "2025-07-09T14:48:00",
+            "image_url": "https://images.mktw.net/im-02811024"
+        },
+        {
+            "title": "This big-name adviser says avoiding crypto is now a more speculative investment move than buying it",
+            "link": "https://www.marketwatch.com/story/why-this-veteran-advisor-says-its-speculative-not-to-have-crypto-in-portfolios-61abf24c?mod=mw_rss_topstories",
+            "description": "Ric Edelman argues that the time to invest in cryptocurrencies is now, while 95% of the world is still asleep.",
+            "pubDate": "2025-07-09T14:46:00",
+            "image_url": "https://images.mktw.net/im-97144172"
+        },
+        {
+            "title": "Scaling agentic AI: Inside Atlassian’s culture of experimentation",
+            "link": "https://venturebeat.com/ai/scaling-agentic-ai-inside-atlassians-culture-of-experimentation/",
+            "description": "Scaling agentic AI isn’t just about having the latest tools -- it requires clear guidance and a culture that champions experimentation.",
+            "pubDate": "2025-07-09T13:50:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0564-X5.jpg?w=578"
+        },
+        {
+            "title": "‘We are blessed’: My husband is inheriting a $1 million home. Should he put it in my name too?",
+            "link": "https://www.marketwatch.com/story/we-are-blessed-my-husband-is-inheriting-a-1-million-home-should-he-put-it-in-my-name-too-68341b1b?mod=mw_rss_topstories",
+            "description": "“We do not live in a community-property state. We have one son who is now a young adult.”",
+            "pubDate": "2025-07-09T14:52:00",
+            "image_url": "https://images.mktw.net/im-04411670"
+        },
+        {
+            "title": "Inside OpenAI’s empire: A conversation with Karen Hao",
+            "link": "https://www.technologyreview.com/2025/07/09/1119784/inside-openais-empire-a-conversation-with-karen-hao/",
+            "description": "In a wide-ranging Roundtables conversation for MIT Technology Review subscribers, AI journalist and author Karen Hao spoke about her new book, Empire ...",
+            "pubDate": "2025-07-09T10:10:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
         {
             "title": "The Download: hunting an asteroid, and unlocking the human mind",
             "link": "https://www.technologyreview.com/2025/07/08/1119840/the-download-hunting-an-asteroid-and-unlocking-the-human-mind/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the m...",
             "pubDate": "2025-07-08T13:10:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/12/U002_gradientA-thumb.jpg"
-        },
-        {
-            "title": "Saildrone completes NATO multi-domain demo in Baltic Sea",
-            "link": "https://www.therobotreport.com/saildrone-completes-nato-multi-domain-demo-in-baltic-sea/",
-            "description": "Four Saildrone Voyagers operated in both the Gulf of Finland and the western Baltic Sea, gathering data in challenging conditions. The post Saildrone ...",
-            "pubDate": "2025-07-08T13:30:53",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/saildrone-NATO-featured.jpg"
-        },
-        {
-            "title": "Why CISOs are making the SASE switch: Fewer vendors, smarter security, better AI guardrails",
-            "link": "https://venturebeat.com/security/facing-ai-powered-threats-cisos-consolidate-around-single-vendor-sase/",
-            "description": "AI attacks are exposing gaps in multivendor stacks. CISOs are shifting to single-vendor SASE to consolidate, reduce risk and regain control.",
-            "pubDate": "2025-07-08T00:13:03",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/06/Cato-Cubes-Photos-20250630-ACJ-0008.jpg?w=578"
-        },
-        {
-            "title": "New 1.5B router model achieves 93% accuracy without costly retraining",
-            "link": "https://venturebeat.com/ai/new-1-5b-router-model-achieves-93-accuracy-without-costly-retraining/",
-            "description": "Katanemo Labs' new LLM routing framework aligns with human preferences and adapts to new models without retraining.",
-            "pubDate": "2025-07-08T00:25:31",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-2-2025-09_19_17-AM.png?w=578"
-        },
-        {
-            "title": "Circle’s stock should be worth less than half what it is now, analyst says",
-            "link": "https://www.marketwatch.com/story/circles-stock-should-be-worth-less-than-half-what-it-is-now-analyst-says-794da220?mod=mw_rss_topstories",
-            "description": "Mizuho’s Dan Dolev is the third analyst to make a bearish call on Circle Internet’s stock, with a price target that is nearly 60% below recent prices.",
-            "pubDate": "2025-07-08T16:03:00",
-            "image_url": "https://images.mktw.net/im-65032123"
-        },
-        {
-            "title": "Here’s why Enphase and other solar stocks are tanking after Trump’s latest move",
-            "link": "https://www.marketwatch.com/story/heres-why-enphase-and-other-solar-stocks-are-tanking-after-trumps-latest-move-fdd2be69?mod=mw_rss_topstories",
-            "description": "The maker of solar-power components saw its stock downgraded after Trump’s executive order enforcing a phaseout of tax credits.",
-            "pubDate": "2025-07-08T16:08:00",
-            "image_url": "https://images.mktw.net/im-770663"
-        },
-        {
-            "title": "Home sellers have gotten tired of cutting prices. So they’re yanking their houses off the market.",
-            "link": "https://www.marketwatch.com/story/sellers-have-gotten-tired-of-cutting-prices-in-these-real-estate-markets-so-theyre-yanking-their-houses-off-the-market-4f9e06ee?mod=mw_rss_topstories",
-            "description": "Home sellers in some of the nation’s worst housing markets are tired of cutting prices. So they’re pulling their listings.",
-            "pubDate": "2025-07-08T15:58:00",
-            "image_url": "https://images.mktw.net/im-07670753"
-        },
-        {
-            "title": "I’m 85 with 2 kids and $4 million. My daughter wants a larger share of my estate than my son to compensate for unequal treatment by her father.",
-            "link": "https://www.marketwatch.com/story/im-85-with-2-kids-and-4-million-my-daughter-wants-a-larger-share-of-my-estate-than-my-son-to-compensate-for-unequal-treatment-by-her-father-7ea3b2d1?mod=mw_rss_topstories",
-            "description": "“My daughter has severe health issues — lymphoma, which is now in remission.”",
-            "pubDate": "2025-07-08T16:01:00",
-            "image_url": "https://images.mktw.net/im-33485479"
-        },
-        {
-            "title": "No tax on Social Security? Not quite. What the tax megabill really means for seniors.",
-            "link": "https://www.marketwatch.com/story/no-tax-on-social-security-not-quite-what-the-tax-megabill-really-means-for-seniors-df275369?mod=mw_rss_topstories",
-            "description": "The enhanced standard deduction will offset what recipients pay in taxed benefits.",
-            "pubDate": "2025-07-08T16:09:00",
-            "image_url": "https://images.mktw.net/im-47697767"
         },
         {
             "title": "Battling next-gen financial fraud",
@@ -75,74 +110,39 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/MITTR_Plaid2025_V10_Cover61625.png?w=1555"
         },
         {
+            "title": "As AI use expands, platforms like Brain Max seek to simplify cross-app integration",
+            "link": "https://venturebeat.com/ai/as-ai-use-expands-platforms-like-brainmax-seek-to-simplify-cross-app-integration/",
+            "description": "As enterprise search becomes more important, companies are betting on all-in-one platforms like ClickUp's Brain Max to make finding information easier...",
+            "pubDate": "2025-07-08T20:03:27",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/05/nuneybits_Vector_art_of_web_search_b324c6ac-bcd1-4106-8ed1-dd4969cc9e5b.webp?w=578"
+        },
+        {
+            "title": "Saildrone completes NATO multi-domain demo in Baltic Sea",
+            "link": "https://www.therobotreport.com/saildrone-completes-nato-multi-domain-demo-in-baltic-sea/",
+            "description": "Four Saildrone Voyagers operated in both the Gulf of Finland and the western Baltic Sea, gathering data in challenging conditions. The post Saildrone ...",
+            "pubDate": "2025-07-08T13:30:53",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/saildrone-NATO-featured.jpg"
+        },
+        {
+            "title": "Mendaera earns FDA clearance for Focalist handheld robotic system",
+            "link": "https://www.therobotreport.com/mendaera-earns-fda-clearance-for-focalist-handheld-robotic-system/",
+            "description": "With the clearance, Mendaera is starting a limited launch of Focalist with select medical institutions this year. The post Mendaera earns FDA clearanc...",
+            "pubDate": "2025-07-08T19:41:00",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/mendaera-featured.jpg"
+        },
+        {
+            "title": "Chinese researchers unveil MemOS, the first ‘memory operating system’ that gives AI human-like recall",
+            "link": "https://venturebeat.com/ai/chinese-researchers-unveil-memos-the-first-memory-operating-system-that-gives-ai-human-like-recall/",
+            "description": "Researchers unveil MemOS, a breakthrough \"memory operating system\" for AI that delivers 159% improvement in reasoning tasks and enables persistent mem...",
+            "pubDate": "2025-07-08T22:57:16",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_digital_brain_storing_conversations_b9763f63-73bf-4f46-931e-72e29f178c88.webp?w=578"
+        },
+        {
             "title": "Building an innovation ecosystem for the next century",
             "link": "https://www.technologyreview.com/2025/07/08/1117473/building-an-innovation-ecosystem-for-the-next-century/",
             "description": "Michigan may be best known as the birthplace of the American auto industry, but its innovation legacy runs far deeper, and its future is poised to be ...",
             "pubDate": "2025-07-08T15:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "How scientists are trying to use AI to unlock the human mind",
-            "link": "https://www.technologyreview.com/2025/07/08/1119777/scientists-use-ai-unlock-human-mind/",
-            "description": "Today’s AI landscape is defined by the ways in which neural networks are unlike human brains. A toddler learns how to communicate effectively with onl...",
-            "pubDate": "2025-07-08T10:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Why the US and Europe could lose the race for fusion energy",
-            "link": "https://www.technologyreview.com/2025/07/08/1119630/why-the-us-and-the-west-could-lose-the-race-for-fusion-energy/",
-            "description": "Fusion energy holds the potential to shift a geopolitical landscape that is currently configured around fossil fuels. Harnessing fusion will deliver t...",
-            "pubDate": "2025-07-08T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "NEURA Robotics partners with HD Hyundai on shipbuilding robots",
-            "link": "https://www.therobotreport.com/neura-robotics-partners-hd-hyundai-shipbuilding-robots/",
-            "description": "NEURA Robotics announced several partnerships at Automatica, including with HD Hyundai Samho and HD Hyundai Robotics. The post NEURA Robotics partners...",
-            "pubDate": "2025-07-07T22:06:32",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/NEURA_Robotics_Hyundai_Shipbuilding_Partners.jpg"
-        },
-        {
-            "title": "Indian drone developer Raphe mPhibr raises $100M",
-            "link": "https://www.therobotreport.com/indian-drone-developer-raphe-mphibr-raises-100m/",
-            "description": "Raphe mPhibr produces all of its batteries, flight controllers, components, and materials domestically in India. The post Indian drone developer Raphe...",
-            "pubDate": "2025-07-07T19:01:15",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/raphe-featured.jpg"
-        },
-        {
-            "title": "RoboBusiness Pitchfire competition opens call for robotics startups",
-            "link": "https://www.therobotreport.com/robobusiness-pitchfire-competition-opens-call-for-robotics-startups/",
-            "description": "Participating startups will receive a free booth on the expo floor, meet with investors, network with industry leaders, and appear on The Robot Report...",
-            "pubDate": "2025-07-07T15:32:57",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/05/048A9893.jpg"
-        },
-        {
-            "title": "How Capital One built production multi-agent AI workflows to power enterprise use cases",
-            "link": "https://venturebeat.com/ai/how-capital-one-built-production-multi-agent-ai-workflows-to-power-enterprise-use-cases/",
-            "description": "With over 100 million customers, Capital One's agentic system is built for scale and complexity.",
-            "pubDate": "2025-07-07T15:50:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0364-X3_16d617.jpg?w=578"
-        },
-        {
-            "title": "Attabotics lays off staff as robotic storage provider files for bankruptcy",
-            "link": "https://www.therobotreport.com/attabotics-lays-off-staff-files-bankruptcy-canada/",
-            "description": "Attabotics, a supplier of automated storage and retrieval systems, was unable to obtain additional funding from Export Development Canada The post Att...",
-            "pubDate": "2025-07-07T16:15:42",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/Attabotics_NodeX_Modern_Beauty.jpg"
-        },
-        {
-            "title": "Elon Musk’s ‘truth-seeking’ Grok AI peddles conspiracy theories about Jewish control of media",
-            "link": "https://venturebeat.com/ai/elon-musks-truth-seeking-grok-ai-peddles-conspiracy-theories-about-jewish-control-of-media/",
-            "description": "The chatbot is giving antisemitic responses and bizarre first-person replies, raising concerns about bias and safety ahead of Grok 4 launch.",
-            "pubDate": "2025-07-07T19:52:46",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_glitching_Elon_silhouette_71a5ebb8-d507-4792-90ab-eb9fc39f7524.webp?w=578"
-        },
-        {
-            "title": "Cracking AI’s storage bottleneck and supercharging inference at the edge",
-            "link": "https://venturebeat.com/ai/cracking-ais-storage-bottleneck-and-supercharging-inference-at-the-edge/",
-            "description": "As AI applications permeate enterprise operations, a critical bottleneck often emerges: data storage.",
-            "pubDate": "2025-07-07T13:50:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/VBTRANSFORM25-0204-X2.jpg?w=578"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -152,13 +152,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -166,11 +159,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -178,6 +171,13 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
