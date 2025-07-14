@@ -2,55 +2,167 @@
     "title": "INall",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INall, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-12T01:03:32.387229",
+    "lastBuildDate": "2025-07-14T06:10:41.448312",
     "items": [
         {
-            "title": "I'm An Emmy Award–Winning Makeup Artist: Use This Mascara Hack To Lift The Eyes",
-            "link": "https://www.mindbodygreen.com/articles/with-just-mascara-2-ways-to-enhance-look-of-your-eyes",
-            "description": "Most people would assume that mascara is solely used for lengthening the lashes.",
-            "pubDate": "2025-07-11T12:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Actor Hannah Waddingham Dishes on the Gift of Getting Older",
+            "link": "https://www.webmd.com/women/features/hannah-waddingham-fierce-fabulous-fifty",
+            "description": "At 50, Emmy-winning entertainer Hannah Waddingham is thriving. She shares her thoughts on living life to the fullest, portion control, and embracing a...",
+            "pubDate": "2025-07-12T02:58:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Blake Lively Doesn't Want Baldoni Deposition To Happen At Madison Square Garden",
+            "link": "https://www.tmz.com/2025/07/11/blake-lively-doesnt-want-deposition-madison-square-garden-justin-baldoni-case/",
+            "description": "Blake Lively wants a judge to set the location for her next legal skirmish with Justin Baldoni ... and she's not in favor of making it a public specta...",
+            "pubDate": "2025-07-12T02:37:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Quentin Tarantino's Most \"Tarantino\" Movie Is Also His Most Underrated",
+            "link": "https://screenrant.com/death-proof-very-quentin-tarantino-movie/",
+            "description": "No description available",
+            "pubDate": "2025-07-12T02:58:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Seeing Just How Much Avengers: Endgame Beats The Dark Knight’s Box Office By Makes The 2019 Movie’s Success Even More Staggering To Me",
+            "link": "https://screenrant.com/avengers-endgame-the-dark-knight-box-office-movie-beat/",
+            "description": "No description available",
+            "pubDate": "2025-07-12T02:58:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Sequoia bets on silence",
+            "link": "https://techcrunch.com/2025/07/11/sequoia-bets-on-silence/",
+            "description": "There is a time-honored crisis management strategy, wherein one says nothing and waits for the outrage to pass. For Sequoia Capital, the strategy work...",
+            "pubDate": "2025-07-12T06:50:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More",
+            "link": "https://www.wired.com/story/best-prime-day-laptop-deals-2025-3/",
+            "description": "We’ve tested just about every laptop you’d want to buy, and these are the best deals we’ve found for Amazon Prime Day.",
+            "pubDate": "2025-07-12T03:00:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Overcoming Excuses to Stay Active as You Age",
+            "link": "https://www.webmd.com/healthy-aging/ss/slideshow-truth-about-exercise-aging",
+            "description": "",
+            "pubDate": "2025-07-12T02:58:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "20 Best Prime Day Fitness Tracker Deals and Smart Ring Sales (2025)",
+            "link": "https://www.wired.com/story/prime-day-tracker-and-ring-2025-3/",
+            "description": "It’s summer and we’re ready to run around like crazy. These deals on fitness trackers and smart rings—like the Oura Ring—will help you do that.",
+            "pubDate": "2025-07-12T02:18:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "The 6 Best Prime Day Action Camera Deals for Thrill Seekers (2025)",
+            "link": "https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025-2/",
+            "description": "Action cameras are perfect for travel, social media vlogging, and careening around the lake on a jet ski. Upgrade your action camera with one of these...",
+            "pubDate": "2025-07-12T02:29:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Understanding Normal Aging: What to Expect",
+            "link": "https://www.webmd.com/healthy-aging/normal-aging",
+            "description": "",
+            "pubDate": "2025-07-12T02:58:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Ben Affleck and Jennifer Garner Spotted at Red Sox Game",
+            "link": "https://www.tmz.com/2025/07/11/ben-affleck-jen-garner-attend-red-sox-game/",
+            "description": "Ben Affleck and Jennifer Garner have been on great terms for a long while now ... so it should be no surprise they took in a ballgame together with th...",
+            "pubDate": "2025-07-12T02:57:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "OpenAI delays the release of its open model, again",
+            "link": "https://techcrunch.com/2025/07/11/openai-delays-the-release-of-its-open-model-again/",
+            "description": "OpenAI CEO Sam Altman said Friday the company is delaying the release of its open model indefinitely.",
+            "pubDate": "2025-07-12T03:38:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "How To Train Your Dragon 2's Remake Will Be More Devastating Than The Animated Movie After These Changes",
+            "link": "https://screenrant.com/how-to-train-your-dragon-2-devastating-watch-stoick/",
+            "description": "No description available",
+            "pubDate": "2025-07-12T02:58:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "AMC’s stock soars, lifted by Wedbush’s upgrade amid an improving box office",
+            "link": "https://www.marketwatch.com/story/amcs-stock-is-climbing-lifted-by-wedbushs-upgrade-amid-an-improving-box-office-09eeacbf?mod=mw_rss_topstories",
+            "description": "Wedbush turned bullish on AMC’s stock, citing a more consistent movie-release slate over the next several quarters and prospects for market-share gain...",
+            "pubDate": "2025-07-11T22:39:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Free trade is over in the U.S. — and Trump’s tariffs might even be working. Investors, take note.",
             "link": "https://www.marketwatch.com/story/americas-raking-in-cash-from-trumps-tariffs-heres-why-investors-will-benefit-a2baeaa0?mod=mw_rss_topstories",
             "description": "Tariffs will become a vital source of revenue for a government that refuses to cut spending.",
             "pubDate": "2025-07-11T22:49:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "New York JFK’s $19B rebuild: The giant, new Terminal One is just a year away",
+            "link": "https://thepointsguy.com/news/new-york-jfk-airport-terminal-one-rebuild-update/",
+            "description": "A hardhat tour of the new Terminal One at New York's JFK Airport that is set to open in 2026.",
+            "pubDate": "2025-07-11T22:00:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Stocks and U.S. government bonds sell off in tandem Friday as trade jitters cool rally",
+            "link": "https://www.marketwatch.com/story/stocks-and-u-s-government-bonds-sell-off-in-tandem-friday-as-trade-jitters-cool-rally-95460259?mod=mw_rss_topstories",
+            "description": "U.S. stocks and government bonds were swept up in a selloff on Friday, as President Trump’s threats of new tariffs against a host of U.S. trade partne...",
+            "pubDate": "2025-07-11T22:52:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Tesla reportedly close to starting sales in India",
-            "link": "https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/",
-            "description": "Tesla may finally start selling its EVs in India with a showroom slated for Mumbai.",
-            "pubDate": "2025-07-11T22:20:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "John Goodman's Injury On Set of Tom Cruise Movie Had Him Fearing the Worst",
-            "link": "https://www.tmz.com/2025/07/11/john-goodman-hip-injury-on-set-tom-cruise-movie-inarritu/",
-            "description": "John Goodman's finally spilling the tea on a buzz-worthy injury from the set of his movie with Tom Cruise earlier this year -- turns out it was so bad...",
-            "pubDate": "2025-07-11T22:29:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Actor Hannah Waddingham Dishes on the Gift of Getting Older",
-            "link": "https://www.webmd.com/women/features/hannah-waddingham-fierce-fabulous-fifty",
-            "description": "At 50, Emmy-winning entertainer Hannah Waddingham is thriving. She shares her thoughts on living life to the fullest, portion control, and embracing a...",
-            "pubDate": "2025-07-11T16:32:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "The Best Anti-Prime Day Sales to Shop Before They're Over",
-            "link": "https://www.wired.com/story/anti-prime-day-small-business-sales-july-2025/",
-            "description": "Feeling anti-Amazon? These small businesses have sales you can shop right now before the week of sales ends.",
-            "pubDate": "2025-07-11T22:10:30",
+            "title": "Deal alert: Points and miles travel deals for July 2025",
+            "link": "https://thepointsguy.com/deals/points-and-miles-travel-deals/",
+            "description": "Save, maximize and earn points and miles on various travel purchases this July.",
+            "pubDate": "2025-07-11T21:30:10",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Samsung's New Phones Show How Far Ahead China Is on Innovation",
-            "link": "https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/",
-            "description": "Just like it has done with EVs, China’s investment in smartphones is leaving big brands playing catch up. Forget iterative updates: China is already w...",
-            "pubDate": "2025-07-11T22:38:37",
+            "title": "Are airline credit cards worth it anymore?",
+            "link": "https://thepointsguy.com/credit-cards/are-airline-credit-cards-worth-it-anymore/",
+            "description": "TPG helps you decide whether the benefits that come with an airline credit card make it worth keeping in your wallet.",
+            "pubDate": "2025-07-11T20:02:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Delta to fly Salt Lake City's first-ever nonstop to South America",
+            "link": "https://thepointsguy.com/news/delta-air-lines-salt-lake-city-nonstop-lima-peru/",
+            "description": "Delta Air Lines will connect Salt Lake City and Lima in Peru nonstop from December.",
+            "pubDate": "2025-07-11T23:30:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Delta inches closer to 'basic business,' hints at more premium seats in future",
+            "link": "https://thepointsguy.com/news/delta-air-lines-basic-business-premium-seats-hints/",
+            "description": "Delta Air Lines could be adding a basic version of its higher-end fares, and teased a growing number of premium seats in the future.",
+            "pubDate": "2025-07-11T23:00:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "I'm An Emmy Award–Winning Makeup Artist: Use This Mascara Hack To Lift The Eyes",
+            "link": "https://www.mindbodygreen.com/articles/with-just-mascara-2-ways-to-enhance-look-of-your-eyes",
+            "description": "Most people would assume that mascara is solely used for lengthening the lashes.",
+            "pubDate": "2025-07-11T12:46:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "How AI is going to give your financial adviser new ways to manage your money",
+            "link": "https://www.marketwatch.com/story/how-ai-is-going-to-give-your-financial-adviser-new-ways-to-manage-your-money-bf6c9b4b?mod=mw_rss_topstories",
+            "description": "Trusted advisers will get a new life, not a pink slip.",
+            "pubDate": "2025-07-11T22:55:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
@@ -58,91 +170,14 @@
             "link": "https://www.mindbodygreen.com/articles/moodiest-zodiac-signs",
             "description": "Emotional stability isn't their strong suit.",
             "pubDate": "2025-07-11T16:24:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Can an ‘ethical’ spyware maker justify providing its tech to ICE?",
-            "link": "https://techcrunch.com/2025/07/11/can-an-ethical-spyware-maker-provide-its-tech-to-ice/",
-            "description": "Analysis: In calling itself an ethical spyware vendor, Paragon has opened itself up to scrutiny of its government customers.",
-            "pubDate": "2025-07-11T23:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "AMC’s stock soars, lifted by Wedbush’s upgrade amid an improving box office",
-            "link": "https://www.marketwatch.com/story/amcs-stock-is-climbing-lifted-by-wedbushs-upgrade-amid-an-improving-box-office-09eeacbf?mod=mw_rss_topstories",
-            "description": "Wedbush turned bullish on AMC’s stock, citing a more consistent movie-release slate over the next several quarters and prospects for market-share gain...",
-            "pubDate": "2025-07-11T22:39:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Randy Moss Opens Up On 'Roller Coaster' Battle W/ Cancer, Return To TV",
-            "link": "https://www.tmz.com/2025/07/11/randy-moss-cancer-tv-return-health-update/",
-            "description": "Randy Moss was forced off the TV airwaves when he was diagnosed with a rare form of cancer ... but the legendary wideout's getting ready to make a tri...",
-            "pubDate": "2025-07-11T21:05:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "AI leadership development platform Praxis Labs sells to Torch",
-            "link": "https://techcrunch.com/2025/07/11/ai-leadership-development-platform-praxis-labs-sells-to-torch/",
-            "description": "Praxis Labs, a learning development platform, announced its acquisition on Thursday for an undisclosed amount by the leadership and coaching enterpris...",
-            "pubDate": "2025-07-11T22:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Guess Which Sexy Mama Sported This Hot Pink Swimwear!",
-            "link": "https://www.tmz.com/2025/07/11/guess-who-mom-sexy-swimwear/",
-            "description": "You know you wanna wink at the pink, but before you can hop on board with this boat babe, you gotta guess who she is! Being a mom of five, she's juggl...",
-            "pubDate": "2025-07-11T20:55:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Alexandria Ocasio-Cortez Calls Trump a 'Rapist,' Accuses Him of Withholding Epstein Files",
-            "link": "https://www.tmz.com/2025/07/11/aoc-x-post-trump-hiding-epstein-files/",
-            "description": "Alexandria Ocasio-Cortez says the public should've known President Donald Trump wouldn't release the Epstein files ... after all, his track record wit...",
-            "pubDate": "2025-07-11T22:38:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "How AI is going to give your financial adviser new ways to manage your money",
-            "link": "https://www.marketwatch.com/story/how-ai-is-going-to-give-your-financial-adviser-new-ways-to-manage-your-money-bf6c9b4b?mod=mw_rss_topstories",
-            "description": "Trusted advisers will get a new life, not a pink slip.",
-            "pubDate": "2025-07-11T22:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Casting Director Blames 'Love Island USA' Production for Vetting Mistakes",
-            "link": "https://www.tmz.com/2025/07/11/love-island-usa-casting-director-blames-production-mistakes/",
-            "description": "A casting director is calling out the producers of \"Love Island USA\" for not doing their due diligence when casting not one, but two contestants who'v...",
-            "pubDate": "2025-07-11T21:24:54",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Overcoming Excuses to Stay Active as You Age",
-            "link": "https://www.webmd.com/healthy-aging/ss/slideshow-truth-about-exercise-aging",
-            "description": "",
-            "pubDate": "2025-07-11T16:32:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Understanding Normal Aging: What to Expect",
-            "link": "https://www.webmd.com/healthy-aging/normal-aging",
-            "description": "",
-            "pubDate": "2025-07-11T16:32:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Trump’s latest tariff talk is doing something interesting to the dollar",
-            "link": "https://www.marketwatch.com/story/trumps-latest-tariff-talk-is-doing-something-interesting-to-the-dollar-4bd65677?mod=mw_rss_topstories",
-            "description": "Something different just happened to the U.S. dollar, which recently completed its worst first half of any calendar year since at least the 1970s: The...",
-            "pubDate": "2025-07-11T22:11:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Stocks and U.S. government bonds sell off in tandem Friday as trade jitters cool rally",
-            "link": "https://www.marketwatch.com/story/stocks-and-u-s-government-bonds-sell-off-in-tandem-friday-as-trade-jitters-cool-rally-95460259?mod=mw_rss_topstories",
-            "description": "U.S. stocks and government bonds were swept up in a selloff on Friday, as President Trump’s threats of new tariffs against a host of U.S. trade partne...",
-            "pubDate": "2025-07-11T22:52:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "How Trump’s big bill makes it easier for all Americans to get a tax break for charitable donations — not just rich people",
+            "link": "https://www.marketwatch.com/story/how-trumps-big-bill-makes-it-easier-for-all-americans-to-get-a-tax-break-for-charitable-donations-not-just-rich-people-d3bd0e8e?mod=mw_rss_topstories",
+            "description": "An above-the-line deduction for charitable giving is expected to generate an estimated $74 billion for nonprofits over a decade.",
+            "pubDate": "2025-07-11T23:33:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

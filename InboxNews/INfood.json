@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-12T01:03:30.376849",
+    "lastBuildDate": "2025-07-14T06:10:39.107768",
     "items": [
+        {
+            "title": "Marry Me Lasagna",
+            "link": "https://therecipecritic.com/marry-me-lasagna/",
+            "description": "They don’t call it Marry Me Lasagna for nothing! One bite of the creamy sauce, tender chicken, and melty cheese, and…",
+            "pubDate": "2025-07-13T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/marry-me-lasgagna-1.jpg"
+        },
         {
             "title": "Weekly Meal Plan #50",
             "link": "https://therecipecritic.com/weekly-meal-plan-50/",
@@ -31,13 +38,6 @@
             "description": "This week, we’re trading kitchen counters for picnic tables and stovetops for open flames. Whether you’re camping deep in the…",
             "pubDate": "2025-07-04T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/06/Camping-Menu-Plan-Collage-.jpg"
-        },
-        {
-            "title": "Pineapple Delight",
-            "link": "https://therecipecritic.com/pineapple-delight/",
-            "description": "Craving a bright and sunny dessert? This pineapple delight will hit the spot! With a buttery crust, creamy filling, and…",
-            "pubDate": "2025-07-02T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/06/pineapple-delight.jpg"
         },
         {
             "title": "Gluten-Free Funfetti Cupcakes (1 Bowl!)",
