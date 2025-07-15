@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-14T10:46:53.391393",
+    "lastBuildDate": "2025-07-15T06:53:39.040912",
     "items": [
+        {
+            "title": "Lemony Quinoa Kale Salad with Crispy Chickpeas",
+            "link": "https://minimalistbaker.com/lemony-quinoa-kale-salad-with-chickpeas/",
+            "description": "Simple methods and BIG flavor collide in this Lemony Quinoa Kale Salad with Crispy Chickpeas! It’s zesty and sweet, full of crunch, and packed with wh...",
+            "pubDate": "2025-07-15T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/03/Crispy-Chickpea-Quinoa-Kale-Salad-7-680x1020.jpg"
+        },
         {
             "title": "Marry Me Lasagna",
             "link": "https://therecipecritic.com/marry-me-lasagna/",
@@ -59,13 +66,6 @@
             "description": "Whether you’re a gardener, farmers market goer, or just love summer produce, this is the dish for you! A summery zucchini pesto pasta with caramelized...",
             "pubDate": "2025-06-03T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/02/Zucchini-Pesto-Pasta-with-Roasted-Chickpeas-7-680x1020.jpg"
-        },
-        {
-            "title": "Jerk Tofu & Roasted Plantain Bowls",
-            "link": "https://minimalistbaker.com/jerk-tofu-roasted-plantain-bowls/",
-            "description": "Why choose between spicy, savory, and sweet when you can have them ALL? All the taste buds light up with this Caribbean-inspired bowl featuring roaste...",
-            "pubDate": "2025-05-14T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/05/Jerk-Tofu-and-Roasted-Plantain-Bowls-7-680x1020.jpg"
         }
     ]
 }
