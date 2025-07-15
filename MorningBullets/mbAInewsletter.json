@@ -2,175 +2,21 @@
     "title": "mbAInewsletter",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from mbAInewsletter, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-15T11:54:15.474806",
+    "lastBuildDate": "2025-07-15T17:13:03.441070",
     "items": [
+        {
+            "title": "The attacks on Tim Cook are half-baked—despite Apple stumbling over AI",
+            "link": "https://fortune.com/2025/07/15/attacks-on-apple-ceo-tim-cook-ai-leadership/",
+            "description": "Under Tim Cook's leadership, Apple’s market value has soared from $350 billion in 2011 to more than $3 trillion today.",
+            "pubDate": "2025-07-15T21:41:36",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2156429765-e1752600947772.jpg?w=2048"
+        },
         {
             "title": "Inflation accelerated in June as the Fed weighs the impact of tariffs in rate cut timing",
             "link": "https://www.foxbusiness.com/economy/cpi-inflation-june-2025",
             "description": "The Bureau of Labor Statistics reported that the consumer price index (CPI), a popular inflation gauge, increased in June to 2.7% on an annual basis a...",
             "pubDate": "2025-07-15T13:32:39",
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/shoppers-at-a-grocery-store.jpg"
-        },
-        {
-            "title": "Court blocks Trump administration from revoking Afghans’ temporary protected status",
-            "link": "https://www.washingtonexaminer.com/news/3471384/appeals-court-blocks-trump-administration-revoking-afghans-temporary-protected-status/",
-            "description": "An appeals court temporarily blocked the Trump administration from revoking temporary protected status for thousands of people from Afghanistan living...",
-            "pubDate": "2025-07-15T16:11:49",
-            "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/07/AP25188577875092-1.webp"
-        },
-        {
-            "title": "The forecast for the U.S. economy looks cloudy as inflation rises: ‘It would be wise for the Fed to remain on the sidelines’",
-            "link": "https://fortune.com/2025/07/15/inflation-rising-tariffs-economy-cpi-report-june-2025/",
-            "description": "The effects of President Donald Trump’s tariff policy are beginning to worm their way through the economy.",
-            "pubDate": "2025-07-15T16:19:18",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2199176008-e1752592062792.jpg?w=2048"
-        },
-        {
-            "title": "White House report: The autopen, ICE raids and a year after Butler",
-            "link": "https://www.washingtontimes.com/news/2025/jul/15/white-house-report-autopen-ice-raids-year-butler/",
-            "description": "Here are some of the latest stories coming from the White House this week.",
-            "pubDate": "2025-07-15T11:22:05",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/07/15/WHR_MW_thumbnail_s1280x720.jpg?147ab0452e1b00e7be9599f10d0647785ffad95f"
-        },
-        {
-            "title": "How Trump plans to dismantle the Education Department after Supreme Court ruling",
-            "link": "https://www.washingtontimes.com/news/2025/jul/14/linda-mcmahon-plans-move-quickly-unwind-education-department/",
-            "description": "Education Secretary Linda McMahon is expected to move quickly now that the Supreme Court has cleared the way for the Trump administration to continue ...",
-            "pubDate": "2025-07-15T01:11:02",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/07/14/Department_of_Education_for_Trump_Education_What_Happens_97543_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "Trump says Federal Reserve should lower interest rates by 3 points",
-            "link": "https://www.foxbusiness.com/economy/trump-says-federal-reserve-should-lower-interest-rates-3-points",
-            "description": "The Bureau of Labor Statistics on Tuesday released June inflation data, showing prices increased from the prior month. Hours later, President Trump ca...",
-            "pubDate": "2025-07-15T15:53:38",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/trump-before-boarding-marine-one.jpg"
-        },
-        {
-            "title": "Amazon Web Services CEO Matt Garman talks about why the company lagged rivals in AI—until now",
-            "link": "https://fortune.com/2025/07/15/amazon-web-services-ceo-matt-garman-ai/",
-            "description": "Also: All the news and watercooler chat from Fortune.",
-            "pubDate": "2025-07-15T10:09:20",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/Matt-Garman_1393_new_spheres-1.jpg?w=2048"
-        },
-        {
-            "title": "American energy revival takes shape as GE Vernova pours millions into Pennsylvania economy",
-            "link": "https://www.foxbusiness.com/economy/american-energy-revival-takes-shape-ge-vernova-pours-millions-pennsylvania-economy",
-            "description": "Energy company GE Vernova expands Pennsylvania operations with an $80 million investment, adding 250 jobs at its Charleroi facility for electric grid ...",
-            "pubDate": "2025-07-15T13:59:00",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/ge-vernova.jpg"
-        },
-        {
-            "title": "MLB holds All-Star Game in the land of Jim Crow",
-            "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/3471205/major-league-baseball-holds-all-star-game-in-land-of-jim-crow/",
-            "description": "Tonight is Major League Baseball’s 95th All-Star Game. The event features the game’s stars, pitting the best players of the National League versus the...",
-            "pubDate": "2025-07-15T15:17:45",
-            "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/07/Screenshot-2025-07-15-at-8.28.45 AM-1024x685.webp"
-        },
-        {
-            "title": "Trump says he's 'disappointed' in Putin, but 'not done with him'",
-            "link": "https://thehill.com/homenews/administration/5401751-trump-disappointed-putin-sanctions-ukraine/",
-            "description": "President Trump said he is “disappointed” in Russian President Vladimir Putin after threatening Moscow with sanctions over its war with Ukraine, but a...",
-            "pubDate": "2025-07-15T16:30:16",
-            "image_url": "https://thehill.com/wp-content/uploads/sites/2/2025/07/AP25195556700417-e1752519883925.jpg?w=900"
-        },
-        {
-            "title": "Google’s head of Android once cold-emailed the $2 trillion tech giant’s cofounder Sergey Brin for graduate school advice—he got a job offer instead",
-            "link": "https://fortune.com/2025/07/15/google-cold-email-billionaire-founder-sergey-brin-head-of-android-sameer-samat-graduate-school-advice-job-offer-entrepreneurship/",
-            "description": "Early in his career, Sameer Samat’s cofounders wanted to ditch their startup for college. A 3 a.m. email to Google’s cofounder Sergey Brin changed the...",
-            "pubDate": "2025-07-15T16:36:43",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-1367318789-e1752593078579.jpg?w=2048"
-        },
-        {
-            "title": "Inflation rises in June, in line with economic forecasts",
-            "link": "https://www.washingtontimes.com/news/2025/jul/15/inflation-rises-june-line-economic-forecasts/",
-            "description": "Inflation ticked upward in June, rising 0.3% in June compared to 0.1% in May, according to a government report.",
-            "pubDate": "2025-07-15T13:56:13",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/06/27/Consumer_Spending_41856_s1440x1080.jpg?d091f0ac6a77bac1b6357990e6e1f57b58a17971"
-        },
-        {
-            "title": "Apple is pre-bunkering against China with its $500 million deal to buy American rare-earth magnets",
-            "link": "https://fortune.com/2025/07/15/apple-mp-materials-rare-earth-deal-china/",
-            "description": "Apple’s deal with MP Materials is more than just a supply-chain strategy. It's a geopolitical insurance policy.",
-            "pubDate": "2025-07-15T16:28:10",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2220498548-e1752590741592.jpg?w=2048"
-        },
-        {
-            "title": "MAGA fissure widens from Trump's refusal to release Epstein files",
-            "link": "https://www.washingtontimes.com/news/2025/jul/15/maga-fissure-widens-donald-trumps-refusal-release-epstein-files/",
-            "description": "The Justice Department's refusal to release additional files related to deceased sexual predator Jeffrey Epstein has created one of the biggest splits...",
-            "pubDate": "2025-07-15T13:28:44",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2024/09/17/Jeffrey_Epstein_Maxwell_Trial_59255_s1440x937.jpg?075aeceabd8981d599703ad58a3ec7a7986e326f"
-        },
-        {
-            "title": "Stamps just got more expensive. Here’s what it will cost you to mail a letter now",
-            "link": "https://fortune.com/2025/07/15/stamps-more-expensive-usps-price-increase-2025/",
-            "description": "Yep, postcards will cost more too.",
-            "pubDate": "2025-07-15T16:23:35",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2161800160-e1752592886607.jpg?w=2048"
-        },
-        {
-            "title": "Russia blows off latest Trump threat",
-            "link": "https://thehill.com/policy/international/5401728-russia-donald-trump-sanctions-threat/",
-            "description": "Russian leaders responded flippantly Tuesday to the Trump administration’s threat of \"severe\" tariffs if Moscow doesn't quickly come to a peace agreem...",
-            "pubDate": "2025-07-15T16:45:50",
-            "image_url": "https://thehill.com/wp-content/uploads/sites/2/2025/07/AP25113391831262-e1752594295976.jpg?w=900"
-        },
-        {
-            "title": "Voters don’t believe Team Trump on Epstein, may be his ‘Afghanistan’",
-            "link": "https://www.washingtonexaminer.com/news/washington-secrets/3471417/trump-approval-epstein-case-closed-rasmussen-poll/",
-            "description": "MAGA’s disgruntlement with President Donald Trump over his team’s dismissal of the Jeffrey Epstein affair is turning into a political crisis, and a to...",
-            "pubDate": "2025-07-15T16:28:05",
-            "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/07/Trump-Epstein-poll-scaled-1024x683.webp"
-        },
-        {
-            "title": "Budget airline Avelo shutting down West Coast operations",
-            "link": "https://www.foxbusiness.com/economy/budget-airline-avelo-shutting-down-west-coast-operations",
-            "description": "Avelo Airlines is closing its Southern California operations to focus on East Coast growth, allowing affected passengers to get full refunds.",
-            "pubDate": "2025-07-15T13:39:11",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/avelo-airlines-plane-runway.jpg"
-        },
-        {
-            "title": "Senate Faces Litmus Test on Fiscal Conservatism",
-            "link": "https://www.dailysignal.com/2025/07/15/senate-faces-litmus-test-on-fiscal-conservatism/",
-            "description": "The Republican-controlled Senate faces a major litmus test this week of whether it is willing to cut federal government spending going forward. This w...",
-            "pubDate": "2025-07-15T16:25:57",
-            "image_url": "https://www.dailysignal.com/wp-content/uploads/2025/07/SusanCollinsApprops-1024x532.jpg"
-        },
-        {
-            "title": "Rand Paul to reissue criminal referral against Fauci after report of autopen pardon",
-            "link": "https://www.washingtontimes.com/news/2025/jul/15/rand-paul-reissue-criminal-referral-anthony-fauci-report-autopen/",
-            "description": "Sen. Rand Paul this week vowed to refile a criminal referral against Anthony Fauci with the Justice Department after it was revealed Dr. Fauci's pardo...",
-            "pubDate": "2025-07-15T15:04:00",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/01/20/Biden_Pardons_13585_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "New York clerk rebuffs Texas over fine against abortion doctor",
-            "link": "https://www.washingtonexaminer.com/news/3471495/new-york-clerk-rebuffs-texas-over-fine-against-abortion-doctor/",
-            "description": "(The Center Square) — A New York county clerk has again refused to certify a civil judgment issued by Texas‘ attorney general against a New York docto...",
-            "pubDate": "2025-07-15T16:27:35",
-            "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/AP25017642331007.webp"
-        },
-        {
-            "title": "GOP megadonor: Cuomo has best chance of defeating Mamdani in NYC mayoral race",
-            "link": "https://thehill.com/homenews/campaign/5401776-gop-megadonor-cuomo-has-best-chance-of-defeating-mamdani-in-nyc-mayoral-race/",
-            "description": "Republican megadonor Ken Langone argued that former Gov. Andrew Cuomo has the best chance of defeating New York City Democratic mayoral nominee Zohran...",
-            "pubDate": "2025-07-15T16:36:54",
-            "image_url": "https://thehill.com/wp-content/uploads/sites/2/2025/05/AP25114060353399-e1748448834213.jpg?w=900"
-        },
-        {
-            "title": "Live updates: Waltz stands firm on use of Signal in Houthi operation chat",
-            "link": "https://thehill.com/homenews/administration/trump-the-next-100-days/5401328-live-updates-trump-senate-waltz/",
-            "description": "Former national security adviser Mike Waltz, testifying before the Senate Foreign Relations Committee in his bid to become U.N. ambassador, stood by t...",
-            "pubDate": "2025-07-15T16:44:23",
-            "image_url": "https://thehill.com/wp-content/uploads/sites/2/2025/07/2__4086.jpeg?w=900"
-        },
-        {
-            "title": "Gates ‘alarmed’ over Senate rescissions plan to cut USAID",
-            "link": "https://www.washingtonexaminer.com/news/senate/3471270/bill-gates-alarmed-senate-rescissions-cut-usaid/",
-            "description": "As the Senate moves to vote on its rescissions legislation this week, Bill Gates warned on Monday of the potential harm to the United States Agency fo...",
-            "pubDate": "2025-07-15T16:03:57",
-            "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/07/bill_gates.webp"
         },
         {
             "title": "Red state success story: Texas and Florida metros lead nation in economic and population growth",
@@ -180,74 +26,144 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/Austin-Texas.jpg"
         },
         {
-            "title": "Bessent: ‘Formal process’ underway to pick Powell successor",
-            "link": "https://thehill.com/homenews/administration/5401759-bessent-powell-federal-reserve-chair-process/",
-            "description": "Treasury Secretary Scott Bessent on Tuesday said that the process to pick a new chairman of the Federal Reserve has started, ahead of chair Jerome Pow...",
-            "pubDate": "2025-07-15T16:31:31",
-            "image_url": "https://thehill.com/wp-content/uploads/sites/2/2025/06/Bessent_CapitolHill_gn_062425.jpeg?w=900"
+            "title": "Trump says Federal Reserve should lower interest rates by 3 points",
+            "link": "https://www.foxbusiness.com/economy/trump-says-federal-reserve-should-lower-interest-rates-3-points",
+            "description": "The Bureau of Labor Statistics on Tuesday released June inflation data, showing prices increased from the prior month. Hours later, President Trump ca...",
+            "pubDate": "2025-07-15T15:53:38",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/trump-before-boarding-marine-one.jpg"
         },
         {
-            "title": "Dems Should Give Mammy the Duke Treatment",
-            "link": "https://www.dailysignal.com/2025/07/15/dems-should-give-mammy-the-duke-treatment/",
-            "description": "Democrats have a Mammy problem. The solution lies in the GOP playbook, if they are smart enough to open it. Democrats seem puzzled about how... Read M...",
-            "pubDate": "2025-07-15T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Budget airline Avelo shutting down West Coast operations",
+            "link": "https://www.foxbusiness.com/economy/budget-airline-avelo-shutting-down-west-coast-operations",
+            "description": "Avelo Airlines is closing its Southern California operations to focus on East Coast growth, allowing affected passengers to get full refunds.",
+            "pubDate": "2025-07-15T13:39:11",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/avelo-airlines-plane-runway.jpg"
         },
         {
-            "title": "Economists say CPI will show the long-awaited tariff-linked inflation pickup",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5730fb93-3f24-474c-8a6c-beb14da410c1&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-07-15T13:18:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "American energy revival takes shape as GE Vernova pours millions into Pennsylvania economy",
+            "link": "https://www.foxbusiness.com/economy/american-energy-revival-takes-shape-ge-vernova-pours-millions-pennsylvania-economy",
+            "description": "Energy company GE Vernova expands Pennsylvania operations with an $80 million investment, adding 250 jobs at its Charleroi facility for electric grid ...",
+            "pubDate": "2025-07-15T13:59:00",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/ge-vernova.jpg"
         },
         {
-            "title": "Does Anyone Judge the Judges? We the People Do—And Should",
-            "link": "https://www.dailysignal.com/2025/07/15/does-anyone-judge-judges-we-people-do-should/",
-            "description": "Who judges the judges? That question has taken the forefront in recent days as questions swirl about whether certain federal judges have the authority...",
-            "pubDate": "2025-07-15T16:38:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Coding has emerged as genAI’s killer use case. But what if its benefits are a mirage?",
+            "link": "https://fortune.com/2025/07/15/ai-coding-assistants-benefits-may-be-vastly-overstated-eye-on-ai/",
+            "description": "New research shows that coders vastly overestimated how much more efficient they were with AI help.",
+            "pubDate": "2025-07-15T18:23:52",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-1730336581-e1752592927268.jpg?w=2048"
         },
         {
-            "title": "Senate Must Pass White House Rescissions Package",
-            "link": "https://www.dailysignal.com/2025/07/15/senate-must-pass-white-house-rescissions-package/",
-            "description": "For far too long, leaders in Washington have wasted hundreds of billions of taxpayer dollars on woke and weaponized programs, including outright propa...",
-            "pubDate": "2025-07-15T16:03:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Inflation concerns trigger a market dip as new data shows impact of Trump tariffs in June",
+            "link": "https://fortune.com/2025/07/15/inflation-concerns-stock-market-trump-powell-tariffs/",
+            "description": "President Trump's trade war is beginning to impact the consumer price index.",
+            "pubDate": "2025-07-15T21:23:13",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2224573718-e1752599326139.jpg?w=2048"
         },
         {
-            "title": "Economic calendar: Empire State data and Fed talk to follow CPI report",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c70541f-1ffe-41b6-b81f-b7f688da8793&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-07-15T13:24:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Americans spend $40 billion on their pets’ health care. Chewy has a plan to get more of their money",
+            "link": "https://fortune.com/2025/07/15/chewy-expands-into-veterinary-40-billion-dollar-market-pet-health-pharmacy/",
+            "description": "Americans adopted roughly 23 million pets during the pandemic, and Bank of America Research sees the \"COVID cohort\" nearing middle age.",
+            "pubDate": "2025-07-15T19:29:17",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2160085331-e1752602491631.jpg?w=2048"
         },
         {
-            "title": "Trump Administration Plans Unprecedented Visit to Foreign Ally",
-            "link": "https://www.dailysignal.com/2025/07/15/trump-visit-united-kingdom-september/",
-            "description": "President Donald Trump will take an unprecedented second state visit to the United Kingdom in September. “The United States’ friendship with the Unite...",
-            "pubDate": "2025-07-15T15:20:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Real estate mogul Barbara Corcoran shares the ‘crazy’ work perks she’s offered her team including a free Bentley, elephant rides, and ‘the wildest parties in town’",
+            "link": "https://fortune.com/2025/07/15/multimillionaire-barbara-corcoran-shark-tank-real-estate-employees-crazy-perks-bentley-elephant-picnic/",
+            "description": "While other CEOs try to create the best business results with RTO mandates and mass layoffs, the 'Shark Tank' mogul’s \"crazy\" perks created loyalty th...",
+            "pubDate": "2025-07-15T17:04:39",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2208599590-1-e1752591740740.jpg?w=2048"
         },
         {
-            "title": "What is it like — and what would it cost — to retire on a cruise ship?",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0efabd50-3d57-4085-9706-690306d84f33&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-07-15T15:22:26",
+            "title": "Government Begins Prioritizing English as Official Language",
+            "link": "https://www.dailysignal.com/2025/07/15/government-begins-prioritizing-english-official-language/",
+            "description": "THE CENTER SQUARE—The federal government has begun to implement President Donald Trump’s March 1 executive order designating English as the official l...",
+            "pubDate": "2025-07-15T21:10:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "3 Perverse Ways Your Tax Dollars Fund the Left’s Dark Money Network",
+            "link": "https://www.dailysignal.com/2025/07/15/perverse-ways-your-tax-dollars-fund-lefts-dark-money-network/",
+            "description": "Did you know that millions of your tax dollars go to fund leftist activist groups, who then lobby the government for policies you may disagree... Read...",
+            "pubDate": "2025-07-15T20:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "CPI report: Sharpest inflation pickup in five months could keep Fed sidelined",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=695b5f6b-825d-4278-912f-c5caa1e54855&mod=mw_rss_bulletins",
+            "title": "Why Mexicans Are Protesting Mass Immigration",
+            "link": "https://www.dailysignal.com/2025/07/15/why-mexicans-are-protesting-mass-immigration/",
+            "description": "Many Mexicans have similar complaints about American immigrants as Americans do about Mexican immigrants. Earlier this month, a major city saw a xenop...",
+            "pubDate": "2025-07-15T19:50:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "New Polling Finds Strong Bipartisan Support for Trump’s Immigration Policies",
+            "link": "https://www.dailysignal.com/2025/07/15/new-polling-finds-strong-bipartisan-support-trumps-immigration-policies/",
+            "description": "President Donald Trump is enjoying strong support for his border and immigration policies among U.S. voters, according to a new Harvard-Harris Poll. T...",
+            "pubDate": "2025-07-15T20:37:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "S&P 500 stumbles after hitting intraday high — the downside of a narrow rally",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5f16f131-798a-42f3-88b4-db7658f13e8e&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-07-15T13:43:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "pubDate": "2025-07-15T21:56:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "How Tim Cook is still the man to lead Apple — even in the AI era",
             "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a606eb30-593e-4eb5-a14b-68232e493366&mod=mw_rss_bulletins",
             "description": "",
             "pubDate": "2025-07-15T15:58:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Pam Bondi dodges questions on Epstein and Bongino amid Justice Department turmoil",
+            "link": "https://apnews.com/article/jeffrey-epstein-bondi-bongino-trump-justice-269d9526d270e6342e82ecae27fe6189",
+            "description": "Attorney General Pam Bondi refused to answer questions Tuesday about investigate files related to Jeffrey Epstein and her clash with a top FBI officia...",
+            "pubDate": "2025-07-15T17:48:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Judge says Trump administration can’t use travel ban to keep 80 refugees out of the US",
+            "link": "https://apnews.com/article/trump-travel-ban-refugees-lawsuit-44ff62623ac10ef287710f0ebcf5904b",
+            "description": "",
+            "pubDate": "2025-07-15T13:43:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Assisted-living home cited for late reports of safety incidents years before fatal fire",
+            "link": "https://apnews.com/article/fatal-fire-massachusetts-assisted-living-78afe4bee1a6d4e604118b362aa33c14",
+            "description": "",
+            "pubDate": "2025-07-15T13:00:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Is Nvidia’s breakthrough in China the latest Trump ‘TACO’?",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bebc22f7-3a38-49c9-a1f3-dd331f289259&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-07-15T17:00:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Leader of Illegal-Alien Smuggling Ring Sentenced",
+            "link": "https://www.dailysignal.com/2025/07/15/leader-illegal-alien-smuggling-ring-sentenced/",
+            "description": "A Honduran national living in Texas and responsible for smuggling an estimated 2,500 to 3,000 illegal aliens into the U.S. has been sentenced for his....",
+            "pubDate": "2025-07-15T20:55:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Dow falls over 400 points after June CPI, but chip stocks power Nasdaq to record",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=33519c4c-5acc-41d4-81b1-2926a51c7825&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-07-15T21:06:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Bond market sends troubling signal on inflation that should concern investors",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4b074f35-8b7b-40c2-bbf0-14d0283f291b&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-07-15T19:58:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Bitcoin breaks $123,000 price record as lawmakers begin 'Crypto Week' in Washington",
@@ -285,39 +201,39 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/Nvidia-headquarters-1.jpg"
         },
         {
+            "title": "What to Know About China's DeepSeek AI",
+            "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
+            "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+            "pubDate": "2025-01-27T18:17:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
             "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
             "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
             "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
             "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Tech, Media & Telecom Roundup: Market Talk",
             "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
             "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
             "pubDate": "2025-01-27T17:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
             "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
             "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
             "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "What to Know About China's DeepSeek AI",
-            "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
-            "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
-            "pubDate": "2025-01-27T18:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
             "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
             "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
             "pubDate": "2025-01-26T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
