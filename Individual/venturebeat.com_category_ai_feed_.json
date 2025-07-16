@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-15T17:13:18.289238",
+    "lastBuildDate": "2025-07-16T06:34:07.334634",
     "items": [
+        {
+            "title": "Google study shows LLMs abandon correct answers under pressure, threatening multi-turn AI systems",
+            "link": "https://venturebeat.com/ai/google-study-shows-llms-abandon-correct-answers-under-pressure-threatening-multi-turn-ai-systems/",
+            "description": "A DeepMind study finds LLMs are both stubborn and easily swayed. This confidence paradox has key implications for building AI applications.",
+            "pubDate": "2025-07-16T01:28:03",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/AI-overconfidence-and-underconfidence.png?w=578"
+        },
+        {
+            "title": "Mistral’s Voxtral goes beyond transcription with summarization, speech-triggered functions",
+            "link": "https://venturebeat.com/ai/mistrals-voxtral-goes-beyond-transcription-with-summarization-speech-triggered-functions/",
+            "description": "Mistral's open-source speech model Voxtral can recognize multiple languages, understand spoken instructions and also offer enterprise security.",
+            "pubDate": "2025-07-16T00:34:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_a_robot_voice_actor_recording_in_the__f9117954-b033-4730-a521-b507eb2ee48a-transformed.webp?w=578"
+        },
+        {
+            "title": "OpenAI, Google DeepMind and Anthropic sound alarm: ‘We may be losing the ability to understand AI’",
+            "link": "https://venturebeat.com/ai/openai-google-deepmind-and-anthropic-sound-alarm-we-may-be-losing-the-ability-to-understand-ai/",
+            "description": "Scientists from OpenAI, Google, Anthropic and Meta unite in rare collaboration to warn that a critical window for monitoring AI reasoning may close fo...",
+            "pubDate": "2025-07-15T23:49:59",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_an_hourglass_on_a_laptop_5b7fe460-16b1-4fd4-9324-2285aa848af8.webp?w=578"
+        },
+        {
+            "title": "Mira Murati says her startup Thinking Machines will release new product in ‘months’ with ‘significant open source component’",
+            "link": "https://venturebeat.com/ai/mira-murati-says-her-startup-thinking-machines-will-release-new-product-in-months-with-significant-open-source-component/",
+            "description": "Backed by $2B and with OpenAI’s open-weight model now in limbo, Thinking Machines could capture developer attention and interest.",
+            "pubDate": "2025-07-15T23:13:13",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_humanoid_robot_with_transparent_brain_jar_torso_gleeful_9b9ecb5e-51a2-44d3-82f4-0ad5c31e72fa.png?w=578"
+        },
         {
             "title": "Finally, a dev kit for designing on-device, mobile AI apps is here: Liquid AI’s LEAP",
             "link": "https://venturebeat.com/ai/finally-a-dev-kit-for-designing-on-device-mobile-ai-apps-is-here-liquid-ais-leap/",
             "description": "LEAP addresses those needs head-on with a local-first approach that allows small models to run directly on-device, no cloud infrastructure.",
             "pubDate": "2025-07-15T17:46:57",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_polygonal_illustration_surreal_close_up_of_hand_pouring_dabfacd8-d125-4ff0-a6fb-91ae92b81494.png?w=578"
-        },
-        {
-            "title": "Perplexity offers free AI tools to students worldwide in partnership with SheerID",
-            "link": "https://venturebeat.com/ai/perplexity-offers-free-ai-tools-to-students-worldwide-in-partnership-with-sheerid/",
-            "description": "Perplexity and SheerID launch a global program offering students up to two years of free AI access through secure identity verification.",
-            "pubDate": "2025-07-15T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_identity_verification_of_a_student_in_a_gr_8246a8f7-fabd-4ead-85d8-3fb8fe2be110.webp?w=578"
-        },
-        {
-            "title": "Anthropic launches finance-specific Claude with built-in data connectors, higher limits and prompt libraries",
-            "link": "https://venturebeat.com/ai/financial-firms-get-a-purpose-built-claude-as-anthropic-bets-on-vertical-ai-platforms/",
-            "description": "Anthropic is unveiling a financial sector-specific Claude version that will tackle data connectors and added rate limits for analysts.",
-            "pubDate": "2025-07-15T12:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/07/finance3_ae310b.png?w=578"
-        },
-        {
-            "title": "Amazon launches Kiro, its own Claude-powered challenger to Windsurf and Codex",
-            "link": "https://venturebeat.com/programming-development/amazon-launches-kiro-its-own-claude-powered-challenger-to-windsurf-and-codex/",
-            "description": "Initial community reactions to Kiro were mixed, but developers were intrigued, praising the emphasis on specs, hooks and structure.",
-            "pubDate": "2025-07-14T22:16:16",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_surreal_image_of_researchers_with_laptops_gathered_arou_1c89c9c4-fac0-4bfa-9804-e0b82781c478.png?w=578"
-        },
-        {
-            "title": "Remaining Windsurf team and tech acquired by Cognition, makers of Devin: ‘We’re friends with Anthropic again’",
-            "link": "https://venturebeat.com/programming-development/remaining-windsurf-team-and-tech-acquired-by-cognition-makers-of-devin-were-friends-with-anthropic-again/",
-            "description": "Cognition CEO Scott Wu and interim Windsurf CEO Jeff Wang said they would start by integrating the AI-powered engineer Devin into Windsurf.",
-            "pubDate": "2025-07-14T19:46:42",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-14-2025-02_41_46-PM.png?w=578"
         }
     ]
 }
