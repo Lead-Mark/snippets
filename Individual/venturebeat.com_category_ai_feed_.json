@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-16T11:08:52.994267",
+    "lastBuildDate": "2025-07-16T17:23:14.061131",
     "items": [
+        {
+            "title": "Claude Code revenue jumps 5.5x as Anthropic launches analytics dashboard",
+            "link": "https://venturebeat.com/ai/anthropic-adds-usage-tracking-to-claude-code-as-enterprise-ai-spending-surges/",
+            "description": "Anthropic has launched a powerful analytics dashboard for its Claude Code AI assistant, giving engineering leaders real-time insights into developer p...",
+            "pubDate": "2025-07-16T18:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_code_transforming_into_charts_in_burnt__c4c8d510-d8ad-4c85-a648-4b3da0451931.webp?w=578"
+        },
+        {
+            "title": "AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools",
+            "link": "https://venturebeat.com/ai/aws-unveils-bedrock-agentcore-a-new-platform-for-building-enterprise-ai-agents-with-open-source-frameworks-and-tools/",
+            "description": "AWS beleives AI agents will change how enterprises work and with its new Amazon Bedrock AgentCore, it hopes to make it easier to build and deploy agen...",
+            "pubDate": "2025-07-16T17:31:56",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
+        },
         {
             "title": "Google study shows LLMs abandon correct answers under pressure, threatening multi-turn AI systems",
             "link": "https://venturebeat.com/ai/google-study-shows-llms-abandon-correct-answers-under-pressure-threatening-multi-turn-ai-systems/",
@@ -24,20 +38,6 @@
             "description": "Scientists from OpenAI, Google, Anthropic and Meta unite in rare collaboration to warn that a critical window for monitoring AI reasoning may close fo...",
             "pubDate": "2025-07-15T23:49:59",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_an_hourglass_on_a_laptop_5b7fe460-16b1-4fd4-9324-2285aa848af8.webp?w=578"
-        },
-        {
-            "title": "Mira Murati says her startup Thinking Machines will release new product in ‘months’ with ‘significant open source component’",
-            "link": "https://venturebeat.com/ai/mira-murati-says-her-startup-thinking-machines-will-release-new-product-in-months-with-significant-open-source-component/",
-            "description": "Backed by $2B and with OpenAI’s open-weight model now in limbo, Thinking Machines could capture developer attention and interest.",
-            "pubDate": "2025-07-15T23:13:13",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_humanoid_robot_with_transparent_brain_jar_torso_gleeful_9b9ecb5e-51a2-44d3-82f4-0ad5c31e72fa.png?w=578"
-        },
-        {
-            "title": "Finally, a dev kit for designing on-device, mobile AI apps is here: Liquid AI’s LEAP",
-            "link": "https://venturebeat.com/ai/finally-a-dev-kit-for-designing-on-device-mobile-ai-apps-is-here-liquid-ais-leap/",
-            "description": "LEAP addresses those needs head-on with a local-first approach that allows small models to run directly on-device, no cloud infrastructure.",
-            "pubDate": "2025-07-15T17:46:57",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_polygonal_illustration_surreal_close_up_of_hand_pouring_dabfacd8-d125-4ff0-a6fb-91ae92b81494.png?w=578"
         }
     ]
 }
