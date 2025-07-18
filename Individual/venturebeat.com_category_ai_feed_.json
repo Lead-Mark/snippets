@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-17T11:49:37.922358",
+    "lastBuildDate": "2025-07-18T06:41:16.471977",
     "items": [
+        {
+            "title": "Mistral’s Le Chat adds deep research agent and voice mode to challenge OpenAI’s enterprise dominance",
+            "link": "https://venturebeat.com/ai/mistrals-le-chat-adds-deep-research-agent-and-voice-mode-to-challenge-openais-enterprise-dominance/",
+            "description": "Mistral added deep research capabilities to its Le Chat platform, bringing it in direct competition against ChatGPT and Gemini.",
+            "pubDate": "2025-07-17T23:05:26",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/06/a-large-robot-named-mistral-standing-next-to-the-e-9PGOCDtWTk29VN1iwdU-pQ-NPlBR7EJSBSOvTbX5n7Now.jpeg?w=578"
+        },
+        {
+            "title": "OpenAI unveils ‘ChatGPT agent’ that gives ChatGPT its own computer to autonomously use your email and web apps, download and create files for you",
+            "link": "https://venturebeat.com/ai/openai-unveils-chatgpt-agent-that-gives-chatgpt-its-own-computer-to-autonomously-use-your-email-and-web-apps-download-and-create-files-for-you/",
+            "description": "If a website needs you to log in, you can do that securely through a special browser view, which lets the agent dig deeper and handle more.",
+            "pubDate": "2025-07-17T18:16:33",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_retro_futuristic_midcentury_modern_computer_ad_poster_w_9dce2c03-1f64-46e2-9158-4783423c3465.png?w=578"
+        },
         {
             "title": "Blaxel raises $7.3M seed round to build ‘AWS for AI agents’ after processing billions of agent requests",
             "link": "https://venturebeat.com/ai/blaxel-raises-7-3m-seed-round-to-build-aws-for-ai-agents-after-processing-billions-of-agent-requests/",
@@ -24,20 +38,6 @@
             "description": "Anthropic has launched a powerful analytics dashboard for its Claude Code AI assistant, giving engineering leaders real-time insights into developer p...",
             "pubDate": "2025-07-16T18:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_code_transforming_into_charts_in_burnt__c4c8d510-d8ad-4c85-a648-4b3da0451931.webp?w=578"
-        },
-        {
-            "title": "AWS unveils Bedrock AgentCore, a new platform for building enterprise AI agents with open source frameworks and tools",
-            "link": "https://venturebeat.com/ai/aws-unveils-bedrock-agentcore-a-new-platform-for-building-enterprise-ai-agents-with-open-source-frameworks-and-tools/",
-            "description": "AWS beleives AI agents will change how enterprises work and with its new Amazon Bedrock AgentCore, it hopes to make it easier to build and deploy agen...",
-            "pubDate": "2025-07-16T17:31:56",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
-        },
-        {
-            "title": "Google study shows LLMs abandon correct answers under pressure, threatening multi-turn AI systems",
-            "link": "https://venturebeat.com/ai/google-study-shows-llms-abandon-correct-answers-under-pressure-threatening-multi-turn-ai-systems/",
-            "description": "A DeepMind study finds LLMs are both stubborn and easily swayed. This confidence paradox has key implications for building AI applications.",
-            "pubDate": "2025-07-16T01:28:03",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/AI-overconfidence-and-underconfidence.png?w=578"
         }
     ]
 }
