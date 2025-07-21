@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-20T00:37:01.399411",
+    "lastBuildDate": "2025-07-20T23:24:47.644192",
     "items": [
+        {
+            "title": "Simple Spaghetti Margherita",
+            "link": "https://therecipecritic.com/spaghetti-margherita/",
+            "description": "Spaghetti Margherita has been a family favorite since I was a kid, though we just called it “pasta with tomato…",
+            "pubDate": "2025-07-20T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/margarita-spaghetti-1.jpg"
+        },
         {
             "title": "Corn Ribs",
             "link": "https://therecipecritic.com/corn-ribs/",
@@ -19,13 +26,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/Week-51-Meal-Plan-Collage-.jpg"
         },
         {
-            "title": "Cheesy Tater Tot Casserole",
-            "link": "https://therecipecritic.com/tater-tot-casserole/",
-            "description": "If you love shepherd’s pie, you’ve got to try this Tater Tot Casserole! It’s the ultimate lazy-girl version, with tots…",
-            "pubDate": "2025-07-15T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/tater-tot-casserole-3.jpg"
-        },
-        {
             "title": "Lemony Quinoa Kale Salad with Crispy Chickpeas",
             "link": "https://minimalistbaker.com/lemony-quinoa-kale-salad-with-chickpeas/",
             "description": "Simple methods and BIG flavor collide in this Lemony Quinoa Kale Salad with Crispy Chickpeas! It’s zesty and sweet, full of crunch, and packed with wh...",
@@ -33,18 +33,18 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/03/Crispy-Chickpea-Quinoa-Kale-Salad-7-680x1020.jpg"
         },
         {
+            "title": "Cheesy Tater Tot Casserole",
+            "link": "https://therecipecritic.com/tater-tot-casserole/",
+            "description": "If you love shepherd’s pie, you’ve got to try this Tater Tot Casserole! It’s the ultimate lazy-girl version, with tots…",
+            "pubDate": "2025-07-15T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/tater-tot-casserole-3.jpg"
+        },
+        {
             "title": "Marry Me Lasagna",
             "link": "https://therecipecritic.com/marry-me-lasagna/",
             "description": "They don’t call it Marry Me Lasagna for nothing! One bite of the creamy sauce, tender chicken, and melty cheese, and…",
             "pubDate": "2025-07-13T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/marry-me-lasgagna-1.jpg"
-        },
-        {
-            "title": "Weekly Meal Plan #50",
-            "link": "https://therecipecritic.com/weekly-meal-plan-50/",
-            "description": "I put together this week’s meal plan to help your week run a little smoother, because I know how crazy…",
-            "pubDate": "2025-07-11T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/06/Week-50-Meal-Plan-Collage-1.jpg"
         },
         {
             "title": "Gluten-Free Funfetti Cupcakes (1 Bowl!)",
