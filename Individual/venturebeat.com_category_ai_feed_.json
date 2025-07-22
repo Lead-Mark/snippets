@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-21T13:54:15.920497",
+    "lastBuildDate": "2025-07-22T00:40:18.243938",
     "items": [
+        {
+            "title": "Crowdstrike’s massive cyber outage 1-year later: lessons enterprises can learn to improve security",
+            "link": "https://venturebeat.com/security/how-crowdstrikes-78-minute-outage-reshaped-enterprise-cybersecurity/",
+            "description": "The incident's legacy extends far beyond CrowdStrike. Organizations now implement staged rollouts and maintain manual override capabilities.",
+            "pubDate": "2025-07-21T23:46:41",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/OUTAGE.png?w=578"
+        },
+        {
+            "title": "Google DeepMind makes AI history with gold medal win at world’s toughest math competition",
+            "link": "https://venturebeat.com/ai/google-deepmind-makes-ai-history-with-gold-medal-win-at-worlds-toughest-math-competition/",
+            "description": "Google DeepMind's Gemini AI won a gold medal at the International Mathematical Olympiad by solving complex math problems using natural language, marki...",
+            "pubDate": "2025-07-21T23:33:34",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_robot_winning_medal_5be7ef30-62b2-4f25-bd3c-9480201df4b7.webp?w=578"
+        },
+        {
+            "title": "Chinese startup Manus challenges ChatGPT in data visualization: which should enterprises use?",
+            "link": "https://venturebeat.com/data-infrastructure/chinese-startup-manus-challenges-chatgpt-in-data-visualization-which-should-enterprises-use/",
+            "description": "While Manus handles messy data better than ChatGPT, neither tool is yet ready for boardroom-ready slides.",
+            "pubDate": "2025-07-21T22:38:23",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Gemini_Generated_Image_nago9hnago9hnago.jpeg?w=578"
+        },
+        {
+            "title": "A ChatGPT ‘router’ that automatically selects the right OpenAI model for your job appears imminent",
+            "link": "https://venturebeat.com/ai/a-chatgpt-router-that-automatically-selects-the-right-openai-model-for-your-job-appears-imminent/",
+            "description": "Like going to the supermarket and staring at aisles of cereal and sauces, the average ChatGPT user is currently faced with an overabundance.",
+            "pubDate": "2025-07-21T22:26:57",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_a_stark_colorful_edge_abstract_minimalist_flat_illust_71b9f1e7-2d23-4132-a6c2-cff2b2fed911_3.png?w=578"
+        },
         {
             "title": "Weaving reality or warping it? The personalization trap in AI systems",
             "link": "https://venturebeat.com/ai/weaving-reality-or-warping-it-the-personalization-trap-in-ai-systems/",
             "description": "Each of our versions of reality is changing with AI. This could erode our ability to agree on basic facts or navigate shared challenges.",
             "pubDate": "2025-07-20T19:30:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/My-Truth-Weaving-Cover-Image.jpg?w=578"
-        },
-        {
-            "title": "5 key questions your developers should be asking about MCP",
-            "link": "https://venturebeat.com/ai/5-key-questions-your-developers-should-be-asking-about-mcp/",
-            "description": "It’s MCP projects in production, not specification elegance or market buzz, that will determine if MCP (or something else) stays on top.",
-            "pubDate": "2025-07-19T22:05:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_vibrant_expressionist_blocky_messy_simple_shapes_minima_63d1b56e-29a6-4cf4-a7a8-58e9fbfbe030.png?w=578"
-        },
-        {
-            "title": "New embedding model leaderboard shakeup: Google takes #1 while Alibaba’s open source alternative closes gap",
-            "link": "https://venturebeat.com/ai/new-embedding-model-leaderboard-shakeup-google-takes-1-while-alibabas-open-source-alternative-closes-gap/",
-            "description": "Google's new Gemini Embedding model now leads the MTEB benchmark. But it is facing fierce competition from closed and open source rivals.",
-            "pubDate": "2025-07-19T01:21:39",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Google-embedding-model.png?w=578"
-        },
-        {
-            "title": "How OpenAI’s red team made ChatGPT agent into an AI fortress",
-            "link": "https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/",
-            "description": "Discover OpenAI's red team blueprint: How 110 coordinated attacks and 7 exploit fixes created ChatGPT Agent's revolutionary 95% security defense syste...",
-            "pubDate": "2025-07-18T23:13:52",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/hero-image.jpg?w=578"
-        },
-        {
-            "title": "Meet AnyCoder, a new Kimi K2-powered tool for fast prototyping and deploying web apps",
-            "link": "https://venturebeat.com/programming-development/meet-anycoder-a-new-kimi-k2-powered-tool-for-fast-prototyping-and-deploying-web-apps/",
-            "description": "For novice developers or even those with expertise who want to spin up a new project fast, AnyCoder seems like a great place to start.",
-            "pubDate": "2025-07-18T23:03:25",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_corporate_memphis_flat_style_bold_line_cheerful_all_age_a8279851-2385-42e5-b764-a962c7b387f6.png?w=578"
         }
     ]
 }
