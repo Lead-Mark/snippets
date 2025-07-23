@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-23T01:19:40.635254",
+    "lastBuildDate": "2025-07-23T11:12:11.901448",
     "items": [
+        {
+            "title": "Former Anthropic exec raises $15M to insure AI agents and help startups deploy safely",
+            "link": "https://venturebeat.com/ai/former-anthropic-exec-raises-15m-to-insure-ai-agents-and-help-startups-deploy-safely/",
+            "description": "Former Anthropic executive raises $15M to launch AI insurance startup, helping enterprises safely deploy artificial intelligence agents through standa...",
+            "pubDate": "2025-07-23T16:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_AI_robot_handshake_7916a30d-d2ca-4282-a967-5239e69748d9.webp?w=578"
+        },
         {
             "title": "Mixture-of-recursions delivers 2x faster inference—Here’s how to implement it",
             "link": "https://venturebeat.com/ai/mixture-of-recursions-delivers-2x-faster-inference-heres-how-to-implement-it/",
@@ -31,13 +38,6 @@
             "description": "Researchers from Salesforce unveiled MCPEval, a new method to evaluate AI agent performance and tool use within MCP servers.",
             "pubDate": "2025-07-22T22:17:18",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
-        },
-        {
-            "title": "Alibaba’s new open source Qwen3-235B-A22B-2507 beats Kimi-2 and offers low compute version",
-            "link": "https://venturebeat.com/ai/alibabas-new-open-source-qwen3-235b-a22b-2507-beats-kimi-2-and-offers-low-compute-version/",
-            "description": "Teams can scale Qwen3’s capabilities to single-node GPU instances or local development machines, avoiding the need for massive GPU clusters.",
-            "pubDate": "2025-07-22T21:56:56",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_minimalist_blocky_and_colorful_mod_line_art_image_wides_21cee1f4-ef77-4494-a34c-32fc0f4cb1f2.png?w=578"
         }
     ]
 }

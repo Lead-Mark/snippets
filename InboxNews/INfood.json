@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-23T01:19:30.806795",
+    "lastBuildDate": "2025-07-23T11:12:00.368443",
     "items": [
+        {
+            "title": "Crunchy Cucumber and Bell Pepper Salad",
+            "link": "https://therecipecritic.com/cucumber-bell-pepper-salad/",
+            "description": "I don’t know what kind of hold cucumbers have on me lately, but I’m obsessed. This cucumber bell pepper salad…",
+            "pubDate": "2025-07-23T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/cucumber-bell-pepper-salad.jpg"
+        },
         {
             "title": "Creamiest Four Cheese Pasta",
             "link": "https://therecipecritic.com/four-cheese-pasta/",
@@ -31,13 +38,6 @@
             "description": "If dinner’s got you stumped again, this week’s meal plan will make things super easy! I’ve got you covered with…",
             "pubDate": "2025-07-18T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/Week-51-Meal-Plan-Collage-.jpg"
-        },
-        {
-            "title": "Cheesy Tater Tot Casserole",
-            "link": "https://therecipecritic.com/tater-tot-casserole/",
-            "description": "If you love shepherd’s pie, you’ve got to try this Tater Tot Casserole! It’s the ultimate lazy-girl version, with tots…",
-            "pubDate": "2025-07-15T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/07/tater-tot-casserole-3.jpg"
         },
         {
             "title": "Lemony Quinoa Kale Salad with Crispy Chickpeas",
