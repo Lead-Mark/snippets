@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-22T11:37:04.539371",
+    "lastBuildDate": "2025-07-23T01:19:40.635254",
     "items": [
         {
-            "title": "Crowdstrike’s massive cyber outage 1-year later: lessons enterprises can learn to improve security",
-            "link": "https://venturebeat.com/security/how-crowdstrikes-78-minute-outage-reshaped-enterprise-cybersecurity/",
-            "description": "The incident's legacy extends far beyond CrowdStrike. Organizations now implement staged rollouts and maintain manual override capabilities.",
-            "pubDate": "2025-07-21T23:46:41",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/OUTAGE.png?w=578"
+            "title": "Mixture-of-recursions delivers 2x faster inference—Here’s how to implement it",
+            "link": "https://venturebeat.com/ai/mixture-of-recursions-delivers-2x-faster-inference-heres-how-to-implement-it/",
+            "description": "Mixture-of-Recursions (MoR) is a new AI architecture that promises to cut LLM inference costs and memory use without sacrificing performance.",
+            "pubDate": "2025-07-23T01:05:33",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Recursive-models.png?w=578"
         },
         {
-            "title": "Google DeepMind makes AI history with gold medal win at world’s toughest math competition",
-            "link": "https://venturebeat.com/ai/google-deepmind-makes-ai-history-with-gold-medal-win-at-worlds-toughest-math-competition/",
-            "description": "Google DeepMind's Gemini AI won a gold medal at the International Mathematical Olympiad by solving complex math problems using natural language, marki...",
-            "pubDate": "2025-07-21T23:33:34",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_robot_winning_medal_5be7ef30-62b2-4f25-bd3c-9480201df4b7.webp?w=578"
+            "title": "Anthropic researchers discover the weird AI problem: Why thinking longer makes models dumber",
+            "link": "https://venturebeat.com/ai/anthropic-researchers-discover-the-weird-ai-problem-why-thinking-longer-makes-models-dumber/",
+            "description": "Anthropic research reveals AI models perform worse with extended reasoning time, challenging industry assumptions about test-time compute scaling in e...",
+            "pubDate": "2025-07-22T23:27:31",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_a_maze_the_maze_is_coming_from_a_robots_2a46ad74-9fde-4211-b1ae-0d3d92f6eefa.webp?w=578"
         },
         {
-            "title": "Chinese startup Manus challenges ChatGPT in data visualization: which should enterprises use?",
-            "link": "https://venturebeat.com/data-infrastructure/chinese-startup-manus-challenges-chatgpt-in-data-visualization-which-should-enterprises-use/",
-            "description": "While Manus handles messy data better than ChatGPT, neither tool is yet ready for boardroom-ready slides.",
-            "pubDate": "2025-07-21T22:38:23",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Gemini_Generated_Image_nago9hnago9hnago.jpeg?w=578"
+            "title": "Intuit brings agentic AI to the mid-market saving organizations 17 to 20 hours a month",
+            "link": "https://venturebeat.com/ai/intuit-brings-agentic-ai-to-the-mid-market-saving-organizations-17-to-20-hours-a-month/",
+            "description": "Intuit explains how it is solving the needs of the mid-market with a new series of agentic AI experiences.",
+            "pubDate": "2025-07-22T23:08:16",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/AI_agent_helping_companies_save_money-2.png?w=578"
         },
         {
-            "title": "A ChatGPT ‘router’ that automatically selects the right OpenAI model for your job appears imminent",
-            "link": "https://venturebeat.com/ai/a-chatgpt-router-that-automatically-selects-the-right-openai-model-for-your-job-appears-imminent/",
-            "description": "Like going to the supermarket and staring at aisles of cereal and sauces, the average ChatGPT user is currently faced with an overabundance.",
-            "pubDate": "2025-07-21T22:26:57",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_a_stark_colorful_edge_abstract_minimalist_flat_illust_71b9f1e7-2d23-4132-a6c2-cff2b2fed911_3.png?w=578"
+            "title": "Open-source MCPEval makes protocol-level agent testing plug-and-play",
+            "link": "https://venturebeat.com/ai/open-source-mcpeval-makes-protocol-level-agent-testing-plug-and-play/",
+            "description": "Researchers from Salesforce unveiled MCPEval, a new method to evaluate AI agent performance and tool use within MCP servers.",
+            "pubDate": "2025-07-22T22:17:18",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
         },
         {
-            "title": "Weaving reality or warping it? The personalization trap in AI systems",
-            "link": "https://venturebeat.com/ai/weaving-reality-or-warping-it-the-personalization-trap-in-ai-systems/",
-            "description": "Each of our versions of reality is changing with AI. This could erode our ability to agree on basic facts or navigate shared challenges.",
-            "pubDate": "2025-07-20T19:30:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/My-Truth-Weaving-Cover-Image.jpg?w=578"
+            "title": "Alibaba’s new open source Qwen3-235B-A22B-2507 beats Kimi-2 and offers low compute version",
+            "link": "https://venturebeat.com/ai/alibabas-new-open-source-qwen3-235b-a22b-2507-beats-kimi-2-and-offers-low-compute-version/",
+            "description": "Teams can scale Qwen3’s capabilities to single-node GPU instances or local development machines, avoiding the need for massive GPU clusters.",
+            "pubDate": "2025-07-22T21:56:56",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_minimalist_blocky_and_colorful_mod_line_art_image_wides_21cee1f4-ef77-4494-a34c-32fc0f4cb1f2.png?w=578"
         }
     ]
 }
