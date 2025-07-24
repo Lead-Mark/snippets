@@ -2,12 +2,33 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-23T11:12:11.901448",
+    "lastBuildDate": "2025-07-24T01:07:21.421421",
     "items": [
         {
-            "title": "Former Anthropic exec raises $15M to insure AI agents and help startups deploy safely",
+            "title": "White House plan signals “open-weight first” era—and enterprises need new guardrails",
+            "link": "https://venturebeat.com/ai/white-house-plan-signals-open-weight-first-era-and-enterprises-need-new-guardrails/",
+            "description": "Enterprises will not see immediate impact from the AI Action Plan, but it signals wider support for open-source models and evaluations.",
+            "pubDate": "2025-07-24T00:24:14",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/11/DALL·E-2024-11-26-15.37.14-An-image-symbolizing-AI-regulation-and-the-current-chaotic-state-of-oversight.-The-scene-includes-visual-elements-representing-artificial-intelligence.webp?w=578"
+        },
+        {
+            "title": "SecurityPal combines AI and experts in Nepal to speed enterprise security questionnaires by 87X or more",
+            "link": "https://venturebeat.com/security/securitypal-combines-ai-and-experts-in-nepal-to-speed-enterprise-security-questionnaires-by-87x-or-more/",
+            "description": "The Kathmandu center of excellence gives SecurityPal a cost base low enough to keep humans in the loop while staying price-competitive.",
+            "pubDate": "2025-07-23T23:41:32",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_graphic_novel_style_epic_cover_image_close_up_on_a_ru_5a524519-637a-42b2-84c6-70411fa162a3_1.png?w=578"
+        },
+        {
+            "title": "Qwen3-Coder-480B-A35B-Instruct launches and it ‘might be the best coding model yet’",
+            "link": "https://venturebeat.com/programming-development/qwen3-coder-480b-a35b-instruct-launches-and-it-might-be-the-best-coding-model-yet/",
+            "description": "Developers can define custom tools and let Qwen3-Coder dynamically invoke them during conversation or code generation tasks.",
+            "pubDate": "2025-07-23T22:49:39",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_stylish_chinese_humanoid_robot_in_sunglasses_types_on_a_73a93219-0530-4b70-b12b-bfaa0f32dcae.png?w=578"
+        },
+        {
+            "title": "Early Anthropic hire raises $15M to insure AI agents and help startups deploy safely",
             "link": "https://venturebeat.com/ai/former-anthropic-exec-raises-15m-to-insure-ai-agents-and-help-startups-deploy-safely/",
-            "description": "Former Anthropic executive raises $15M to launch AI insurance startup, helping enterprises safely deploy artificial intelligence agents through standa...",
+            "description": "Early Anthropic hire raises $15M for AIUC to insure AI agents, helping enterprises deploy artificial intelligence securely with risk coverage and safe...",
             "pubDate": "2025-07-23T16:00:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_AI_robot_handshake_7916a30d-d2ca-4282-a967-5239e69748d9.webp?w=578"
         },
@@ -17,27 +38,6 @@
             "description": "Mixture-of-Recursions (MoR) is a new AI architecture that promises to cut LLM inference costs and memory use without sacrificing performance.",
             "pubDate": "2025-07-23T01:05:33",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Recursive-models.png?w=578"
-        },
-        {
-            "title": "Anthropic researchers discover the weird AI problem: Why thinking longer makes models dumber",
-            "link": "https://venturebeat.com/ai/anthropic-researchers-discover-the-weird-ai-problem-why-thinking-longer-makes-models-dumber/",
-            "description": "Anthropic research reveals AI models perform worse with extended reasoning time, challenging industry assumptions about test-time compute scaling in e...",
-            "pubDate": "2025-07-22T23:27:31",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_a_maze_the_maze_is_coming_from_a_robots_2a46ad74-9fde-4211-b1ae-0d3d92f6eefa.webp?w=578"
-        },
-        {
-            "title": "Intuit brings agentic AI to the mid-market saving organizations 17 to 20 hours a month",
-            "link": "https://venturebeat.com/ai/intuit-brings-agentic-ai-to-the-mid-market-saving-organizations-17-to-20-hours-a-month/",
-            "description": "Intuit explains how it is solving the needs of the mid-market with a new series of agentic AI experiences.",
-            "pubDate": "2025-07-22T23:08:16",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/AI_agent_helping_companies_save_money-2.png?w=578"
-        },
-        {
-            "title": "Open-source MCPEval makes protocol-level agent testing plug-and-play",
-            "link": "https://venturebeat.com/ai/open-source-mcpeval-makes-protocol-level-agent-testing-plug-and-play/",
-            "description": "Researchers from Salesforce unveiled MCPEval, a new method to evaluate AI agent performance and tool use within MCP servers.",
-            "pubDate": "2025-07-22T22:17:18",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Vector_art_of_AI_agents_operating_on_the_blockchain_1e1e33ca-22c2-40f8-8f94-7baa503edc92.webp?w=578"
         }
     ]
 }
