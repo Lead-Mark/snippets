@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-24T14:58:21.222212",
+    "lastBuildDate": "2025-07-25T00:32:32.263723",
     "items": [
+        {
+            "title": "Anthropic unveils ‘auditing agents’ to test for AI misalignment",
+            "link": "https://venturebeat.com/ai/anthropic-unveils-auditing-agents-to-test-for-ai-misalignment/",
+            "description": "Anthropic developed its auditing agents while testing Claude Opus 4 for alignment issues.",
+            "pubDate": "2025-07-24T23:15:53",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/03/DALL·E-2025-03-11-09.55.49-A-sleek-minimalist-digital-illustration-representing-Anthropics-AI-coding-agent-Claude.-The-design-features-a-glowing-circuit-in-the-shape-of-a-sty.webp?w=578"
+        },
+        {
+            "title": "Freed says 20,000 clinicians are using its medical AI transcription ‘scribe,’ but competition is rising fast",
+            "link": "https://venturebeat.com/ai/freed-says-20000-clinicians-are-using-its-medical-ai-transcription-scribe-but-competition-is-rising-fast/",
+            "description": "Rather than chase enterprise contracts with large hospital systems, Freed has focused on small clinics and solo practitioners.",
+            "pubDate": "2025-07-24T22:46:29",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_minimalist_mod_line_art_flat_illustration_a_giant_hum_737a601a-8411-4dbc-8ce7-f26acff42aaf_2.png?w=578"
+        },
         {
             "title": "White House plan signals “open-weight first” era—and enterprises need new guardrails",
             "link": "https://venturebeat.com/ai/white-house-plan-signals-open-weight-first-era-and-enterprises-need-new-guardrails/",
@@ -24,20 +38,6 @@
             "description": "Developers can define custom tools and let Qwen3-Coder dynamically invoke them during conversation or code generation tasks.",
             "pubDate": "2025-07-23T22:49:39",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_stylish_chinese_humanoid_robot_in_sunglasses_types_on_a_73a93219-0530-4b70-b12b-bfaa0f32dcae.png?w=578"
-        },
-        {
-            "title": "Early Anthropic hire raises $15M to insure AI agents and help startups deploy safely",
-            "link": "https://venturebeat.com/ai/former-anthropic-exec-raises-15m-to-insure-ai-agents-and-help-startups-deploy-safely/",
-            "description": "Early Anthropic hire raises $15M for AIUC to insure AI agents, helping enterprises deploy artificial intelligence securely with risk coverage and safe...",
-            "pubDate": "2025-07-23T16:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_AI_robot_handshake_7916a30d-d2ca-4282-a967-5239e69748d9.webp?w=578"
-        },
-        {
-            "title": "Mixture-of-recursions delivers 2x faster inference—Here’s how to implement it",
-            "link": "https://venturebeat.com/ai/mixture-of-recursions-delivers-2x-faster-inference-heres-how-to-implement-it/",
-            "description": "Mixture-of-Recursions (MoR) is a new AI architecture that promises to cut LLM inference costs and memory use without sacrificing performance.",
-            "pubDate": "2025-07-23T01:05:33",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Recursive-models.png?w=578"
         }
     ]
 }
