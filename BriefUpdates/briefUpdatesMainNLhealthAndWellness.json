@@ -2,8 +2,29 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-25T15:25:34.567851",
+    "lastBuildDate": "2025-07-26T00:13:21.130322",
     "items": [
+        {
+            "title": "How to Tell If Your Body’s Aging Faster Than Normal",
+            "link": "https://www.webmd.com/healthy-aging/ss/slideshow-body-aging-faster",
+            "description": "",
+            "pubDate": "2025-07-26T01:12:16",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/skin_cancer_bigbead/1800x1200_skin_cancer_bigbead.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Is It Your Gallbladder? Warning Signs to Watch For",
+            "link": "https://www.webmd.com/digestive-disorders/ss/slideshow-gallbladder-overview",
+            "description": "Gallbladder issues don’t always cause pain, and your diet may play a role. Learn who’s most at risk, how to spot subtle symptoms, and ways to prevent ...",
+            "pubDate": "2025-07-26T01:12:16",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/SEEDs/1800x1200-iud-side-effects-seed.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Are You Getting Enough Sleep Each Night?",
+            "link": "https://www.webmd.com/sleep-disorders/sleep-requirements",
+            "description": "",
+            "pubDate": "2025-07-26T01:12:16",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/how_nighttime_habits_affect_daytime_health_slideshow/1800ss_getty_rf_using_smartphone_in_bed.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "FDA Approves First Cream for Treating Chronic Hand Eczema",
             "link": "https://www.physiciansweekly.com/fda-approves-first-cream-for-treating-chronic-hand-eczema/",
@@ -19,13 +40,6 @@
             "image_url": "https://cdn.physiciansweekly.com/wp-content/uploads/2024/06/HEALTHDAY_Web_small3.png"
         },
         {
-            "title": "Are You Getting Enough Sleep Each Night?",
-            "link": "https://www.webmd.com/sleep-disorders/sleep-requirements",
-            "description": "",
-            "pubDate": "2025-07-25T16:05:16",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/how_nighttime_habits_affect_daytime_health_slideshow/1800ss_getty_rf_using_smartphone_in_bed.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "Increased rates of unmet social needs observed shortly following a diagnosis of dementia",
             "link": "https://www.2minutemedicine.com/increased-rates-of-unmet-social-needs-observed-shortly-following-a-diagnosis-of-dementia/",
             "description": "Discontinuity of social support among US adults with cognitive impairment before and after the confirmed diagnosis of dementia: a matched ambidirectio...",
@@ -33,102 +47,46 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/frailty-walker-elderly-300x150.jpeg"
         },
         {
-            "title": "Is It Your Gallbladder? Warning Signs to Watch For",
-            "link": "https://www.webmd.com/digestive-disorders/ss/slideshow-gallbladder-overview",
-            "description": "Gallbladder issues don’t always cause pain, and your diet may play a role. Learn who’s most at risk, how to spot subtle symptoms, and ways to prevent ...",
-            "pubDate": "2025-07-25T16:05:16",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/SEEDs/1800x1200-iud-side-effects-seed.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "How to Tell If Your Body’s Aging Faster Than Normal",
-            "link": "https://www.webmd.com/healthy-aging/ss/slideshow-body-aging-faster",
-            "description": "",
-            "pubDate": "2025-07-25T16:05:16",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/skin_cancer_bigbead/1800x1200_skin_cancer_bigbead.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Watch: What Are Medicaid Work Requirements?",
-            "link": "https://www.physiciansweekly.com/watch-what-are-medicaid-work-requirements/",
-            "description": "President Donald Trump signed legislation that mandates some Medicaid recipients prove they’re working, volunteering, or completing other qualifying a...",
-            "pubDate": "2025-07-25T11:30:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Keurig K-Cups recalled due to potential ink contamination",
-            "link": "https://medicalxpress.com/news/2025-07-keurig-cups-recalled-due-potential.html",
-            "description": "Keurig K-Cups are being recalled nationwide due to a packaging issue that could cause ink to run into the coffee during brewing.",
-            "pubDate": "2025-07-25T17:30:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
             "title": "EMA Launches Review of Tecovirimat Effectiveness for Mpox",
             "link": "https://www.medscape.com/viewarticle/ema-launches-review-tecovirimat-effectiveness-mpox-2025a1000jr5?src=rss",
             "description": "Preliminary data from clinical trials of tecovirimat as a treatment for mpox virus infection have given disappointing results, prompting an EMA review...",
             "pubDate": "2025-07-25T16:25:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Could Direct Primary Care’s Popularity Be on the Rise?",
+            "link": "https://www.medscape.com/s/viewarticle/could-direct-primary-cares-popularity-be-rise-2025a1000jqn?src=rss",
+            "description": "Patient accessibility to Direct Primary Care could mean a boost for them, while hurting others. See why this change is a possibility and what this cou...",
+            "pubDate": "2025-07-25T21:25:37",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Nursing Course Applications Hit Record Low, UCAS Reveals",
-            "link": "https://www.medscape.com/viewarticle/nursing-course-applications-hit-record-low-ucas-reveals-2025a1000jqj?src=rss",
-            "description": "Nursing course applications in the UK have fallen 30% since 2021, prompting urgent calls for action to prevent further NHS workforce shortages. Medsca...",
-            "pubDate": "2025-07-25T15:47:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "KFF Health News’ ‘What the Health?’: Here Come the ACA Premium Hikes",
-            "link": "https://www.physiciansweekly.com/kff-health-news-what-the-health-here-come-the-aca-premium-hikes/",
-            "description": "The Host Julie Rovner KFF Health News @jrovner @julierovner.bsky.social Read Julie’s stories. Julie Rovner is chief Washington correspondent and host ...",
-            "pubDate": "2025-07-25T11:30:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Southern China hit by outbreak of mosquito-borne infection chikungunya",
             "link": "https://medicalxpress.com/news/2025-07-southern-china-outbreak-mosquito-borne.html",
             "description": "China is experiencing an outbreak of chikungunya, a mosquito-borne infection, with thousands of cases reported in the south.",
             "pubDate": "2025-07-25T17:12:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "EMA Recommends Aqneursa for Niemann-Pick Type C Disease",
-            "link": "https://www.medscape.com/viewarticle/ema-recommends-aqneursa-niemann-pick-type-c-disease-2025a1000jqr?src=rss",
-            "description": "The drug treats the neurologic manifestations of the condition in adults and children. Medscape Medical News",
-            "pubDate": "2025-07-25T15:40:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "KFF Health News’ ‘What the Health?’: Here Come the ACA Premium Hikes",
+            "link": "https://www.physiciansweekly.com/kff-health-news-what-the-health-here-come-the-aca-premium-hikes/",
+            "description": "The Host Julie Rovner KFF Health News @jrovner @julierovner.bsky.social Read Julie’s stories. Julie Rovner is chief Washington correspondent and host ...",
+            "pubDate": "2025-07-25T11:30:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "EMA Says No to Duchenne Gene Therapy Elevidys",
-            "link": "https://www.medscape.com/viewarticle/ema-says-no-duchenne-gene-therapyelevidys-2025a1000jqs?src=rss",
-            "description": "The European drug authority recommends refusal of marketing authorization after study shows no benefit over placebo. Medscape Medical News",
-            "pubDate": "2025-07-25T15:52:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "The case for a standard pre-med major in U.S. universities",
+            "link": "https://kevinmd.com/2025/07/the-case-for-a-standard-pre-med-major-in-u-s-universities.html",
+            "description": "Throughout my academic career I learned that medicine can be pursued through any major. Although the traditional path is through biology, as long as t...",
+            "pubDate": "2025-07-25T20:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Suboptimal dialysis initiation common in patients with advanced CKD",
             "link": "https://medicalxpress.com/news/2025-07-suboptimal-dialysis-common-patients-advanced.html",
             "description": "Suboptimal dialysis initiation, typically defined as dialysis initiation during a hospitalization and/or with a central venous catheter, is common amo...",
             "pubDate": "2025-07-25T17:50:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Kinshasa slum battles deadly cholera outbreak",
-            "link": "https://medicalxpress.com/news/2025-07-kinshasa-slum-deadly-cholera-outbreak.html",
-            "description": "Faced with a lack of running water, unsanitary conditions and poverty, the Kinshasa neighborhood of Pakadjuma has struggled to end a cholera epidemic ...",
-            "pubDate": "2025-07-25T17:20:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Ritz update: FDA issues risk warning due to undeclared peanuts in some cracker sandwiches",
-            "link": "https://medicalxpress.com/news/2025-07-ritz-fda-issues-due-undeclared.html",
-            "description": "Ritz peanut butter cracker sandwiches are being recalled due to the possible presence of undeclared peanuts, a major allergen.",
-            "pubDate": "2025-07-25T17:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "EMA OKs Oral Treatment for Postnatal Depression",
-            "link": "https://www.medscape.com/viewarticle/ema-oks-oral-treatment-postnatal-depression-2025a1000jr6?src=rss",
-            "description": "The pill can reduce symptoms within 2 weeks' treatment. Medscape Medical News",
-            "pubDate": "2025-07-25T16:42:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Tribal Health Officials Work To Fill Vaccination Gaps as Measles Outbreak Spreads",
@@ -138,11 +96,88 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
+            "title": "Watch: What Are Medicaid Work Requirements?",
+            "link": "https://www.physiciansweekly.com/watch-what-are-medicaid-work-requirements/",
+            "description": "President Donald Trump signed legislation that mandates some Medicaid recipients prove they’re working, volunteering, or completing other qualifying a...",
+            "pubDate": "2025-07-25T11:30:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Why patients and doctors are fleeing flagship hospitals",
+            "link": "https://kevinmd.com/2025/07/why-patients-and-doctors-are-fleeing-flagship-hospitals.html",
+            "description": "In the once-venerable corridors of our state’s flagship academic hospital, a slow-motion disaster is unfolding. White patients — yes, white patients, ...",
+            "pubDate": "2025-07-25T16:00:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Kinshasa slum battles deadly cholera outbreak",
+            "link": "https://medicalxpress.com/news/2025-07-kinshasa-slum-deadly-cholera-outbreak.html",
+            "description": "Faced with a lack of running water, unsanitary conditions and poverty, the Kinshasa neighborhood of Pakadjuma has struggled to end a cholera epidemic ...",
+            "pubDate": "2025-07-25T17:20:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "EMA Says No to Duchenne Gene Therapy Elevidys",
+            "link": "https://www.medscape.com/viewarticle/ema-says-no-duchenne-gene-therapyelevidys-2025a1000jqs?src=rss",
+            "description": "The European drug authority recommends refusal of marketing authorization after study shows no benefit over placebo. Medscape Medical News",
+            "pubDate": "2025-07-25T15:52:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Nursing Course Applications Hit Record Low, UCAS Reveals",
+            "link": "https://www.medscape.com/viewarticle/nursing-course-applications-hit-record-low-ucas-reveals-2025a1000jqj?src=rss",
+            "description": "Nursing course applications in the UK have fallen 30% since 2021, prompting urgent calls for action to prevent further NHS workforce shortages. Medsca...",
+            "pubDate": "2025-07-25T15:47:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
             "title": "Confronting the return of measles and vaccine misinformation [PODCAST]",
             "link": "https://kevinmd.com/2025/07/confronting-the-return-of-measles-and-vaccine-misinformation-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Infectious disease physician Janet A. Jokela discusses her article, “...",
             "pubDate": "2025-07-25T00:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "EMA OKs Oral Treatment for Postnatal Depression",
+            "link": "https://www.medscape.com/viewarticle/ema-oks-oral-treatment-postnatal-depression-2025a1000jr6?src=rss",
+            "description": "The pill can reduce symptoms within 2 weeks' treatment. Medscape Medical News",
+            "pubDate": "2025-07-25T16:42:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Ritz update: FDA issues risk warning due to undeclared peanuts in some cracker sandwiches",
+            "link": "https://medicalxpress.com/news/2025-07-ritz-fda-issues-due-undeclared.html",
+            "description": "Ritz peanut butter cracker sandwiches are being recalled due to the possible presence of undeclared peanuts, a major allergen.",
+            "pubDate": "2025-07-25T17:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "A physician employment agreement term that often tricks physicians",
+            "link": "https://kevinmd.com/2025/07/a-physician-employment-agreement-term-that-often-tricks-physicians.html",
+            "description": "Lately, I have seen a few instances where physicians have been tricked by a term in their physician employment agreement that clearly does not mean wh...",
+            "pubDate": "2025-07-25T18:00:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "The hidden reason your vacations never feel like enough",
+            "link": "https://kevinmd.com/2025/07/the-hidden-reason-your-vacations-never-feel-like-enough.html",
+            "description": "I’ve taken some amazing vacations. Seriously—scenic, memorable, cool stuff. Travel has always been a top financial priority for me. It felt like one o...",
+            "pubDate": "2025-07-25T12:00:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Keurig K-Cups recalled due to potential ink contamination",
+            "link": "https://medicalxpress.com/news/2025-07-keurig-cups-recalled-due-potential.html",
+            "description": "Keurig K-Cups are being recalled nationwide due to a packaging issue that could cause ink to run into the coffee during brewing.",
+            "pubDate": "2025-07-25T17:30:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Bedtime dosing of antihypertensive medications may provide improved outcomes over morning dosing",
+            "link": "https://www.2minutemedicine.com/bedtime-dosing-of-antihypertensive-medications-may-provide-improved-outcomes-over-morning-dosing/",
+            "description": "1. Bedtime dosing of antihypertensive medication provided better control of nocturnal BP and improved the circadian rhythm compared to morning dosing....",
+            "pubDate": "2025-07-24T16:00:49",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/09/pills-PD-300x150.jpg"
         },
         {
             "title": "Fetal cerebrovascular response to maternal hyperoxia testing may help predict neurodevelopmental outcomes",
@@ -159,46 +194,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/12/chemotherapy-300x150.jpg"
         },
         {
-            "title": "Bedtime dosing of antihypertensive medications may provide improved outcomes over morning dosing",
-            "link": "https://www.2minutemedicine.com/bedtime-dosing-of-antihypertensive-medications-may-provide-improved-outcomes-over-morning-dosing/",
-            "description": "1. Bedtime dosing of antihypertensive medication provided better control of nocturnal BP and improved the circadian rhythm compared to morning dosing....",
-            "pubDate": "2025-07-24T16:00:49",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/09/pills-PD-300x150.jpg"
-        },
-        {
-            "title": "How doctors can turn criticism into collaboration",
-            "link": "https://kevinmd.com/2025/07/how-doctors-can-turn-criticism-into-collaboration.html",
-            "description": "You’re in the OR. A colleague, maybe a resident, suggests a different approach. You’ve already considered it. Or maybe it’s not a great suggestion. Ei...",
-            "pubDate": "2025-07-24T18:00:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Institutional reporting systems discourage clinical honesty",
-            "link": "https://kevinmd.com/2025/07/institutional-reporting-systems-discourage-clinical-honesty.html",
-            "description": "A few years ago, I said something in a meeting that made the air go still. “People don’t actually feel safe filing ‘safe’ reports.” I said it to a roo...",
-            "pubDate": "2025-07-24T20:00:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Building trust in dyad leadership partnerships",
-            "link": "https://kevinmd.com/2025/07/building-trust-in-dyad-leadership-partnerships.html",
-            "description": "What’s a dyad and how do I fit into it? What do I do? These are the questions every new health care leader asks themselves, as I did, when they first ...",
-            "pubDate": "2025-07-24T16:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
             "title": "#VisualAbstract: 3-Year Structured Exercise after Adjuvant Chemotherapy Improved Survival for Colon Cancer",
             "link": "https://www.2minutemedicine.com/visualabstract-3-year-structured-exercise-after-adjuvant-chemotherapy-improved-survival-for-colon-cancer/",
             "description": "Click here to read this study in NEJM. ©2025 2 Minute Medicine, Inc. All rights reserved. No works may be reproduced without expressed written consent...",
             "pubDate": "2025-07-24T15:00:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "The hidden moral injury behind value-based health care",
-            "link": "https://kevinmd.com/2025/07/the-hidden-moral-injury-behind-value-based-health-care.html",
-            "description": "She works for a not-for-profit health system, but nothing about what she described to me felt charitable. A young physician, just a few years into her...",
-            "pubDate": "2025-07-24T14:00:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
