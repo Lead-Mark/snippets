@@ -2,8 +2,22 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-26T00:15:50.318960",
+    "lastBuildDate": "2025-07-27T02:29:01.391582",
     "items": [
+        {
+            "title": "MIT vision system teaches robots to understand their bodies",
+            "link": "https://www.therobotreport.com/mit-vision-system-teaches-robots-to-understand-their-bodies/",
+            "description": "MIT CSAIL researchers said Neural Jacobian Fields can learn to control any robot from a single camera, without any other sensors. The post MIT vision ...",
+            "pubDate": "2025-07-26T14:30:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/njf-mit-csail-00_1.jpg"
+        },
+        {
+            "title": "Swift Navigation raises $50M to bring centimeter-level positioning to robotics",
+            "link": "https://www.therobotreport.com/swift-navigation-raises-50m-brings-centimeter-level-positioning-robotics/",
+            "description": "With this Series E funding, Swift Navigation said it will drive adoption in and beyond ADAS, autonomy, robotics, and precision logistics. The post Swi...",
+            "pubDate": "2025-07-26T13:30:19",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/swiftnavigation-featured.jpg"
+        },
         {
             "title": "Indy Autonomous Challenge makes self-driving racing history at Laguna Seca",
             "link": "https://www.therobotreport.com/indy-autonomous-challenge-makes-autonomous-driving-history-laguna-seca/",
@@ -24,20 +38,6 @@
             "description": "The new company will focus on developing a novel robotic system for gastrointestinal patient care. The companies will jointly invest up to $458 millio...",
             "pubDate": "2025-07-25T17:56:33",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/Olympus-venture-Swan-EndoSurgical-endoluminal-robotics-logo-768x499-1.jpg"
-        },
-        {
-            "title": "RoboBusiness announces 2025 agenda",
-            "link": "https://www.therobotreport.com/robobusiness-announces-2025-agenda/",
-            "description": "RoboBusiness will explore physical AI, humanoids, and other emerging technologies and applications driving the robotics industry. The post RoboBusines...",
-            "pubDate": "2025-07-25T17:04:28",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/1752847520440.jpg"
-        },
-        {
-            "title": "EngineAI raises nearly $140M to develop legged, humanoid robots",
-            "link": "https://www.therobotreport.com/engineai-raises-nearly-140m-developing-legged-humanoid-robots/",
-            "description": "EngineAI has raised pre-A++ and A1 funding to further develop its humanoid robots and bring them to a competitive market. The post EngineAI raises nea...",
-            "pubDate": "2025-07-25T15:40:49",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/EngineAI.jpg"
         }
     ]
 }
