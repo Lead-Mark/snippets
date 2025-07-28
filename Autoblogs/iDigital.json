@@ -2,42 +2,56 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-28T06:54:50.928097",
+    "lastBuildDate": "2025-07-28T11:12:04.891318",
     "items": [
+        {
+            "title": "How E2B became essential to 88% of Fortune 100 companies and raised $21 million",
+            "link": "https://venturebeat.com/ai/how-e2b-became-essential-to-88-of-fortune-100-companies-and-raised-21-million/",
+            "description": "AI infrastructure startup E2B secures $21 million funding with 88% Fortune 100 adoption rate, powering secure AI agent deployments at scale.",
+            "pubDate": "2025-07-28T14:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_a_server_rack_in_the_clouds_bf8ba787-9002-494b-b6be-fedd40deb4f9.webp?w=578"
+        },
+        {
+            "title": "Nike’s stock jumps after an analyst says ‘just buy it’ ahead of soccer World Cup",
+            "link": "https://www.marketwatch.com/story/nikes-stock-jumps-after-an-analyst-says-just-buy-it-ahead-of-soccer-world-cup-5e6cd3ea?mod=mw_rss_topstories",
+            "description": "Nike’s stock extends its recent surge after J.P. Morgan upgraded it to overweight from neutral.",
+            "pubDate": "2025-07-28T15:09:00",
+            "image_url": "https://images.mktw.net/im-05225143"
+        },
+        {
+            "title": "How Opendoor’s meme-stock rally helped fix a listing-requirement problem, for now",
+            "link": "https://www.marketwatch.com/story/how-opendoors-meme-stock-rally-helped-fix-a-listing-requirement-problem-for-now-b4c9fe27?mod=mw_rss_topstories",
+            "description": "Opendoor wants more time “to assess market conditions and the Company’s stock price.”",
+            "pubDate": "2025-07-28T14:09:00",
+            "image_url": "https://images.mktw.net/im-768804"
+        },
+        {
+            "title": "‘Vegas is not fun anymore’: $9 cups of coffee and pricier rooms are steering travelers away from the vacation mecca",
+            "link": "https://www.marketwatch.com/story/vegas-is-not-fun-anymore-9-cups-of-coffee-and-pricier-rooms-are-steering-travelers-away-from-the-vacation-mecca-fc01db0d?mod=mw_rss_topstories",
+            "description": "Las Vegas has become pricier by many measures, though local officials point to a decline in international travel as the key reason for a recent touris...",
+            "pubDate": "2025-07-28T14:08:00",
+            "image_url": "https://images.mktw.net/im-16465712"
+        },
+        {
+            "title": "Citi’s new Strata Elite credit card has a $595 annual fee. Here’s how its perks stack up against the competition.",
+            "link": "https://www.marketwatch.com/story/citis-new-strata-elite-credit-card-has-a-595-annual-fee-heres-how-its-perks-stack-up-against-the-competition-4298975a?mod=mw_rss_topstories",
+            "description": "Rising annual fees and excessive statement credits have led to some fatigue in the premium credit-card market — but consumer demand persists.",
+            "pubDate": "2025-07-28T14:47:00",
+            "image_url": "https://images.mktw.net/im-60394515"
+        },
+        {
+            "title": "The Download: how China’s universities approach AI, and the pitfalls of welfare algorithms",
+            "link": "https://www.technologyreview.com/2025/07/28/1120752/the-download-how-chinas-universities-approach-ai-and-the-pitfalls-of-welfare-algorithms/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Chinese univ...",
+            "pubDate": "2025-07-28T13:10:00",
+            "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxYEVRxlNSGclUYHWCvjvjkgPS-GRiMzXer87xD8duNgA42jNCJW1sKC9f5WxDJgvPvDipoJ5OLDGDuJ7wCRUelL2hd3Hi2Ag0A8y2z-CBiPXvp43MjeO951oxDUErLsnZXnwqqg?key=n-IUVzj99KwM7vFqoiOYmg"
+        },
         {
             "title": "S&P 500 now more likely to reach 7,200 next year, according to Morgan Stanley’s Wilson",
             "link": "https://www.marketwatch.com/story/s-p-500-now-more-likely-to-reach-7-200-next-year-according-to-morgan-stanleys-wilson-8553ce2d?mod=mw_rss_topstories",
             "description": "Better earnings and a steadily high multiple should boost stocks, says Morgan Stanley.",
-            "pubDate": "2025-07-28T11:41:00",
+            "pubDate": "2025-07-28T14:31:00",
             "image_url": "https://images.mktw.net/im-89610065"
-        },
-        {
-            "title": "‘His income is limited’: Should I pay $800 a month towards my husband’s $67,000 student debt?",
-            "link": "https://www.marketwatch.com/story/his-income-is-limited-should-i-pay-800-a-month-towards-my-husbands-67-000-student-debt-151113cc?mod=mw_rss_topstories",
-            "description": "“I have stopped short of paying for his business, his car payment and health insurance.”",
-            "pubDate": "2025-07-28T11:03:00",
-            "image_url": "https://images.mktw.net/im-91422854"
-        },
-        {
-            "title": "This researcher finds eerie parallels between now and the pullback of 1998",
-            "link": "https://www.marketwatch.com/story/this-researcher-finds-eerie-parallels-between-now-and-the-pullback-of-1998-ffa0f0e9?mod=mw_rss_topstories",
-            "description": "Citrini Research warns of market similarities between now and 1998, when markets saw a summer swoon.",
-            "pubDate": "2025-07-28T11:37:00",
-            "image_url": "https://images.mktw.net/im-71725725"
-        },
-        {
-            "title": "Powell faces his most pivotal test yet: Trump pressure, Fed dissent and a sky-high stock market",
-            "link": "https://www.marketwatch.com/story/powell-faces-his-most-pivotal-test-yet-trump-pressure-fed-dissent-and-a-sky-high-stock-market-2ae5a93f?mod=mw_rss_topstories",
-            "description": "But this week all eyes will be on Powell as he holds a solo press conference Wednesday that will be must-watch TV amid the political drama.",
-            "pubDate": "2025-07-28T11:00:00",
-            "image_url": "https://images.mktw.net/im-37198345"
-        },
-        {
-            "title": "‘I have Type 1 diabetes’: I’m 64 with a $1.3 million 401(k). Is it too late for long-term-care insurance?",
-            "link": "https://www.marketwatch.com/story/i-have-type-1-diabetes-im-64-with-a-1-3-million-401-k-is-it-too-late-for-long-term-care-insurance-15c4555a?mod=mw_rss_topstories",
-            "description": "“‘I am married, live in Texas and have no debt other than a mortgage of about $2,200 a month.”",
-            "pubDate": "2025-07-28T11:21:00",
-            "image_url": "https://images.mktw.net/im-03091977"
         },
         {
             "title": "Chinese universities want students to use more AI, not less",
@@ -47,13 +61,6 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "When progress doesn’t feel like home: Why many are hesitant to join the AI migration",
-            "link": "https://venturebeat.com/ai/when-progress-doesnt-feel-like-home-why-many-are-hesitant-to-join-the-ai-migration/",
-            "description": "What happens if the AI migration accelerates and sizable portions of the workforce are slow to move out of fear, resistance or inability?",
-            "pubDate": "2025-07-27T21:15:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Wagon-Cover-Image.jpg?w=578"
-        },
-        {
             "title": "Dusty Robotics adopts Hexagon’s Leica AT500 laser tracker",
             "link": "https://www.therobotreport.com/dusty-robotics-adopts-hexagons-leica-at500-laser-tracker/",
             "description": "When paired with the Dusty FieldPrinter 2, the AT500 improves setup speed and usability while supporting Dusty’s 1/16″ accuracy standard for applicati...",
@@ -61,11 +68,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ROBO25_RegOpen-2_728x90_Vs1.jpg"
         },
         {
-            "title": "Meta announces its Superintelligence Labs Chief Scientist: former OpenAI GPT-4 co-creator Shengjia Zhao",
-            "link": "https://venturebeat.com/ai/meta-announces-its-superintelligence-labs-chief-scientist-former-openai-gpt-4-co-creator-shengjia-zhao/",
-            "description": "The move underscores Meta’s strategy of spending aggressively now to secure a dominant position in what it views as the next foundational technology p...",
-            "pubDate": "2025-07-26T01:58:24",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/zuck-superintel.png?w=578"
+            "title": "When progress doesn’t feel like home: Why many are hesitant to join the AI migration",
+            "link": "https://venturebeat.com/ai/when-progress-doesnt-feel-like-home-why-many-are-hesitant-to-join-the-ai-migration/",
+            "description": "What happens if the AI migration accelerates and sizable portions of the workforce are slow to move out of fear, resistance or inability?",
+            "pubDate": "2025-07-27T21:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Wagon-Cover-Image.jpg?w=578"
         },
         {
             "title": "Why AI is making us lose our minds (and not in the way you’d think)",
@@ -75,13 +82,6 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Losing-our-minds.webp?w=578"
         },
         {
-            "title": "Swift Navigation raises $50M to bring centimeter-level positioning to robotics",
-            "link": "https://www.therobotreport.com/swift-navigation-raises-50m-brings-centimeter-level-positioning-robotics/",
-            "description": "With this Series E funding, Swift Navigation said it will drive adoption in and beyond ADAS, autonomy, robotics, and precision logistics. The post Swi...",
-            "pubDate": "2025-07-26T13:30:19",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/swiftnavigation-featured.jpg"
-        },
-        {
             "title": "New AI architecture delivers 100x faster reasoning than LLMs with just 1,000 training examples",
             "link": "https://venturebeat.com/ai/new-ai-architecture-delivers-100x-faster-reasoning-than-llms-with-just-1000-training-examples/",
             "description": "Hierarchical Reasoning Models (HRM) tackle complex reasoning tasks while being smaller, faster, and more data-efficient than large AI models.",
@@ -89,18 +89,25 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/nuneybits_Vector_art_of_a_human_brain_rendered_in_a_semi-transp_907d536c-6a14-4c28-8c81-3d144ea0de3e.webp?w=578"
         },
         {
+            "title": "Swift Navigation raises $50M to bring centimeter-level positioning to robotics",
+            "link": "https://www.therobotreport.com/swift-navigation-raises-50m-brings-centimeter-level-positioning-robotics/",
+            "description": "With this Series E funding, Swift Navigation said it will drive adoption in and beyond ADAS, autonomy, robotics, and precision logistics. The post Swi...",
+            "pubDate": "2025-07-26T13:30:19",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/swiftnavigation-featured.jpg"
+        },
+        {
+            "title": "Meta announces its Superintelligence Labs Chief Scientist: former OpenAI GPT-4 co-creator Shengjia Zhao",
+            "link": "https://venturebeat.com/ai/meta-announces-its-superintelligence-labs-chief-scientist-former-openai-gpt-4-co-creator-shengjia-zhao/",
+            "description": "The move underscores Meta’s strategy of spending aggressively now to secure a dominant position in what it views as the next foundational technology p...",
+            "pubDate": "2025-07-26T01:58:24",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/zuck-superintel.png?w=578"
+        },
+        {
             "title": "MIT vision system teaches robots to understand their bodies",
             "link": "https://www.therobotreport.com/mit-vision-system-teaches-robots-to-understand-their-bodies/",
             "description": "MIT CSAIL researchers said Neural Jacobian Fields can learn to control any robot from a single camera, without any other sensors. The post MIT vision ...",
             "pubDate": "2025-07-26T14:30:39",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/njf-mit-csail-00_1.jpg"
-        },
-        {
-            "title": "CoSyn: The open-source tool that’s making GPT-4V-level vision AI accessible to everyone",
-            "link": "https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-level-vision-ai-accessible-to-everyone/",
-            "description": "Researchers at the University of Pennsylvania and the Allen Institute for Artificial Intelligence have developed a groundbreaking tool that allows ope...",
-            "pubDate": "2025-07-25T21:05:12",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_code_transforming_into_charts_59f77a3a-1e34-46a1-9728-e7fcdccd40c5.webp?w=578"
         },
         {
             "title": "Foxglove includes audio support in latest platform update",
@@ -124,13 +131,6 @@
             "image_url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8WgWYLHKQ7S370dtf-eUXhCIYKjNleAiLGjEopFwpTTdnXXLokD08I1-z-W-xQ5Fe8kWYLDerosYD1RpNQ7ycp7OLTkO3KtDGU-3D4ZMYt2G95tXrgqFZt1Q5UwLRfy-BYBNKBQ?key=zWqSfelMFyoEf7NXjfwNVg"
         },
         {
-            "title": "How nonprofits and academia are stepping up to salvage US climate programs",
-            "link": "https://www.technologyreview.com/2025/07/25/1120636/how-nonprofits-and-academia-are-stepping-up-to-salvage-us-climate-programs/",
-            "description": "Nonprofits are striving to preserve a US effort to modernize greenhouse-gas measurements, amid growing fears that the Trump administration’s dismantli...",
-            "pubDate": "2025-07-25T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
             "title": "The deadly saga of the controversial gene therapy Elevidys",
             "link": "https://www.technologyreview.com/2025/07/25/1120621/deadly-saga-controversial-gene-therapy-elevidys/",
             "description": "It has been a grim few months for the Duchenne muscular dystrophy (DMD) community. There had been some excitement when, a couple of years ago, a gene ...",
@@ -138,11 +138,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Trump’s AI Action Plan is a distraction",
-            "link": "https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/",
-            "description": "On Wednesday, President Trump issued three executive orders, delivered a speech, and released an action plan, all on the topic of continuing American ...",
-            "pubDate": "2025-07-24T21:15:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "How nonprofits and academia are stepping up to salvage US climate programs",
+            "link": "https://www.technologyreview.com/2025/07/25/1120636/how-nonprofits-and-academia-are-stepping-up-to-salvage-us-climate-programs/",
+            "description": "Nonprofits are striving to preserve a US effort to modernize greenhouse-gas measurements, amid growing fears that the Trump administration’s dismantli...",
+            "pubDate": "2025-07-25T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -152,18 +152,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
