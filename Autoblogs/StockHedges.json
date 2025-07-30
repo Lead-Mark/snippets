@@ -2,56 +2,63 @@
     "title": "StockHedges",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from StockHedges, skipping any feeds with errors.",
-    "lastBuildDate": "2025-07-30T01:16:16.860601",
+    "lastBuildDate": "2025-07-30T10:31:27.386140",
     "items": [
         {
-            "title": "Fiserv Stock Gets Pummeled After Earnings - Looks Cheap Here",
-            "link": "https://finance.yahoo.com/news/fiserv-stock-gets-pummeled-earnings-182637699.html",
+            "title": "Fed Meeting To Weigh Firmer Inflation, Jobs Data; S&P 500 Edges Higher (Live Coverage)",
+            "link": "https://www.investors.com/news/economy/federal-reserve-meeting-fed-chair-powell-gdp-jobs-data-sp-500/?src=A00220&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-07-28T19:26:37",
-            "image_url": "https://media.zenfs.com/en/barchart_com_477/d14e96d9cb23af1418da1d257e8299c0"
+            "pubDate": "2025-07-30T15:18:36",
+            "image_url": "https://media.zenfs.com/en/ibd.com/9d21f31c9821dd720c381e19a630f19e"
         },
         {
-            "title": "Dear Microsoft Stock Fans, Mark Your Calendars for Aug. 1",
-            "link": "https://finance.yahoo.com/news/dear-microsoft-stock-fans-mark-183317374.html",
+            "title": "Kosmos Energy Ltd. (KOS) Fell Due to Market Concerns Amid OPEC+ Supply and Demand Fears",
+            "link": "https://finance.yahoo.com/news/kosmos-energy-ltd-kos-fell-141559098.html",
             "description": "",
-            "pubDate": "2025-07-28T19:33:17",
-            "image_url": "https://media.zenfs.com/en/barchart_com_477/91294aaacdd7339f5d87cfb430fbeba2"
+            "pubDate": "2025-07-30T15:15:59",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/512e69de365d39f2d443369197d77cc8"
         },
         {
-            "title": "Your credit score could go through a big change this fall — but that’s good news if you’re part of this growing group",
-            "link": "https://finance.yahoo.com/news/credit-score-could-big-change-181500177.html",
+            "title": "Foodtech start-up Calo secures $39m in Series B extension",
+            "link": "https://finance.yahoo.com/news/foodtech-start-calo-secures-39m-142052733.html",
             "description": "",
-            "pubDate": "2025-07-28T19:15:00",
-            "image_url": "https://media.zenfs.com/en/moneywise_327/0a509071b64becbaa72bd169688f4e38"
+            "pubDate": "2025-07-30T15:20:52",
+            "image_url": "https://media.zenfs.com/en/verdict_food_service_772/4c07b556e9cdd425df5ead545d5560e0"
         },
         {
-            "title": "Strength in Crude Oil Sparks Short Covering in Sugar Futures",
-            "link": "https://finance.yahoo.com/news/strength-crude-oil-sparks-short-182338234.html",
+            "title": "Here’s Why Olin Corp. (OLN) Fell in Q2",
+            "link": "https://finance.yahoo.com/news/why-olin-corp-oln-fell-142021874.html",
             "description": "",
-            "pubDate": "2025-07-28T19:23:38",
-            "image_url": "https://media.zenfs.com/en/barchart_com_477/022a93cafde4f37766f1e3fd653e8612"
+            "pubDate": "2025-07-30T15:20:21",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/57bc307240dc9d317afcaa73ed3abb3b"
         },
         {
-            "title": "Nasdaq Reaches for Another Record as Bad Breadth Plagues S&P 500",
-            "link": "https://www.barrons.com/livecoverage/stock-market-news-today-072825/card/nasdaq-reaches-for-another-record-as-bad-breadth-plagues-s-p-500-T2AISD6H0LT6LLnWRlJY?siteid=yhoof2&yptr=yahoo",
+            "title": "Palo Alto Networks buying CyberArk in cash-and-stock deal valued at about $25 billion",
+            "link": "https://finance.yahoo.com/news/palo-alto-networks-buying-cyberark-141935605.html",
             "description": "",
-            "pubDate": "2025-07-28T19:21:36",
-            "image_url": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e"
-        },
-        {
-            "title": "DeepSeek Won't Sink U.S. AI Titans",
-            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-            "pubDate": "2025-01-27T18:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "pubDate": "2025-07-30T15:19:35",
+            "image_url": "https://media.zenfs.com/en/ap_finance_articles_694/104f80465738ca6bec00dacf780fbe11"
         },
         {
             "title": "Comex Gold, Silver Settle Lower",
             "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
             "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
             "pubDate": "2025-01-27T19:01:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "DeepSeek Won't Sink U.S. AI Titans",
+            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+            "pubDate": "2025-01-27T18:12:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
+            "pubDate": "2025-01-27T17:20:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Financial Services Roundup: Market Talk",
@@ -65,14 +72,7 @@
             "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
             "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
             "pubDate": "2025-01-27T19:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
-            "pubDate": "2025-01-27T17:20:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }
