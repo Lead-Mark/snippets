@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-07-30T11:01:56.458116",
+    "lastBuildDate": "2025-07-31T07:09:06.703939",
     "items": [
+        {
+            "title": "LangChain’s Align Evals closes the evaluator trust gap with prompt-level calibration",
+            "link": "https://venturebeat.com/ai/langchains-align-evals-closes-the-evaluator-trust-gap-with-prompt-level-calibration/",
+            "description": "LangChain allows enterprises to make and calibrate a model to evaluate applications and get it close to human preferences.",
+            "pubDate": "2025-07-31T00:28:09",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/04/ai_evaluation_framework_smk.jpg?w=578"
+        },
+        {
+            "title": "‘Subliminal learning’: Anthropic uncovers how AI fine-tuning secretly teaches bad habits",
+            "link": "https://venturebeat.com/ai/subliminal-learning-anthropic-uncovers-how-ai-fine-tuning-secretly-teaches-bad-habits/",
+            "description": "A common AI fine-tuning practice could be unintentionally poisoning your models with hidden biases and risks, a new Anthropic study warns.",
+            "pubDate": "2025-07-30T23:21:50",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/Subliminal-learning.png?w=578"
+        },
+        {
+            "title": "Shadow AI adds $670K to breach costs while 97% of enterprises skip basic access controls, IBM reports",
+            "link": "https://venturebeat.com/security/ibm-shadow-ai-breaches-cost-670k-more-97-of-firms-lack-controls/",
+            "description": "IBM's 2025 Cost of a Data Breach Report reveals that breaches involving unauthorized AI tools now average $4.63M.",
+            "pubDate": "2025-07-30T22:23:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/final-hero-ibm-story.jpg?w=578"
+        },
+        {
+            "title": "Mark Zuckerberg says ‘developing superintelligence is now in sight,’ shades OpenAI and other firms focused on automating work",
+            "link": "https://venturebeat.com/ai/mark-zuckerberg-says-developing-superintelligence-is-now-in-sight-shades-openai-and-other-firms-focused-on-automating-work/",
+            "description": "So perhaps, these competing visions of superintelligence are actually far more similar than they are opposed.",
+            "pubDate": "2025-07-30T16:11:45",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/zuck-si.png?w=578"
+        },
         {
             "title": "C8 Health started with an AI that gives anesthesiologists guidance on demand — now it’s targeting whole hospitals",
             "link": "https://venturebeat.com/ai/c8-health-started-with-an-ai-that-gives-anesthesiologists-guidance-on-demand-now-its-targeting-whole-hospitals/",
             "description": "A friendly red panda avatar serves up the knowledge from the organization's own siloed databases, complete with citations",
             "pubDate": "2025-07-30T15:23:06",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_a_cute_anthropomorphic_red_panda_character_in_white_d_4f763bc7-069d-4253-9d07-58893de9d35f_1.png?w=578"
-        },
-        {
-            "title": "Google DeepMind says its new AI can map the entire planet with unprecedented accuracy",
-            "link": "https://venturebeat.com/ai/google-deepmind-says-its-new-ai-can-map-the-entire-planet-with-unprecedented-accuracy/",
-            "description": "Google DeepMind unveils AlphaEarth Foundations, an AI system that processes satellite data 16x more efficiently to create detailed Earth maps for trac...",
-            "pubDate": "2025-07-30T15:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_Earth_heatmap_grid_cf80d5ad-4278-4eeb-b3fd-2a8698739151.webp?w=578"
-        },
-        {
-            "title": "Runloop lands $7M to power AI coding agents with cloud-based devboxes",
-            "link": "https://venturebeat.com/ai/runloop-lands-7m-to-power-ai-coding-agents-with-cloud-based-devboxes/",
-            "description": "Runloop raises $7M seed funding to solve the \"production gap\" for AI coding agents, providing enterprise infrastructure that helps companies deploy au...",
-            "pubDate": "2025-07-30T14:01:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_cloud_servers_deploying_code_automatica_b0e58145-92c2-4171-89df-611e721fcba7.webp?w=578"
-        },
-        {
-            "title": "Nightfall launches ‘Nyx,’ an AI that automates data loss prevention at enterprise scale",
-            "link": "https://venturebeat.com/ai/nightfall-launches-nyx-an-ai-that-automates-data-loss-prevention-at-enterprise-scale/",
-            "description": "Nightfall AI launches Nyx, the first autonomous data loss prevention platform using AI to cut false alerts by 90% and protect enterprise data from ins...",
-            "pubDate": "2025-07-30T14:00:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/nuneybits_Vector_art_of_stars_in_the_night_sky_4e6856e0-1756-4649-9dde-4ad38b0002db.webp?w=578"
-        },
-        {
-            "title": "How can enterprises keep systems safe as AI agents join human employees? Cyata launches with a new, dedicated solution",
-            "link": "https://venturebeat.com/security/how-can-enterprises-keep-systems-safe-as-ai-agents-join-human-employees-cyata-launches-with-a-new-dedicated-solution/",
-            "description": "The growing use of AI agents isn’t limited to technical teams. While developers were an early audience, Cyata quickly realized adoption was broader.",
-            "pubDate": "2025-07-30T12:52:18",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/CYATA-eric-sultan-002.jpg?w=578"
         }
     ]
 }
