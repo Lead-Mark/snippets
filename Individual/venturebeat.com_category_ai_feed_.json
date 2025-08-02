@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-01T17:21:31.235189",
+    "lastBuildDate": "2025-08-02T03:25:44.793252",
     "items": [
+        {
+            "title": "New vision model from Cohere runs on two GPUs, beats top-tier VLMs on visual tasks",
+            "link": "https://venturebeat.com/ai/new-vision-model-from-cohere-runs-on-two-gpus-beats-top-tier-vlms-on-visual-tasks/",
+            "description": "Cohere's Command A Vision can read graphs and PDFs to make enterprise research richer and analyze the documents businesses actually rely on.",
+            "pubDate": "2025-08-01T23:05:20",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/Robot-poring-over-documents.jpg?w=578"
+        },
         {
             "title": "Why open-source AI became an American national priority",
             "link": "https://venturebeat.com/ai/why-open-source-ai-became-an-american-national-priority/",
@@ -31,13 +38,6 @@
             "description": "Arora explains this as a difference between searching for a path versus already knowing roughly where the destination lies.",
             "pubDate": "2025-07-31T22:58:07",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/cfr0z3n_epic_expansive_comic_book_splash_page_a_diver_swims_dee_6dea9756-9285-4c78-9b01-68612ed57095-1.png?w=578"
-        },
-        {
-            "title": "Hard-won vibe coding insights: Mailchimp’s 40% speed gain came with governance price",
-            "link": "https://venturebeat.com/ai/hard-won-vibe-coding-insights-mailchimps-40-speed-gain-came-with-governance-price/",
-            "description": "Intuit Mailchimp's experience with vibe coding reveals governance frameworks and tool selection strategies that enterprises can apply to avoid common ...",
-            "pubDate": "2025-07-31T22:43:50",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/07/a_chimp_coding-smk.jpg?w=578"
         }
     ]
 }
