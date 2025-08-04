@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-04T06:49:12.738022",
+    "lastBuildDate": "2025-08-04T11:02:11.285896",
     "items": [
+        {
+            "title": "The Presidential Fitness Test is coming back",
+            "link": "https://www.npr.org/2025/08/04/nx-s1-5489735/the-presidential-fitness-test-is-coming-back",
+            "description": "NPR's Leila Fadel speaks with sports physician Jordan Metzl about President Trump's effort to revive the Presidential Fitness Test.",
+            "pubDate": "2025-08-04T09:13:37",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5489735"
+        },
         {
             "title": "What's the deal with electrolyte drinks — do you need them to stay hydrated?",
             "link": "https://www.npr.org/2025/08/04/nx-s1-5470190/electrolytes-sport-drinks-hydration-salt",
@@ -19,13 +26,6 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/07/Pills_2-300x150.jpg"
         },
         {
-            "title": "The Presidential Fitness Test is coming back",
-            "link": "https://www.npr.org/2025/08/04/nx-s1-5489735/the-presidential-fitness-test-is-coming-back",
-            "description": "NPR's Leila Fadel speaks with sports physician Jordan Metzl about President Trump's effort to revive the Presidential Fitness Test.",
-            "pubDate": "2025-08-04T09:13:37",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5489735"
-        },
-        {
             "title": "Teen suicide is on the decline, new federal data shows",
             "link": "https://www.npr.org/sections/shots-health-news/2025/08/04/nx-s1-5490050/nsduh-depression-suicide-federal-statistics-teens",
             "description": "The 2024 National Survey on Drug Use and Health report found that in recent years, depression and suicidal thoughts and behaviors in teens have declin...",
@@ -33,74 +33,81 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6772x4376+0+0/resize/6772x4376!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F30%2F3bf25ea54df481e5083f4ff04302%2Fgettyimages-2151087952.jpg"
         },
         {
-            "title": "Doctors fight vaccine mistrust as Romania hit by measles outbreak",
-            "link": "https://medicalxpress.com/news/2025-08-doctors-vaccine-mistrust-romania-measles.html",
-            "description": "When epidemiologist Daniela Gafita makes her rounds in the remote villages of northeastern Romania to educate communities about the risks of measles, ...",
-            "pubDate": "2025-08-04T09:29:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "ART-Treated Children Remain at Risk for Vascular Disease",
-            "link": "https://www.medscape.com/viewarticle/art-treated-children-remain-risk-vascular-disease-2025a1000knk?src=rss",
-            "description": "Children living with HIV showed elevated biomarkers as teens. Medscape Medical News",
-            "pubDate": "2025-08-04T11:23:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Disease Monitoring: Key to Better Leukemia Outcomes?",
-            "link": "https://www.medscape.com/viewarticle/disease-monitoring-key-better-leukemia-outcomes-2025a1000kni?src=rss",
-            "description": "Precision medicine using measurable residual disease-guided therapy may take some of the guesswork out of treating chronic lymphocytic leukemia, new d...",
-            "pubDate": "2025-08-04T11:20:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Exposure to Fine Particulate Matter a Risk Factor for SLE",
-            "link": "https://www.medscape.com/viewarticle/exposure-fine-particulate-matter-risk-factor-sle-2025a1000kne?src=rss",
-            "description": "Adults exposed to higher levels of PM2.5 have an elevated risk of developing systemic lupus erythematosus, a study finds. Medscape Medical News",
-            "pubDate": "2025-08-04T10:47:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Simple CT Tweak Detects Stroke Clots 6x Faster, Study Shows",
-            "link": "https://www.medscape.com/viewarticle/simple-ct-tweak-detects-stroke-clots-6x-faster-study-shows-2025a1000kn9?src=rss",
-            "description": "Just 14 patients need screening with extended CT angiography to find one clot, according to the DAYLIGHT study, improving stroke management. Medscape ...",
-            "pubDate": "2025-08-04T11:11:10",
+            "title": "Minority Children Receive More Antibiotics for Pneumonia",
+            "link": "https://www.medscape.com/viewarticle/minority-and-low-coi-children-receive-more-antibiotics-2025a1000knl?src=rss",
+            "description": "Intravenous and broad-spectrum antibiotics are used more commonly in Black and non-Hispanic Black pediatric inpatients than in non-Hispanic White pedi...",
+            "pubDate": "2025-08-04T13:43:43",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Can Preventing, Treating Herpes Reduce Dementia Risk?",
-            "link": "https://www.medscape.com/viewarticle/can-preventing-treating-herpes-reduce-dementia-risk-2025a1000kna?src=rss",
-            "description": "Growing research shows common herpes viruses may raise dementia risk, challenging previous skepticism and opening new paths to prevention and treatmen...",
-            "pubDate": "2025-08-04T10:30:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "New therapy outperforms standard treatment in reducing binge-eating among veterans",
+            "link": "https://medicalxpress.com/news/2025-07-therapy-outperforms-standard-treatment-binge.html",
+            "description": "Researchers from the University of California San Diego have found that a novel treatment called regulation of cues combined with behavioral weight lo...",
+            "pubDate": "2025-08-04T16:00:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Brain might become target of new type 1 diabetes treatments",
-            "link": "https://medicalxpress.com/news/2025-08-brain-diabetes-treatments.html",
-            "description": "More than a decade ago, researchers found that an acute complication of type 1 diabetes, diabetic ketoacidosis (DKA), can be resolved with the hormone...",
-            "pubDate": "2025-08-04T09:52:05",
+            "title": "New KPIs May Cut Post-Endoscopy GI Cancer Risk",
+            "link": "https://www.medscape.com/viewarticle/consensus-based-key-performance-indicators-can-reduce-post-2025a1000kbv?src=rss",
+            "description": "A consensus process defines key performance indicators to enhance the quality of diagnosis and reduce the risk for post-endoscopy upper gastrointestin...",
+            "pubDate": "2025-08-04T13:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Psychedelics and non-hallucinogenic analogs work through the same receptor—up to a point",
-            "link": "https://medicalxpress.com/news/2025-08-psychedelics-hallucinogenic-analogs-receptor.html",
-            "description": "Understanding exactly how psychedelics promote new connections in the brain is critical to developing targeted, non-hallucinogenic therapeutics that c...",
-            "pubDate": "2025-08-04T10:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Researchers watched 150 episodes of Bluey—they found it can teach kids about resilience for real life",
+            "link": "https://medicalxpress.com/news/2025-08-episodes-bluey-kids-resilience-real.html",
+            "description": "She's 6 years old, lives in Brisbane and might just be one of the best resilience coaches on television.",
+            "pubDate": "2025-08-04T15:36:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Can Psychedelic Therapy Go Mainstream?",
-            "link": "https://www.npr.org/2025/08/03/1256711499/psychedelics-science-ketamine-therapy",
-            "description": "Research shows that psychedelics can help with a range of mental health conditions, like PTSD and depression. So why can't you get them from your doct...",
-            "pubDate": "2025-08-03T08:00:59",
-            "image_url": "https://media.npr.org/assets/img/2025/08/01/gettyimages-6228-000555-3c77183b6097f36c318a25752c3f7268ff69c7b7.jpg"
+            "title": "How hospitals use salary caps to suppress physician wages [PODCAST]",
+            "link": "https://kevinmd.com/2025/08/how-hospitals-use-salary-caps-to-suppress-physician-wages-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Health law attorney Dennis Hursh discusses his article, “Why hospital...",
+            "pubDate": "2025-08-04T00:00:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Social determinants of health associated with development of long COVID",
-            "link": "https://www.2minutemedicine.com/social-determinants-of-health-associated-with-development-of-long-covid/",
-            "description": "1. In this prospective cohort study, participants with social risk factors at the time of SARS-CoV-2 infection had a higher risk of developing long CO...",
-            "pubDate": "2025-08-03T11:00:13",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/07/headache-e1738604424946-300x215.jpg"
+            "title": "RSV Jab Shields Older Adults From Hospitalisation",
+            "link": "https://www.medscape.com/viewarticle/rsv-jab-shields-older-adults-hospitalisation-2025a1000kod?src=rss",
+            "description": "New UKHSA data show the RSV vaccine offers strong protection for older adults and infants, although uptake varies by group. Medscape News UK",
+            "pubDate": "2025-08-04T15:03:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Molecular Testing in Dermatology: Who and When to Test",
+            "link": "https://www.medscape.com/viewarticle/molecular-testing-dermatology-who-and-when-test-2025a1000knx?src=rss",
+            "description": "Molecular testing in dermatology involves decisions about who gets tested, how to test and interpret results, and where to go for help in interpreting...",
+            "pubDate": "2025-08-04T13:09:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Less processed diet may be more beneficial for weight loss, clinical trial indicates",
+            "link": "https://medicalxpress.com/news/2025-07-diet-beneficial-weight-loss-clinical.html",
+            "description": "When given nutritionally matched diets, participants lost twice as much weight eating minimally processed foods compared to ultra-processed foods, sug...",
+            "pubDate": "2025-08-04T16:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Fall prevention program developed for older adults with mild cognitive impairment",
+            "link": "https://medicalxpress.com/news/2025-08-fall-older-adults-mild-cognitive.html",
+            "description": "Falls pose a significant risk to older adults, often resulting in injuries that lead to other health problems, decreased independence, and a lower qua...",
+            "pubDate": "2025-08-04T15:37:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Can Treating Siblings Aid Azithromycin’s Effect on Infants?",
+            "link": "https://www.medscape.com/viewarticle/can-treating-siblings-aid-azithromycins-effect-infants-2025a1000knw?src=rss",
+            "description": "Mass azithromycin administration in Niger shows a survival benefit for infants when older siblings in the same household are also treated, indicating ...",
+            "pubDate": "2025-08-04T13:20:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Psychology research reveals how the brain constructs emotional experiences",
+            "link": "https://medicalxpress.com/news/2025-08-psychology-reveals-brain-emotional.html",
+            "description": "Arousal—how alert or excited one feels—is a basic part of emotions, along with whether those emotions are positive or negative. Scientists still don't...",
+            "pubDate": "2025-08-04T15:55:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Increased Serum 25(OH)D levels associated with decreased mortality risk in adult men",
@@ -108,6 +115,13 @@
             "description": "1. Increases in serum 25 (OH) D concentration were nonlinearly associated with decreased all-cause, cardiovascular disease mortality, and cancer morta...",
             "pubDate": "2025-08-03T00:00:20",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/tablets_PD_edited-300x150.jpg"
+        },
+        {
+            "title": "Can Psychedelic Therapy Go Mainstream?",
+            "link": "https://www.npr.org/2025/08/03/1256711499/psychedelics-science-ketamine-therapy",
+            "description": "Research shows that psychedelics can help with a range of mental health conditions, like PTSD and depression. So why can't you get them from your doct...",
+            "pubDate": "2025-08-03T08:00:59",
+            "image_url": "https://media.npr.org/assets/img/2025/08/01/gettyimages-6228-000555-3c77183b6097f36c318a25752c3f7268ff69c7b7.jpg"
         },
         {
             "title": "Randomized Phase III trial of Ramucirumab finds benefit for patients with refractory advanced gastric cancer",
@@ -124,6 +138,13 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/12/infusion_edited-e1442764933669-300x150.jpg"
         },
         {
+            "title": "Social determinants of health associated with development of long COVID",
+            "link": "https://www.2minutemedicine.com/social-determinants-of-health-associated-with-development-of-long-covid/",
+            "description": "1. In this prospective cohort study, participants with social risk factors at the time of SARS-CoV-2 infection had a higher risk of developing long CO...",
+            "pubDate": "2025-08-03T11:00:13",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/07/headache-e1738604424946-300x215.jpg"
+        },
+        {
             "title": "Physician burnout: a crisis of conscience, calling, and collective responsibility",
             "link": "https://kevinmd.com/2025/08/physician-burnout-a-crisis-of-conscience-calling-and-collective-responsibility.html",
             "description": "Introduction The medical profession is grappling with a crisis of profound proportions. Burnout now affects nearly half of all practicing physicians. ...",
@@ -131,39 +152,25 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Plastic pollution is an underrecognized threat to health, experts warn",
-            "link": "https://medicalxpress.com/news/2025-07-plastic-pollution-underrecognized-threat-health.html",
-            "description": "Ahead of the expected finalization of a UN global plastics treaty, a group of international experts calls for a greater focus on health impacts when c...",
-            "pubDate": "2025-08-03T23:30:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "How a heart transplant turned one woman into a national transplant advocate",
-            "link": "https://kevinmd.com/2025/08/how-a-heart-transplant-turned-one-woman-into-a-national-transplant-advocate.html",
-            "description": "My name is Ava Kaufman, and my doctors didn’t think I would be alive today. I defied the odds after being listed for – and receiving – an experimental...",
-            "pubDate": "2025-08-03T20:00:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
             "title": "How inspiration shapes the stories of our lives [PODCAST]",
             "link": "https://kevinmd.com/2025/08/how-inspiration-shapes-the-stories-of-our-lives-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Adjunct professor of psychiatry Arthur Lazarus discusses his article,...",
             "pubDate": "2025-08-03T00:00:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "How leukemia virus stays hidden in the body—and a key to future treatments",
-            "link": "https://medicalxpress.com/news/2025-08-leukemia-virus-stays-hidden-body.html",
-            "description": "A research team from Kumamoto University has made a new discovery that reveals how the human T-cell leukemia virus type 1 (HTLV-1) silently persists i...",
-            "pubDate": "2025-08-03T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Innovation is moving too fast for health care workers to catch up",
             "link": "https://kevinmd.com/2025/08/innovation-is-moving-too-fast-for-health-care-workers-to-catch-up.html",
             "description": "I recently spoke with close friends—both physicians—who admitted something quietly alarming: They’re not resisting change in health care. They’re just...",
             "pubDate": "2025-08-03T16:00:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "How a heart transplant turned one woman into a national transplant advocate",
+            "link": "https://kevinmd.com/2025/08/how-a-heart-transplant-turned-one-woman-into-a-national-transplant-advocate.html",
+            "description": "My name is Ava Kaufman, and my doctors didn’t think I would be alive today. I defied the odds after being listed for – and receiving – an experimental...",
+            "pubDate": "2025-08-03T20:00:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "How surgeons build a new bladder for cancer patients like Deion Sanders",
@@ -171,13 +178,6 @@
             "description": "University of Colorado football coach Deion Sanders announced he got a new bladder this week as part of his cancer treatment. Here's how doctors const...",
             "pubDate": "2025-08-02T12:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2Fcb%2Fdefdb22d405199c7aed8b3e9ed5c%2Fgettyimages-2227414483.jpg"
-        },
-        {
-            "title": "When the pediatrician is the parent: a personal reckoning with childhood obesity",
-            "link": "https://kevinmd.com/2025/08/when-the-pediatrician-is-the-parent-a-personal-reckoning-with-childhood-obesity.html",
-            "description": "I would never have thought I would be the one writing this piece. I am a board-certified pediatrician and internist with a background in nutrition, we...",
-            "pubDate": "2025-08-02T18:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         }
     ]
 }
