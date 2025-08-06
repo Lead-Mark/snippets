@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.technologyreview.com/feed/",
     "link": "https://www.technologyreview.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-05T11:28:23.324768",
+    "lastBuildDate": "2025-08-06T06:35:16.024124",
     "items": [
+        {
+            "title": "OpenAI has finally released open-weight language models",
+            "link": "https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/",
+            "description": "OpenAI has finally released its first open-weight large language models since 2019’s GPT-2. These new “gpt-oss” models are available in two different ...",
+            "pubDate": "2025-08-05T18:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
         {
             "title": "The Download: AI agent infrastructure, and OpenAI’s ambitions",
             "link": "https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/",
@@ -23,7 +30,7 @@
             "link": "https://www.technologyreview.com/2025/08/04/1120996/protocols-help-agents-navigate-lives-mcp-a2a/",
             "description": "A growing number of companies are launching AI agents that can do things on your behalf—actions like sending an email, making a document, or editing a...",
             "pubDate": "2025-08-04T16:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "The Download: fixing ‘evil’ AI, and the White House’s war on science",
@@ -31,13 +38,6 @@
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Forcing LLMs...",
             "pubDate": "2025-08-04T13:05:00",
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/26a1.png"
-        },
-        {
-            "title": "Forcing LLMs to be evil during training can make them nicer in the long run",
-            "link": "https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/",
-            "description": "A new study from Anthropic suggests that traits such as sycophancy or evilness are associated with specific patterns of activity in large language mod...",
-            "pubDate": "2025-08-01T17:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

@@ -2,49 +2,63 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-05T11:28:17.408602",
+    "lastBuildDate": "2025-08-06T06:35:09.753089",
     "items": [
         {
             "title": "Scientists just cracked the code to editing entire chromosomes flawlessly",
             "link": "https://www.sciencedaily.com/releases/2025/08/250805041612.htm",
             "description": "A group of Chinese scientists has created powerful new tools that allow them to edit large chunks of DNA with incredible accuracy—and without leaving ...",
             "pubDate": "2025-08-05T14:19:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Johns Hopkins scientists grow a mini human brain that lights up and connects like the real thing",
-            "link": "https://www.sciencedaily.com/releases/2025/08/250803233113.htm",
-            "description": "Scientists at Johns Hopkins have grown a first-of-its-kind organoid mimicking an entire human brain, complete with rudimentary blood vessels and neura...",
-            "pubDate": "2025-08-05T04:58:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Crushing vs. Slashing: New skull scans reveal how giant dinosaurs killed",
-            "link": "https://www.sciencedaily.com/releases/2025/08/250805041614.htm",
-            "description": "Tyrannosaurus rex might be the most famous meat-eater of all time, but it turns out it wasn’t the only way to be a terrifying giant. New research show...",
-            "pubDate": "2025-08-05T14:41:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "NSF to invest in new national network of AI-programmable cloud laboratories",
             "link": "https://www.nsf.gov/news/nsf-invest-new-national-network-ai-programmable-cloud",
             "description": "The U.S. National Science Foundation announced a new funding opportunity that would invest up to $100 million to support a network of \"programmable cl...",
             "pubDate": "2025-08-05T15:09:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Crushing vs. Slashing: New skull scans reveal how giant dinosaurs killed",
+            "link": "https://www.sciencedaily.com/releases/2025/08/250805041614.htm",
+            "description": "Tyrannosaurus rex might be the most famous meat-eater of all time, but it turns out it wasn’t the only way to be a terrifying giant. New research show...",
+            "pubDate": "2025-08-05T14:41:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Johns Hopkins scientists grow a mini human brain that lights up and connects like the real thing",
+            "link": "https://www.sciencedaily.com/releases/2025/08/250803233113.htm",
+            "description": "Scientists at Johns Hopkins have grown a first-of-its-kind organoid mimicking an entire human brain, complete with rudimentary blood vessels and neura...",
+            "pubDate": "2025-08-05T04:58:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Innovative traineeships prepare the next generation of STEM leaders in AI, quantum, biotech and more",
             "link": "https://www.nsf.gov/news/innovative-traineeships-prepare-next-generation-stem-leaders",
             "description": "The U.S. National Science Foundation announced $45 million to fund 15 new awards through the NSF Research Traineeship (NRT) program, with projects foc...",
             "pubDate": "2025-08-04T19:08:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "NSF invests over $74 million in 6 mathematical sciences research institutes",
             "link": "https://www.nsf.gov/news/nsf-invests-over-74-million-6-mathematical-sciences-research",
             "description": "The U.S. National Science Foundation is investing over $74 million in six research institutes focused on the mathematical sciences and their broad app...",
             "pubDate": "2025-08-04T14:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Podcast: A new world of collaborative aerial robots",
+            "link": "https://www.nsf.gov/news/podcast-new-world-collaborative-aerial-robots",
+            "description": "Advances in fundamental technologies enable robots to collaborate with humans, as well as with other robots. David Saldaña, assistant professor in the...",
+            "pubDate": "2025-08-04T22:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "This star survived its own supernova and shined even brighter",
+            "link": "https://www.sciencedaily.com/releases/2025/08/250804084700.htm",
+            "description": "In a spectacular image captured by the Hubble Space Telescope, the spiral galaxy NGC 1309 glows with cosmic elegance and hides a strange survivor.",
+            "pubDate": "2025-08-04T13:51:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Scientists reexamine 47-year-old fossil and discover a new Jurassic sea monster",
@@ -54,25 +68,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "This star survived its own supernova and shined even brighter",
-            "link": "https://www.sciencedaily.com/releases/2025/08/250804084700.htm",
-            "description": "In a spectacular image captured by the Hubble Space Telescope, the spiral galaxy NGC 1309 glows with cosmic elegance and hides a strange survivor.",
-            "pubDate": "2025-08-04T13:51:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
             "title": "NSF announces $100 million investment in National Artificial Intelligence Research Institutes awards to secure American leadership in AI",
             "link": "https://www.nsf.gov/news/nsf-announces-100-million-investment-national-artificial",
             "description": "The investment will accelerate open innovation, empower an AI-ready workforce and strengthen U.S. global competitiveness...",
             "pubDate": "2025-07-29T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Statement from NSF Chief of Staff Brian Stone, performing the duties of the NSF Director, on the White House AI Action Plan",
-            "link": "https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf",
-            "description": "The White House's AI Action Plan sends a clear message: the United States is all-in on winning the future of artificial intelligence. This road map re...",
-            "pubDate": "2025-07-23T15:50:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

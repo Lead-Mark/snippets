@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-05T11:28:23.325670",
+    "lastBuildDate": "2025-08-06T06:35:16.024813",
     "items": [
+        {
+            "title": "Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives",
+            "link": "https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/",
+            "description": "Anthropic's Claude Opus 4.1 achieves 74.5% on coding benchmarks, leading the AI market, but faces risk as nearly half its $3.1B API revenue depends on...",
+            "pubDate": "2025-08-05T20:04:56",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_a_computer_code_on_a_retro_computer_scr_10aa7803-f75d-474e-b8a1-fdf54a6773f8.webp?w=578"
+        },
+        {
+            "title": "OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b",
+            "link": "https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/",
+            "description": "Enterprises can use a powerful, near topline OpenAI LLM on their hardware totally privately and securely, without sending data to the cloud.",
+            "pubDate": "2025-08-05T18:00:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-5-2025-11_33_09-AM.png?w=578"
+        },
         {
             "title": "ChatGPT rockets to 700M weekly users ahead of GPT-5 launch with reasoning superpowers",
             "link": "https://venturebeat.com/ai/chatgpt-rockets-to-700m-weekly-users-ahead-of-gpt-5-launch-with-reasoning-superpowers/",
@@ -24,20 +38,6 @@
             "description": "AI coding requires a serious structural change. Where does that leave entry-level developers and the software industry as a whole?",
             "pubDate": "2025-08-03T21:05:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Junior-coders.jpeg?w=578"
-        },
-        {
-            "title": "Why the AI era is forcing a redesign of the entire compute backbone",
-            "link": "https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/",
-            "description": "Why fulfilling the promise of AI requires a step-change in capabilities far exceeding the advancements of the internet era.",
-            "pubDate": "2025-08-03T19:05:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Rethinking-the-internet.webp?w=578"
-        },
-        {
-            "title": "New vision model from Cohere runs on two GPUs, beats top-tier VLMs on visual tasks",
-            "link": "https://venturebeat.com/ai/new-vision-model-from-cohere-runs-on-two-gpus-beats-top-tier-vlms-on-visual-tasks/",
-            "description": "Cohere's Command A Vision can read graphs and PDFs to make enterprise research richer and analyze the documents businesses actually rely on.",
-            "pubDate": "2025-08-01T23:05:20",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2024/10/Robot-poring-over-documents.jpg?w=578"
         }
     ]
 }
