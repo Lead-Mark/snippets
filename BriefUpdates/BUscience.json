@@ -2,8 +2,36 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-06T11:08:15.391126",
+    "lastBuildDate": "2025-08-07T06:25:21.694905",
     "items": [
+        {
+            "title": "Scientists found the gene that makes Aussie skinks immune to deadly snake venom",
+            "link": "https://www.sciencedaily.com/releases/2025/08/250806094116.htm",
+            "description": "Australian skinks have developed a remarkable genetic defense against venomous snake bites by mutating a key muscle receptor, making them resistant to...",
+            "pubDate": "2025-08-07T04:31:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Can humans regrow eyes? These snails already do",
+            "link": "https://www.sciencedaily.com/releases/2025/08/250806094112.htm",
+            "description": "Apple snails can fully regrow their eyes, and their genes and eye structures are strikingly similar to humans. Scientists mapped the regeneration proc...",
+            "pubDate": "2025-08-07T04:00:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "This prehistoric predator survived global warming by eating bones",
+            "link": "https://www.sciencedaily.com/releases/2025/08/250806094118.htm",
+            "description": "A prehistoric predator changed its diet and body size during a major warming event 56 million years ago, revealing how climate change can reshape anim...",
+            "pubDate": "2025-08-07T04:53:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The Earth didn’t just crack, it curved. \"It sent chills down my spine!\"",
+            "link": "https://www.sciencedaily.com/releases/2025/08/250806094127.htm",
+            "description": "A surprising discovery emerged from a security camera video taken during Myanmar’s recent magnitude 7.7 earthquake. While the footage initially drew a...",
+            "pubDate": "2025-08-06T16:58:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
         {
             "title": "NASA and Japan’s XRISM just found sulfur hiding between the stars",
             "link": "https://www.sciencedaily.com/releases/2025/08/250805041628.htm",
@@ -12,53 +40,25 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Star survives black hole and comes back for more",
-            "link": "https://www.sciencedaily.com/releases/2025/08/250805041626.htm",
-            "description": "This is the first confirmed case of a star that survived an encounter with a supermassive black hole and came back for more. This discovery upends con...",
-            "pubDate": "2025-08-06T10:04:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Scientists just found a massive earthquake threat hiding beneath Yukon",
-            "link": "https://www.sciencedaily.com/releases/2025/08/250805041625.htm",
-            "description": "A long-forgotten fault in Canada's Yukon Territory has just revealed its dangerous potential. Scientists using cutting-edge satellite and drone data d...",
-            "pubDate": "2025-08-06T08:57:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Scientists just cracked the code to editing entire chromosomes flawlessly",
-            "link": "https://www.sciencedaily.com/releases/2025/08/250805041612.htm",
-            "description": "A group of Chinese scientists has created powerful new tools that allow them to edit large chunks of DNA with incredible accuracy—and without leaving ...",
-            "pubDate": "2025-08-05T14:19:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "NSF invests in AI-ready test beds to accelerate U.S. leadership",
+            "link": "https://www.nsf.gov/news/nsf-invests-ai-ready-test-beds-accelerate-us-leadership",
+            "description": "The U.S. National Science Foundation announced over $2 million in planning grants to support the development of artificial intelligence-ready test bed...",
+            "pubDate": "2025-08-06T16:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "NSF to invest in new national network of AI-programmable cloud laboratories",
             "link": "https://www.nsf.gov/news/nsf-invest-new-national-network-ai-programmable-cloud",
             "description": "The U.S. National Science Foundation announced a new funding opportunity that would invest up to $100 million to support a network of \"programmable cl...",
             "pubDate": "2025-08-05T15:09:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Crushing vs. Slashing: New skull scans reveal how giant dinosaurs killed",
-            "link": "https://www.sciencedaily.com/releases/2025/08/250805041614.htm",
-            "description": "Tyrannosaurus rex might be the most famous meat-eater of all time, but it turns out it wasn’t the only way to be a terrifying giant. New research show...",
-            "pubDate": "2025-08-05T14:41:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "NSF invests over $74 million in 6 mathematical sciences research institutes",
-            "link": "https://www.nsf.gov/news/nsf-invests-over-74-million-6-mathematical-sciences-research",
-            "description": "The U.S. National Science Foundation is investing over $74 million in six research institutes focused on the mathematical sciences and their broad app...",
-            "pubDate": "2025-08-04T14:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Podcast: A new world of collaborative aerial robots",
             "link": "https://www.nsf.gov/news/podcast-new-world-collaborative-aerial-robots",
             "description": "Advances in fundamental technologies enable robots to collaborate with humans, as well as with other robots. David Saldaña, assistant professor in the...",
             "pubDate": "2025-08-04T22:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Innovative traineeships prepare the next generation of STEM leaders in AI, quantum, biotech and more",
@@ -68,11 +68,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "NSF announces $100 million investment in National Artificial Intelligence Research Institutes awards to secure American leadership in AI",
-            "link": "https://www.nsf.gov/news/nsf-announces-100-million-investment-national-artificial",
-            "description": "The investment will accelerate open innovation, empower an AI-ready workforce and strengthen U.S. global competitiveness...",
-            "pubDate": "2025-07-29T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "NSF invests over $74 million in 6 mathematical sciences research institutes",
+            "link": "https://www.nsf.gov/news/nsf-invests-over-74-million-6-mathematical-sciences-research",
+            "description": "The U.S. National Science Foundation is investing over $74 million in six research institutes focused on the mathematical sciences and their broad app...",
+            "pubDate": "2025-08-04T14:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         }
     ]
 }
