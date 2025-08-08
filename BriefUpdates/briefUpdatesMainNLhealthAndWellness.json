@@ -2,15 +2,8 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-08T06:11:16.949474",
+    "lastBuildDate": "2025-08-08T11:00:48.471277",
     "items": [
-        {
-            "title": "Spotting the Signs of Kidney Issues",
-            "link": "https://www.webmd.com/a-to-z-guides/ss/slideshow-kidney-warning-signs",
-            "description": "",
-            "pubDate": "2025-08-08T07:04:05",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/symptoms_of_hattr_with_polyneuropathy_slideshow/1800ss_getty_rf_swollen_feet.jpg?resize=484px:*&output-quality=70"
-        },
         {
             "title": "mFOLFIRINOX may have a limited role in pancreatic cancer in Phase II/III trial",
             "link": "https://www.2minutemedicine.com/mfolfirinox-may-have-a-limited-role-in-pancreatic-cancer-in-phase-ii-iii-trial/",
@@ -26,6 +19,13 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/how_to_make_scars_less_visible_slideshow/1800ss_getty_rf_aloe_vera.jpg?resize=484px:*&output-quality=70"
         },
         {
+            "title": "Spotting the Signs of Kidney Issues",
+            "link": "https://www.webmd.com/a-to-z-guides/ss/slideshow-kidney-warning-signs",
+            "description": "",
+            "pubDate": "2025-08-08T07:04:05",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/symptoms_of_hattr_with_polyneuropathy_slideshow/1800ss_getty_rf_swollen_feet.jpg?resize=484px:*&output-quality=70"
+        },
+        {
             "title": "How a Daily Walk Could Boost Your Mood",
             "link": "https://www.webmd.com/fitness-exercise/walking-workouts",
             "description": "Walking is an easy way to boost your health and mood. Just 30 minutes a day can make a difference. Here's how to start.",
@@ -33,67 +33,95 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/9_ways_your_vagina_changes_as_you_age_slideshow/1800x1200_9_ways_your_vagina_changes_as_you_age_slideshow.jpg?resize=484px:*&output-quality=70"
         },
         {
+            "title": "#VisualAbstract: Inavolisib Increased Overall Survival in PIK3CA-Mutated Advanced Breast Cancer",
+            "link": "https://www.2minutemedicine.com/visualabstract-inavolisib-increased-overall-survival-in-pik3ca-mutated-advanced-breast-cancer/",
+            "description": "Click here to read this study in NEJM. ©2025 2 Minute Medicine, Inc. All rights reserved. No works may be reproduced without expressed written consent...",
+            "pubDate": "2025-08-08T15:00:12",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/08/2MM_VA_17jul2025-300x300.jpg"
+        },
+        {
+            "title": "ED Use Before Cancer Tied to Higher Mortality",
+            "link": "https://www.medscape.com/viewarticle/emergency-department-use-before-cancer-diagnosis-linked-long-2025a1000l25?src=rss",
+            "description": "ED visits within 90 days before cancer diagnosis are linked to significantly higher all-cause mortality, with the elevated risk lasting up to 7 years ...",
+            "pubDate": "2025-08-08T13:18:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
             "title": "Is “do no harm” the most misunderstood phrase in medicine? [PODCAST]",
             "link": "https://kevinmd.com/2025/08/is-do-no-harm-the-most-misunderstood-phrase-in-medicine-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Psychiatrist Sabooh S. Mubbashar discusses his article, “Why ‘do no h...",
             "pubDate": "2025-08-08T00:00:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Excessive ultraprocessed foods and poor nutrition tied to poor health",
-            "link": "https://medicalxpress.com/news/2025-08-excessive-ultraprocessed-foods-poor-nutrition.html",
-            "description": "Ultraprocessed foods or UPFs are a growing concern due to their widespread consumption and impact on potential health risks. Most UPFs, particularly t...",
-            "pubDate": "2025-08-08T10:42:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Designed for healing: 'Architecture for health' shapes the future of health care spaces",
-            "link": "https://medicalxpress.com/news/2025-08-architecture-health-future-spaces.html",
-            "description": "In a time when health care systems are under pressure to be safer, more efficient and more compassionate, one program at Texas A&M University is leadi...",
-            "pubDate": "2025-08-08T10:52:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "FDA approves SetPoint neuroimmune modulation device for rheumatoid arthritis",
-            "link": "https://medicalxpress.com/news/2025-08-fda-setpoint-neuroimmune-modulation-device.html",
-            "description": "The U.S. Food and Drug Administration has approved the SetPoint System, a neuroimmune modulation device for the treatment of adults living with modera...",
-            "pubDate": "2025-08-08T11:10:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How many Kentuckians are opting out of childhood vaccines?",
-            "link": "https://medicalxpress.com/news/2025-08-kentuckians-opting-childhood-vaccines.html",
-            "description": "Fewer Kentucky kindergarten students have received the vaccines required to attend school, and data from the state's School Immunizations Survey shows...",
-            "pubDate": "2025-08-08T11:10:13",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Data show 55% of calories come from ultraprocessed foods in the United States",
-            "link": "https://medicalxpress.com/news/2025-08-calories-ultraprocessed-foods-states.html",
-            "description": "The mean percentage of total calories consumed from ultraprocessed foods was 55.0% among those aged 1 year and older during August 2021 to August 2023...",
-            "pubDate": "2025-08-08T11:10:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Structured Walking Program Boosts Stroke Recovery Outcomes",
+            "link": "https://www.medscape.com/viewarticle/structured-walking-program-boosts-stroke-recovery-outcomes-2025a1000l3u?src=rss",
+            "description": "A structured exercise protocol vs usual care is linked to improved walking endurance after subacute stroke, a real-world, phase 3 trial shows. Medscap...",
+            "pubDate": "2025-08-08T13:46:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Guselkumab is safe and effective in patients with moderate-to-severe Crohn’s disease",
-            "link": "https://www.2minutemedicine.com/guselkumab-is-safe-and-effective-in-patients-with-moderate-to-severe-crohns-disease/",
-            "description": "1. The Guselkumab group demonstrated significantly greater clinical and endoscopic responses versus placebo. 2. Serious adverse events were comparable...",
-            "pubDate": "2025-08-07T22:55:40",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/02/abdominalpain_PD_edited-300x150.jpg"
+            "title": "How gut bacteria shape your mental health and mood",
+            "link": "https://kevinmd.com/2025/08/how-gut-bacteria-shape-your-mental-health-and-mood.html",
+            "description": "The gut-brain axis is a key player in mental illnesses such as schizophrenia, bipolar disorder, depression, and anxiety. The intestinal microbiome (th...",
+            "pubDate": "2025-08-08T12:00:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "#VisualAbstract: Perioperative Durvalumab increased Survival in Gastric and Gastroesopha-geal Junction Cancer",
-            "link": "https://www.2minutemedicine.com/visualabstract-perioperative-durvalumab-increased-survival-in-gastric-and-gastroesopha-geal-junction-cancer/",
-            "description": "Click here to read this study in NEJM. ©2025 2 Minute Medicine, Inc. All rights reserved. No works may be reproduced without expressed written consent...",
-            "pubDate": "2025-08-07T15:00:21",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/08/2MM_VA_17jul2025_2-300x300.jpg"
+            "title": "The food is medicine movement needs a lesson in equity, say researchers",
+            "link": "https://medicalxpress.com/news/2025-08-food-medicine-movement-lesson-equity.html",
+            "description": "A new editorial, led by faculty members at UC Irvine Joe C. Wen School of Population & Public Health appears in the American Journal of Public Health ...",
+            "pubDate": "2025-08-08T15:16:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "2MM: AI Roundup Free AI Scribes, Smarter Heart Ultrasounds, Faster NHS Physio, and Preventive-Care AI [August 7th 2025]",
-            "link": "https://www.2minutemedicine.com/2mm-ai-roundup-free-ai-scribes-smarter-heart-ultrasounds-faster-nhs-physio-and-preventive-care-ai-august-7th-2025/",
-            "description": "Doximity rolls out a no-cost AI scribe for every U.S. clinician Clinical-network giant Doximity is giving its new ambient-scribe tool away for free, b...",
-            "pubDate": "2025-08-07T13:30:01",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/05/Untitled-design-300x170.png"
+            "title": "Study of surgical interventions for children, adolescents with kidney stones supports precision treatment options",
+            "link": "https://medicalxpress.com/news/2025-08-surgical-interventions-children-adolescents-kidney.html",
+            "description": "Researchers at Children's Hospital of Philadelphia (CHOP), along with several academic partners, have reported the primary results of the Pediatric KI...",
+            "pubDate": "2025-08-08T15:58:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Pediatricians Accuse Employer of Union Retaliation",
+            "link": "https://www.medscape.com/viewarticle/fired-pediatricians-accuse-employer-retaliating-union-2025a1000l00?src=rss",
+            "description": "An Ohio hospital system says two pediatricians were not fired for labor organizing but for inappropriately using an employee directory. The doctors ha...",
+            "pubDate": "2025-08-08T14:28:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Rare Eye Disease Gets First NHS Drug Recommendation",
+            "link": "https://www.medscape.com/viewarticle/rare-eye-disease-gets-first-nhs-drug-recommendation-2025a1000l3z?src=rss",
+            "description": "NICE’s recommendation of idebenone (Raxone) for Leber hereditary optic neuropathy offers hope for patients against visual impairment. Medscape News UK",
+            "pubDate": "2025-08-08T14:15:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Mobile phone app reduces suicidal behavior among high-risk patients, new study shows",
+            "link": "https://medicalxpress.com/news/2025-08-mobile-app-suicidal-behavior-high.html",
+            "description": "A mobile phone app designed to deliver suicide-specific therapy reduced suicidal behavior among high-risk psychiatric inpatients, according to a new s...",
+            "pubDate": "2025-08-08T16:00:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Mood Boost in Men Tied to Women’s Body Odor",
+            "link": "https://www.medscape.com/s/viewarticle/mood-boost-men-tied-womens-body-odor-2025a1000l0i?src=rss",
+            "description": "A new study links ovulation body odor to a calming, positive shift in men’s emotional state. Medscape Medical News",
+            "pubDate": "2025-08-08T14:49:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Wearable blood pressure monitor attaches like a bandage for real-time continuous measurement",
+            "link": "https://medicalxpress.com/news/2025-08-wearable-blood-pressure-bandage-real.html",
+            "description": "Seoul National University College of Engineering announced that a research team has developed a wearable electronic device that attaches to the skin l...",
+            "pubDate": "2025-08-08T15:08:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "What to say and how to help if someone close to you has attempted suicide",
+            "link": "https://medicalxpress.com/news/2025-08-suicide.html",
+            "description": "If someone close to you has attempted suicide, you may be feeling scared, confused or overwhelmed.",
+            "pubDate": "2025-08-08T15:50:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Overweight body habitus is associated with higher rates of relapse in children with acute lymphoblastic leukemia",
@@ -103,32 +131,39 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/09/Acute_leukemia-ALL-300x151.jpg"
         },
         {
-            "title": "Why health care reform must start with ending monopolies",
-            "link": "https://kevinmd.com/2025/08/why-health-care-reform-must-start-with-ending-monopolies.html",
-            "description": "Monopolies thrive on control. In U.S. health care, that control is quietly breaking the system from within. Today, a small group of supplier-funded en...",
-            "pubDate": "2025-08-07T22:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "#VisualAbstract: Perioperative Durvalumab increased Survival in Gastric and Gastroesopha-geal Junction Cancer",
+            "link": "https://www.2minutemedicine.com/visualabstract-perioperative-durvalumab-increased-survival-in-gastric-and-gastroesopha-geal-junction-cancer/",
+            "description": "Click here to read this study in NEJM. ©2025 2 Minute Medicine, Inc. All rights reserved. No works may be reproduced without expressed written consent...",
+            "pubDate": "2025-08-07T15:00:21",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/08/2MM_VA_17jul2025_2-300x300.jpg"
+        },
+        {
+            "title": "Guselkumab is safe and effective in patients with moderate-to-severe Crohn’s disease",
+            "link": "https://www.2minutemedicine.com/guselkumab-is-safe-and-effective-in-patients-with-moderate-to-severe-crohns-disease/",
+            "description": "1. The Guselkumab group demonstrated significantly greater clinical and endoscopic responses versus placebo. 2. Serious adverse events were comparable...",
+            "pubDate": "2025-08-07T22:55:40",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/02/abdominalpain_PD_edited-300x150.jpg"
         },
         {
             "title": "How insulin resistance may cause Alzheimer’s disease",
             "link": "https://kevinmd.com/2025/08/how-insulin-resistance-may-cause-alzheimers-disease.html",
             "description": "Alzheimer’s disease is a ruthless thief, silently stealing the essence of our identities: our memories. It robs us of cherished moments, meaningful re...",
             "pubDate": "2025-08-07T18:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Why new obesity medications for teens could be a game changer",
             "link": "https://kevinmd.com/2025/08/why-new-obesity-medications-for-teens-could-be-a-game-changer.html",
             "description": "When I first saw the CDC’s MMWR latest report on obesity medication prescribing for adolescents, my initial reaction was probably the same as yours: l...",
             "pubDate": "2025-08-07T20:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Why smartwatches won’t save American health care",
-            "link": "https://kevinmd.com/2025/08/why-smartwatches-wont-save-american-health-care.html",
-            "description": "History has a habit of repeating itself. Just prior to the 1929 crash, ads supporting the presidential candidacy of Herbert Hoover promoted a tag line...",
-            "pubDate": "2025-08-07T16:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Why health care reform must start with ending monopolies",
+            "link": "https://kevinmd.com/2025/08/why-health-care-reform-must-start-with-ending-monopolies.html",
+            "description": "Monopolies thrive on control. In U.S. health care, that control is quietly breaking the system from within. Today, a small group of supplier-funded en...",
+            "pubDate": "2025-08-07T22:00:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }
