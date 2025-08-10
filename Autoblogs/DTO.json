@@ -2,21 +2,63 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-09T01:38:48.771626",
+    "lastBuildDate": "2025-08-10T06:11:52.634699",
     "items": [
         {
-            "title": "Gold and bitcoin are both vying for the safe-haven crown. Why gold is winning.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d785ed66-6654-41da-b346-ffadbda36c0c&mod=mw_rss_bulletins",
+            "title": "Europe stresses need to protect Ukrainian interests ahead of Trump-Putin talks",
+            "link": "https://www.cnbc.com/2025/08/09/europe-and-ukraine-press-the-us-ahead-of-trump-putin-talks-in-alaska.html",
+            "description": "European officials presented their own Ukraine peace proposals to the U.S. as Trump prepared for talks with Putin on ending the war.",
+            "pubDate": "2025-08-10T06:04:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Bessent leads a broad search for Fed chair that includes Bullard and Sumerlin: Reuters",
+            "link": "https://www.cnbc.com/2025/08/08/trumps-team-expands-search-for-fed-chair-to-about-10-names-wsj-reports.html",
+            "description": "U.S. Treasury Secretary Scott Bessent is leading a search for a successor to Fed Chair Jerome Powell, a source familiar with the process told Reuters.",
+            "pubDate": "2025-08-09T12:13:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "A voice breaking from Fed ranks just pushed for cutting interest rates faster",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=31d51ba1-4a54-4f9a-8b64-8c6578ea61e9&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-08-08T23:56:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "pubDate": "2025-08-09T19:39:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Forget art and jewelry—this is the new target of high-profile heists",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f60e1132-e603-4018-a1f8-72986143c54d&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-08-09T14:58:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Trump wants private assets in 401(k)s—but how do everyday investors value them?",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=940653a2-1719-46c3-b72f-b700b2368d99&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-08-09T14:26:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Trump to speak at White House on violent crime in D.C. amid federal crackdown",
+            "link": "https://www.cnbc.com/2025/08/09/trump-to-speak-at-white-house-on-violent-crime-in-dc.html",
+            "description": "President Donald Trump ramped up his rhetoric about crime in Washington, D.C., after a former member of DOGE was assaulted in an attempted carjacking.",
+            "pubDate": "2025-08-09T16:54:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Not every service worker will get ‘no tax on tips.’ What we know about who may.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4b021e4a-c4d1-47da-b3d8-a49097858371&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-08-08T22:33:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Trump says he will meet with Putin in Alaska on Aug. 15",
             "link": "https://www.cnbc.com/2025/08/08/trumps-russia-deadline-comes-around-with-tariffs-at-stake.html",
             "description": "Washington's deadline for Moscow to strike a ceasefire in Ukraine was slated to expire on Friday.",
             "pubDate": "2025-08-08T23:34:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Trump announces peace deal between Azerbaijan and Armenia at White House",
@@ -26,53 +68,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Not every service worker will get ‘no tax on tips.’ What we know about who may.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4b021e4a-c4d1-47da-b3d8-a49097858371&mod=mw_rss_bulletins",
+            "title": "Gold and bitcoin are both vying for the safe-haven crown. Why gold is winning.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d785ed66-6654-41da-b346-ffadbda36c0c&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-08-08T22:33:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Trump’s team expands search for Fed chair to about 10 names, WSJ reports",
-            "link": "https://www.cnbc.com/2025/08/08/trumps-team-expands-search-for-fed-chair-to-about-10-names-wsj-reports.html",
-            "description": "U.S. President Donald Trump's team is reviewing new contenders to lead the Federal Reserve once Chair Jerome Powell's term ends in May.",
-            "pubDate": "2025-08-08T21:55:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Why Trump’s Fed nominee Miran could give other officials more freedom to dissent",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=20e92da4-51aa-48af-95d8-9f118d73e93f&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-08-08T21:42:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Dow up, S&P and Nasdaq attempt fresh record highs in final hour — follow live",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cfc0dbc6-b4be-413e-8217-ef3777dcddcd&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-08-08T20:02:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Nasdaq seals fresh record close, Dow and S&P 500 end higher to finish the week",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7e113f3e-1902-4c44-953f-1ae0d623502c&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-08-08T21:04:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Trump warns courts against knocking down tariffs, says duties are 'huge positive' for stock market",
-            "link": "https://www.cnbc.com/2025/08/08/trump-warns-courts-against-knocking-down-tariffs-says-duties-are-huge-positive-for-stock-market.html",
-            "description": "The president said a tariff reversal could cause a Great Depression-style economic crisis.",
-            "pubDate": "2025-08-08T16:56:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Trump removes IRS boss, Treasury Secretary Bessent takes over for now",
-            "link": "https://www.cnbc.com/2025/08/08/trump-fires-irs-commissioner-bessent-named-acting-head.html",
-            "description": "Billy Long, who was sworn in just under two months ago, was already the sixth person to hold the job this year.",
-            "pubDate": "2025-08-08T22:15:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "pubDate": "2025-08-08T23:56:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
