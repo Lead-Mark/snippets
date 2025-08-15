@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-14T10:57:38.653553",
+    "lastBuildDate": "2025-08-15T06:43:34.915233",
     "items": [
+        {
+            "title": "That ‘cheap’ open-source AI model is actually burning through your compute budget",
+            "link": "https://venturebeat.com/ai/that-cheap-open-source-ai-model-is-actually-burning-through-your-compute-budget/",
+            "description": "New research reveals open-source AI models use up to 10 times more computing resources than closed alternatives, potentially negating cost advantages ...",
+            "pubDate": "2025-08-15T02:24:49",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_dollar_bills_burning_blue_halftone_phot_64f22ade-4971-4234-822b-ba7dab7461de.webp?w=578"
+        },
+        {
+            "title": "Gartner: GPT-5 is here, but the infrastructure to support true agentic AI isn’t (yet)",
+            "link": "https://venturebeat.com/ai/gartner-gpt-5-is-here-but-the-infrastructure-to-support-true-agentic-ai-isnt-yet/",
+            "description": "While OpenAI’s GPT-5 is highly-performant, capable and an important step forward, it features just faint glimmers of true agentic AI.",
+            "pubDate": "2025-08-14T22:35:28",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/u7277289442_A_modern-day_tinman_walks_on_a_yellow_brick_road._d3368692-6f16-4970-94dc-57a3a5188096_3.png?w=578"
+        },
+        {
+            "title": "Google unveils ultra-small and efficient open source AI model Gemma 3 270M that can run on smartphones",
+            "link": "https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/",
+            "description": "For enterprise teams and commercial developers, this means the model can be embedded in products or fine-tuned.",
+            "pubDate": "2025-08-14T19:21:55",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/gemma-3-270m.png?w=578"
+        },
+        {
+            "title": "Anthropic takes on OpenAI and Google with new Claude AI features designed for students and developers",
+            "link": "https://venturebeat.com/ai/anthropic-takes-on-openai-and-google-with-new-claude-ai-features-designed-for-students-and-developers/",
+            "description": "Anthropic launches learning modes for Claude AI that guide users through step-by-step reasoning instead of providing direct answers, intensifying comp...",
+            "pubDate": "2025-08-14T18:00:18",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_laptop_growing_tree_in_burnt_orange_b898ab83-b7a3-4d13-bf2e-14f87cde78f2.webp?w=578"
+        },
         {
             "title": "Google adds limited chat personalization to Gemini, trails Anthropic and OpenAI in memory features",
             "link": "https://venturebeat.com/ai/google-adds-limited-chat-personalization-to-gemini-trails-anthropic-and-openai-in-memory-features/",
             "description": "Google updated the Gemini app running of Gemini 2.5 Pro to reference all historical chats and offer new temporary chats.",
             "pubDate": "2025-08-13T21:45:38",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/crimedy7_illustration_of_robotic_memory_in_an_office_setting__a2d05916-1bbd-41e0-8cd6-5c35a853a301_2.png?w=578"
-        },
-        {
-            "title": "What happens the day after superintelligence?",
-            "link": "https://venturebeat.com/ai/what-happens-the-day-after-superintelligence/",
-            "description": "We could soon find ourselves deferring to AI assistants that botsplain our every experience in real time. Is this empowerment or deferral?",
-            "pubDate": "2025-08-13T19:45:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/image1.png?w=578"
-        },
-        {
-            "title": "Ai2’s MolmoAct model ‘thinks in 3D’ to challenge Nvidia and Google in robotics AI",
-            "link": "https://venturebeat.com/ai/ai2s-molmoact-model-thinks-in-3d-to-challenge-nvidia-and-google-in-robotics-ai/",
-            "description": "The Allen Institute of AI (Ai2)'s new physical AI model MolmoAct moves the needle for robots that can move freely in physical space.",
-            "pubDate": "2025-08-13T17:30:48",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/crimedy7_illustration_of_a_robotics_factory_-ar_169_-v_7_99a85bc8-7300-47dd-8df6-3e5ec373022f_2.png?w=578"
-        },
-        {
-            "title": "OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises ‘plenty of notice’ if it leaves again",
-            "link": "https://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/",
-            "description": "For now, the changes should help placate users who felt frustrated by the sudden shift to GPT-5 and deprecation of OpenAI's older LLMs.",
-            "pubDate": "2025-08-13T03:11:16",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Shifting-Gears-in-Bold-Motion.png?w=578"
-        },
-        {
-            "title": "The end of perimeter defense: When your own AI tools become the threat actor",
-            "link": "https://venturebeat.com/security/black-hat-2025-chatgpt-copilot-deepseek-now-create-malware/",
-            "description": "Russia's APT28 tested LLM-powered malware on Ukraine. The same tech that breaches enterprises is now selling for $250/month on the dark web.",
-            "pubDate": "2025-08-13T01:04:55",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/final-hero-for-cato-post.jpg?w=578"
         }
     ]
 }

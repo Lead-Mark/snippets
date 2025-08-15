@@ -2,14 +2,49 @@
     "title": "Preventative",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Preventative, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-14T10:58:02.748094",
+    "lastBuildDate": "2025-08-15T06:43:57.897430",
     "items": [
         {
-            "title": "Measles Is Baaaack. Are You At Risk?",
-            "link": "https://www.healthywomen.org/your-health/facts-about-measles",
-            "description": "You’ve probably seen measles popping up in your news feed lately — hopefully that’s the only place you’re seeing it — because cases have been on the r...",
-            "pubDate": "2025-08-14T14:00:02",
-            "image_url": "https://www.healthywomen.org/media-library/contagious-chickenpox-or-a-skin-rash.jpg?id=61460454&width=980"
+            "title": "8 Easy Ways To Protect Eye Health & Prevent Vision Loss, From An Optometrist",
+            "link": "https://www.mindbodygreen.com/articles/6-sight-threatening-eye-diseases-and-how-to-protect-yourself",
+            "description": "How to eat, exercise, and sleep your way to better eye health.",
+            "pubDate": "2025-08-15T10:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Breaking Down Why Medicare Part D Premiums Are Likely To Go Up",
+            "link": "https://kffhealthnews.org/news/article/medicare-part-d-premiums-rising-reasons/",
+            "description": "Insurers will take drug costs, frequency of use, and other factors into account as they set premium amounts for the 2026 plan year.",
+            "pubDate": "2025-08-15T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Maryland Taps Affordable Care Act Fund To Help Pay for Abortion Care",
+            "link": "https://kffhealthnews.org/news/article/maryland-abortion-care-traveling-patients-uninsured-affordable-care-act-fund/",
+            "description": "The state is using an old source of funding to pay for a new money crunch: assisting out-of-state patients with the costs associated with abortion.",
+            "pubDate": "2025-08-15T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "How To Tell If You're Dealing With Mild Chronic Depression, From A Psychologist",
+            "link": "https://www.mindbodygreen.com/articles/dysthymia-what-it-is-and-what-to-do-about-it-psychologist-explains",
+            "description": "Aka \"dysthymia.\"",
+            "pubDate": "2025-08-15T11:06:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "4 Tips for When Your Busy Brain Fights Sleep—From A Psychologist",
+            "link": "https://www.mindbodygreen.com/articles/im-phd-who-specializes-in-overthinkingdo-this-for-better-sleep",
+            "description": "Better sleep is just a few steps away.",
+            "pubDate": "2025-08-15T11:01:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Don’t Forget To Test This On Your Fertility Journey, Says Hormone Expert",
+            "link": "https://www.mindbodygreen.com/articles/trying-to-conceive-why-both-partners-should-get-fertility-testing",
+            "description": "Fertility is a two-way street",
+            "pubDate": "2025-08-15T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Which Platform of Platforms (UDHP) is Right for your Health System? A Market Analysis",
@@ -19,18 +54,25 @@
             "image_url": "https://thehealthcareblog.com/wp-content/uploads/2025/06/Neil-Jennings.jpg"
         },
         {
-            "title": "Pandemia de miedo: redadas de inmigración empujan a pacientes a la telemedicina",
-            "link": "https://kffhealthnews.org/news/article/pandemia-de-miedo-redadas-de-inmigracion-empujan-a-pacientes-a-la-telemedicina/",
-            "description": "Los pacientes que necesitan atención médica tienen cada vez más miedo de buscarla después que Trump derogara una política de la era Biden que prohibía...",
-            "pubDate": "2025-08-14T09:59:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/Sweidan_02.jpg"
-        },
-        {
             "title": "‘A Fear Pandemic’: Immigration Raids Push Patients Into Telehealth",
             "link": "https://kffhealthnews.org/news/article/immigration-customs-enforcement-raids-fear-california-latino-telehealth/",
             "description": "With intensified immigration enforcement in California, community clinics serving Latino and immigrant populations say they’ve noticed an increase in ...",
             "pubDate": "2025-08-14T10:00:00",
             "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/Sweidan_02.jpg"
+        },
+        {
+            "title": "Measles Is Baaaack. Are You At Risk?",
+            "link": "https://www.healthywomen.org/your-health/facts-about-measles",
+            "description": "You’ve probably seen measles popping up in your news feed lately — hopefully that’s the only place you’re seeing it — because cases have been on the r...",
+            "pubDate": "2025-08-14T14:00:02",
+            "image_url": "https://www.healthywomen.org/media-library/contagious-chickenpox-or-a-skin-rash.jpg?id=61460454&width=980"
+        },
+        {
+            "title": "KFF Health News' 'What the Health?': Trump Further Politicizes Science",
+            "link": "https://kffhealthnews.org/news/podcast/what-the-health-410-trump-politicizes-science-august-14-2025/",
+            "description": "President Donald Trump’s latest executive order about science and medicine seeks to take funding decisions out of the hands of career scientists and g...",
+            "pubDate": "2025-08-14T18:55:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "‘Alternative Facts’ Aren’t a Reason To Skip Vaccines",
@@ -40,39 +82,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Feel Like You’ve Lost Yourself? These 6 Expert Tips Can Help",
-            "link": "https://www.mindbodygreen.com/articles/6-ways-to-realign-with-yourself-when-youve-been-on-autopilot",
-            "description": "Expert advice on getting unstuck & finding your true you.",
-            "pubDate": "2025-08-14T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "B12 Deficiency Linked To Risk Of This Autoimmune Disease, Study Finds",
-            "link": "https://www.mindbodygreen.com/articles/study-b12-deficiency-linked-with-autoimmune-thyroid-diseases-what-to-do-about-it",
-            "description": "Here's what to do about it.",
-            "pubDate": "2025-08-14T10:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "How A Psychotherapist Winds Down From The Day & Gets Into Sleep Mode",
-            "link": "https://www.mindbodygreen.com/articles/wind-down-psychotherapist-by-corey-yeager-phd",
-            "description": "Corey Yeager, Ph.D., shares his sleep routine.",
-            "pubDate": "2025-08-14T11:05:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "This Functional Mushroom Has Some Impressive Mood-Balancing Benefits",
-            "link": "https://www.mindbodygreen.com/articles/this-functional-mushroom-helps-balance-your-mood-and-improve-focus",
-            "description": "A reason to love mushrooms.",
-            "pubDate": "2025-08-14T11:07:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The Best Way To Clean Makeup Sponges: What *Actually* Works",
-            "link": "https://www.mindbodygreen.com/articles/how-to-clean-makeup-sponges-expert-tips-on-what-actually-works",
-            "description": "Scrub, scrub!",
-            "pubDate": "2025-08-14T10:31:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "When is Preventative Care not Preventative? Let’s get Labcorp to join in! (with UPDATE)",
+            "link": "https://thehealthcareblog.com/blog/2025/08/13/when-is-preventative-care-not-preventative-lets-get-labcorp-to-join-in/",
+            "description": "By MATTHEW HOLT To join in the fun I am having with Blue Shield of California & Brown & Toland Physicians IPA being unable to tell me why I have a $34...",
+            "pubDate": "2025-08-13T21:35:04",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2025/08/BS-Ca-50-1024x483.jpg"
         },
         {
             "title": "New Tools Aim to Predict Preeclampsia",
@@ -82,27 +96,6 @@
             "image_url": "https://www.healthywomen.org/media-library/pregnant-woman-sitting-in-her-kitchen-during-blood-pressure-measurement.jpg?id=61458324&width=980"
         },
         {
-            "title": "When is Preventative Care not Preventative? Let’s get Labcorp to join in!",
-            "link": "https://thehealthcareblog.com/blog/2025/08/13/when-is-preventative-care-not-preventative-lets-get-labcorp-to-join-in/",
-            "description": "By MATTHEW HOLT To join in the fun I am having with Blue Shield of California & Brown & Toland Physicians IPA being unable to tell me why I have a $34...",
-            "pubDate": "2025-08-13T21:35:04",
-            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2025/08/BS-Ca-50-1024x483.jpg"
-        },
-        {
-            "title": "Medicaid Cuts Could Have Vast Ripple Effects in This Rural Colorado Community",
-            "link": "https://kffhealthnews.org/news/article/medicaid-cuts-rural-colorado-trump-economic-ripple-effects/",
-            "description": "In rural Colorado and across rural America, Medicaid is a lifeline, especially for people who wouldn’t otherwise have easy access to health care. That...",
-            "pubDate": "2025-08-13T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/Mascarenas.jpg"
-        },
-        {
-            "title": "An Arm and a Leg: A Wild Health Insurance Hustle",
-            "link": "https://kffhealthnews.org/news/podcast/a-wild-health-insurance-hustle/",
-            "description": "A couple in New York thought they bought insurance. Instead, they got fake “jobs.”",
-            "pubDate": "2025-08-13T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
             "title": "Après AI, le Déluge",
             "link": "https://thehealthcareblog.com/blog/2025/08/12/apres-ai-le-deluge/",
             "description": "By KIM BELLARD I have to admit, I’ve steered away from writing about AI lately. There’s just so much going on, so fast, that I can’t keep up. Don’t as...",
@@ -110,25 +103,25 @@
             "image_url": "https://thehealthcareblog.com/wp-content/uploads/2020/01/1_nqqfyFoqgU0fwhWi8cOHbQ.jpg"
         },
         {
+            "title": "Elijah Westbrook Wants Millennials to Take Their Health Seriously",
+            "link": "https://blackhealthmatters.com/elijah-westbrook-wants-millennials-to-take-their-health-seriously/",
+            "description": "CBS News reporter Elijah Westbrook makes sure he stays on top of his annual and biannual health screenings. He believes his fellow Millennials need to...",
+            "pubDate": "2025-08-12T17:26:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
             "title": "Dr. Danielle Spencer, aka Dee From “What’s Happening” Has Died",
             "link": "https://blackhealthmatters.com/dr-danielle-spencer-aka-dee-from-whats-happening-has-died/",
             "description": "Dr. Danielle Spencer, who was wise beyond her years as Dee Thomas in the 1970s sitcom “What’s Happening,” has died. She was 60 years old. Her friend a...",
             "pubDate": "2025-08-12T21:43:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Dwight Eubanks’ Initial Prostate Cancer Diagnosis Was Lost",
             "link": "https://blackhealthmatters.com/dwight-eubanks-initial-prostate-cancer-diagnosis-was-lost/",
             "description": "Dwight Eubanks was diagnosed with prostate cancer in 2022. There was just one problem: no one told him about it. The hairstylist and owner of The Purp...",
             "pubDate": "2025-08-12T01:13:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Elijah Westbrook Wants Millennials to Take Their Health Seriously",
-            "link": "https://blackhealthmatters.com/elijah-westbrook-wants-millennials-to-take-their-health-seriously/",
-            "description": "CBS News reporter Elijah Westbrook makes sure he stays on top of his annual and biannual health screenings. He believes his fellow Millennials need to...",
-            "pubDate": "2025-08-12T17:26:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Navigating Health Insurance for Nasal Polyps",
@@ -142,7 +135,7 @@
             "link": "https://thehealthcareblog.com/blog/2025/08/11/how-exactly-is-my-lab-test-co-pay-34-94/",
             "description": "By MATTHEW HOLT I moved over something I wrote on linkedin, so that it doesn’t vanish. I do this type of thing so you don’t have to & to make Brett Ja...",
             "pubDate": "2025-08-11T23:05:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Where “Little Flowers” Bloom – Two by Two",
