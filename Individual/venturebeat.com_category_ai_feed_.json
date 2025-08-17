@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-16T01:17:06.838619",
+    "lastBuildDate": "2025-08-17T03:37:55.810938",
     "items": [
+        {
+            "title": "Teaching the model: Designing LLM feedback loops that get smarter over time",
+            "link": "https://venturebeat.com/ai/teaching-the-model-designing-llm-feedback-loops-that-get-smarter-over-time/",
+            "description": "How to close the loop between user behavior and LLM performance, and why human-in-the-loop systems are still essential in the age of gen AI.",
+            "pubDate": "2025-08-16T21:15:00",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/DDM-Sat.webp?w=578"
+        },
         {
             "title": "This researcher turned OpenAI’s open weights model gpt-oss-20b into a non-reasoning ‘base’ model with less alignment, more freedom",
             "link": "https://venturebeat.com/ai/this-researcher-turned-openais-open-weights-model-gpt-oss-20b-into-a-non-reasoning-base-model-with-less-alignment-more-freedom/",
@@ -31,13 +38,6 @@
             "description": "For enterprise teams and commercial developers, this means the model can be embedded in products or fine-tuned.",
             "pubDate": "2025-08-14T19:21:55",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/gemma-3-270m.png?w=578"
-        },
-        {
-            "title": "Anthropic takes on OpenAI and Google with new Claude AI features designed for students and developers",
-            "link": "https://venturebeat.com/ai/anthropic-takes-on-openai-and-google-with-new-claude-ai-features-designed-for-students-and-developers/",
-            "description": "Anthropic launches learning modes for Claude AI that guide users through step-by-step reasoning instead of providing direct answers, intensifying comp...",
-            "pubDate": "2025-08-14T18:00:18",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_laptop_growing_tree_in_burnt_orange_b898ab83-b7a3-4d13-bf2e-14f87cde78f2.webp?w=578"
         }
     ]
 }
