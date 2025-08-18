@@ -2,42 +2,42 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-18T11:04:17.166377",
+    "lastBuildDate": "2025-08-18T17:13:29.567315",
     "items": [
+        {
+            "title": "Hugging Face: 5 ways enterprises can slash AI costs without sacrificing performance",
+            "link": "https://venturebeat.com/ai/hugging-face-5-ways-enterprises-can-slash-ai-costs-without-sacrificing-performance/",
+            "description": "Ultimately, model makers and enterprises are focusing on the wrong issue: They should be computing smarter, not harder.",
+            "pubDate": "2025-08-18T22:10:04",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/HF.webp?w=578"
+        },
+        {
+            "title": "GEPA optimizes LLMs without costly reinforcement learning",
+            "link": "https://venturebeat.com/ai/gepa-optimizes-llms-without-costly-reinforcement-learning/",
+            "description": "Moving beyond the slow, costly trial-and-error of RL, GEPA teaches AI systems to learn and improve using natural language.",
+            "pubDate": "2025-08-18T21:41:22",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/prompt-optimization.jpg?w=578"
+        },
+        {
+            "title": "TensorZero nabs $7.3M seed to solve the messy world of enterprise LLM development",
+            "link": "https://venturebeat.com/ai/tensorzero-nabs-7-3m-seed-to-solve-the-messy-world-of-enterprise-llm-development/",
+            "description": "TensorZero raises $7.3 million to build an open-source AI infrastructure stack that helps enterprises scale and optimize large language model (LLM) ap...",
+            "pubDate": "2025-08-18T20:13:32",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_startup_rocket_launching_from_GitHub_b50293fc-4a98-45b1-9aa3-e4f968daab65_adbce1.webp?w=578"
+        },
+        {
+            "title": "The looming crisis of AI speed without guardrails",
+            "link": "https://venturebeat.com/ai/the-looming-crisis-of-ai-speed-without-guardrails/",
+            "description": "The future will arrive with or without our guardrails. We must design AI’s structures now for a future of abundance rather than disruption.",
+            "pubDate": "2025-08-18T19:24:27",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Speed-without-Guardrails.jpg?w=578"
+        },
         {
             "title": "Teaching the model: Designing LLM feedback loops that get smarter over time",
             "link": "https://venturebeat.com/ai/teaching-the-model-designing-llm-feedback-loops-that-get-smarter-over-time/",
             "description": "How to close the loop between user behavior and LLM performance, and why human-in-the-loop systems are still essential in the age of gen AI.",
             "pubDate": "2025-08-16T21:15:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/DDM-Sat.webp?w=578"
-        },
-        {
-            "title": "This researcher turned OpenAI’s open weights model gpt-oss-20b into a non-reasoning ‘base’ model with less alignment, more freedom",
-            "link": "https://venturebeat.com/ai/this-researcher-turned-openais-open-weights-model-gpt-oss-20b-into-a-non-reasoning-base-model-with-less-alignment-more-freedom/",
-            "description": "Morris found it could also reproduce verbatim passages from copyrighted works, including three out of six book excerpts he tried.",
-            "pubDate": "2025-08-15T20:19:07",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/cfr0z3n_flat_illustration_minimalist_pointillism_gradients_re_cdcd477b-0b29-481d-b04e-ed930ec4dc51_2.png?w=578"
-        },
-        {
-            "title": "That ‘cheap’ open-source AI model is actually burning through your compute budget",
-            "link": "https://venturebeat.com/ai/that-cheap-open-source-ai-model-is-actually-burning-through-your-compute-budget/",
-            "description": "New research reveals open-source AI models use up to 10 times more computing resources than closed alternatives, potentially negating cost advantages ...",
-            "pubDate": "2025-08-15T02:24:49",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_dollar_bills_burning_blue_halftone_phot_64f22ade-4971-4234-822b-ba7dab7461de.webp?w=578"
-        },
-        {
-            "title": "Gartner: GPT-5 is here, but the infrastructure to support true agentic AI isn’t (yet)",
-            "link": "https://venturebeat.com/ai/gartner-gpt-5-is-here-but-the-infrastructure-to-support-true-agentic-ai-isnt-yet/",
-            "description": "While OpenAI’s GPT-5 is highly-performant, capable and an important step forward, it features just faint glimmers of true agentic AI.",
-            "pubDate": "2025-08-14T22:35:28",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/u7277289442_A_modern-day_tinman_walks_on_a_yellow_brick_road._d3368692-6f16-4970-94dc-57a3a5188096_3.png?w=578"
-        },
-        {
-            "title": "Google unveils ultra-small and efficient open source AI model Gemma 3 270M that can run on smartphones",
-            "link": "https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/",
-            "description": "For enterprise teams and commercial developers, this means the model can be embedded in products or fine-tuned.",
-            "pubDate": "2025-08-14T19:21:55",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/gemma-3-270m.png?w=578"
         }
     ]
 }
