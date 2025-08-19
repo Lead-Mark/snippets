@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-18T17:13:19.629181",
+    "lastBuildDate": "2025-08-19T06:54:28.273571",
     "items": [
+        {
+            "title": "Garlicky Cherry Tomato Pasta with White Beans",
+            "link": "https://minimalistbaker.com/cherry-tomato-white-bean-pasta/",
+            "description": "The perfect late-summer weeknight dish is here: Garlicky Cherry Tomato Pasta with White Beans! It’s a go-to in our kitchen when we’re craving somethin...",
+            "pubDate": "2025-08-19T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/04/Garlicky-Cherry-Tomato-Pasta-with-White-Beans-8-680x1020.jpg"
+        },
         {
             "title": "Potsticker Casserole",
             "link": "https://therecipecritic.com/dumpling-casserole/",
@@ -59,13 +66,6 @@
             "description": "Simple methods and BIG flavor collide in this Lemony Quinoa Kale Salad with Crispy Chickpeas! It’s zesty and sweet, full of crunch, and packed with wh...",
             "pubDate": "2025-07-15T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/03/Crispy-Chickpea-Quinoa-Kale-Salad-7-680x1020.jpg"
-        },
-        {
-            "title": "Gluten-Free Funfetti Cupcakes (1 Bowl!)",
-            "link": "https://minimalistbaker.com/gluten-free-funfetti-cupcakes/",
-            "description": "Hold onto your sprinkles, folks! This recipe takes the cake, literally. We’ve taken our crowd-favorite funfetti cupcakes and made them undetectably gl...",
-            "pubDate": "2025-06-24T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/11/Gluten-Free-Funfetti-Cupcakes-8-680x1020.jpg"
         }
     ]
 }

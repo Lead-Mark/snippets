@@ -2,21 +2,35 @@
     "title": "briefUpdatesHealthOffshootNL",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesHealthOffshootNL, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-18T17:12:52.150486",
+    "lastBuildDate": "2025-08-19T06:54:05.970010",
     "items": [
+        {
+            "title": "Gun violence hits Black communities hardest. Trump is rolling back prevention efforts",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/08/19/nx-s1-5501679/gun-violence-prevention-trump-black-communities",
+            "description": "The suffering of America's gun violence crisis is concentrated in Black neighborhoods damaged by decades of disinvestment and racial discrimination. T...",
+            "pubDate": "2025-08-19T10:36:51",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1170x969+0+0/resize/1170x969!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2Fb4%2F2c824e52487bb4dfa18213a380be%2Fbogalusa-00.jpg"
+        },
+        {
+            "title": "Guns, Race, and Profit: The Pain of America’s Other Epidemic",
+            "link": "https://kffhealthnews.org/news/article/bogalusa-louisiana-gun-violence-firearm-industry-black-communities-discrimination/",
+            "description": "Firearm violence is killing Americans at the scale of a public health epidemic. The suffering is concentrated in Black neighborhoods damaged by segreg...",
+            "pubDate": "2025-08-19T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/07/Bogalusa_04-resized.jpg"
+        },
+        {
+            "title": "The National Suicide Hotline For LGBTQ+ Youth Went Dead. States Are Scrambling To Help.",
+            "link": "https://kffhealthnews.org/news/article/988-suicide-crisis-lifeline-hotline-lgbtq-press-3-option-ended-states-backfill/",
+            "description": "LGBTQ+ youth lost dedicated support on the 988 Suicide & Crisis Lifeline in July at a critical time. Advocates say mental health issues are rising in ...",
+            "pubDate": "2025-08-19T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
         {
             "title": "Health Care Groups Aim To Counter Growing ‘National Scandal’ of Elder Homelessness",
             "link": "https://kffhealthnews.org/news/article/elder-homelessness-health-care-assistance-pace/",
             "description": "The housing crisis is requiring creative scrambling and new partnerships from health care organizations to keep older patients out of expensive nursin...",
             "pubDate": "2025-08-18T10:00:00",
             "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/ElderHousing_01-feat.jpg"
-        },
-        {
-            "title": "Researchers discover a secret weapon that saves babies' lives. And it's not medical",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/08/18/g-s1-83197/infants-health-cash-aid-kenya",
-            "description": "To save the lives of infants and small kids in lower resource countries, there are a handful of tools: anti-malarial drugs, bed nets and vaccines. A m...",
-            "pubDate": "2025-08-18T15:08:27",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F6a%2Fec1b5fb3439d97c9062e7e7c79ed%2Fcash-aid.jpg"
         },
         {
             "title": "Younger adults getting 'baby Botox' to stop wrinkles from forming",
@@ -26,18 +40,25 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5500315"
         },
         {
-            "title": "It’s Almost Flu Season. Should You Still Get a Shot, and Will Insurance Cover It?",
-            "link": "https://kffhealthnews.org/news/article/flu-season-vaccine-guidance-cdc-kennedy/",
-            "description": "Doctors and public health leaders, including at the Centers for Disease Control and Prevention, recommend that most people 6 months old and older get ...",
-            "pubDate": "2025-08-18T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Researchers discover a secret weapon that saves babies' lives. And it's not medical",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/08/18/g-s1-83197/infants-health-cash-aid-kenya",
+            "description": "To save the lives of infants and small kids in lower resource countries, there are a handful of tools: anti-malarial drugs, bed nets and vaccines. A m...",
+            "pubDate": "2025-08-18T15:08:27",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F6a%2Fec1b5fb3439d97c9062e7e7c79ed%2Fcash-aid.jpg"
         },
         {
             "title": "Hunting down my $34.94 lab test. An journey into the bowels of insurance billing",
             "link": "https://thehealthcareblog.com/blog/2025/08/18/hunting-down-my-34-94-lab-test-an-journey-into-the-bowels-of-insurance-billing/",
             "description": "By MATTHEW HOLT So I am back dealing with Labcorp & Blue Shield of California over the mysterious $34.94 copay. If you want to catch up go here Over t...",
             "pubDate": "2025-08-18T17:46:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "It’s Almost Flu Season. Should You Still Get a Shot, and Will Insurance Cover It?",
+            "link": "https://kffhealthnews.org/news/article/flu-season-vaccine-guidance-cdc-kennedy/",
+            "description": "Doctors and public health leaders, including at the Centers for Disease Control and Prevention, recommend that most people 6 months old and older get ...",
+            "pubDate": "2025-08-18T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Hair loss remedies for women are all over social media. Here's how to know what works",
@@ -54,32 +75,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fe9%2Faccc2205431398be47f382dfda7f%2Fpicture-5-v2.jpg"
         },
         {
-            "title": "Amid growing 'scandal' of elder homelessness, health care groups aim to help",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/08/16/nx-s1-5504068/homeless-older-americans-housing-pace-medicare-medicaid",
-            "description": "The housing crisis is requiring creative scrambling and new partnerships from health care organizations to keep older patients out of expensive nursin...",
-            "pubDate": "2025-08-16T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1199x899+0+0/resize/1199x899!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F7d%2Fd0f2849143718fad3dd188081ca3%2Felderhousing-01.jpg"
-        },
-        {
             "title": "CDC Staff Tell Journalist They Felt Targeted Even Before Atlanta Campus Shooting",
             "link": "https://kffhealthnews.org/news/article/on-air-august-16-2025-cdc-shooting-employees-respond-gounder-medicaid-expansion/",
             "description": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
             "pubDate": "2025-08-16T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Reduced ACA Subsidies May Make It Harder for Young Adults To Afford Coverage",
-            "link": "https://kffhealthnews.org/news/article/the-week-in-brief-obamacare-subsidies-turning-26-affording-health-care/",
-            "description": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-            "pubDate": "2025-08-15T20:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Maryland Taps Affordable Care Act Fund To Help Pay for Abortion Care",
-            "link": "https://kffhealthnews.org/news/article/maryland-abortion-care-traveling-patients-uninsured-affordable-care-act-fund/",
-            "description": "The state is using an old source of funding to pay for a new money crunch: assisting out-of-state patients with the costs associated with abortion.",
-            "pubDate": "2025-08-15T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Which Platform of Platforms (UDHP) is Right for your Health System? A Market Analysis",
