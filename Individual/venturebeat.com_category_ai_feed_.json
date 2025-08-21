@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-21T10:57:22.292969",
+    "lastBuildDate": "2025-08-21T15:38:06.179880",
     "items": [
+        {
+            "title": "Chan Zuckerberg Initiative’s rBio uses virtual cells to train AI, bypassing lab work",
+            "link": "https://venturebeat.com/ai/chan-zuckerberg-initiatives-rbio-uses-virtual-cells-to-train-ai-bypassing-lab-work/",
+            "description": "The Chan Zuckerberg Initiative unveils rBio, a groundbreaking AI model that simulates cell biology without lab experiments to accelerate drug discover...",
+            "pubDate": "2025-08-21T19:53:02",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_AI_analyzing_cells_e3d03bda-a9ab-44b8-8460-cf2f257967e5.webp?w=578"
+        },
+        {
+            "title": "How AI ‘digital minds’ startup Delphi stopped drowning in user data and scaled up with Pinecone",
+            "link": "https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/",
+            "description": "Delphi envisions millions of Digital Minds active across domains and audiences. Pinecone sees its database as the retrieval layer.",
+            "pubDate": "2025-08-21T17:40:59",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/0_2.png?w=578"
+        },
         {
             "title": "Enterprise Claude gets admin, compliance tools—just not unlimited usage",
             "link": "https://venturebeat.com/ai/enterprise-claude-gets-admin-compliance-tools-just-not-unlimited-usage/",
@@ -24,20 +38,6 @@
             "description": "CodeSignal Inc., the San Francisco-based skills assessment platform trusted by Netflix, Meta, and Capital One, launched Cosmo on Wednesday, a mobile l...",
             "pubDate": "2025-08-20T19:26:57",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/IMG_2895.jpg?w=578"
-        },
-        {
-            "title": "Stop benchmarking in the lab: Inclusion Arena shows how LLMs perform in production",
-            "link": "https://venturebeat.com/ai/stop-benchmarking-in-the-lab-inclusion-arena-shows-how-llms-perform-in-production/",
-            "description": "Researchers from Inclusion AI and Ant Group proposed a new LLM leaderboard that takes its data from real, in-production apps.",
-            "pubDate": "2025-08-20T00:07:40",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/crimedy7_illustration_of_a_race_between_robots_-ar_169_-v_7_e928de58-1325-4828-a4c3-a58c171d2176_1.png?w=578"
-        },
-        {
-            "title": "LLMs generate ‘fluent nonsense’ when reasoning outside their training zone",
-            "link": "https://venturebeat.com/ai/llms-generate-fluent-nonsense-when-reasoning-outside-their-training-zone/",
-            "description": "Chain-of-Thought isn't a plug-and-play solution. For developers, this research offers a blueprint for LLM testing and strategic fine-tuning.",
-            "pubDate": "2025-08-19T23:12:37",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Broken-CoT.jpg?w=578"
         }
     ]
 }
