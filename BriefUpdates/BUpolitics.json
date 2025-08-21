@@ -2,8 +2,15 @@
     "title": "BUpolitics",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUpolitics, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-20T17:45:19.304503",
+    "lastBuildDate": "2025-08-21T06:26:14.015226",
     "items": [
+        {
+            "title": "Texas' Republican-controlled House approves new maps to create more winnable GOP congressional seats",
+            "link": "https://www.washingtontimes.com/news/2025/aug/20/texas-republican-controlled-house-approves-new-maps-create-winnable/",
+            "description": "Texas Republicans on Wednesday took the first step toward approving new congressional maps that would give their party as many as five new seats in th...",
+            "pubDate": "2025-08-21T00:29:35",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/08/20/Election_2026_Redistricting_00552_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
         {
             "title": "Angered by America, India tilts toward China",
             "link": "https://www.washingtontimes.com/news/2025/aug/20/angered-america-india-tilts-toward-china/",
@@ -12,25 +19,11 @@
             "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/08/19/India_China_28572_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
         },
         {
-            "title": "Survey finds Federal Student Aid complaints surging amid federal layoffs",
-            "link": "https://www.washingtontimes.com/news/2025/aug/20/survey-finds-federal-student-aid-complaints-surging-amid-federal/",
-            "description": "Recent surveys show a sharp increase in college administrators complaining about the Federal Student Aid process as the Trump administration implement...",
-            "pubDate": "2025-08-20T18:35:10",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2018/10/01/fafsa_availability_96222_s1440x961.jpg?6ffc4d3d57b058013256ad5bbd6d52434af2a762"
-        },
-        {
-            "title": "Musk pauses third-party plan: Report",
-            "link": "https://www.washingtontimes.com/news/2025/aug/20/elon-musk-pauses-third-party-plan-report/",
-            "description": "Tech billionaire Elon Musk has set aside his idea of a third party in exchange for staying in the good graces of Republicans and focusing on his compa...",
-            "pubDate": "2025-08-20T18:25:17",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/06/20/Musk-Robotaxis-New_Law_90928_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "Judge denies Justice Department request to unseal Epstein grand jury transcripts",
-            "link": "https://www.washingtontimes.com/news/2025/aug/20/judge-denies-justice-department-request-unseal-jeffrey-epstein-grand/",
-            "description": "A federal judge in New York who presided over the sex trafficking case against the late financier Jeffrey Epstein has rejected the government's reques...",
-            "pubDate": "2025-08-20T18:50:57",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/08/05/Epstein_Congress_11784_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+            "title": "Judge denies Justice Department request for Epstein grand jury transcripts",
+            "link": "https://www.washingtontimes.com/news/2025/aug/20/judge-denies-justice-department-request-epstein-grand-jury/",
+            "description": "The Justice Department's request to unseal grand jury transcripts from the sex trafficking case against Jeffrey Epstein was denied by a federal judge ...",
+            "pubDate": "2025-08-20T20:49:03",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2024/01/04/Epstein_Fact_Focus_06431_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
         },
         {
             "title": "Jerome Powell eyes long-awaited rate cut in September",
@@ -40,32 +33,39 @@
             "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/08/01/Federal_Reserve_Powell_41217_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
         },
         {
+            "title": "Court allows Trump to end deportation amnesty for Honduras, Nicaragua, Nepal",
+            "link": "https://www.washingtontimes.com/news/2025/aug/20/court-allows-trump-end-deportation-amnesty-honduras-nicaragua-nepal/",
+            "description": "A federal appeals court said Wednesday that Homeland Security can move ahead with plans to end long-running deportation amnesties, known as Temporary ...",
+            "pubDate": "2025-08-20T22:08:11",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/07/02/Haiti_Temporary_Protected_Status_Ruling_93073_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
             "title": "Trump Administration Opens ICE Detention Center at Fort Bliss",
             "link": "https://www.immigrationreform.com/2025/08/19/trump-administration-opens-ice-detention-center-at-fort-bliss/",
             "description": "As part of an effort to increase detention space, the East Montana Detention Facility is set to become the largest federal immigration detention cente...",
             "pubDate": "2025-08-19T19:47:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Rep. Delia Ramirez’s Remarks Underscore How Unchecked Mass Migration Discourages Assimilation",
             "link": "https://www.immigrationreform.com/2025/08/14/rep-delia-ramirezs-remarks-underscore-how-unchecked-mass-migration-discourages-assimilation/",
             "description": "Rep. Delia Ramirez recently asserted that “I’m a proud Guatemalan before I’m an American” while bashing America at the left-wing Panamerican Congress ...",
             "pubDate": "2025-08-14T13:57:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Never Get Used to Illegal Alien Crime. This Family Won’t.",
             "link": "https://www.immigrationreform.com/2025/08/13/never-get-used-to-illegal-alien-crime-this-family-wont/",
             "description": "Drunk drivers kill. Illegal alien drunk drivers who kill because sanctuary jurisdictions put them back behind the wheel instead of handing them over t...",
             "pubDate": "2025-08-13T14:08:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Strange Case File: ICE Nabs Illegal Alien Working as a Police Officer",
             "link": "https://www.immigrationreform.com/2025/08/06/strange-case-file-ice-nabs-illegal-alien-working-as-a-police-officer/",
             "description": "ICE recently arrested an illegal alien in Maine. Nothing unusual about that. Except this illegal alien turned out to be a police officer in a tony bea...",
             "pubDate": "2025-08-06T17:48:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Former Trump statistics chief slams Friday firing of Erika McEntarfer",
@@ -86,6 +86,20 @@
             "link": "https://www.immigrationreform.com/2025/07/31/dhs-launches-600-million-grant-program-for-state-detention-centers/",
             "description": "The new grant program will support states in building detention centers for illegal aliens, similar to the new facility in the Florida Everglades, as ...",
             "pubDate": "2025-07-31T21:11:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "What to Know About China's DeepSeek AI",
+            "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
+            "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+            "pubDate": "2025-01-27T18:17:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
+            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+            "pubDate": "2025-01-27T13:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
@@ -93,35 +107,21 @@
             "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
             "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
             "pubDate": "2025-01-27T17:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "What to Know About China's DeepSeek AI",
-            "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
-            "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
-            "pubDate": "2025-01-27T18:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
-            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
-            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
-            "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
             "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
             "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
             "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
             "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
             "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
             "pubDate": "2025-01-26T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
