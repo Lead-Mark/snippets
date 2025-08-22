@@ -2,28 +2,21 @@
     "title": "BUbreakingSectionTwo",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUbreakingSectionTwo, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-21T23:06:16.498790",
+    "lastBuildDate": "2025-08-22T00:53:53.038567",
     "items": [
+        {
+            "title": "Thaksin Shinawatra, Former Thai Premier, Cleared of Insulting Monarchy",
+            "link": "https://www.nytimes.com/2025/08/21/world/asia/thailand-thaksin-royal-insult.html",
+            "description": "But the reprieve for Thaksin Shinawatra, who remains a political force, did not mean that the legal troubles for him and his family were over.",
+            "pubDate": "2025-08-22T04:53:25",
+            "image_url": "https://static01.nyt.com/images/2025/08/22/multimedia/22int-thailand-thaksin-mgtf/22int-thailand-thaksin-mgtf-mediumSquareAt3X.jpg"
+        },
         {
             "title": "White House Lists Smithsonian Exhibits It Finds Objectionable",
             "link": "https://www.nytimes.com/2025/08/21/arts/design/smithsonian-trump.html",
             "description": "The Trump administration highlighted material dealing with topics like sexuality, slavery and immigration.",
             "pubDate": "2025-08-22T03:00:55",
             "image_url": "https://static01.nyt.com/images/2025/08/21/multimedia/21cul-smithsonian-review-czkp/21cul-smithsonian-review-czkp-mediumSquareAt3X.jpg"
-        },
-        {
-            "title": "‘Twelfth Night’ Review: Lupita Nyong’o in Illyria",
-            "link": "https://www.nytimes.com/2025/08/21/theater/twelfth-night-review-lupita-nyongo-in-illyria.html",
-            "description": "The actress is luminous, alongside her look-alike brother Junior Nyong’o, Sandra Oh and Peter Dinklage, in Shakespeare’s comedy at the newly revived D...",
-            "pubDate": "2025-08-22T03:00:07",
-            "image_url": "https://static01.nyt.com/images/2025/08/21/multimedia/twelfth-night-mgvh/twelfth-night-mgvh-mediumSquareAt3X-v2.jpg"
-        },
-        {
-            "title": "U.S. Kills Islamic State Operative in Rare Raid in Syria",
-            "link": "https://www.nytimes.com/2025/08/21/us/politics/islamic-state-us-raid-syria.html",
-            "description": "The Pentagon provided few details about the operation. But counterterrorism raids — as opposed to airstrikes — typically involve helicopter-borne comm...",
-            "pubDate": "2025-08-22T02:06:52",
-            "image_url": "https://static01.nyt.com/images/2025/08/21/multimedia/21dc-military-qlbk/21dc-military-qlbk-mediumSquareAt3X.jpg"
         },
         {
             "title": "Trump Budget Office Is Withholding H.I.V. Funds That Congress Appropriated",
@@ -33,6 +26,13 @@
             "image_url": "https://static01.nyt.com/images/2025/08/21/multimedia/xx-pepfar-funding-01-flkw/xx-pepfar-funding-01-flkw-mediumSquareAt3X.jpg"
         },
         {
+            "title": "Erik Menendez Has Been Denied Parole. Here’s What to Know.",
+            "link": "https://www.nytimes.com/article/menendez-brothers-resentencing-hearing.html",
+            "description": "A California parole panel said Mr. Menendez should not be released from prison, 36 years after he and his brother, Lyle, killed their parents. Lyle’s ...",
+            "pubDate": "2025-08-22T04:48:31",
+            "image_url": "https://static01.nyt.com/images/2024/10/17/multimedia/00xp-menendezbros-qhzb/00xp-menendezbros-qhzb-mediumSquareAt3X.jpg"
+        },
+        {
             "title": "Judge Orders ‘Alligator Alcatraz’ Detention Center in Florida to Shut Down for Now",
             "link": "https://www.nytimes.com/2025/08/21/us/alligator-alcatraz-florida-ruling.html",
             "description": "A judge ruled that the state and federal governments acted illegally by not conducting an environmental review before building the center in the Flori...",
@@ -40,18 +40,39 @@
             "image_url": "https://static01.nyt.com/images/2025/08/21/multimedia/00nat-alcatraz-ruling-fkzp/00nat-alcatraz-ruling-fkzp-mediumSquareAt3X.jpg"
         },
         {
-            "title": "‘Flying Blind’: Trump Strips Government of Expertise at a High-Stakes Moment",
-            "link": "https://www.nytimes.com/2025/08/21/us/politics/trump-government-expertise.html",
-            "description": "President Trump has few sources of independent advice just as he is trying to broker an end to the Russian invasion of Ukraine, perhaps the trickiest ...",
-            "pubDate": "2025-08-22T00:59:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Large Earthquake Strikes Drake Passage Near Argentina and Chile",
+            "link": "https://www.nytimes.com/2025/08/21/world/americas/argentina-earthquake-drake-passage.html",
+            "description": "The epicenter of the 7.5-magnitude quake was in the Drake Passage, a body of water between the southernmost tip of South America and Antarctica.",
+            "pubDate": "2025-08-22T05:03:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Friday Briefing: U.S. and Europe Flesh Out Trade Deal",
+            "link": "https://www.nytimes.com/2025/08/22/briefing/europe-us-trade-deal-ukraine-fallen-soldiers.html",
+            "description": "Also, a war photographer’s return to Afghanistan.",
+            "pubDate": "2025-08-22T05:30:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Thaksin Shinawatra, Former Thai Premier, Cleared of Insulting Monarchy",
+            "link": "https://www.nytimes.com/2025/08/21/world/asia/thailand-thaksin-royal-insult.html",
+            "description": "But the reprieve for Thaksin Shinawatra, who remains a political force, did not mean that the legal troubles for him and his family were over.",
+            "pubDate": "2025-08-22T04:53:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Map: 7.5-Magnitude Earthquake Strikes the South Atlantic Ocean",
+            "link": "https://www.nytimes.com/interactive/2025/08/21/world/americas/earthquake-drake-passage.html",
+            "description": "View the location of the quake’s epicenter and shake area.",
+            "pubDate": "2025-08-22T05:23:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Trump Budget Office Is Withholding H.I.V. Funds That Congress Appropriated",
             "link": "https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html",
             "description": "Lawmakers allocated $6 billion this fiscal year for PEPFAR, the H.I.V. prevention and treatment program, but the administration has indicated it will ...",
             "pubDate": "2025-08-22T03:44:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Bitcoin dips ahead of Fed chair’s remarks at Jackson Hole",
@@ -61,11 +82,11 @@
             "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/Crypto-Volatility-10.jpg?w=2048"
         },
         {
-            "title": "Hulk Hogan’s death is still under investigation by local police",
-            "link": "https://fortune.com/2025/08/21/hulk-hogan-death-investigation-police-clearwater-florida/",
-            "description": "Clearwater Police said the “unique nature of this case has required us to interview multiple witnesses and seek medical records from a variety of prov...",
-            "pubDate": "2025-08-21T20:40:18",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/AP25217842293529-e1755805031623.jpg?w=2048"
+            "title": "The white-collar job market is frozen—now bartenders and baristas are seeing bigger wage growth than desk workers",
+            "link": "https://fortune.com/2025/08/21/ai-office-jobs-white-collar-work-blue-collar-making-more-money/",
+            "description": "Gen Zers who are lucky enough to get an office job: Don’t expect a raise.",
+            "pubDate": "2025-08-21T20:38:49",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-1718588596_aed3e7-e1755804659189.jpg?w=2048"
         },
         {
             "title": "Fed governor has ‘no intention of being bullied to step down’ by Trump",
@@ -75,13 +96,6 @@
             "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/AP25232533900606-e1755804820244.jpg?w=2048"
         },
         {
-            "title": "The white-collar job market is frozen—now bartenders and baristas are seeing bigger wage growth than desk workers",
-            "link": "https://fortune.com/2025/08/21/ai-office-jobs-white-collar-work-blue-collar-making-more-money/",
-            "description": "Gen Zers who are lucky enough to get an office job: Don’t expect a raise.",
-            "pubDate": "2025-08-21T20:38:49",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-1718588596_aed3e7-e1755804659189.jpg?w=2048"
-        },
-        {
             "title": "China’s DeepSeek quietly releases an open-source rival to GPT-5—optimized for Chinese chips and priced to undercut OpenAI",
             "link": "https://fortune.com/2025/08/21/china-deepseek-releases-open-source-v3-1-model-to-rival-openai-gpt-5/",
             "description": "DeepSeek is forcing the U.S.–China AI rivalry into sharper focus and may put OpenAI on the back foot following its disappointing GPT-5 launch.",
@@ -89,25 +103,11 @@
             "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2230086465-e1755799366325.jpg?w=2048"
         },
         {
-            "title": "Texas Mother Wanted for Son’s Murder Arrested in India",
-            "link": "https://www.nytimes.com/2025/08/21/world/asia/cindy-singh-fbi-most-wanted-india.html",
-            "description": "Cindy Rodriguez Singh had fled the United States in 2023 shortly after the authorities questioned her about her 6-year-old’s disappearance.",
-            "pubDate": "2025-08-21T22:26:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Why India Is Stuck on Russian Oil",
-            "link": "https://www.nytimes.com/video/world/asia/100000010339930/why-india-is-stuck-on-russian-oil.html",
-            "description": "Three years ago, India ramped up its imports of Russia’s oil. Now President Trump is demanding that India reverse course and quit its cheap Russian oi...",
-            "pubDate": "2025-08-21T23:16:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Friday Briefing: The U.S. and Europe Flesh Out a Trade Deal",
-            "link": "https://www.nytimes.com/2025/08/21/briefing/us-eu-trade-deal-ukraine-war.html",
-            "description": "Also, a war photographer’s return to Afghanistan.",
-            "pubDate": "2025-08-21T22:04:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Hulk Hogan’s death is still under investigation by local police",
+            "link": "https://fortune.com/2025/08/21/hulk-hogan-death-investigation-police-clearwater-florida/",
+            "description": "Clearwater Police said the “unique nature of this case has required us to interview multiple witnesses and seek medical records from a variety of prov...",
+            "pubDate": "2025-08-21T20:40:18",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/08/AP25217842293529-e1755805031623.jpg?w=2048"
         }
     ]
 }
