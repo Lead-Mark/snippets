@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-22T05:19:32.500234",
+    "lastBuildDate": "2025-08-22T10:30:35.996419",
     "items": [
+        {
+            "title": "Copley Controls releases nano servo drives for mobile robots",
+            "link": "https://www.therobotreport.com/copley-controls-releases-nano-servo-drives-for-mobile-robots/",
+            "description": "New drives operate from 9 to 90 Vdc input voltage and deliver up to 140 A of continuous current, providing exceptional power density and efficiency. T...",
+            "pubDate": "2025-08-22T14:49:50",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/Copley_Nano_PR_BG.jpg"
+        },
         {
             "title": "Multiply Labs reduces biomanufacturing costs by 74% with UR cobots",
             "link": "https://www.therobotreport.com/multiply-labs-reduces-costs-74-percent-universal-robots-cobots/",
@@ -31,13 +38,6 @@
             "description": "Kodiak is integrating NXP technology into its Kodiak Actuation Control Engine, which manages vehicle actuation. The post Kodiak Robotics to use NXP pr...",
             "pubDate": "2025-08-20T20:31:05",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/Kodiak_Robotics-NXP-featured.jpg"
-        },
-        {
-            "title": "FieldAI raises $405M to scale ‘physics first’ foundation models for robots",
-            "link": "https://www.therobotreport.com/fieldai-raises-405m-scales-physics-first-foundation-models-robots/",
-            "description": "FieldAI has raised funding to accelerate its platform for general-purpose robotics intelligence, with a focus on real-world applications. The post Fie...",
-            "pubDate": "2025-08-20T17:31:26",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/fieldAI-featured.jpg"
         }
     ]
 }
