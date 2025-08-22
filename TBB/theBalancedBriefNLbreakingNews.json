@@ -2,22 +2,8 @@
     "title": "theBalancedBriefNLbreakingNews",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from theBalancedBriefNLbreakingNews, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-22T00:53:27.010277",
+    "lastBuildDate": "2025-08-22T04:50:35.115924",
     "items": [
-        {
-            "title": "BREAKING: Trump administration immediately pausing all new commercial truck driver work visas",
-            "link": "https://www.yahoo.com/news/articles/breaking-trump-administration-immediately-pausing-232620898.html",
-            "description": "",
-            "pubDate": "2025-08-22T00:26:20",
-            "image_url": "https://media.zenfs.com/en/freightwaves_373/857b61371b5680e0da44f57255294c09"
-        },
-        {
-            "title": "Another US military mini shuttle launches on a secret mission",
-            "link": "https://www.yahoo.com/news/articles/another-us-military-mini-shuttle-035641959.html",
-            "description": "",
-            "pubDate": "2025-08-22T04:56:41",
-            "image_url": "https://media.zenfs.com/en/ap.org/b631c9b3cc1a787a3ca359596f5c2523"
-        },
         {
             "title": "Nvidia orders suppliers to halt work on China-focussed H20 AI chip, The Information says",
             "link": "https://finance.yahoo.com/news/nvidia-orders-halt-h20-chip-001843935.html",
@@ -26,53 +12,67 @@
             "image_url": "https://media.zenfs.com/en/reuters-finance.com/a1c3770cd6bced4962aa3353a732f826"
         },
         {
+            "title": "French streamer dies live online during extreme challenge",
+            "link": "https://www.yahoo.com/news/articles/french-streamer-dies-live-online-195025290.html",
+            "description": "",
+            "pubDate": "2025-08-22T00:53:49",
+            "image_url": "https://media.zenfs.com/en/cnn_articles_875/6d3b08080c73f84e73003a755657ac98"
+        },
+        {
+            "title": "Kim Jong Un says his ‘heart aches’ over North Korean soldiers killed fighting for Russia, in rare admission of losses",
+            "link": "https://www.yahoo.com/news/articles/kim-jong-un-says-heart-031526226.html",
+            "description": "",
+            "pubDate": "2025-08-22T05:20:36",
+            "image_url": "https://media.zenfs.com/en/cnn_articles_875/bf5469f7c85c7af926f0fcee8a418dcb"
+        },
+        {
+            "title": "Hours before interviewing Patel and Bondi, Hannity bragged he wouldn’t ask about Epstein. He stayed true to his word",
+            "link": "https://www.yahoo.com/news/articles/hours-interviewing-patel-bondi-hannity-162333829.html",
+            "description": "",
+            "pubDate": "2025-08-22T09:07:30",
+            "image_url": "https://media.zenfs.com/en/the_independent_577/b6fb56bddac8feeb520f566701b87cb0"
+        },
+        {
+            "title": "Erik Menendez was denied parole. Here's what he said at his hearing",
+            "link": "https://abcnews.go.com/US/wireStory/erik-menendez-denied-parole-hearing-124868912",
+            "description": "Erik Menendez has been denied parole by panel of California commissioners",
+            "pubDate": "2025-08-22T04:34:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Here's what to know about Trump's RNC chairman",
+            "link": "https://abcnews.go.com/US/wireStory/trumps-rnc-chairman-joe-gruters-longtime-believer-124870332",
+            "description": "Florida conservative Joe Gruters has been a Donald Trump cheerleader dating back to the president’s days as a reality TV star",
+            "pubDate": "2025-08-22T06:32:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Proposal could lead to sanctions against Alaska medics for gender-affirming care",
+            "link": "https://abcnews.go.com/US/wireStory/proposal-lead-sanctions-alaska-medical-professionals-gender-affirming-124870058",
+            "description": "The Alaska State Medical Board will be considering language that says medical professionals provide gender-affirming care for children could risk havi...",
+            "pubDate": "2025-08-22T08:54:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Funeral home owner who stashed decaying bodies set to be sentenced for corpse abuse",
+            "link": "https://abcnews.go.com/US/wireStory/funeral-home-owner-stashed-200-decaying-bodies-set-124870062",
+            "description": "Two years after piles of decaying bodies were found in a rural Colorado building, a funeral home owner is set to be sentenced for 191 counts of corpse...",
+            "pubDate": "2025-08-22T08:20:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "UN envoy warns of renewed violence in Syria a month into a fragile ceasefire",
+            "link": "https://abcnews.go.com/US/wireStory/envoy-warns-renewed-violence-syria-month-fragile-ceasefire-124866862",
+            "description": "The top U.N. envoy for Syria is warning that its transition remains “on a knife-edge” and violence could resume at any moment in the southern city of ...",
+            "pubDate": "2025-08-22T01:38:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
             "title": "America's last living ace pilot from World War II dies at age 103",
             "link": "https://www.yahoo.com/news/articles/americas-last-living-ace-pilot-222220035.html",
             "description": "",
             "pubDate": "2025-08-21T23:22:20",
             "image_url": "https://media.zenfs.com/en/ap.org/b8cecde27427d2db186a601c2a9892c1"
-        },
-        {
-            "title": "Supreme Court lets Trump administration cut $783 million of research funding in anti-DEI push",
-            "link": "https://www.yahoo.com/news/articles/supreme-court-lets-trump-administration-204843959.html",
-            "description": "",
-            "pubDate": "2025-08-21T21:48:43",
-            "image_url": "https://media.zenfs.com/en/ap.org/ce26f00971b509ea772e2c05b8eb5104"
-        },
-        {
-            "title": "Villanova University reports an active shooter on campus, tells students to barricade doors",
-            "link": "https://abcnews.go.com/US/wireStory/villanova-university-reports-active-shooter-campus-tells-students-124862212",
-            "description": "Police are responding to a report of an active shooter on Villanova University’s campus",
-            "pubDate": "2025-08-21T22:54:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Death toll from Legionnaires' disease outbreak in New York City rises to 6 and infections hit 111",
-            "link": "https://abcnews.go.com/US/wireStory/death-toll-legionnaires-disease-outbreak-new-york-city-124865016",
-            "description": "New York City officials have discovered a sixth death linked to a Legionnaires’ disease outbreak in Central Harlem, where more than 100 people have be...",
-            "pubDate": "2025-08-21T23:22:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Trump administration is reviewing all 55 million foreigners with US visas in growing crackdown",
-            "link": "https://abcnews.go.com/US/wireStory/trump-administration-reviewing-55-million-foreigners-us-visas-124858072",
-            "description": "The Trump administration says it’s reviewing more than 55 million foreigners who have valid U.S. visas for any violations that could lead to deportati...",
-            "pubDate": "2025-08-21T21:54:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "America's last living ace pilot from World War II dies at age 103",
-            "link": "https://abcnews.go.com/US/wireStory/americas-living-ace-pilot-world-war-ii-dies-124865317",
-            "description": "A World War II veteran from Nebraska believed to be America’s last surviving “ace” pilot because he shot down five enemy planes has died",
-            "pubDate": "2025-08-21T23:38:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Colorado funeral home investigated after decomposing bodies found behind hidden door",
-            "link": "https://abcnews.go.com/US/wireStory/colorado-funeral-home-investigated-after-decomposing-bodies-found-124859056",
-            "description": "Colorado authorities say they are investigating a funeral home operated by a county coroner where inspectors found several decomposing bodies",
-            "pubDate": "2025-08-21T21:47:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         }
     ]
 }
