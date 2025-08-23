@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-22T16:16:46.256523",
+    "lastBuildDate": "2025-08-22T22:28:58.299446",
     "items": [
+        {
+            "title": "OpenCUA’s open source computer-use agents rival proprietary models from OpenAI and Anthropic",
+            "link": "https://venturebeat.com/ai/opencuas-open-source-computer-use-agents-rival-proprietary-models-from-openai-and-anthropic/",
+            "description": "The open source framework provides the data and training recipe for building powerful computer-use agents that challenge proprietary systems.",
+            "pubDate": "2025-08-23T00:25:35",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/computer-use-agent.jpg?w=578"
+        },
+        {
+            "title": "Meta is partnering with Midjourney and will license its technology for ‘future models and products’",
+            "link": "https://venturebeat.com/ai/meta-is-partnering-with-midjourney-and-will-license-its-technology-for-future-models-and-products/",
+            "description": "Details are scarce on how much if any money is involved. And what does it mean for Midjourney's previously announced plans for an enterprise API?",
+            "pubDate": "2025-08-22T23:12:07",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/0_0-4.png?w=578"
+        },
+        {
+            "title": "MCP-Universe benchmark shows GPT-5 fails more than half of real-world orchestration tasks",
+            "link": "https://venturebeat.com/ai/mcp-universe-benchmark-shows-gpt-5-fails-more-than-half-of-real-world-orchestration-tasks/",
+            "description": "A new benchmark from Salesforce research evaluates model and agentic performance on real-life enterprise tasks.",
+            "pubDate": "2025-08-22T21:50:55",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/crimedy7_illustration_of_a_group_of_robots_taking_a_test_in_a_22458d3b-4290-48ef-a0a0-3ee4710809f3_1.png?w=578"
+        },
         {
             "title": "Don’t sleep on Cohere: Command A Reasoning, its first reasoning model, is built for enterprise customer service and more",
             "link": "https://venturebeat.com/ai/dont-sleep-on-cohere-command-a-reasoning-its-first-reasoning-model-is-built-for-enterprise-customer-service-and-more/",
@@ -17,27 +38,6 @@
             "description": "Walmart CISO Jerry Geisler on securing agentic AI, modernizing identity, and Zero Trust for enterprise-scale cybersecurity resilience.",
             "pubDate": "2025-08-21T22:28:06",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/hero-image-for-walmart-CISO-interview.jpg?w=578"
-        },
-        {
-            "title": "MIT report misunderstood: Shadow AI economy booms while headlines cry failure",
-            "link": "https://venturebeat.com/ai/mit-report-misunderstood-shadow-ai-economy-booms-while-headlines-cry-failure/",
-            "description": "A new MIT report reveals that while 95% of corporate AI pilots fail, 90% of workers are quietly succeeding with personal AI tools, driving a hidden pr...",
-            "pubDate": "2025-08-21T21:21:41",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_upside-down_success_chart_fa4d7a1a-5350-455b-af50-50f076a4e665.webp?w=578"
-        },
-        {
-            "title": "Chan Zuckerberg Initiative’s rBio uses virtual cells to train AI, bypassing lab work",
-            "link": "https://venturebeat.com/ai/chan-zuckerberg-initiatives-rbio-uses-virtual-cells-to-train-ai-bypassing-lab-work/",
-            "description": "The Chan Zuckerberg Initiative unveils rBio, a groundbreaking AI model that simulates cell biology without lab experiments to accelerate drug discover...",
-            "pubDate": "2025-08-21T19:53:02",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_AI_analyzing_cells_e3d03bda-a9ab-44b8-8460-cf2f257967e5.webp?w=578"
-        },
-        {
-            "title": "How AI ‘digital minds’ startup Delphi stopped drowning in user data and scaled up with Pinecone",
-            "link": "https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/",
-            "description": "Delphi envisions millions of Digital Minds active across domains and audiences. Pinecone sees its database as the retrieval layer.",
-            "pubDate": "2025-08-21T17:40:59",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/0_2.png?w=578"
         }
     ]
 }
