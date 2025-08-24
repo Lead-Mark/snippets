@@ -2,42 +2,56 @@
     "title": "SFM",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SFM, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-22T22:29:00.845832",
+    "lastBuildDate": "2025-08-23T22:57:50.073284",
     "items": [
         {
-            "title": "Analyst Report: Solventum Corp",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_6200_AnalystReport_1755884481000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "title": "Tech, Media & Telecom Roundup: Market Talk",
+            "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-48bb8754?siteid=yhoof2&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-08-22T18:41:21",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+            "pubDate": "2025-08-22T21:52:00",
+            "image_url": "https://media.zenfs.com/en/wsj.com/e9d8ae4b9e3d08eb79a1e6abecc99a49"
         },
         {
-            "title": "Analyst Report: Intuit Inc",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_3714_AnalystReport_1755884481000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "title": "Stock Market Today: Dow Leaps 800 Points As Powell Bolsters Rate-Cut Hopes; Nvidia Earnings Loom",
+            "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-powell-speech-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-08-22T18:41:21",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+            "pubDate": "2025-08-22T21:47:42",
+            "image_url": "https://media.zenfs.com/en/ibd.com/79f2a424f8eeab7d451565d80eae1db5"
         },
         {
-            "title": "Energy & Utilities Roundup: Market Talk",
-            "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-3ee4be99?siteid=yhoof2&yptr=yahoo",
+            "title": "Swing Trading Strategy Reduces Drawdowns",
+            "link": "https://www.investors.com/research/swing-trading/swing-trading-strategy-reduces-drawdowns/?src=A00220&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-08-21T22:01:00",
-            "image_url": "https://media.zenfs.com/en/wsj.com/165464fe025bb9ccd4f4c3f742cc6cbd"
+            "pubDate": "2025-08-22T21:49:17",
+            "image_url": "https://media.zenfs.com/en/ibd.com/5539326d9af41ca21bec0ce5786de5ec"
         },
         {
-            "title": "Trading Day: Fed bets slip, Powell takes the stage",
-            "link": "https://finance.yahoo.com/news/trading-day-fed-bets-slip-210154121.html",
+            "title": "IBD Stock Of The Day: Online Travel Booking Leader Eyes Buy Point",
+            "link": "https://www.investors.com/research/ibd-stock-of-the-day/booking-stock-bkng-travel-stocks/?src=A00220&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-08-21T22:01:54",
-            "image_url": "https://media.zenfs.com/en/reuters-finance.com/6a76fa9d92315dfe48103aea20b4d0e0"
+            "pubDate": "2025-08-22T21:42:28",
+            "image_url": "https://media.zenfs.com/en/ibd.com/6e803e9f4c55d22d8a11cce9fa332731"
         },
         {
-            "title": "France's Lactalis strikes $2.2 billion deal for Fonterra's consumer business",
-            "link": "https://finance.yahoo.com/news/zealands-fonterra-sell-consumer-business-205752615.html",
+            "title": "Dow Marks First Record Close of the Year",
+            "link": "https://www.barrons.com/livecoverage/stock-market-news-today-082225/card/dow-marks-first-record-close-of-the-year-as-s-p-500-nabs-new-high-3FEYOjg5CcgmPAwTmvae?siteid=yhoof2&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-08-21T21:57:52",
-            "image_url": "https://media.zenfs.com/en/reuters-finance.com/8983e1f7db5062d6e33babf9ed1bfceb"
+            "pubDate": "2025-08-22T21:45:41",
+            "image_url": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e"
+        },
+        {
+            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
+            "pubDate": "2025-01-27T19:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
+            "pubDate": "2025-01-27T17:20:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "DeepSeek Won't Sink U.S. AI Titans",
@@ -47,32 +61,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
-            "pubDate": "2025-01-27T19:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
-            "pubDate": "2025-01-27T17:20:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
             "title": "Comex Gold, Silver Settle Lower",
             "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
             "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
             "pubDate": "2025-01-27T19:01:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Financial Services Roundup: Market Talk",
             "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
             "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
             "pubDate": "2025-01-27T17:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
