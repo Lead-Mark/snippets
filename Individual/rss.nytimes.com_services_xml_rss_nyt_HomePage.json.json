@@ -2,21 +2,28 @@
     "title": "Individual feed for https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "link": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-24T20:33:51.922551",
+    "lastBuildDate": "2025-08-24T22:20:41.421394",
     "items": [
+        {
+            "title": "National Guard Patrols Begin to Carry Weapons in D.C.",
+            "link": "https://www.nytimes.com/2025/08/24/us/politics/national-guard-weapons-guns-dc.html",
+            "description": "More than 2,200 troops were deployed in Washington as of Sunday, a Guard spokesman said.",
+            "pubDate": "2025-08-25T03:11:43",
+            "image_url": "https://static01.nyt.com/images/2025/08/24/multimedia/24dc-guard-bkjc/24dc-guard-bkjc-mediumSquareAt3X.jpg"
+        },
+        {
+            "title": "This Is the End of China’s Once Mightiest Property Firm",
+            "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html",
+            "description": "China Evergrande, set to be delisted from the Hong Kong Stock Exchange on Monday, leaves behind a giant pile of debt and a long line of desperate cred...",
+            "pubDate": "2025-08-25T02:05:30",
+            "image_url": "https://static01.nyt.com/images/2025/08/25/multimedia/25biz-china-evergrande-01-plcg/25biz-china-evergrande-01-plcg-mediumSquareAt3X.jpg"
+        },
         {
             "title": "SpaceX Scrubs Critical 10th Test Launch of Starship Rocket",
             "link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
             "description": "Elon Musk’s company will reschedule the next trip of its Starship prototype, which faced setbacks in its last three flight attempts.",
             "pubDate": "2025-08-25T01:05:06",
             "image_url": "https://static01.nyt.com/images/2025/08/24/multimedia/24HS-starship-01-fwkc/24HS-starship-01-fwkc-mediumSquareAt3X.jpg"
-        },
-        {
-            "title": "This Is the End of China’s Once Mightiest Property Firm",
-            "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html",
-            "description": "China Evergrande, set to be delisted from the Hong Kong Stock Exchange on Monday, leaves behind a giant pile of debt and long line of desperate credit...",
-            "pubDate": "2025-08-25T00:59:29",
-            "image_url": "https://static01.nyt.com/images/2025/08/25/multimedia/25biz-china-evergrande-01-plcg/25biz-china-evergrande-01-plcg-mediumSquareAt3X.jpg"
         },
         {
             "title": "Russia’s Top Diplomat Says There Is No Plan for Putin-Zelensky Meeting",
@@ -31,13 +38,6 @@
             "description": "President Trump said he was considering sending troops to Chicago, New York and Baltimore. State and local leaders say they have crime under control.",
             "pubDate": "2025-08-24T23:56:56",
             "image_url": "https://static01.nyt.com/images/2025/08/22/multimedia/24trump-news-chicago/22pol-on-politics-4-ltbk-mediumSquareAt3X.jpg"
-        },
-        {
-            "title": "Livestream Shows MMA Fighter Raja Jackson Assaulting Pro Wrestler",
-            "link": "https://www.nytimes.com/2025/08/24/us/raja-jackson-wrestler-assault.html",
-            "description": "The footage showed Mr. Jackson, son of the former UFC champion Quinton Jackson, punching the wrestler Stuart Smith at least 20 times.",
-            "pubDate": "2025-08-24T23:22:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
