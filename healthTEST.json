@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-26T01:45:38.341077",
+    "lastBuildDate": "2025-08-26T06:41:29.124393",
     "items": [
+        {
+            "title": "A mom draws what it's like to have intrusive thoughts — and how to cope",
+            "link": "https://www.npr.org/2025/08/26/nx-s1-5464832/a-mom-draws-what-its-like-to-have-intrusive-thoughts-and-how-to-cope",
+            "description": "After giving birth to her second child, NPR's LA Johnson struggled with scary thoughts that didn't seem to go away. She illustrates her experience in ...",
+            "pubDate": "2025-08-26T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/3377x1900!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F40%2Fc2d7e30747c3b87aef3048ba8efe%2Flk-la-johnson-intrusive-thoughts-2.jpg"
+        },
         {
             "title": "Higher peak expiratory flow associated with decreased headache risk in middle-aged and older adults",
             "link": "https://www.2minutemedicine.com/higher-peak-expiratory-flow-associated-with-decreased-headache-risk-in-middle-aged-and-older-adults/",
@@ -12,67 +19,88 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/08/chestfilm_edited-300x150.jpg"
         },
         {
+            "title": "When hospitals and insurers fight, patients get caught in the middle",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/08/26/nx-s1-5515408/health-insurance-network-contract-price-legal-patients",
+            "description": "About 90,000 people spent months in limbo as central Missouri's major medical provider fought over insurance contracts. These disputes between insurer...",
+            "pubDate": "2025-08-26T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6016x4016+0+0/resize/6016x4016!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2Fea%2Fa1ebfd784ce8b2de378b93fb3253%2Fgettyimages-2194838777.jpg"
+        },
+        {
+            "title": "Smoking Cessation May Boost Substance Use Recovery",
+            "link": "https://www.medscape.com/viewarticle/smoking-cessation-may-boost-substance-use-recovery-2025a1000mhy?src=rss",
+            "description": "Quitting cigarette smoking is linked to 30% increased likelihood of recovery in substance use disorder compared with continued smoking, new research s...",
+            "pubDate": "2025-08-26T11:08:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "A new tool to track infant development, starting at just 16 days old",
+            "link": "https://medicalxpress.com/news/2025-08-tool-track-infant-days.html",
+            "description": "Developmental scientists and medical social science experts at Northwestern University have spearheaded the creation of the most recent NIH Toolbox, p...",
+            "pubDate": "2025-08-26T11:06:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Managing Alzheimer’s and Dementia: Patterns in Primary Care",
+            "link": "https://www.medscape.com/viewarticle/managing-alzheimers-and-dementia-patterns-primary-care-2025a1000mhl?src=rss",
+            "description": "Primary care physicians frequently use diagnostic tools for the early detection and management of Alzheimer’s disease and dementia. Medscape Medical N...",
+            "pubDate": "2025-08-26T10:21:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "RSV Vaccine Effectiveness Wanes Early in Older Adults",
+            "link": "https://www.medscape.com/viewarticle/rsv-vaccine-effectiveness-wanes-early-older-adults-2025a1000mhp?src=rss",
+            "description": "The immunization appears to be most effective in preventing related hospitalizations if an older patient receives their RSV vaccine on an annual basis...",
+            "pubDate": "2025-08-26T10:17:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Altered FGFR1 pathway in hippocampus may underlie depression, especially in elderly",
+            "link": "https://medicalxpress.com/news/2025-08-fgfr1-pathway-hippocampus-underlie-depression.html",
+            "description": "Major depressive disorder (MDD) is one of the most common psychiatric illnesses worldwide, but its molecular causes have still not been clearly identi...",
+            "pubDate": "2025-08-26T09:29:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
             "title": "How peer support can save physician lives [PODCAST]",
             "link": "https://kevinmd.com/2025/08/how-peer-support-can-save-physician-lives-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Anesthesiologist and clinical mental health counselor Maire Daugharty...",
             "pubDate": "2025-08-26T00:00:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Two thirds of reproductive-aged women have at least one modifiable risk factor for birth defects, study reveals",
-            "link": "https://medicalxpress.com/news/2025-08-thirds-reproductive-aged-women-factor.html",
-            "description": "An analysis using data from the National Health and Nutrition Examination Survey (NHANES) among 5,374 women of reproductive age indicates that two thi...",
-            "pubDate": "2025-08-26T05:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Gardening's hidden benefits: How digging in the dirt could bolster mental well-being",
+            "link": "https://medicalxpress.com/news/2025-08-gardening-hidden-benefits-dirt-bolster.html",
+            "description": "If you spend any time gardening, you probably understand what I mean when I say it feels good—despite the lifting, sweating and straining involved. Ye...",
+            "pubDate": "2025-08-26T09:55:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Canada Releases New Smoking Cessation Guideline for Adults",
-            "link": "https://www.medscape.com/viewarticle/canada-releases-new-smoking-cessation-guideline-adults-2025a1000mgu?src=rss",
-            "description": "The document offers a menu of options to help adults quit smoking tobacco. Medscape Medical News",
-            "pubDate": "2025-08-26T06:35:57",
+            "title": "Plant-Heavy Diets’ Link to Reduced Cancer Risk Strengthened",
+            "link": "https://www.medscape.com/viewarticle/plant-heavy-diets-link-reduced-cancer-risk-strengthened-2025a1000mhu?src=rss",
+            "description": "Even in some less common cancers, vegetarians had a reduced risk, but diet remains just one element of modifiable lifestyle factors affecting cancer r...",
+            "pubDate": "2025-08-26T10:47:30",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "#VisualAbstract: Personalised Gait Retraining is an Effective Non-Surgical Treatment for Medial Compartment Knee Osteoarthritis",
-            "link": "https://www.2minutemedicine.com/visualabstract-personalised-gait-retraining-is-an-effective-non-surgical-treatment-for-medial-compartment-knee-osteoarthritis/",
-            "description": "Click here to read this study in the Lancet. ©2025 2 Minute Medicine, Inc. All rights reserved. No works may be reproduced without expressed written c...",
-            "pubDate": "2025-08-25T15:00:02",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/08/2MM_08.17.25_Astrid_1_OA-300x300.jpg"
+            "title": "New insight into how the fruit fly brain creates spatial representations that support navigation",
+            "link": "https://medicalxpress.com/news/2025-08-insight-fruit-fly-brain-spatial.html",
+            "description": "To move around in their surroundings in meaningful and goal-directed ways, a skill known as navigation, humans and animals rely on a series of complex...",
+            "pubDate": "2025-08-26T11:30:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Whatever happened to ... the race to cure HIV? There's promising news",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/08/25/g-s1-84393/whatever-happened-to-the-race-to-cure-hiv-theres-promising-news",
-            "description": "At the International AIDS Society meeting this year, a young woman from South Africa spoke. She is the first Black woman from Africa to be potentially...",
-            "pubDate": "2025-08-25T11:48:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4013x3010+0+0/resize/4013x3010!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F48%2F9084e7044343b58170bcc20bb473%2Fgettyimages-1289422370.jpg"
+            "title": "Why Menstrual Cups Remain Underused at 5%",
+            "link": "https://www.medscape.com/viewarticle/why-menstrual-cups-remain-underused-5-2025a1000mhs?src=rss",
+            "description": "Governments and universities rarely supply reusable products, focusing instead on single-use pads that dominate their usage. Medscape News UK",
+            "pubDate": "2025-08-26T10:55:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "The U.S. confirms its first human case of New World screwworm. What is it?",
-            "link": "https://www.npr.org/2025/08/25/nx-s1-5515487/new-world-screwworm-us-human-case",
-            "description": "U.S. officials confirmed a case of the flesh-eating parasite in a person who traveled from El Salvador. Screwworm typically affects cattle in South Am...",
-            "pubDate": "2025-08-25T18:38:54",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1770x1328+0+418/resize/1770x1328!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fdb%2F57f610c5421ebedb696b26a8a439%2Fap25169759097438.jpg"
-        },
-        {
-            "title": "These fish may feel pleasure while being groomed by other fish",
-            "link": "https://www.npr.org/2025/08/25/nx-s1-5508851/fish-pleasure-pain-cleaning",
-            "description": "An experiment with threadfin butterflyfish finds that these fish may experience pleasure while being cleaned by bluestreak cleaner wrasse — suggesting...",
-            "pubDate": "2025-08-25T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5457x3552+0+0/resize/5457x3552!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fca%2F5aaa952e47b9869804fff2a02bf9%2Fgettyimages-549034289.jpg"
-        },
-        {
-            "title": "Are weighted vests good for bones and muscle? Fact-checking a fitness trend",
-            "link": "https://www.npr.org/2025/08/25/nx-s1-5503969/fitness-bone-muscle-trends-weighted-vest",
-            "description": "It's a growing fitness trend. People say wearing a weighted vest when you exercise builds bones, strengthens muscles and improves cardiovascular healt...",
-            "pubDate": "2025-08-25T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F6f%2F86389e954ec280cf96fce26e2f98%2Fnpr-8-22-2025.jpg"
-        },
-        {
-            "title": "2 Minute Medicine Rewind Aug 25, 2025",
-            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-aug-25-2025/",
-            "description": "Effect of lateral versus supine positioning on hypoxaemia in sedated adults: multicentre randomised controlled trial 1. In sedated adults, lateral pos...",
-            "pubDate": "2025-08-25T11:00:57",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/doctor-patient-16-anesthesia-surgery-300x150.jpg"
+            "title": "Common cold may protect against COVID-19, according to researchers",
+            "link": "https://medicalxpress.com/news/2025-08-common-cold-covid.html",
+            "description": "A new study led by researchers at National Jewish Health has found that recent infection with the common cold—often caused by rhinoviruses—may offer t...",
+            "pubDate": "2025-08-26T09:29:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Are weighted vests good for bones and muscle? Fact-checking a fitness trend",
@@ -82,39 +110,32 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5503969-e1"
         },
         {
-            "title": "Cell-mapping tool provides insightful multi-layered view of cancer behavior",
-            "link": "https://medicalxpress.com/news/2025-08-cell-tool-insightful-multi-layered.html",
-            "description": "Researchers at VCU Massey Comprehensive Cancer Center have developed a new computational tool called Vesalius, which could help clinicians understand ...",
-            "pubDate": "2025-08-25T21:41:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "The U.S. confirms its first human case of New World screwworm. What is it?",
+            "link": "https://www.npr.org/2025/08/25/nx-s1-5515487/new-world-screwworm-us-human-case",
+            "description": "U.S. officials confirmed a case of the flesh-eating parasite in a person who traveled from El Salvador. Screwworm typically affects cattle in South Am...",
+            "pubDate": "2025-08-25T18:38:54",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1770x1328+0+418/resize/1770x1328!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fdb%2F57f610c5421ebedb696b26a8a439%2Fap25169759097438.jpg"
         },
         {
-            "title": "The truth about fat in whole milk and your health",
-            "link": "https://kevinmd.com/2025/08/the-truth-about-fat-in-whole-milk-and-your-health.html",
-            "description": "For decades, you were told that whole milk was the devil in a glass. Doctors (including me), dietitians, and public health agencies told you to toss t...",
-            "pubDate": "2025-08-25T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "2 Minute Medicine Rewind Aug 25, 2025",
+            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-aug-25-2025/",
+            "description": "Effect of lateral versus supine positioning on hypoxaemia in sedated adults: multicentre randomised controlled trial 1. In sedated adults, lateral pos...",
+            "pubDate": "2025-08-25T11:00:57",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/doctor-patient-16-anesthesia-surgery-300x150.jpg"
         },
         {
-            "title": "BRCA Carriers Conceive After Pregnancy-Related Breast Cancer",
-            "link": "https://www.medscape.com/viewarticle/one-third-young-brca-carriers-successfully-conceive-after-2025a1000m3b?src=rss",
-            "description": "Over a third of young BRCA carriers who are diagnosed with breast cancer during pregnancy conceive again without adverse maternal or foetal outcomes, ...",
-            "pubDate": "2025-08-25T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Whatever happened to ... the race to cure HIV? There's promising news",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/08/25/g-s1-84393/whatever-happened-to-the-race-to-cure-hiv-theres-promising-news",
+            "description": "At the International AIDS Society meeting this year, a young woman from South Africa spoke. She is the first Black woman from Africa to be potentially...",
+            "pubDate": "2025-08-25T11:48:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4013x3010+0+0/resize/4013x3010!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F48%2F9084e7044343b58170bcc20bb473%2Fgettyimages-1289422370.jpg"
         },
         {
-            "title": "Canada’s Methadone Prescribing Changes With Drug Supply",
-            "link": "https://www.medscape.com/viewarticle/canadas-methadone-prescribing-changes-drug-supply-2025a1000md8?src=rss",
-            "description": "Canadian doctors are using higher methadone doses without rapid titration, risking loss to follow up and fentanyl overdose, researchers say. Medscape ...",
-            "pubDate": "2025-08-25T13:22:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "The humanity we bring: a call to hold space in medicine",
-            "link": "https://kevinmd.com/2025/08/the-humanity-we-bring-a-call-to-hold-space-in-medicine.html",
-            "description": "When my son was in the neonatal intensive care unit (NICU), it felt like the end of the world. But the world did not end. Instead, my whole self was b...",
-            "pubDate": "2025-08-25T18:00:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "#VisualAbstract: Personalised Gait Retraining is an Effective Non-Surgical Treatment for Medial Compartment Knee Osteoarthritis",
+            "link": "https://www.2minutemedicine.com/visualabstract-personalised-gait-retraining-is-an-effective-non-surgical-treatment-for-medial-compartment-knee-osteoarthritis/",
+            "description": "Click here to read this study in the Lancet. ©2025 2 Minute Medicine, Inc. All rights reserved. No works may be reproduced without expressed written c...",
+            "pubDate": "2025-08-25T15:00:02",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/08/2MM_08.17.25_Astrid_1_OA-300x300.jpg"
         },
         {
             "title": "Why AI in health care needs the same scrutiny as chemotherapy",
@@ -124,46 +145,25 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Very Abnormal Results Rare in DMARD Toxicity Monitoring",
-            "link": "https://www.medscape.com/viewarticle/very-abnormal-lab-results-extremely-rare-long-term-dmard-2025a1000mez?src=rss",
-            "description": "Even for adverse effects that do occur, prevention typically is not possible using long-term routine lab monitoring. Medscape Medical News",
-            "pubDate": "2025-08-25T22:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "High concentration THC associated with schizophrenia, psychosis and other unfavorable mental health outcomes",
-            "link": "https://medicalxpress.com/news/2025-08-high-thc-schizophrenia-psychosis-unfavorable.html",
-            "description": "A systematic review analyzed the associations of high-concentration delta-9-tetrahydrocannabinol (THC) cannabis products with mental health outcomes. ...",
-            "pubDate": "2025-08-25T22:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Mediterranean diet combined with calorie reduction and exercise may reduce risk of type 2 diabetes",
-            "link": "https://medicalxpress.com/news/2025-08-mediterranean-diet-combined-calorie-reduction.html",
-            "description": "A Mediterranean-style diet, in combination with reduced caloric intake, moderate physical activity, and professional support for weight loss, may cut ...",
-            "pubDate": "2025-08-25T22:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Probiotics Can Reduce Heart Disease Risk Factors",
-            "link": "https://www.medscape.com/s/viewarticle/probiotics-can-reduce-heart-disease-risk-factors-2025a1000m9n?src=rss",
-            "description": "Certain probiotics can lower cholesterol, reduce inflammation, and support better heart and circulatory health. Medscape Medical News",
-            "pubDate": "2025-08-25T19:53:25",
+            "title": "The humanity we bring: a call to hold space in medicine",
+            "link": "https://kevinmd.com/2025/08/the-humanity-we-bring-a-call-to-hold-space-in-medicine.html",
+            "description": "When my son was in the neonatal intensive care unit (NICU), it felt like the end of the world. But the world did not end. Instead, my whole self was b...",
+            "pubDate": "2025-08-25T18:00:25",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Generative AI uncovers undetected bird flu exposure risks in Maryland emergency departments",
-            "link": "https://medicalxpress.com/news/2025-08-generative-ai-uncovers-undetected-bird.html",
-            "description": "Researchers from the University of Maryland School of Medicine have developed a new and highly effective application of an artificial intelligence (AI...",
-            "pubDate": "2025-08-25T21:44:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "How pain clinics contribute to societal safety",
             "link": "https://kevinmd.com/2025/08/how-pain-clinics-contribute-to-societal-safety.html",
             "description": "In today’s interconnected society, individual health shapes the well-being of communities. This is evident in the role of pain clinics, which have evo...",
             "pubDate": "2025-08-25T14:00:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The truth about fat in whole milk and your health",
+            "link": "https://kevinmd.com/2025/08/the-truth-about-fat-in-whole-milk-and-your-health.html",
+            "description": "For decades, you were told that whole milk was the devil in a glass. Doctors (including me), dietitians, and public health agencies told you to toss t...",
+            "pubDate": "2025-08-25T16:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Increased risk of low birth weight and adverse pregnancy outcomes among women living with HIV",
