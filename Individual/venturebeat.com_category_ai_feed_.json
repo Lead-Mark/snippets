@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-26T15:45:19.765128",
+    "lastBuildDate": "2025-08-26T16:48:37.178204",
     "items": [
+        {
+            "title": "Enterprise leaders say recipe for AI agents is matching them to existing processes — not the other way around",
+            "link": "https://venturebeat.com/ai/enterprise-leaders-say-recipe-for-ai-agents-is-matching-them-to-existing-processes-not-the-other-way-around/",
+            "description": "Global enterprises Block and GlaxoSmithKline (GSK) are exploring AI agent proof of concepts in financial services and drug discovery.",
+            "pubDate": "2025-08-26T21:46:19",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/GSK-Block.png?w=578"
+        },
         {
             "title": "Gemini Nano Banana improves image editing consistency and control at scale for enterprises – but is not perfect",
             "link": "https://venturebeat.com/ai/gemini-expands-image-editing-for-enterprises-consistency-collaboration-and-control-at-scale/",
@@ -31,13 +38,6 @@
             "description": "AI is brilliant at polishing and rephrasing. But like a child with glitter glue, you still need to supervise it.",
             "pubDate": "2025-08-23T21:05:00",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Sun-DDM.png?w=578"
-        },
-        {
-            "title": "OpenCUA’s open source computer-use agents rival proprietary models from OpenAI and Anthropic",
-            "link": "https://venturebeat.com/ai/opencuas-open-source-computer-use-agents-rival-proprietary-models-from-openai-and-anthropic/",
-            "description": "The open source framework provides the data and training recipe for building powerful computer-use agents that challenge proprietary systems.",
-            "pubDate": "2025-08-23T00:25:35",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/computer-use-agent.jpg?w=578"
         }
     ]
 }
