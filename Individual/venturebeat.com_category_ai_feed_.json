@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-08-26T16:48:37.178204",
+    "lastBuildDate": "2025-08-27T04:44:21.668633",
     "items": [
+        {
+            "title": "How procedural memory can cut the cost and complexity of AI agents",
+            "link": "https://venturebeat.com/ai/how-procedural-memory-can-cut-the-cost-and-complexity-of-ai-agents/",
+            "description": "Memp takes inspiration from human cognition to give LLM agents \"procedural memory\" that can adapt to new tasks and environments.",
+            "pubDate": "2025-08-27T00:37:23",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/llm-agent-memory.jpg?w=578"
+        },
+        {
+            "title": "Anthropic launches Claude for Chrome in limited beta, but prompt injection attacks remain a major concern",
+            "link": "https://venturebeat.com/ai/anthropic-launches-claude-for-chrome-in-limited-beta-but-prompt-injection-attacks-remain-a-major-concern/",
+            "description": "Anthropic launches a limited pilot of Claude for Chrome, allowing its AI to control web browsers while raising critical concerns about security and pr...",
+            "pubDate": "2025-08-26T23:22:13",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_a_simple_hand-drawn_illustration_of_an_open_web_page__c908bef6-37a0-486e-bcb2-59cef9c8c501.webp?w=578"
+        },
         {
             "title": "Enterprise leaders say recipe for AI agents is matching them to existing processes — not the other way around",
             "link": "https://venturebeat.com/ai/enterprise-leaders-say-recipe-for-ai-agents-is-matching-them-to-existing-processes-not-the-other-way-around/",
@@ -24,20 +38,6 @@
             "description": "Take this blind test to discover whether you truly prefer OpenAI's GPT-5 or the older GPT-4o—without knowing which model you're using.",
             "pubDate": "2025-08-25T23:17:49",
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/nuneybits_Vector_art_of_blindfolded_user_choosing_chatbots_5c927353-2a22-40cc-bae2-614e37421faa.webp?w=578"
-        },
-        {
-            "title": "Developers lose focus 1,200 times a day — how MCP could change that",
-            "link": "https://venturebeat.com/ai/developers-lose-focus-1200-times-a-day-how-mcp-could-change-that/",
-            "description": "One of the most impactful applications of MCP is its ability to connect AI coding assistants directly to developer tools.",
-            "pubDate": "2025-08-24T20:15:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Sun-DDM.webp?w=578"
-        },
-        {
-            "title": "Busted by the em dash — AI’s favorite punctuation mark, and how it’s blowing your cover",
-            "link": "https://venturebeat.com/ai/busted-by-the-em-dash-ais-favorite-punctuation-mark-and-how-its-blowing-your-cover/",
-            "description": "AI is brilliant at polishing and rephrasing. But like a child with glitter glue, you still need to supervise it.",
-            "pubDate": "2025-08-23T21:05:00",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Sun-DDM.png?w=578"
         }
     ]
 }
