@@ -2,22 +2,8 @@
     "title": "briefUpdatesMainNLbreakingNews",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLbreakingNews, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-30T00:53:35.499538",
+    "lastBuildDate": "2025-08-30T00:56:23.129692",
     "items": [
-        {
-            "title": "New details about Minneapolis church shooter’s background and family",
-            "link": "https://www.yahoo.com/news/videos/details-minneapolis-church-shooter-background-230915274.html",
-            "description": "",
-            "pubDate": "2025-08-30T00:09:15",
-            "image_url": "https://media.zenfs.com/en/nbcu_713/7ddfd0636c4be0b0a9f134fe2beeb337"
-        },
-        {
-            "title": "What happens to Trump’s tariffs now that a federal appeals court has knocked them down?",
-            "link": "https://www.yahoo.com/news/articles/happens-trump-tariffs-now-federal-235505076.html",
-            "description": "",
-            "pubDate": "2025-08-30T00:55:05",
-            "image_url": "https://media.zenfs.com/en/ap.org/a2c2508b4311a9186dcf0102c43159d1"
-        },
         {
             "title": "‘No morality:’ Historic Pittsburgh church victim to multiple break-ins",
             "link": "https://www.yahoo.com/news/articles/no-morality-historic-pittsburgh-church-024555602.html",
@@ -33,24 +19,45 @@
             "image_url": "https://media.zenfs.com/en/thewrap.com/50e5f59654afdd99a18c48e09e505fc7"
         },
         {
-            "title": "City council member faces additional charges in absentee ballot investigation",
-            "link": "https://abcnews.go.com/Politics/wireStory/city-council-member-connecticut-faces-additional-charges-absentee-125115086",
-            "description": "A city councilor in Connecticut is facing new charges in connection with an investigation into absentee ballot tampering in the state’s largest city",
-            "pubDate": "2025-08-30T03:09:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "What happens to Trump’s tariffs now that a federal appeals court has knocked them down?",
+            "link": "https://www.yahoo.com/news/articles/happens-trump-tariffs-now-federal-235505076.html",
+            "description": "",
+            "pubDate": "2025-08-30T00:55:05",
+            "image_url": "https://media.zenfs.com/en/ap.org/a2c2508b4311a9186dcf0102c43159d1"
+        },
+        {
+            "title": "New details about Minneapolis church shooter’s background and family",
+            "link": "https://www.yahoo.com/news/videos/details-minneapolis-church-shooter-background-230915274.html",
+            "description": "",
+            "pubDate": "2025-08-30T00:09:15",
+            "image_url": "https://media.zenfs.com/en/nbcu_713/7ddfd0636c4be0b0a9f134fe2beeb337"
+        },
+        {
+            "title": "Judge blocks Trump admin. from expanding fast-track deportations nationwide",
+            "link": "https://www.cbsnews.com/news/judge-blocks-trump-fast-track-deportations-due-process/",
+            "description": "A federal judge dealt a major blow to the Trump administration's mass deportation efforts late Friday, blocking it from expanding a process called exp...",
+            "pubDate": "2025-08-30T05:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "8/29: The Daily Report",
             "link": "https://www.cbsnews.com/video/829-the-daily-report/",
             "description": "Nancy Chen reports on a court's ruling that President Trump's tariffs are illegal, former Vice President's protection detail being revoked, and more.",
             "pubDate": "2025-08-30T02:37:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Trump admin live updates: Judge limits Trump admin's expansion of expedited removals",
-            "link": "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306",
-            "description": "A federal judge has blocked the Trump administration’s expanded use of expedited removal, potentially dealing a blow to the president’s deportation ag...",
-            "pubDate": "2025-08-30T03:18:32",
+            "title": "City council member faces additional charges in absentee ballot investigation",
+            "link": "https://abcnews.go.com/Politics/wireStory/city-council-member-connecticut-faces-additional-charges-absentee-125115086",
+            "description": "A city councilor in Connecticut is facing new charges in connection with an investigation into absentee ballot tampering in the state’s largest city",
+            "pubDate": "2025-08-30T03:09:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Bones found in search for father accused of killing 3 daughters",
+            "link": "https://www.cbsnews.com/news/travis-decker-search-fbi-recovers-potential-evidence/",
+            "description": "The FBI said it found bones while searching for signs of Travis Decker. The bones were being analyzed to determine if they are human or animal.",
+            "pubDate": "2025-08-30T03:04:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -61,39 +68,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Bones found in search for father accused of killing 3 daughters",
-            "link": "https://www.cbsnews.com/news/travis-decker-search-fbi-recovers-potential-evidence/",
-            "description": "The FBI said it found bones while searching for signs of Travis Decker. The bones were being analyzed to determine if they are human or animal.",
-            "pubDate": "2025-08-30T03:04:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Appeals court rules many of Trump's tariffs are illegal, but doesn't halt them",
+            "link": "https://www.cbsnews.com/news/appeals-court-trump-tariffs-illegal/",
+            "description": "A federal appeals court said many of the tariffs imposed by President Trump on dozens of countries earlier this year are not legally permissible, but ...",
+            "pubDate": "2025-08-30T02:10:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Trump’s global tariffs are unlawful, appeals court says",
             "link": "https://abcnews.go.com/US/trumps-global-tariffs-unlawful-appeals-court/story?id=125110624",
             "description": "A federal appeals court has ruled that most of President Donald Trump’s sweeping global tariffs are unlawful.",
             "pubDate": "2025-08-30T00:03:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "WATCH:  Taylor Swift and Travis Kelce spotted at college football game after engagement",
             "link": "https://abcnews.go.com/Entertainment/video/taylor-swift-travis-kelce-spotted-college-football-game-125110725",
             "description": "Taylor Swift made her first public appearance wearing her engagement ring from Travis Kelce at the Cincinnati Bearcats and Nebraska Cornhuskers game T...",
             "pubDate": "2025-08-30T03:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Appeals court rules many of Trump's tariffs are illegal, but doesn't halt them",
-            "link": "https://www.cbsnews.com/news/appeals-court-trump-tariffs-illegal/",
-            "description": "A federal appeals court said many of the tariffs imposed by President Trump on dozens of countries earlier this year are not legally permissible, but ...",
-            "pubDate": "2025-08-30T02:10:18",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Judge blocks Trump admin. from expanding fast-track deportations nationwide",
-            "link": "https://www.cbsnews.com/news/judge-blocks-trump-fast-track-deportations-due-process/",
-            "description": "A federal judge dealt a major blow to the Trump administration's mass deportation efforts late Friday, blocking it from expanding a process called exp...",
-            "pubDate": "2025-08-30T05:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Trump admin live updates: Judge limits Trump admin's expansion of expedited removals",
+            "link": "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306",
+            "description": "A federal judge has blocked the Trump administration’s expanded use of expedited removal, potentially dealing a blow to the president’s deportation ag...",
+            "pubDate": "2025-08-30T03:18:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "US will proceed with probe of solar imports from India, Laos and Indonesia",
@@ -107,28 +107,28 @@
             "link": "https://apnews.com/article/catholic-school-shooting-victims-grief-e116fe0dd0d0662bbe69f5026e3fb313",
             "description": "The families of the two Catholic school students fatally shot while celebrating Mass at a Minneapolis church are continuing to wrestle with their grie...",
             "pubDate": "2025-08-29T02:05:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "WATCH:  Trump cuts nearly $5B of foreign aid",
             "link": "https://abcnews.go.com/US/video/trump-cuts-5b-foreign-aid-125103827",
             "description": "President Donald Trump told Congress that he will slash $4.9 billion of congressionally-approved USAID and State Department foreign aid funding.",
             "pubDate": "2025-08-29T23:34:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Minneapolis Catholic schoolchildren listened to a prayer, then ducked for cover from gunfire",
             "link": "https://apnews.com/article/minneapolis-church-shooting-09e2fb36ee076f89b7ffed4f7e371e0d",
             "description": "",
             "pubDate": "2025-08-28T00:58:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "What we know about the shooter who killed 2 and wounded 18 in Minneapolis",
             "link": "https://apnews.com/article/minneapolis-school-shooting-annunciation-c4ebf0eaa7b4f67c697d93d679cb0e4b",
             "description": "",
             "pubDate": "2025-08-27T21:54:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
