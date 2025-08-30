@@ -2,14 +2,35 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-29T03:39:33.471846",
+    "lastBuildDate": "2025-08-30T00:54:20.219984",
     "items": [
         {
-            "title": "Fed’s Waller backs a series of interest-rate cuts over the next six months",
-            "link": "https://www.marketwatch.com/story/feds-waller-backs-a-series-of-interest-rate-cuts-over-the-next-six-months-f1f730bb?mod=mw_rss_topstories",
-            "description": "Federal Reserve governor Christopher Waller on Thursday said he now supports a series of interest-rate cuts beginning in September, with the pace of s...",
-            "pubDate": "2025-08-29T02:58:00",
-            "image_url": "https://images.mktw.net/im-25266129"
+            "title": "Software commands 40% of cybersecurity budgets as gen AI attacks execute in milliseconds",
+            "link": "https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/",
+            "description": "Software spending now makes up 40% of cybersecurity budgets, with investment expected to grow as CISOs prioritize real-time AI defenses.",
+            "pubDate": "2025-08-30T02:06:26",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/soc-for-budget-center.jpg?w=578"
+        },
+        {
+            "title": "Equal-weight S&P 500 sees longest winning streak since 2021 amid September rate-cut expectations",
+            "link": "https://www.marketwatch.com/story/equal-weight-s-p-500-sees-longest-winning-streak-since-2021-amid-september-rate-cut-expectations-79f7ca92?mod=mw_rss_topstories",
+            "description": "The equal-weight version of the S&P 500 just booked its longest streak of monthly gains since 2021.",
+            "pubDate": "2025-08-30T00:49:00",
+            "image_url": "https://images.mktw.net/im-03090121"
+        },
+        {
+            "title": "How Sakana AI’s new evolutionary algorithm builds powerful AI models without expensive retraining",
+            "link": "https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/",
+            "description": "M2N2 is a model merging technique that creates powerful multi-skilled agents without the high cost and data needs of retraining.",
+            "pubDate": "2025-08-30T01:14:14",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/Model-merging-2.jpg?w=578"
+        },
+        {
+            "title": "The Download: humans in space, and India’s thorium ambitions",
+            "link": "https://www.technologyreview.com/2025/08/29/1122843/the-download-humans-in-space-and-indias-thorium-ambitions/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The case aga...",
+            "pubDate": "2025-08-29T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/Tokelau_main_final.jpg?fit=1126,633"
         },
         {
             "title": "In crowded voice AI market, OpenAI bets on instruction-following and expressive speech to win enterprise adoption",
@@ -19,60 +40,88 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/crimedy7_illustration_of_a_half_machine_half_human_person_spe_63e21c7b-3093-4e77-b336-a83287f6af4a_2.png?w=578"
         },
         {
-            "title": "Lisa Cook’s Trump lawsuit opens new chapter in showdown over Fed independence",
-            "link": "https://www.marketwatch.com/story/lisa-cooks-trump-lawsuit-opens-new-chapter-in-showdown-over-fed-independence-86dcae53?mod=mw_rss_topstories",
-            "description": "Federal Reserve governor Lisa Cook on Thursday sued President Donald Trump after he moved to fire her over accusations of mortgage fraud, opening a ne...",
-            "pubDate": "2025-08-29T03:43:00",
-            "image_url": "https://images.mktw.net/im-58197976"
+            "title": "‘I have almost no retirement savings’: I’m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
+            "link": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
+            "description": "“I plan to work until I’m 70.”",
+            "pubDate": "2025-08-29T23:45:00",
+            "image_url": "https://images.mktw.net/im-92357000"
         },
         {
-            "title": "‘My brother found God in recovery’: How do you save for retirement when ‘God will provide’ is your core value?",
-            "link": "https://www.marketwatch.com/story/my-brother-found-god-in-recovery-how-do-you-save-for-retirement-when-god-will-provide-is-your-core-value-fae8088a?mod=mw_rss_topstories",
-            "description": "“Are there CFPs who are more aligned with a pragmatic, yet Christian, approach?”",
-            "pubDate": "2025-08-29T02:14:00",
-            "image_url": "https://images.mktw.net/im-15805186"
+            "title": "‘My blood pressure is sky high’: I’m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
+            "link": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
+            "description": "“What if I become cognitively impaired and need benefits for 15-20 years?”",
+            "pubDate": "2025-08-29T23:37:00",
+            "image_url": "https://images.mktw.net/im-62731936"
         },
         {
-            "title": "Trump’s push for lower interest rates is on a collision course with government bonds",
-            "link": "https://www.marketwatch.com/story/trumps-push-for-lower-interest-rates-is-on-a-collision-course-with-government-bonds-5be52f3a?mod=mw_rss_topstories",
-            "description": "Bond investors are taking a “wait-and-see” approach to President Donald Trump’s attempt to fire Federal Reserve governor Lisa Cook.",
-            "pubDate": "2025-08-29T03:37:00",
-            "image_url": "https://images.mktw.net/im-74945464"
+            "title": "Tessa Lau to speak at RoboBusiness’ Women in Robotics Lunch",
+            "link": "https://www.therobotreport.com/tessa-lau-to-speak-at-robobusiness-women-in-robotics-lunch/",
+            "description": "Lau will speak with Joyce Sidopoulos, co-founder of MassRobotics, about her journey in robotics and her current work. The post Tessa Lau to speak at R...",
+            "pubDate": "2025-08-29T17:39:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/LAU-Session-featured.jpg"
         },
         {
-            "title": "This under-the-radar storage stock is cashing in on Meta’s AI spending",
-            "link": "https://www.marketwatch.com/story/this-under-the-radar-storage-stock-is-cashing-in-on-metas-ai-spending-34f8ac2a?mod=mw_rss_topstories",
-            "description": "Pure Storage’s stock cruises to a record after a flash-storage partnership with Meta helped the company crush earnings expectations.",
-            "pubDate": "2025-08-29T01:38:00",
-            "image_url": "https://images.mktw.net/im-734544"
+            "title": "‘I’m asking for a friend’: Will the IRS write off $60,000 lost in a romance phishing scam?",
+            "link": "https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories",
+            "description": "“The bank did try to stop them from executing the transfers.”",
+            "pubDate": "2025-08-29T22:32:00",
+            "image_url": "https://images.mktw.net/im-30359409"
         },
         {
-            "title": "The Download: Google’s AI energy use, and the AI Hype Index",
-            "link": "https://www.technologyreview.com/2025/08/28/1122723/the-download-googles-ai-energy-use-and-the-ai-hype-index/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s sti...",
-            "pubDate": "2025-08-28T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/08/image_a520d1.png"
+            "title": "RealMan launches robotics data training center in Beijing",
+            "link": "https://www.therobotreport.com/realman-launches-robotics-data-training-center-in-beijing/",
+            "description": "On opening day, RealMan unveiled the RealBOT Embodied Intelligence Open Platform, which it designed for high-quality data acquisition. The post RealMa...",
+            "pubDate": "2025-08-29T15:16:33",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/Realman-Humanoid-Robotics-Data-Training-Center-featured.jpg"
         },
         {
-            "title": "Nvidia’s $46.7B Q2 proves the platform, but its next fight is ASIC economics on inference",
-            "link": "https://venturebeat.com/ai/nvidias-strong-q2-results-cant-mask-the-asic-challenge-in-their-future/",
-            "description": "Behind Nvidia's strong quarterlyu results are ASICs gaining ground in key Nvidia segments, challenging their growth in the quarters to come.",
-            "pubDate": "2025-08-28T22:09:54",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/asics-advance-against-nvidia.jpg?w=578"
+            "title": "Why Trump’s global tariffs were rejected in court — and what comes next",
+            "link": "https://www.marketwatch.com/story/why-trumps-global-tariffs-were-rejected-in-court-and-what-comes-next-237207e9?mod=mw_rss_topstories",
+            "description": "The White House says it anticipates an “ultimate victory” in the case over the president’s tariffs.",
+            "pubDate": "2025-08-29T23:54:00",
+            "image_url": "https://images.mktw.net/im-29282171"
         },
         {
-            "title": "MIT roboticists debate the future of robotics, data, and computing",
-            "link": "https://www.therobotreport.com/mit-roboticists-debate-the-future-of-robotics-data-and-computing/",
-            "description": "An international group of roboticists, including three from MIT, debated the best way to approach robotic manipulation moving forward. The post MIT ro...",
-            "pubDate": "2025-08-28T16:31:17",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/debaters-featured.jpg"
+            "title": "The startup journey, from prototype to production",
+            "link": "https://www.therobotreport.com/the-startup-journey-from-prototype-to-production/",
+            "description": "Bren Pierce, CEO and founder of Kinisi Robotics shares his tips for how to successfully launch and grow a robotics company. The post The startup journ...",
+            "pubDate": "2025-08-29T22:36:04",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/BREN-HEADSHOT-250x250-1.jpg"
         },
         {
-            "title": "Forget data labeling: Tencent’s R-Zero shows how LLMs can train themselves",
-            "link": "https://venturebeat.com/ai/forget-data-labeling-tencents-r-zero-shows-how-llms-can-train-themselves/",
-            "description": "By using two co-evolving AI models, the R-Zero framework generates its own learning curriculum, moving beyond the need for labeled datasets.",
-            "pubDate": "2025-08-28T22:07:08",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/LLM-challenger-and-solver-co-evolution.jpg?w=578"
+            "title": "The Reservoir launches AgTech innovation hub  in Salinas, CA",
+            "link": "https://www.therobotreport.com/the-reservoir-launches-agtech-innovation-hub-in-salinas-ca/",
+            "description": "Reservoir Farms, which claims to be the first on-farm startup incubator in California, features a state-of-the-art R&D facility for early-stage compan...",
+            "pubDate": "2025-08-29T16:58:47",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/ReservoirFarms-launch-featured.jpg"
+        },
+        {
+            "title": "How Intuit killed the chatbot crutch – and built an agentic AI playbook you can copy",
+            "link": "https://venturebeat.com/ai/how-intuit-killed-the-chatbot-crutch-and-built-an-agentic-ai-playbook-you-can-copy/",
+            "description": "This is the inside story of Intuit's transformation journey with AI — including a grueling nine-month pivot to \"burn the boats\" and reinvent how the 4...",
+            "pubDate": "2025-08-29T19:22:47",
+            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/u5875285552_imagine_abstract_depiction_of_a_major_corporation_e00cc4c7-e01d-4491-9a61-f0dfb16f740e_0.png?w=578"
+        },
+        {
+            "title": "RealSense deepens NVIDIA ties with new D555 depth camera",
+            "link": "https://www.therobotreport.com/realsense-deepens-nvidia-ties-with-new-d555-depth-camera/",
+            "description": "The new RealSense D555 depth camera integrates with NVIDIA Jetson Thor and Holoscan Sensor Bridge to deliver ultra-low-latency perception. The post Re...",
+            "pubDate": "2025-08-29T19:23:57",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/realsense-d555-depth-camera.jpg"
+        },
+        {
+            "title": "This American nuclear company could help India’s thorium dream",
+            "link": "https://www.technologyreview.com/2025/08/29/1122839/this-american-nuclear-company-could-help-indias-thorium-dream/",
+            "description": "For just the second time in nearly two decades, the United States has granted an export license to an American company planning to sell nuclear techno...",
+            "pubDate": "2025-08-29T10:56:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "RFK Jr’s plan to improve America’s diet is missing the point",
+            "link": "https://www.technologyreview.com/2025/08/29/1122733/rfk-jrs-plan-to-improve-americas-diet-is-missing-the-point/",
+            "description": "A lot of Americans don’t eat well. And they’re paying for it with their health. A diet high in sugar, sodium, and saturated fat can increase the risk ...",
+            "pubDate": "2025-08-29T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Nous Research drops Hermes 4 AI models that outperform ChatGPT without content restrictions",
@@ -82,74 +131,18 @@
             "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/hermes-4.jpg?w=578"
         },
         {
-            "title": "From pilot to scale: Making agentic AI work in health care",
-            "link": "https://www.technologyreview.com/2025/08/28/1122623/from-pilot-to-scale-making-agentic-ai-work-in-health-care/",
-            "description": "Over the past 20 years building advanced AI systems—from academic labs to enterprise deployments—I’ve witnessed AI’s waves of success rise and fall. M...",
-            "pubDate": "2025-08-28T11:09:13",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/08/iStock-1333328712_cb5c09.jpg?w=3000"
-        },
-        {
-            "title": "OpenAI–Anthropic cross-tests expose jailbreak and misuse risks — what enterprises must add to GPT-5 evaluations",
-            "link": "https://venturebeat.com/ai/openai-anthropic-cross-tests-expose-jailbreak-and-misuse-risks-what-enterprises-must-add-to-gpt-5-evaluations/",
-            "description": "OpenAI and Anthropic tested each other's AI models and found that even though reasoning models align better to safety, there are still risks.",
-            "pubDate": "2025-08-28T16:50:54",
-            "image_url": "https://venturebeat.com/wp-content/uploads/2025/08/crimedy7_illustration_of_robots_taking_a_test_-ar_169_-v_7_1d78ce54-b35b-435f-9d54-55bd3a0faf66_0.png?w=578"
-        },
-        {
-            "title": "Google’s still not giving us the full picture on AI energy use",
-            "link": "https://www.technologyreview.com/2025/08/28/1122685/ai-energy-use-gemini/",
-            "description": "Google just announced that a typical query to its Gemini app uses about 0.24 watt-hours of electricity. That’s about the same as running a microwave f...",
-            "pubDate": "2025-08-28T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "The Download: Google’s AI energy use, and the AI Hype Index",
+            "link": "https://www.technologyreview.com/2025/08/28/1122723/the-download-googles-ai-energy-use-and-the-ai-hype-index/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s sti...",
+            "pubDate": "2025-08-28T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/08/image_a520d1.png"
         },
         {
             "title": "Creating a qubit fit for a quantum future",
             "link": "https://www.technologyreview.com/2025/08/28/1121890/creating-a-qubit-fit-for-a-quantum-future/",
             "description": "",
             "pubDate": "2025-08-28T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Nidec returns to RoboBusiness to demo advanced robotics gears",
-            "link": "https://www.therobotreport.com/nidec-returns-to-robobusiness-to-demo-advanced-robotics-gears/",
-            "description": "Connect with Nidec to learn about its latest strain wave gearheads, cycloidal reducers and other motion control products for various robotics applicat...",
-            "pubDate": "2025-08-27T21:40:31",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/ROBOB-25-PR-IMG-1.jpg"
-        },
-        {
-            "title": "John Deere strengthens agrobotics portfolio with GUSS acquisition",
-            "link": "https://www.therobotreport.com/john-deere-strengthens-agrobotics-portfolio-with-guss-acquistion/",
-            "description": "Already, John Deere is an exclusive provider of GUSS sprayers, and that will continue to be the case after the acquisition. The post John Deere streng...",
-            "pubDate": "2025-08-27T19:22:35",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/John-Deere-X-GUSS-featured.jpg"
-        },
-        {
-            "title": "e-con Systems adds camera, compute solutions for NVIDIA Jetson Thor",
-            "link": "https://www.therobotreport.com/e-con-systems-adds-camera-compute-solutions-for-nvidia-jetson-thor/",
-            "description": "e-con said the support covers a range of vision products, including USB Series, RouteCAM GigE series, 10G Holoscan Camera solutions and ECU platform p...",
-            "pubDate": "2025-08-27T20:53:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/08/e-con-Systems-Holoscan-Camera-Solution-with-NVIDIA-Jetson-Thor.jpg"
-        },
-        {
-            "title": "Intuitive laying off 331 workers in California",
-            "link": "https://www.therobotreport.com/intuitive-laying-off-331-workers-in-california/",
-            "description": "Intuitive plans to cease operations for graveyard and weekend shifts for its Ion instruments and accessories production, as well as all related logist...",
-            "pubDate": "2025-08-27T17:39:23",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/Intuitive-Da-Vinci-5-surgical-robotics-system-768x499-1.jpg"
-        },
-        {
-            "title": "The AI Hype Index: AI-designed antibiotics show promise",
-            "link": "https://www.technologyreview.com/2025/08/27/1122356/the-ai-hype-index-ai-designed-antibiotics-show-promise/",
-            "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
-            "pubDate": "2025-08-27T15:07:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -164,6 +157,13 @@
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
             "pubDate": "2021-10-29T00:18:48",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
