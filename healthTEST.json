@@ -2,63 +2,133 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-08-30T00:57:40.610278",
+    "lastBuildDate": "2025-08-31T01:40:07.896246",
     "items": [
+        {
+            "title": "Analyzing the impact of a turbulent week for the CDC",
+            "link": "https://www.npr.org/2025/08/30/nx-s1-5520755/analyzing-the-impact-of-a-turbulent-week-for-the-cdc",
+            "description": "The director of the CDC is out and updated COVID-19 vaccines come with new restrictions. NPR's Scott Simon speaks with Dr. Carlos del Rio of Emory Uni...",
+            "pubDate": "2025-08-30T12:44:08",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5520755"
+        },
+        {
+            "title": "As drug deaths hit a 5-year low, Trump continues to cite fentanyl as major threat",
+            "link": "https://www.npr.org/2025/08/30/nx-s1-5522046/drugs-deaths-trump-fentanyl",
+            "description": "Drug deaths in the U.S. are at their lowest level since March 2025, according to federal data. Trump continues to cite fentanyl as justification for p...",
+            "pubDate": "2025-08-30T10:15:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2Fd9%2F2315df6344e9a05e6a98823416d9%2Fgettyimages-2224719941.jpg"
+        },
+        {
+            "title": "Photos: Mother Nature must be really annoyed at our fakery",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/08/30/g-s1-86289/photos-nature-anthropocene-polar-bear-elephants-illusion",
+            "description": "A polar bear in a zoo, a hotel balcony overlooking elephants, a tree mural shrouded by haze: They're images from the new book The Anthropocene Illusio...",
+            "pubDate": "2025-08-30T14:08:09",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/800x653+0+0/resize/800x653!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2Fcc%2Fc1aca3364596a329a27a7f69730d%2Fanthorpocene-illusion-7.jpg"
+        },
+        {
+            "title": "FDA now providing daily updates on adverse events",
+            "link": "https://medicalxpress.com/news/2025-08-fda-daily-adverse-events.html",
+            "description": "The U.S. Food and Drug Administration is now providing real-time, daily publication updates on adverse event data from its reporting system.",
+            "pubDate": "2025-08-30T18:10:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Why endurance events like marathons should have weight divisions for heavier runners",
+            "link": "https://medicalxpress.com/news/2025-08-events-marathons-weight-divisions-heavier.html",
+            "description": "In sports such as wrestling, boxing, rowing, weight lifting and the martial arts, athletes are grouped by weight to make things fairer.",
+            "pubDate": "2025-08-30T21:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Learning medicine in the age of AI: Why future doctors need digital fluency",
+            "link": "https://kevinmd.com/2025/08/learning-medicine-in-the-age-of-ai-why-future-doctors-need-digital-fluency.html",
+            "description": "When I started medical school, I imagined long nights memorizing anatomy, shadowing physicians, and, eventually, walking hospital hallways in a white ...",
+            "pubDate": "2025-08-30T14:00:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "'We need to look after our grand-friends': How childcare in aged care can help young and old",
+            "link": "https://medicalxpress.com/news/2025-08-grand-friends-childcare-aged-young.html",
+            "description": "An experimental aged-care model in South Australia, where purpose-built independent retirement living apartments are co-located with an early learning...",
+            "pubDate": "2025-08-30T17:10:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Why clinicians must lead health care tech innovation",
+            "link": "https://kevinmd.com/2025/08/why-clinicians-must-lead-health-care-tech-innovation.html",
+            "description": "Over the past couple of years, advanced technological development, adoption, and implementation have grown exponentially across industries, including ...",
+            "pubDate": "2025-08-30T20:00:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Remote ECG Screening Ups AF Detection ‘Modestly’",
+            "link": "https://www.medscape.com/viewarticle/remote-ecg-screening-ups-atrial-fibrillation-detection-2025a1000myx?src=rss",
+            "description": "A home-based AF screening strategy was well accepted in a new study, but whether it will be worthwhile for widescale use is unclear. Medscape Medical ...",
+            "pubDate": "2025-08-30T22:25:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Reducing Blood Pressure Meds in Older Adults Not Supported",
+            "link": "https://www.medscape.com/viewarticle/stepping-down-hypertensive-therapy-not-beneficial-frail-2025a1000mys?src=rss",
+            "description": "Despite observational evidence supporting a low-dose approach to antihypertensive therapy in the old and frail, a randomized prospective trial finds n...",
+            "pubDate": "2025-08-30T20:02:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "High-Dose Flu Vax Reduces Hospitalizations, Study Finds",
+            "link": "https://www.medscape.com/viewarticle/largest-ever-individually-randomized-trials-show-high-dose-2025a1000mym?src=rss",
+            "description": "Trials reinforce calls for vaccination to be part of cardiovascular prevention strategies. Medscape Medical News",
+            "pubDate": "2025-08-30T17:28:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Labor Day mission: Build social ties through live events",
+            "link": "https://medicalxpress.com/news/2025-08-labor-day-mission-social-events.html",
+            "description": "If your social life has been lived out in Zoom calls since the height of the pandemic, Labor Day weekend is prime time for a reboot.",
+            "pubDate": "2025-08-30T18:20:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "The truth about sun exposure: What dermatologists want you to know",
+            "link": "https://kevinmd.com/2025/08/the-truth-about-sun-exposure-what-dermatologists-want-you-to-know.html",
+            "description": "Sunlight is essential to life. It stimulates the production of Vitamin D, a hormone that plays a crucial role in bone health, immune function, and pos...",
+            "pubDate": "2025-08-30T16:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "How a South Asian nurse challenged stereotypes in health care",
+            "link": "https://kevinmd.com/2025/08/how-a-south-asian-nurse-challenged-stereotypes-in-health-care.html",
+            "description": "“Are you going to be wearing a white skirt and a hat from now?” That was one of the first things I heard when I told relatives I had been accepted int...",
+            "pubDate": "2025-08-30T12:00:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Trials Expand Evidence for Hypertrophic Cardiomyopathy Tx",
+            "link": "https://www.medscape.com/viewarticle/new-trials-clarify-role-myosin-inhibitors-hypertrophic-2025a1000myv?src=rss",
+            "description": "In one of two trials with myosin inhibitors for hypertrophic cardiomyopathy, one showed effectiveness for the obstructive type, while the other fell f...",
+            "pubDate": "2025-08-30T21:13:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Childhood trauma linked to mental health problems and chronic pain in later life",
+            "link": "https://medicalxpress.com/news/2025-08-childhood-trauma-linked-mental-health.html",
+            "description": "New research from the University of Aberdeen challenges the current view that trauma in childhood increases the risk of all health conditions. The stu...",
+            "pubDate": "2025-08-30T17:20:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Is Warfarin Still an Option for Frail Patients With AF?",
+            "link": "https://www.medscape.com/viewarticle/warfarin-still-option-frail-patients-atrial-fibrillation-2025a1000myp?src=rss",
+            "description": "A meta-analysis shows newer anticoagulants are safer than warfarin, especially for serious bleeding complications like intracranial hemorrhage. Medsca...",
+            "pubDate": "2025-08-30T18:59:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "Doctors reclaiming their humanity in a broken system [PODCAST]",
             "link": "https://kevinmd.com/2025/08/doctors-reclaiming-their-humanity-in-a-broken-system-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Physician advocates Alae Kawam, Kim Downey, and Nicole Solomos discus...",
             "pubDate": "2025-08-30T00:00:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Guilty until proven innocent? My experience with a state medical board.",
-            "link": "https://kevinmd.com/2025/08/guilty-until-proven-innocent-my-experience-with-a-state-medical-board.html",
-            "description": "When I found out about the summary suspension of my medical license in February, I was terrified and shocked, but I knew it was a mistake. There had n...",
-            "pubDate": "2025-08-30T00:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Presymptomatic treatment of spinal muscular atrophy with risdiplam leads to improved functional outcomes",
-            "link": "https://www.2minutemedicine.com/presymptomatic-treatment-of-spinal-muscular-atrophy-with-risdiplam-leads-to-improved-functional-outcomes/",
-            "description": "1. In this single-group trial, among infants predicted to develop type 1 spinal muscular atrophy (SMA) who were treated presymptomatically with risdip...",
-            "pubDate": "2025-08-29T15:00:40",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/11/newborn-baby_edited-300x150.jpg"
-        },
-        {
-            "title": "Significant body weight reduction with cagrilintide-semaglutide therapy",
-            "link": "https://www.2minutemedicine.com/significant-body-weight-reduction-with-cagrilintide-semaglutide-therapy/",
-            "description": "1. In this randomized controlled trial, the combination cagrilintide-semaglutide (CagriSema) resulted in significantly greater body weight reduction c...",
-            "pubDate": "2025-08-29T18:00:52",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/12/doctor-patient-2-300x150.jpg"
-        },
-        {
-            "title": "COVID vaccine guidance has changed — again. A doctor tackles your questions",
-            "link": "https://www.npr.org/2025/08/29/nx-s1-5522273/health-cdc-covid-vaccine-hhs-fda",
-            "description": "The Food and Drug Administration approved the next round of COVID-19 vaccines, but they come with restrictions. NPR wants to know your questions about...",
-            "pubDate": "2025-08-29T21:11:49",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4853x3236+0+0/resize/4853x3236!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F88%2F9e%2Ff4fb0746424aa9fb72cc9a4bbec6%2Fgettyimages-1422319278.jpg"
-        },
-        {
-            "title": "Similar outcomes between lactated Ringer’s and normal saline for hospitalized patients",
-            "link": "https://www.2minutemedicine.com/similar-outcomes-between-lactated-ringers-and-normal-saline-for-hospitalized-patients/",
-            "description": "1. Among randomized hospitalized patients in this trial, routine use of lactated Ringer’s (LR) solution did not reduce the risk of death or re-hospita...",
-            "pubDate": "2025-08-29T13:00:44",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/12/infusion_edited-e1442764933669-300x150.jpg"
-        },
-        {
-            "title": "It's been a week of chaos at the CDC. Here are 5 things to know",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/08/29/nx-s1-5522036/cdc-rfk-hhs-monarez-jim-oneill-leadership",
-            "description": "Here's your recap of what happened in the leadership shakeup at the Centers for Disease Control and Prevention this week.",
-            "pubDate": "2025-08-29T19:23:21",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4958x3309+0+0/resize/4958x3309!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2Ff3%2F1f66103f456281594cfa5bd27f12%2Fap25240773010054.jpg"
-        },
-        {
-            "title": "My son loved his first day of kindergarten. It brings up my own bittersweet memories",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/08/29/g-s1-86119/school-education-kindergarten-uganda",
-            "description": "When his son began kindergarten this week, educator James Kassaga Arinaitwe flashed back to his own initiation into school, growing up in Uganda under...",
-            "pubDate": "2025-08-29T19:04:07",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x4160+0+0/resize/6240x4160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F15%2F74b48a6f49a5a40b7a7b61cd5ac1%2Fkindergarten-first-day-8.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Former CDC official explains his decision to leave the agency",
@@ -68,109 +138,39 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5521993"
         },
         {
+            "title": "COVID vaccine guidance has changed — again. A doctor tackles your questions",
+            "link": "https://www.npr.org/2025/08/29/nx-s1-5522273/health-cdc-covid-vaccine-hhs-fda",
+            "description": "The Food and Drug Administration approved the next round of COVID-19 vaccines, but they come with restrictions. NPR wants to know your questions about...",
+            "pubDate": "2025-08-29T21:11:49",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4853x3236+0+0/resize/4853x3236!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F88%2F9e%2Ff4fb0746424aa9fb72cc9a4bbec6%2Fgettyimages-1422319278.jpg"
+        },
+        {
+            "title": "Significant body weight reduction with cagrilintide-semaglutide therapy",
+            "link": "https://www.2minutemedicine.com/significant-body-weight-reduction-with-cagrilintide-semaglutide-therapy/",
+            "description": "1. In this randomized controlled trial, the combination cagrilintide-semaglutide (CagriSema) resulted in significantly greater body weight reduction c...",
+            "pubDate": "2025-08-29T18:00:52",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/12/doctor-patient-2-300x150.jpg"
+        },
+        {
+            "title": "Similar outcomes between lactated Ringer’s and normal saline for hospitalized patients",
+            "link": "https://www.2minutemedicine.com/similar-outcomes-between-lactated-ringers-and-normal-saline-for-hospitalized-patients/",
+            "description": "1. Among randomized hospitalized patients in this trial, routine use of lactated Ringer’s (LR) solution did not reduce the risk of death or re-hospita...",
+            "pubDate": "2025-08-29T13:00:44",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/12/infusion_edited-e1442764933669-300x150.jpg"
+        },
+        {
+            "title": "Presymptomatic treatment of spinal muscular atrophy with risdiplam leads to improved functional outcomes",
+            "link": "https://www.2minutemedicine.com/presymptomatic-treatment-of-spinal-muscular-atrophy-with-risdiplam-leads-to-improved-functional-outcomes/",
+            "description": "1. In this single-group trial, among infants predicted to develop type 1 spinal muscular atrophy (SMA) who were treated presymptomatically with risdip...",
+            "pubDate": "2025-08-29T15:00:40",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/11/newborn-baby_edited-300x150.jpg"
+        },
+        {
             "title": "Machine learning models diagnose celiac disease at similar performance levels to pathologists",
             "link": "https://www.2minutemedicine.com/machine-learning-models-diagnose-celiac-disease-at-similar-performance-levels-to-pathologists/",
             "description": "1. Jaeckle and colleagues assessed the performance of machine learning models to diagnose celiac disease based on duodenal biopsies. 2. The machine le...",
             "pubDate": "2025-08-29T16:00:39",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/04/800px-Celiac_disease_-_high_mag-300x150.jpg"
-        },
-        {
-            "title": "Talking to kids about school shootings. Be truthful and follow their lead",
-            "link": "https://www.npr.org/2025/08/29/nx-s1-5519737/school-shooting-children-mental-health",
-            "description": "Parents are struggling to figure out what to say to their children after another school shooting. We talked to some experts, who offered these guideli...",
-            "pubDate": "2025-08-29T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fa0%2F273e8e944d6ea481d23484b569f8%2Fgettyimages-2232395976.jpg"
-        },
-        {
-            "title": "When life makes you depend on Depends",
-            "link": "https://kevinmd.com/2025/08/when-life-makes-you-depend-on-depends.html",
-            "description": "At any given time, about five percent of men and nine percent of women, just like you and me, suffer from incontinence. This means that they cannot ho...",
-            "pubDate": "2025-08-29T18:00:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Sex-selective abortion bans harm maternal and infant health, according to study",
-            "link": "https://medicalxpress.com/news/2025-08-sex-abortion-maternal-infant-health.html",
-            "description": "Sex-selective abortion bans (SSABs)—which prohibit the seeking of abortions based on the fetus' sex—increase the likelihood of low birth weight and pr...",
-            "pubDate": "2025-08-29T19:30:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Raising Potassium Cuts Arrhythmias in ICD Patients",
-            "link": "https://www.medscape.com/viewarticle/raising-potassium-cuts-arrhythmias-icd-patients-2025a1000mx2?src=rss",
-            "description": "In patients with cardiovascular disease who had an ICD and were at high risk for ventricular arrhythmias, increasing potassium levels led to a signifi...",
-            "pubDate": "2025-08-29T17:28:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "New MMRV Jab to Include Chickenpox From 2026",
-            "link": "https://www.medscape.com/viewarticle/new-mmrv-jab-include-chickenpox-2026-2025a1000mwh?src=rss",
-            "description": "The NHS will add a chickenpox vaccine to the routine childhood schedule in 2026, aiming to cut illness, costs, and health inequalities. Medscape News ...",
-            "pubDate": "2025-08-29T15:25:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Falls Lead to Brain Bleeds in About 7% of Older Adults",
-            "link": "https://www.medscape.com/viewarticle/nearly-7-older-adults-fall-related-head-injury-develop-2025a1000mw6?src=rss",
-            "description": "Focal neurologic signs, external head trauma, loss of consciousness, and male sex independently predict the risk for intracranial hemorrhage after gro...",
-            "pubDate": "2025-08-29T14:36:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Scientists solve medical mystery behind rare multi-organ disease, opening door to new treatments",
-            "link": "https://medicalxpress.com/news/2025-08-scientists-medical-mystery-rare-multi.html",
-            "description": "A team of scientists led by Duke-NUS Medical School has solved a mystery behind a rare and previously undiagnosed disease that affects multiple organs...",
-            "pubDate": "2025-08-29T19:10:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "How to balance clinical duties with building a startup",
-            "link": "https://kevinmd.com/2025/08/how-to-balance-clinical-duties-with-building-a-startup.html",
-            "description": "I’m often asked about how to pursue a physician entrepreneurial career pathway. Like Peter Medawar opined in his “Advice to a young scientist”, allow ...",
-            "pubDate": "2025-08-29T20:00:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Could ECMO change where we die and how our organs are donated?",
-            "link": "https://kevinmd.com/2025/08/could-ecmo-change-where-we-die-and-how-our-organs-are-donated.html",
-            "description": "The question is not where one is born, because birthplace—whether a country or continent—is never chosen by oneself, but always determined by others a...",
-            "pubDate": "2025-08-29T16:00:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Australian Plasma Service Drops Sexual Activity Wait Times",
-            "link": "https://www.medscape.com/viewarticle/australian-blood-service-removes-sexual-activity-wait-times-2025a1000mw7?src=rss",
-            "description": "Australian blood supplier Lifeblood drops sexual activity wait times for most plasma donations and adopts gender-neutral sexual activity questions for...",
-            "pubDate": "2025-08-29T14:28:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Scientists create realistic brain-wide connection maps through digital modeling",
-            "link": "https://medicalxpress.com/news/2025-08-scientists-realistic-brain-wide-digital.html",
-            "description": "EPFL researchers have developed a powerful method to generate brain-wide, biologically realistic wiring maps of the mouse brain. Their approach bridge...",
-            "pubDate": "2025-08-29T19:20:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "UK Authorises First Pill for Postnatal Depression",
-            "link": "https://www.medscape.com/viewarticle/uk-authorises-first-pill-postnatal-depression-2025a1000mwu?src=rss",
-            "description": "The MHRA has approved zuranolone, the UK’s first oral treatment for postnatal depression, offering a faster-acting alternative to existing therapies. ...",
-            "pubDate": "2025-08-29T16:11:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "AI models can help predict in-hospital mortality in ICU patients with lymphoma",
-            "link": "https://medicalxpress.com/news/2025-08-ai-hospital-mortality-icu-patients.html",
-            "description": "Machine learning (ML) models predict in-hospital mortality in intensive care unit (ICU) patients with lymphoma, according to a study published online ...",
-            "pubDate": "2025-08-29T19:20:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Millions of women rely on contraceptives, but a new study shows they may do more than just prevent pregnancy",
-            "link": "https://medicalxpress.com/news/2025-08-millions-women-contraceptives-pregnancy.html",
-            "description": "Hormonal birth control is a fact of life for millions of women. In the U.S. alone, more than 60 million women of reproductive age have used contracept...",
-            "pubDate": "2025-08-29T19:20:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Utility of long-term routine laboratory toxicity monitoring of immunomodulatory drugs in rheumatoid arthritis",
