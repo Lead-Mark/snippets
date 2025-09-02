@@ -2,14 +2,21 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-02T10:46:34.798371",
+    "lastBuildDate": "2025-09-02T17:10:54.525265",
     "items": [
         {
-            "title": "How Grief Can Silently Impact Your Health",
-            "link": "https://www.webmd.com/mental-health/ss/slideshow-grief-health-effects",
+            "title": "Can Coffee Affect Your Mood? Here's What to Know",
+            "link": "https://www.webmd.com/diet/what-to-know-about-coffee-and-depression",
             "description": "",
-            "pubDate": "2025-09-02T07:11:20",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/hiv_and_black_americans_slideshow/1800ss_getty_rf_man_looking_out_window.jpg?resize=484px:*&output-quality=70"
+            "pubDate": "2025-09-02T18:05:08",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/hiv/pensive_man_sitting_by_window_in_coffee_shop/1800x1200_pensive_man_sitting_by_window_in_coffee_shop.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "The Probiotic Strains That Work Best as You Age",
+            "link": "https://www.webmd.com/healthy-aging/best-probiotic-strains-older-adults",
+            "description": "Stress, illness, and antibiotics can disrupt gut balance. The right probiotics may help support digestion, immunity, and overall gut health.",
+            "pubDate": "2025-09-02T18:05:08",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/foods-to-eat-and-avoid-when-you-have-attr-cm-slideshow/1800ss-getty-rf-woman-reading-label.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "An absence of cardiovascular risk factors is linked to over ten additional healthy years",
@@ -19,13 +26,6 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/cardiac-heart-300x150.jpeg"
         },
         {
-            "title": "Perimenopause and Hormone Therapy: A Doctor Shares Her Story",
-            "link": "https://www.webmd.com/menopause/story/hormone-replacement-therapy-perimenopause",
-            "description": "",
-            "pubDate": "2025-09-02T07:11:20",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/centerpieces/perimenopause-and-the-zone-of-chaos-centrepiece/1800x1200-amythornborrow-20250721-00160.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "Association between serum albumin to creatinine ratio and non-alcoholic fatty liver disease: a longitudinal cohort study in non-obese Chinese individuals",
             "link": "https://www.2minutemedicine.com/association-between-serum-albumin-to-creatinine-ratio-and-non-alcoholic-fatty-liver-disease-a-longitudinal-cohort-study-in-non-obese-chinese-individuals/",
             "description": "1. In a group of Chinese patients with normal low-density lipoprotein cholesterol (LDL-c), serum albumin to creatinine (sACR) showed an inverse and no...",
@@ -33,59 +33,38 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/01/1077px-Liversteatosis-300x150.jpg"
         },
         {
-            "title": "Can Drinking More Water Help You Lose Weight?",
-            "link": "https://www.webmd.com/obesity/drinking-water-lose-weight",
-            "description": "Drinking more water won’t magically melt pounds, but it can support weight loss in real ways. Learn how hydration affects your health plus how much wa...",
-            "pubDate": "2025-09-02T07:11:20",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/what_happens_when_you_give_up_caffeine_slideshow/1800ss_getty_rf_woman_drinking_water-e82.jpg?resize=484px:*&output-quality=70"
+            "title": "Ways to Encourage Healthy Eating in Kids",
+            "link": "https://www.webmd.com/children/kids-healthy-eating-habits",
+            "description": "",
+            "pubDate": "2025-09-02T18:05:08",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/slideshows/taking_care_of_every_child_in_adhd_family_slideshow/1800x1200_taking_care_of_every_child_in_adhd_family_slideshow.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Who Manages Patients After MI Matters in Cholesterol Control",
-            "link": "https://www.medscape.com/viewarticle/who-manages-patients-after-mi-matters-cholesterol-control-2025a1000mvr?src=rss",
-            "description": "Specialised care at lipid clinics may help patients with ST-elevation myocardial infarction achieve low-density lipoprotein cholesterol targets more e...",
+            "title": "Salt Intake Linked to Higher MASLD and Liver Risks",
+            "link": "https://www.medscape.com/s/viewarticle/salt-intake-linked-higher-masld-and-liver-risks-2025a1000mw8?src=rss",
+            "description": "New data suggest that adding salt to food more often may significantly raise the risk for liver-related disorders, including MASLD and HCC. Medscape M...",
+            "pubDate": "2025-09-02T19:34:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Osteoporosis Drug Shows No Benefit for Male Infertility",
+            "link": "https://www.medscape.com/viewarticle/osteoporosis-drug-shows-no-benefit-male-infertility-2025a1000mvb?src=rss",
+            "description": "Denosumab, an investigational treatment for male infertility, may not be superior to placebo or vitamin D and calcium supplementation in men with seve...",
             "pubDate": "2025-09-02T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Expert comment: The importance of teaching children about zoonotic diseases and how to safely interact with animals",
-            "link": "https://medicalxpress.com/news/2025-09-expert-comment-importance-children-zoonotic.html",
-            "description": "Animals teach children empathy, tolerance, patience and the ability to love something other than themselves. Bernard Williams, the English philosopher...",
-            "pubDate": "2025-09-02T15:02:03",
+            "title": "Could antibiotics beat heart disease where statins failed?",
+            "link": "https://kevinmd.com/2025/09/could-antibiotics-beat-heart-disease-where-statins-failed.html",
+            "description": "Coronary artery disease is still the world’s number-one killer. That’s despite statins, PCSK9 inhibitors, stents, bypasses, and decades of lifestyle m...",
+            "pubDate": "2025-09-02T16:00:56",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Triple Therapy Boosts Glycemic Control in Cystic Fibrosis",
-            "link": "https://www.medscape.com/viewarticle/triple-therapy-boosts-glycemic-control-cystic-fibrosis-2025a1000n2d?src=rss",
-            "description": "In patients with cystic fibrosis, treatment with elexacaftor-tezacaftor-ivacaftor significantly improves glycemic control with no new safety concerns....",
-            "pubDate": "2025-09-02T12:18:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Little-known molecule identified as natural guardian of blood vessel health",
-            "link": "https://medicalxpress.com/news/2025-09-molecule-natural-guardian-blood-vessel.html",
-            "description": "An international research team led by MDI Biological Laboratory President Hermann Haller, M.D. and postdoctoral researcher Yannic Becker, Ph.D. has di...",
-            "pubDate": "2025-09-02T15:40:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "A warm, wet spring means more mosquitoes. How to protect yourself from the diseases they spread",
-            "link": "https://medicalxpress.com/news/2025-09-mosquitoes-diseases.html",
-            "description": "Mosquito bites are annoying. They can also have deadly consequences. So what diseases do mosquitoes in Australia carry?",
-            "pubDate": "2025-09-02T15:13:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "FDA OKs Subcutaneous Lecanemab for Early AD",
-            "link": "https://www.medscape.com/viewarticle/fda-oks-subcutaneous-lecanemab-maintenance-dosing-early-ad-2025a1000n3r?src=rss",
-            "description": "After 18 months of intravenous administration of lecanemab (Leqembi), patients may now transition to subcutaneous delivery using the Leqembi Iqlik aut...",
-            "pubDate": "2025-09-02T15:05:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "AI tech 'revolutionizing' stroke treatment in England",
-            "link": "https://medicalxpress.com/news/2025-09-ai-tech-revolutionizing-treatment-england.html",
-            "description": "An artificial intelligence tool which quickly analyzes brain scans of stroke patients has helped boost chances of full recovery since being launched a...",
-            "pubDate": "2025-09-02T15:30:02",
+            "title": "Could Vaginal Microbiome Testing Transform Women’s Health?",
+            "link": "https://www.medscape.com/viewarticle/could-vaginal-microbiome-testing-transform-womens-health-2025a1000n65?src=rss",
+            "description": "Once overlooked, the vaginal microbiome is now under scrutiny for its role in fertility, infection, and long-term health outcomes. Medscape News UK",
+            "pubDate": "2025-09-02T18:23:46",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
@@ -93,21 +72,77 @@
             "link": "https://www.medscape.com/viewarticle/poor-periconception-glycaemic-control-linked-higher-2025a1000mvg?src=rss",
             "description": "Poor periconception glycaemic control in type 1 diabetes elevates the risk for preeclampsia, showing a strong dose-response association. Medscape News...",
             "pubDate": "2025-09-02T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Medicaid is crucial to access treatment for opioid addiction, researchers find",
+            "link": "https://medicalxpress.com/news/2025-09-medicaid-crucial-access-treatment-opioid.html",
+            "description": "Medicaid plays a key role for giving people with opioid-use disorder access to treatment, according to a Rutgers Health study. Progress in life-saving...",
+            "pubDate": "2025-09-02T22:04:04",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Osteoporosis Drug Shows No Benefit for Male Infertility",
-            "link": "https://www.medscape.com/viewarticle/osteoporosis-drug-shows-no-benefit-male-infertility-2025a1000mvb?src=rss",
-            "description": "Denosumab, an investigational treatment for male infertility, may not be superior to placebo or vitamin D and calcium supplementation in men with seve...",
-            "pubDate": "2025-09-02T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "FDA OKs Subcutaneous Lecanemab for Early AD",
+            "link": "https://www.medscape.com/viewarticle/fda-oks-subcutaneous-lecanemab-maintenance-dosing-early-ad-2025a1000n3r?src=rss",
+            "description": "After 18 months of intravenous administration of lecanemab (Leqembi), patients may now transition to subcutaneous delivery using the Leqembi Iqlik aut...",
+            "pubDate": "2025-09-02T15:05:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Vericiguat did not meet primary endpoint but lowered risk of cardiovascular death in patients with heart failure",
-            "link": "https://medicalxpress.com/news/2025-09-vericiguat-primary-endpoint-lowered-cardiovascular.html",
-            "description": "Vericiguat did not reduce the risk of cardiovascular mortality and heart failure (HF) hospitalizations in ambulatory patients with HF and reduced ejec...",
-            "pubDate": "2025-09-02T15:20:01",
+            "title": "Report finds 59% of overdose deaths involved stimulants in 2021 to 2024",
+            "link": "https://medicalxpress.com/news/2025-09-overdose-deaths-involved.html",
+            "description": "From 2021 to 2024, 59.0% of overdose deaths involved stimulants, according to research published in the Aug. 28 issue of the U.S. Centers for Disease ...",
+            "pubDate": "2025-09-02T21:40:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "FDA approves subcutaneous Leqembi for treatment of early Alzheimer's disease",
+            "link": "https://medicalxpress.com/news/2025-09-fda-subcutaneous-leqembi-treatment-early.html",
+            "description": "The U.S. Food and Drug Administration has approved Leqembi Iqlik, a subcutaneous version of lecanemab, for weekly maintenance after the 18-month intra...",
+            "pubDate": "2025-09-02T21:50:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The dying man who gave me flowers changed how I see care",
+            "link": "https://kevinmd.com/2025/09/the-dying-man-who-gave-me-flowers-changed-how-i-see-care.html",
+            "description": "Today for the first time, I got flowers from a grateful patient. And I reflect on how rough the week has been, all the things that seemed impossible a...",
+            "pubDate": "2025-09-02T14:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Multimodal deep learning model improves risk prediction for cervical cancer radiotherapy decisions",
+            "link": "https://medicalxpress.com/news/2025-09-multimodal-deep-cervical-cancer-radiotherapy.html",
+            "description": "Standard concurrent chemoradiotherapy (CCRT) for cervical cancer achieves disease-free survival (DFS) in approximately 70% of patients with locally ad...",
+            "pubDate": "2025-09-02T21:53:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Newly discovered virus in bats helps strengthen Australia's defenses against emerging infectious disease",
+            "link": "https://medicalxpress.com/news/2025-09-newly-virus-australia-defenses-emerging.html",
+            "description": "Scientists at CSIRO, Australia's national science agency, have identified a new virus in Australian flying foxes, a discovery that strengthens Austral...",
+            "pubDate": "2025-09-02T21:49:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Universities must tap endowments to sustain biomedical research",
+            "link": "https://kevinmd.com/2025/09/universities-must-tap-endowments-to-sustain-biomedical-research.html",
+            "description": "American medical schools and universities once led the world in biomedical discovery, in large part due to federal funding. Public investment in scien...",
+            "pubDate": "2025-09-02T12:00:43",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Exploring the science behind burnout [PODCAST]",
+            "link": "https://kevinmd.com/2025/09/exploring-the-science-behind-burnout-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Physician Jessie Mahoney discusses her article “Ending burnout throug...",
+            "pubDate": "2025-09-02T00:00:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Moderate to severe TBI is associated with elevated malignant brain tumor risk",
+            "link": "https://www.2minutemedicine.com/moderate-to-severe-tbi-is-associated-with-elevated-malignant-brain-tumor-risk/",
+            "description": "1. In this retrospective cohort study, moderate to severe traumatic brain injury (TBI) was associated with an increased risk of malignant brain tumour...",
+            "pubDate": "2025-09-01T16:00:05",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/MRI_T2_Brain_axial_image-300x150.jpg"
         },
         {
             "title": "Personalized risk messages may not increase colorectal cancer screening uptake",
@@ -124,46 +159,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/03/chronic-myelogenous-leukemia-300x150.jpg"
         },
         {
-            "title": "Moderate to severe TBI is associated with elevated malignant brain tumor risk",
-            "link": "https://www.2minutemedicine.com/moderate-to-severe-tbi-is-associated-with-elevated-malignant-brain-tumor-risk/",
-            "description": "1. In this retrospective cohort study, moderate to severe traumatic brain injury (TBI) was associated with an increased risk of malignant brain tumour...",
-            "pubDate": "2025-09-01T16:00:05",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/MRI_T2_Brain_axial_image-300x150.jpg"
-        },
-        {
-            "title": "How American medicine profits from despair",
-            "link": "https://kevinmd.com/2025/09/how-american-medicine-profits-from-despair.html",
-            "description": "American medicine has mastered a perverse art: paying more to achieve less. We call it “cost-cutting,” but it is a system of engineered backwardness. ...",
-            "pubDate": "2025-09-01T18:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
             "title": "Apprenticeship reshapes medical training for confident clinicians",
             "link": "https://kevinmd.com/2025/09/apprenticeship-reshapes-medical-training-for-confident-clinicians.html",
             "description": "I’ve worn many hats in my medical career—lab technician, Physician Assistant, Army Captain, and teacher. But no matter where I’ve served, one truth ha...",
             "pubDate": "2025-09-01T20:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "What I learned about health care by watching who gets left behind",
-            "link": "https://kevinmd.com/2025/09/what-i-learned-about-health-care-by-watching-who-gets-left-behind.html",
-            "description": "Before I started medical school, I used to pass the same government hospital every day on my way to school. It was one of those places that offered “f...",
-            "pubDate": "2025-09-01T14:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How market forces fracture millennial physicians’ careers",
-            "link": "https://kevinmd.com/2025/09/how-market-forces-fracture-millennial-physicians-careers.html",
-            "description": "This first decade of my career as a millennial physician is starting to look as fragmented on my CV as it has felt in reality, chasing even a modicum ...",
-            "pubDate": "2025-09-01T16:00:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why palliative care is more than just end-of-life support",
-            "link": "https://kevinmd.com/2025/09/why-palliative-care-is-more-than-just-end-of-life-support.html",
-            "description": "As doctors, we often tend to focus on solving the problem at hand. We identify the issue, make a diagnosis, and try to treat the condition to the best...",
-            "pubDate": "2025-09-01T12:00:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }
