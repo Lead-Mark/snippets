@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-02T06:15:41.225403",
+    "lastBuildDate": "2025-09-02T10:47:18.420382",
     "items": [
+        {
+            "title": "Tuscan Garlic Skillet Chicken",
+            "link": "https://therecipecritic.com/tuscan-garlic-skillet-chicken/",
+            "description": "Tuscan garlic skillet chicken is one of those dinners I make and then wonder why I don’t make it more…",
+            "pubDate": "2025-09-02T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/tuscan-chicken-.jpg"
+        },
         {
             "title": "Cauliflower Salad with Dates & Pistachios",
             "link": "https://minimalistbaker.com/cauliflower-salad/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/10/Week-56-Meal-Plan-Collage-.jpg"
         },
         {
-            "title": "Crack Wings",
-            "link": "https://therecipecritic.com/crack-wings/",
-            "description": "Meet your new wing obsession: Crack Wings. Salty, tangy, peppery, with a touch of sweetness. I’ve never seen a wing…",
-            "pubDate": "2025-08-28T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/crack-wings-2.jpg"
-        },
-        {
             "title": "Fried Pickle Dip",
             "link": "https://therecipecritic.com/fried-pickle-dip/",
             "description": "Meet my Fried Pickle Dip…a viral take on my popular pickle dip! The toasted bread crumbs elevate the flavors with…",
@@ -40,11 +40,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/fried-dill-pickle-dip-2.jpg"
         },
         {
-            "title": "J Dawgs Sauce (Copycat)",
-            "link": "https://therecipecritic.com/j-dawgs-sauce-copycat/",
-            "description": "Here in Utah, J. Dawgs is basically a religion! Their hot dogs are THAT good. The sweet, tangy, smoky sauce?…",
-            "pubDate": "2025-08-27T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/jdawg-sauce.jpg"
+            "title": "Crack Wings",
+            "link": "https://therecipecritic.com/crack-wings/",
+            "description": "Meet your new wing obsession: Crack Wings. Salty, tangy, peppery, with a touch of sweetness. I’ve never seen a wing…",
+            "pubDate": "2025-08-28T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/crack-wings-2.jpg"
         },
         {
             "title": "Garlicky Cherry Tomato Pasta with White Beans",
