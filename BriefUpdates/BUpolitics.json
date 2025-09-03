@@ -2,21 +2,14 @@
     "title": "BUpolitics",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUpolitics, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-03T06:37:37.319920",
+    "lastBuildDate": "2025-09-03T11:09:13.744792",
     "items": [
         {
-            "title": "Appeals court reinstates FTC commissioner fired by Trump",
-            "link": "https://www.washingtontimes.com/news/2025/sep/2/appeals-court-reinstates-ftc-commissioner-fired-trump/",
-            "description": "A federal appeals court issued a ruling Tuesday restoring Rebecca Slaughter to her post on the Federal Trade Commission, saying President Trump's move...",
-            "pubDate": "2025-09-03T00:36:56",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/07/18/Trade_Commission-Firings_87716_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "House releases trove of Epstein files",
-            "link": "https://www.washingtontimes.com/news/2025/sep/2/house-releases-trove-epstein-files/",
-            "description": "A House committee on Tuesday began uploading 34,000 pages of government documents on the investigation into sex offender Jeffrey Epstein, making them ...",
-            "pubDate": "2025-09-03T00:24:34",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/08/05/Epstein_45027_s1440x937.jpg?075aeceabd8981d599703ad58a3ec7a7986e326f"
+            "title": "Sen. Cory Booker announces engagement to girlfriend Alexis Lewis",
+            "link": "https://www.washingtontimes.com/news/2025/sep/3/sen-cory-booker-announces-engagement-girlfriend-alexis-lewis/",
+            "description": "Sen. Cory Booker of New Jersey is getting married.",
+            "pubDate": "2025-09-03T12:50:50",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/04/01/Booker_Senate_Speech_94915_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
         },
         {
             "title": "Appeals court rules Trump misused Alien Enemies Act against Venezuelan deportees",
@@ -26,53 +19,60 @@
             "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/04/05/Deportation_Battle_62994_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
         },
         {
-            "title": "House plans to make Epstein files public",
-            "link": "https://www.washingtontimes.com/news/2025/sep/2/house-plans-make-epstein-files-public/",
-            "description": "A top House Republican said Tuesday his committee plans to upload 34,000 pages of government documents on the investigation into sex trafficker Jeffre...",
-            "pubDate": "2025-09-02T23:16:51",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/08/25/Trump_Epstein_45114_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+            "title": "House releases trove of Epstein files",
+            "link": "https://www.washingtontimes.com/news/2025/sep/2/house-releases-trove-epstein-files/",
+            "description": "A House committee on Tuesday began uploading 34,000 pages of government documents on the investigation into sex offender Jeffrey Epstein, making them ...",
+            "pubDate": "2025-09-03T00:24:34",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/08/05/Epstein_45027_s1440x937.jpg?075aeceabd8981d599703ad58a3ec7a7986e326f"
         },
         {
-            "title": "Almost 50% of FEMA employees do social media while on the job; some consume porn",
-            "link": "https://www.washingtontimes.com/news/2025/sep/2/almost-50-fema-employees-social-media-job-consume-porn/",
-            "description": "Nearly half of employees at FEMA used their social media accounts while on the job, according to the results of a government investigation that found ...",
-            "pubDate": "2025-09-02T23:22:37",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/08/31/Trump_58588_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+            "title": "Republican senators to talk up wins of Trump's D.C. crime-fighting push",
+            "link": "https://www.washingtontimes.com/news/2025/sep/3/republican-senators-talk-wins-donald-trumps-dc-crime-fighting-push/",
+            "description": "A group of Republican senators will host a briefing Wednesday to tout the success of President Trump's surge of federal law enforcement officers and N...",
+            "pubDate": "2025-09-03T12:30:40",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/09/02/DC_Federal_Intervention_85957_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "Appeals court reinstates FTC commissioner fired by Trump",
+            "link": "https://www.washingtontimes.com/news/2025/sep/2/appeals-court-reinstates-ftc-commissioner-fired-trump/",
+            "description": "A federal appeals court issued a ruling Tuesday restoring Rebecca Slaughter to her post on the Federal Trade Commission, saying President Trump's move...",
+            "pubDate": "2025-09-03T00:36:56",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/07/18/Trade_Commission-Firings_87716_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
         },
         {
             "title": "The Trump Administration Plans to Crack Down on Immigration by Islamist Extremists",
             "link": "https://www.immigrationreform.com/2025/08/29/the-trump-administration-plans-to-crack-down-on-immigration-by-islamist-extremists/",
             "description": "The Trump administration is considering a ban on members and affiliates of the Muslim Brotherhood and similar organizations and networks. This makes c...",
             "pubDate": "2025-08-29T14:39:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Third Military Buffer Zone Established Along U.S.-Mexico Border in Arizona",
             "link": "https://www.immigrationreform.com/2025/08/28/third-military-buffer-zone-established-along-u-s-mexico-border-in-arizona/",
             "description": "The “Yuma National Defense Area” at the southern border in Arizona allows the military to support the Trump administration’s whole-of-government appro...",
             "pubDate": "2025-08-28T21:16:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Mass Immigration Lobby Peddling Stale, Obsolete Arguments Few Are Buying",
             "link": "https://www.immigrationreform.com/2025/08/27/mass-immigration-lobby-peddling-stale-obsolete-arguments-few-are-buying/",
             "description": "The pro-mass-migration lobby has been recycling the same time-worn talking points to fool the public into accepting open borders, amnesty, and the mas...",
             "pubDate": "2025-08-27T14:27:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Two Illegal Aliens Arrested, One Extradited to Florida for Triple Vehicular Homicide",
             "link": "https://www.immigrationreform.com/2025/08/25/two-illegal-aliens-arrested-one-extradited-to-florida-for-triple-vehicular-homicide/",
             "description": "Two illegal aliens from India have been arrested following a tractor-trailer accident in Florida that claimed three lives. The tragic incident undersc...",
             "pubDate": "2025-08-25T20:56:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "This City Figures it Can Help Illegal Aliens More by NOT Enacting Sanctuary Policies",
             "link": "https://www.immigrationreform.com/2025/08/21/this-city-figures-it-can-help-illegal-aliens-more-by-not-enacting-sanctuary-policies/",
             "description": "The town of Easton, Pennsylvania, recently decided that the best way to protect illegal aliens would be by NOT adopting a formal sanctuary policy. The...",
             "pubDate": "2025-08-21T12:46:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Former Trump statistics chief slams Friday firing of Erika McEntarfer",
@@ -89,20 +89,6 @@
             "image_url": "https://static.politico.com/87/9e/d14313fb4a8ca95746b8c3f30742/https-delivery-gettyimages.com/downloads/2225249178"
         },
         {
-            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
-            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
-            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
-            "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
-            "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
-            "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
-            "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
             "title": "What to Know About China's DeepSeek AI",
             "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
             "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
@@ -110,11 +96,25 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
+            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
+            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+            "pubDate": "2025-01-27T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
+            "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
+            "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+            "pubDate": "2025-01-27T14:36:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
             "title": "Tech, Media & Telecom Roundup: Market Talk",
             "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
             "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
             "pubDate": "2025-01-27T17:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
