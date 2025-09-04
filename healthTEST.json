@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-04T16:07:01.532174",
+    "lastBuildDate": "2025-09-04T18:02:21.038846",
     "items": [
+        {
+            "title": "Long-term Outcomes of Patients with Crohn’s Disease Treated with Risankizumab",
+            "link": "https://www.2minutemedicine.com/long-term-outcomes-of-patients-with-crohns-disease-treated-with-risankizumab/",
+            "description": "1. In adult patients with Crohn’s disease (CD) treated with risankizumab, only 13% of patients experienced treatment failure while 23% of patients req...",
+            "pubDate": "2025-09-04T00:00:59",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/12/Crohn_Colitis_6264520294-300x150.jpg"
+        },
         {
             "title": "A clash of the comebacks: Osaka and Anisimova face off in the U.S. Open semifinals",
             "link": "https://www.npr.org/2025/09/04/nx-s1-5528663/naomi-osaka-amanda-anisimova-us-open-semifinals-mental-health",
@@ -19,18 +26,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2Fb6%2Fdf7e43a744b68495a051b1338385%2Fgettyimages-2233682446.jpg"
         },
         {
-            "title": "Experiencing pain? Sanjay Gupta explains why 'It Doesn't Have to Hurt'",
-            "link": "https://www.npr.org/2025/09/04/nx-s1-5527017/sanjay-gupta-pain",
-            "description": "Gupta's new book examines the world of pain — why we feel it, and how we can treat it. He says distraction and meditation can be useful tools for mana...",
-            "pubDate": "2025-09-04T20:49:06",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/14998x6937+0+0/resize/14998x6937!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F15%2F9c0286e045d9b16730b4412c3143%2Fgettyimages-1321931669.jpg"
-        },
-        {
-            "title": "Long-term Outcomes of Patients with Crohn’s Disease Treated with Risankizumab",
-            "link": "https://www.2minutemedicine.com/long-term-outcomes-of-patients-with-crohns-disease-treated-with-risankizumab/",
-            "description": "1. In adult patients with Crohn’s disease (CD) treated with risankizumab, only 13% of patients experienced treatment failure while 23% of patients req...",
-            "pubDate": "2025-09-04T00:00:59",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/12/Crohn_Colitis_6264520294-300x150.jpg"
+            "title": "Why the medical community is thrilled by U.S. support for a 'breakthrough' HIV drug",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids",
+            "description": "Lenacapavir has the potential to end the HIV epidemic, researchers say. The Trump administration says backing this kind of effort will be a model for ...",
+            "pubDate": "2025-09-04T20:35:12",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3564x2376+0+0/resize/3564x2376!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Fa2%2F092276524ab2acb234c0380806a4%2Fdiana-with-buckets.jpg"
         },
         {
             "title": "Novo’s self replicating RNA push expands cardiometabolic pipeline",
@@ -40,80 +40,66 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/07/US_Navy_110727-N-YR391-005_Lt._Cmdr._Jennifer_Freeman_an_Obstetrics-Gynecology_physician_at_Naval_Hospital_Jacksonville-300x150.jpg"
         },
         {
-            "title": "California, Oregon and Washington plan to join forces to preserve vaccine acce",
-            "link": "https://www.npr.org/2025/09/04/nx-s1-5526986/california-oregon-and-washington-plan-to-join-forces-to-preserve-vaccine-acce",
-            "description": "The Democratic governors of three Western states — California, Oregon and Washington — say they will form a new public health partnership to preserve ...",
-            "pubDate": "2025-09-04T11:54:32",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5526986"
+            "title": "Experiencing pain? Sanjay Gupta explains why 'It Doesn't Have to Hurt'",
+            "link": "https://www.npr.org/2025/09/04/nx-s1-5527017/sanjay-gupta-pain",
+            "description": "Gupta's new book examines the world of pain — why we feel it, and how we can treat it. He says distraction and meditation can be useful tools for mana...",
+            "pubDate": "2025-09-04T20:49:06",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/14998x6937+0+0/resize/14998x6937!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F15%2F9c0286e045d9b16730b4412c3143%2Fgettyimages-1321931669.jpg"
         },
         {
-            "title": "Why the medical community is thrilled by U.S. support for a 'breakthrough' HIV drug",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids",
-            "description": "Lenacapavir has the potential to end the HIV epidemic, researchers say. The Trump administration says backing this kind of effort will be a model for ...",
-            "pubDate": "2025-09-04T20:35:12",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3564x2376+0+0/resize/3564x2376!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Fa2%2F092276524ab2acb234c0380806a4%2Fdiana-with-buckets.jpg"
-        },
-        {
-            "title": "Blood Test Detects ALS Years Before Symptom Onset",
-            "link": "https://www.medscape.com/viewarticle/blood-test-detects-als-years-before-symptom-onset-2025a1000ngm?src=rss",
-            "description": "A blood test that reliably identifies amyotrophic lateral sclerosis years before symptoms appear offers new hope for earlier diagnosis of the disease....",
-            "pubDate": "2025-09-04T18:40:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Findings on how immune cells use zinc to fight infections challenge long-held beliefs",
-            "link": "https://medicalxpress.com/news/2025-09-immune-cells-zinc-infections-held.html",
-            "description": "A research team from Umeå University, Sweden, in collaboration with Ghent University, Belgium, has made a groundbreaking discovery about how the body'...",
-            "pubDate": "2025-09-04T21:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Martha’s Rule Rolled Out Across NHS England Hospitals",
-            "link": "https://www.medscape.com/viewarticle/marthas-rule-rolled-out-across-nhs-england-hospitals-2025a1000nfw?src=rss",
-            "description": "Martha’s Rule has been introduced in all acute hospitals in England, giving patients and families the right to a rapid second opinion when care concer...",
-            "pubDate": "2025-09-04T14:52:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Extensive sequencing study finds few links between cancer and microbiome",
-            "link": "https://medicalxpress.com/news/2025-09-extensive-sequencing-links-cancer-microbiome.html",
-            "description": "About a dozen studies in the past five years have made claims linking nearly every type of human cancer with the presence of microbiomes, \"communities...",
-            "pubDate": "2025-09-04T21:05:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How brain fluid dynamics drive cancer spread—and ways to fight back",
-            "link": "https://medicalxpress.com/news/2025-09-brain-fluid-dynamics-cancer-ways.html",
-            "description": "New research has uncovered how cerebrospinal fluid dynamics in the brain play an important role in driving the spread of medulloblastoma, the most com...",
-            "pubDate": "2025-09-04T20:53:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Congo Declares New Ebola Outbreak Three Years After Last",
-            "link": "https://www.medscape.com/s/viewarticle/congo-declares-new-ebola-outbreak-28-suspected-cases-2025a1000ng3?src=rss",
-            "description": "Democratic Republic of Congo declared a new outbreak of the deadly Ebola virus on Thursday, three years after its last one, saying there were now 28 s...",
-            "pubDate": "2025-09-04T14:44:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "High-resolution imaging uncovers hidden risks of brain capillary stalls",
-            "link": "https://medicalxpress.com/news/2025-09-high-resolution-imaging-uncovers-hidden.html",
-            "description": "The brain depends on a constant supply of oxygen, delivered through an intricate network of tiny blood vessels. Unlike other organs, it has little ene...",
-            "pubDate": "2025-09-04T20:54:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "How drug companies profit by inventing diseases",
-            "link": "https://kevinmd.com/2025/09/how-drug-companies-profit-by-inventing-diseases.html",
-            "description": "Funding from direct-to-consumer (DTC) “ask your doctor” drug ads has captured news media outlets and all but blocked important health stories like the...",
-            "pubDate": "2025-09-04T12:00:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "States prepare alternative COVID vaccine plans to maintain access",
+            "link": "https://www.npr.org/2025/09/04/nx-s1-5527295/states-prepare-alternative-covid-vaccine-plans-to-maintain-access",
+            "description": "States vary in their policies for COVID vaccines this fall, which could affect availability and put many at odds with the Centers for Disease Control ...",
+            "pubDate": "2025-09-04T22:45:17",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5527295"
         },
         {
             "title": "Could Stadium Noise Be Behind the ‘Footballers’ Disease’?",
             "link": "https://www.medscape.com/viewarticle/could-stadium-noise-be-behind-footballers-disease-2025a1000nfr?src=rss",
             "description": "Amyotrophic lateral sclerosis, known as the ‘footballers’ disease,’ may be influenced by more than genetics — noise levels in stadiums could be a key,...",
             "pubDate": "2025-09-04T14:29:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Why Does Smoking Help UC but Hurt CD?",
+            "link": "https://www.medscape.com/viewarticle/why-does-smoking-help-uc-hurt-cd-2025a1000ng6?src=rss",
+            "description": "New research into the gut microbiota helps explain how smoking increases the risk of Crohn’s disease but somehow protects against ulcerative colitis. ...",
+            "pubDate": "2025-09-04T15:55:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Martha’s Rule Rolled Out Across NHS England Hospitals",
+            "link": "https://www.medscape.com/viewarticle/marthas-rule-rolled-out-across-nhs-england-hospitals-2025a1000nfw?src=rss",
+            "description": "Martha’s Rule has been introduced in all acute hospitals in England, giving patients and families the right to a rapid second opinion when care concer...",
+            "pubDate": "2025-09-04T14:52:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Blood on demand: New freezing method slashes thaw time for emergency blood transfusions",
+            "link": "https://medicalxpress.com/news/2025-09-blood-demand-method-slashes-emergency.html",
+            "description": "A transformative new method for freezing human red blood cells has been developed by researchers from the Universities of Manchester and Leeds.",
+            "pubDate": "2025-09-04T22:03:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "How drug companies profit by inventing diseases",
+            "link": "https://kevinmd.com/2025/09/how-drug-companies-profit-by-inventing-diseases.html",
+            "description": "Funding from direct-to-consumer (DTC) “ask your doctor” drug ads has captured news media outlets and all but blocked important health stories like the...",
+            "pubDate": "2025-09-04T12:00:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "How value-based care reshapes kidney disease management for better outcomes [PODCAST]",
+            "link": "https://kevinmd.com/2025/09/how-value-based-care-reshapes-kidney-disease-management-for-better-outcomes-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Nephrologist Timothy Pflederer discusses his article “How value-based...",
+            "pubDate": "2025-09-04T00:00:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Single hair strand could provide biomarker for amyotrophic lateral sclerosis",
+            "link": "https://medicalxpress.com/news/2025-09-hair-strand-biomarker-amyotrophic-lateral.html",
+            "description": "Researchers at the Icahn School of Medicine at Mount Sinai have shown for the first time that a single strand of hair can reveal unique elemental patt...",
+            "pubDate": "2025-09-04T22:19:03",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
@@ -121,28 +107,42 @@
             "link": "https://kevinmd.com/2025/09/why-glp%e2%80%911-drugs-should-be-covered-beyond-weight-loss.html",
             "description": "When I turned 50, I weighed 265 pounds. Over the next 12 years, through walking, yoga, and strength training, I lost 60 pounds and kept it off. But de...",
             "pubDate": "2025-09-04T14:00:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Congo Declares New Ebola Outbreak Three Years After Last",
+            "link": "https://www.medscape.com/s/viewarticle/congo-declares-new-ebola-outbreak-28-suspected-cases-2025a1000ng3?src=rss",
+            "description": "Democratic Republic of Congo declared a new outbreak of the deadly Ebola virus on Thursday, three years after its last one, saying there were now 28 s...",
+            "pubDate": "2025-09-04T14:44:43",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "How value-based care reshapes kidney disease management for better outcomes [PODCAST]",
-            "link": "https://kevinmd.com/2025/09/how-value-based-care-reshapes-kidney-disease-management-for-better-outcomes-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Nephrologist Timothy Pflederer discusses his article “How value-based...",
-            "pubDate": "2025-09-04T00:00:21",
+            "title": "Not all dietary proteins are digested the same way",
+            "link": "https://medicalxpress.com/news/2025-09-dietary-proteins-digested.html",
+            "description": "As protein-rich diets become increasingly popular, a new study suggests that categorizing dietary proteins as either animal- or plant-based fails to e...",
+            "pubDate": "2025-09-04T21:50:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "U.S. survey finds salt substitutes rarely used by people with high blood pressure",
+            "link": "https://medicalxpress.com/news/2025-09-survey-salt-substitutes-rarely-people.html",
+            "description": "Few people with high blood pressure were using salt substitutes, even though they are a simple and effective way to lower sodium intake and manage blo...",
+            "pubDate": "2025-09-04T22:30:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "How stress and social struggles fuel America's obesity crisis",
+            "link": "https://medicalxpress.com/news/2025-09-stress-social-struggles-fuel-america.html",
+            "description": "As obesity in America continues to rise at alarming rates, researchers are finding that diet and exercise are not the only driving factors. A new scie...",
+            "pubDate": "2025-09-04T21:55:05",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Why Does Smoking Help UC but Hurt CD?",
-            "link": "https://www.medscape.com/viewarticle/why-does-smoking-help-uc-hurt-cd-2025a1000ng6?src=rss",
-            "description": "New research into the gut microbiota helps explain how smoking increases the risk of Crohn’s disease but somehow protects against ulcerative colitis. ...",
-            "pubDate": "2025-09-04T15:55:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "AI tools can address critical gap in pediatric heart care for underserved children globally",
-            "link": "https://medicalxpress.com/news/2025-09-ai-tools-critical-gap-pediatric.html",
-            "description": "In many low- and middle-income countries, pediatric cardiologists can't help children with congenital heart conditions because of a critical hurdle. T...",
-            "pubDate": "2025-09-04T21:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Blood Test Detects ALS Years Before Symptom Onset",
+            "link": "https://www.medscape.com/viewarticle/blood-test-detects-als-years-before-symptom-onset-2025a1000ngm?src=rss",
+            "description": "A blood test that reliably identifies amyotrophic lateral sclerosis years before symptoms appear offers new hope for earlier diagnosis of the disease....",
+            "pubDate": "2025-09-04T18:40:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "2 Minute Medicine: Pharma Roundup- Obesity RNA deal, at-home Alzheimer’s dosing, oncology royalty financing, and first Bruton’s Tyrosine Kinase Inhibitor for Immune Thrombocytopenia [September 3, 2025]",
@@ -170,7 +170,7 @@
             "link": "https://kevinmd.com/2025/09/what-is-professional-identity-formation-in-medicine.html",
             "description": "“Did I get dumber?” This poignant question from a medical student, asked in frustration after receiving a lower-than-expected grade, became the focus ...",
             "pubDate": "2025-09-03T18:00:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "An absence of cardiovascular risk factors is linked to over ten additional healthy years",
