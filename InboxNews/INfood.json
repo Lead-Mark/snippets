@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-06T03:11:47.059453",
+    "lastBuildDate": "2025-09-07T00:21:53.821236",
     "items": [
+        {
+            "title": "Cozy Apple Cider Chicken Thighs",
+            "link": "https://therecipecritic.com/apple-cider-chicken-thighs/",
+            "description": "Apple cider chicken thighs bring all the best fall flavors to your plate! Juicy chicken, caramelized apples, and a rich…",
+            "pubDate": "2025-09-06T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/apple-cider-chicken.jpg"
+        },
         {
             "title": "Weekly Meal Plan #57",
             "link": "https://therecipecritic.com/weekly-meal-plan-57/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/caramel-apple-cinnamon-rolls-2.jpg"
         },
         {
-            "title": "Cauliflower Salad with Dates & Pistachios",
-            "link": "https://minimalistbaker.com/cauliflower-salad/",
-            "description": "Whether you’re ready for fall or hanging onto the last days of summer, we’ve got just the salad for the season! This lemony chopped cauliflower salad ...",
-            "pubDate": "2025-09-02T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/02/Easy-Raw-Chopped-Cauliflower-Salad-7-680x1020.jpg"
-        },
-        {
             "title": "Tuscan Garlic Skillet Chicken",
             "link": "https://therecipecritic.com/tuscan-garlic-skillet-chicken/",
             "description": "Tuscan garlic skillet chicken is one of those dinners I make and then wonder why I don’t make it more…",
@@ -40,11 +40,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/tuscan-chicken-.jpg"
         },
         {
-            "title": "Jalapeño Ranch Dressing",
-            "link": "https://therecipecritic.com/jalapeno-ranch-dressing/",
-            "description": "Spice meets creamy! This Jalapeño Ranch Dressing is cool, tangy, and just the right amount of zesty heat. Perfect for…",
-            "pubDate": "2025-09-01T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/jalapeno-ranch-dressing-1-1.jpg"
+            "title": "Cauliflower Salad with Dates & Pistachios",
+            "link": "https://minimalistbaker.com/cauliflower-salad/",
+            "description": "Whether you’re ready for fall or hanging onto the last days of summer, we’ve got just the salad for the season! This lemony chopped cauliflower salad ...",
+            "pubDate": "2025-09-02T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/02/Easy-Raw-Chopped-Cauliflower-Salad-7-680x1020.jpg"
         },
         {
             "title": "Garlicky Cherry Tomato Pasta with White Beans",
