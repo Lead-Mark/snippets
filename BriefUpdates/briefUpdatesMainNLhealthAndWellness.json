@@ -2,7 +2,7 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-08T10:14:48.803893",
+    "lastBuildDate": "2025-09-08T11:40:19.695642",
     "items": [
         {
             "title": "The Health Benefits of Honey",
@@ -10,6 +10,13 @@
             "description": "",
             "pubDate": "2025-09-08T11:10:59",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/treat_your_cough_ref_guide/1800x1200_getty_rf_treat_your_cough_alt_ref_guide.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "2 Minute Medicine Rewind September 8, 2025",
+            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-september-8-2025/",
+            "description": "Effectiveness and user experiences of a valgus brace in patients with knee osteoarthritis: A mixed-method randomised controlled trial 1. After six mon...",
+            "pubDate": "2025-09-08T11:00:16",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2020/04/Osteoarthritis_on_X-ray-300x150.jpg"
         },
         {
             "title": "Aging and Fitness Myths That Might Be Holding You Back",
@@ -26,13 +33,6 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/how_to_keep_schizophrenia_symptoms_in_check_slideshow/1800ss_getty_rf_eating_healthy_salad.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "2 Minute Medicine Rewind September 8, 2025",
-            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-september-8-2025/",
-            "description": "Effectiveness and user experiences of a valgus brace in patients with knee osteoarthritis: A mixed-method randomised controlled trial 1. After six mon...",
-            "pubDate": "2025-09-08T11:00:16",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2020/04/Osteoarthritis_on_X-ray-300x150.jpg"
-        },
-        {
             "title": "Royalty financing deepens exposure to small cell lung cancer revenues",
             "link": "https://www.2minutemedicine.com/royalty-financing-deepens-exposure-to-small-cell-lung-cancer-revenues/",
             "description": "1. Royalty Pharma struck a deal worth up to 950 million dollars to buy into Amgen’s DLL3 directed bispecific for SCLC (small cell lung cancer). 2. The...",
@@ -40,109 +40,74 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Lung-Cancer-Overview1.jpg"
         },
         {
-            "title": "Elective Egg Freezing Increases Fourfold Over 7 Years",
-            "link": "https://www.medscape.com/viewarticle/elective-egg-freezing-increases-fourfold-over-7-years-2025a1000no2?src=rss",
-            "description": "Now physicians can tell patients that success rates with egg freezing are similar to those for patients using other assisted reproductive technology t...",
-            "pubDate": "2025-09-08T14:00:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Colorado has one of the nation's highest suicide rates—an ER doctor explains how to bring it down",
+            "link": "https://medicalxpress.com/news/2025-09-colorado-nation-highest-suicide-er.html",
+            "description": "Colorado has one of the highest suicide rates in the nation, at 20.9 per 100,000 in 2023. Of the state's 940 gun deaths that year, nearly 72% were by ...",
+            "pubDate": "2025-09-08T16:34:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Anxiety, Depression More Common in Adolescents With Cancer",
-            "link": "https://www.medscape.com/viewarticle/anxiety-and-depression-more-common-adolescents-cancer-2025a1000no5?src=rss",
-            "description": "As cancer incidence rises in adolescents and young adults, so does concern about their elevated mental health-related symptoms. Medscape Medical News",
-            "pubDate": "2025-09-08T14:25:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Could cutting back on caffeine really give you more vivid dreams? Here's what the science says",
+            "link": "https://medicalxpress.com/news/2025-09-caffeine-vivid-science.html",
+            "description": "Have you recently cut down on caffeine and feel like you're having the most vivid dreams of your life?",
+            "pubDate": "2025-09-08T16:14:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Computer games could level up cognitive function in people living with dementia",
-            "link": "https://medicalxpress.com/news/2025-09-games-cognitive-function-people-dementia.html",
-            "description": "Researchers at the University of Alberta have found a way to measure how engaged people living with dementia are when they're playing a computer game—...",
-            "pubDate": "2025-09-08T14:50:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "'Rogue' DNA rings reveal earliest clues to deadly brain cancer's growth",
-            "link": "https://medicalxpress.com/news/2025-09-rogue-dna-reveal-earliest-clues.html",
-            "description": "An international team of scientists has revealed how rogue rings of DNA that float outside of our chromosomes—known as extrachromosomal DNA, or ecDNA—...",
-            "pubDate": "2025-09-08T15:00:01",
+            "title": "Game-based training boosts memory and brain function in early dementia, studies find",
+            "link": "https://medicalxpress.com/news/2025-09-game-based-boosts-memory-brain.html",
+            "description": "Game-based training improves not only the cognitive abilities of people with initial signs of developing dementia, but also leads to positive changes ...",
+            "pubDate": "2025-09-08T16:20:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "New study reveals hidden risks of 'silent' malaria infections",
-            "link": "https://medicalxpress.com/news/2025-09-reveals-hidden-silent-malaria-infections.html",
-            "description": "Researchers have uncovered new evidence that challenges long-standing beliefs about asymptomatic malaria infections. The study, led by Monash Universi...",
-            "pubDate": "2025-09-08T14:33:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Why vitamins should be part of the mental health conversation [PODCAST]",
             "link": "https://kevinmd.com/2025/09/why-vitamins-should-be-part-of-the-mental-health-conversation-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Osteopathic medical student Scarlett Saitta discusses her article “In...",
             "pubDate": "2025-09-08T00:00:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Infantile Hemangioma Visits, Topical Tx Increasing in the US",
-            "link": "https://www.medscape.com/viewarticle/infantile-hemangioma-visits-and-topical-treatments-increase-2025a1000no6?src=rss",
-            "description": "A 10-year US study reports an increase in infantile hemangioma visits over a decade, with topical beta-blocker prescribing rising sharply. Medscape Me...",
-            "pubDate": "2025-09-08T14:11:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Tackling ethical questions about transcranial magnetic stimulation",
+            "link": "https://medicalxpress.com/news/2025-09-tackling-ethical-transcranial-magnetic.html",
+            "description": "Transcranial magnetic stimulation (TMS) was approved by the FDA to treat some patients with depression in 2008, and has since been used in treatment p...",
+            "pubDate": "2025-09-08T16:39:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "New tool helps identify unreliable research trials",
-            "link": "https://medicalxpress.com/news/2025-09-tool-unreliable-trials.html",
-            "description": "An international group of researchers has developed a new tool that can help identify problematic randomized controlled trials (RCTs), including fraud...",
-            "pubDate": "2025-09-08T14:28:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "New app makes cerebral palsy screening more accessible, paving the way for early diagnosis",
+            "link": "https://medicalxpress.com/news/2025-09-app-cerebral-palsy-screening-accessible.html",
+            "description": "A smartphone app, developed by University of Melbourne researchers, is helping speed up the process of diagnosing cerebral palsy in babies, by allowin...",
+            "pubDate": "2025-09-08T16:20:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "When doctors breathe the same air: How medical professionals become environmental activists",
             "link": "https://kevinmd.com/2025/09/when-doctors-breathe-the-same-air-how-medical-professionals-become-environmental-activists.html",
             "description": "In the heart of major cities—from New York to Nairobi, Mumbai to Mexico City—medical professionals are confronting more than fevers, injuries, or chro...",
             "pubDate": "2025-09-08T12:00:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "IV Infusion Warning: Check for Rare Sugar Intolerance First",
-            "link": "https://www.medscape.com/viewarticle/iv-infusion-warning-check-rare-sugar-intolerance-first-2025a1000noe?src=rss",
-            "description": "An upcoming concentrate formulation used to treat inflammatory conditions includes sorbitol, posing a fatal risk for patients with hereditary fructose...",
-            "pubDate": "2025-09-08T14:21:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Rapamycin linked to DNA damage resilience in aging human immune cells",
-            "link": "https://medicalxpress.com/news/2025-09-rapamycin-linked-dna-resilience-aging.html",
-            "description": "University of Oxford-led research finds low-dose rapamycin functions as a genomic protector in aging human immune cells, lowering DNA damage.",
-            "pubDate": "2025-09-08T15:08:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "AI-Based OCT Spotted Cardiovascular Risk",
-            "link": "https://www.medscape.com/viewarticle/ai-based-oct-analysis-identifies-high-risk-patients-2025a1000nol?src=rss",
-            "description": "AI-based OCT image analysis of thin-cap fibroatheromas captures ‘the complete picture, not just the angiographic hotspot.’ Medscape Medical News",
-            "pubDate": "2025-09-08T14:54:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "An IMG’s story of exclusion in U.S. residency",
             "link": "https://kevinmd.com/2025/09/an-imgs-story-of-exclusion-in-u-s-residency.html",
             "description": "When I was a child, I watched a neighbor struggle after a stroke. He survived, but without rehabilitation he remained trapped in his disability, depen...",
             "pubDate": "2025-09-07T18:00:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Why transplant equity requires more than access",
-            "link": "https://kevinmd.com/2025/09/why-transplant-equity-requires-more-than-access.html",
-            "description": "A few months ago, I met a woman who had stopped speaking at dialysis. She had grown quiet, worn thin by the rhythm of a system that seemed to talk aro...",
-            "pubDate": "2025-09-07T20:00:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "The 4 foundations that sustain physicians through burnout and balance",
             "link": "https://kevinmd.com/2025/09/the-4-foundations-that-sustain-physicians-through-burnout-and-balance.html",
             "description": "Introduction When I first arrived in North Carolina several years ago, I thought happiness would come easily. I had completed my medical education in ...",
             "pubDate": "2025-09-07T16:00:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Why transplant equity requires more than access",
+            "link": "https://kevinmd.com/2025/09/why-transplant-equity-requires-more-than-access.html",
+            "description": "A few months ago, I met a woman who had stopped speaking at dialysis. She had grown quiet, worn thin by the rhythm of a system that seemed to talk aro...",
+            "pubDate": "2025-09-07T20:00:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "β-Blocker Use and Health Status Among Patients With Heart Failure With Preserved Ejection Fraction",
