@@ -2,21 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-08T11:41:16.291309",
+    "lastBuildDate": "2025-09-08T17:15:21.347733",
     "items": [
         {
-            "title": "‘Job-hugging’ in this economy? Here’s how it could cost you.",
-            "link": "https://www.marketwatch.com/story/job-hugging-in-this-economy-heres-how-it-could-cost-you-ab5da02f?mod=mw_rss_topstories",
-            "description": "Workers clinging to their jobs in a weak labor market may be hesitant to job-hop in search of a bigger raise. But they won’t necessarily be rewarded f...",
-            "pubDate": "2025-09-08T16:31:00",
-            "image_url": "https://images.mktw.net/im-22572444"
+            "title": "X Square Robot debuts foundation model for robotic butler after $100M Series A",
+            "link": "https://www.therobotreport.com/x-square-robot-debuts-foundation-model-embodied-ai-100m-series-a/",
+            "description": "X Square Robot has raised funding to accelerate adoption of its Wall-OSS open-source foundation model and Quanta humanoids. The post X Square Robot de...",
+            "pubDate": "2025-09-08T14:00:22",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/Quanta_Robot.jpg"
         },
         {
-            "title": "Opendoor’s stock may be drawing in more bearish bets against it, even as it keeps rising. Here’s why.",
-            "link": "https://www.marketwatch.com/story/opendoor-may-be-drawing-in-new-bears-even-as-the-stock-rallies-this-is-why-22f2bd85?mod=mw_rss_topstories",
-            "description": "Shares of heavily shorted Opendoor Technologies are continuing their rally, putting the stock on pace to extend its winning streak to seven days.",
-            "pubDate": "2025-09-08T16:23:00",
-            "image_url": "https://images.mktw.net/im-768804"
+            "title": "Stock market’s consumer sectors are ‘unfavorable’ after lagging S&P 500 earnings growth",
+            "link": "https://www.marketwatch.com/story/stock-markets-consumer-sectors-are-unfavorable-after-lagging-s-p-500-earnings-growth-020f6471?mod=mw_rss_topstories",
+            "description": "The U.S. stock market’s consumer sectors remain “unfavorable” amid ongoing concern over how tariffs may change shopping behavior, according to the Wel...",
+            "pubDate": "2025-09-08T21:50:00",
+            "image_url": "https://images.mktw.net/im-93701428"
+        },
+        {
+            "title": "How OPEC+’s battle for oil market share could hurt U.S. shale producers",
+            "link": "https://www.marketwatch.com/story/how-opec-s-battle-for-oil-market-share-could-hurt-u-s-shale-producers-88856196?mod=mw_rss_topstories",
+            "description": "The energy cartel’s latest move suggests that “defending market share now outweighs defending prices,” one economist says.",
+            "pubDate": "2025-09-08T21:19:00",
+            "image_url": "https://images.mktw.net/im-614165"
         },
         {
             "title": "2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology",
@@ -26,6 +33,48 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/08/ZCS8441.jpg?w=3000"
         },
         {
+            "title": "GameStop earnings are coming, as bitcoin looms ever larger for the OG meme stock",
+            "link": "https://www.marketwatch.com/story/gamestop-earnings-are-coming-as-bitcoin-looms-ever-larger-for-the-og-meme-stock-32c244c2?mod=mw_rss_topstories",
+            "description": "GameStop is slated to report second-quarter earnings after Tuesday’s close, with investors focused on any comments about the company’s bitcoin plans.",
+            "pubDate": "2025-09-08T20:53:00",
+            "image_url": "https://images.mktw.net/im-796776"
+        },
+        {
+            "title": "Why 10-year Treasury yield’s recent drop could be a recession indicator",
+            "link": "https://www.marketwatch.com/story/why-the-10-year-treasury-yield-is-falling-toward-its-lowest-levels-of-the-year-9863119e?mod=mw_rss_topstories",
+            "description": "The benchmark 10-year Treasury yield has fallen substantially from where it was at the beginning of the year, weighed down by expectations for weaker ...",
+            "pubDate": "2025-09-08T21:06:00",
+            "image_url": "https://images.mktw.net/im-89949827"
+        },
+        {
+            "title": "Universal Robots designs UR8 Long cobot for space-constrained tasks",
+            "link": "https://www.therobotreport.com/universal-robots-designs-ur8-long-space-constrained-tasks/",
+            "description": "Universal Robots' latest cobot, the UR8 Long, has the reach of the UR20 but with less mass and advanced motion control. The post Universal Robots desi...",
+            "pubDate": "2025-09-08T15:57:14",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/UR8-Long_Welding-7.jpg"
+        },
+        {
+            "title": "Microbot Medical secures FDA clearance for endovascular surgical robot",
+            "link": "https://www.therobotreport.com/microbot-medical-secures-fda-clearance-for-endovascular-surgical-robot/",
+            "description": "The FDA clearance positions Microbot Medical to commercialize its Liberty surgical robotic system in the U.S. The post Microbot Medical secures FDA cl...",
+            "pubDate": "2025-09-08T18:48:01",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/liberty-hand-and-remote-featured.jpg"
+        },
+        {
+            "title": "Why Palantir is the ‘exception’ as other AI companies struggle to add value",
+            "link": "https://www.marketwatch.com/story/why-palantir-is-the-exception-as-other-ai-companies-struggle-to-add-value-7ebcb215?mod=mw_rss_topstories",
+            "description": "As investors scrutinize the return on investment for AI applications, Palantir’s products are driving efficiencies for customers, analyst notes.",
+            "pubDate": "2025-09-08T20:58:00",
+            "image_url": "https://images.mktw.net/im-27488893"
+        },
+        {
+            "title": "Inside Singapore’s physical AI revolution",
+            "link": "https://www.therobotreport.com/inside-singapore-physical-ai-revolution/",
+            "description": "Discover why Singapore is a great place to start or expand a robotics business in our latest podcast episode. The post Inside Singapore’s physical AI ...",
+            "pubDate": "2025-09-08T18:52:05",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/06/ROBO25_RegOpen-2_728x90_Vs1.jpg"
+        },
+        {
             "title": "The Download: introducing our 35 Innovators Under 35 list for 2025",
             "link": "https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:...",
@@ -33,60 +82,25 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/image_51e5c4.png"
         },
         {
-            "title": "Weight loss has become the hottest new Chinese consumer craze",
-            "link": "https://www.marketwatch.com/story/weight-loss-has-become-the-hottest-new-chinese-consumer-craze-4d9d70fb?mod=mw_rss_topstories",
-            "description": "A wellness boom is reshaping China, from gyms and diet apps to new injectable drugs — and spending habits.",
-            "pubDate": "2025-09-08T15:56:00",
-            "image_url": "https://images.mktw.net/im-07148622"
-        },
-        {
-            "title": "X Square Robot debuts foundation model for robotic butler after $100M Series A",
-            "link": "https://www.therobotreport.com/x-square-robot-debuts-foundation-model-embodied-ai-100m-series-a/",
-            "description": "X Square Robot has raised funding to accelerate adoption of its Wall-OSS open-source foundation model and Quanta humanoids. The post X Square Robot de...",
-            "pubDate": "2025-09-08T14:00:22",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/Quanta_Robot.jpg"
-        },
-        {
-            "title": "Universal Robots designs UR8 Long for space-constrained tasks",
-            "link": "https://www.therobotreport.com/universal-robots-designs-ur8-long-space-constrained-tasks/",
-            "description": "Universal Robots' latest cobot, the UR8 Long, has the reach of the UR20 but with less mass and advanced motion control. The post Universal Robots desi...",
-            "pubDate": "2025-09-08T15:57:14",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/UR8-Long_Welding-7.jpg"
-        },
-        {
-            "title": "America is about to have a lot more senior citizens. What that means for everything from health to housing.",
-            "link": "https://www.marketwatch.com/story/america-is-about-to-have-a-lot-more-senior-citizens-what-that-means-for-everything-from-health-to-housing-29742901?mod=mw_rss_topstories",
-            "description": "The need for elder care and senior housing will soar in the coming years",
-            "pubDate": "2025-09-08T16:15:00",
-            "image_url": "https://images.mktw.net/im-21404830"
-        },
-        {
-            "title": "StubHub launches IPO roadshow to drum up investor interest for its new stock",
-            "link": "https://www.marketwatch.com/story/stubhub-launches-ipo-roadshow-to-drum-up-investor-interest-for-its-new-stock-3ec2f684?mod=mw_rss_topstories",
-            "description": "Ticket seller StubHub and security-software company Netskope both plan to raise about $800 million. Each company has been operating for more than 10 y...",
-            "pubDate": "2025-09-08T15:35:00",
-            "image_url": "https://images.mktw.net/im-04292693"
-        },
-        {
-            "title": "Meet the Ethiopian entrepreneur who is reinventing ammonia production",
-            "link": "https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/",
-            "description": "Iwnetim Abate is one of MIT Technology Review’s 2025 Innovators Under 35. Meet the rest of this year’s honorees. “I’m the only one who wears glasses a...",
-            "pubDate": "2025-09-08T11:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
             "title": "How Trump’s policies are affecting early-career scientists—in their own words",
             "link": "https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/",
             "description": "This story is part of MIT Technology Review’s “America Undone” series, examining how the foundations of US success in science and innovation are curre...",
             "pubDate": "2025-09-08T11:45:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Why basic science deserves our boldest investment",
             "link": "https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/",
             "description": "In December 1947, three physicists at Bell Telephone Laboratories—John Bardeen, William Shockley, and Walter Brattain—built a compact electronic devic...",
             "pubDate": "2025-09-08T11:45:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Meet the Ethiopian entrepreneur who is reinventing ammonia production",
+            "link": "https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/",
+            "description": "Iwnetim Abate is one of MIT Technology Review’s 2025 Innovators Under 35. Meet the rest of this year’s honorees. “I’m the only one who wears glasses a...",
+            "pubDate": "2025-09-08T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "How does NVIDIA’s Jetson Thor compare with other robot brains on the market?",
@@ -96,18 +110,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/NVIDIA-Blackwell-Powered-Jetson-Thor-featured.jpg"
         },
         {
-            "title": "Ronovo Surgical’s Carina robot gains $67M boost, J&J collaboration",
-            "link": "https://www.therobotreport.com/ronovo-surgical-carina-robot-gains-67m-boost-jj-deal/",
-            "description": "Ronovo signed an agreement with J&J to advance its surgical robot commercialization efforts in China. The post Ronovo Surgical’s Carina robot gains $6...",
-            "pubDate": "2025-09-06T15:00:42",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/ronovosurgical-featured.jpg"
-        },
-        {
-            "title": "Zoox plans for scalability with robotaxi serial production facility",
-            "link": "https://www.therobotreport.com/zoox-plans-scalability-robotaxi-serial-production-facility/",
-            "description": "Zoox aims to produce up to 10,000 custom-made robotaxis a year at its new serial production facility in Hayward, Calif. The post Zoox plans for scalab...",
-            "pubDate": "2025-09-05T21:30:43",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/zoox-serial-production-facility-7-featured.jpg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -115,13 +122,6 @@
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
             "pubDate": "2021-10-29T00:18:48",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
