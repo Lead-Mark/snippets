@@ -2,28 +2,70 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-07T22:38:42.895890",
+    "lastBuildDate": "2025-09-08T06:40:01.622876",
     "items": [
         {
             "title": "Playboy secures big legal victory in China as it seeks to reverse its fortunes",
             "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0b7cbadd-e02d-40a4-a4dc-28647614d6ba&mod=mw_rss_bulletins",
             "description": "",
             "pubDate": "2025-09-08T02:25:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "French prime minister faces the axe as lawmakers prepare to hold confidence vote",
+            "link": "https://www.cnbc.com/2025/09/08/french-pm-bayrou-faces-the-axe-as-lawmakers-prepare-for-confidence-vote.html",
+            "description": "Prime Minister Bayrou has failed to win over enough opposition lawmakers to his proposals to make around 44 billion euros ($51.3 billion) in budget cu...",
+            "pubDate": "2025-09-08T10:21:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Stock-market bulls are banking on rate cuts — upcoming CPI inflation data is key",
             "link": "https://www.marketwatch.com/bulletins/redirect/go?g=da91450d-4fe7-4ece-aaf7-2378c9b809c4&mod=mw_rss_bulletins",
             "description": "",
             "pubDate": "2025-09-08T00:05:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Bessent says U.S. would have to give huge refunds if tariffs overturned",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7b08b9b4-1601-4cff-bde7-edb797358e0e&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-09-07T22:09:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "OPEC+ agrees to another oil production boost in October",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=32fb4510-2ca4-439a-8bac-1b905f9ec051&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-09-07T20:34:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "South Korea says it has reached a deal with the U.S. for the release of workers in a Georgia plant",
             "link": "https://www.cnbc.com/2025/09/07/south-korea-us-georgia-factory.html",
             "description": "South Korea said Sunday it reached a deal with the U.S. for the release of South Korean workers detained in an immigration raid at a Hyundai plant in ...",
             "pubDate": "2025-09-07T11:55:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "U.S. to target more businesses after Hyundai raid, top official says",
+            "link": "https://www.cnbc.com/2025/09/07/us-to-target-more-businesses-after-hyundai-raid-top-official-says.html",
+            "description": "The Trump administration plans to target more businesses for immigration enforcement, a top White House official said on Sunday.",
+            "pubDate": "2025-09-07T17:29:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Stock futures dip ahead of inflation reports, oil gains after OPEC+ ups output",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=825c94f7-c760-46b1-bd69-eab2bc38c1e1&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-09-07T23:27:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Treasury Secretary Bessent warns of massive refunds if the Supreme Court voids Trump tariffs",
+            "link": "https://www.cnbc.com/2025/09/07/trump-trade-supreme-court-refunds-bessent.html",
+            "description": "Bessent has warned that a delayed ruling \"could result in a scenario in which $750 billion-$1 trillion in tariffs have already been collected.\"",
+            "pubDate": "2025-09-07T23:18:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Trump ready for 'phase two' of Russia sanctions over Ukraine conflict",
@@ -31,48 +73,6 @@
             "description": "U.S. President Donald Trump said on Sunday he is ready to move to a second phase of sanctioning Russia.",
             "pubDate": "2025-09-07T20:56:35",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "OPEC+ agrees to another oil production boost in October",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=32fb4510-2ca4-439a-8bac-1b905f9ec051&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-09-07T20:34:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Stock futures dip ahead of inflation reports, oil gains after OPEC+ ups output",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=825c94f7-c760-46b1-bd69-eab2bc38c1e1&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-09-07T23:27:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Japan Prime Minister Ishiba Shigeru says he will step down after election setback",
-            "link": "https://www.cnbc.com/2025/09/07/japan-prime-minister-ishiba-shigeru-announces-his-resignation.html",
-            "description": "Ishiba had faced calls for his resignation after the ruling Liberal Democratic Party failed to secure a majority in the lower house election on Oct. 2...",
-            "pubDate": "2025-09-07T11:20:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "U.S. to target more businesses after Hyundai raid, top official says",
-            "link": "https://www.cnbc.com/2025/09/07/us-to-target-more-businesses-after-hyundai-raid-top-official-says.html",
-            "description": "The Trump administration plans to target more businesses for immigration enforcement, a top White House official said on Sunday.",
-            "pubDate": "2025-09-07T17:29:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Treasury Secretary Bessent warns of massive refunds if the Supreme Court voids Trump tariffs",
-            "link": "https://www.cnbc.com/2025/09/07/trump-trade-supreme-court-refunds-bessent.html",
-            "description": "Bessent has warned that a delayed ruling \"could result in a scenario in which $750 billion-$1 trillion in tariffs have already been collected.\"",
-            "pubDate": "2025-09-07T23:18:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Bessent says U.S. would have to give huge refunds if tariffs overturned",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7b08b9b4-1601-4cff-bde7-edb797358e0e&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-09-07T22:09:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }
