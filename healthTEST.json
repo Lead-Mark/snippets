@@ -2,15 +2,8 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-09T06:35:14.086904",
+    "lastBuildDate": "2025-09-09T10:53:58.268588",
     "items": [
-        {
-            "title": "Trump's Medicaid cuts will hurt children's hospitals",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/09/09/nx-s1-5532133/medicaid-children-hospital-closure",
-            "description": "The GOP said its overhaul of Medicaid was aimed at reducing fraud and getting more adult beneficiaries to work. Among the likely side effects: fewer s...",
-            "pubDate": "2025-09-09T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2335+0+0/resize/3600x2335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F2f%2F0c7724d44714baf473be8a87f179%2Fap20107167891125.jpg"
-        },
         {
             "title": "Pancreatic beta-cell secretory products in the diagnosis and risk stratification of gestational diabetes mellitus: a prospective longitudinal cohort study",
             "link": "https://www.2minutemedicine.com/pancreatic-beta-cell-secretory-products-in-the-diagnosis-and-risk-stratification-of-gestational-diabetes-mellitus-a-prospective-longitudinal-cohort-study/",
@@ -19,109 +12,116 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/diabetes-300x150.jpeg"
         },
         {
-            "title": "Subcutaneous amivantamab every 4 weeks plus lazertinib shows high response rate in EGFR-mutated NSCLC",
-            "link": "https://medicalxpress.com/news/2025-09-subcutaneous-amivantamab-weeks-lazertinib-high.html",
-            "description": "A new analysis from the PALOMA-2 study shows that subcutaneous administration of amivantamab every four weeks (Q4W), in combination with daily oral la...",
-            "pubDate": "2025-09-09T10:30:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Natural language processing (NLP) model sped up patient message management in the electronic health record (EHR)",
+            "link": "https://www.2minutemedicine.com/natural-language-processing-nlp-model-sped-up-patient-message-management-in-the-electronic-health-record-ehr/",
+            "description": "1. Anderson and colleagues evaluated clinical staff’s response time to patient-sent messages with NLP labelling against that of staff without NLP use....",
+            "pubDate": "2025-09-09T15:30:50",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/06/13761_lores-e1410351095623-300x158.jpg"
         },
         {
-            "title": "Racial stereotypes can make us see weapons where they don't exist, brain-imaging study suggests",
-            "link": "https://medicalxpress.com/news/2025-09-racial-stereotypes-weapons-dont-brain.html",
-            "description": "Unarmed Black civilians are three times more likely to be shot and killed by police officers than unarmed white civilians in the U.S. In tragic cases ...",
-            "pubDate": "2025-09-09T10:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "The Scan by 2 Minute Medicine®: Beta blockers trend, The Rock’s leaner look, UK targets teen caffeine, and kids’ diets under pressure",
+            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-beta-blockers-trend-the-rocks-leaner-look-uk-targets-teen-caffeine-and-kids-diets-under-pressure/",
+            "description": "The Scan by 2 Minute Medicine® is a pop-culture medical newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. Beta blockers ride a ...",
+            "pubDate": "2025-09-09T14:00:22",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
         },
         {
-            "title": "Rethinking how our brains build the neural networks underlying motor memories",
-            "link": "https://medicalxpress.com/news/2025-09-rethinking-brains-neural-networks-underlying.html",
-            "description": "For every motor skill you've ever learned, whether it's walking or watchmaking, there is a small ensemble of neurons in your brain that makes that mov...",
-            "pubDate": "2025-09-09T10:30:03",
+            "title": "Sanofi wins approval for first Bruton’s tyrosine kinase inhibitor in immune thrombocytopenia",
+            "link": "https://www.2minutemedicine.com/sanofi-wins-approval-for-first-brutons-tyrosine-kinase-inhibitor-in-immune-thrombocytopenia/",
+            "description": "1. The FDA approved rilzabrutinib, branded Wayrilz, as the first BTK (Bruton’s tyrosine kinase) inhibitor for adults with ITP (immune thrombocytopenia...",
+            "pubDate": "2025-09-09T15:00:49",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Platelets2-300x150.jpg"
+        },
+        {
+            "title": "Trump's Medicaid cuts will hurt children's hospitals",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/09/09/nx-s1-5532133/medicaid-children-hospital-closure",
+            "description": "The GOP said its overhaul of Medicaid was aimed at reducing fraud and getting more adult beneficiaries to work. Among the likely side effects: fewer s...",
+            "pubDate": "2025-09-09T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2335+0+0/resize/3600x2335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F2f%2F0c7724d44714baf473be8a87f179%2Fap20107167891125.jpg"
+        },
+        {
+            "title": "Fighting a health insurance denial? Here are 7 tips to help",
+            "link": "https://medicalxpress.com/news/2025-09-health-denial.html",
+            "description": "When Sally Nix found out that her health insurance company wouldn't pay for an expensive, doctor-recommended treatment to ease her neurological pain, ...",
+            "pubDate": "2025-09-09T15:40:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Immune defense punches holes in the heart, research reveals",
+            "link": "https://medicalxpress.com/news/2025-09-immune-defense-holes-heart-reveals.html",
+            "description": "In a study published in Science, researchers found that the defense protein \"Resistin like molecule gamma\" (Relmy), produced by neutrophils, punches h...",
+            "pubDate": "2025-09-09T15:50:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "How changing your self-talk can transform your entire life",
+            "link": "https://kevinmd.com/2025/09/how-changing-your-self-talk-can-transform-your-entire-life.html",
+            "description": "An excerpt from The Fix Your Internal Language Handbook. “I talk to myself, and I talk to them. They are not here to listen to me.” Most of us spend m...",
+            "pubDate": "2025-09-09T12:00:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "There's a new vaccine for pneumococcal disease in Australia. Here's what to know",
+            "link": "https://medicalxpress.com/news/2025-09-vaccine-pneumococcal-disease-australia.html",
+            "description": "The Australian government announced last week there's a new vaccine for pneumococcal disease on the National Immunization Program for all children.",
+            "pubDate": "2025-09-09T15:30:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Why retail pharmacies could transform diversity in clinical trials [PODCAST]",
+            "link": "https://kevinmd.com/2025/09/why-retail-pharmacies-could-transform-diversity-in-clinical-trials-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Health care executive Shelli Pavone discusses her article “Why retail...",
+            "pubDate": "2025-09-09T00:00:24",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Patients With CF Face Higher Non-Pulmonary Comorbidity Risk",
-            "link": "https://www.medscape.com/viewarticle/patients-cystic-fibrosis-face-higher-non-pulmonary-2025a1000nra?src=rss",
-            "description": "Patients with cystic fibrosis without a lung transplant have elevated risks for cardiovascular disease, kidney disease, and cancer, and those with a l...",
-            "pubDate": "2025-09-09T10:44:55",
+            "title": "Are Beta-Blockers Beneficial After MI With Mild Dysfunction?",
+            "link": "https://www.medscape.com/viewarticle/trial-data-weaken-support-beta-blockers-after-mi-mild-2025a1000nsn?src=rss",
+            "description": "After an acute MI in patients with only a mild reduction in left ventricular ejection fraction, new data show that beta-blockers have a relatively mod...",
+            "pubDate": "2025-09-09T14:48:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Is Ontario Prepared for More West Nile Virus Cases?",
+            "link": "https://www.medscape.com/viewarticle/ontario-prepared-more-west-nile-virus-cases-2025a1000nsu?src=rss",
+            "description": "When it comes to West Nile virus, warming temperatures and changing bird migration spell trouble for Ontario residents. Medscape Medical News",
+            "pubDate": "2025-09-09T15:06:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Striking Disparities in Stroke Rates Among Ethnic Groups",
+            "link": "https://www.medscape.com/viewarticle/striking-disparities-stroke-rates-among-ethnic-groups-2025a1000nsi?src=rss",
+            "description": "Native Hawaiian or Pacific Islander individuals have a significantly higher risk for acute ischemic stroke than other ethnic groups, a new study sugge...",
+            "pubDate": "2025-09-09T15:06:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Closing the care gap: Position paper identifies barriers and solutions to global undertreatment of osteoporosis",
+            "link": "https://medicalxpress.com/news/2025-09-gap-position-paper-barriers-solutions.html",
+            "description": "The International Osteoporosis Foundation (IOF) has issued a landmark Position Paper identifying critical global barriers to osteoporosis care and cal...",
+            "pubDate": "2025-09-09T15:53:14",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Inpatient Skin Conditions to Watch Out for",
-            "link": "https://www.medscape.com/viewarticle/skin-conditions-hospitalists-should-monitor-inpatients-2025a1000nr0?src=rss",
-            "description": "From dry skin to bedsores: Simple interventions hospitalists can make to improve patient outcomes and prevent complications during hospital stays. Med...",
-            "pubDate": "2025-09-09T10:02:08",
+            "title": "What It’s Like to Be the Youngest Doctor Ever",
+            "link": "https://www.medscape.com/viewarticle/what-its-be-youngest-doctor-ever-2025a1000ns7?src=rss",
+            "description": "These child prodigies race through med school. But they learn — far faster than their older peers — that resilience and empathy matter more than brill...",
+            "pubDate": "2025-09-09T14:54:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Clinicians Split on Ethics of Euthanasia for Dementia",
+            "link": "https://www.medscape.com/viewarticle/clinicians-split-ethics-euthanasia-dementia-2025a1000nt4?src=rss",
+            "description": "When dementia blurs the line between autonomy and vulnerability, doctors face one of medicine’s toughest questions — should euthanasia ever be an opti...",
+            "pubDate": "2025-09-09T15:21:39",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "ESC 2025 Updates Dyslipidaemia Guidelines",
-            "link": "https://www.medscape.com/viewarticle/european-society-cardiology-2025-updates-dyslipidaemia-2025a1000nr2?src=rss",
-            "description": "European experts now recommend imaging and a lower LDL target of 40 mg/dL for extreme-risk patients, marking a shift towards personalised care. Medsca...",
-            "pubDate": "2025-09-09T10:15:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "GLP-1 weight-loss drugs pose hidden risks for young women, warn experts",
-            "link": "https://medicalxpress.com/news/2025-09-glp-weight-loss-drugs-pose.html",
-            "description": "Women taking popular weight-loss medications during their reproductive years may be unaware of associated risks to pregnancy and unborn babies, warn F...",
-            "pubDate": "2025-09-09T09:41:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Popular diabetes drug shows anti-aging effects among patients with type 2 diabetes",
-            "link": "https://medicalxpress.com/news/2025-09-popular-diabetes-drug-anti-aging.html",
-            "description": "Henagliflozin, a popular drug prescribed for type 2 diabetes, has demonstrated potential anti-aging effects in a recent study published in Cell Report...",
-            "pubDate": "2025-09-09T11:10:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Radiotherapy Controls Active Vestibular Schwannomas",
-            "link": "https://www.medscape.com/viewarticle/radiotherapy-controls-active-vestibular-schwannomas-2025a1000nrj?src=rss",
-            "description": "First-line radiotherapy achieves sustained tumor control in growing vestibular schwannomas at 10 years, a large international cohort study shows. Meds...",
-            "pubDate": "2025-09-09T11:30:56",
+            "title": "What makes the Mediterranean diet so healthy for your heart?",
+            "link": "https://medicalxpress.com/news/2025-09-mediterranean-diet-healthy-heart.html",
+            "description": "Extensive research over the years continues to pinpoint the Mediterranean diet as one of the best for the heart. Why? It helps reduce chronic inflamma...",
+            "pubDate": "2025-09-09T15:50:05",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Immunotherapy Safe for Children With Venom Allergy",
-            "link": "https://www.medscape.com/viewarticle/subcutaneous-venom-immunotherapy-safe-children-hymenoptera-2025a1000nre?src=rss",
-            "description": "Subcutaneous immunotherapy is a safe and effective treatment for children with Hymenoptera venom allergy. Medscape Medical News",
-            "pubDate": "2025-09-09T10:53:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Royalty financing deepens exposure to small cell lung cancer revenues",
-            "link": "https://www.2minutemedicine.com/royalty-financing-deepens-exposure-to-small-cell-lung-cancer-revenues/",
-            "description": "1. Royalty Pharma struck a deal worth up to 950 million dollars to buy into Amgen’s DLL3 directed bispecific for SCLC (small cell lung cancer). 2. The...",
-            "pubDate": "2025-09-08T15:00:14",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Lung-Cancer-Overview1.jpg"
-        },
-        {
-            "title": "What kind of dairy does a body good? Science is updating the answer",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/09/08/nx-s1-5528747/what-kind-of-dairy-does-a-body-good-science-is-updating-the-answer",
-            "description": "New dietary guidelines are coming soon. Health Secretary Robert F. Kennedy Jr. has promised the days of skim milk and other low-fat dairy products are...",
-            "pubDate": "2025-09-08T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F2c%2Fc574c72f4a9b9a6b36be28117668%2Fgettyimages-638601018.jpg"
-        },
-        {
-            "title": "2 Minute Medicine Rewind September 8, 2025",
-            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-september-8-2025/",
-            "description": "Effectiveness and user experiences of a valgus brace in patients with knee osteoarthritis: A mixed-method randomised controlled trial 1. After six mon...",
-            "pubDate": "2025-09-08T11:00:16",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2020/04/Osteoarthritis_on_X-ray-300x150.jpg"
-        },
-        {
-            "title": "Ending Ryan White services may increase human immunodeficiency virus incidence",
-            "link": "https://www.2minutemedicine.com/ending-ryan-white-services-may-increase-human-immunodeficiency-virus-incidence/",
-            "description": "1. In this simulation study involving persons with human immunodeficiency virus living in the United States, ending Ryan White services in cities with...",
-            "pubDate": "2025-09-08T23:00:20",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/07/City_Lights_of_the_United_States_2012-e1375069494823-300x150.jpg"
-        },
-        {
-            "title": "Pre-conception computed tomography ionizing radiation may be associated with worse reproductive outcomes",
-            "link": "https://www.2minutemedicine.com/pre-conception-computed-tomography-ionizing-radiation-may-be-associated-with-worse-reproductive-outcomes/",
-            "description": "1. In this population-based cohort study, women who had received at least one computer tomography scan prior to conception had higher rates of spontan...",
-            "pubDate": "2025-09-08T22:00:10",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/07/Ct-scan_edited-300x150.jpg"
         },
         {
             "title": "This is what could happen to a child who doesn't get vaccinated",
@@ -131,39 +131,39 @@
             "image_url": "https://feeds.npr.org/1128/undefined"
         },
         {
-            "title": "Food is a universal language in medicine",
-            "link": "https://kevinmd.com/2025/09/food-is-a-universal-language-in-medicine.html",
-            "description": "“What is your favorite homemade food?” I ask each patient. Almost always, there is a smile, and the conversation takes off from there. Moms light up d...",
-            "pubDate": "2025-09-08T18:00:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Ending Ryan White services may increase human immunodeficiency virus incidence",
+            "link": "https://www.2minutemedicine.com/ending-ryan-white-services-may-increase-human-immunodeficiency-virus-incidence/",
+            "description": "1. In this simulation study involving persons with human immunodeficiency virus living in the United States, ending Ryan White services in cities with...",
+            "pubDate": "2025-09-08T23:00:20",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/07/City_Lights_of_the_United_States_2012-e1375069494823-300x150.jpg"
         },
         {
-            "title": "When doctors breathe the same air: How medical professionals become environmental activists",
-            "link": "https://kevinmd.com/2025/09/when-doctors-breathe-the-same-air-how-medical-professionals-become-environmental-activists.html",
-            "description": "In the heart of major cities—from New York to Nairobi, Mumbai to Mexico City—medical professionals are confronting more than fevers, injuries, or chro...",
-            "pubDate": "2025-09-08T12:00:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The ethical crossroads of medicine and legislation",
-            "link": "https://kevinmd.com/2025/09/the-ethical-crossroads-of-medicine-and-legislation.html",
-            "description": "Previously, I wrote about politicians regulating medical practice. I support regulations that protect individual or public health. However, when these...",
-            "pubDate": "2025-09-08T16:00:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "What kind of dairy does a body good? Science is updating the answer",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/09/08/nx-s1-5528747/what-kind-of-dairy-does-a-body-good-science-is-updating-the-answer",
+            "description": "New dietary guidelines are coming soon. Health Secretary Robert F. Kennedy Jr. has promised the days of skim milk and other low-fat dairy products are...",
+            "pubDate": "2025-09-08T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F2c%2Fc574c72f4a9b9a6b36be28117668%2Fgettyimages-638601018.jpg"
         },
         {
             "title": "Why your clinic waiting room may affect patient outcomes",
             "link": "https://kevinmd.com/2025/09/why-your-clinic-waiting-room-may-affect-patient-outcomes.html",
             "description": "A busy waiting room with buzzing lights, cramped-up chairs, and rushed medical staff on the clock can make you feel more anxious about the care you ar...",
             "pubDate": "2025-09-08T20:00:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Why vitamins should be part of the mental health conversation [PODCAST]",
-            "link": "https://kevinmd.com/2025/09/why-vitamins-should-be-part-of-the-mental-health-conversation-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Osteopathic medical student Scarlett Saitta discusses her article “In...",
-            "pubDate": "2025-09-08T00:00:29",
+            "title": "The ethical crossroads of medicine and legislation",
+            "link": "https://kevinmd.com/2025/09/the-ethical-crossroads-of-medicine-and-legislation.html",
+            "description": "Previously, I wrote about politicians regulating medical practice. I support regulations that protect individual or public health. However, when these...",
+            "pubDate": "2025-09-08T16:00:42",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Food is a universal language in medicine",
+            "link": "https://kevinmd.com/2025/09/food-is-a-universal-language-in-medicine.html",
+            "description": "“What is your favorite homemade food?” I ask each patient. Almost always, there is a smile, and the conversation takes off from there. Moms light up d...",
+            "pubDate": "2025-09-08T18:00:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "The silent killer increases your risk of stroke and dementia. Here's how to control it",
