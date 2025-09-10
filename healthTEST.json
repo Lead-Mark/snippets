@@ -2,28 +2,98 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-09T17:37:18.873475",
+    "lastBuildDate": "2025-09-10T06:34:25.668883",
     "items": [
+        {
+            "title": "You're more likely to reach for that soda when it's hot outside",
+            "link": "https://www.npr.org/2025/09/10/nx-s1-5529399/sugar-health-climate-change",
+            "description": "People drink more sugary beverages when it's hot, researchers found, significantly increasing their sugar intake. That impact could grow as climate ch...",
+            "pubDate": "2025-09-10T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F3a%2F7294334a4a59818be6f1c80a155e%2Fgettyimages-545219638.jpg"
+        },
+        {
+            "title": "Measurement-Based Care to Enhance Antidepressant Treatment Outcomes in Major Depressive Disorder: A Randomized Clinical Trial",
+            "link": "https://www.2minutemedicine.com/measurement-based-care-to-enhance-antidepressant-treatment-outcomes-in-major-depressive-disorder-a-randomized-clinical-trial/",
+            "description": "1. Measurement-based care (MBC) significantly accelerates recovery from major depressive disorder, leading patients to achieve response and remission ...",
+            "pubDate": "2025-09-10T00:00:54",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/05/depression2_CC_wiki_Sander_van_der_Wel_edited-300x150.jpg"
+        },
+        {
+            "title": "Forever Chemicals Tied to Higher Diabetes Risk: What to Know",
+            "link": "https://www.medscape.com/viewarticle/forever-chemicals-tied-higher-diabetes-risk-what-know-2025a1000nw5?src=rss",
+            "description": "A new — but small — study highlights the potential connection in a diverse group of patients. Medscape Medical News",
+            "pubDate": "2025-09-10T11:22:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Children lose muscle during early cancer treatment: Study warns of a hidden danger to recovery",
+            "link": "https://medicalxpress.com/news/2025-09-children-muscle-early-cancer-treatment.html",
+            "description": "New research from the Exercise Medicine Research Institute at Edith Cowan University (ECU) has highlighted that children undergoing cancer treatment o...",
+            "pubDate": "2025-09-10T09:57:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Healthy Diet, Exercise Cut Liver Death Risk in Drinkers",
+            "link": "https://www.medscape.com/viewarticle/healthy-diet-exercise-cut-liver-death-risk-drinkers-2025a1000nvh?src=rss",
+            "description": "Women experience more significant liver-related survival benefits due to exercise and diet quality. Medscape Medical News",
+            "pubDate": "2025-09-10T10:43:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Obese surpass undernourished youths for first time, UN warns",
+            "link": "https://medicalxpress.com/news/2025-09-obese-surpass-undernourished-youths.html",
+            "description": "Obesity has skyrocketed among children and adolescents bombarded by \"unethical\" marketing of junk food, outpacing undernourishment to become the leadi...",
+            "pubDate": "2025-09-10T09:53:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Misconceptions keep some cancer patient populations from benefiting from hormone therapy, survey reveals",
+            "link": "https://medicalxpress.com/news/2025-09-misconceptions-cancer-patient-populations-benefiting.html",
+            "description": "Despite evidence suggesting the safety of hormone therapy for patients with a history of low-grade endometrial or epithelial ovarian cancer, a new sur...",
+            "pubDate": "2025-09-10T10:25:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Wearable Textiles for Diabetes May Revolutionize Care",
+            "link": "https://www.medscape.com/viewarticle/wearable-textiles-diabetes-may-revolutionize-care-2025a1000nvs?src=rss",
+            "description": "Still at least a year away, these fabrics, with built in sensors, could replace finger-pricking and continuous glucose monitoring. Medscape Medical Ne...",
+            "pubDate": "2025-09-10T10:35:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Breaking the code of sperm motion: Two proteins found vital for male fertility",
+            "link": "https://medicalxpress.com/news/2025-09-code-sperm-motion-proteins-vital.html",
+            "description": "There are many potential causes of infertility, and it can be challenging to pin down just what the problem is when a couple is having trouble getting...",
+            "pubDate": "2025-09-10T10:00:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Despite Threats, Mail-Order Abortions Aren’t Slowing Down",
+            "link": "https://www.medscape.com/viewarticle/despite-legal-threats-mail-order-abortions-arent-slowing-2025a1000nw2?src=rss",
+            "description": "In many ways, it’s easier to get an abortion in the US today than it was before the Dobbs v. Jackson Women’s Health Organization Supreme Court decisio...",
+            "pubDate": "2025-09-10T11:29:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Researchers reveal JAK2/STAT3/EPAS1 axis as driver of severe asthma",
+            "link": "https://medicalxpress.com/news/2025-09-reveal-jak2stat3epas1-axis-driver-severe.html",
+            "description": "Asthma is a chronic respiratory condition marked by airway inflammation, narrowing, and episodes of wheezing, coughing, and shortness of breath. It af...",
+            "pubDate": "2025-09-10T09:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Is DAPT Necessary After CABG?",
+            "link": "https://www.medscape.com/viewarticle/dapt-may-not-be-necessary-after-cabg-2025a1000nw6?src=rss",
+            "description": "New data from two randomized trials suggest that dual antiplatelet therapy should be significantly shortened or not used at all after coronary artery ...",
+            "pubDate": "2025-09-10T11:23:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
         {
             "title": "The MAHA plan for healthier kids includes 128 ideas, but few details",
             "link": "https://www.npr.org/sections/shots-health-news/2025/09/09/nx-s1-5534412/rfk-maha-report-childrens-health",
             "description": "The Make America Healthy Again commission is proposing more than 100 moves to address the root causes of childhood chronic disease. Critics say other ...",
             "pubDate": "2025-09-09T19:55:23",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fb7%2F25b6afc54c01824a84e68c4bcfdc%2Fgettyimages-2216566876.jpg"
-        },
-        {
-            "title": "Trump's Medicaid cuts will hit some children's hospitals",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/09/09/nx-s1-5532133/medicaid-children-hospital-closure",
-            "description": "The GOP said its overhaul of Medicaid was aimed at reducing fraud and getting more adult beneficiaries to work. Among the likely side effects: fewer s...",
-            "pubDate": "2025-09-09T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2335+0+0/resize/3600x2335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F2f%2F0c7724d44714baf473be8a87f179%2Fap20107167891125.jpg"
-        },
-        {
-            "title": "Pancreatic beta-cell secretory products in the diagnosis and risk stratification of gestational diabetes mellitus: a prospective longitudinal cohort study",
-            "link": "https://www.2minutemedicine.com/pancreatic-beta-cell-secretory-products-in-the-diagnosis-and-risk-stratification-of-gestational-diabetes-mellitus-a-prospective-longitudinal-cohort-study/",
-            "description": "1. 30- and 60-minute C-peptide levels during an OGTT at 16–18 weeks gestation were significantly elevated in women who later developed GDM, suggesting...",
-            "pubDate": "2025-09-09T00:00:13",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/diabetes-300x150.jpeg"
         },
         {
             "title": "Natural language processing (NLP) model sped up patient message management in the electronic health record (EHR)",
@@ -33,11 +103,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/06/13761_lores-e1410351095623-300x158.jpg"
         },
         {
-            "title": "The Scan by 2 Minute Medicine®: Beta blockers trend, The Rock’s leaner look, UK targets teen caffeine, and kids’ diets under pressure",
-            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-beta-blockers-trend-the-rocks-leaner-look-uk-targets-teen-caffeine-and-kids-diets-under-pressure/",
-            "description": "The Scan by 2 Minute Medicine® is a pop-culture medical newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. Beta blockers ride a ...",
-            "pubDate": "2025-09-09T14:00:22",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
+            "title": "Trump's Medicaid cuts will hit some children's hospitals",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/09/09/nx-s1-5532133/medicaid-children-hospital-closure",
+            "description": "The GOP said its overhaul of Medicaid was aimed at reducing fraud and getting more adult beneficiaries to work. Among the likely side effects: fewer s...",
+            "pubDate": "2025-09-09T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2335+0+0/resize/3600x2335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F2f%2F0c7724d44714baf473be8a87f179%2Fap20107167891125.jpg"
         },
         {
             "title": "Sanofi wins approval for first Bruton’s tyrosine kinase inhibitor in immune thrombocytopenia",
@@ -47,95 +117,53 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Platelets2-300x150.jpg"
         },
         {
+            "title": "Pancreatic beta-cell secretory products in the diagnosis and risk stratification of gestational diabetes mellitus: a prospective longitudinal cohort study",
+            "link": "https://www.2minutemedicine.com/pancreatic-beta-cell-secretory-products-in-the-diagnosis-and-risk-stratification-of-gestational-diabetes-mellitus-a-prospective-longitudinal-cohort-study/",
+            "description": "1. 30- and 60-minute C-peptide levels during an OGTT at 16–18 weeks gestation were significantly elevated in women who later developed GDM, suggesting...",
+            "pubDate": "2025-09-09T00:00:13",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/diabetes-300x150.jpeg"
+        },
+        {
+            "title": "The Scan by 2 Minute Medicine®: Beta blockers trend, The Rock’s leaner look, UK targets teen caffeine, and kids’ diets under pressure",
+            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-beta-blockers-trend-the-rocks-leaner-look-uk-targets-teen-caffeine-and-kids-diets-under-pressure/",
+            "description": "The Scan by 2 Minute Medicine® is a pop-culture medical newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. Beta blockers ride a ...",
+            "pubDate": "2025-09-09T14:00:22",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
+        },
+        {
+            "title": "Litigation stress is real: Here’s how to navigate it",
+            "link": "https://kevinmd.com/2025/09/litigation-stress-is-real-heres-how-to-navigate-it.html",
+            "description": "This article is sponsored by MagMutual. Nearly one in three U.S. physicians report having been sued, and in some specialties, a malpractice claim is a...",
+            "pubDate": "2025-09-09T20:00:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
             "title": "How changing your self-talk can transform your entire life",
             "link": "https://kevinmd.com/2025/09/how-changing-your-self-talk-can-transform-your-entire-life.html",
             "description": "An excerpt from The Fix Your Internal Language Handbook. “I talk to myself, and I talk to them. They are not here to listen to me.” Most of us spend m...",
             "pubDate": "2025-09-09T12:00:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Is Ontario Prepared for More West Nile Virus Cases?",
-            "link": "https://www.medscape.com/viewarticle/ontario-prepared-more-west-nile-virus-cases-2025a1000nsu?src=rss",
-            "description": "When it comes to West Nile virus, warming temperatures and changing bird migration spell trouble for Ontario residents. Medscape Medical News",
-            "pubDate": "2025-09-09T15:06:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Clinicians Split on Ethics of Euthanasia for Dementia",
-            "link": "https://www.medscape.com/viewarticle/clinicians-split-ethics-euthanasia-dementia-2025a1000nt4?src=rss",
-            "description": "When dementia blurs the line between autonomy and vulnerability, doctors face one of medicine’s toughest questions — should euthanasia ever be an opti...",
-            "pubDate": "2025-09-09T15:21:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Warming climate drives dengue surge across Asia and the Americas, study shows",
-            "link": "https://medicalxpress.com/news/2025-09-climate-dengue-surge-asia-americas.html",
-            "description": "Warmer weather across the globe is reshaping the landscape of human health. A case in point is dengue fever, a mosquito-borne disease once confined la...",
-            "pubDate": "2025-09-09T21:39:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Striking Disparities in Stroke Rates Among Ethnic Groups",
-            "link": "https://www.medscape.com/viewarticle/striking-disparities-stroke-rates-among-ethnic-groups-2025a1000nsi?src=rss",
-            "description": "Native Hawaiian or Pacific Islander individuals have a significantly higher risk for acute ischemic stroke than other ethnic groups, a new study sugge...",
-            "pubDate": "2025-09-09T15:06:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Indagine: Sta pensando di esercitare la medicina all'estero? Le piacerebbe farlo?",
-            "link": "https://www.medscape.com/viewarticle/indagine-sta-pensando-esercitare-medicina-allestero-2025a1000nkl?src=rss",
-            "description": "La redazione di Univadis Medscape sta raccogliendo informazioni su cosa è necessario per praticare la medicina nei vari Paesi. Vogliamo sentire qual è...",
-            "pubDate": "2025-09-09T16:16:38",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Research shows how Mediterranean-style diet in pregnancy can lead to improved mother and infant health",
-            "link": "https://medicalxpress.com/news/2025-09-mediterranean-style-diet-pregnancy-mother.html",
-            "description": "A Mediterranean-style diet, rich in fiber, vegetable proteins and healthy fats, benefits maternal health during pregnancy and breastfeeding. In additi...",
-            "pubDate": "2025-09-09T21:01:04",
+            "title": "A simple 10-10-10 tool to prevent burnout through mindfulness",
+            "link": "https://kevinmd.com/2025/09/a-simple-10-10-10-tool-to-prevent-burnout-through-mindfulness.html",
+            "description": "For the last several years, burnout (a syndrome typically defined as emotional exhaustion, cynicism, and poor efficacy) has been a hot topic in the wo...",
+            "pubDate": "2025-09-09T18:00:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The crushing bureaucracy that’s driving independent physicians to extinction",
+            "link": "https://kevinmd.com/2025/09/the-crushing-bureaucracy-thats-driving-independent-physicians-to-extinction.html",
+            "description": "As a board-certified neurologist in independent practice for three decades, I’ve watched the soul of medicine slowly erode, not due to a lack of compa...",
+            "pubDate": "2025-09-09T16:00:25",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Study points to urgent need for better Medicaid coverage for anorexia care after hospitalization",
-            "link": "https://medicalxpress.com/news/2025-09-urgent-medicaid-coverage-anorexia-hospitalization.html",
-            "description": "Medicaid-insured kids with anorexia hospitalized for medical stabilization remain in hospital longer than peers with private insurance despite similar...",
-            "pubDate": "2025-09-09T21:15:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Why retail pharmacies could transform diversity in clinical trials [PODCAST]",
-            "link": "https://kevinmd.com/2025/09/why-retail-pharmacies-could-transform-diversity-in-clinical-trials-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Health care executive Shelli Pavone discusses her article “Why retail...",
-            "pubDate": "2025-09-09T00:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "How fat disables the brain's immune shield in Alzheimer's disease",
-            "link": "https://medicalxpress.com/news/2025-09-fat-disables-brain-immune-shield.html",
-            "description": "It was long thought that fat in the brain played no role in neurodegenerative diseases, but Purdue University researchers are challenging that assumpt...",
-            "pubDate": "2025-09-09T20:29:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Spain moves to ban smoking in bar terraces, parks",
-            "link": "https://medicalxpress.com/news/2025-09-spain-bar-terraces.html",
-            "description": "Spain's minority left-wing government approved on Tuesday a proposal to ban smoking and vaping in outdoor spaces including bar terraces, parks and out...",
-            "pubDate": "2025-09-09T20:24:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "What It’s Like to Be the Youngest Doctor Ever",
-            "link": "https://www.medscape.com/viewarticle/what-its-be-youngest-doctor-ever-2025a1000ns7?src=rss",
-            "description": "These child prodigies race through med school. But they learn — far faster than their older peers — that resilience and empathy matter more than brill...",
-            "pubDate": "2025-09-09T14:54:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Ending Ryan White services may increase human immunodeficiency virus incidence",
-            "link": "https://www.2minutemedicine.com/ending-ryan-white-services-may-increase-human-immunodeficiency-virus-incidence/",
-            "description": "1. In this simulation study involving persons with human immunodeficiency virus living in the United States, ending Ryan White services in cities with...",
-            "pubDate": "2025-09-08T23:00:20",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/07/City_Lights_of_the_United_States_2012-e1375069494823-300x150.jpg"
+            "title": "How community and buses saved my retirement",
+            "link": "https://kevinmd.com/2025/09/how-community-and-buses-saved-my-retirement.html",
+            "description": "It is Saturday, late in July and hot as blazes in Louisville, Kentucky where I live. I’ve been here for many years. I sit in a McDonald’s restaurant c...",
+            "pubDate": "2025-09-09T14:00:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "This is what could happen to a child who doesn't get vaccinated",
@@ -150,34 +178,6 @@
             "description": "New dietary guidelines are coming soon. Health Secretary Robert F. Kennedy Jr. has promised the days of skim milk and other low-fat dairy products are...",
             "pubDate": "2025-09-08T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F2c%2Fc574c72f4a9b9a6b36be28117668%2Fgettyimages-638601018.jpg"
-        },
-        {
-            "title": "Why your clinic waiting room may affect patient outcomes",
-            "link": "https://kevinmd.com/2025/09/why-your-clinic-waiting-room-may-affect-patient-outcomes.html",
-            "description": "A busy waiting room with buzzing lights, cramped-up chairs, and rushed medical staff on the clock can make you feel more anxious about the care you ar...",
-            "pubDate": "2025-09-08T20:00:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Food is a universal language in medicine",
-            "link": "https://kevinmd.com/2025/09/food-is-a-universal-language-in-medicine.html",
-            "description": "“What is your favorite homemade food?” I ask each patient. Almost always, there is a smile, and the conversation takes off from there. Moms light up d...",
-            "pubDate": "2025-09-08T18:00:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The ethical crossroads of medicine and legislation",
-            "link": "https://kevinmd.com/2025/09/the-ethical-crossroads-of-medicine-and-legislation.html",
-            "description": "Previously, I wrote about politicians regulating medical practice. I support regulations that protect individual or public health. However, when these...",
-            "pubDate": "2025-09-08T16:00:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "The silent killer increases your risk of stroke and dementia. Here's how to control it",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/09/07/nx-s1-5532108/the-silent-killer-increases-your-risk-of-stroke-and-dementia-heres-how-to-control-it",
-            "description": "New recommendations for early treatment of hypertension to prevent strokes, heart attacks and dementia come as an experimental medication is shown to ...",
-            "pubDate": "2025-09-07T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F40%2F2f4202db48768250aa3fa3a7312b%2Fgettyimages-1886165079.jpg"
         }
     ]
 }
