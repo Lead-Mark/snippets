@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-11T06:42:49.015144",
+    "lastBuildDate": "2025-09-11T10:56:54.877167",
     "items": [
+        {
+            "title": "Classic Sour Cream Pound Cake",
+            "link": "https://therecipecritic.com/sour-cream-pound-cake/",
+            "description": "This sour cream pound cake is buttery, moist, and so tender. The light vanilla flavor with a little tang from…",
+            "pubDate": "2025-09-11T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/sour-cream-pound-cake-.jpg"
+        },
         {
             "title": "Super Easy Crockpot Mashed Potatoes",
             "link": "https://therecipecritic.com/crockpot-mashed-potatoes/",
@@ -31,13 +38,6 @@
             "description": "Why is it called “dirty” rice? The rice gets brown as it cooks with meat, Cajun spices, and the holy…",
             "pubDate": "2025-09-08T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2021/08/dirtyrice-2.jpg"
-        },
-        {
-            "title": "Italian Sausage Egg Bites (Starbucks Copycat)",
-            "link": "https://therecipecritic.com/italian-sausage-egg-bites-starbucks-copycat/",
-            "description": "These copycat Starbucks Italian Sausage Egg Bites are our new favorite! I had to recreate, and honestly, they taste even…",
-            "pubDate": "2025-09-07T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/08/egg-bites-.jpg"
         },
         {
             "title": "Cauliflower Salad with Dates & Pistachios",
