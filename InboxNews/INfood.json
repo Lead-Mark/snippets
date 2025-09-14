@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-13T02:38:01.673249",
+    "lastBuildDate": "2025-09-14T03:16:55.172821",
     "items": [
+        {
+            "title": "Texas Chili",
+            "link": "https://therecipecritic.com/texas-chili/",
+            "description": "Do you like your chili with beans or without? This authentic Texas chili keeps it classic. Just bold, tender chuck…",
+            "pubDate": "2025-09-13T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/texas-chili-1.jpg"
+        },
         {
             "title": "Slow Cooker Barbacoa Beef",
             "link": "https://therecipecritic.com/slow-cooker-barbacoa-beef/",
@@ -31,13 +38,6 @@
             "description": "You MUST TRY these crockpot mashed potatoes! They are so creamy and delicious and super easy to make! Which makes…",
             "pubDate": "2025-09-10T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2021/11/crockpotmashedpotatoes.jpg"
-        },
-        {
-            "title": "Caramel Apple Pie Lush",
-            "link": "https://therecipecritic.com/caramel-apple-pie-lush/",
-            "description": "Caramel Apple Pie Lush is the easiest fall dessert you’ll ever make! With layers of buttery crust, creamy cheesecake, spiced…",
-            "pubDate": "2025-09-09T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/apple-lush.jpg"
         },
         {
             "title": "Cauliflower Salad with Dates & Pistachios",
