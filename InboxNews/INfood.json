@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-16T06:48:11.737035",
+    "lastBuildDate": "2025-09-16T10:48:13.547727",
     "items": [
+        {
+            "title": "Air Fryer Teriyaki Salmon",
+            "link": "https://therecipecritic.com/air-fryer-teriyaki-salmon/",
+            "description": "Air fryer teriyaki salmon is the best fast and tasty meal! The salmon cooks up perfectly tender with crisp edges,…",
+            "pubDate": "2025-09-16T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/teriyaki-salmon-.jpg"
+        },
         {
             "title": "The BEST Gluten-Free Pumpkin Bread (1 Bowl!)",
             "link": "https://minimalistbaker.com/best-gluten-free-pumpkin-bread/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/kung-pao-noodles-1.jpg"
         },
         {
-            "title": "Slow Cooker Barbacoa Beef",
-            "link": "https://therecipecritic.com/slow-cooker-barbacoa-beef/",
-            "description": "Slow cooker barbacoa beef simmers all day in smoky chipotle, tangy lime, and warm spices until it falls apart. It’s…",
-            "pubDate": "2025-09-13T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/slow-cooker-beef-barbacoa-2-1.jpg"
-        },
-        {
             "title": "Texas Chili",
             "link": "https://therecipecritic.com/texas-chili/",
             "description": "Do you like your chili with beans or without? This authentic Texas chili keeps it classic. Just bold, tender chuck…",
@@ -40,11 +40,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/texas-chili-1.jpg"
         },
         {
-            "title": "Weekly Meal Plan #58",
-            "link": "https://therecipecritic.com/weekly-meal-plan-58/",
-            "description": "This week’s meal plan is all about mixing things up so dinner never feels boring. You’ll get a balance of…",
-            "pubDate": "2025-09-12T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/Week-58-Meal-Plan-Collage-.jpg"
+            "title": "Slow Cooker Barbacoa Beef",
+            "link": "https://therecipecritic.com/slow-cooker-barbacoa-beef/",
+            "description": "Slow cooker barbacoa beef simmers all day in smoky chipotle, tangy lime, and warm spices until it falls apart. It’s…",
+            "pubDate": "2025-09-13T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/slow-cooker-beef-barbacoa-2-1.jpg"
         },
         {
             "title": "Cauliflower Salad with Dates & Pistachios",
