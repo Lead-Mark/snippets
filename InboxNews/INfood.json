@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-19T06:51:20.637785",
+    "lastBuildDate": "2025-09-19T10:40:17.765874",
     "items": [
+        {
+            "title": "Weekly Meal Plan #59",
+            "link": "https://therecipecritic.com/weekly-meal-plan-59/",
+            "description": "Want to save your sanity and actually win at dinner? This weekly meal plan is the secret. Once I started…",
+            "pubDate": "2025-09-19T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/Week-59-Meal-Plan-Collage-.jpg"
+        },
         {
             "title": "Crunchwrap Casserole (Taco Bell Inspired)",
             "link": "https://therecipecritic.com/crunchwrap-casserole/",
@@ -19,13 +26,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/apple-dump-cake-1.jpg"
         },
         {
-            "title": "The BEST Gluten-Free Pumpkin Bread (1 Bowl!)",
-            "link": "https://minimalistbaker.com/best-gluten-free-pumpkin-bread/",
-            "description": "Fall has three essentials: cozy sweaters, warming soups, and PUMPKIN BREAD! Whether your fond memories of this spice-filled treat are from Starbucks, ...",
-            "pubDate": "2025-09-16T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/08/Gluten-Free-Pumpkin-Bread-11-680x1020.jpg"
-        },
-        {
             "title": "Air Fryer Teriyaki Salmon",
             "link": "https://therecipecritic.com/air-fryer-teriyaki-salmon/",
             "description": "Air fryer teriyaki salmon is the best fast and tasty meal! The salmon cooks up perfectly tender with crisp edges,…",
@@ -33,18 +33,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/teriyaki-salmon-.jpg"
         },
         {
+            "title": "The BEST Gluten-Free Pumpkin Bread (1 Bowl!)",
+            "link": "https://minimalistbaker.com/best-gluten-free-pumpkin-bread/",
+            "description": "Fall has three essentials: cozy sweaters, warming soups, and PUMPKIN BREAD! Whether your fond memories of this spice-filled treat are from Starbucks, ...",
+            "pubDate": "2025-09-16T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/08/Gluten-Free-Pumpkin-Bread-11-680x1020.jpg"
+        },
+        {
             "title": "20 Minute Garlic Shrimp Stir Fry",
             "link": "https://therecipecritic.com/garlic-shrimp-stir-fry/",
             "description": "Some nights you just need dinner on the table fast! That’s when this garlic shrimp stir fry saves the day. Juicy…",
             "pubDate": "2025-09-15T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2018/02/garlic_shrimp_stir_fry-1-of-1.jpg"
-        },
-        {
-            "title": "Kung Pao Chicken Noodles",
-            "link": "https://therecipecritic.com/kung-pao-chicken-noodles/",
-            "description": "Skip the takeout, these Kung Pao Chicken Noodles are spicy, saucy, and loaded with flavor! Tender chicken, chewy noodles, crunchy…",
-            "pubDate": "2025-09-14T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/kung-pao-noodles-1.jpg"
         },
         {
             "title": "Cauliflower Salad with Dates & Pistachios",

@@ -2,14 +2,14 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-19T06:52:27.538851",
+    "lastBuildDate": "2025-09-19T10:41:02.081679",
     "items": [
         {
-            "title": "CDC advisers expected to vote on hepatitis B, COVID vaccine recommendations Friday",
-            "link": "https://www.npr.org/2025/09/19/nx-s1-5542081/cdc-advisers-expected-to-vote-on-hepatitis-b-covid-vaccine-recommendations-friday",
-            "description": "Health Secretary Robert F. Kennedy Jr.'s hand-picked panel of advisers will vote on their recommendations for the hepatitis B and COVID vaccines on th...",
-            "pubDate": "2025-09-19T09:53:18",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5542081"
+            "title": "Therapeutic Effectiveness and Safety Profiles of Medications for Migraine",
+            "link": "https://www.2minutemedicine.com/therapeutic-effectiveness-and-safety-profiles-of-medications-for-migraine/",
+            "description": "In the emergency department, timely and effective relief from migraine headaches is a clinical priority. Multiple medications are available, used eith...",
+            "pubDate": "2025-09-19T14:20:40",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Migraine-300x217.jpg"
         },
         {
             "title": "​​Time restricted eating and exercise training before and during pregnancy for people with increased risk of gestational diabetes: single centre randomised controlled trial (BEFORE THE BEGINNING)",
@@ -19,6 +19,13 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/diabetes-300x150.jpeg"
         },
         {
+            "title": "Aid cuts hit Uganda hard. With worry and grit, it's finding new ways to save lives",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/19/g-s1-88001/health-care-aid-cuts-uganda",
+            "description": "Uganda is one of the countries that's greatly affected by the reduction of U.S. foreign aid. Here's how the health care system is responding — with tr...",
+            "pubDate": "2025-09-19T11:48:47",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1200+0+0/resize/1600x1200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2Fec%2F1df129f449c08c5db37682a175bd%2Fbrothel-4-jcs.jpg"
+        },
+        {
             "title": "Wildfire smoke is killing Americans. A new study quantifies how much",
             "link": "https://www.npr.org/2025/09/19/nx-s1-5544451/wildfire-smoke-death-increases",
             "description": "More intense future wildfires, fueled by further climate change, could lead to 70,000 deaths from smoke exposure a year, according to a new study.",
@@ -26,102 +33,95 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F8d%2F491cb18c417da71a58c4b9168d57%2Fap20272748783665.jpg"
         },
         {
-            "title": "CDC's new vaccine advisers recommend splitting up MMRV shot",
-            "link": "https://medicalxpress.com/news/2025-09-cdc-vaccine-mmrv-shot.html",
-            "description": "On September 18th, the Centers for Disease Control and Prevention's vaccine advisory committee voted to make a significant change to the nation's chil...",
-            "pubDate": "2025-09-19T10:52:40",
+            "title": "Their teenage sons died by suicide. Now, they are sounding an alarm about AI chatbots",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide",
+            "description": "Grieving parents and online safety advocates at a congressional hearing called for new laws to regulate AI companion apps to protect the mental health...",
+            "pubDate": "2025-09-19T12:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2770x1558+0+0/resize/2770x1558!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F2c%2Fd4f35e754ba985bd89408b11002e%2Fgarcia-raine-16x9.jpg"
+        },
+        {
+            "title": "CDC advisers expected to vote on hepatitis B, COVID vaccine recommendations Friday",
+            "link": "https://www.npr.org/2025/09/19/nx-s1-5542081/cdc-advisers-expected-to-vote-on-hepatitis-b-covid-vaccine-recommendations-friday",
+            "description": "Health Secretary Robert F. Kennedy Jr.'s hand-picked panel of advisers will vote on their recommendations for the hepatitis B and COVID vaccines on th...",
+            "pubDate": "2025-09-19T09:53:18",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5542081"
+        },
+        {
+            "title": "Unproven stroke treatment is no more effective than placebo, clinical trial finds",
+            "link": "https://medicalxpress.com/news/2025-09-unproven-treatment-effective-placebo-clinical.html",
+            "description": "The first international trial of an unproven stroke treatment available in the U.S. has concluded that, while harmless, \"perispinal\" etanercept—inject...",
+            "pubDate": "2025-09-19T14:13:04",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "No single solution for gastroparesis—patients need personalized care",
-            "link": "https://medicalxpress.com/news/2025-09-solution-gastroparesis-patients-personalized.html",
-            "description": "The American Gastroenterological Association (AGA) has released a new clinical guideline with 12 conditional recommendations for diagnosing and managi...",
-            "pubDate": "2025-09-19T10:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Study identifies candidates for therapeutic targets in pediatric germ cell tumors",
-            "link": "https://medicalxpress.com/news/2025-09-candidates-therapeutic-pediatric-germ-cell.html",
-            "description": "A study conducted by the Molecular Oncology Research Center (CPOM) at Hospital de Amor in Barretos (formerly Barretos Cancer Hospital) in the state of...",
-            "pubDate": "2025-09-19T09:37:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Novo Nordisk study finds greater waist reduction with higher semaglutide dosage",
-            "link": "https://medicalxpress.com/news/2025-09-novo-nordisk-greater-waist-reduction.html",
-            "description": "A Novo Nordisk-designed trial, conducted at 68 international hospitals, specialist clinics, and medical centers with investigators from University of ...",
-            "pubDate": "2025-09-19T11:20:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Permanent health tax credit extension would insure 3.8 million",
-            "link": "https://medicalxpress.com/news/2025-09-permanent-health-tax-credit-extension.html",
-            "description": "The Congressional Budget Office has estimated that permanently extending premium health subsidies would increase the number of insured people to 3.8 m...",
-            "pubDate": "2025-09-19T11:30:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Oncologists Divided on AI’s Value in Diagnosing Cancers",
-            "link": "https://www.medscape.com/viewarticle/oncologists-divided-ais-value-diagnosing-cancers-2025a1000oxq?src=rss",
-            "description": "Integration of AI into cancer care appears limited to certain fields but that may change if the technology realizes its potential of personalizing ris...",
-            "pubDate": "2025-09-19T11:15:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Study Challenges Promise of Myo-Inositol in PCOS Care",
-            "link": "https://www.medscape.com/viewarticle/myo-inositol-fails-reduce-pregnancy-complications-women-pcos-2025a1000oxa?src=rss",
-            "description": "A recent large-scale randomized trial suggests that myo-inositol may not prevent pregnancy-related complications in women with PCOS. Medscape Medical ...",
-            "pubDate": "2025-09-19T10:27:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Should Baclofen and Tizanidine Join the Beers Criteria List?",
-            "link": "https://www.medscape.com/viewarticle/baclofen-tizanidine-linked-higher-injury-risk-seniors-2025a1000oxh?src=rss",
-            "description": "The skeletal muscle relaxants baclofen and tizanidine are each linked to a higher risk for injury than cyclobenzaprine in older adults, highlighting s...",
-            "pubDate": "2025-09-19T10:39:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Exercise, Not GLP-1s, Key to CVD Benefit After Weight Loss",
-            "link": "https://www.medscape.com/viewarticle/exercise-not-glp-1s-key-cvd-benefit-after-weight-loss-2025a1000owx?src=rss",
-            "description": "A randomized trial shows that exercise, but not liraglutide, reduced atherosclerosis and inflammation in people with obesity maintaining weight loss. ...",
-            "pubDate": "2025-09-19T10:03:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "HRT Patches Linked to Lower Heart Risk in Women With T2D",
-            "link": "https://www.medscape.com/viewarticle/hrt-patches-linked-lower-heart-risk-women-t2d-2025a1000oy2?src=rss",
-            "description": "In women with type 2 diabetes, transdermal HRT was associated with reduced ischemic heart disease risk and oral HRT was linked to higher cardiovascula...",
-            "pubDate": "2025-09-19T11:29:35",
+            "title": "Think before you ink: Uncovering the hidden risks in tattoo inks",
+            "link": "https://medicalxpress.com/news/2025-09-ink-uncovering-hidden-tattoo-inks.html",
+            "description": "One in four Australian adults have at least one tattoo, but new research suggests that what's in the ink may pose greater risks than the size and desi...",
+            "pubDate": "2025-09-19T12:10:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Doxycycline in Pneumonia: Coverage, Effectiveness, and Limitations",
-            "link": "https://www.2minutemedicine.com/doxycycline-in-pneumonia-coverage-effectiveness-and-limitations/",
-            "description": "Doxycycline in Pneumonia Doxycycline remains an important antibiotic in the treatment of community-acquired pneumonia (CAP). Its reliable activity aga...",
-            "pubDate": "2025-09-18T15:40:36",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/tablets_PD_edited-300x150.jpg"
+            "title": "The New Med School Math: Federal Student Loan Changes Worry Some Pre-Meds",
+            "link": "https://www.medscape.com/viewarticle/new-med-school-math-federal-student-loan-changes-worry-some-2025a1000ozu?src=rss",
+            "description": "Sweeping changes to federal student loan programs have some aspiring medical schools worrying about how they will finance their expensive educations a...",
+            "pubDate": "2025-09-19T14:13:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Former CDC director says she was fired for resisting pressure from RFK Jr.",
-            "link": "https://www.npr.org/2025/09/18/nx-s1-5544277/former-cdc-director-says-she-was-fired-for-resisting-pressure-from-rfk-jr",
-            "description": "Susan Monarez, the ousted director of the CDC, testified on Capitol Hill Wednesday that the health secretary pressured her to rubber stamp vaccine pol...",
-            "pubDate": "2025-09-18T11:49:59",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5544277"
+            "title": "Detecting Alcohol’s Early Cardiac Effects in Primary Care",
+            "link": "https://www.medscape.com/viewarticle/how-primary-care-physicians-can-address-early-cardiac-signs-2025a1000oxn?src=rss",
+            "description": "From ‘holiday heart’ to permanent damage: Learn to recognize cardiovascular red flags of alcohol misuse using simple measurements already part of your...",
+            "pubDate": "2025-09-19T13:09:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "CDC advisers vote to change guidance on MMRV vaccines",
-            "link": "https://www.npr.org/2025/09/18/nx-s1-5542082/cdc-acip-vaccine-hepatitis-b-mmrv",
-            "description": "The group was chosen by Health Secretary Robert F. Kennedy Jr. amid controversy over their credentials. It's changing guidance for vaccines for measle...",
-            "pubDate": "2025-09-18T19:20:49",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F30%2F3c0c79c84562a918a4be866e7069%2Fgettyimages-2235551156.jpg"
+            "title": "Combined effects of body cooling and mental fatigue hinder endurance performance, study shows",
+            "link": "https://medicalxpress.com/news/2025-09-combined-effects-body-cooling-mental.html",
+            "description": "Performance in endurance sports, such as long-distance running, cycling, and cross-country skiing, requires sustained activity over prolonged periods ...",
+            "pubDate": "2025-09-19T14:08:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Former CDC leader shares why she decided to leave",
-            "link": "https://www.npr.org/2025/09/18/nx-s1-5544322/former-cdc-leader-shares-why-she-decided-to-leave",
-            "description": "NPR speaks with Debra Houry, the CDC's former chief medical officer, about her decision to leave her post and her concerns over Health Secretary Rober...",
-            "pubDate": "2025-09-18T11:49:47",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5544322"
+            "title": "CDC vaccine panel votes against Merck shot for kids under 4",
+            "link": "https://medicalxpress.com/news/2025-09-cdc-vaccine-panel-votes-merck.html",
+            "description": "Robert F. Kennedy Jr.'s hand-selected vaccine advisers voted to change the way immunizations are given to millions of U.S. children each year, recomme...",
+            "pubDate": "2025-09-19T12:20:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "A molecular atlas of the hippocampus: Mapping RNAs and proteins at synaptic resolution",
+            "link": "https://medicalxpress.com/news/2025-09-molecular-atlas-hippocampus-rnas-proteins.html",
+            "description": "Researchers at the Max Planck Institute for Brain Research have mapped the molecular landscape of the mouse hippocampus, a region central to learning ...",
+            "pubDate": "2025-09-19T15:35:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Accelerated Aging: Hidden Toll of Long-Term Cancer Survival",
+            "link": "https://www.medscape.com/viewarticle/accelerated-aging-hidden-toll-long-term-cancer-survival-2025a1000ozj?src=rss",
+            "description": "Mounting evidence suggests that cancer speeds up aging, a particularly devastating effect for childhood survivors that may expose them to an onslaught...",
+            "pubDate": "2025-09-19T13:20:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "How to transform your mindset by rewiring your brain with positive language [PODCAST]",
+            "link": "https://kevinmd.com/2025/09/how-to-transform-your-mindset-by-rewiring-your-brain-with-positive-language-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Clinical psychologist Faust Ruggiero discusses his article “How to re...",
+            "pubDate": "2025-09-19T00:00:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "X-Rays Raise Blood Cancer Risk in Children",
+            "link": "https://www.medscape.com/viewarticle/x-rays-raise-blood-cancer-risk-children-2025a1000ozv?src=rss",
+            "description": "Radiation exposure from medical imaging is linked to higher risk for hematologic cancers in children, research shows. Medscape Medical News",
+            "pubDate": "2025-09-19T14:15:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Amid RFK Jr Rise, Officials Waver on Water Fluoridation",
+            "link": "https://www.medscape.com/s/viewarticle/amid-rise-rfk-jr-officials-waver-drinking-water-fluoridation-2025a1000oya?src=rss",
+            "description": "Even in the state where the treatment began, communities are backpedaling. ProPublica",
+            "pubDate": "2025-09-19T13:29:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Steroidal mineralocorticoid receptor antagonists show little mortality benefit in patients receiving dialysis",
@@ -131,6 +131,13 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/pills_pd_edited-300x150.jpg"
         },
         {
+            "title": "CDC advisers punt on hepatitis B vaccine vote, after changing guidance on MMRV",
+            "link": "https://www.npr.org/2025/09/18/nx-s1-5542082/cdc-acip-vaccine-hepatitis-b-mmrv",
+            "description": "The group was chosen by Health Secretary Robert F. Kennedy Jr. amid controversy. It's changed guidance for for measles, mumps, rubella and chickenpox ...",
+            "pubDate": "2025-09-18T19:20:49",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F30%2F3c0c79c84562a918a4be866e7069%2Fgettyimages-2235551156.jpg"
+        },
+        {
             "title": "Corstasis’ Enbumyst nasal spray approved for edema",
             "link": "https://www.2minutemedicine.com/corstasis-enbumyst-nasal-spray-approved-for-edema/",
             "description": "1. First intranasal loop diuretic approved by the FDA for heart, kidney, and liver disease patients. 2. Clinical trials showed comparable efficacy to ...",
@@ -138,46 +145,39 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/08/fda2-300x150.jpg"
         },
         {
-            "title": "Acupuncture for Chronic Low Back Pain in Older Adults: A Randomized Clinical Trial",
-            "link": "https://www.2minutemedicine.com/acupuncture-for-chronic-low-back-pain-in-older-adults-a-randomized-clinical-trial/",
-            "description": "1. In older adults with chronic low back pain (CLBP), both standard and enhanced acupuncture treatments significantly improved disability compared to ...",
-            "pubDate": "2025-09-18T00:00:03",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/08/back-300x150.jpg"
-        },
-        {
-            "title": "How profit-driven hospitals fail long-term patient care",
-            "link": "https://kevinmd.com/2025/09/how-profit-driven-hospitals-fail-long-term-patient-care.html",
-            "description": "Gasping for breath, Michael (name changed) pushed back in his chair. His legs felt like lead weights. He could not delay the rescue call any longer. T...",
-            "pubDate": "2025-09-18T20:00:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Doxycycline in Pneumonia: Coverage, Effectiveness, and Limitations",
+            "link": "https://www.2minutemedicine.com/doxycycline-in-pneumonia-coverage-effectiveness-and-limitations/",
+            "description": "Doxycycline in Pneumonia Doxycycline remains an important antibiotic in the treatment of community-acquired pneumonia (CAP). Its reliable activity aga...",
+            "pubDate": "2025-09-18T15:40:36",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/tablets_PD_edited-300x150.jpg"
         },
         {
             "title": "How physician burnout and system reform are shaping the future of U.S. health care",
             "link": "https://kevinmd.com/2025/09/how-physician-burnout-and-system-reform-are-shaping-the-future-of-u-s-health-care.html",
             "description": "As a young pediatric anesthesia attending, I would often roll my eyes at resident trainees who prioritized their personal needs and required mental he...",
             "pubDate": "2025-09-18T16:00:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "How nature is inspiring the future of pain medicine",
-            "link": "https://kevinmd.com/2025/09/how-nature-is-inspiring-the-future-of-pain-medicine.html",
-            "description": "Across the world’s earliest civilizations, healers turned to nature as their pharmacy. Ancient systems like Ayurveda in India, Unani (Hikmat) medicine...",
-            "pubDate": "2025-09-18T14:00:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "How profit-driven hospitals fail long-term patient care",
+            "link": "https://kevinmd.com/2025/09/how-profit-driven-hospitals-fail-long-term-patient-care.html",
+            "description": "Gasping for breath, Michael (name changed) pushed back in his chair. His legs felt like lead weights. He could not delay the rescue call any longer. T...",
+            "pubDate": "2025-09-18T20:00:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "What is a varicocele and how does it affect fertility?",
             "link": "https://kevinmd.com/2025/09/what-is-a-varicocele-and-how-does-it-affect-fertility.html",
             "description": "Varicocele is one of the most common findings in men being evaluated for infertility. Roughly 15 percent of all men have one, and the number climbs to...",
             "pubDate": "2025-09-18T22:00:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Complicity vs. protest: a doctor’s choice",
             "link": "https://kevinmd.com/2025/09/complicity-vs-protest-a-doctors-choice.html",
             "description": "We are trained to move quickly. To respond before thinking. To act before doubting. To rise at three in the morning because someone’s life might depen...",
             "pubDate": "2025-09-18T18:00:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }
