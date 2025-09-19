@@ -2,8 +2,29 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-18T17:33:51.101335",
+    "lastBuildDate": "2025-09-19T06:51:24.116407",
     "items": [
+        {
+            "title": "Scientists just found the hidden cosmic fingerprints of dark matter",
+            "link": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
+            "description": "Scientists at Rutgers and collaborators have traced the invisible dark matter scaffolding of the universe using over 100,000 Lyman-alpha emitting gala...",
+            "pubDate": "2025-09-19T05:10:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Could plastic in your food be fueling Azheimer’s?",
+            "link": "https://www.sciencedaily.com/releases/2025/09/250917221010.htm",
+            "description": "Plastic particles from everyday items like Styrofoam cups and take-out containers are finding their way into the brain, where they may trigger Alzheim...",
+            "pubDate": "2025-09-19T01:47:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Cosmic simulations that once needed supercomputers now run on a laptop",
+            "link": "https://www.sciencedaily.com/releases/2025/09/250918225001.htm",
+            "description": "Astronomers have long relied on supercomputers to simulate the immense structure of the Universe, but a new tool called Effort.jl is changing that. By...",
+            "pubDate": "2025-09-19T04:06:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
         {
             "title": "America is throwing away the minerals that could power its future",
             "link": "https://www.sciencedaily.com/releases/2025/09/250917221212.htm",
@@ -12,60 +33,39 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Scientists stunned by salt giants forming beneath the Dead Sea",
-            "link": "https://www.sciencedaily.com/releases/2025/09/250916221828.htm",
-            "description": "The Dead Sea isn’t just the saltiest body of water on Earth—it’s a living laboratory for the formation of giant underground salt deposits. Researchers...",
-            "pubDate": "2025-09-18T14:44:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
             "title": "NSF selects 15 finalists to advance to the next round of its second Regional Innovation Engines competition",
             "link": "https://www.nsf.gov/news/nsf-selects-15-finalists-advance-next-round-its-second",
             "description": "The U.S. National Science Foundation Regional Innovation Engines (NSF Engines) program announced 15 finalists advancing to the next stage of the progr...",
             "pubDate": "2025-09-18T21:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Tiny protein pairs may hold the secret to life’s origin",
-            "link": "https://www.sciencedaily.com/releases/2025/09/250917221005.htm",
-            "description": "A team from the University of Illinois has uncovered surprising evolutionary links between the genetic code and tiny protein fragments called dipeptid...",
-            "pubDate": "2025-09-18T14:29:18",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Doctors warn of a stealth opioid 20x more potent than fentanyl",
-            "link": "https://www.sciencedaily.com/releases/2025/09/250917221004.htm",
-            "description": "Nitazenes, a powerful and largely hidden class of synthetic opioids, are quickly becoming a deadly factor in the overdose crisis. Over 20 times strong...",
-            "pubDate": "2025-09-18T14:03:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The hidden group that loses COVID protection fast",
-            "link": "https://www.sciencedaily.com/releases/2025/09/250917221001.htm",
-            "description": "Why do some people stay protected after vaccination while others quickly lose immunity? Researchers in Japan tracked over 2,500 people for 18 months a...",
-            "pubDate": "2025-09-18T14:00:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Scientists stunned by salt giants forming beneath the Dead Sea",
+            "link": "https://www.sciencedaily.com/releases/2025/09/250916221828.htm",
+            "description": "The Dead Sea isn’t just the saltiest body of water on Earth—it’s a living laboratory for the formation of giant underground salt deposits. Researchers...",
+            "pubDate": "2025-09-18T14:44:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "NSF invests $6.2 million in EPSCoR Research Fellows",
             "link": "https://www.nsf.gov/news/nsf-invests-62-million-epscor-research-fellows",
             "description": "The U.S. National Science Foundation is investing $6.2 million in 24 exceptional researchers who have been selected as NSF Established Program to Stim...",
             "pubDate": "2025-09-15T15:00:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "NSF National Quantum Virtual Laboratory speeds into the design phase",
             "link": "https://www.nsf.gov/news/nsf-national-quantum-virtual-laboratory-speeds-design-phase",
             "description": "The U.S. National Science Foundation National Quantum Virtual Laboratory (NSF NQVL) is coming into sharper focus with the selection of the first four ...",
             "pubDate": "2025-09-04T15:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "NSF announces funding to establish the National AI Research Resource Operations Center",
             "link": "https://www.nsf.gov/news/nsf-announces-funding-establish-national-ai-research",
             "description": "The U.S. National Science Foundation today announced a new solicitation to establish a National Artificial Intelligence Research Resource Operations C...",
             "pubDate": "2025-09-03T15:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "NSF expanding national AI infrastructure with new data systems and resources",
