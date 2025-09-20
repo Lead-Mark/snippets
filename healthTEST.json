@@ -2,7 +2,7 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-20T01:18:11.544480",
+    "lastBuildDate": "2025-09-20T02:13:46.341150",
     "items": [
         {
             "title": "Digital Psychological Intervention for Inflammatory Rheumatic Diseases: A Pilot Randomized Clinical Trial",
@@ -12,18 +12,18 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/02/1280px-Rheumatoid_Arthritis-300x150.jpg"
         },
         {
+            "title": "Study highlights overlooked link between vascular disease and dementia risk",
+            "link": "https://medicalxpress.com/news/2025-09-highlights-overlooked-link-vascular-disease.html",
+            "description": "Vascular dementia—cognitive impairment caused by disease in the brain's small blood vessels—is a widespread problem, but it has not been as thoroughly...",
+            "pubDate": "2025-09-20T07:01:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
             "title": "How physicians can turn criticism into collaboration for better teamwork [PODCAST]",
             "link": "https://kevinmd.com/2025/09/how-physicians-can-turn-criticism-into-collaboration-for-better-teamwork-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Licensed counselor and certified coach Mary Remón discusses her artic...",
             "pubDate": "2025-09-20T00:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Aid cuts hit Uganda hard. With worry and grit, it's finding new ways to save lives",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/19/g-s1-88001/health-care-aid-cuts-uganda",
-            "description": "Uganda is one of the countries that's greatly affected by the reduction of U.S. foreign aid. Here's how the health care system is responding — with tr...",
-            "pubDate": "2025-09-19T11:48:47",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1200+0+0/resize/1600x1200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2Fec%2F1df129f449c08c5db37682a175bd%2Fbrothel-4-jcs.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "FDA escalates warning letters over misleading drug advertising",
@@ -47,6 +47,13 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2770x1558+0+0/resize/2770x1558!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F2c%2Fd4f35e754ba985bd89408b11002e%2Fgarcia-raine-16x9.jpg"
         },
         {
+            "title": "Wildfire smoke is killing Americans. A new study quantifies how much",
+            "link": "https://www.npr.org/2025/09/19/nx-s1-5544451/wildfire-smoke-death-increases",
+            "description": "More intense future wildfires, fueled by further climate change, could lead to 70,000 deaths from smoke exposure a year, according to a new study.",
+            "pubDate": "2025-09-19T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F8d%2F491cb18c417da71a58c4b9168d57%2Fap20272748783665.jpg"
+        },
+        {
             "title": "Therapeutic Effectiveness and Safety Profiles of Medications for Migraine",
             "link": "https://www.2minutemedicine.com/therapeutic-effectiveness-and-safety-profiles-of-medications-for-migraine/",
             "description": "In the emergency department, timely and effective relief from migraine headaches is a clinical priority. Multiple medications are available, used eith...",
@@ -61,13 +68,6 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/diabetes-300x150.jpeg"
         },
         {
-            "title": "Wildfire smoke is killing Americans. A new study quantifies how much",
-            "link": "https://www.npr.org/2025/09/19/nx-s1-5544451/wildfire-smoke-death-increases",
-            "description": "More intense future wildfires, fueled by further climate change, could lead to 70,000 deaths from smoke exposure a year, according to a new study.",
-            "pubDate": "2025-09-19T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F8d%2F491cb18c417da71a58c4b9168d57%2Fap20272748783665.jpg"
-        },
-        {
             "title": "CDC vaccine panel adds new rules for getting the COVID vaccine in a tense meeting",
             "link": "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545946/cdc-covid-vaccine-acip-recommendations",
             "description": "The group voted to make people who want a COVID shot to be briefed on harms and benefits, but in a close vote, it failed to pass a proposal that state...",
@@ -75,88 +75,46 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F9e%2F9ae34f094b61b335280f58507ebf%2Fgettyimages-2235563712.jpg"
         },
         {
-            "title": "Full Scalp Hair Regrowth Possible With Oral JAK Inhibitor",
-            "link": "https://www.medscape.com/viewarticle/alopecia-areata-complete-scalp-hair-regrowth-possible-jak-2025a1000p27?src=rss",
-            "description": "Long-term results from the ALLEGRO clinical trial program of ritlecitinib show that complete scalp regrowth occurs in a good proportion of patients wi...",
-            "pubDate": "2025-09-19T21:40:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "New initiative targets faster shock diagnosis and care with 'door to lactate clearance'",
-            "link": "https://medicalxpress.com/news/2025-09-faster-diagnosis-door-lactate-clearance.html",
-            "description": "A new initiative by The Society for Cardiovascular Angiography & Interventions (SCAI) proposes a new framework and call to action for managing cardiog...",
-            "pubDate": "2025-09-19T19:11:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Brepocitinib Shows Positive Results in Dermatomyositis Trial",
-            "link": "https://www.medscape.com/viewarticle/brepocitinib-shows-positive-results-phase-3-dermatomyositis-2025a1000p1n?src=rss",
-            "description": "Once-daily oral brepocitinib 30 mg shows improvement in measures of skin and muscle disease in patients with dermatomyositis, compared with placebo, a...",
-            "pubDate": "2025-09-19T19:53:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "New study may help uncover the true impact of childhood lead exposure",
-            "link": "https://medicalxpress.com/news/2025-09-uncover-true-impact-childhood-exposure.html",
-            "description": "Lead exposure in childhood may be even more dangerous for cognitive development and school performance than previously thought, according to a new ana...",
-            "pubDate": "2025-09-19T19:10:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Repurposed Drugs Show Promise in Preventing T1D Progression",
-            "link": "https://www.medscape.com/viewarticle/repurposed-drugs-show-promise-preventing-t1d-progression-2025a1000p1z?src=rss",
-            "description": "New data suggest antithymocyte globulin, verapamil, and baricitinib might help preserve beta cell function in new-onset type 1 diabetes. Medscape Medi...",
-            "pubDate": "2025-09-19T20:59:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Multiple Nut Allergies May Predict Anaphylaxis Risk in Kids",
-            "link": "https://www.medscape.com/viewarticle/multiple-nut-allergies-may-predict-anaphylaxis-risk-children-2025a1000p1k?src=rss",
-            "description": "A Turkish study finds that multiple nut allergies are associated with a higher risk for anaphylaxis in children. Medscape Medical News",
-            "pubDate": "2025-09-19T19:25:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Inside the exam room: anxiety, trust, and medicine",
-            "link": "https://kevinmd.com/2025/09/inside-the-exam-room-anxiety-trust-and-medicine.html",
-            "description": "The door closes with a soft click, sealing me inside a room that smells of alcohol and cotton swabs. The light is too bright, pouring down from overhe...",
-            "pubDate": "2025-09-19T16:00:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "The ignored clinical trials on statins and mortality",
-            "link": "https://kevinmd.com/2025/09/the-ignored-clinical-trials-on-statins-and-mortality.html",
-            "description": "As a practicing internist and lipidologist, I have long been trained to believe in the cholesterol hypothesis. Statins were not just recommended; they...",
-            "pubDate": "2025-09-19T22:00:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Simple blood tests identify pregnant women at risk of serious complications from high blood pressure in Sierra Leone",
-            "link": "https://medicalxpress.com/news/2025-09-simple-blood-pregnant-women-complications.html",
-            "description": "Two simple blood tests could help to predict which pregnant women with high blood pressure are at risk of serious complications, including seizures, s...",
-            "pubDate": "2025-09-19T18:52:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Aid cuts hit Uganda hard. With worry and grit, it's finding new ways to save lives",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/19/g-s1-88001/health-care-aid-cuts-uganda",
+            "description": "Uganda is one of the countries that's greatly affected by the reduction of U.S. foreign aid. Here's how the health care system is responding — with tr...",
+            "pubDate": "2025-09-19T11:48:47",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1200+0+0/resize/1600x1200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2Fec%2F1df129f449c08c5db37682a175bd%2Fbrothel-4-jcs.jpg"
         },
         {
             "title": "A lawyer’s guide to physician side gigs",
             "link": "https://kevinmd.com/2025/09/a-lawyers-guide-to-physician-side-gigs.html",
             "description": "Remember the “before times” pre-pandemic, when most doctors had a single job that they went to every day, saw patients, did surgeries, took call for t...",
             "pubDate": "2025-09-19T18:00:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Why awe may be the missing pillar of lifestyle medicine",
+            "link": "https://kevinmd.com/2025/09/why-awe-may-be-the-missing-pillar-of-lifestyle-medicine.html",
+            "description": "Lifestyle medicine is now a known, respected and utilized aspect of medical care to help patients live healthier lives and ward off chronic disease. C...",
+            "pubDate": "2025-09-19T20:00:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Inside the exam room: anxiety, trust, and medicine",
+            "link": "https://kevinmd.com/2025/09/inside-the-exam-room-anxiety-trust-and-medicine.html",
+            "description": "The door closes with a soft click, sealing me inside a room that smells of alcohol and cotton swabs. The light is too bright, pouring down from overhe...",
+            "pubDate": "2025-09-19T16:00:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Brepocitinib Shows Positive Results in Dermatomyositis Trial",
+            "link": "https://www.medscape.com/viewarticle/brepocitinib-shows-positive-results-phase-3-dermatomyositis-2025a1000p1n?src=rss",
+            "description": "Once-daily oral brepocitinib 30 mg shows improvement in measures of skin and muscle disease in patients with dermatomyositis, compared with placebo, a...",
+            "pubDate": "2025-09-19T19:53:58",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Metabolism does more than fuel embryonic growth—it also controls the tempo of development, researchers discover",
-            "link": "https://medicalxpress.com/news/2025-09-metabolism-fuel-embryonic-growth-tempo.html",
-            "description": "Pregnant women rely on a balanced diet and supplements to deliver proper nutrients to their babies, to ensure they grow healthfully. Such nutrients co...",
-            "pubDate": "2025-09-19T19:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "What Is BMD’s Impact as a Surrogate Osteoporosis Endpoint?",
-            "link": "https://www.medscape.com/viewarticle/what-bmds-impact-surrogate-osteoporosis-endpoint-2025a1000p2b?src=rss",
-            "description": "Researchers hope that changes to total hip BMD will get approval from the FDA as a surrogate endpoint for clinical trials of investigational anti-oste...",
-            "pubDate": "2025-09-19T22:33:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Repurposed Drugs Show Promise in Preventing T1D Progression",
+            "link": "https://www.medscape.com/viewarticle/repurposed-drugs-show-promise-preventing-t1d-progression-2025a1000p1z?src=rss",
+            "description": "New data suggest antithymocyte globulin, verapamil, and baricitinib might help preserve beta cell function in new-onset type 1 diabetes. Medscape Medi...",
+            "pubDate": "2025-09-19T20:59:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Alpha cells moonlight as secret GLP-1 factories: Hormone shift could transform type 2 diabetes treatment",
@@ -166,11 +124,53 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Why awe may be the missing pillar of lifestyle medicine",
-            "link": "https://kevinmd.com/2025/09/why-awe-may-be-the-missing-pillar-of-lifestyle-medicine.html",
-            "description": "Lifestyle medicine is now a known, respected and utilized aspect of medical care to help patients live healthier lives and ward off chronic disease. C...",
-            "pubDate": "2025-09-19T20:00:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Full Scalp Hair Regrowth Possible With Oral JAK Inhibitor",
+            "link": "https://www.medscape.com/viewarticle/alopecia-areata-complete-scalp-hair-regrowth-possible-jak-2025a1000p27?src=rss",
+            "description": "Long-term results from the ALLEGRO clinical trial program of ritlecitinib show that complete scalp regrowth occurs in a good proportion of patients wi...",
+            "pubDate": "2025-09-19T21:40:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "New study may help uncover the true impact of childhood lead exposure",
+            "link": "https://medicalxpress.com/news/2025-09-uncover-true-impact-childhood-exposure.html",
+            "description": "Lead exposure in childhood may be even more dangerous for cognitive development and school performance than previously thought, according to a new ana...",
+            "pubDate": "2025-09-19T19:10:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Multiple Nut Allergies May Predict Anaphylaxis Risk in Kids",
+            "link": "https://www.medscape.com/viewarticle/multiple-nut-allergies-may-predict-anaphylaxis-risk-children-2025a1000p1k?src=rss",
+            "description": "A Turkish study finds that multiple nut allergies are associated with a higher risk for anaphylaxis in children. Medscape Medical News",
+            "pubDate": "2025-09-19T19:25:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "What Is BMD’s Impact as a Surrogate Osteoporosis Endpoint?",
+            "link": "https://www.medscape.com/viewarticle/what-bmds-impact-surrogate-osteoporosis-endpoint-2025a1000p2b?src=rss",
+            "description": "Researchers hope that changes to total hip BMD will get approval from the FDA as a surrogate endpoint for clinical trials of investigational anti-oste...",
+            "pubDate": "2025-09-19T22:33:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Metabolism does more than fuel embryonic growth—it also controls the tempo of development, researchers discover",
+            "link": "https://medicalxpress.com/news/2025-09-metabolism-fuel-embryonic-growth-tempo.html",
+            "description": "Pregnant women rely on a balanced diet and supplements to deliver proper nutrients to their babies, to ensure they grow healthfully. Such nutrients co...",
+            "pubDate": "2025-09-19T19:00:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "The ignored clinical trials on statins and mortality",
+            "link": "https://kevinmd.com/2025/09/the-ignored-clinical-trials-on-statins-and-mortality.html",
+            "description": "As a practicing internist and lipidologist, I have long been trained to believe in the cholesterol hypothesis. Statins were not just recommended; they...",
+            "pubDate": "2025-09-19T22:00:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "New initiative targets faster shock diagnosis and care with 'door to lactate clearance'",
+            "link": "https://medicalxpress.com/news/2025-09-faster-diagnosis-door-lactate-clearance.html",
+            "description": "A new initiative by The Society for Cardiovascular Angiography & Interventions (SCAI) proposes a new framework and call to action for managing cardiog...",
+            "pubDate": "2025-09-19T19:11:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Steroidal mineralocorticoid receptor antagonists show little mortality benefit in patients receiving dialysis",
