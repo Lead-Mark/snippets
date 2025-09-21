@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-20T02:12:58.873371",
+    "lastBuildDate": "2025-09-21T00:51:05.544092",
     "items": [
+        {
+            "title": "Pizza Ring",
+            "link": "https://therecipecritic.com/pizza-ring/",
+            "description": "Pizza night just got a glow-up! This fun pull-apart pizza ring is perfect for family dinner, game day, or a party…",
+            "pubDate": "2025-09-20T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/pizza-ring-1.jpg"
+        },
         {
             "title": "Weekly Meal Plan #59",
             "link": "https://therecipecritic.com/weekly-meal-plan-59/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/apple-dump-cake-1.jpg"
         },
         {
-            "title": "Air Fryer Teriyaki Salmon",
-            "link": "https://therecipecritic.com/air-fryer-teriyaki-salmon/",
-            "description": "Air fryer teriyaki salmon is the best fast and tasty meal! The salmon cooks up perfectly tender with crisp edges,…",
-            "pubDate": "2025-09-16T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/teriyaki-salmon-.jpg"
-        },
-        {
             "title": "The BEST Gluten-Free Pumpkin Bread (1 Bowl!)",
             "link": "https://minimalistbaker.com/best-gluten-free-pumpkin-bread/",
             "description": "Fall has three essentials: cozy sweaters, warming soups, and PUMPKIN BREAD! Whether your fond memories of this spice-filled treat are from Starbucks, ...",
@@ -40,11 +40,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/08/Gluten-Free-Pumpkin-Bread-11-680x1020.jpg"
         },
         {
-            "title": "20 Minute Garlic Shrimp Stir Fry",
-            "link": "https://therecipecritic.com/garlic-shrimp-stir-fry/",
-            "description": "Some nights you just need dinner on the table fast! That’s when this garlic shrimp stir fry saves the day. Juicy…",
-            "pubDate": "2025-09-15T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2018/02/garlic_shrimp_stir_fry-1-of-1.jpg"
+            "title": "Air Fryer Teriyaki Salmon",
+            "link": "https://therecipecritic.com/air-fryer-teriyaki-salmon/",
+            "description": "Air fryer teriyaki salmon is the best fast and tasty meal! The salmon cooks up perfectly tender with crisp edges,…",
+            "pubDate": "2025-09-16T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/teriyaki-salmon-.jpg"
         },
         {
             "title": "Cauliflower Salad with Dates & Pistachios",

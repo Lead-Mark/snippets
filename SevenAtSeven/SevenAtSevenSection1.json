@@ -2,91 +2,98 @@
     "title": "SevenAtSevenSection1",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-20T02:12:37.627981",
+    "lastBuildDate": "2025-09-21T00:50:44.755030",
     "items": [
         {
+            "title": "Man arrested after drive-by shooting at ABC TV station in Sacramento",
+            "link": "https://www.npr.org/2025/09/20/nx-s1-5548558/abc10-shooting-arrest",
+            "description": "At least three bullets were fired into the station, according to the Sacramento Police Department. Authorities are investigating a possible motive.",
+            "pubDate": "2025-09-21T00:19:38",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2134x840+0+0/resize/2134x840!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fd8%2Fba36864e49c684a23a5256ef688c%2Fimage-9-20-25-at-6-59-pm.jpeg"
+        },
+        {
+            "title": "Tropical Storm Gabrielle expected to become 2nd Atlantic hurricane of the season",
+            "link": "https://www.npr.org/2025/09/20/nx-s1-5548577/gabrielle-hurricane-bermuda-forecast",
+            "description": "Gabrielle is forecast to pass east of Bermuda, the U.S. mainland, and could rise to the strength of a Category 2 hurricane.",
+            "pubDate": "2025-09-21T01:08:32",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/897x736+0+0/resize/897x736!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2Fd9%2Fab951a1546fa955eb050d802fd1b%2Fimage.png"
+        },
+        {
+            "title": "Trump and MAGA movement will honor Charlie Kirk at Arizona memorial",
+            "link": "https://apnews.com/article/charlie-kirk-trump-memorial-service-b5469086954908b162f464da966cf238",
+            "description": "",
+            "pubDate": "2025-09-21T01:01:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Taylor Swift upcoming 'The Life of a Showgirl' to hit movie theatres",
+            "link": "https://www.npr.org/2025/09/20/nx-s1-5548557/taylor-swift-movie-showgirl-amc",
+            "description": "The global music icon is celebrating the release of her 12th studio album in theaters next month. Her Eras Tour movie, released with AMC in 2023, is t...",
+            "pubDate": "2025-09-20T22:18:50",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x341+0+0/resize/512x341!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fb8%2F3ba352b34cbeb3f69a78a0350df9%2Fap25150571172149.jpg"
+        },
+        {
+            "title": "California bans masks meant to hide law enforcement officers' identities",
+            "link": "https://www.npr.org/2025/09/20/nx-s1-5548532/newsom-trump-masked-ice-agents",
+            "description": "The law, opposed by police organizations, was aimed by lawmakers at immigration agents and will test state powers over the conduct of federal official...",
+            "pubDate": "2025-09-20T23:02:48",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4277x2852+0+0/resize/4277x2852!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F84%2F33%2F16e16a6e4635b27f81b9b08af280%2Fap25227692776939.jpg"
+        },
+        {
+            "title": "Trump's new $100K fee on H-1B visas will hurt the tech companies trying to woo him",
+            "link": "https://www.npr.org/2025/09/20/nx-s1-5548568/h1b-visa-fee-trump-tech",
+            "description": "More than half a million high-skilled U.S. workers are in the country through the H-1B program, which is heavily used by the big tech companies trying...",
+            "pubDate": "2025-09-20T22:56:33",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5621x3747+0+0/resize/5621x3747!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F9e%2F5e58bfd9452a91f09c1be1d710fc%2Fap25262759435425.jpg"
+        },
+        {
+            "title": "Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US",
+            "link": "https://techcrunch.com/2025/09/20/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/",
+            "description": "Large tech companies have responded to President Donald Trump’s dramatic changes to H-1B visa applications by telling employees with those visas to re...",
+            "pubDate": "2025-09-20T20:01:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
             "title": "Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram",
-            "link": "https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/",
+            "link": "https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/",
             "description": "President Trump signed a proclamation Friday requiring employers to pay a hefty $100,000 fee for new H-1B visa applications—an enormous jump from the ...",
-            "pubDate": "2025-09-20T02:34:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "pubDate": "2025-09-20T20:13:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Crime victims’ families say Chicago violence is a problem, but sending in troops isn’t the answer",
-            "link": "https://apnews.com/article/trump-chicago-crime-guard-troops-2f3f3b43d16e3f124e024dc7a5d913a0",
+            "title": "White House offers more details about potential TikTok deal",
+            "link": "https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/",
+            "description": "The White House press secretary said Americans will hold six of seven board seats in the restructured TikTok, and the video app’s algorithm will be U....",
+            "pubDate": "2025-09-20T21:09:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "New Hampshire country club shooting leaves 1 dead and several wounded. Suspect in custody",
+            "link": "https://apnews.com/article/country-club-shooting-new-hampshire-nashua-c971a42b7a0cb2eb44a48cade28cff27",
+            "description": "Authorities say a gunman opened fire in a New Hampshire country club on Saturday, killing one person and wounding several others.",
+            "pubDate": "2025-09-20T21:46:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Updates to Studio, YouTube Live, new gen AI tools, and everything else announced at Made on YouTube",
+            "link": "https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/",
+            "description": "YouTube unveiled tons of new updates, features, and tools geared toward creators.",
+            "pubDate": "2025-09-20T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "How Phoebe Gates and Sophia Kianni used Gen Z methods to raise $8M for Phia",
+            "link": "https://techcrunch.com/2025/09/20/how-phoebe-gates-and-sophia-kianni-used-gen-z-methods-to-raise-8m-for-phia/",
+            "description": "Phia raises $8M seed round in deal led by Kleiner Perkins.",
+            "pubDate": "2025-09-20T17:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "California bans most law enforcement officers from wearing masks during operations",
+            "link": "https://apnews.com/article/california-ice-agents-immigration-raids-masks-ban-97936f70699b75d8b483a850967c2e42",
             "description": "",
-            "pubDate": "2025-09-20T01:01:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Google isn’t kidding around about cost cutting, even slashing its FT subscription",
-            "link": "https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/",
-            "description": "These cuts may save Google mere thousands; they also come as Google faces increasingly strained relationships with news publishers.",
-            "pubDate": "2025-09-20T06:25:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "University where Charlie Kirk was shot confronts unwanted infamy",
-            "link": "https://apnews.com/article/utah-valley-university-charlie-kirk-fd5ca9b3b7338993970dd0a34dafb64b",
-            "description": "",
-            "pubDate": "2025-09-20T01:03:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "The Census Bureau is now headed by a Trump official in an acting position",
-            "link": "https://www.npr.org/2025/09/19/nx-s1-5288846/trump-census-bureau-director-george-cook",
-            "description": "George Cook is the Trump administration's new acting director of the Census Bureau, which has been thrust into the middle of a renewed attempt by Pres...",
-            "pubDate": "2025-09-19T19:11:04",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4216x2809+0+0/resize/4216x2809!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2Fd3%2F99c51ffd4ec7ae35417eedb02eb7%2Fap23128490466185.jpg"
-        },
-        {
-            "title": "Ted Cruz claims without evidence that China is funding U.S. climate lawsuits",
-            "link": "https://www.npr.org/2025/09/19/nx-s1-5544339/climate-change-lawsuits-fossil-fuels",
-            "description": "Republican Sen. Ted Cruz has said China is funding climate lawsuits against American oil and gas companies to weaken the U.S. He hasn't provided evide...",
-            "pubDate": "2025-09-19T21:57:10",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5794x3863+0+0/resize/5794x3863!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2Fbe%2F8528bef0468faeb0239f2651cee0%2Fap25229479934020.jpg"
-        },
-        {
-            "title": "'We are all Jimmy Kimmel': What late night hosts are saying about Kimmel's suspension",
-            "link": "https://www.npr.org/2025/09/19/nx-s1-5546839/jimmy-kimmel-trump-jimmy-fallon-seth-meyers-colbert",
-            "description": "The late night hosts warned about the future of free speech on their shows Thursday.",
-            "pubDate": "2025-09-19T19:11:44",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F3b%2F7d89891e4341b3b7f268717e9de1%2Fgettyimages-969631060.jpg"
-        },
-        {
-            "title": "Prosecutors rest their case in trial of man accused in attempted Trump assassination",
-            "link": "https://www.npr.org/2025/09/19/nx-s1-5545531/ryan-routh-trial-header-tktkt",
-            "description": "Ryan Routh is on trial for plotting to kill President Trump, while he golfed at his Florida course last year during the election campaign. Prosecutors...",
-            "pubDate": "2025-09-19T23:47:09",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2579x1719+0+0/resize/2579x1719!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2Fde%2F0a6fcd694d858fd58dac47e934ba%2Fap25254610834286.jpg"
-        },
-        {
-            "title": "CDC vaccine panel adds new rules for getting the COVID vaccine in a tense meeting",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545946/cdc-covid-vaccine-acip-recommendations",
-            "description": "The group voted to make people who want a COVID shot to be briefed on harms and benefits, but in a close vote, it failed to pass a proposal that state...",
-            "pubDate": "2025-09-19T21:05:47",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F9e%2F9ae34f094b61b335280f58507ebf%2Fgettyimages-2235563712.jpg"
-        },
-        {
-            "title": "How to Structure Seller Financing (Get a 5% Interest Rate!) (Rookie Reply)",
-            "link": "https://www.biggerpockets.com/blog/rookie-616",
-            "description": "Welcome to another Rookie Reply, where Ashley Kehr and Tony J. Robinson answer questions from the BiggerPockets Forums and Real Estate Rookie Facebook...",
-            "pubDate": "2025-09-19T12:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025",
-            "link": "https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/",
-            "description": "Rajat Bhageria (Chef Robotics), Ann Bordetsky (NEA), and Murali Joshi (ICONIQ) share actionable strategies for finding product-market fit at TechCrunc...",
-            "pubDate": "2025-09-19T21:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Nvidia eyes $500M investment into self-driving tech startup Wayve",
-            "link": "https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/",
-            "description": "Nvidia CEO Jensen Huang took his first ride in a Wayve-equipped self-driving car through Central London.",
-            "pubDate": "2025-09-19T21:55:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "pubDate": "2025-09-20T16:18:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "As Rhode Island’s “Taylor Swift Tax” on Vacation Homes Spreads, Here’s What Short-Term Rental Owners Need to Know",
@@ -96,39 +103,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "What a new poll shows about where Americans think the country is heading",
-            "link": "https://apnews.com/article/poll-republicans-direction-country-kirk-violence-economy-66e5a964a807a5a1412ef0596f37ec39",
-            "description": "A new poll shows Republicans’ outlook on the direction of the country has soured dramatically. The Associated Press-NORC Center for Public Affairs Res...",
-            "pubDate": "2025-09-19T08:01:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Why California’s SB 53 might provide a meaningful check on big AI companies",
-            "link": "https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/",
-            "description": "Equity debates California's new AI safety bill and why it has a better shot at becoming law.",
-            "pubDate": "2025-09-19T22:00:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
             "title": "Fed Cuts Rates: Who Needs to Rate Lock and Refinance ASAP",
             "link": "https://www.biggerpockets.com/blog/real-estate-1176",
             "description": "The Federal Reserve has finally cut rates. Will mortgage rates follow? If you’ve been waiting to rate lock or refinance, is now the time, or does the ...",
             "pubDate": "2025-09-19T12:00:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "How to Structure Seller Financing (Get a 5% Interest Rate!) (Rookie Reply)",
+            "link": "https://www.biggerpockets.com/blog/rookie-616",
+            "description": "Welcome to another Rookie Reply, where Ashley Kehr and Tony J. Robinson answer questions from the BiggerPockets Forums and Real Estate Rookie Facebook...",
+            "pubDate": "2025-09-19T12:00:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Monthly Stays and Steady Pay: 6 Steps to Mid-Term Rental Success",
             "link": "https://www.biggerpockets.com/blog/monthly-stays-and-steady-pay-6-steps-to-mid-term-rental-success",
             "description": "Imagine it’s 2019, and you’ve got a rental property that practically pays for itself. Tenants line up, rents climb every year, and cash flow feels lik...",
             "pubDate": "2025-09-18T22:19:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "10,000 Americans Turn 65 Daily—And There’s Nowhere for Them to Live",
             "link": "https://www.biggerpockets.com/blog/10000-americans-turn-65-daily-and-theres-nowhere-for-them-to-live",
             "description": "Every day in America, more than 10,000 people reach the age of 65. That’s a staggering number by itself, but the real tidal wave is still ahead. The p...",
             "pubDate": "2025-09-18T22:42:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

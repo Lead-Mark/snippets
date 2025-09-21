@@ -2,20 +2,83 @@
     "title": "INall",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INall, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-20T02:13:01.304196",
+    "lastBuildDate": "2025-09-21T00:51:07.494122",
     "items": [
+        {
+            "title": "Early Signs of Alzheimer’s: What to Look For",
+            "link": "https://www.webmd.com/alzheimers/understanding-alzheimers-disease-symptoms",
+            "description": "Alzheimer’s affects memory, thinking, and daily routines -- gradually and in different ways over time. Learn how symptoms can appear at each stage of ...",
+            "pubDate": "2025-09-20T03:12:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Google isn’t kidding around about cost cutting, even slashing its FT subscription",
+            "link": "https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/",
+            "description": "These cuts may save Google mere thousands; they also come as Google faces increasingly strained relationships with news publishers.",
+            "pubDate": "2025-09-20T07:25:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Does Liver Detox Really Work? What to Know Before You Try It",
+            "link": "https://www.webmd.com/fatty-liver-disease/liver-detox",
+            "description": "",
+            "pubDate": "2025-09-20T03:12:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
         {
             "title": "Netflix Buying Warner Bros. Would Break My Heart",
             "link": "https://screenrant.com/netflix-buying-warner-bros-heartbreaking/",
             "description": "No description available",
             "pubDate": "2025-09-20T03:12:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "A Rare Virgo New Moon Solar Eclipse Is On Its Way—Here's What To Know",
+            "link": "https://www.mindbodygreen.com/articles/virgo-new-moon-solar-eclipse",
+            "description": "And it's a solar eclipse.",
+            "pubDate": "2025-09-20T01:41:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Bullets Rip Through Local ABC News Station In Sacramento, Cops Say",
+            "link": "https://www.tmz.com/2025/09/19/bullets-rip-through-abc-local-news-station-sacramento/",
+            "description": "Three bullets pierced through a local ABC news station in California's capital ... and people were inside working when the shooter opened fire. Cops i...",
+            "pubDate": "2025-09-20T02:40:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Superman Vs Man of Steel Box Office Battle Breakdown: Who Wins?",
+            "link": "https://screenrant.com/superman-man-of-steel-box-office-breakdown-winner/",
+            "description": "No description available",
+            "pubDate": "2025-09-20T03:12:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Star Wars Finally Explains Rey & Kylo's The Force Dyad",
+            "link": "https://screenrant.com/star-wars-rise-of-skywalker-force-dyad-confirmed/",
+            "description": "No description available",
+            "pubDate": "2025-09-20T03:12:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Here's What Your Zodiac Sign Needs To Know For September's Rare New Moon",
             "link": "https://www.mindbodygreen.com/articles/new-moon-solar-eclipse-virgo-horoscope-september-2025",
             "description": "It's in Virgo.",
             "pubDate": "2025-09-20T03:25:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "'Bachelor in Paradise' Jess Edwards Reveals What She Did With the Money",
+            "link": "https://www.tmz.com/2025/09/19/bachelor-in-paradise-jess-edwards-spencer-conley-money-plans/",
+            "description": "Jess Edwards -- who found forever love and ended the recent season of 'Bachelor in Paradise' engaged to Spencer Conley -- has revealed what they decid...",
+            "pubDate": "2025-09-20T01:41:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram",
+            "link": "https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/",
+            "description": "President Trump signed a proclamation Friday requiring employers to pay a hefty $100,000 fee for new H-1B visa applications—an enormous jump from the ...",
+            "pubDate": "2025-09-20T03:34:22",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
@@ -23,112 +86,28 @@
             "link": "https://www.webmd.com/healthy-aging/milestone-medical-tests-60-up",
             "description": "",
             "pubDate": "2025-09-20T03:12:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Why Ariana Grande opting out of dynamic pricing might actually help ticket scalpers — and not her fans",
             "link": "https://www.marketwatch.com/story/why-ariana-grande-opting-out-of-dynamic-pricing-might-actually-help-ticket-scalpers-and-not-her-fans-9646ec39?mod=mw_rss_topstories",
             "description": "Though consumers often assume they lose out with dynamic pricing, experts say that’s not always the case.",
             "pubDate": "2025-09-20T00:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Bullets Rip Through Local ABC News Station In Sacramento, Cops Say",
-            "link": "https://www.tmz.com/2025/09/19/bullets-rip-through-abc-local-news-station-sacramento/",
-            "description": "Three bullets pierced through a local ABC news station in California's capital ... and people were inside working when the shooter opened fire. Cops i...",
-            "pubDate": "2025-09-20T02:40:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Does Liver Detox Really Work? What to Know Before You Try It",
-            "link": "https://www.webmd.com/fatty-liver-disease/liver-detox",
-            "description": "",
-            "pubDate": "2025-09-20T03:12:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "'Bachelor in Paradise' Jess Edwards Reveals What She Did With the Money",
-            "link": "https://www.tmz.com/2025/09/19/bachelor-in-paradise-jess-edwards-spencer-conley-money-plans/",
-            "description": "Jess Edwards -- who found forever love and ended the recent season of 'Bachelor in Paradise' engaged to Spencer Conley -- has revealed what they decid...",
-            "pubDate": "2025-09-20T01:41:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Superman Vs Man of Steel Box Office Battle Breakdown: Who Wins?",
-            "link": "https://screenrant.com/superman-man-of-steel-box-office-breakdown-winner/",
-            "description": "No description available",
-            "pubDate": "2025-09-20T03:12:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Early Signs of Alzheimer’s: What to Look For",
-            "link": "https://www.webmd.com/alzheimers/understanding-alzheimers-disease-symptoms",
-            "description": "Alzheimer’s affects memory, thinking, and daily routines -- gradually and in different ways over time. Learn how symptoms can appear at each stage of ...",
-            "pubDate": "2025-09-20T03:12:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "A Rare Virgo New Moon Solar Eclipse Is On Its Way—Here's What To Know",
-            "link": "https://www.mindbodygreen.com/articles/virgo-new-moon-solar-eclipse",
-            "description": "And it's a solar eclipse.",
-            "pubDate": "2025-09-20T01:41:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram",
-            "link": "https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/",
-            "description": "President Trump signed a proclamation Friday requiring employers to pay a hefty $100,000 fee for new H-1B visa applications—an enormous jump from the ...",
-            "pubDate": "2025-09-20T03:34:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Star Wars Finally Explains Rey & Kylo's The Force Dyad",
-            "link": "https://screenrant.com/star-wars-rise-of-skywalker-force-dyad-confirmed/",
-            "description": "No description available",
-            "pubDate": "2025-09-20T03:12:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Why California’s SB 53 might provide a meaningful check on big AI companies",
-            "link": "https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/",
-            "description": "Equity debates California's new AI safety bill and why it has a better shot at becoming law.",
-            "pubDate": "2025-09-19T23:00:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "American Express Membership Rewards: How to earn, redeem and transfer points",
-            "link": "https://thepointsguy.com/loyalty-programs/ultimate-guide-amex-membership-rewards/",
-            "description": "Here's everything to know about earning, spending and maximizing your travel with American Express Membership Rewards points.",
-            "pubDate": "2025-09-19T19:00:11",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Stocks tend to suffer in the second half of September — but the Fed’s rate cut might keep bears at bay",
-            "link": "https://www.marketwatch.com/story/stocks-tend-to-suffer-in-the-second-half-of-september-but-the-feds-rate-cut-might-keep-bears-at-bay-6aa7d63b?mod=mw_rss_topstories",
-            "description": "History suggests it could be a downhill ride for stocks through the end of September.",
-            "pubDate": "2025-09-19T23:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "First look: Secrets and Dreams Playa Esmeralda bring all-inclusive vacationing to a secluded Dominican beach",
-            "link": "https://thepointsguy.com/hotel/reviews/first-look-secrets-dreams-playa-esmeralda/",
-            "description": "There's a new Dominican destination emerging in Miches, and these new resorts are ready to show travelers why they should make the 90-minute trek from...",
-            "pubDate": "2025-09-19T22:00:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Nvidia eyes $500M investment into self-driving tech startup Wayve",
-            "link": "https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/",
-            "description": "Nvidia CEO Jensen Huang took his first ride in a Wayve-equipped self-driving car through Central London.",
-            "pubDate": "2025-09-19T22:55:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Trump touts TikTok deal but doesn’t address fear that China ‘retains a veto’",
+            "link": "https://www.marketwatch.com/story/trump-touts-tiktok-deal-but-doesnt-address-fear-that-china-retains-a-veto-29910753?mod=mw_rss_topstories",
+            "description": "Here’s the latest on the Trump administration’s agreement with China on TikTok.",
+            "pubDate": "2025-09-19T23:08:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Taylor Swift tries to save the movie industry again with ‘Showgirl’ film release",
             "link": "https://www.marketwatch.com/story/taylor-swift-tries-to-save-the-movie-industry-again-with-showgirl-film-release-8a1653e0?mod=mw_rss_topstories",
             "description": "“Taylor Swift: The Official Release Party of a Showgirl” will hit theaters on Oct. 3, the same day her upcoming album drops.",
             "pubDate": "2025-09-19T23:47:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "23 best all-inclusive resorts in the world",
@@ -138,46 +117,67 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Trump touts TikTok deal but doesn’t address fear that China ‘retains a veto’",
-            "link": "https://www.marketwatch.com/story/trump-touts-tiktok-deal-but-doesnt-address-fear-that-china-retains-a-veto-29910753?mod=mw_rss_topstories",
-            "description": "Here’s the latest on the Trump administration’s agreement with China on TikTok.",
-            "pubDate": "2025-09-19T23:08:00",
+            "title": "American Express Membership Rewards: How to earn, redeem and transfer points",
+            "link": "https://thepointsguy.com/loyalty-programs/ultimate-guide-amex-membership-rewards/",
+            "description": "Here's everything to know about earning, spending and maximizing your travel with American Express Membership Rewards points.",
+            "pubDate": "2025-09-19T19:00:11",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Is the revamped American Express Platinum card worth the $895 fee? This new perk may seal the deal.",
-            "link": "https://www.marketwatch.com/story/is-the-revamped-american-express-platinum-card-worth-the-895-fee-this-new-perk-may-seal-the-deal-49497124?mod=mw_rss_topstories",
-            "description": "American Express is seeking to address longstanding customer complaints that it is difficult to track statement credits.",
-            "pubDate": "2025-09-19T22:54:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Southwest Performance Business card review: Solid benefits for Southwest's most frequent flyers",
-            "link": "https://thepointsguy.com/credit-cards/reviews/southwest-performance-business-credit-card-review/",
-            "description": "Southwest Airlines' Performance Business card offers solid benefits for frequent Southwest flyers and high earning rates. Here's what you need to know...",
-            "pubDate": "2025-09-19T20:00:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Why do airports invite fake passengers to test new terminals?",
             "link": "https://thepointsguy.com/guide/airports-fake-passengers-test-new-terminals/",
             "description": "Airports conduct public trial days where volunteers act as passengers to help make sure everything is truly ready for the big day.",
             "pubDate": "2025-09-19T21:00:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "First look: Secrets and Dreams Playa Esmeralda bring all-inclusive vacationing to a secluded Dominican beach",
+            "link": "https://thepointsguy.com/hotel/reviews/first-look-secrets-dreams-playa-esmeralda/",
+            "description": "There's a new Dominican destination emerging in Miches, and these new resorts are ready to show travelers why they should make the 90-minute trek from...",
+            "pubDate": "2025-09-19T22:00:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Why California’s SB 53 might provide a meaningful check on big AI companies",
+            "link": "https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/",
+            "description": "Equity debates California's new AI safety bill and why it has a better shot at becoming law.",
+            "pubDate": "2025-09-19T23:00:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Is the revamped American Express Platinum card worth the $895 fee? This new perk may seal the deal.",
+            "link": "https://www.marketwatch.com/story/is-the-revamped-american-express-platinum-card-worth-the-895-fee-this-new-perk-may-seal-the-deal-49497124?mod=mw_rss_topstories",
+            "description": "American Express is seeking to address longstanding customer complaints that it is difficult to track statement credits.",
+            "pubDate": "2025-09-19T22:54:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Nvidia eyes $500M investment into self-driving tech startup Wayve",
+            "link": "https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/",
+            "description": "Nvidia CEO Jensen Huang took his first ride in a Wayve-equipped self-driving car through Central London.",
+            "pubDate": "2025-09-19T22:55:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Southwest Performance Business card review: Solid benefits for Southwest's most frequent flyers",
+            "link": "https://thepointsguy.com/credit-cards/reviews/southwest-performance-business-credit-card-review/",
+            "description": "Southwest Airlines' Performance Business card offers solid benefits for frequent Southwest flyers and high earning rates. Here's what you need to know...",
+            "pubDate": "2025-09-19T20:00:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots",
             "link": "https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/",
             "description": "In a chaotic meeting, ACIP voted not to recommend a prescription requirement for Covid-19 vaccines. Some panelists seemed unaware of the point of the ...",
             "pubDate": "2025-09-19T23:39:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025",
-            "link": "https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/",
-            "description": "Rajat Bhageria (Chef Robotics), Ann Bordetsky (NEA), and Murali Joshi (ICONIQ) share actionable strategies for finding product-market fit at TechCrunc...",
-            "pubDate": "2025-09-19T22:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Stocks tend to suffer in the second half of September — but the Fed’s rate cut might keep bears at bay",
+            "link": "https://www.marketwatch.com/story/stocks-tend-to-suffer-in-the-second-half-of-september-but-the-feds-rate-cut-might-keep-bears-at-bay-6aa7d63b?mod=mw_rss_topstories",
+            "description": "History suggests it could be a downhill ride for stocks through the end of September.",
+            "pubDate": "2025-09-19T23:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }
