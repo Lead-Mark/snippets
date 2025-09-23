@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-22T17:19:55.916677",
+    "lastBuildDate": "2025-09-23T06:24:55.749660",
     "items": [
+        {
+            "title": "Pillowy Gluten-Free Pita (from Aran Goyoaga’s Cookbook)",
+            "link": "https://minimalistbaker.com/gluten-free-pita/",
+            "description": "We’ve long admired the super talented gluten-free chef and baker Aran Goyoaga. But our status went from fans to super fans last year when she posted a...",
+            "pubDate": "2025-09-23T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/08/Pillowy-Gluten-Free-Pita-Aran-Goyoaga-12-680x1020.jpg"
+        },
         {
             "title": "Loaded Baked Potato Dip",
             "link": "https://therecipecritic.com/loaded-baked-potato-dip/",
@@ -59,13 +66,6 @@
             "description": "The perfect late-summer weeknight dish is here: Garlicky Cherry Tomato Pasta with White Beans! It’s a go-to in our kitchen when we’re craving somethin...",
             "pubDate": "2025-08-19T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/04/Garlicky-Cherry-Tomato-Pasta-with-White-Beans-8-680x1020.jpg"
-        },
-        {
-            "title": "Crispy Oven Roasted Okra",
-            "link": "https://minimalistbaker.com/crispy-oven-roasted-okra/",
-            "description": "Into okra, but not when it’s slimy? Us too. Inspired by an amazing charred okra dish at Launderette, we’re bringing you a reliable roasted okra recipe...",
-            "pubDate": "2025-08-05T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/05/Crispy-Oven-Roasted-Okra-11-680x1020.jpg"
         }
     ]
 }
