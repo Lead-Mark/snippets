@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.technologyreview.com/feed/",
     "link": "https://www.technologyreview.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-09-23T13:14:11.360580",
+    "lastBuildDate": "2025-09-23T17:16:26.143685",
     "items": [
+        {
+            "title": "Roundtables: Meet the 2025 Innovator of the Year",
+            "link": "https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/",
+            "description": "Every year, MIT Technology Review selects one individual whose work we admire to recognize as Innovator of the Year. For 2025, we chose Sneha Goenka, ...",
+            "pubDate": "2025-09-23T20:12:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
         {
             "title": "The Download: AI’s retracted papers problem",
             "link": "https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/",
@@ -16,7 +23,7 @@
             "link": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
             "description": "Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by...",
             "pubDate": "2025-09-23T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "The Download: the LLM will see you now, and a new fusion power deal",
@@ -31,13 +38,6 @@
             "description": "Eni, one of the world’s largest oil and gas companies, just agreed to buy $1 billion in electricity from a power plant being built by Commonwealth Fus...",
             "pubDate": "2025-09-22T12:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "This medical startup uses LLMs to run appointments and make diagnoses",
-            "link": "https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/",
-            "description": "Imagine this: You’ve been feeling unwell, so you call up your doctor’s office to make an appointment. To your surprise, they schedule you in for the n...",
-            "pubDate": "2025-09-22T10:10:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         }
     ]
 }
