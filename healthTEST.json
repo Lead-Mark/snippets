@@ -2,14 +2,28 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-26T11:05:20.497710",
+    "lastBuildDate": "2025-09-27T01:21:47.174110",
     "items": [
         {
-            "title": "Outcomes of Critically Ill Adult Patients With Acute Encephalitis",
-            "link": "https://www.2minutemedicine.com/outcomes-of-critically-ill-adult-patients-with-acute-encephalitis/",
-            "description": "1. Poor prognosis (disability or death) at 3 months was observed in half of adult patients with severe encephalitis requiring intensive care unit care...",
-            "pubDate": "2025-09-26T00:00:20",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/MRI_T2_Brain_axial_image-300x150.jpg"
+            "title": "Lactate-to-albumin ratio and 28 day mortality in hypertensive patients with atrial fibrillation: a retrospective cohort study",
+            "link": "https://www.2minutemedicine.com/lactate-to-albumin-ratio-and-28-day-mortality-in-hypertensive-patients-with-atrial-fibrillation-a-retrospective-cohort-study/",
+            "description": "1. The lactate-to-albumin ratio was an independent predictor of 28-day mortality in hypertensive patients with atrial fibrillation. Evidence Rating Le...",
+            "pubDate": "2025-09-27T00:00:17",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/heart-cardiovascular-cardiac-PD-300x150.jpg"
+        },
+        {
+            "title": "RFK Jr. 'rejects' a U.N. declaration on non-communicable diseases",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/26/g-s1-90660/rfk-jr-united-nations-noncommunicable-diseases",
+            "description": "Global health leaders expressed dismay at Kennedy's objection but vowed to move forward without the support of the U.S.",
+            "pubDate": "2025-09-26T18:03:10",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Ff4%2F4e1a6495419e90218eca28b338da%2Frfk-jr-1.jpg"
+        },
+        {
+            "title": "There was a different vibe at the U.N. General Assembly. 5 attendees weigh in",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/26/g-s1-90731/united-nations-general-assembly",
+            "description": "It's the first high level U.N. gathering since the U.S. foreign aid cuts under the Trump Administration. What were people thinking — and talking about...",
+            "pubDate": "2025-09-26T21:02:15",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4188x2792+0+0/resize/4188x2792!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F60%2F65b2a2654b6e8a8366160479b6d2%2Fgettyimages-2161729346.jpg"
         },
         {
             "title": "'Long history of blaming mothers': Trump's Tylenol warning echoes past misconceptions",
@@ -19,88 +33,102 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5342x3393+0+0/resize/5342x3393!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2F62%2F21ba67f443e7bc4214e07d024104%2Fgettyimages-2236788534.jpg"
         },
         {
-            "title": "FDA Removes REMS Program for Thyroid Cancer Drug Vandetanib",
-            "link": "https://www.medscape.com/viewarticle/fda-removes-rems-program-thyroid-cancer-drug-vandetanib-2025a1000pto?src=rss",
-            "description": "REMS assessments found no cases of Torsades de pointes or unexplained sudden deaths among patients taking vandetanib during more than a decade of over...",
-            "pubDate": "2025-09-26T13:59:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Outcomes of Critically Ill Adult Patients With Acute Encephalitis",
+            "link": "https://www.2minutemedicine.com/outcomes-of-critically-ill-adult-patients-with-acute-encephalitis/",
+            "description": "1. Poor prognosis (disability or death) at 3 months was observed in half of adult patients with severe encephalitis requiring intensive care unit care...",
+            "pubDate": "2025-09-26T00:00:20",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/MRI_T2_Brain_axial_image-300x150.jpg"
         },
         {
-            "title": "Obesity Treatment: Study Backs Dual-Drug Strategy",
-            "link": "https://www.medscape.com/viewarticle/obesity-treatment-study-backs-dual-drug-strategy-2025a1000pu3?src=rss",
-            "description": "In the SIBAMATE study, more than 60% of patients lost at least 5% of body weight after 3 months of using sibutramine-topiramate. Medscape Medical News",
-            "pubDate": "2025-09-26T14:35:18",
+            "title": "Soccer: Innovative performance diagnostics for girls",
+            "link": "https://medicalxpress.com/news/2025-09-soccer-diagnostics-girls.html",
+            "description": "The SCoRE tool developed at the University of Würzburg reliably records the soccer skills of girls in real game situations for the first time. It is a...",
+            "pubDate": "2025-09-26T17:42:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Targeted Kinase Inhibitor Active in Cicatricial Alopecias",
+            "link": "https://www.medscape.com/viewarticle/jak3-tec-inhibitor-shows-meaningful-activity-against-2025a1000pwe?src=rss",
+            "description": "A dual JAK3/TEC inhibitor already approved for alopecia areata was associated with hair regrowth in several forms of cicatricial alopecia that have no...",
+            "pubDate": "2025-09-26T20:28:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Why mild and female hemophilia must be recognized",
+            "link": "https://kevinmd.com/2025/09/why-mild-and-female-hemophilia-must-be-recognized.html",
+            "description": "People living with inherited bleeding disorders (including those with mild and moderate hemophilia and females affected by hemophilia) face persistent...",
+            "pubDate": "2025-09-26T14:00:45",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Children with chronic conditions may face higher risk of food insecurity, study suggests",
-            "link": "https://medicalxpress.com/news/2025-09-children-chronic-conditions-higher-food.html",
-            "description": "Food insecurity is more common among children with a chronic medical condition than those without one, a new study suggests.",
-            "pubDate": "2025-09-26T16:00:04",
+            "title": "mRNA vaccine shows promise for treating age-related macular degeneration",
+            "link": "https://medicalxpress.com/news/2025-09-mrna-vaccine-age-macular-degeneration.html",
+            "description": "An mRNA vaccine developed by researchers from Japan suppressed abnormal blood vessel growth or neovascularization in the retina of mouse models. Neova...",
+            "pubDate": "2025-09-26T18:09:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "SCIT Shows Promise in House Dust Mite Allergy",
+            "link": "https://www.medscape.com/viewarticle/subcutaneous-allergen-immunotherapy-shows-promise-moderate-2025a1000pwb?src=rss",
+            "description": "In patients with moderate-to-severe allergic rhinoconjunctivitis induced by house dust mites, subcutaneous allergen immunotherapy is effective and gen...",
+            "pubDate": "2025-09-26T19:57:11",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "How a single protein rewires leukemia cells to fuel their growth",
-            "link": "https://medicalxpress.com/news/2025-09-protein-rewires-leukemia-cells-fuel.html",
-            "description": "Cancer cells are relentless in their quest to grow and divide, often rewiring their metabolism and modifying RNA to stay one step ahead. Now, research...",
-            "pubDate": "2025-09-26T16:00:09",
+            "title": "Women With Alzheimer’s Show Unique Fatty Acid Deficits",
+            "link": "https://www.medscape.com/s/viewarticle/women-alzheimers-show-unique-fatty-acid-deficits-2025a1000pvg?src=rss",
+            "description": "Distinct fatty acid deficits may help explain why Alzheimer’s affects women differently. Medscape Medical News",
+            "pubDate": "2025-09-26T21:00:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Volumetric study shows objective effects of hyaluronic acid filler injections",
+            "link": "https://medicalxpress.com/news/2025-09-volumetric-effects-hyaluronic-acid-filler.html",
+            "description": "Initial and follow-up 3D digital scans provide new insights into the effects of hyaluronic acid (HA) fillers in restoring facial volume and fullness, ...",
+            "pubDate": "2025-09-26T17:43:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Sprout Organics widens recall of baby food pouches for possible lead",
+            "link": "https://medicalxpress.com/news/2025-09-widens-recall-baby-food-pouches.html",
+            "description": "Sprout Organics has widened its recall of 3.5-ounce Sweet Potato, Apple & Spinach pouches because some lots may contain elevated levels of lead.",
+            "pubDate": "2025-09-26T18:24:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Navigating Patient Confusion on Processed Foods",
-            "link": "https://www.medscape.com/s/viewarticle/navigating-patient-confusion-processed-foods-2025a1000pq7?src=rss",
-            "description": "Patients are confused about which processed foods are harmful. Here’s how you can guide them. Medscape Medical News",
-            "pubDate": "2025-09-26T15:07:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "MHRA Launches Commission to Speed NHS Use of AI",
+            "link": "https://www.medscape.com/viewarticle/mhra-launches-commission-speed-nhs-use-ai-2025a1000pw7?src=rss",
+            "description": "The MHRA has announced a new national commission bringing together tech firms, clinicians, researchers, and patient advocates to accelerate AI adoptio...",
+            "pubDate": "2025-09-26T19:51:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Should Children Be Prescribed Anti-Obesity Drugs?",
-            "link": "https://www.medscape.com/viewarticle/should-children-be-prescribed-anti-obesity-drugs-2025a1000ptg?src=rss",
-            "description": "Experts in Europe are concerned about what the global GLP-1 agonist excitement could mean for childhood obesity, which can already be tackled by other...",
-            "pubDate": "2025-09-26T14:09:19",
+            "title": "Crypto trading’s impact on mental and physical health",
+            "link": "https://kevinmd.com/2025/09/crypto-tradings-impact-on-mental-and-physical-health.html",
+            "description": "In 2024, centralized cryptocurrency exchanges recorded approximately USD 18.4 trillion in trading volume, with Binance alone accounting for forty perc...",
+            "pubDate": "2025-09-26T12:00:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Acupuncture Eases Chronic Low Back Pain, Boosts Function",
+            "link": "https://www.medscape.com/viewarticle/acupuncture-eases-chronic-low-back-pain-boosts-physical-2025a1000pwm?src=rss",
+            "description": "Acupuncture was more effective at improving symptoms of chronic low back pain in older adults compared to usual care, a new clinical trial shows. Meds...",
+            "pubDate": "2025-09-26T21:50:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Thinking outside the box to fabricate customized 3D neural chips",
+            "link": "https://medicalxpress.com/news/2025-09-fabricate-customized-3d-neural-chips.html",
+            "description": "Cultured neural tissues have been widely used as a simplified experimental model for brain research. However, existing devices for growing and recordi...",
+            "pubDate": "2025-09-26T17:50:03",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "In-home gun homicides of children has more than doubled since 2010: Study",
-            "link": "https://medicalxpress.com/news/2025-09-home-gun-homicides-children.html",
-            "description": "Nearly one-quarter of child and adolescent victims of firearm homicide were killed in their own homes from 2020-2021, including nearly two-thirds of c...",
-            "pubDate": "2025-09-26T15:50:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Safety-net hospitals carry the highest cost of gun injuries, analysis finds",
-            "link": "https://medicalxpress.com/news/2025-09-safety-net-hospitals-highest-gun.html",
-            "description": "The initial hospital treatment of firearm injuries cost the U.S. health care system an estimated $7.7 billion between 2016 and 2021, with the largest ...",
-            "pubDate": "2025-09-26T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Telestroke patients may be more likely to receive treatment—but with greater delays",
-            "link": "https://medicalxpress.com/news/2025-09-telestroke-patients-treatment-greater-delays.html",
-            "description": "Stroke patients evaluated using telemedicine (telestroke) have higher odds of receiving essential treatment, yet it takes them significantly longer to...",
-            "pubDate": "2025-09-26T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Should You Be Satisfied With ‘Just’ a Medical Degree?",
-            "link": "https://www.medscape.com/viewarticle/should-you-be-satisfied-just-medical-degree-2025a1000ptq?src=rss",
-            "description": "With the future of healthcare increasingly uncertain, more doctors are seeking MBAs, MPHs, and other degrees to expand their talents and drive systemi...",
-            "pubDate": "2025-09-26T14:12:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Early Blood Pressure Targets in Acute Spinal Cord Injury: A Randomized Clinical Trial",
-            "link": "https://www.2minutemedicine.com/early-blood-pressure-targets-in-acute-spinal-cord-injury-a-randomized-clinical-trial/",
-            "description": "1. Early augmented blood pressure management did not result in better neurological recovery compared with conventional blood pressure management at 6 ...",
-            "pubDate": "2025-09-25T00:00:53",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/04/bloodpressure2_PD_edited-300x150.jpg"
-        },
-        {
-            "title": "VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?",
-            "link": "https://www.npr.org/2025/09/25/g-s1-90435/tylenol-autism-health",
-            "description": "President Trump linked Tylenol to autism despite little medical evidence. How are Americans meant to make important decisions about their health at th...",
-            "pubDate": "2025-09-25T15:00:22",
-            "image_url": "https://feeds.npr.org/1128/undefined"
+            "title": "Why nurse-initiated sepsis protocols are transforming patient care and hospital efficiency [PODCAST]",
+            "link": "https://kevinmd.com/2025/09/why-nurse-initiated-sepsis-protocols-are-transforming-patient-care-and-hospital-efficiency-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Chief nursing officer Rhonda Collins discusses her article “Nurse-ini...",
+            "pubDate": "2025-09-26T00:00:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Tylenol in the Spotlight: Pregnancy, Autism, and Evolving Guidance on Acetaminophen use",
@@ -117,11 +145,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
         },
         {
-            "title": "Leucovorin for autism? Many scientists — and parents — are skeptical",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/09/25/nx-s1-5552751/autism-leucovorin-folinic-acid-folate-vitamin-reality-check",
-            "description": "President Trump says an old drug that acts like a vitamin can reduce autism symptoms in many children. The science doesn't support that claim.",
-            "pubDate": "2025-09-25T14:02:31",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2F11%2Fbdfea5c94178856637a7e186a82e%2Fgettyimages-2236805445.jpg"
+            "title": "Trump advises parents on hepatitis B vaccine. Here's why doctors say he's wrong",
+            "link": "https://www.npr.org/2025/09/25/nx-s1-5553541/trump-advises-parents-on-hepatitis-b-vaccine-heres-why-doctors-say-hes-wrong",
+            "description": "It's unusual for presidents to give medical advice. But this week, President Trump told parents to delay giving their kids a hep b shot until they tur...",
+            "pubDate": "2025-09-25T19:13:42",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1500+0+0/resize/2000x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2Fc9%2F41f673d74cdea95b4c057a15605d%2Fgettyimages-1472595792.jpg"
         },
         {
             "title": "The U.N. utters the word: Dementia",
@@ -131,53 +159,25 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2Fd5%2Faab335794b98875b57fdf570dd1b%2Fdementia-kenya-1.jpg"
         },
         {
-            "title": "Trump advises parents on hepatitis B vaccine. Here's why doctors say he's wrong",
-            "link": "https://www.npr.org/2025/09/25/nx-s1-5553541/trump-advises-parents-on-hepatitis-b-vaccine-heres-why-doctors-say-hes-wrong",
-            "description": "It's unusual for presidents to give medical advice. But this week, President Trump told parents to delay giving their kids a hep b shot until they tur...",
-            "pubDate": "2025-09-25T19:13:42",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1500+0+0/resize/2000x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2Fc9%2F41f673d74cdea95b4c057a15605d%2Fgettyimages-1472595792.jpg"
+            "title": "Early Blood Pressure Targets in Acute Spinal Cord Injury: A Randomized Clinical Trial",
+            "link": "https://www.2minutemedicine.com/early-blood-pressure-targets-in-acute-spinal-cord-injury-a-randomized-clinical-trial/",
+            "description": "1. Early augmented blood pressure management did not result in better neurological recovery compared with conventional blood pressure management at 6 ...",
+            "pubDate": "2025-09-25T00:00:53",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/04/bloodpressure2_PD_edited-300x150.jpg"
         },
         {
-            "title": "How collective action is shaping physician empowerment and patient care [PODCAST]",
-            "link": "https://kevinmd.com/2025/09/how-collective-action-is-shaping-physician-empowerment-and-patient-care-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Physician leader Janet A. Jokela discusses its article “Collective ac...",
-            "pubDate": "2025-09-25T00:00:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "A doctor’s duty on 9/11 in a small town",
-            "link": "https://kevinmd.com/2025/09/a-doctors-duty-on-9-11-in-a-small-town.html",
-            "description": "The vow was not ceremonial. It was lived. We were in Waverly, Ohio on 9/11, a town that did not make headlines, but held its own kind of gravity. The ...",
-            "pubDate": "2025-09-25T16:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "The art of pretending in medicine and family",
+            "link": "https://kevinmd.com/2025/09/the-art-of-pretending-in-medicine-and-family.html",
+            "description": "“Do you have a key?” my grandma asks me. I hesitate and she repeats herself, “Do you have a key to this place?” She is sitting in a hospital chair beh...",
+            "pubDate": "2025-09-25T20:00:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Digital mental health’s $20 billion blind spot",
             "link": "https://kevinmd.com/2025/09/digital-mental-healths-20-billion-blind-spot.html",
             "description": "As a founder in digital mental health, I’ve watched our industry celebrate reaching $8.34 billion in valuation while systematically failing 40 percent...",
             "pubDate": "2025-09-25T18:00:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "How India-Pakistan tensions could break America’s generic drug pipeline",
-            "link": "https://kevinmd.com/2025/09/how-india-pakistan-tensions-could-break-americas-generic-drug-pipeline.html",
-            "description": "With over 270 active drug shortages and growing global instability, the United States must protect itself from a worsening crisis in cancer care. The ...",
-            "pubDate": "2025-09-25T14:00:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Why we may be fighting the wrong enemy in heart disease",
-            "link": "https://kevinmd.com/2025/09/why-we-may-be-fighting-the-wrong-enemy-in-heart-disease.html",
-            "description": "I see it every week in my practice: Patients obsessed with their cholesterol numbers. LDL, HDL, triglycerides, the full alphabet soup. They have been ...",
-            "pubDate": "2025-09-25T12:00:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Wegovy survey finds decline in constant food thoughts and improved well being",
-            "link": "https://www.2minutemedicine.com/wegovy-survey-finds-decline-in-constant-food-thoughts-and-improved-well-being/",
-            "description": "1. Survey of 550 adults found a 46 percent reduction in constant food thoughts after starting Wegovy. 2. 64 percent of participants reported improved ...",
-            "pubDate": "2025-09-24T16:15:57",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/07/US_Navy_110727-N-YR391-005_Lt._Cmdr._Jennifer_Freeman_an_Obstetrics-Gynecology_physician_at_Naval_Hospital_Jacksonville-300x150.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

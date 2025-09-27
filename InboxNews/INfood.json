@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-26T11:04:21.905683",
+    "lastBuildDate": "2025-09-27T01:20:54.655352",
     "items": [
+        {
+            "title": "How To Air Fry Frozen Meatballs",
+            "link": "https://therecipecritic.com/air-fryer-frozen-meatballs/",
+            "description": "Okay, hear me out, frozen meatballs in the air fryer are a total game-changer. They come out crispy on the…",
+            "pubDate": "2025-09-27T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2022/05/airfryerfrozenmeatballs.jpg"
+        },
         {
             "title": "Weekly Meal Plan #60",
             "link": "https://therecipecritic.com/weekly-meal-plan-60/",
@@ -19,13 +26,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/gumbo-1.jpg"
         },
         {
-            "title": "Pillowy Gluten-Free Pita (from Aran Goyoaga’s Cookbook)",
-            "link": "https://minimalistbaker.com/gluten-free-pita/",
-            "description": "We’ve long admired the super talented gluten-free chef and baker Aran Goyoaga. But our status went from fans to super fans last year when she posted a...",
-            "pubDate": "2025-09-23T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/08/Pillowy-Gluten-Free-Pita-Aran-Goyoaga-12-680x1020.jpg"
-        },
-        {
             "title": "Garlic Parmesan Chicken Meatloaf",
             "link": "https://therecipecritic.com/garlic-parmesan-chicken-meatloaf/",
             "description": "Meet your new favorite meatloaf! The ground chicken makes the Garlic Parmesan Chicken Meatloaf super moist, and you’ll love the…",
@@ -33,18 +33,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/parmesan-meatloaf-.jpg"
         },
         {
+            "title": "Pillowy Gluten-Free Pita (from Aran Goyoaga’s Cookbook)",
+            "link": "https://minimalistbaker.com/gluten-free-pita/",
+            "description": "We’ve long admired the super talented gluten-free chef and baker Aran Goyoaga. But our status went from fans to super fans last year when she posted a...",
+            "pubDate": "2025-09-23T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/08/Pillowy-Gluten-Free-Pita-Aran-Goyoaga-12-680x1020.jpg"
+        },
+        {
             "title": "Loaded Baked Potato Dip",
             "link": "https://therecipecritic.com/loaded-baked-potato-dip/",
             "description": "You need to stop what you’re doing and make this loaded baked potato dip right now! It’s creamy, cheesy, bacony…",
             "pubDate": "2025-09-22T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/loaded-baked-potato-dip.jpg"
-        },
-        {
-            "title": "Savory Mississippi Pot Roast",
-            "link": "https://therecipecritic.com/mississippi-pot-roast/",
-            "description": "This Mississippi pot roast is melt in your mouth tender, full of rich, incredible flavor, and couldn’t be easier. Just…",
-            "pubDate": "2025-09-21T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/mississippi-pot-roast-1.jpg"
         },
         {
             "title": "The BEST Gluten-Free Pumpkin Bread (1 Bowl!)",
