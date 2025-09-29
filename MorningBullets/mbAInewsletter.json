@@ -2,350 +2,525 @@
     "title": "mbAInewsletter",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from mbAInewsletter, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-29T06:35:26.987948",
+    "lastBuildDate": "2025-09-29T11:00:58.640502",
     "items": [
         {
-            "title": "Nike marketing plans in focus ahead of crucial year for sports events",
-            "link": "https://finance.yahoo.com/news/nike-marketing-plans-focus-ahead-101338156.html",
+            "title": "11 Best Forex Prop Firms in 2025: The Ultimate Guide for Ambitious Traders",
+            "link": "https://www.finance-monthly.com/11-best-forex-prop-firms-in-2025-the-ultimate-guide-for-ambitious-traders/",
+            "description": "Are you an aspiring or experienced forex trader dreaming of scaling up with serious capital—without risking your own? The world of proprietary (prop) ...",
+            "pubDate": "2025-09-29T14:37:42",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/iStock-1369016721-1-1024x576.jpg"
+        },
+        {
+            "title": "The best job sectors for pension contributions",
+            "link": "https://moneyweek.com/personal-finance/pensions/the-best-job-sectors-for-pension-contributions",
+            "description": "Auto-enrolment rules mean most staff have a workplace pension but some employers are more generous than others. We reveal the sectors that contribute ...",
+            "pubDate": "2025-09-29T15:10:03",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/m4MXGmoEdadUSo5tUon8Uc-1280-80.jpg"
+        },
+        {
+            "title": "Spanberger Energy Hikes Would Cost Each Virginian Nearly $3,500 Year",
+            "link": "https://www.dailysignal.com/2025/09/29/spanberger-supports-plan-to-spike-virginia-energy-prices/",
+            "description": "Virginia governor candidate Abigail Spanberger proved yet again she wants to make Virginians poor and financially struggling—endorsing a terrible stat...",
+            "pubDate": "2025-09-29T14:00:00",
+            "image_url": "https://www.dailysignal.com/wp-content/uploads/2025/09/image-7.png"
+        },
+        {
+            "title": "U.S. gold reserves hit $1 trillion in value after record rally",
+            "link": "https://fortune.com/2025/09/29/gold-reserves-hit-1-trillion-record-rally-treasury-markets/",
+            "description": "The Treasury’s gold reserves have surpassed $1 trillion in value, more than 90 times what’s stated on the government’s balance sheet.",
+            "pubDate": "2025-09-29T15:36:06",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1324553426-e1759156385753.jpg?w=2048"
+        },
+        {
+            "title": "Landlord tax investigations net HMRC record £107m – the pitfalls to avoid",
+            "link": "https://moneyweek.com/investments/buy-to-let/landlord-tax-investigations",
+            "description": "Residential landlords had to pay an average of £13,713 each in tax from undisclosed rental income last year, the highest amount since a crackdown bega...",
+            "pubDate": "2025-09-29T15:36:24",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/vgBZYZi4cZz5ZZAqYABixk-1280-80.jpg"
+        },
+        {
+            "title": "Zoopla House Price Index: Budget tax speculation has stalled top end of the housing market",
+            "link": "https://moneyweek.com/investments/house-prices/zoopla-house-price-index-budget-tax-stalls-housing-market",
+            "description": "The latest Zoopla data suggests buyers and sellers are holding off amid rumours of property tax changes",
+            "pubDate": "2025-09-29T15:04:35",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/UsYGydvfQ4dEfKigU8goFX-1280-80.jpg"
+        },
+        {
+            "title": "Dealmakers defy stubborn M&A market with rare $1 trillion haul",
+            "link": "https://fortune.com/2025/09/29/dealmakers-1-trillion-third-quarter-wall-street-bankers-mergers-acquisitions/",
+            "description": "Global deal values have topped $1 trillion in a third quarter for only the second time on record, according to data compiled by Bloomberg.",
+            "pubDate": "2025-09-29T15:40:27",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-78156051-e1759156711760.jpg?w=2048"
+        },
+        {
+            "title": "Jonathan Reynolds’ Net Worth 2025: Inside the Finances of a Modern Politician",
+            "link": "https://www.finance-monthly.com/jonathan-reynolds-net-worth/",
+            "description": "Money and power have always walked hand in hand—but when it comes to Jonathan Reynolds, the real question is just how far his financial reach extends....",
+            "pubDate": "2025-09-29T15:34:43",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/e1f413318a970c23801975eaa9f2568bY29udGVudHNlYXJjaGFwaSwxNzIxMTM1Mjc0-2.76797223-1024x683.avif"
+        },
+        {
+            "title": "Meet Lisa Monaco, the 57-year-old Microsoft executive Trump wants fired",
+            "link": "https://fortune.com/2025/09/29/lisa-monaco-microsoft-career-trump-investigations-attorney-general-election-threats/",
+            "description": "The former deputy attorney general played a key role in several high-profile investigations that directly involved Trump.",
+            "pubDate": "2025-09-29T15:40:35",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2152262318-e1759155736763.jpg?w=2048"
+        },
+        {
+            "title": "High Earners Are About to Lose This 401(k) Catch-Up Perk",
+            "link": "https://money.com/retirement-catch-up-rule-change-2026-401k-tax/?xid=moneyrss",
+            "description": "The tax treatment for catch-up contributions for older workers is changing.",
+            "pubDate": "2025-09-29T15:10:22",
+            "image_url": "https://img.money.com/2025/09/News-401k-Lose-Major-Perk-2026.jpg?quality=85"
+        },
+        {
+            "title": "Cathie Wood makes surprising deeper bet on robotaxis",
+            "link": "https://www.thestreet.com/investing/cathie-wood-makes-surprising-deeper-bet-on-robotaxis",
+            "description": "These trades may reveal Wood's next big conviction.",
+            "pubDate": "2025-09-29T15:17:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE3Mzk4MjA0MTk3NTEyNTYw/cathie_wood_cp_083025.jpg"
+        },
+        {
+            "title": "Mexican restaurant bankruptcy trend should alarm consumers",
+            "link": "https://www.thestreet.com/restaurants/mexican-restaurant-bankruptcy-trend-should-alarm-consumers",
+            "description": "A lot of Mexican chains have filed for Chapter 11 protection, and if that trend continues, it could leave consumers with fewer dining choices.",
+            "pubDate": "2025-09-29T15:47:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE0NzEyMDgwMTEwOTg3MDQ0/mexican_food_3-lead.jpg"
+        },
+        {
+            "title": "Blockchains Were Meant to Replace SWIFT, But Now the Organization Is Building its Own",
+            "link": "https://finance.yahoo.com/news/blockchains-were-meant-replace-swift-144051072.html",
             "description": "",
-            "pubDate": "2025-09-29T11:13:38",
-            "image_url": "https://media.zenfs.com/en/reuters-finance.com/e63f3e46627f7a6784e7f493cef510c0"
+            "pubDate": "2025-09-29T15:40:51",
+            "image_url": "https://media.zenfs.com/en/ccn_928/cc70c7103a0295a852124b0998c149be"
         },
         {
-            "title": "Retirement Planning in the United States",
-            "link": "https://www.finance-monthly.com/us-retirement-planning-guide/",
-            "description": "Retirement planning is one of the most critical financial decisions Americans face. With life expectancies increasing and Social Security providing on...",
-            "pubDate": "2025-09-29T10:32:26",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/Why-Retirement-Planning-is-Important-Hero-1-min-1024x672.jpg"
+            "title": "How to Choose the Best LMS for Compliance in Banking & Finance",
+            "link": "https://www.finance-monthly.com/how-to-choose-the-best-lms-for-compliance-in-banking-finance/",
+            "description": "Regulation never takes a break in banking and finance. Policies shift, rules tighten, and employees need to keep up. Training programs that once worke...",
+            "pubDate": "2025-09-29T15:10:18",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/ofspace-llc-PVLK5RpP9ds-unsplash-1024x683.jpg"
         },
         {
-            "title": "Jean-Pierre Conte's Mentorship Model Solves Private Equity's Talent War",
-            "link": "https://www.finance-monthly.com/jean-pierre-contes-mentorship-model-solves-private-equitys-talent-war/",
-            "description": "The private equity industry confronts an unprecedented talent crisis as sophisticated recruitment strategies fail to address fundamental leadership de...",
-            "pubDate": "2025-09-29T11:24:59",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/iStock-1221678068-1-1024x601.jpg"
+            "title": "5 Best Home Equity Sharing Companies of October 2025",
+            "link": "https://money.com/best-home-equity-sharing-companies/?xid=moneyrss",
+            "description": "Home equity sharing companies offer a way to tap into your home's increased value without taking on extra debt payments.",
+            "pubDate": "2025-09-29T15:26:26",
+            "image_url": "https://img.money.com/2023/07/Best-Home-Equity-Sharing-Companies-mbci_5xcy3__h9i54x.jpg?quality=85"
         },
         {
-            "title": "Asia to dominate worldwide PET capacity additions through 2030",
-            "link": "https://finance.yahoo.com/news/asia-dominate-worldwide-pet-capacity-102147506.html",
+            "title": "7 Best Home Equity Loans of October 2025",
+            "link": "https://money.com/best-home-equity-loans/?xid=moneyrss",
+            "description": "Home equity loans and lines of credit allow homeowners to tap into the increased value of their homes.",
+            "pubDate": "2025-09-29T14:39:17",
+            "image_url": "https://img.money.com/2023/12/Best-Home-Equity-Loans-mbci_4xcy3__98i54x.jpg?quality=85"
+        },
+        {
+            "title": "US government warns travelers police 'will use weapons'",
+            "link": "https://www.thestreet.com/travel/us-government-warns-travelers-police-will-use-weapons",
+            "description": "The travel advisory warns of protests and a \"move to a restoration of public order.\"",
+            "pubDate": "2025-09-29T14:47:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE4MDg2Mjg4ODI4NDA5NDQ2/madagascar.jpg"
+        },
+        {
+            "title": "Amazon's bestselling Yankee Candle with a seasonal scent is on sale for just $15",
+            "link": "https://www.thestreet.com/deals/yankee-candle-pumpkin-spiced-candle-amazon-sale",
+            "description": "The fall scent \"makes the whole house feel cozy.\"",
+            "pubDate": "2025-09-29T15:03:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5NzUzMjE2MDk3NzIzODU3/amazon-sale-9.jpg"
+        },
+        {
+            "title": "Stock Market Today: Stocks rise as government shutdown threat looms",
+            "link": "https://finance.yahoo.com/news/stock-market-today-stocks-rise-143830294.html",
             "description": "",
-            "pubDate": "2025-09-29T11:21:47",
-            "image_url": "https://media.zenfs.com/en/offshore_technology_431/639de167e7af703f52d0e70fbbfbc253"
+            "pubDate": "2025-09-29T15:38:30",
+            "image_url": "https://media.zenfs.com/en/thestreet_881/36ad9d781a289f4b29a562ac91fc20ed"
         },
         {
-            "title": "EC investigates SAP over ERP on-premises support practices",
-            "link": "https://finance.yahoo.com/news/ec-investigates-sap-over-erp-100829479.html",
+            "title": "LMS Cloud-Based Platforms: Simplifying Deployment and Maintenance",
+            "link": "https://www.finance-monthly.com/lms-cloud-based-platforms-simplifying-deployment-and-maintenance/",
+            "description": "Consider how people learn in schools today; technology drives much of that experience. Online learning systems, known as LMS, have become quite popula...",
+            "pubDate": "2025-09-29T14:11:15",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/iStock-2103651515-1024x576.jpg"
+        },
+        {
+            "title": "Electronic Arts to go private in record $55 billion buyout, the largest in private equity history",
+            "link": "https://fortune.com/2025/09/29/electronic-arts-private-equity-buuyout/",
+            "description": "Electronic Arts' stock climbed after they confirmed the private-equity buyout rumors.",
+            "pubDate": "2025-09-29T15:37:07",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1956015954-e1759156059706.jpg?w=2048"
+        },
+        {
+            "title": "Finastra Unveils Intelligent Routing Module To Revolutionize Payments Processing",
+            "link": "https://gfmag.com/transaction-banking/finastra-unveils-intelligent-routing-module-to-revolutionize-payments-processing/",
+            "description": "The new module is designed to help banks route payments faster, cheaper, and smarter across multiple rails. The post Finastra Unveils Intelligent Rout...",
+            "pubDate": "2025-09-29T14:43:49",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2025/09/Finastra-1024x576.png"
+        },
+        {
+            "title": "Half of Baby Boomers don’t know how much is in their pension – here’s how to find out",
+            "link": "https://moneyweek.com/personal-finance/pensions/boomers-dont-know-how-much-pension-how-to-find-out",
+            "description": "Putting a figure on how much you have in pension savings now makes it much easier to work out how much you can drawdown each year in retirement withou...",
+            "pubDate": "2025-09-29T15:17:53",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/NXGtNZ3oDdHDBok8LcCsGZ-1280-80.jpg"
+        },
+        {
+            "title": "Gold Road Resources set to be acquired by Gold Fields",
+            "link": "https://finance.yahoo.com/news/gold-road-resources-set-acquired-144237595.html",
             "description": "",
-            "pubDate": "2025-09-29T11:08:29",
-            "image_url": "https://media.zenfs.com/en/verdict_626/927df2ff2652959ffb137af2d45e3d64"
+            "pubDate": "2025-09-29T15:42:37",
+            "image_url": "https://media.zenfs.com/en/mining_technology_700/ba67015d450f1d46fc4b514b0c8d93d1"
         },
         {
-            "title": "How Travel Insurance for Seniors Provides Safety and Confidence Abroad",
-            "link": "https://www.finance-monthly.com/how-travel-insurance-for-seniors-provides-safety-and-confidence-abroad/",
-            "description": "With more time on your hands, you can finally visit those places you’ve always wanted to see, spend longer with family overseas, or simply enjoy the c...",
-            "pubDate": "2025-09-29T11:33:30",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/iStock-1408607252-1-1024x683.jpg"
-        },
-        {
-            "title": "Jobs report will shed light on how tariffs, other forces affect economy",
-            "link": "https://www.thestreet.com/economy/jobs-report-will-shed-light-on-how-tariffs-other-forces-affect-economy",
-            "description": "The September unemployment report is one of several important economic reports due this week.",
-            "pubDate": "2025-09-29T03:47:36",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE4MDg0MDc5NjA0NjA2NTY2/nys-department-of-labor-buffalo-job-fair-ahead-of-initial-jobless-claims.jpg"
-        },
-        {
-            "title": "Another big-name gun maker files Chapter 11 bankruptcy",
-            "link": "https://www.thestreet.com/retail/high-end-gun-firearm-manufacturer-files-chapter-11-bankruptcy",
-            "description": "A number of firearms companies have struggled since the threat of guns being banned, or at least limited in some way, has gone away.",
-            "pubDate": "2025-09-29T00:10:08",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE4MDQ4NzUyMTU2NDE5OTMy/bullets-lead.jpg"
-        },
-        {
-            "title": "David Marriott reveals the correct way to pronounce the popular hotel chain—and you’ve probably been doing it wrong",
-            "link": "https://fortune.com/2025/09/29/david-marriott-correct-pronunciation-hotel-chain/",
-            "description": "The Marriott empire traces back to 1927, when David's grandfather, J. Willard Marriott, opened a nine-stool A&W root beer stand in Washington, D.C.",
-            "pubDate": "2025-09-29T10:03:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1236933250-e1758917462888.jpg?w=2048"
-        },
-        {
-            "title": "Understanding the Basics of a 401(k) Plan",
-            "link": "https://www.finance-monthly.com/401k-plan-basics-guide/",
-            "description": "A 401(k) plan is a cornerstone of retirement planning for many Americans, offering a tax-advantaged way to save for the future while often benefiting ...",
-            "pubDate": "2025-09-29T11:03:33",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/SOIN20182_1560x880-1024x578.jpg"
-        },
-        {
-            "title": "Jensen Huang Fires Back At Wall Street 'Flatlining' Nvidia Forecasts, Says AI Demand Will Crush Long-Term Expectations",
-            "link": "https://www.benzinga.com/markets/large-cap/25/09/47910069/jensen-huang-fires-back-at-wall-street-flatlining-nvidia-forecasts-says-ai-demand-will-crush-lo",
-            "description": "Chipmaker Nvidia Corp.’s (NASDAQ: NVDA ) CEO Jensen Huang pushed back against Wall Street's long-term outlook for the company, saying analysts are und...",
-            "pubDate": "2025-09-29T09:46:14",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/29/In-This-Photo-The-Logo-Of-Nvidia-With-Th.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "Best high-yield savings interest rates today, September 29, 2025 (Earn up to 4.25% APY)",
-            "link": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-september-29-2025-100039025.html",
+            "title": "Nvidia Soars But Is It A Sell After 33% Gain? Here Is What Charts Say.",
+            "link": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-trump-china-ai/?src=A00220&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-09-29T11:00:39",
-            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16"
+            "pubDate": "2025-09-29T15:42:36",
+            "image_url": "https://media.zenfs.com/en/ibd.com/c6252982b3305917cc7b80cfe437647c"
         },
         {
-            "title": "Investors are betting big on ‘prediction markets’ Kalshi and Polymarket—will the gamble pay off?",
-            "link": "https://fortune.com/article/prediction-markets-kalshi-polymarket-election-trump-harris/",
-            "description": "The two startups generated huge buzz by accurately predicting the 2024 election results. Their young founders still face long odds.",
-            "pubDate": "2025-09-29T10:30:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Fortune_Kalshi-Polymarket-horizontal.jpg?w=2048"
+            "title": "Las Vegas Strip adds huge new casino project",
+            "link": "https://www.thestreet.com/travel/las-vegas-strip-adds-huge-new-casino-project",
+            "description": "Many Las Vegas Strip project have stalled or remained rumors, but one huge project is moving forward.",
+            "pubDate": "2025-09-29T15:33:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MTg3NjE5NzU4OTk5MzQ5MTM1/las-vegas-strip_3.jpg"
         },
         {
-            "title": "These 3 Energy Stocks Have Turned Oil Pumps Into Money Printing Machines",
-            "link": "https://finance.yahoo.com/news/3-energy-stocks-turned-oil-100200071.html",
+            "title": "Nasdaq Jumps 150 Points; US Pending Home Sales Rise",
+            "link": "https://www.benzinga.com/markets/market-summary/25/09/47917279/nasdaq-jumps-150-points-us-pending-home-sales-rise",
+            "description": "U.S. stocks traded higher this morning, with the Nasdaq Composite gaining around 150 points on Monday. Following the market opening Monday, the Dow tr...",
+            "pubDate": "2025-09-29T15:11:58",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/29/Nasdaq-rising.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Here’s Why Regeneron Pharmaceuticals (REGN) Fell in Q2",
+            "link": "https://finance.yahoo.com/news/why-regeneron-pharmaceuticals-regn-fell-144314931.html",
             "description": "",
-            "pubDate": "2025-09-29T11:02:00",
-            "image_url": "https://media.zenfs.com/en/motleyfool.com/b2becd49e4362b15ca07178674d3a70c"
+            "pubDate": "2025-09-29T15:43:14",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/bae404889492a528436e130b89e988f3"
         },
         {
-            "title": "Amazon is selling a pair of Monster wireless earbuds for just $30",
-            "link": "https://www.thestreet.com/deals/monster-open-ac601-wireless-earbuds-clip-on-bluetooth-headphones-amazon-sale",
-            "description": "Going somewhere? Get lost in a great playlist or audiobook along the way.",
-            "pubDate": "2025-09-29T10:00:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjEwODYxNTIwODY1NzMyNTg1/amazon-prime-package-lead.jpg"
+            "title": "Millions of workers are left out of the ‘low-hire, low-fire’ U.S. job market",
+            "link": "https://fortune.com/2025/09/29/why-cant-i-find-a-job-low-hire-fire-economy-labor-market/",
+            "description": "\"I don’t wanna use the word begging — but I’m like working a lot. Harder than I thought I would have to secure a position on a senior level.”",
+            "pubDate": "2025-09-29T15:28:06",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2235415411-e1759155904193.jpg?w=2048"
         },
         {
-            "title": "Beazley: a compelling specialist insurer",
-            "link": "https://moneyweek.com/personal-finance/insurance/beazley-a-compelling-specialist-insurer",
-            "description": "The insurer Beazley is unusually profitable at present, and that looks set to continue. The stock is also a valuable portfolio diversifier, says Jamie...",
-            "pubDate": "2025-09-29T10:42:14",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/v5ZLoXQ7nQtjta8rTiqvQd-1280-80.jpg"
+            "title": "How Technology Can Improve Your Supply Chain Management in 2026",
+            "link": "https://www.finance-monthly.com/how-technology-can-improve-your-supply-chain-management-in-2026/",
+            "description": "Supply chain management isn’t always the simplest of tasks. Long-term issues, like an unpredictable climate, are set to cause more difficulties if com...",
+            "pubDate": "2025-09-29T15:51:13",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/iStock-2203911891-2-1024x638.jpg"
         },
         {
-            "title": "Gunman in truck smashes into Michigan church and opens fire, killing at least 4 and injuring 8",
-            "link": "https://fortune.com/2025/09/28/michigan-church-shooting-fire-mormon-latter-day-saints-grand-blanc-township/",
-            "description": "The FBI is leading the investigation and considered it an “act of targeted violence,” said Ruben Coleman, a special agent in charge for the bureau.",
-            "pubDate": "2025-09-29T03:47:14",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/AP25271603071734.jpg?w=2048"
+            "title": "How to cash in on overlooked British bargains offering both income and growth",
+            "link": "https://moneyweek.com/investments/stocks-and-shares/cash-in-on-overlooked-british-bargains-offering-both-income-and-growth",
+            "description": "Sue Noffke, manager of the Schroder Income Growth Fund, selects three UK stocks where she’d put her money",
+            "pubDate": "2025-09-29T13:00:00",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/sk3TvKkP7jBYP48eZhNiu5-1280-80.jpg"
         },
         {
-            "title": "Spirit Airlines to cancel all flights to two more US airports, refunds available",
-            "link": "https://www.thestreet.com/travel/spirit-airlines-to-cancel-all-flights-to-two-more-us-airports",
-            "description": "The low-cost airline will run its last flights into two more cities by October 31.",
-            "pubDate": "2025-09-29T10:31:06",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE3ODQzODMzODk4MDE4NDA2/spirit-airlines-chapter-11-bankruptcy-job-flight-cuts.jpg"
+            "title": "Finastra Unveils Intelligent Routing Module To Revolutionize Payments Processing",
+            "link": "https://gfmag.com/transaction-banking/finastra-unveils-intelligent-routing-module-to-revolutionize-payments-processing/",
+            "description": "The new module is designed to help banks route payments faster, cheaper, and smarter across multiple rails. The post Finastra Unveils Intelligent Rout...",
+            "pubDate": "2025-09-29T14:43:49",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2025/09/Finastra-1024x576.png"
         },
         {
-            "title": "What Taylor Swift taught RBC CEO Dave McKay",
-            "link": "https://fortune.com/2025/09/29/what-taylor-swift-taught-rbc-ceo-dave-mckay/",
-            "description": "Also: All the news and watercooler chat from Fortune.",
-            "pubDate": "2025-09-29T10:34:41",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/05/AP25150571187687.jpg?w=2048"
+            "title": "Memes Are Back: Retail Investors Are Piling Into 3 Quantum Stocks",
+            "link": "https://www.marketbeat.com/stock-ideas/memes-are-back-retail-investors-are-piling-into-3-quantum-stocks/",
+            "description": "Retail traders are piling into quantum computing stocks like RGTI, QBTS, and IONQ. High volume, options activity, and social buzz fuel this speculativ...",
+            "pubDate": "2025-09-29T10:47:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Toyota Posts Eighth Straight Month Of Global Sales Growth, US Hybrid Demand Soars Despite Trump Tariffs",
-            "link": "https://www.benzinga.com/markets/tech/25/09/47910081/toyota-posts-eighth-straight-month-of-global-sales-growth-us-hybrid-demand-soars-despite-trump-tarif",
-            "description": "Japanese automaker Toyota Motor Corp (NYSE: TM ) announced an eighth consecutive month of growth in sales in 2025. read more",
-            "pubDate": "2025-09-29T09:49:28",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/29/Auckland---Oct-19-2018auckland-City-Toyo.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+            "title": "5 EV Battery and Lithium Stocks Charging the Future",
+            "link": "https://www.marketbeat.com/stock-ideas/5-ev-battery-and-lithium-stocks-charging-the-future/",
+            "description": "The EV battery market is projected to exceed $250 billion by 2035, presenting investors with opportunities in both lithium giants and high-risk innova...",
+            "pubDate": "2025-09-29T10:55:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "US Retirement & Wealth Building — The Complete Guide to Financial Independence",
-            "link": "https://www.finance-monthly.com/us-retirement-wealth-building-guide/",
-            "description": "If you want true financial independence — the freedom to choose how you spend your days, not simply how you pay for them — the path begins with a plan...",
-            "pubDate": "2025-09-29T10:01:10",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/09/aged-couple-retired-in-usa-with-visas-HLQA6XMWK2-scaled-1-e1759135267622-1024x519.jpg"
-        },
-        {
-            "title": "Why Merus Shares Are Trading Higher By 38%; Here Are 20 Stocks Moving Premarket",
-            "link": "https://www.benzinga.com/trading-ideas/movers/25/09/47910188/why-merus-shares-are-trading-higher-by-38-here-are-20-stocks-moving-premarket",
-            "description": "Shares of Merus NV (NASDAQ: MRUS ) rose sharply in today's pre-market trading . Genmab announced plans to acquire Merus for $8 billion in all-cash dea...",
-            "pubDate": "2025-09-29T10:07:53",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/29/Section-Of-A-Financial-Newspaper-Titled-.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "Billionaire Bill Ackman Reveals His 'Best Investment' Ever: A $60 Million Bet On Near-Bankrupt Mall Operator That Returned Over 9,000%",
-            "link": "https://www.benzinga.com/markets/hedge-funds/25/09/47910351/billionaire-bill-ackman-reveals-his-best-investment-ever-a-60-million-bet-on-near-bankrupt-ma",
-            "description": "Billionaire hedge fund manager Bill Ackman described one of the most lucrative trades of his career during a recent appearance at The Citadel, calling...",
-            "pubDate": "2025-09-29T10:26:54",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/29/bill-ackman.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "Tactics used in the Michigan church attack resemble a new ‘hybrid threat’ meant to maximize damage, security expert says",
-            "link": "https://fortune.com/2025/09/28/michigan-church-shooting-hybrid-threat-suspect-thomas-jacob-sanford-marine-veteran/",
-            "description": "\"That all creates chaos. It could create what we call a fatal funnel trying to drive people towards one location.\"",
-            "pubDate": "2025-09-29T01:18:20",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2237608816-e1759094582699.jpg?w=2048"
-        },
-        {
-            "title": "Moldovans await results in election plagued by Russian interference claims",
-            "link": "https://abcnews.go.com/Business/wireStory/moldovans-cast-ballots-tense-election-plagued-russian-interference-126008499",
-            "description": "\"Russia poses a danger to our democracies,\" Moldovan president says.",
-            "pubDate": "2025-09-29T01:30:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Hurricane Humberto and Tropical Storm Imelda threaten Bermuda and Bahamas",
-            "link": "https://apnews.com/article/weather-hurricane-humberto-tropical-storm-imelda-94d436e55831bd7d0b95c0432045d03f",
+            "title": "Fidelity Preferred Securities & Income ETF declares monthly distribution of $0.0840",
+            "link": "https://seekingalpha.com/news/4499898-fidelity-preferred-securities-income-etf-declares-monthly-distribution-of-00840?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2025-09-29T06:49:26",
+            "pubDate": "2025-09-29T15:54:21",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Why the last thing the stock market wants right now is a government shutdown",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb87ad63-6ab6-4186-803c-a297402a921d&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-09-29T01:09:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Hewlett Packard Enterprise: Jack Of All Trades, Master Of None",
-            "link": "https://seekingalpha.com/article/4826541-hewlett-packard-enterprise-jack-of-all-trades-master-of-none?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-09-29T10:56:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Morgan Stanley slashes rating on Novo Nordisk, says Alzheimer trial will fail",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d8a481c4-41cc-46ac-a090-ad986b32b974&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-09-29T10:54:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Mannkind names Dr. Ajay Ahuja chief medical officer",
-            "link": "https://seekingalpha.com/news/4499733-mannkind-names-dr-ajay-ahuja-chief-medical-officer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2025-09-29T11:19:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Crescent Capital: NAV Continues To Trend Downward, But Dividend Coverage Is Solid",
-            "link": "https://seekingalpha.com/article/4826543-crescent-capital-nav-continues-trend-downward-dividend-coverage-solid?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-09-29T11:27:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Day trading is about to get a lot easier for beginners. Things could get ugly.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7aec7223-e7ca-43fe-a2fc-1c47ae972152&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-09-29T02:21:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Treasury chief says wars and tariffs are harming the UK's economic outlook",
-            "link": "https://abcnews.go.com/Business/wireStory/treasury-chief-wars-tariffs-harming-uks-economic-outlook-126030558",
-            "description": "Britain’s Chancellor of the Exchequer has warned that wars in Ukraine and the Middle East, along with U.S. tariffs, have worsened the U.K.'s economic ...",
-            "pubDate": "2025-09-29T11:17:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Asian shares trade mostly higher after Wall Street snaps its 3-day losing streak",
-            "link": "https://abcnews.go.com/Business/wireStory/asian-shares-trade-higher-after-wall-street-snaps-126029306",
-            "description": "Shares are mostly higher in Asia after Wall Street broke its three-day losing streak, trimming its losses for the week",
-            "pubDate": "2025-09-29T06:49:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Indian Markets Extend Losses For Seventh Session; Wockhardt, Vascon, Hindustan Zinc Shine Amid Weak Close",
-            "link": "https://stocktwits.com/news-articles/markets/equity/nifty-sensex-end-lower-september-29/chDMyjvR37u",
-            "description": "Investors brace for the RBI’s October 1 policy decision and weekly expiry.",
-            "pubDate": "2025-09-29T11:30:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Amazon Stock Takes The Spotlight: What To Expect From Annual Hardware Event This Week",
-            "link": "https://stocktwits.com/news-articles/markets/equity/amazon-stock-takes-the-spotlight-what-to-expect-from-annual-hardware-event/chDMDy2R37A",
-            "description": "New Echo speakers and Kindle readers are likely guesses, and the company's event invitation provides more clues.",
-            "pubDate": "2025-09-29T10:30:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Datavault AI Stock Jumps 13% After Announcing Partnership With IBM",
+            "link": "https://stocktwits.com/news-articles/markets/equity/datavault-ai-stock-jumpes-13-percent-after-announcing-partnetship-with-ibm/chDu22ZR3J9",
+            "description": "IBM plans to contribute 20,000 hours of support, valued at approximately $5 million.",
+            "pubDate": "2025-09-29T14:59:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Starting school can be hard for young kids. Here’s how to help with separation anxiety",
             "link": "https://apnews.com/article/school-separation-anxiety-kids-toddlers-27d1108895f179a82c72bc95afacec8e",
             "description": "",
             "pubDate": "2025-09-29T00:51:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Fidelity Municipal Bond Opportunities ETF declares monthly distribution of $0.1430",
+            "link": "https://seekingalpha.com/news/4499896-fidelity-municipal-bond-opportunities-etf-declares-monthly-distribution-of-01430?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2025-09-29T15:52:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Merchants Eye PayTechs Amid Service Failures",
+            "link": "https://gfmag.com/transaction-banking/merchants-eye-paytechs-amid-service-failures/",
+            "description": "Can banks stem the exodus of clients? The post Merchants Eye PayTechs Amid Service Failures appeared first on Global Finance Magazine .",
+            "pubDate": "2025-09-29T14:32:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Some air travelers bothered by their flight's emissions turn to carbon offsets. Do they work?",
+            "link": "https://abcnews.go.com/Business/wireStory/air-travelers-bothered-flights-emissions-turn-carbon-offsets-126036997",
+            "description": "Air travel results in a lot of planet-warming emissions, but it's also sometimes necessary",
+            "pubDate": "2025-09-29T14:26:26",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "BP approves $5B Tiber-Guadalupe project off U.S. Gulf Coast",
-            "link": "https://seekingalpha.com/news/4499727-bp-approves-5b-tiber-guadalupe-project-off-us-gulf-coast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Occidental Petroleum: A Review Of The Potential Divestment Of OxyChem",
+            "link": "https://seekingalpha.com/article/4826607-occidental-petroleum-a-review-of-the-potential-divestment-of-oxychem?source=feed_all_articles",
             "description": "",
-            "pubDate": "2025-09-29T11:24:11",
+            "pubDate": "2025-09-29T15:46:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "DoorDash and Kroger are expanding their grocery delivery partnership",
+            "link": "https://abcnews.go.com/Business/wireStory/doordash-kroger-expanding-grocery-delivery-partnership-126037813",
+            "description": "DoorDash and Kroger are expanding their grocery delivery partnership",
+            "pubDate": "2025-09-29T14:40:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Blink Charging Could Be High Profile Casualty Of Drill, Baby, Drill",
+            "link": "https://seekingalpha.com/article/4826608-blink-charging-could-be-high-profile-casualty-of-drill-baby-drill?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-09-29T15:49:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "A look at previous government shutdowns and how they ended",
+            "link": "https://abcnews.go.com/Business/wireStory/previous-government-shutdowns-ended-126032341",
+            "description": "Party leaders in Congress have long criticized government shutdowns as toxic and destructive",
+            "pubDate": "2025-09-29T12:50:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "3 Emerging Stocks You Haven't Heard Much From This Cycle",
+            "link": "https://www.marketbeat.com/stock-ideas/3-emerging-stocks-you-havent-heard-much-from-this-cycle/",
+            "description": "Emerging stocks have not seen the attention they deserve, and that's an opportunity for retail investors to get in early on some of these growth stori...",
+            "pubDate": "2025-09-29T09:14:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "How We Can Prepare Young People for Meaningful Work and Flourishing Lives",
+            "link": "https://www.dailysignal.com/2025/09/29/how-we-can-prepare-young-people-for-meaningful-work-and-flourishing-lives/",
+            "description": "By 2034, there will be more seniors than children for the first time in our country’s history. Meanwhile, the federal debt has exploded and will... Re...",
+            "pubDate": "2025-09-29T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Pharma Lobby Announces New Website To Connect Patients With Manufacturer-Direct Purchase Programs",
+            "link": "https://stocktwits.com/news-articles/markets/equity/pharma-lobby-announces-new-website-to-connect-patients-with-manufacturer-direct-patient-programs/chDuciYR3JJ",
+            "description": "The announcement from the group coincides with the deadline set by President Trump for 17 pharmaceutical companies to reduce drug prices in the U.S. t...",
+            "pubDate": "2025-09-29T14:34:37",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Lufthansa airline group to shed 4,000 jobs by 2030, sees stronger profits ahead",
-            "link": "https://abcnews.go.com/Business/wireStory/lufthansa-airline-group-shed-4000-jobs-2030-ai-126030560",
-            "description": "Lufthansa Group has announced plans to cut 4,000 jobs by 2030, focusing on administrative roles",
-            "pubDate": "2025-09-29T11:17:26",
+            "title": "Stocks making the biggest premarket moves: Electronic Arts, Novo Nordisk, Lam Research, Oracle & more",
+            "link": "https://www.cnbc.com/2025/09/29/stocks-making-the-biggest-premarket-moves-ea-nvo-lrcx-orcl.html",
+            "description": "These are the stocks posting the largest moves in premarket trading.",
+            "pubDate": "2025-09-29T13:39:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Cleveland Fed’s Hammack warns of 'challenging time' amid inflation worries",
+            "link": "https://www.cnbc.com/2025/09/29/cleveland-feds-beth-hammack-on-interest-rates-inflation-and-tariffs.html",
+            "description": "\"On the inflation side right now, I continue to be worried,\" Cleveland Federal Reserve President Beth Hammack Hammack told CNBC's \"Squawk Box Europe.\"",
+            "pubDate": "2025-09-29T14:58:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Where BlackRock Stands With Analysts",
+            "link": "https://www.benzinga.com/insights/analyst-ratings/25/09/47916741/where-blackrock-stands-with-analysts",
+            "description": "11 analysts have expressed a variety of opinions on BlackRock (NYSE: BLK ) over the past quarter, offering a diverse set of opinions from bullish to b...",
+            "pubDate": "2025-09-29T15:04:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Hurricane Humberto and Tropical Storm Imelda threaten the Bahamas and Bermuda",
+            "link": "https://apnews.com/article/weather-hurricane-humberto-tropical-storm-imelda-94d436e55831bd7d0b95c0432045d03f",
+            "description": "",
+            "pubDate": "2025-09-29T06:49:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Economic calendar: Three Fed speeches and pending-home-sales data on agenda",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=19093926-889b-49e6-8282-15c1a1f73f54&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-09-29T13:12:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Analyst Expectations For Spotify Technology's Future",
+            "link": "https://www.benzinga.com/insights/analyst-ratings/25/09/47916673/analyst-expectations-for-spotify-technologys-future",
+            "description": "24 analysts have shared their evaluations of Spotify Technology (NYSE: SPOT ) during the recent three months, expressing a mix of bullish and bearish ...",
+            "pubDate": "2025-09-29T15:03:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "AI At Sibos 2025: From Theory To Transformation",
+            "link": "https://gfmag.com/technology/ai-at-sibos-2025-from-theory-to-transformation/",
+            "description": "From the bustling halls of Messe Frankfurt, Global Finance is reporting live from the opening day of Sibos 2025, where AI is dominating the conversati...",
+            "pubDate": "2025-09-29T14:24:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "MSS Stock Rockets 250% After Company Announces Worldcoin Integration",
+            "link": "https://stocktwits.com/news-articles/markets/equity/mss-stock-rockets-250-after-company-announces-worldcoin-integration/chDu2cJR3JB",
+            "description": "The company plans to integrate the Worldcoin token into its digital asset treasury through a $70 million convertible note private placement.",
+            "pubDate": "2025-09-29T14:58:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "3 Ways to Test the Crypto Market Without Owning Bitcoin",
+            "link": "https://www.marketbeat.com/stock-ideas/3-ways-to-test-the-crypto-market-without-owning-bitcoin/",
+            "description": "Discover 3 crypto-related stocks—Coinbase, Bit Digital, and TeraWulf—that let investors tap into crypto growth without owning Bitcoin directly",
+            "pubDate": "2025-09-29T08:58:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Forecasting The Future: 8 Analyst Projections For Hasbro",
+            "link": "https://www.benzinga.com/insights/analyst-ratings/25/09/47916710/forecasting-the-future-8-analyst-projections-for-hasbro",
+            "description": "8 analysts have expressed a variety of opinions on Hasbro (NASDAQ: HAS ) over the past quarter, offering a diverse set of opinions from bullish to bea...",
+            "pubDate": "2025-09-29T15:03:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Foreign Stocks Still Lead Global Markets In 2025 Going Into Q4",
+            "link": "https://seekingalpha.com/article/4826603-foreign-stocks-still-lead-global-markets-2025-going-q4?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-09-29T15:34:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Kala Bio Stock Just Plunged 92% Today – Here’s What Happened",
+            "link": "https://stocktwits.com/news-articles/markets/equity/kala-bio-stock-plunges-after-experimental-drug-fails-study/chDuP3wR3Ja",
+            "description": "The firm stated that its KPI-012 failed in a mid-stage clinical trial and announced that it intends to preserve cash, including by laying off some of ...",
+            "pubDate": "2025-09-29T15:00:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Being Truly FIRE Is Terrible For Entrepreneurship, But That’s OK",
+            "link": "https://www.financialsamurai.com/being-truly-fire-is-terrible-for-entrepreneurship-but-thats-ok/",
+            "description": "In 2020, during the heart of the COVID pandemic, I remember listening to a FIRE-focused podcast hosted by two people who claimed to be financially ind...",
+            "pubDate": "2025-09-29T12:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "This Is What Whales Are Betting On Eli Lilly",
+            "link": "https://www.benzinga.com/insights/options/25/09/47916750/this-is-what-whales-are-betting-on-eli-lilly",
+            "description": "Investors with a lot of money to spend have taken a bullish stance on Eli Lilly (NYSE: LLY ). And retail traders should know. We noticed this today wh...",
+            "pubDate": "2025-09-29T15:04:26",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "The UK's finance minister keeps public guessing over tax hikes",
+            "link": "https://www.cnbc.com/2025/09/29/the-uks-finance-minister-keeps-public-guessing-over-tax-hikes.html",
+            "description": "Reeves remains tight-lipped about the forthcoming Autumn Budget, at which economists expect her to announce tax hikes.",
+            "pubDate": "2025-09-29T14:04:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "AI At Sibos 2025: From Theory To Transformation",
+            "link": "https://gfmag.com/technology/ai-at-sibos-2025-from-theory-to-transformation/",
+            "description": "From the bustling halls of Messe Frankfurt, Global Finance is reporting live from the opening day of Sibos 2025, where AI is dominating the conversati...",
+            "pubDate": "2025-09-29T14:24:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Regional Banking Might Consolidate But Better Approaches Than DPST",
+            "link": "https://seekingalpha.com/article/4826606-regional-banking-might-consolidate-better-approaches-than-dpst?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-09-29T15:42:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Morgan Stanley slashes rating on Novo Nordisk, says Alzheimer trial will fail",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d8a481c4-41cc-46ac-a090-ad986b32b974&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-09-29T10:54:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Video game maker Electronic Arts to be acquired and taken private for $55 billion",
+            "link": "https://abcnews.go.com/Business/wireStory/video-game-maker-electronic-arts-acquired-private-55-126035440",
+            "description": "Electronic Arts, the video game maker of “Madden NFL,” “The Sims,” and other popular titles, is being acquired and taken private for $55 billion",
+            "pubDate": "2025-09-29T13:43:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Police remain on scene at burned out Michigan church after shooting and fire leave 4 dead, 8 wounded",
+            "link": "https://apnews.com/article/michigan-church-shooting-fire-mormon-dfe2ce8066e5162c1295e02562aa0e31",
+            "description": "Police officers walked amid the burned-out ruins of a Church of Jesus Christ of Latter-day Saints church in Michigan a day after a former Marine opene...",
+            "pubDate": "2025-09-29T10:17:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Fidelity Low Duration Bond ETF declares monthly distribution of $0.1690",
+            "link": "https://seekingalpha.com/news/4499895-fidelity-low-duration-bond-etf-declares-monthly-distribution-of-01690?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2025-09-29T15:51:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "GSK is replacing its CEO with an insider and shares are flying",
             "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d9e9e947-963b-4871-9acb-178a072b9cb1&mod=mw_rss_bulletins",
             "description": "",
             "pubDate": "2025-09-29T09:56:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "DiDi Global Has Re-Rating Potential And A Decent Yield",
+            "link": "https://seekingalpha.com/article/4826605-didi-global-has-re-rating-potential-and-a-decent-yield?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-09-29T15:40:32",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Why Wegovy Maker Novo Nordisk’s Stock Is Sliding 3% Premarket Today",
-            "link": "https://stocktwits.com/news-articles/markets/equity/why-wegovy-maker-novo-nordisk-s-stock-is-sliding-3-premarket-today/chDMDwYR37q",
-            "description": "Morgan Stanley attributed its negative thesis on the Danish company to its view that the weight loss prescription growth in the U.S. would slow down a...",
-            "pubDate": "2025-09-29T10:28:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "One Of Many Stocktwits & CMT Association Success Stories",
+            "link": "https://stocktwits.com/news-articles/business/others/one-of-many-stocktwits-and-cmt-association-success-stories/chDucXSR3J7",
+            "description": "And you can be next!",
+            "pubDate": "2025-09-29T14:31:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Earnings Scheduled For September 29, 2025",
-            "link": "https://www.benzinga.com/insights/earnings/25/09/47909942/earnings-scheduled-for-september-29-2025",
-            "description": "Companies Reporting Before The Bell • Inventiva (NASDAQ: IVA ) is projected to report quarterly loss at $0.41 per share on revenue of $5.31 million. •...",
-            "pubDate": "2025-09-29T09:32:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Growth & Total Return Bi-Weekly Chat 09/29/2025",
-            "link": "https://seekingalpha.com/article/4825367-growth-and-total-return-bi-weekly-chat-09292025?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-09-29T11:00:00",
+            "title": "Costco Investors Will Get A “Special” Treat For Christmas",
+            "link": "https://www.marketbeat.com/stock-ideas/costco-investors-will-get-a-special-treat-for-christmas/",
+            "description": "Costco is expected to announce a special dividend in December, which is likely to energize its market, potentially sending the stock to a new high.",
+            "pubDate": "2025-09-29T09:05:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "CEO of drugmaker GSK to step down by year's end",
-            "link": "https://abcnews.go.com/Business/wireStory/ceo-drugmaker-gsk-step-years-end-126030749",
-            "description": "GSK Chief Executive Emma Walmsley, the first woman to lead a major pharmaceutical company, will step down Dec. 31 after more than eight years at the h...",
-            "pubDate": "2025-09-29T11:12:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Gold shines helped by strong ETF and central bank demand",
-            "link": "https://seekingalpha.com/news/4499729-gold-shines-helped-by-strong-etf-and-central-bank-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2025-09-29T11:11:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Cleveland Fed’s Hammack warns of 'challenging time' amid inflation worries",
-            "link": "https://www.cnbc.com/2025/09/29/cleveland-feds-beth-hammack-on-interest-rates-inflation-and-tariffs.html",
-            "description": "\"On the inflation side right now, I continue to be worried,\" Cleveland Federal Reserve President Beth Hammack Hammack told CNBC's \"Squawk Box Europe.\"",
-            "pubDate": "2025-09-29T10:51:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Why Cleveland Fed’s Beth Hammack Remains Worried About Inflation: ‘I’m Seeing It In The Services’",
-            "link": "https://stocktwits.com/news-articles/markets/equity/why-cleveland-fed-s-beth-hammack-remains-worried-about-inflation/chDMx7dR37r",
-            "description": "The Personal Consumption Expenditures (PCE) Index, which is the Federal Reserve’s preferred gauge of inflation, rose 0.3% in August, sequentially.",
-            "pubDate": "2025-09-29T10:41:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Liquidity Services: A Green Stock With Growth Potential",
-            "link": "https://seekingalpha.com/article/4826540-liquidity-services-green-stock-with-growth-potential?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-09-29T10:48:02",
+            "title": "Dar Global to launch a $1 billion project in Saudi Arabia in a deal with Trump Organization",
+            "link": "https://abcnews.go.com/Business/wireStory/dar-global-launch-1-billion-project-saudi-arabia-126031680",
+            "description": "Dar Global, a London-listed luxury real estate developer, says it plans to launch a Trump Plaza in the Saudi Red Sea city of Jeddah in the second coll...",
+            "pubDate": "2025-09-29T12:58:14",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Dividend Growth Bi-Weekly Chat 09/29/2025",
-            "link": "https://seekingalpha.com/article/4825361-dividend-growth-bi-weekly-chat-09292025?source=feed_all_articles",
+            "title": "Nasdaq powers higher as tech-stock investors look past government-shutdown fears",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7eaa669f-4c13-4bc3-ae12-e1a29dac190b&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-09-29T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "pubDate": "2025-09-29T15:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "U.S. stock futures higher after a losing week as possible shutdown looms",
@@ -355,39 +530,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "UN reinstates Iran sanctions 10 years after landmark nuclear deal",
-            "link": "https://seekingalpha.com/news/4499709-un-reinstates-iran-sanctions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Fidelity Sustainable Core Plus Bond ETF declares monthly distribution of $0.1620",
+            "link": "https://seekingalpha.com/news/4499897-fidelity-sustainable-core-plus-bond-etf-declares-monthly-distribution-of-01620?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2025-09-29T11:09:16",
+            "pubDate": "2025-09-29T15:53:25",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Corpay expands partnership with Mastercard Move for real-time payments",
-            "link": "https://seekingalpha.com/news/4499730-corpay-expands-partnership-with-mastercard-move-for-real-time-payments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Merchants Eye PayTechs Amid Service Failures",
+            "link": "https://gfmag.com/transaction-banking/merchants-eye-paytechs-amid-service-failures/",
+            "description": "Can banks stem the exodus of clients? The post Merchants Eye PayTechs Amid Service Failures appeared first on Global Finance Magazine .",
+            "pubDate": "2025-09-29T14:32:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Fidelity Sustainable Low Duration Bond ETF declares monthly distribution of $0.1600",
+            "link": "https://seekingalpha.com/news/4499899-fidelity-sustainable-low-duration-bond-etf-declares-monthly-distribution-of-01600?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2025-09-29T11:10:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "pubDate": "2025-09-29T15:55:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Why Cleveland Fed’s Beth Hammack Remains Worried About Inflation: ‘I’m Seeing It In The Services’",
-            "link": "https://stocktwits.com/news-articles/markets/equity/why-cleveland-fed-s-beth-hammack-remains-worried-about-inflation/chDMx7dR37r",
-            "description": "The Personal Consumption Expenditures (PCE) Index, which is the Federal Reserve’s preferred gauge of inflation, rose 0.3% in August, sequentially.",
-            "pubDate": "2025-09-29T10:41:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "109-year-old embattled Dow 30 stock surges on deals",
-            "link": "https://www.thestreet.com/markets/109-year-old-embattled-dow-30-stock-surges-on-deals",
-            "description": "What’s next for the company's shares.",
-            "pubDate": "2025-09-28T23:35:25",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5NTIwMTg1MTMwODg2MzEz/boeings-seattle-workers-walk-out-in-first-strike-since-2008.jpg"
-        },
-        {
-            "title": "To hedge or not to hedge, that is the question",
-            "link": "https://moneyweek.com/investments/investment-strategy/to-hedge-or-not-to-hedge",
-            "description": "The mechanics of hedging are very logical, but deciding when to add a hedge is rarely a simple decision",
-            "pubDate": "2025-09-28T07:00:00",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/wgAfApahRXstJKRARqzEtP-1280-80.jpg"
+            "title": "Electronic Arts going private major $55B buyout deal from investor group",
+            "link": "https://www.foxbusiness.com/economy/electronic-arts-going-private-major-55b-buyout-deal-from-investor-group",
+            "description": "Electronic Arts is going private in a $55 billion leveraged buyout that marks the largest such deal in history and further consolidate the gaming indu...",
+            "pubDate": "2025-09-28T19:06:54",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/gamers-closeup.jpg"
         },
         {
             "title": "That latte or cappuccino could get more expensive as coffee prices continue to rise",
@@ -397,24 +565,17 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/coffee-beans-01.jpg"
         },
         {
-            "title": "Electronic Arts explores going private with major $50B buyout deal from investor group",
-            "link": "https://www.foxbusiness.com/economy/electronic-arts-explores-going-private-major-50b-buyout-deal-investor-group",
-            "description": "Electronic Arts faces potential $50 million leveraged buyout that would mark the largest such deal in history and further consolidate the gaming indus...",
-            "pubDate": "2025-09-28T19:06:54",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/gamers-closeup.jpg"
+            "title": "Charlie Kirk’s Widow Reveals Plans for the Future of TPUSA, His Radio Show",
+            "link": "https://www.dailysignal.com/2025/09/28/charlie-kirks-widow-reveals-plans-for-the-future-of-tpusa-his-radio-show/",
+            "description": "DAILY CALLER NEWS FOUNDATION—Turning Point USA (TPUSA) CEO Erika Kirk appeared on “The Charlie Kirk Show” Friday, saying the show would feature rotati...",
+            "pubDate": "2025-09-28T23:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "The problem with renewables trusts",
-            "link": "https://moneyweek.com/investments/energy-stocks/the-problem-with-renewables-trusts",
-            "description": "The value of assets owned by renewables trusts is far more volatile than investors expected",
-            "pubDate": "2025-09-28T10:00:00",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/tDcDvxzL2yUDxYtR2ZW5Bb-1280-80.jpg"
-        },
-        {
-            "title": "Chaos at Michigan Church: 10 Shot, Four Dead, Building Set on Fire in Sunday Morning Attack",
-            "link": "https://www.dailysignal.com/2025/09/28/gunman-killed-after-deadly-shooting-and-fire-at-michigan-church-fbi-leading-investigation/",
-            "description": "Update: As of Sunday evening, at least four people had died, according to NBC News. A gunman opened fire on a Michigan church Sunday morning,... Read ...",
-            "pubDate": "2025-09-28T19:57:41",
+            "title": "The economics of self-driving taxis",
+            "link": "https://www.economist.com/finance-and-economics/2025/09/28/the-economics-of-self-driving-taxis",
+            "description": "Waymo is a case study in automation",
+            "pubDate": "2025-09-28T14:10:07",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
@@ -422,41 +583,6 @@
             "link": "https://www.dailysignal.com/2025/09/28/fda-confirms-abortion-pill-review/",
             "description": "The abortion drug mifepristone will finally receive much-requested scrutiny by the Trump administration, Health and Human Services Secretary Robert F....",
             "pubDate": "2025-09-28T21:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Charlie Kirk’s Widow Reveals Plans for the Future of TPUSA, His Radio Show",
-            "link": "https://www.dailysignal.com/2025/09/28/charlie-kirks-widow-reveals-plans-for-the-future-of-tpusa-his-radio-show/",
-            "description": "DAILY CALLER NEWS FOUNDATION—Turning Point USA (TPUSA) CEO Erika Kirk appeared on “The Charlie Kirk Show” Friday, saying the show would feature rotati...",
-            "pubDate": "2025-09-28T23:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Gunman opens fire at Michigan church and sets it ablaze, killing at least 4 and wounding 8",
-            "link": "https://apnews.com/article/mormon-church-shooting-michigan-dcb79ee701b0b8076bf73e30e10ba2b7",
-            "description": "An ex-Marine smashed a pickup into a Church of Jesus Christ of Latter-day Saints church in Michigan, opened fire and set the building ablaze during a ...",
-            "pubDate": "2025-09-28T12:36:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Meta Debuts Next-Gen AI Glasses—A Turning Point for Reality Labs?",
-            "link": "https://www.marketbeat.com/originals/meta-debuts-next-gen-ai-glassesa-turning-point-for-reality-labs/",
-            "description": "Meta's new display-enabled AI glasses aren't just a big technological leap; they could shift investor opinion on its underperforming Reality Labs segm...",
-            "pubDate": "2025-09-28T10:22:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "ICE Attempts to Poach Sanctuary City Police With Recruitment Ads",
-            "link": "https://www.dailysignal.com/2025/09/28/ice-attempts-poach-sanctuary-city-police-recruitment-ads/",
-            "description": "In its bid to boost recruitment, Immigration Customs Enforcement is airing advertisements in “sanctuary cities” across the country, urging law enforce...",
-            "pubDate": "2025-09-28T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "How IREN is Building an AI Powerhouse on a Bitcoin Foundation",
-            "link": "https://www.marketbeat.com/stock-ideas/how-iren-is-building-an-ai-powerhouse-on-a-bitcoin-foundation/",
-            "description": "IREN is transforming from a Bitcoin miner into an AI infrastructure leader by leveraging its profitable foundation to fund a massive expansion into AI...",
-            "pubDate": "2025-09-28T09:12:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
@@ -464,91 +590,35 @@
             "link": "https://www.dailysignal.com/2025/09/28/eric-adams-drops-out-of-nyc-mayors-race/",
             "description": "Mayor Eric Adams has dropped out of the race for New York City mayor, warning that the election of socialist Zohran Mamdani would sow “chaos.”... Read...",
             "pubDate": "2025-09-28T21:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The economics of self-driving taxis",
-            "link": "https://www.economist.com/finance-and-economics/2025/09/28/the-economics-of-self-driving-taxis",
-            "description": "Waymo is a case study in automation",
-            "pubDate": "2025-09-28T14:10:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Klarna IPO: BNPL Stock or Something Bigger?",
-            "link": "https://www.marketbeat.com/stock-ideas/klarna-ipo-bnpl-stock-or-something-bigger/",
-            "description": "Klarna’s IPO will test if investors see it as just another BNPL lender or a global shopping platform with AI and e-commerce ambition",
-            "pubDate": "2025-09-28T11:44:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Why Teradyne Is a Core Play in the AI Hardware Boom",
-            "link": "https://www.marketbeat.com/stock-ideas/why-teradyne-is-a-core-play-in-the-ai-hardware-boom/",
-            "description": "Teradyne's crucial role in testing complex AI chips fuels a new growth phase, positioning the company as a key enabler of the entire hardware boom.",
-            "pubDate": "2025-09-28T10:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "SoundHound Breaks Critical Resistance: How High Can It Get Now?",
-            "link": "https://www.marketbeat.com/originals/soundhound-breaks-critical-resistance-how-high-can-it-get-now/",
-            "description": "SoundHound AI is on track to retest its all-time high but may not achieve it until late in the year, following the release of its Q3 earnings report.",
-            "pubDate": "2025-09-28T12:54:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Should the Online Safety Act survive?",
-            "link": "https://moneyweek.com/economy/uk-economy/should-the-online-safety-act-survive",
-            "description": "The Online Safety Act, a measure to safeguard children, is having unintended consequences",
-            "pubDate": "2025-09-27T10:00:00",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/kTGHYFgY53FT4X88suy5yX-1280-80.jpg"
-        },
-        {
-            "title": "8 of the best houses for sale with separate accommodation",
-            "link": "https://moneyweek.com/spending-it/properties/houses-for-sale-with-separate-accommodation",
-            "description": "The best houses for sale with separate accommodation – from a converted 17th-century threshing barn in Monmouthshire, to a Grade II-listed Queen Anne ...",
-            "pubDate": "2025-09-27T08:30:00",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/5dXLpRQ8bjPjyqDhotRzK6-1280-80.jpg"
-        },
-        {
-            "title": "The resilient stock market may be keeping the economy out of a recession. Why that's a bad thing",
-            "link": "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
-            "description": "Consumers with larger stock holdings are feeling fine, while those with smaller or no holdings are not.",
-            "pubDate": "2025-09-27T15:07:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "'Spectacular' AI growth is creating a serious labor market problem for Fed, Jefferies' David Zervos warns",
-            "link": "https://www.cnbc.com/2025/09/27/spectacular-ai-growth-to-spark-serious-jobs-issue-for-fed-zervos.html",
-            "description": "Long-time market bull David Zervos is worried the Federal Reserve is dangerously ignoring the artificial intelligence boom's fallout.",
-            "pubDate": "2025-09-27T17:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell",
-            "link": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
-            "description": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\"",
-            "pubDate": "2025-09-27T22:29:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Not just for the ultra-wealthy: Two firms team up to create more access to private credit boom",
             "link": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
             "description": "Simplify Asset Management and VettaFi launched the actively managed Simplify VettaFi Private Credit Strategy ETF (PCR) on Wednesday.",
             "pubDate": "2025-09-27T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "The IRS Is Ending Paper Checks for Tax Refunds",
-            "link": "https://money.com/irs-ends-paper-checks/?xid=moneyrss",
-            "description": "RIP paper checks: The IRS shifts all refunds to direct deposit and other electronic payment options.",
-            "pubDate": "2025-09-26T16:07:25",
-            "image_url": "https://img.money.com/2025/09/News-Goodbye-Tax-Refund-Paper-Check.jpg?quality=85"
+            "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell",
+            "link": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
+            "description": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\"",
+            "pubDate": "2025-09-27T22:29:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "You’re Retiring. Get Ready for These Tax Changes",
-            "link": "https://money.com/taxes-in-retirement/?xid=moneyrss",
-            "description": "How your retirement fund withdrawals, Social Security benefits and more will be taxed.",
-            "pubDate": "2025-09-26T21:47:01",
-            "image_url": "https://img.money.com/2025/09/Explainer-Taxes-In-Retirement.jpg?quality=85"
+            "title": "The resilient stock market may be keeping the economy out of a recession. Why that's a bad thing",
+            "link": "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+            "description": "Consumers with larger stock holdings are feeling fine, while those with smaller or no holdings are not.",
+            "pubDate": "2025-09-27T15:07:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "'Spectacular' AI growth is creating a serious labor market problem for Fed, Jefferies' David Zervos warns",
+            "link": "https://www.cnbc.com/2025/09/27/spectacular-ai-growth-to-spark-serious-jobs-issue-for-fed-zervos.html",
+            "description": "Long-time market bull David Zervos is worried the Federal Reserve is dangerously ignoring the artificial intelligence boom's fallout.",
+            "pubDate": "2025-09-27T17:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Fed's favored inflation gauge shows consumer prices remained elevated in August",
@@ -558,6 +628,13 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/02/walmart-inside.jpg"
         },
         {
+            "title": "You’re Retiring. Get Ready for These Tax Changes",
+            "link": "https://money.com/taxes-in-retirement/?xid=moneyrss",
+            "description": "How your retirement fund withdrawals, Social Security benefits and more will be taxed.",
+            "pubDate": "2025-09-26T21:47:01",
+            "image_url": "https://img.money.com/2025/09/Explainer-Taxes-In-Retirement.jpg?quality=85"
+        },
+        {
             "title": "How to get Amazon Prime settlement refund",
             "link": "https://www.foxbusiness.com/economy/amazon-set-pay-historic-2-5-billion-settlement-customers-able-get-piece",
             "description": "Amazon customers could get a refund if they were impacted by the company's Prime practices, including failed attempts to cancel their subscription.",
@@ -565,25 +642,18 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/amazon-prime-packages-van.jpg"
         },
         {
-            "title": "U.S. expands tariff dragnet to masks, syringes and robotics in sweeping import probe",
-            "link": "https://www.cnbc.com/2025/09/25/trump-tariff-threat-looms-over-robotics-and-medical-devices-section232-import-investigation.html",
-            "description": "The Trump administration has launched investigations into imports of robotics, industrial machinery and medical devices, paving the way for fresh tari...",
-            "pubDate": "2025-09-26T01:00:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The global wealthy are lining up for Trump's $1 million Gold Card after price cut",
-            "link": "https://www.cnbc.com/2025/09/26/trump-gold-card-visa-wealthy.html",
-            "description": "Advisors to the ultra-wealthy said their clients are keen to access the U.S. education system, health care system, banking system and financial market...",
-            "pubDate": "2025-09-26T17:47:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "The IRS Is Ending Paper Checks for Tax Refunds",
+            "link": "https://money.com/irs-ends-paper-checks/?xid=moneyrss",
+            "description": "RIP paper checks: The IRS shifts all refunds to direct deposit and other electronic payment options.",
+            "pubDate": "2025-09-26T16:07:25",
+            "image_url": "https://img.money.com/2025/09/News-Goodbye-Tax-Refund-Paper-Check.jpg?quality=85"
         },
         {
             "title": "Core inflation rate held at 2.9% in August, as expected, Fed’s gauge shows",
             "link": "https://www.cnbc.com/2025/09/26/pce-inflation-august-2025.html",
             "description": "The personal consumption expenditures price index for August was expected to increase 2.9% from a year ago.",
             "pubDate": "2025-09-26T15:50:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Purposefully Leaving A Rental Property Empty As A Luxury Move",
@@ -593,39 +663,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "How gold, bitcoin are moving beyond market hedge and boosting investment income",
-            "link": "https://www.cnbc.com/2025/09/26/gold-bitcoin-market-hedge-income-yield-opportunities-blackrock-etf.html",
-            "description": "Investors want exposure to alternative assets that don't move with stocks and bonds. They also want income. Wall Street and BlackRock have an answer.",
-            "pubDate": "2025-09-26T20:42:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "The global wealthy are lining up for Trump's $1 million Gold Card after price cut",
+            "link": "https://www.cnbc.com/2025/09/26/trump-gold-card-visa-wealthy.html",
+            "description": "Advisors to the ultra-wealthy said their clients are keen to access the U.S. education system, health care system, banking system and financial market...",
+            "pubDate": "2025-09-26T17:47:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Should You Buy Year-Round Insurance for Items You Use Only Seasonally?",
-            "link": "https://money.com/seasonal-insurance-rvs-boats-motorcycles/?xid=moneyrss",
-            "description": "Probably yes to insuring your RV, motorbike, boat or second home for the full year.",
-            "pubDate": "2025-09-25T22:43:34",
-            "image_url": "https://img.money.com/2025/09/Insurance-Recreation-Vehicles.jpg?quality=85"
-        },
-        {
-            "title": "What Are No‑KYC Crypto Exchanges?",
-            "link": "https://money.com/what-are-no-kyc-crypto-exchanges/?xid=moneyrss",
-            "description": "How and why you should use no-KYC crypto exchanges.",
-            "pubDate": "2025-09-25T20:29:12",
-            "image_url": "https://img.money.com/2025/09/Crypto-No-Kyc-Exchanges.jpg?quality=85"
-        },
-        {
-            "title": "Seven Payments Principles for Treasury in 2025 and Beyond",
-            "link": "https://gfmag.com/transaction-banking/seven-payments-principles-for-treasury-in-2025-and-beyond/",
-            "description": "Treasurers today are under tremendous pressure. Cash must move seamlessly to keep pace with rapid technological change and fast internal decision maki...",
-            "pubDate": "2025-09-25T11:15:00",
-            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2025/09/Fides_Logo_RGB_2023-1024x258.png"
-        },
-        {
-            "title": "How to Insure an E-Bike, Moped or Scooter",
-            "link": "https://money.com/insurance-e-bikes-mopeds-scooters/?xid=moneyrss",
-            "description": "Policies on these pint-sized two-wheelers can be very inexpensive, but make sure you're adequately covered.",
-            "pubDate": "2025-09-25T23:08:01",
-            "image_url": "https://img.money.com/2025/09/Insurance-For-Scooters.jpg?quality=85"
+            "title": "U.S. expands tariff dragnet to masks, syringes and robotics in sweeping import probe",
+            "link": "https://www.cnbc.com/2025/09/25/trump-tariff-threat-looms-over-robotics-and-medical-devices-section232-import-investigation.html",
+            "description": "The Trump administration has launched investigations into imports of robotics, industrial machinery and medical devices, paving the way for fresh tari...",
+            "pubDate": "2025-09-26T01:00:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Mortgage rates rise for first time since July",
@@ -642,11 +691,11 @@
             "image_url": "https://s44650.pcdn.co/wp-content/uploads/2025/09/Fides_Logo_RGB_2023-1024x258.png"
         },
         {
-            "title": "Jobless claims tumble to 218,000, well below estimate despite fears of labor market weakness",
-            "link": "https://www.cnbc.com/2025/09/25/jobless-claims-tumble-to-218000-well-below-estimate-despite-fears-of-labor-market-weakness.html",
-            "description": "Initial claims for unemployment insurance were expected to total 235,000 for the week ending Sept. 20.",
-            "pubDate": "2025-09-25T14:52:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Seven Payments Principles for Treasury in 2025 and Beyond",
+            "link": "https://gfmag.com/transaction-banking/seven-payments-principles-for-treasury-in-2025-and-beyond/",
+            "description": "Treasurers today are under tremendous pressure. Cash must move seamlessly to keep pace with rapid technological change and fast internal decision maki...",
+            "pubDate": "2025-09-25T11:15:00",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2025/09/Fides_Logo_RGB_2023-1024x258.png"
         },
         {
             "title": "The AI talent war is becoming fiercer",
@@ -660,14 +709,14 @@
             "link": "https://www.cnbc.com/video/2025/09/25/trump-gold-card-expected-to-sell-out-heres-what-to-know.html",
             "description": "CNBC's Robert Frank joins 'Squawk Box' with the latest news.",
             "pubDate": "2025-09-25T11:50:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "U.S. Latino immigrants generate $1.6 trillion in GDP, report says",
-            "link": "https://www.cnbc.com/2025/09/24/us-latino-immigrants-gdp-report-says.html",
-            "description": "Mass deportations of undocumented workers could cause GDP to decline by $2.3 trillion, or 7.7%, in 2025 dollars, according to the report.",
-            "pubDate": "2025-09-25T13:45:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Jobless claims tumble to 218,000, well below estimate despite fears of labor market weakness",
+            "link": "https://www.cnbc.com/2025/09/25/jobless-claims-tumble-to-218000-well-below-estimate-despite-fears-of-labor-market-weakness.html",
+            "description": "Initial claims for unemployment insurance were expected to total 235,000 for the week ending Sept. 20.",
+            "pubDate": "2025-09-25T14:52:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "New Possibilities In a Blended World of Traditional and Digital Assets",
@@ -698,18 +747,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Investing like the ultra-rich is easier than ever",
-            "link": "https://www.economist.com/finance-and-economics/2025/09/24/investing-like-the-ultra-rich-is-easier-than-ever",
-            "description": "And that worries regulators",
-            "pubDate": "2025-09-24T20:19:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
             "title": "The Difficulty Of Donating Money When You’re Unemployed Or FIRE",
             "link": "https://www.financialsamurai.com/the-difficulty-of-donating-money-when-youre-unemployed-or-fire/",
             "description": "The other evening, my wife and I went to a school reception held for parents and alumni who donated at least a certain amount in the calendar school y...",
             "pubDate": "2025-09-24T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Investing like the ultra-rich is easier than ever",
+            "link": "https://www.economist.com/finance-and-economics/2025/09/24/investing-like-the-ultra-rich-is-easier-than-ever",
+            "description": "And that worries regulators",
+            "pubDate": "2025-09-24T20:19:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "SEC chair wants private market investments available for Americans' 401(k) plans",
@@ -717,48 +766,6 @@
             "description": "SEC Chairman Paul Atkins says the Trump administration will open 401(k) plans to private market investments so that ordinary Americans would may benef...",
             "pubDate": "2025-09-23T18:36:00",
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/sec-chairman-paul-atkins-01.jpg"
-        },
-        {
-            "title": "Target: New Chief Begins Next Year",
-            "link": "https://gfmag.com/capital-raising-corporate-finance/target-new-chief-begins-next-year/",
-            "description": "Starting as a summer intern while still in business school and rising through the ranks to COO, Michael Fiddelke has spent over two decades working fo...",
-            "pubDate": "2025-09-23T11:55:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Uganda: Gold Mine Goes To China",
-            "link": "https://gfmag.com/emerging-frontier-markets/uganda-gold-mine-goes-to-china/",
-            "description": "Yoweri Museveni likes to profile himself as Africa’s biggest proponent of value addition. The post Uganda: Gold Mine Goes To China appeared first on G...",
-            "pubDate": "2025-09-23T11:24:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Target: New Chief Begins Next Year",
-            "link": "https://gfmag.com/capital-raising-corporate-finance/target-new-chief-begins-next-year/",
-            "description": "Starting as a summer intern while still in business school and rising through the ranks to COO, Michael Fiddelke has spent over two decades working fo...",
-            "pubDate": "2025-09-23T11:55:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Tata Launches Digital Battery Passport",
-            "link": "https://gfmag.com/technology/tata-launches-digital-battery-passport/",
-            "description": "India’s Tata Technologies joined the rush last month to make digital battery passports (DBPs) standard issue for electric vehicles and industrial batt...",
-            "pubDate": "2025-09-23T11:59:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Tata Launches Digital Battery Passport",
-            "link": "https://gfmag.com/technology/tata-launches-digital-battery-passport/",
-            "description": "India’s Tata Technologies joined the rush last month to make digital battery passports (DBPs) standard issue for electric vehicles and industrial batt...",
-            "pubDate": "2025-09-23T11:59:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Uganda: Gold Mine Goes To China",
-            "link": "https://gfmag.com/emerging-frontier-markets/uganda-gold-mine-goes-to-china/",
-            "description": "Yoweri Museveni likes to profile himself as Africa’s biggest proponent of value addition. The post Uganda: Gold Mine Goes To China appeared first on G...",
-            "pubDate": "2025-09-23T11:24:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "How to spot a genius",
@@ -786,7 +793,7 @@
             "link": "https://www.worldfinance.com/banking/more-digital-more-human-how-banco-popular-dominicano-is-transforming-banking",
             "description": "Bold redesign updates BPD's branches into technologically advanced, streamlined centres",
             "pubDate": "2025-09-22T09:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Invest In Monopolies To Profit And Win: Resistance Is Futile",
@@ -794,27 +801,6 @@
             "description": "Two decades ago, I learned an important lesson: if you can’t beat them, join them. And if you can’t find a job with the monopolies, then you might as ...",
             "pubDate": "2025-09-22T12:18:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Roche’s Metabolic Drug Strategy Extends to the Liver Disease MASH With $2.4B 89bio Acquisition",
-            "link": "https://dealbreaker.com/2025/09/roches-metabolic-drug-strategy-extends-to-the-liver-disease-mash-with-2-4b-89bio-acquisition",
-            "description": "Roche is buying 89bio to get pegozafermin, a drug currently in two Phase 3 studies for the fatty liver disease MASH.",
-            "pubDate": "2025-09-19T18:00:00",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjE0NDExMTA1MTc3NDQ1Mzk5/roche.jpg"
-        },
-        {
-            "title": "We’re In The Cancelling Talk Shows Phase Of Free Speech Crackdowns",
-            "link": "https://dealbreaker.com/2025/09/were-in-the-cancelling-talk-shows-phase-of-free-speech-crackdowns-",
-            "description": "We are inching closer to Fox and Friends being the only joke of a news source left on TV.",
-            "pubDate": "2025-09-19T17:00:00",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjE3ODY1MDQxMTA0MzQ4Nzc0/obama-kimmel.jpg"
-        },
-        {
-            "title": "Trump Media backs 5 America-focused ETFs",
-            "link": "https://www.foxbusiness.com/markets/trump-media-backs-5-america-focused-etfs",
-            "description": "Five new exchange-traded funds backed by Trump Media target American business themes, addressing market gap for patriotic U.S. investment strategies.",
-            "pubDate": "2025-09-19T15:31:38",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/wall-street-nyse-trader-american-flag-getty.jpg"
         },
         {
             "title": "Trump Asks Supreme Court To Pretend It Didn’t Just Tell Him He Can’t Fire The Fed",
@@ -831,17 +817,38 @@
             "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjE3Mzc5Nzc1MDI5NzE2MTA2/cracker-barrel.jpg"
         },
         {
-            "title": "Dinner for nearly $15,000 — the cost of a meal with DBS bank CEO",
-            "link": "https://www.cnbc.com/2025/09/18/a-private-dinner-in-singapore-with-dbs-ceo-fetched-over-14000.html",
-            "description": "A charity auction in Singapore featured a private dinner with DBS Group's first female CEO Tan Su Shan. The experience fetched a winning bid of over $...",
-            "pubDate": "2025-09-19T04:42:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Roche’s Metabolic Drug Strategy Extends to the Liver Disease MASH With $2.4B 89bio Acquisition",
+            "link": "https://dealbreaker.com/2025/09/roches-metabolic-drug-strategy-extends-to-the-liver-disease-mash-with-2-4b-89bio-acquisition",
+            "description": "Roche is buying 89bio to get pegozafermin, a drug currently in two Phase 3 studies for the fatty liver disease MASH.",
+            "pubDate": "2025-09-19T18:00:00",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjE0NDExMTA1MTc3NDQ1Mzk5/roche.jpg"
+        },
+        {
+            "title": "Trump Media backs 5 America-focused ETFs",
+            "link": "https://www.foxbusiness.com/markets/trump-media-backs-5-america-focused-etfs",
+            "description": "Five new exchange-traded funds backed by Trump Media target American business themes, addressing market gap for patriotic U.S. investment strategies.",
+            "pubDate": "2025-09-19T15:31:38",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/wall-street-nyse-trader-american-flag-getty.jpg"
+        },
+        {
+            "title": "We’re In The Cancelling Talk Shows Phase Of Free Speech Crackdowns",
+            "link": "https://dealbreaker.com/2025/09/were-in-the-cancelling-talk-shows-phase-of-free-speech-crackdowns-",
+            "description": "We are inching closer to Fox and Friends being the only joke of a news source left on TV.",
+            "pubDate": "2025-09-19T17:00:00",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjE3ODY1MDQxMTA0MzQ4Nzc0/obama-kimmel.jpg"
         },
         {
             "title": "The Upside of Grindcore Culture: Work Hard, Profit Harder",
             "link": "https://www.financialsamurai.com/how-to-love-grindcore-culture-and-profit-even-more/",
             "description": "The grindcore culture is back and grindier than ever. At least that’s what Are Kharazian, an economist at fintech startup Ramp, says. (Disclosure: I’m...",
             "pubDate": "2025-09-19T13:38:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Dinner for nearly $15,000 — the cost of a meal with DBS bank CEO",
+            "link": "https://www.cnbc.com/2025/09/18/a-private-dinner-in-singapore-with-dbs-ceo-fetched-over-14000.html",
+            "description": "A charity auction in Singapore featured a private dinner with DBS Group's first female CEO Tan Su Shan. The experience fetched a winning bid of over $...",
+            "pubDate": "2025-09-19T04:42:40",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
@@ -852,13 +859,6 @@
             "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MTgyNDMxOTYzMDI4NjYxMzc5/tiktok.jpg"
         },
         {
-            "title": "How Larry Ellison spends billions without selling many Oracle shares",
-            "link": "https://www.cnbc.com/video/2025/09/18/how-larry-ellison-spends-billions-without-selling-many-oracle-shares.html",
-            "description": "CNBC's Robert Frank reports on how Oracle co-founder and chairman Larry Ellison's net worth has grown by more than $100 billion in the past day.",
-            "pubDate": "2025-09-18T13:09:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
             "title": "Oracle's Larry Ellison made his $365 billion fortune by breaking every rule of wealth management",
             "link": "https://www.cnbc.com/2025/09/18/larry-ellison-365-billion-fortune-wealth-management.html",
             "description": "Larry Ellison's fortune is built on mountains of leverage and risk, allowing him to borrow against his shares and raise cash without giving up control...",
@@ -866,53 +866,53 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "The End Of The Commercial Real Estate Recession Is Finally Here",
-            "link": "https://www.financialsamurai.com/end-of-the-commercial-real-estate-recession-is-finally-here/",
-            "description": "Since 2022, commercial real estate (CRE) investors have been slogging through a rough downturn. Mortgage rates spiked as inflation ripped higher, cap ...",
-            "pubDate": "2025-09-17T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "How Larry Ellison spends billions without selling many Oracle shares",
+            "link": "https://www.cnbc.com/video/2025/09/18/how-larry-ellison-spends-billions-without-selling-many-oracle-shares.html",
+            "description": "CNBC's Robert Frank reports on how Oracle co-founder and chairman Larry Ellison's net worth has grown by more than $100 billion in the past day.",
+            "pubDate": "2025-09-18T13:09:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Your new life in Malta: Permanent residency in just four months",
             "link": "https://www.worldfinance.com/strategy/your-new-life-in-malta-permanent-residency-in-just-four-months",
             "description": "The Mediterranean island is well-connected, tightly-knit, and an ideal location to establish a business",
             "pubDate": "2025-09-16T09:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "The hidden risks in private credit’s $3trn boom",
             "link": "https://www.worldfinance.com/markets/the-hidden-risks-in-private-credits-3trn-boom",
             "description": "As private credit markets balloon into opaque, cross-border mega-funds chasing yield in unstable regions, the sector is hurtling toward a geopolitical...",
             "pubDate": "2025-09-02T09:05:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Europe’s neobanks eye American wallets",
             "link": "https://www.worldfinance.com/banking/europes-neobanks-eye-american-wallets",
             "description": "The old continent’s digital banks are setting their collective sights across the pond at the US market – but they must overcome considerable regulator...",
             "pubDate": "2025-09-01T09:05:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Saudi cuts spark global ripples",
             "link": "https://www.worldfinance.com/wealth-management/saudi-cuts-spark-global-ripples",
             "description": "Plunging oil prices are forcing Saudi Arabia’s powerful Public Investment Fund to slash spending, threatening mega-projects, foreign investment and jo...",
             "pubDate": "2025-08-29T09:04:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
             "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
             "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
             "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Tech, Media & Telecom Roundup: Market Talk",
-            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
-            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
-            "pubDate": "2025-01-27T17:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
+            "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
+            "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+            "pubDate": "2025-01-27T14:36:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "What to Know About China's DeepSeek AI",
@@ -922,18 +922,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
-            "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
-            "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
-            "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Tech, Media & Telecom Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
+            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+            "pubDate": "2025-01-27T17:28:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
             "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
             "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
             "pubDate": "2025-01-26T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }
