@@ -2,35 +2,105 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-09-29T11:01:59.724815",
+    "lastBuildDate": "2025-09-30T07:00:08.552924",
     "items": [
+        {
+            "title": "Dupilumab and lymphoma risk among patients with asthma: a population-based cohort study",
+            "link": "https://www.2minutemedicine.com/dupilumab-and-lymphoma-risk-among-patients-with-asthma-a-population-based-cohort-study/",
+            "description": "1. When compared with inhaled corticosteroids (ICS) plus long-acting β-agonists (LABA), dupilumab treatment was associated with an increased risk of l...",
+            "pubDate": "2025-09-30T00:00:06",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/08/inhaler-asthma-300x150.jpg"
+        },
+        {
+            "title": "As sports betting explodes, should states set more limits to stop gambling addiction?",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5553428/sports-books-betting-gambling-addiction-massachusetts-gamesense",
+            "description": "With concerns about addiction rising, some advocates and lawmakers call for federal regulations on the gambling industry — but would settle for more s...",
+            "pubDate": "2025-09-30T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2016x1512+0+0/resize/2016x1512!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F00%2F69a242ba4bc4afdf40a3c43882ea%2Fus-mgm-floor-riches.jpg"
+        },
+        {
+            "title": "Why physician leadership should be taught from day one of medical school",
+            "link": "https://kevinmd.com/2025/09/why-physician-leadership-should-be-taught-from-day-one-of-medical-school.html",
+            "description": "All physicians lead, not just those with designated leadership titles, such as Medical Director, Department Chair, or Chief Medical Officer. Leadershi...",
+            "pubDate": "2025-09-30T00:00:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Europe’s Immunization Blindspot Could Cost Lives",
+            "link": "https://www.medscape.com/viewarticle/europes-immunization-blindspot-could-cost-lives-2025a1000q4o?src=rss",
+            "description": "The region’s largest diphtheria outbreak in 70 years started in migrant centers, then spilled into communities. Experts say that is why inclusive vacc...",
+            "pubDate": "2025-09-30T10:30:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "As Trump punts on medical debt, battle over patient protections moves to states",
+            "link": "https://medicalxpress.com/news/2025-09-trump-punts-medical-debt-patient.html",
+            "description": "With the Trump administration scaling back federal efforts to protect Americans from medical bills they can't pay, advocates for patients and consumer...",
+            "pubDate": "2025-09-30T11:29:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Societal inequality linked to structural brain changes in children",
+            "link": "https://medicalxpress.com/news/2025-09-societal-inequality-linked-brain-children.html",
+            "description": "Income inequality in society has been linked to structural changes in the brains of children who go on to experience poorer mental health.",
+            "pubDate": "2025-09-30T10:00:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Fewer Adults Need Preventive Aspirin, per PREVENT Estimate",
+            "link": "https://www.medscape.com/viewarticle/fewer-adults-need-preventive-aspirin-prevent-estimate-2025a1000q4n?src=rss",
+            "description": "PREVENT equations classify substantially fewer adults to be eligible for aspirin for the primary prevention of atherosclerotic cardiovascular disease ...",
+            "pubDate": "2025-09-30T10:03:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Aficamten Updates in Two Hypertrophic Cardiomyopathy Trials",
+            "link": "https://www.medscape.com/viewarticle/forest-hcm-and-maple-hcm-updates-aficamten-treating-2025a1000q54?src=rss",
+            "description": "One study examines the small molecular cardiac myosin inhibitor for safety and efficacy at 96 weeks, and another compares it to metoprolol for exercis...",
+            "pubDate": "2025-09-30T11:00:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Coalition of states vows to protect access to abortion pill under Trump review",
+            "link": "https://medicalxpress.com/news/2025-09-coalition-states-vows-access-abortion.html",
+            "description": "A coalition of attorneys general across states including New York, Minnesota and Arizona vowed Monday to protect access to mifepristone, the medicatio...",
+            "pubDate": "2025-09-30T10:10:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Study links food and beverage temperature to mental and gut health",
+            "link": "https://medicalxpress.com/news/2025-09-links-food-beverage-temperature-mental.html",
+            "description": "Be it a cool iced coffee or warm cup of soup, the temperature of what we eat and drink may influence our mental and digestive health, according to new...",
+            "pubDate": "2025-09-30T10:55:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Ophthalmologists Often First to Spot Ocular Syphilis",
+            "link": "https://www.medscape.com/viewarticle/ophthalmologists-often-first-spot-ocular-syphilis-2025a1000q52?src=rss",
+            "description": "Ocular syphilis is re-emerging in Europe and is often first detected by ophthalmologists, with acute placoid chorioretinitis being a common manifestat...",
+            "pubDate": "2025-09-30T11:03:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Disappearing Liver Mets: Can MRI Plus CT Detect Them?",
+            "link": "https://www.medscape.com/viewarticle/disappearing-liver-metastases-can-mri-plus-ct-detect-them-2025a1000q5j?src=rss",
+            "description": "MRI plus CT does not reliably predict nonviability of disappearing colorectal liver metastases, a new study reports. Medscape Medical News",
+            "pubDate": "2025-09-30T11:18:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Sharp increase in gabapentin dispensing highlights need for awareness of adverse effects",
+            "link": "https://medicalxpress.com/news/2025-09-sharp-gabapentin-highlights-awareness-adverse.html",
+            "description": "A cross-sectional study examined dispensing of anticonvulsant gabapentin from retail pharmacies in the United States from 2010 to 2024. The findings r...",
+            "pubDate": "2025-09-30T11:17:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
         {
             "title": "Hundreds of Israeli soldiers were badly wounded in Gaza. Here's what saved them",
             "link": "https://www.npr.org/2025/09/29/nx-s1-5551290/israel-hamas-war-gaza-israeli-soldiers-wounded",
             "description": "More than 500 Israeli soldiers have survived serious injuries fighting in Gaza, according to the military, thanks largely to lessons learned and advan...",
             "pubDate": "2025-09-29T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2Fc5%2F57648b9941c08f31b94f60577452%2Fsoldier-surgery-4-4.JPG"
-        },
-        {
-            "title": "Neglected form of diabetes with unusual symptoms finally gets its own name",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/29/g-s1-90669/neglected-form-of-diabetes-with-unusual-symptoms-finally-gets-its-own-name",
-            "description": "An unusual type of diabetes linked to malnutrition now has a name. Scientists are calling for wider recognition of the newly classified Type 5 diabete...",
-            "pubDate": "2025-09-29T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fae%2Fc6e56ac045d1a06bea8b0ec0e94b%2Fgettyimages-825835842.jpg"
-        },
-        {
-            "title": "Prone to winter depression? Starting light therapy now can help",
-            "link": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
-            "description": "As daylight diminishes people can feel their mood dimming. In fact millions of U.S. adults experience seasonal affective disorder. Light therapy can h...",
-            "pubDate": "2025-09-29T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg"
-        },
-        {
-            "title": "2 Minute Medicine Rewind September 29, 2025",
-            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-september-29-2025/",
-            "description": "Factors in the Initial Resuscitation of Patients With Severe Trauma: The FiiRST-2 Randomized Clinical Trial 1. Replacing clotting factors with fibrino...",
-            "pubDate": "2025-09-29T11:00:22",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/intubation-300x150.jpg"
         },
         {
             "title": "AI bandage cuts wound healing time in new study",
@@ -40,95 +110,67 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/12/800px-Scripps_Mercy_Hospital_Trauma_Room-300x150.jpg"
         },
         {
-            "title": "Giving up alcohol for Sober October? Our newsletter can help you reach your goal",
-            "link": "https://www.npr.org/2025/09/29/nx-s1-5553542/newsletter-guide-sober-october-alcohol-free-month",
-            "description": "If you're curious about Sober October, Life Kit is here to help. Sign up for our newsletter series, and get tips and strategies to help you stay alcoh...",
+            "title": "Body composition measures from magnetic resonance imaging scans may be associated with adverse health outcomes",
+            "link": "https://www.2minutemedicine.com/body-composition-estimates-from-magnetic-resonance-imaging-scans-may-be-associated-with-adverse-health-outcomes/",
+            "description": "1. In this prospective cohort study, an artificial intelligence tool was used to segment magnetic resonance imaging scans into body composition compar...",
+            "pubDate": "2025-09-29T22:00:58",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/mri_edited21-e1759147355458-300x201.jpg"
+        },
+        {
+            "title": "2 Minute Medicine Rewind September 29, 2025",
+            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-september-29-2025/",
+            "description": "Factors in the Initial Resuscitation of Patients With Severe Trauma: The FiiRST-2 Randomized Clinical Trial 1. Replacing clotting factors with fibrino...",
+            "pubDate": "2025-09-29T11:00:22",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/intubation-300x150.jpg"
+        },
+        {
+            "title": "Neglected form of diabetes with unusual symptoms finally gets its own name",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/29/g-s1-90669/neglected-form-of-diabetes-with-unusual-symptoms-finally-gets-its-own-name",
+            "description": "An unusual type of diabetes linked to malnutrition now has a name. Scientists are calling for wider recognition of the newly classified Type 5 diabete...",
             "pubDate": "2025-09-29T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F44%2F7aa4d8a1489d960c3b79a1822b82%2Flk-dry-january-newsletter-harlan-11.jpg"
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fae%2Fc6e56ac045d1a06bea8b0ec0e94b%2Fgettyimages-825835842.jpg"
         },
         {
-            "title": "Motivational support and text messages boost proper child car seat use, clinical trial finds",
-            "link": "https://medicalxpress.com/news/2025-09-text-messages-boost-proper-child.html",
-            "description": "Parents improved their use of appropriate child car seats after remote motivational counseling and mobile-based support, according to the results from...",
-            "pubDate": "2025-09-29T16:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Trump deadline for drugmakers to lower prices comes due",
+            "link": "https://www.npr.org/2025/09/29/nx-s1-5554818/trump-deadline-for-drugmakers-to-lower-prices-comes-due",
+            "description": "The Trump administration sent letters this summer to 17 makers of name-brand drugs pushing them to lower prices to align them with what other countrie...",
+            "pubDate": "2025-09-29T22:05:03",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5554818"
         },
         {
-            "title": "HIV mystery uncovered: How the virus reprograms host cells to create perfect hiding places",
-            "link": "https://medicalxpress.com/news/2025-09-hiv-mystery-uncovered-virus-reprograms.html",
-            "description": "For over three decades, HIV has played an elaborate game of hide-and-seek with researchers, making treating—and possibly even curing—the disease a see...",
-            "pubDate": "2025-09-29T15:58:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Lawsuits against Tylenol's maker get a boost after Trump's comments",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/09/29/nx-s1-5554865/tylenol-autism-lawsuit-kenvue-trump",
+            "description": "A law firm appealing a stalled case against Tylenol's maker, Kenvue, says people are calling to join the suit, alleging the painkiller caused autism i...",
+            "pubDate": "2025-09-29T17:34:48",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F1d%2Fe895ff494dfc898f2159a5460c40%2Fgettyimages-2236325244.jpg"
         },
         {
-            "title": "When a pediatrician becomes the parent navigating childhood obesity [PODCAST]",
-            "link": "https://kevinmd.com/2025/09/when-a-pediatrician-becomes-the-parent-navigating-childhood-obesity-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Internal medicine-pediatric physician Chrissie Ott discusses her arti...",
-            "pubDate": "2025-09-29T00:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Can a doctor’s personal post violate their oath?",
+            "link": "https://kevinmd.com/2025/09/can-a-doctors-personal-post-violate-their-oath.html",
+            "description": "At lunch on September 10, 2025, I opened Instagram for a palate cleanser: cute dog videos, life hack reels, something sweet and uplifting. Instead, I ...",
+            "pubDate": "2025-09-29T21:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "The evolving field of inflammatory bowel disease care — why staying educated matters more than ever",
-            "link": "https://kevinmd.com/2025/09/the-evolving-field-of-inflammatory-bowel-disease-care-why-staying-educated-matters-more-than-ever.html",
-            "description": "This article is sponsored by Takeda. When I started in gastroenterology nineteen years ago, I did not imagine my professional journey would lead me to...",
-            "pubDate": "2025-09-29T11:00:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "A physician’s guide to managing interruptions",
+            "link": "https://kevinmd.com/2025/09/a-physicians-guide-to-managing-interruptions.html",
+            "description": "You are entering orders, rounding, or thinking through a patient problem in the hospital when a team member interrupts. Then comes another interruptio...",
+            "pubDate": "2025-09-29T19:00:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Long-term at-home adaptive deep brain stimulation found to be effective in Parkinson's disease",
-            "link": "https://medicalxpress.com/news/2025-09-term-home-deep-brain-effective.html",
-            "description": "The Department of Neurology and Neurological Sciences at Stanford University School of Medicine, together with multiple academic medical centers and o...",
-            "pubDate": "2025-09-29T15:45:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "What Paige Bueckers’s historic rookie season can teach doctors",
+            "link": "https://kevinmd.com/2025/09/what-paige-bueckerss-historic-rookie-season-can-teach-doctors.html",
+            "description": "Paige Bueckers, a 23-year-old WNBA star, was drafted number one this year to the Dallas Wings and has been having a historic rookie season. Against th...",
+            "pubDate": "2025-09-29T22:00:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Rise of Resistant Bacteria Challenges Infection Control",
-            "link": "https://www.medscape.com/viewarticle/rise-resistant-bacteria-challenges-infection-control-2025a1000q0s?src=rss",
-            "description": "CDC reports a major surge in NDM-producing carbapenem-resistant Enterobacterales infections that may defy most antibiotics. Medscape Medical News",
-            "pubDate": "2025-09-29T14:18:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "GLP-1s Increase GERD Risk Over SGLT2i in T2D",
-            "link": "https://www.medscape.com/viewarticle/glp-1s-increase-gerd-risk-over-sglt2-inhibitors-t2d-2025a1000q0h?src=rss",
-            "description": "In patients with T2D, the risks for gastroesophageal reflux disease and related complications are greater with GLP-1 RA treatment than with SGLT2 inhi...",
-            "pubDate": "2025-09-29T13:16:08",
+            "title": "The cost of illegal immigration on Black communities",
+            "link": "https://kevinmd.com/2025/09/the-cost-of-illegal-immigration-on-black-communities.html",
+            "description": "In the shadowed corridors of America’s great academic hospitals, those bastions of progressive piety nestled in sanctuary cities like Denver, New York...",
+            "pubDate": "2025-09-29T20:00:20",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "No Level of Alcohol Use Is Safe for the Brain",
-            "link": "https://www.medscape.com/viewarticle/no-level-alcohol-use-safe-brain-2025a1000q0q?src=rss",
-            "description": "No level of alcohol use is safe for the brain and even light drinking is tied to increased dementia risk, results of a large observational study sugge...",
-            "pubDate": "2025-09-29T14:07:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "SGLT2i/GLP-1 Combo More Kidney-Protective Than Solo Therapy",
-            "link": "https://www.medscape.com/viewarticle/sglt2i-glp-1-combo-more-kidney-protective-than-solo-therapy-2025a1000q0i?src=rss",
-            "description": "The use of a risk score tool can help match patients with the most effective strategy for kidney protection. Medscape Medical News",
-            "pubDate": "2025-09-29T13:26:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Study shows HPV vaccine protects vaccinated and even unvaccinated women",
-            "link": "https://medicalxpress.com/news/2025-09-hpv-vaccine-vaccinated-unvaccinated-women.html",
-            "description": "A large, long-term study led by an Albert Einstein College of Medicine researcher has found that the introduction of the human papillomavirus (HPV) va...",
-            "pubDate": "2025-09-29T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Reform of federal drug discount program should target misaligned incentives, researchers say",
-            "link": "https://medicalxpress.com/news/2025-09-reform-federal-drug-discount-misaligned.html",
-            "description": "The dramatic growth of a key federal drug discount program has fueled debate about whether it is helping low-income patients as intended or primarily ...",
-            "pubDate": "2025-09-29T16:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Investigational Minoxidil Formulation Grows More Hair",
-            "link": "https://www.medscape.com/viewarticle/early-study-finds-extended-release-minoxidil-grows-more-hair-2025a1000q0u?src=rss",
-            "description": "An investigational extended-release formulation of minoxidil appears to result in more hair growth in a small phase 2 trial comparing it with immediat...",
-            "pubDate": "2025-09-29T14:17:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "2MM: AI Roundup –Lilly launches TuneLab AI drug discovery, smart wound healing bandage, and Punjab cancer screening [September 25th, 2025]",
@@ -136,48 +178,6 @@
             "description": "Lilly unveils TuneLab AI platform for biotechs On September 9, 2025, Eli Lilly officially unveiled TuneLab, a federated AI platform that provides smal...",
             "pubDate": "2025-09-28T14:00:37",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/05/Untitled-design-300x170.png"
-        },
-        {
-            "title": "Endometriosis, AMH, and your fertility",
-            "link": "https://kevinmd.com/2025/09/endometriosis-amh-and-your-fertility.html",
-            "description": "A young woman in her late twenties came to me after surgery for extensive endometriosis. The procedure had given her relief; her pain was gone. Her fo...",
-            "pubDate": "2025-09-28T22:00:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Should older physicians face competency tests?",
-            "link": "https://kevinmd.com/2025/09/should-older-physicians-face-competency-tests.html",
-            "description": "Commercial airline pilots are required to retire at 65 under Federal Aviation Administration regulations. It’s not ageism; it’s safety. Yet physicians...",
-            "pubDate": "2025-09-28T18:00:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Why we need national nurse-to-patient ratios",
-            "link": "https://kevinmd.com/2025/09/why-we-need-national-nurse-to-patient-ratios.html",
-            "description": "My current feeling as a nurse is more closely related to those of a line cook than to what I imagined nursing would be. Patients arrive with complex m...",
-            "pubDate": "2025-09-28T20:00:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Lactate-to-albumin ratio and 28 day mortality in hypertensive patients with atrial fibrillation: a retrospective cohort study",
-            "link": "https://www.2minutemedicine.com/lactate-to-albumin-ratio-and-28-day-mortality-in-hypertensive-patients-with-atrial-fibrillation-a-retrospective-cohort-study/",
-            "description": "1. The lactate-to-albumin ratio was an independent predictor of 28-day mortality in hypertensive patients with atrial fibrillation. Evidence Rating Le...",
-            "pubDate": "2025-09-27T00:00:17",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/heart-cardiovascular-cardiac-PD-300x150.jpg"
-        },
-        {
-            "title": "Outcomes of Critically Ill Adult Patients With Acute Encephalitis",
-            "link": "https://www.2minutemedicine.com/outcomes-of-critically-ill-adult-patients-with-acute-encephalitis/",
-            "description": "1. Poor prognosis (disability or death) at 3 months was observed in half of adult patients with severe encephalitis requiring intensive care unit care...",
-            "pubDate": "2025-09-26T00:00:20",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/MRI_T2_Brain_axial_image-300x150.jpg"
-        },
-        {
-            "title": "There was a different vibe at the U.N. General Assembly. 5 attendees weigh in",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/09/26/g-s1-90731/united-nations-general-assembly",
-            "description": "It's the first high level U.N. gathering since the U.S. foreign aid cuts under the Trump Administration. What were people thinking — and talking about...",
-            "pubDate": "2025-09-26T21:02:15",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4188x2792+0+0/resize/4188x2792!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F60%2F65b2a2654b6e8a8366160479b6d2%2Fgettyimages-2161729346.jpg"
         }
     ]
 }
