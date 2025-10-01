@@ -2,62 +2,13 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-01T10:26:49.464145",
+    "lastBuildDate": "2025-10-01T11:02:07.575617",
     "items": [
-        {
-            "title": "The government shutdown fight hinges on ACA tax credits — and if immigrants should get them",
-            "link": "https://www.cnbc.com/2025/09/30/government-shutdown-healthcare-democrats-republicans.html",
-            "description": "Democrats demand Republicans agree to codify an extension of enhanced premium Obamacare tax credits to keep the government from shutting down.",
-            "pubDate": "2025-10-01T10:56:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Government shutdown live updates: GOP leaders hold presser before Senate vote",
-            "link": "https://www.cnbc.com/2025/10/01/government-shutdown-trump-live-updates.html",
-            "description": "The shutdown could cause hundreds of thousands of federal workers to be furloughed and a slew of key programs and services to be shuttered.",
-            "pubDate": "2025-10-01T15:13:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Trump says Harvard deal is close, university will pay $500 million",
-            "link": "https://www.cnbc.com/2025/09/30/trump-says-harvard-to-pay-500-million-in-deal-with-administration.html",
-            "description": "",
-            "pubDate": "2025-10-01T10:44:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "U.S. government shuts down after midnight as Congress fails to pass funding bills",
-            "link": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
-            "description": "Democrats insist that any stopgap funding bill included an extension of enhance Affordable Care Act tax credits due to expire at the end of 2025.",
-            "pubDate": "2025-10-01T10:51:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
         {
             "title": "ADP revision shows loss of jobs in August vs. previously reported gain",
             "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2af02241-97a5-4941-b07f-b5733e33eb5a&mod=mw_rss_bulletins",
             "description": "",
             "pubDate": "2025-10-01T15:14:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Private-sector jobs fell for the third time in four months, ADP reports",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d9777843-b729-4628-8075-54daadadc938&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-10-01T13:26:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Stocks move lower as U.S. government shuts down and private-sector jobs decline",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=be6a7e4d-c50c-4a52-a4bb-24a29b687c28&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-10-01T14:45:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Economic calendar: Payrolls, construction and factory data on morning agenda",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f2989eb-ca14-4b94-96b1-5ac2ae04d474&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-10-01T13:18:25",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
@@ -65,14 +16,63 @@
             "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dcc8bd84-df19-4058-b56d-5a5c29e3740b&mod=mw_rss_bulletins",
             "description": "",
             "pubDate": "2025-10-01T12:59:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The government shutdown fight hinges on ACA tax credits — and if immigrants should get them",
+            "link": "https://www.cnbc.com/2025/09/30/government-shutdown-healthcare-democrats-republicans.html",
+            "description": "Democrats demand Republicans agree to codify an extension of enhanced premium Obamacare tax credits to keep the government from shutting down.",
+            "pubDate": "2025-10-01T10:56:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Private-sector jobs fell for the third time in four months, ADP reports",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d9777843-b729-4628-8075-54daadadc938&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-10-01T13:26:19",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "'We're headed to a shutdown,' Vance says after Trump meeting with leaders ends",
-            "link": "https://www.cnbc.com/2025/09/29/trump-meeting-democrats-government-shutdown.html",
-            "description": "Democrats have insisted that any short-term funding deal to avoid a shutdown of the U.S. government include an extension of enhanced Obamacare subsidi...",
-            "pubDate": "2025-09-30T14:14:46",
+            "title": "Trump administration freezes $18 billion in New York City infrastructure projects, Vought says",
+            "link": "https://www.cnbc.com/2025/10/01/trump-new-york-funding-infrastructure-vought.html",
+            "description": "The funding freeze for New York City came on the first day of the shutdown of the federal government after Congress failed to pass a stop-gap spending...",
+            "pubDate": "2025-10-01T15:46:32",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Government shutdown live updates: Senate set to vote again on funding bills",
+            "link": "https://www.cnbc.com/2025/10/01/government-shutdown-trump-live-updates.html",
+            "description": "The shutdown could cause hundreds of thousands of federal workers to be furloughed and a slew of key programs and services to be shuttered.",
+            "pubDate": "2025-10-01T15:56:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Stocks move lower as U.S. government shuts down and private-sector jobs decline",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=be6a7e4d-c50c-4a52-a4bb-24a29b687c28&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-10-01T14:45:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Trump says Harvard deal is close, university will pay $500 million",
+            "link": "https://www.cnbc.com/2025/09/30/trump-says-harvard-to-pay-500-million-in-deal-with-administration.html",
+            "description": "",
+            "pubDate": "2025-10-01T10:44:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "U.S. government shuts down after midnight as Congress fails to pass funding bills",
+            "link": "https://www.cnbc.com/2025/09/30/government-shutdown-live-updates.html",
+            "description": "Democrats insist that any stopgap funding bill included an extension of enhance Affordable Care Act tax credits due to expire at the end of 2025.",
+            "pubDate": "2025-10-01T10:51:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Economic calendar: Payrolls, construction and factory data on morning agenda",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f2989eb-ca14-4b94-96b1-5ac2ae04d474&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-10-01T13:18:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }
