@@ -2,14 +2,28 @@
     "title": "Individual feed for https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-01T06:55:55.229494",
+    "lastBuildDate": "2025-10-01T07:43:28.847939",
     "items": [
+        {
+            "title": "Oktoberfest opening delayed in Munich after fatal fire and bomb threat",
+            "link": "https://www.bbc.com/news/articles/c3rv2pv20rvo?at_medium=RSS&at_campaign=rss",
+            "description": "Mayor Dieter Reiter said the Oktoberfest would remain closed until early evening because of a bomb threat.",
+            "pubDate": "2025-10-01T12:27:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "South African firebrand MP Malema convicted of firing a gun in public",
+            "link": "https://www.bbc.com/news/articles/c79vj85px54o?at_medium=RSS&at_campaign=rss",
+            "description": "Julius Malema, known for his incendiary rhetoric, was recently convicted of hate speech.",
+            "pubDate": "2025-10-01T11:57:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
         {
             "title": "Man suspected of ordering murder of three Argentine women arrested",
             "link": "https://www.bbc.com/news/articles/cx2x1vyqd4po?at_medium=RSS&at_campaign=rss",
             "description": "The brutal torture and killing of the three women in Argentina sent shockwaves through the region.",
             "pubDate": "2025-10-01T11:39:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Activists say Gaza flotilla circled by Israeli warship",
@@ -19,25 +33,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "South African firebrand MP Malema convicted of firing a gun in public",
-            "link": "https://www.bbc.com/news/articles/c79vj85px54o?at_medium=RSS&at_campaign=rss",
-            "description": "Julius Malema, known for his incendiary rhetoric, was recently convicted of hate speech.",
-            "pubDate": "2025-10-01T11:13:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
             "title": "Moments as 6.9 magnitude earthquake hit Philippines",
             "link": "https://www.bbc.co.uk/programmes/p0m5zh5n?at_medium=RSS&at_campaign=rss",
             "description": "Moments as 6.9 magnitude earthquake hit Philippines",
             "pubDate": "2025-10-01T10:24:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "State of calamity in Philippines province as earthquake kills 69",
-            "link": "https://www.bbc.com/news/articles/ced5pyjzej3o?at_medium=RSS&at_campaign=rss",
-            "description": "The earthquake comes barely more than a week after the country was hit by back-to-back typhoons.",
-            "pubDate": "2025-10-01T10:19:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
