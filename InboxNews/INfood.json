@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-02T07:21:07.918238",
+    "lastBuildDate": "2025-10-02T10:39:48.665192",
     "items": [
+        {
+            "title": "Pork Chop Marinade",
+            "link": "https://therecipecritic.com/pork-chop-marinade/",
+            "description": "Stop making boring pork chops. You NEED this pork chop marinade, with soy sauce, brown sugar, garlic, Dijon, and citrus!…",
+            "pubDate": "2025-10-02T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2023/05/pork-chop-marinade.jpg"
+        },
         {
             "title": "Chewy, Buttery Congo Bars",
             "link": "https://therecipecritic.com/congo-bars/",
@@ -12,18 +19,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2023/04/congo-bars-2-2.jpg"
         },
         {
-            "title": "Million Dollar Soup",
-            "link": "https://therecipecritic.com/million-dollar-soup/",
-            "description": "Million Dollar Soup is creamy, comforting, and worth every bite! The tomato base is rich and loaded with sausage, cheesy…",
-            "pubDate": "2025-09-30T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/million-dollar-soup-1.jpg"
-        },
-        {
             "title": "Instant Chai Latte Mix (Dairy-Free)",
             "link": "https://minimalistbaker.com/instant-chai-latte-mix/",
             "description": "Making chai lattes has never been easier! This Instant Chai Latte Mix makes comforting chai lattes possible instantly . Just add water and your favori...",
             "pubDate": "2025-09-30T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Instant-Chai-Latte-Mix-8-680x1020.jpg"
+        },
+        {
+            "title": "Million Dollar Soup",
+            "link": "https://therecipecritic.com/million-dollar-soup/",
+            "description": "Million Dollar Soup is creamy, comforting, and worth every bite! The tomato base is rich and loaded with sausage, cheesy…",
+            "pubDate": "2025-09-30T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/million-dollar-soup-1.jpg"
         },
         {
             "title": "Perfectly Tender London Broil",
@@ -38,13 +45,6 @@
             "description": "My love of cozy soups kicks in the second summer fades. This creamy vegetable tortellini soup gives me all the…",
             "pubDate": "2025-09-28T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/tortellini-soup-1.jpg"
-        },
-        {
-            "title": "How To Air Fry Frozen Meatballs",
-            "link": "https://therecipecritic.com/air-fryer-frozen-meatballs/",
-            "description": "Okay, hear me out, frozen meatballs in the air fryer are a total game-changer. They come out crispy on the…",
-            "pubDate": "2025-09-27T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2022/05/airfryerfrozenmeatballs.jpg"
         },
         {
             "title": "Pillowy Gluten-Free Pita (from Aran Goyoaga’s Cookbook)",

@@ -2,15 +2,8 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-02T07:22:06.458796",
+    "lastBuildDate": "2025-10-02T10:40:38.462110",
     "items": [
-        {
-            "title": "What Mississippi's infant mortality crisis says about the risks of Medicaid cuts",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5558448/mississippi-medicaid-infant-mortality-crisis",
-            "description": "Mississippi recently declared a public health emergency because its infant mortality rate has surged. And with Medicaid cuts coming, experts fear the ...",
-            "pubDate": "2025-10-02T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2Fa0%2F95cf523e42aab90bb12fa29ef33a%2F092625jlr-0093.jpg"
-        },
         {
             "title": "Left Atrial Appendage Closure in Patients Refusing Oral Anticoagulation: The LAAC‐REFUSAL Study",
             "link": "https://www.2minutemedicine.com/left-atrial-appendage-closure-in-patients-refusing-oral-anticoagulation-the-laac%e2%80%90refusal-study/",
@@ -19,74 +12,109 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/04/Atrial_fibrillation_01-300x150.jpg"
         },
         {
-            "title": "Want fewer morning aches? You might have to change the way you sleep",
+            "title": "CASPer Exam: Transforming Medical School Admissions",
+            "link": "https://www.2minutemedicine.com/casper-exam-transforming-medical-school-admissions/",
+            "description": "Why CASPer Matters The CASPer exam (Computer-Based Assessment for Sampling Personal Characteristics) has become an increasingly common requirement in ...",
+            "pubDate": "2025-10-02T15:30:12",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2023/11/image-15-300x225.png"
+        },
+        {
+            "title": "Want fewer morning aches? You might need to change the way you sleep",
             "link": "https://www.npr.org/2025/10/02/nx-s1-5435668/sleep-body-pain-minimize-morning-aches-soreness",
             "description": "Whether you're a back, side or stomach sleeper, medical professionals explain how to position your body to guard against neck cricks, shoulder aches a...",
             "pubDate": "2025-10-02T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+0/resize/4500x2531!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2Fe3%2F4fbdb35c481ea1870d6eaffe1c7b%2Fmiotke-life-kit-illo-1-final-revised.jpg"
         },
         {
-            "title": "Over a dozen Australian sunscreens pulled over safety concerns",
-            "link": "https://medicalxpress.com/news/2025-10-dozen-australian-sunscreens-safety.html",
-            "description": "The makers of over a dozen sunscreens have halted sales in Australia after a consumer advocacy group analysis found many of them did not provide the s...",
-            "pubDate": "2025-10-02T09:50:08",
+            "title": "What Mississippi's infant mortality crisis says about the risks of Medicaid cuts",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5558448/mississippi-medicaid-infant-mortality-crisis",
+            "description": "Mississippi recently declared a public health emergency because its infant mortality rate has surged. And with Medicaid cuts coming, experts fear the ...",
+            "pubDate": "2025-10-02T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2Fa0%2F95cf523e42aab90bb12fa29ef33a%2F092625jlr-0093.jpg"
+        },
+        {
+            "title": "What's behind the health care fight that led to the government shutdown",
+            "link": "https://www.npr.org/2025/10/02/nx-s1-5559810/shutdown-aca-health-care-premium-subsidies",
+            "description": "It's Obamacare health insurance prices — and how much help 24 million Americans will get with their premiums — that are in dispute.",
+            "pubDate": "2025-10-02T15:03:53",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2Ff2%2Ffdfb87644adbabc804b33c4e47d7%2Fgettyimages-2238021258.jpg"
+        },
+        {
+            "title": "Objects Pose Higher Infant Choking Hazard Than Food",
+            "link": "https://www.medscape.com/viewarticle/infants-more-likely-die-choking-objects-than-food-study-2025a1000qik?src=rss",
+            "description": "The findings suggest that pediatricians may need to expand counseling beyond food introduction to include a broader focus on environmental hazards. Me...",
+            "pubDate": "2025-10-02T14:54:20",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Low-Dose Radiation Improved Knee OA Pain and Function",
-            "link": "https://www.medscape.com/viewarticle/low-dose-radiation-improved-knee-osteoarthritis-pain-and-2025a1000qhk?src=rss",
-            "description": "Results from only the third randomized controlled trial on the modern use of low-dose radiation therapy for osteoarthritis validated current doses use...",
-            "pubDate": "2025-10-02T12:00:16",
+            "title": "Early Life Factors Predict Lung Aging",
+            "link": "https://www.medscape.com/viewarticle/fathers-puberty-mothers-obesity-predict-offspring-lung-aging-2025a1000qic?src=rss",
+            "description": "Exposures before birth and in early life, including paternal smoking and maternal obesity, are key predictors of lung health and aging. Medscape Medic...",
+            "pubDate": "2025-10-02T14:43:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "A healthier lifestyle after bowel screening shown to prevent bowel cancer",
+            "link": "https://medicalxpress.com/news/2025-10-healthier-lifestyle-bowel-screening-shown.html",
+            "description": "If you adopt a healthier lifestyle after bowel screening, it can lower your risk of both bowel cancer and other chronic diseases, a new study shows.",
+            "pubDate": "2025-10-02T15:30:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "FDA authorizes Essilor Stellest eyeglass lenses for children with myopia",
+            "link": "https://medicalxpress.com/news/2025-10-fda-authorizes-essilor-stellest-eyeglass.html",
+            "description": "The U.S. Food and Drug Administration has authorized marketing of the Essilor Stellest eyeglass lenses to correct myopia, with or without astigmatism,...",
+            "pubDate": "2025-10-02T15:10:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Discovery about RAF protein in flies 20 years ago leads to phase-1 testing of therapy against solid cancer tumors",
+            "link": "https://medicalxpress.com/news/2025-10-discovery-raf-protein-flies-years.html",
+            "description": "Scientists at Université de Montreal and its Institute for Research in Immunology and Cancer have begun a phase-1 clinical trial for a small-molecule ...",
+            "pubDate": "2025-10-02T15:20:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Tiny cell messengers in obese individuals accelerate Alzheimer's-linked plaque buildup in the brain, study finds",
-            "link": "https://medicalxpress.com/news/2025-10-tiny-cell-messengers-obese-individuals.html",
-            "description": "Obesity has long been acknowledged as a risk factor for a wide range of diseases, but a more precise link between obesity and Alzheimer's disease has ...",
-            "pubDate": "2025-10-02T12:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Rethinking Exercise in Severe Respiratory Disease",
+            "link": "https://www.medscape.com/viewarticle/new-strategies-help-respiratory-patients-overcome-exercise-2025a1000qit?src=rss",
+            "description": "A multipronged exercise rehabilitation approach can improve function and quality of life in patients with severe respiratory impairment. Medscape Medi...",
+            "pubDate": "2025-10-02T15:37:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Minnesota reports 13 more measles cases, raising 2025 total to 18",
+            "link": "https://medicalxpress.com/news/2025-10-minnesota-measles-cases-total.html",
+            "description": "Thirteen measles cases have been identified over the past week in Minnesota, including a cluster of 10 cases in Dakota County and three separate cases...",
+            "pubDate": "2025-10-02T15:40:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Do Trial Results Suggest Acne Isotretinoin Replacement?",
+            "link": "https://www.medscape.com/viewarticle/do-trial-results-suggest-acne-isotretinoin-replacement-2025a1000qin?src=rss",
+            "description": "Oral treatment with the novel fatty acid synthase inhibitor denifanstat induced significant improvements in moderate-to-severe acne. Medscape Medical ...",
+            "pubDate": "2025-10-02T15:05:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Why imposter syndrome is a systemic issue, not a personal flaw [PODCAST]",
             "link": "https://kevinmd.com/2025/10/why-imposter-syndrome-is-a-systemic-issue-not-a-personal-flaw-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Physician Jessie Mahoney discusses her article “Imposter syndrome is ...",
             "pubDate": "2025-10-02T00:00:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Early intake of the antidepressant fluoxetine alters brain development in rats, study finds",
-            "link": "https://medicalxpress.com/news/2025-10-early-intake-antidepressant-fluoxetine-brain.html",
-            "description": "Past neuroscience studies have consistently showed the profound effects of early life experiences on the brain's wiring, particularly on the formation...",
-            "pubDate": "2025-10-02T12:10:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Evidence on Melatonin, Ashwagandha Favorable in Children",
-            "link": "https://www.medscape.com/viewarticle/melatonin-ashwagandha-among-popular-supplements-short-term-2025a1000qha?src=rss",
-            "description": "While studies have found benefit from short-term use of melatonin and ashwagandha in children, other supplements lack evidence, and none have long-ter...",
-            "pubDate": "2025-10-02T11:28:33",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Psilocybin targets brain circuits to relieve chronic pain and depression, study suggests",
-            "link": "https://medicalxpress.com/news/2025-10-psilocybin-brain-circuits-relieve-chronic.html",
-            "description": "Researchers at Penn Medicine have identified specific brain circuits that are impacted by psilocybin—the active compound found in some psychedelic mus...",
-            "pubDate": "2025-10-02T10:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Early Antifungals Lower IAPA Incidence but Not Survival",
+            "link": "https://www.medscape.com/viewarticle/early-antifungal-treatment-lowers-incidence-influenza-2025a1000qiq?src=rss",
+            "description": "Although empirical antifungal treatment in ICU patients with influenza-associated acute respiratory distress syndrome reduces influenza-associated pul...",
+            "pubDate": "2025-10-02T15:22:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Semaglutide, tirzepatide recommended as first-line treatment of obesity and most of its complications in new guidance",
-            "link": "https://medicalxpress.com/news/2025-10-semaglutide-tirzepatide-line-treatment-obesity.html",
-            "description": "Semaglutide or tirzepatide should be the first line treatment for people living with obesity and most of its complications, according to a new framewo...",
-            "pubDate": "2025-10-02T10:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "The effect between etomidate and ketamine on peri-intubation hypotension in elderly patients in the emergency department",
-            "link": "https://www.2minutemedicine.com/the-effect-between-etomidate-and-ketamine-on-peri-intubation-hypotension-in-elderly-patients-in-the-emergency-department/",
-            "description": "1. There was no significant difference in peri-intubation hypotension (PIH) and 28-day mortality between etomidate and ketamine as a single induction ...",
-            "pubDate": "2025-10-01T00:00:55",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/intubation-300x150.jpg"
+            "title": "Mapping cilia proteins sheds light on rare childhood diseases and genetic disorders",
+            "link": "https://medicalxpress.com/news/2025-10-cilia-proteins-rare-childhood-diseases.html",
+            "description": "Attached to nearly every human cell is an antenna-like structure known as the primary cilium, which senses the cell's environment and controls how it ...",
+            "pubDate": "2025-10-02T15:16:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Lilly unveils TuneLab AI platform for biotechs",
@@ -96,6 +124,20 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/05/computer_edited-300x150.jpg"
         },
         {
+            "title": "The effect between etomidate and ketamine on peri-intubation hypotension in elderly patients in the emergency department",
+            "link": "https://www.2minutemedicine.com/the-effect-between-etomidate-and-ketamine-on-peri-intubation-hypotension-in-elderly-patients-in-the-emergency-department/",
+            "description": "1. There was no significant difference in peri-intubation hypotension (PIH) and 28-day mortality between etomidate and ketamine as a single induction ...",
+            "pubDate": "2025-10-01T00:00:55",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/intubation-300x150.jpg"
+        },
+        {
+            "title": "Hundreds of VA clinicians warn that cuts threaten vets' health care",
+            "link": "https://www.npr.org/2025/10/01/nx-s1-5554394/hundreds-of-va-clinicians-warn-that-cuts-threaten-vets-health-care",
+            "description": "Hundreds of current and former VA clinicians have sent an open letter to the Secretary of Veterans Affairs, warning that cuts and increased privatizat...",
+            "pubDate": "2025-10-01T22:41:41",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5554394"
+        },
+        {
             "title": "A new documentary about a dastardly worm and a heroic effort by Jimmy Carter",
             "link": "https://www.npr.org/sections/goats-and-soda/2025/10/01/g-s1-91262/jimmy-carter-guinea-worm-president-dragon-television-amazon",
             "description": "\"The President and the Dragon,' premiering today, looks at Carter's momentous decision to try and wipe out a devastating and neglected disease. We spo...",
@@ -103,18 +145,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3614x2400+0+0/resize/3614x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F37%2Fc12737824a6393cc85fbdb43ce9a%2Fjimmy-carter-guinea-worm.jpg"
         },
         {
-            "title": "President Trump announces deal with Pfizer to sell its drugs on federal website",
-            "link": "https://www.npr.org/2025/10/01/nx-s1-5558334/president-trump-announces-deal-with-pfizer-to-sell-its-drugs-on-federal-website",
-            "description": "President Trump on Tuesday announced a deal with Pfizer to sell its drugs directly to consumers at discounted prices. They'll be available through a w...",
-            "pubDate": "2025-10-01T09:45:28",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5558334"
-        },
-        {
-            "title": "Researchers concerned new U.S. dietary guidelines will overlook harms of alcohol",
-            "link": "https://www.npr.org/2025/10/01/nx-s1-5552529/researchers-concerned-new-u-s-dietary-guidelines-will-overlook-harms-of-alcohol",
-            "description": "The federal government is getting ready to release new dietary guidelines, but some researchers are concerned the harmful effects of alcohol will be o...",
-            "pubDate": "2025-10-01T09:44:34",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5552529"
+            "title": "Reclaiming the human parts of a physician",
+            "link": "https://kevinmd.com/2025/10/reclaiming-the-human-parts-of-a-physician.html",
+            "description": "When you step into medical training, you’re often told, both implicitly and sometimes even explicitly, that certain parts of you don’t belong. Sensiti...",
+            "pubDate": "2025-10-01T22:00:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Stepping down in medicine is an evolution",
@@ -124,53 +159,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Selected Biomarkers Help Detect Early Gestational Diabetes",
-            "link": "https://www.medscape.com/viewarticle/selected-biomarkers-help-detect-early-gestational-diabetes-2025a1000qfn?src=rss",
-            "description": "A model comprised of a selected panel of cardiometabolic biomarkers assessed in blood samples in early pregnancy shows promising accuracy in predictin...",
-            "pubDate": "2025-10-01T22:18:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Pelvic Radiation Cuts Recurrences in High-Risk MIBC",
-            "link": "https://www.medscape.com/viewarticle/pelvic-radiation-cuts-recurrences-high-risk-mibc-2025a1000qfk?src=rss",
-            "description": "Post-surgery radiation slashes the risk of locoregional recurrence in patients with advanced muscle-invasive bladder cancer — but what is its role alo...",
-            "pubDate": "2025-10-01T21:42:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
             "title": "The ethics of marketing unproven autism tests",
             "link": "https://kevinmd.com/2025/10/the-ethics-of-marketing-unproven-autism-tests.html",
             "description": "When I received an invitation to a webinar titled “Special Session on a New Autism Risk Test,” I expected a discussion on screening strategies or inte...",
             "pubDate": "2025-10-01T17:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "My journey into integrative medicine started as a patient",
             "link": "https://kevinmd.com/2025/10/my-journey-into-integrative-medicine-started-as-a-patient.html",
             "description": "Twenty years ago, when I started medical school, I had no idea that this would be my path. Coming from a research background in cancer biology and bio...",
             "pubDate": "2025-10-01T20:00:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "How Well Do Mothers Follow Infant Sleep and Care Practices?",
-            "link": "https://www.medscape.com/viewarticle/how-well-do-mothers-follow-infant-sleep-and-care-practices-2025a1000qft?src=rss",
-            "description": "Most mothers follow some of the recommendations for infant sleep and care practices, but only one-fifth follow all, a study finds. Medscape Medical Ne...",
-            "pubDate": "2025-10-01T23:03:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Reclaiming the human parts of a physician",
-            "link": "https://kevinmd.com/2025/10/reclaiming-the-human-parts-of-a-physician.html",
-            "description": "When you step into medical training, you’re often told, both implicitly and sometimes even explicitly, that certain parts of you don’t belong. Sensiti...",
-            "pubDate": "2025-10-01T22:00:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Dupilumab and lymphoma risk among patients with asthma: a population-based cohort study",
-            "link": "https://www.2minutemedicine.com/dupilumab-and-lymphoma-risk-among-patients-with-asthma-a-population-based-cohort-study/",
-            "description": "1. When compared with inhaled corticosteroids (ICS) plus long-acting β-agonists (LABA), dupilumab treatment was associated with an increased risk of l...",
-            "pubDate": "2025-09-30T00:00:06",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/08/inhaler-asthma-300x150.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Punjab launches AI screening program this week",
