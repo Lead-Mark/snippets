@@ -2,7 +2,7 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-03T06:28:51.361370",
+    "lastBuildDate": "2025-10-03T11:02:30.027555",
     "items": [
         {
             "title": "FDA approves another generic abortion pill, prompting outrage from conservatives",
@@ -12,6 +12,13 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5883x3922+0+0/resize/5883x3922!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F62%2F69114ad84da89f6f736bc45fb6bd%2Ffda-abortionpill-ap.jpg"
         },
         {
+            "title": "Antioxidant Treatment and the Chance to Conceive in Men Seeking Fertility Care: The SUMMER Randomized Clinical Trial",
+            "link": "https://www.2minutemedicine.com/antioxidant-treatment-and-the-chance-to-conceive-in-men-seeking-fertility-care-the-summer-randomized-clinical-trial/",
+            "description": "1. In a cohort of men trying to conceive, the use of antioxidants did not significantly improve pregnancy rates compared to a placebo. 2. In the “opti...",
+            "pubDate": "2025-10-03T16:00:11",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/08/pregnancy3_PD_edited-300x150.jpg"
+        },
+        {
             "title": "Efficacy and Safety of Ammoxetine in Major Depressive Disorder",
             "link": "https://www.2minutemedicine.com/efficacy-and-safety-of-ammoxetine-in-major-depressive-disorder/",
             "description": "1. Ammoxetine, a novel SNRI developed from duloxetine, was effective at treating adults with major depressive disorder (MDD) and was safe and well-tol...",
@@ -19,81 +26,88 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/05/depression2_CC_wiki_Sander_van_der_Wel_edited-300x150.jpg"
         },
         {
-            "title": "US regulator approves new generic abortion pill, conservatives outraged",
-            "link": "https://medicalxpress.com/news/2025-10-generic-abortion-pill-outraged.html",
-            "description": "US regulators have approved an additional generic version of the abortion pill mifepristone, a normally routine move that nevertheless angered anti-ab...",
-            "pubDate": "2025-10-03T10:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "DAWN Trial: Redefining the Treatment Window for Stroke Thrombectomy",
+            "link": "https://www.2minutemedicine.com/dawn-trial-redefining-the-treatment-window-for-stroke-thrombectomy/",
+            "description": "Why DAWN Changed Stroke Care The DAWN trial (DWI or CTP Assessment with Clinical Mismatch in the Triage of Wake-Up and Late-Presenting Strokes Undergo...",
+            "pubDate": "2025-10-03T15:30:39",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/stroke-PD-300x150.jpg"
         },
         {
-            "title": "RCPCH Issues New Standards Amid Rising Paediatric A&E Demand",
-            "link": "https://www.medscape.com/viewarticle/rcpch-issues-new-standards-amid-rising-paediatric-a-e-2025a1000qkr?src=rss",
-            "description": "New standards target rising paediatric A&E attendances, as experts warn children are failed by stretched and underfunded services. Medscape News UK",
-            "pubDate": "2025-10-03T10:20:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Autism Is Not One Disorder, New Data Show",
+            "link": "https://www.medscape.com/viewarticle/autism-not-one-disorder-new-data-show-2025a1000qmm?src=rss",
+            "description": "Autism diagnosed early differs genetically and developmentally from autism identified later, challenging the theory that it is a single, uniform condi...",
+            "pubDate": "2025-10-03T15:48:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "The Nurse Practitioner Is in Aisle 3",
-            "link": "https://www.medscape.com/viewarticle/nurse-practitioner-aisle-3-rise-retail-health-clinic-2025a1000qkj?src=rss",
-            "description": "Is the future of frontline healthcare unfolding in 7-minute visits with a nurse practitioner at your favorite retail store? Medscape Medical News",
-            "pubDate": "2025-10-03T10:31:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Health experts double down on minimal meat-eating call",
-            "link": "https://medicalxpress.com/news/2025-10-health-experts-minimal-meat.html",
-            "description": "International experts insisted Friday that a healthy diet should keep meat to a minimum, doubling down on previous conclusions the food industry had f...",
-            "pubDate": "2025-10-03T10:50:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Endoscopic Septum Division Safe for Esophageal Diverticulum",
-            "link": "https://www.medscape.com/viewarticle/endoscopic-septum-division-safe-esophageal-diverticulum-2025a1000qku?src=rss",
-            "description": "Submucosal tunneling endoscopic septum division proves a safe, effective, minimally invasive treatment option for esophageal diverticulum. Medscape Me...",
-            "pubDate": "2025-10-03T10:58:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Splicing factor could be therapeutic target for preeclampsia",
-            "link": "https://medicalxpress.com/news/2025-10-splicing-factor-therapeutic-preeclampsia.html",
-            "description": "Preeclampsia is a pregnancy complication with serious risks for mother and child. The only real cure for preeclampsia is delivery. Now, a new mouse st...",
-            "pubDate": "2025-10-03T10:33:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Common Medications Raise Risk for Skin Hyperpigmentation",
-            "link": "https://www.medscape.com/viewarticle/study-ties-common-antibiotics-antidepressants-and-diuretics-2025a1000ql4?src=rss",
-            "description": "Common medications like doxycycline, minocycline, and hydrochlorothiazide are associated with an increased risk for clinically significant skin hyperp...",
-            "pubDate": "2025-10-03T11:25:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Moisturizers tested to find best for scar management",
-            "link": "https://medicalxpress.com/news/2025-10-moisturizers-scar.html",
-            "description": "Not all moisturizers are equal when it comes to scar management, according to new research by University of Adelaide experts and researchers at the Ro...",
-            "pubDate": "2025-10-03T10:35:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Semaglutide Shows Safety in Patients on Dialysis",
-            "link": "https://www.medscape.com/viewarticle/semaglutide-shows-safety-patients-dialysis-2025a1000qkt?src=rss",
-            "description": "The study is the largest of its kind reporting on GLP-1 treatment in patients on dialysis, who are commonly excluded from clinical trials. Medscape Me...",
-            "pubDate": "2025-10-03T10:39:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Drug-related accidental injury deaths climb nearly 60% in 5 years across the US",
+            "link": "https://medicalxpress.com/news/2025-10-drug-accidental-injury-deaths-climb.html",
+            "description": "An increasing number of people are dying from drug-related accidental injuries. The rate has risen by nearly 60% within the last five years, according...",
+            "pubDate": "2025-10-03T16:00:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Why the “Cap’n Crunch” approach to medicine puts patients at risk [PODCAST]",
             "link": "https://kevinmd.com/2025/10/why-the-capn-crunch-approach-to-medicine-puts-patients-at-risk-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Patient advocate Timothy Thomas discusses his article “The Cap’n Crun...",
             "pubDate": "2025-10-03T00:00:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Radiation Therapy: A Novel Approach for Refractory VT",
+            "link": "https://www.medscape.com/viewarticle/radiation-therapy-bests-standard-ablation-refractory-vt-2025a1000qlt?src=rss",
+            "description": "Patients with refractory VT may be too medically fragile to safely undergo a repeat catheter ablation. Is stereotactic radiation therapy a safe and ef...",
+            "pubDate": "2025-10-03T13:28:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Untreated depression can make surgical outcomes worse in cancer patients",
+            "link": "https://medicalxpress.com/news/2025-10-untreated-depression-surgical-outcomes-worse.html",
+            "description": "Depression is known to be associated with physical health challenges, in everything from disrupting sleep to an increased cancer risk. Depression can ...",
+            "pubDate": "2025-10-03T16:00:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Rectal bleeding in young adults linked to 8.5 times higher risk of colorectal cancer",
+            "link": "https://medicalxpress.com/news/2025-10-rectal-young-adults-linked-higher.html",
+            "description": "Adults under 50 undergoing colonoscopy were found to have a dramatically higher risk of having colorectal cancer when the procedure was done for recta...",
+            "pubDate": "2025-10-03T16:00:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Patients value communication skills from cancer surgeons across six key areas, according to research",
+            "link": "https://medicalxpress.com/news/2025-10-patients-communication-skills-cancer-surgeons.html",
+            "description": "Facing a cancer diagnosis can be one of the most stressful times for patients and their loved ones. When seeking a surgeon for treatment, providing em...",
+            "pubDate": "2025-10-03T16:00:23",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Canada reports first death linked to measles epidemic",
-            "link": "https://medicalxpress.com/news/2025-10-canada-death-linked-measles-epidemic.html",
-            "description": "An infant born prematurely in the western Canadian province of Alberta died as a result of measles, officials said Thursday, the first fatality linked...",
-            "pubDate": "2025-10-03T10:33:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Racial, Ethnic Discrimination Tied to Psychosis Risk",
+            "link": "https://www.medscape.com/viewarticle/racial-ethnic-discrimination-tied-psychosis-risk-2025a1000qlx?src=rss",
+            "description": "Racial and ethnic discrimination is strongly linked to increased psychosis risk, highlighting the need for public health interventions, researchers sa...",
+            "pubDate": "2025-10-03T13:44:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "MPTS Issues New Guidance on Doctor Misconduct Cases",
+            "link": "https://www.medscape.com/viewarticle/mpts-issues-new-guidance-doctor-misconduct-cases-2025a1000qm9?src=rss",
+            "description": "Updated guidance from the MPTS seeks to improve consistency and transparency in tribunal decisions involving serious cases of misconduct. Medscape New...",
+            "pubDate": "2025-10-03T14:43:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Endocarditis Deaths Rise in Pregnancy-Related Infections",
+            "link": "https://www.medscape.com/viewarticle/endocarditis-deaths-rise-among-pregnant-women-cdc-data-2025a1000qmq?src=rss",
+            "description": "Sepsis was the leading cause of infection-related maternal mortality. Medscape Medical News",
+            "pubDate": "2025-10-03T16:00:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "In car crashes with pedestrians, age and zip code may predict extent of traumatic injuries",
+            "link": "https://medicalxpress.com/news/2025-10-car-pedestrians-age-code-extent.html",
+            "description": "Pedestrian-motor vehicle accidents are a common cause of injury in both children and adults, accounting for one death every 64 minutes and injuring th...",
+            "pubDate": "2025-10-03T16:00:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "What's behind the health care fight that led to the government shutdown",
@@ -108,13 +122,6 @@
             "description": "Access to the COVID-19 vaccines remains difficult because of an unusual and unexplained delay by the Centers for Disease Control and Prevention in acc...",
             "pubDate": "2025-10-02T21:35:49",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F27%2Fbb0a8c474b1ea300858a75f25ec2%2Fgettyimages-1241439406.jpg"
-        },
-        {
-            "title": "CASPer Exam: Transforming Medical School Admissions",
-            "link": "https://www.2minutemedicine.com/casper-exam-transforming-medical-school-admissions/",
-            "description": "Why CASPer Matters The CASPer exam (Computer-Based Assessment for Sampling Personal Characteristics) has become an increasingly common requirement in ...",
-            "pubDate": "2025-10-02T15:30:12",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2023/11/image-15-300x225.png"
         },
         {
             "title": "Left Atrial Appendage Closure in Patients Refusing Oral Anticoagulation: The LAAC‐REFUSAL Study",
@@ -138,25 +145,32 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2Fa0%2F95cf523e42aab90bb12fa29ef33a%2F092625jlr-0093.jpg"
         },
         {
-            "title": "Why doctors are leaving insurance-based care",
-            "link": "https://kevinmd.com/2025/10/why-doctors-are-leaving-insurance-based-care.html",
-            "description": "For years, concierge medicine and direct primary care (DPC) were viewed as fringe alternatives, reserved for affluent patients or entrepreneurial phys...",
-            "pubDate": "2025-10-02T18:00:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "The Cap’n Crunch philosophy of medicine",
-            "link": "https://kevinmd.com/2025/10/the-capn-crunch-philosophy-of-medicine.html",
-            "description": "Cap’n Crunch never held a true naval rank; he was called “Cap’n” because he was the highest-ranking person present, not because he replaced someone mo...",
-            "pubDate": "2025-10-02T22:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "CASPer Exam: Transforming Medical School Admissions",
+            "link": "https://www.2minutemedicine.com/casper-exam-transforming-medical-school-admissions/",
+            "description": "Why CASPer Matters The CASPer exam (Computer-Based Assessment for Sampling Personal Characteristics) has become an increasingly common requirement in ...",
+            "pubDate": "2025-10-02T15:30:12",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2023/11/image-15-300x225.png"
         },
         {
             "title": "Building the medical home before it had a name",
             "link": "https://kevinmd.com/2025/10/building-the-medical-home-before-it-had-a-name.html",
             "description": "In the early 1990s, while the American Academy of Pediatrics was formalizing its vision of the “medical home,” we were already living it, without a na...",
             "pubDate": "2025-10-02T20:00:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "The Cap’n Crunch philosophy of medicine",
+            "link": "https://kevinmd.com/2025/10/the-capn-crunch-philosophy-of-medicine.html",
+            "description": "Cap’n Crunch never held a true naval rank; he was called “Cap’n” because he was the highest-ranking person present, not because he replaced someone mo...",
+            "pubDate": "2025-10-02T22:00:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Why doctors are leaving insurance-based care",
+            "link": "https://kevinmd.com/2025/10/why-doctors-are-leaving-insurance-based-care.html",
+            "description": "For years, concierge medicine and direct primary care (DPC) were viewed as fringe alternatives, reserved for affluent patients or entrepreneurial phys...",
+            "pubDate": "2025-10-02T18:00:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "The surprising link between migraine and tinnitus",
@@ -164,20 +178,6 @@
             "description": "Recent research has revealed that atypical migraine can influence tinnitus in some individuals. Some patients report significant improvement in tinnit...",
             "pubDate": "2025-10-02T17:00:10",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The effect between etomidate and ketamine on peri-intubation hypotension in elderly patients in the emergency department",
-            "link": "https://www.2minutemedicine.com/the-effect-between-etomidate-and-ketamine-on-peri-intubation-hypotension-in-elderly-patients-in-the-emergency-department/",
-            "description": "1. There was no significant difference in peri-intubation hypotension (PIH) and 28-day mortality between etomidate and ketamine as a single induction ...",
-            "pubDate": "2025-10-01T00:00:55",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/intubation-300x150.jpg"
-        },
-        {
-            "title": "Lilly unveils TuneLab AI platform for biotechs",
-            "link": "https://www.2minutemedicine.com/lilly-unveils-tunelab-ai-platform-for-biotechs/",
-            "description": "1. Lilly launched TuneLab on September 9, 2025, giving biotechs access to AI models trained on more than $1 billion in data. 2. The platform enables c...",
-            "pubDate": "2025-10-01T14:10:31",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/05/computer_edited-300x150.jpg"
         }
     ]
 }
