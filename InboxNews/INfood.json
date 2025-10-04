@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-03T17:45:40.066552",
+    "lastBuildDate": "2025-10-04T00:30:26.091826",
     "items": [
+        {
+            "title": "Weekly Meal Plan #61",
+            "link": "https://therecipecritic.com/weekly-meal-plan-61/",
+            "description": "Can you believe we’re already at week 61 of our meal plans? That’s a whole lot of delicious dinners we’ve…",
+            "pubDate": "2025-10-04T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/Week-61-Meal-Plan-Collage-.jpg"
+        },
         {
             "title": "10 Thanksgiving Sides Everyone Will Actually Eat",
             "link": "https://therecipecritic.com/thanksgiving-sides-everyone-will-actually-eat/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2023/04/congo-bars-2-2.jpg"
         },
         {
-            "title": "Million Dollar Soup",
-            "link": "https://therecipecritic.com/million-dollar-soup/",
-            "description": "Million Dollar Soup is creamy, comforting, and worth every bite! The tomato base is rich and loaded with sausage, cheesy…",
-            "pubDate": "2025-09-30T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/million-dollar-soup-1.jpg"
-        },
-        {
             "title": "Instant Chai Latte Mix (Dairy-Free)",
             "link": "https://minimalistbaker.com/instant-chai-latte-mix/",
             "description": "Making chai lattes has never been easier! This Instant Chai Latte Mix makes comforting chai lattes possible instantly . Just add water and your favori...",
@@ -40,11 +40,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Instant-Chai-Latte-Mix-8-680x1020.jpg"
         },
         {
-            "title": "Perfectly Tender London Broil",
-            "link": "https://therecipecritic.com/london-broil/",
-            "description": "The secret to my Perfectly Tender London Broil? Let it marinate long enough to tenderize the meat, followed by a quick,…",
-            "pubDate": "2025-09-29T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2020/02/londonbroil_3.jpg"
+            "title": "Million Dollar Soup",
+            "link": "https://therecipecritic.com/million-dollar-soup/",
+            "description": "Million Dollar Soup is creamy, comforting, and worth every bite! The tomato base is rich and loaded with sausage, cheesy…",
+            "pubDate": "2025-09-30T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/million-dollar-soup-1.jpg"
         },
         {
             "title": "Pillowy Gluten-Free Pita (from Aran Goyoaga’s Cookbook)",
