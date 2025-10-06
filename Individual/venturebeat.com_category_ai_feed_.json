@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-06T13:39:16.061071",
+    "lastBuildDate": "2025-10-06T17:29:47.104036",
     "items": [
+        {
+            "title": "OpenAI announces Apps SDK allowing ChatGPT to launch and run third party apps like Zillow, Canva, Spotify",
+            "link": "https://venturebeat.com/ai/openai-announces-apps-sdk-allowing-chatgpt-to-launch-and-run-third-party",
+            "description": "OpenAI's annual conference for third-party developers, DevDay, kicked off with a bang today as co-founder and CEO Sam Altman announced a new \"Apps SDK...",
+            "pubDate": "2025-10-06T19:24:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7LhLUUL4BbXIc1jxZwCZdI/f7d15d9760b1726ea415ec138ac572c9/openai-apps-sdk.png"
+        },
         {
             "title": "Replacing coders with AI? Why Bill Gates, Sam Altman and experience say you shouldn’t",
             "link": "https://venturebeat.com/ai/replacing-coders-with-ai-why-bill-gates-sam-altman-and-experience-say-you",
@@ -31,13 +38,6 @@
             "description": "OpenAI will host more than 1,500 developers at its largest annual conference on Monday, as the company behind ChatGPT seeks to maintain its edge in an...",
             "pubDate": "2025-10-03T20:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/61ORyI9sy034W678H86Sg1/115c8dc38810efac09cad1fb8fc751eb/nuneybits_A_retro_glowing_computer_on_gradient_background_that__787eb5d3-f84e-4f97-ba01-27ec03df4a88.webp"
-        },
-        {
-            "title": "New AI training method creates powerful software agents with just 78 examples",
-            "link": "https://venturebeat.com/ai/new-ai-training-method-creates-powerful-software-agents-with-just-78",
-            "description": "A new study by Shanghai Jiao Tong University and SII Generative AI Research Lab (GAIR) shows that training large language models (LLMs) for complex, a...",
-            "pubDate": "2025-10-03T00:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5lyJOdzuNimDo7RSn17UjD/093feca9d494e7fd232cc9a7bae79943/robot_choosing_training_examples.jpg"
         }
     ]
 }

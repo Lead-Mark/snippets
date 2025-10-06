@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-06T13:39:52.400916",
+    "lastBuildDate": "2025-10-06T17:30:27.998908",
     "items": [
+        {
+            "title": "The CDC says people must consult a health professional before COVID shot",
+            "link": "https://www.npr.org/2025/10/06/nx-s1-5563869/cdc-covid-vaccine-recommendation",
+            "description": "The Centers for Disease Control and Prevention accepted a controversial recommendation from outside vaccine advisers to tighten guidelines for the COV...",
+            "pubDate": "2025-10-06T19:04:35",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5312+0+0/resize/8256x5312!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2Fe5%2F0ed7355d4925837197c6108f9630%2Fgettyimages-2237018794.jpg"
+        },
         {
             "title": "The medicine Nobel Prize goes to 3 scientists for work on peripheral immune tolerance",
             "link": "https://www.npr.org/2025/10/06/g-s1-92178/medicine-nobel-prize-peripheral-immune-tolerance-brunkow-ramsdell-sakaguchi",
@@ -19,25 +26,18 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/12/pancreas-300x150.jpg"
         },
         {
-            "title": "Why do women live longer than men? A study offers clues to close the gap",
-            "link": "https://www.npr.org/2025/10/06/nx-s1-5558184/women-men-longevity-health-life-span",
-            "description": "Women have an evolutionary advantage when it comes to living longer. They outlive men by about five years. This gender gap is true for many mammals, b...",
-            "pubDate": "2025-10-06T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2119x1414+0+0/resize/2119x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F02%2F54c533f2414d95853b6bf4ea05a5%2Fgettyimages-906783812.jpg"
+            "title": "SOAP II Trial: Shaping Vasopressor Choice in Septic Shock",
+            "link": "https://www.2minutemedicine.com/soap-ii-trial-shaping-vasopressor-choice-in-septic-shock/",
+            "description": "Why SOAP II Remains Important Septic shock requires timely resuscitation, and vasopressor selection is a critical piece of management. The SOAP II tri...",
+            "pubDate": "2025-10-06T15:30:51",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/Classics-2-Minute-Medicine-e1436017941513-300x150.png"
         },
         {
-            "title": "Amid funding cuts and public health battles, NIH issues autism research grants",
-            "link": "https://www.npr.org/2025/10/06/nx-s1-5560201/autism-nih-research-grants",
-            "description": "Cornell University will receive $5.1 million as the Trump administration seeks to find a source and cure for autism.",
-            "pubDate": "2025-10-06T10:01:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8326x5511+0+0/resize/8326x5511!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F9c%2Fe3597f6e436aaeb42a739b2ea228%2Fgettyimages-2236812064.jpg"
-        },
-        {
-            "title": "A bold doctor sent her kids away and helped beat one of the world's deadliest viruses",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/10/06/g-s1-91435/virus-marburg-deadly-disease-rwanda",
-            "description": "A year ago, Rwanda faced its first outbreak of Marburg virus. Dr. Tsion Firew remembers how scared she was — and how that didn't stop her from playing...",
-            "pubDate": "2025-10-06T12:39:37",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3849x2165+0+0/resize/3849x2165!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fb93572db4df29a1349e865cb252c%2Fmarbur-doctor-final-16x9-1.jpg"
+            "title": "Increasing rates of physician attrition across the United States",
+            "link": "https://www.2minutemedicine.com/increasing-rates-of-physician-attrition-across-the-united-states/",
+            "description": "1. In this nationwide longitudinal analysis, attrition rates increased among physicians of all sexes and across all practice settings and specialties....",
+            "pubDate": "2025-10-06T22:00:21",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/10/stethoscope-e1413946623779-300x150.jpg"
         },
         {
             "title": "How one country has become a top destination for hair transplants",
@@ -47,88 +47,25 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2662+0+0/resize/4000x2662!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F60%2Fb33f3ae94b81a6bd9c19a7a9e1ae%2Fgettyimages-680506786.jpg"
         },
         {
-            "title": "SOAP II Trial: Shaping Vasopressor Choice in Septic Shock",
-            "link": "https://www.2minutemedicine.com/soap-ii-trial-shaping-vasopressor-choice-in-septic-shock/",
-            "description": "Why SOAP II Remains Important Septic shock requires timely resuscitation, and vasopressor selection is a critical piece of management. The SOAP II tri...",
-            "pubDate": "2025-10-06T15:30:51",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/Classics-2-Minute-Medicine-e1436017941513-300x150.png"
+            "title": "A bold doctor sent her kids away and helped beat one of the world's deadliest viruses",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/10/06/g-s1-91435/virus-marburg-deadly-disease-rwanda",
+            "description": "A year ago, Rwanda faced its first outbreak of Marburg virus. Dr. Tsion Firew remembers how scared she was — and how that didn't stop her from playing...",
+            "pubDate": "2025-10-06T12:39:37",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3849x2165+0+0/resize/3849x2165!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fb93572db4df29a1349e865cb252c%2Fmarbur-doctor-final-16x9-1.jpg"
         },
         {
-            "title": "Fermentable Fiber May Lower Crohn’s Disease Risk",
-            "link": "https://www.medscape.com/viewarticle/fermentable-fiber-may-lower-crohns-disease-risk-2025a1000qu7?src=rss",
-            "description": "Higher intake of inulin and beta-glucan was linked to reduced Crohn’s disease risk in healthy relatives of patients with the condition, suggesting a p...",
-            "pubDate": "2025-10-06T18:07:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "From trips to treatments: How psychedelics could revolutionize anti-inflammatory medicine",
-            "link": "https://medicalxpress.com/news/2025-10-treatments-psychedelics-revolutionize-anti-inflammatory.html",
-            "description": "Once synonymous with hippies and hallucinatory experiences, psychedelic drugs are now being explored for their medical potential. The stigma of that e...",
-            "pubDate": "2025-10-06T18:26:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "'Playing to your strengths' improves well-being in adult ADHD, new research shows",
-            "link": "https://medicalxpress.com/news/2025-10-playing-strengths-adult-adhd.html",
-            "description": "Adults with ADHD who recognize and regularly use their personal strengths report better well-being, improved quality of life and fewer mental health d...",
-            "pubDate": "2025-10-06T18:30:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "GERD Risk Higher With GLP-1s vs SGLT2s",
-            "link": "https://www.medscape.com/s/viewarticle/gerd-risk-higher-glp-1s-vs-sglt2s-2025a1000qmz?src=rss",
-            "description": "New findings highlight a potential trade-off between the benefits of GLP-1 therapy and GI risks. Medscape Medical News",
-            "pubDate": "2025-10-06T18:25:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "NSAID-exacerbated respiratory disease is associated with changes in lipid metabolism",
-            "link": "https://medicalxpress.com/news/2025-10-nsaid-exacerbated-respiratory-disease-lipid.html",
-            "description": "NSAID-exacerbated respiratory disease, N-ERD, is associated with measurable changes in concentrations of lipid mediators involved in inflammation and ...",
-            "pubDate": "2025-10-06T18:30:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "TAVI Ups QOL in Aortic Stenosis, Dapagliflozin Adds No Edge",
-            "link": "https://www.medscape.com/viewarticle/tavi-ups-quality-life-aortic-stenosis-dapagliflozin-adds-no-2025a1000qqv?src=rss",
-            "description": "Transcatheter aortic valve implantation improves health status and quality of life in older patients with aortic stenosis, but adding dapagliflozin co...",
-            "pubDate": "2025-10-06T15:05:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "A doctor’s struggle with burnout and boundaries",
-            "link": "https://kevinmd.com/2025/10/a-doctors-struggle-with-burnout-and-boundaries.html",
-            "description": "I had been hearing so much about burnout in medicine; and one day, I realized it had crept up on me. It began at my mother’s funeral, when an acquaint...",
-            "pubDate": "2025-10-06T12:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Physician Empathy: Why Some Patients Feel Less Heard",
-            "link": "https://www.medscape.com/viewarticle/physician-empathy-why-some-patients-feel-less-heard-2025a1000qto?src=rss",
-            "description": "A Franco-Swiss study identified consultation time, visit frequency, and diagnosis as key factors in patient-perceived physician empathy. Medscape Medi...",
-            "pubDate": "2025-10-06T16:03:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "When Tumors Vanish: The Mystery of Spontaneous Regression",
-            "link": "https://www.medscape.com/viewarticle/when-tumors-vanish-mystery-spontaneous-regression-2025a1000qty?src=rss",
-            "description": "Spontaneous regression is most commonly reported in neuroblastoma and leukemia. Case series link infection, transfusion, and immune activation to shor...",
-            "pubDate": "2025-10-06T16:46:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "How to maintain good cognitive health at any age",
-            "link": "https://medicalxpress.com/news/2025-10-good-cognitive-health-age.html",
-            "description": "Is it an achievable goal to remain mentally sharp while aging, or is it a pipe dream?",
-            "pubDate": "2025-10-06T18:29:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Psychiatrists call for RFK Jr. to be replaced as health secretary",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/10/06/nx-s1-5559217/rfk-jr-mental-health-substance-abuse-ssri",
+            "description": "Two groups are calling for new leadership at HHS after Health Secretary Robert F. Kennedy Jr.'s actions on substance abuse treatment and mental health...",
+            "pubDate": "2025-10-06T21:04:06",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5732x3822+0+0/resize/5732x3822!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F06%2Ffb4f85f54ea59b8e5c08167174fc%2Fgettyimages-2238336354.jpg"
         },
         {
             "title": "Bearing witness to the gun violence epidemic",
             "link": "https://kevinmd.com/2025/10/bearing-witness-to-the-gun-violence-epidemic.html",
             "description": "I stare down at the ground below me, closing my eyes tight, trying to hold back the tears. “Push it down. Deep breath in. Breathe it out … slowly … ag...",
             "pubDate": "2025-10-06T14:00:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Why physicians with ADHD are struggling with burnout despite success [PODCAST]",
@@ -138,24 +75,94 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Conflict at the drugstore: When pharmacists' and patients' values collide",
-            "link": "https://medicalxpress.com/news/2025-10-conflict-drugstore-pharmacists-patients-values.html",
-            "description": "Imagine walking into your pharmacy, handing over your prescription and having it denied. Now imagine that the reason is not insufficient insurance cov...",
-            "pubDate": "2025-10-06T18:30:03",
+            "title": "Drug discovery platform yields optimized compound against SARS-CoV-2 and shows promise against other RNA-based viruses",
+            "link": "https://medicalxpress.com/news/2025-10-drug-discovery-platform-yields-optimized.html",
+            "description": "In a quest to develop new antiviral drugs for COVID-19 and other diseases, a collaboration led by scientists at The Wertheim UF Scripps Institute has ...",
+            "pubDate": "2025-10-06T21:50:05",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Why pharmacist burnout is a patient safety issue",
-            "link": "https://kevinmd.com/2025/10/why-pharmacist-burnout-is-a-patient-safety-issue.html",
-            "description": "Behind every prescription safely dispensed stands a pharmacist making dozens of clinical decisions under mounting pressure. What happens when that pre...",
-            "pubDate": "2025-10-05T20:00:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "GERD Risk Higher With GLP-1s vs SGLT2s",
+            "link": "https://www.medscape.com/s/viewarticle/gerd-risk-higher-glp-1s-vs-sglt2s-2025a1000qmz?src=rss",
+            "description": "New findings highlight a potential trade-off between the benefits of GLP-1 therapy and GI risks. Medscape Medical News",
+            "pubDate": "2025-10-06T18:25:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Unhooking from the ego in medicine",
-            "link": "https://kevinmd.com/2025/10/unhooking-from-the-ego-in-medicine.html",
-            "description": "These days, getting spun out into a state of worry and panic is just a click away: Turn on any device for constant updates on the chaos around us. Add...",
-            "pubDate": "2025-10-05T22:00:04",
+            "title": "FDA Extends Roflumilast’s AD Approval to Young Children",
+            "link": "https://www.medscape.com/viewarticle/fda-extends-topical-roflumilasts-atopic-dermatitis-approval-2025a1000quo?src=rss",
+            "description": "The approval is for children ages 2-5 with mild-to-moderate atopic dermatitis. Medscape Medical News",
+            "pubDate": "2025-10-06T21:11:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "When Tumors Vanish: The Mystery of Spontaneous Regression",
+            "link": "https://www.medscape.com/viewarticle/when-tumors-vanish-mystery-spontaneous-regression-2025a1000qty?src=rss",
+            "description": "Spontaneous regression is most commonly reported in neuroblastoma and leukemia. Case series link infection, transfusion, and immune activation to shor...",
+            "pubDate": "2025-10-06T16:46:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "The smart way to transition to direct care",
+            "link": "https://kevinmd.com/2025/10/the-smart-way-to-transition-to-direct-care.html",
+            "description": "Physicians tell me they want out of the insurance grind, but they’re terrified to actually do it. That fear is costing them years of autonomy they cou...",
+            "pubDate": "2025-10-06T18:00:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Fermentable Fiber May Lower Crohn’s Disease Risk",
+            "link": "https://www.medscape.com/viewarticle/fermentable-fiber-may-lower-crohns-disease-risk-2025a1000qu7?src=rss",
+            "description": "Higher intake of inulin and beta-glucan was linked to reduced Crohn’s disease risk in healthy relatives of patients with the condition, suggesting a p...",
+            "pubDate": "2025-10-06T18:07:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "7 things no one tells you about being a caregiver for someone with Alzheimer’s",
+            "link": "https://kevinmd.com/2025/10/7-things-no-one-tells-you-about-being-a-caregiver-for-someone-with-alzheimers.html",
+            "description": "Caring for someone with Alzheimer’s is not just exhausting; it is emotionally disorienting. You lose pieces of someone you love, slowly, in a thousand...",
+            "pubDate": "2025-10-06T16:00:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Study finds psychiatry, primary care, and OB/GYN subspecialties hit hardest by physician attrition",
+            "link": "https://medicalxpress.com/news/2025-10-psychiatry-primary-obgyn-subspecialties-hardest.html",
+            "description": "A nationwide, longitudinal study characterized how physician attrition rates from clinical practice have changed and the factors associated with a dif...",
+            "pubDate": "2025-10-06T22:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Study recommends new grading system for invasive squamous cell carcinoma of the lung",
+            "link": "https://medicalxpress.com/news/2025-10-grading-invasive-squamous-cell-carcinoma.html",
+            "description": "Invasive lung squamous cell carcinoma (LUSC) accounts for approximately one-quarter of all lung cancers, but therapeutic options for LUSC remain limit...",
+            "pubDate": "2025-10-06T21:34:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "A doctor’s struggle with burnout and boundaries",
+            "link": "https://kevinmd.com/2025/10/a-doctors-struggle-with-burnout-and-boundaries.html",
+            "description": "I had been hearing so much about burnout in medicine; and one day, I realized it had crept up on me. It began at my mother’s funeral, when an acquaint...",
+            "pubDate": "2025-10-06T12:00:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Human ability to focus on specific sounds not found to originate in auditory nerve or brainstem",
+            "link": "https://medicalxpress.com/news/2025-10-human-ability-focus-specific-auditory.html",
+            "description": "Research led by the University of Michigan's Kresge Hearing Research Institute and the University of Rochester illuminates the mechanisms through whic...",
+            "pubDate": "2025-10-06T22:16:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Many With Mets Prostate Cancer Not Receiving PARP Inhibitors",
+            "link": "https://www.medscape.com/viewarticle/many-metastatic-prostate-cancer-not-receiving-parp-2025a1000que?src=rss",
+            "description": "Nearly half of patients with metastatic castration-resistant prostate cancer harboring BRCA1/2 alterations do not receive PARP inhibitors, a new study...",
+            "pubDate": "2025-10-06T19:42:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Long-term analysis finds disease risk, not remission status, determines transplant outcomes in acute myeloid leukemia",
+            "link": "https://medicalxpress.com/news/2025-10-term-analysis-disease-remission-status.html",
+            "description": "Results of a recently published long-term follow-up of the ASAP trial, which was conducted at universities and clinics across Germany, show that the g...",
+            "pubDate": "2025-10-06T21:40:04",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
@@ -164,13 +171,6 @@
             "description": "1. Replacing clotting factors with fibrinogen concentrate (FC) and prothrombin complex concentrate (PCC) versus frozen plasma (FP) did not lead to a s...",
             "pubDate": "2025-10-04T00:00:26",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/10/ambulance_cc_wiki_Eyone_edited-300x150.jpg"
-        },
-        {
-            "title": "DAWN Trial: Redefining the Treatment Window for Stroke Thrombectomy",
-            "link": "https://www.2minutemedicine.com/dawn-trial-redefining-the-treatment-window-for-stroke-thrombectomy/",
-            "description": "Why DAWN Changed Stroke Care The DAWN trial (DWI or CTP Assessment with Clinical Mismatch in the Triage of Wake-Up and Late-Presenting Strokes Undergo...",
-            "pubDate": "2025-10-03T15:30:39",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/stroke-PD-300x150.jpg"
         },
         {
             "title": "Antioxidant Treatment and the Chance to Conceive in Men Seeking Fertility Care: The SUMMER Randomized Clinical Trial",

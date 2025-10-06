@@ -2,28 +2,14 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-06T13:38:24.328843",
+    "lastBuildDate": "2025-10-06T17:28:51.820436",
     "items": [
-        {
-            "title": "Breast Cancer Symptoms You May Not Know",
-            "link": "https://www.webmd.com/breast-cancer/breast-cancer-less-common-symptoms",
-            "description": "Some signs of breast cancer aren’t well known and can be easy to miss. Here are some of the less common signs to be aware of.",
-            "pubDate": "2025-10-06T11:42:08",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/slideshows/1800x1200_who_are_the_members_of_your_breast_cancer_care_team_slideshow.jpg?resize=484px:*&output-quality=70"
-        },
         {
             "title": "Your Guide to Breast Cancer Screening and Diagnosis",
             "link": "https://www.webmd.com/breast-cancer/breast-cancer-detection",
             "description": "",
-            "pubDate": "2025-10-06T11:42:08",
+            "pubDate": "2025-10-06T18:22:20",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/2024_ib_ai_slideshows/S3_shutterstock_2249990349_1800x1200.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Excercise Tips for Women Over 50",
-            "link": "https://www.webmd.com/women/women-over-50-fitness-tips",
-            "description": "",
-            "pubDate": "2025-10-06T11:42:08",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/senior-woman-jogging-in-park-other/1800x1200-senior-woman-jogging-in-park-other.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "SOAP II Trial: Shaping Vasopressor Choice in Septic Shock",
@@ -33,6 +19,27 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/Classics-2-Minute-Medicine-e1436017941513-300x150.png"
         },
         {
+            "title": "Excercise Tips for Women Over 50",
+            "link": "https://www.webmd.com/women/women-over-50-fitness-tips",
+            "description": "",
+            "pubDate": "2025-10-06T18:22:20",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/senior-woman-jogging-in-park-other/1800x1200-senior-woman-jogging-in-park-other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Increasing rates of physician attrition across the United States",
+            "link": "https://www.2minutemedicine.com/increasing-rates-of-physician-attrition-across-the-united-states/",
+            "description": "1. In this nationwide longitudinal analysis, attrition rates increased among physicians of all sexes and across all practice settings and specialties....",
+            "pubDate": "2025-10-06T22:00:21",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/10/stethoscope-e1413946623779-300x150.jpg"
+        },
+        {
+            "title": "Breast Cancer Symptoms You May Not Know",
+            "link": "https://www.webmd.com/breast-cancer/breast-cancer-less-common-symptoms",
+            "description": "Some signs of breast cancer aren’t well known and can be easy to miss. Here are some of the less common signs to be aware of.",
+            "pubDate": "2025-10-06T18:22:20",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/slideshows/1800x1200_who_are_the_members_of_your_breast_cancer_care_team_slideshow.jpg?resize=484px:*&output-quality=70"
+        },
+        {
             "title": "2 Minute Medicine Rewind October 6, 2025",
             "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-october-6-2025/",
             "description": "Glycaemic control and influencing factors among patients with post-chronic pancreatitis diabetes mellitus in China: a retrospective cross-sectional st...",
@@ -40,109 +47,109 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/12/pancreas-300x150.jpg"
         },
         {
-            "title": "A doctor’s struggle with burnout and boundaries",
-            "link": "https://kevinmd.com/2025/10/a-doctors-struggle-with-burnout-and-boundaries.html",
-            "description": "I had been hearing so much about burnout in medicine; and one day, I realized it had crept up on me. It began at my mother’s funeral, when an acquaint...",
-            "pubDate": "2025-10-06T12:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "'Playing to your strengths' improves well-being in adult ADHD, new research shows",
-            "link": "https://medicalxpress.com/news/2025-10-playing-strengths-adult-adhd.html",
-            "description": "Adults with ADHD who recognize and regularly use their personal strengths report better well-being, improved quality of life and fewer mental health d...",
-            "pubDate": "2025-10-06T18:30:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "When Tumors Vanish: The Mystery of Spontaneous Regression",
-            "link": "https://www.medscape.com/viewarticle/when-tumors-vanish-mystery-spontaneous-regression-2025a1000qty?src=rss",
-            "description": "Spontaneous regression is most commonly reported in neuroblastoma and leukemia. Case series link infection, transfusion, and immune activation to shor...",
-            "pubDate": "2025-10-06T16:46:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "GERD Risk Higher With GLP-1s vs SGLT2s",
-            "link": "https://www.medscape.com/s/viewarticle/gerd-risk-higher-glp-1s-vs-sglt2s-2025a1000qmz?src=rss",
-            "description": "New findings highlight a potential trade-off between the benefits of GLP-1 therapy and GI risks. Medscape Medical News",
-            "pubDate": "2025-10-06T18:25:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Physician Empathy: Why Some Patients Feel Less Heard",
-            "link": "https://www.medscape.com/viewarticle/physician-empathy-why-some-patients-feel-less-heard-2025a1000qto?src=rss",
-            "description": "A Franco-Swiss study identified consultation time, visit frequency, and diagnosis as key factors in patient-perceived physician empathy. Medscape Medi...",
-            "pubDate": "2025-10-06T16:03:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Fermentable Fiber May Lower Crohn’s Disease Risk",
-            "link": "https://www.medscape.com/viewarticle/fermentable-fiber-may-lower-crohns-disease-risk-2025a1000qu7?src=rss",
-            "description": "Higher intake of inulin and beta-glucan was linked to reduced Crohn’s disease risk in healthy relatives of patients with the condition, suggesting a p...",
-            "pubDate": "2025-10-06T18:07:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Bearing witness to the gun violence epidemic",
-            "link": "https://kevinmd.com/2025/10/bearing-witness-to-the-gun-violence-epidemic.html",
-            "description": "I stare down at the ground below me, closing my eyes tight, trying to hold back the tears. “Push it down. Deep breath in. Breathe it out … slowly … ag...",
-            "pubDate": "2025-10-06T14:00:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Human ability to focus on specific sounds not found to originate in auditory nerve or brainstem",
+            "link": "https://medicalxpress.com/news/2025-10-human-ability-focus-specific-auditory.html",
+            "description": "Research led by the University of Michigan's Kresge Hearing Research Institute and the University of Rochester illuminates the mechanisms through whic...",
+            "pubDate": "2025-10-06T22:16:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Why physicians with ADHD are struggling with burnout despite success [PODCAST]",
             "link": "https://kevinmd.com/2025/10/why-physicians-with-adhd-are-struggling-with-burnout-despite-success-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Certified coach Michael Carlini discusses his article “Why physicians...",
             "pubDate": "2025-10-06T00:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "NSAID-exacerbated respiratory disease is associated with changes in lipid metabolism",
-            "link": "https://medicalxpress.com/news/2025-10-nsaid-exacerbated-respiratory-disease-lipid.html",
-            "description": "NSAID-exacerbated respiratory disease, N-ERD, is associated with measurable changes in concentrations of lipid mediators involved in inflammation and ...",
-            "pubDate": "2025-10-06T18:30:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "TAVI Ups QOL in Aortic Stenosis, Dapagliflozin Adds No Edge",
-            "link": "https://www.medscape.com/viewarticle/tavi-ups-quality-life-aortic-stenosis-dapagliflozin-adds-no-2025a1000qqv?src=rss",
-            "description": "Transcatheter aortic valve implantation improves health status and quality of life in older patients with aortic stenosis, but adding dapagliflozin co...",
-            "pubDate": "2025-10-06T15:05:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "From trips to treatments: How psychedelics could revolutionize anti-inflammatory medicine",
-            "link": "https://medicalxpress.com/news/2025-10-treatments-psychedelics-revolutionize-anti-inflammatory.html",
-            "description": "Once synonymous with hippies and hallucinatory experiences, psychedelic drugs are now being explored for their medical potential. The stigma of that e...",
-            "pubDate": "2025-10-06T18:26:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How to maintain good cognitive health at any age",
-            "link": "https://medicalxpress.com/news/2025-10-good-cognitive-health-age.html",
-            "description": "Is it an achievable goal to remain mentally sharp while aging, or is it a pipe dream?",
-            "pubDate": "2025-10-06T18:29:05",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Conflict at the drugstore: When pharmacists' and patients' values collide",
-            "link": "https://medicalxpress.com/news/2025-10-conflict-drugstore-pharmacists-patients-values.html",
-            "description": "Imagine walking into your pharmacy, handing over your prescription and having it denied. Now imagine that the reason is not insufficient insurance cov...",
-            "pubDate": "2025-10-06T18:30:03",
+            "title": "Long-term analysis finds disease risk, not remission status, determines transplant outcomes in acute myeloid leukemia",
+            "link": "https://medicalxpress.com/news/2025-10-term-analysis-disease-remission-status.html",
+            "description": "Results of a recently published long-term follow-up of the ASAP trial, which was conducted at universities and clinics across Germany, show that the g...",
+            "pubDate": "2025-10-06T21:40:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Study finds psychiatry, primary care, and OB/GYN subspecialties hit hardest by physician attrition",
+            "link": "https://medicalxpress.com/news/2025-10-psychiatry-primary-obgyn-subspecialties-hardest.html",
+            "description": "A nationwide, longitudinal study characterized how physician attrition rates from clinical practice have changed and the factors associated with a dif...",
+            "pubDate": "2025-10-06T22:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Drug discovery platform yields optimized compound against SARS-CoV-2 and shows promise against other RNA-based viruses",
+            "link": "https://medicalxpress.com/news/2025-10-drug-discovery-platform-yields-optimized.html",
+            "description": "In a quest to develop new antiviral drugs for COVID-19 and other diseases, a collaboration led by scientists at The Wertheim UF Scripps Institute has ...",
+            "pubDate": "2025-10-06T21:50:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "FDA Extends Roflumilast’s AD Approval to Young Children",
+            "link": "https://www.medscape.com/viewarticle/fda-extends-topical-roflumilasts-atopic-dermatitis-approval-2025a1000quo?src=rss",
+            "description": "The approval is for children ages 2-5 with mild-to-moderate atopic dermatitis. Medscape Medical News",
+            "pubDate": "2025-10-06T21:11:29",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Why pharmacist burnout is a patient safety issue",
-            "link": "https://kevinmd.com/2025/10/why-pharmacist-burnout-is-a-patient-safety-issue.html",
-            "description": "Behind every prescription safely dispensed stands a pharmacist making dozens of clinical decisions under mounting pressure. What happens when that pre...",
-            "pubDate": "2025-10-05T20:00:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Bearing witness to the gun violence epidemic",
+            "link": "https://kevinmd.com/2025/10/bearing-witness-to-the-gun-violence-epidemic.html",
+            "description": "I stare down at the ground below me, closing my eyes tight, trying to hold back the tears. “Push it down. Deep breath in. Breathe it out … slowly … ag...",
+            "pubDate": "2025-10-06T14:00:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Unhooking from the ego in medicine",
-            "link": "https://kevinmd.com/2025/10/unhooking-from-the-ego-in-medicine.html",
-            "description": "These days, getting spun out into a state of worry and panic is just a click away: Turn on any device for constant updates on the chaos around us. Add...",
-            "pubDate": "2025-10-05T22:00:04",
+            "title": "Many With Mets Prostate Cancer Not Receiving PARP Inhibitors",
+            "link": "https://www.medscape.com/viewarticle/many-metastatic-prostate-cancer-not-receiving-parp-2025a1000que?src=rss",
+            "description": "Nearly half of patients with metastatic castration-resistant prostate cancer harboring BRCA1/2 alterations do not receive PARP inhibitors, a new study...",
+            "pubDate": "2025-10-06T19:42:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Fermentable Fiber May Lower Crohn’s Disease Risk",
+            "link": "https://www.medscape.com/viewarticle/fermentable-fiber-may-lower-crohns-disease-risk-2025a1000qu7?src=rss",
+            "description": "Higher intake of inulin and beta-glucan was linked to reduced Crohn’s disease risk in healthy relatives of patients with the condition, suggesting a p...",
+            "pubDate": "2025-10-06T18:07:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "When Tumors Vanish: The Mystery of Spontaneous Regression",
+            "link": "https://www.medscape.com/viewarticle/when-tumors-vanish-mystery-spontaneous-regression-2025a1000qty?src=rss",
+            "description": "Spontaneous regression is most commonly reported in neuroblastoma and leukemia. Case series link infection, transfusion, and immune activation to shor...",
+            "pubDate": "2025-10-06T16:46:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The smart way to transition to direct care",
+            "link": "https://kevinmd.com/2025/10/the-smart-way-to-transition-to-direct-care.html",
+            "description": "Physicians tell me they want out of the insurance grind, but they’re terrified to actually do it. That fear is costing them years of autonomy they cou...",
+            "pubDate": "2025-10-06T18:00:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "7 things no one tells you about being a caregiver for someone with Alzheimer’s",
+            "link": "https://kevinmd.com/2025/10/7-things-no-one-tells-you-about-being-a-caregiver-for-someone-with-alzheimers.html",
+            "description": "Caring for someone with Alzheimer’s is not just exhausting; it is emotionally disorienting. You lose pieces of someone you love, slowly, in a thousand...",
+            "pubDate": "2025-10-06T16:00:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Study recommends new grading system for invasive squamous cell carcinoma of the lung",
+            "link": "https://medicalxpress.com/news/2025-10-grading-invasive-squamous-cell-carcinoma.html",
+            "description": "Invasive lung squamous cell carcinoma (LUSC) accounts for approximately one-quarter of all lung cancers, but therapeutic options for LUSC remain limit...",
+            "pubDate": "2025-10-06T21:34:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "A doctor’s struggle with burnout and boundaries",
+            "link": "https://kevinmd.com/2025/10/a-doctors-struggle-with-burnout-and-boundaries.html",
+            "description": "I had been hearing so much about burnout in medicine; and one day, I realized it had crept up on me. It began at my mother’s funeral, when an acquaint...",
+            "pubDate": "2025-10-06T12:00:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "GERD Risk Higher With GLP-1s vs SGLT2s",
+            "link": "https://www.medscape.com/s/viewarticle/gerd-risk-higher-glp-1s-vs-sglt2s-2025a1000qmz?src=rss",
+            "description": "New findings highlight a potential trade-off between the benefits of GLP-1 therapy and GI risks. Medscape Medical News",
+            "pubDate": "2025-10-06T18:25:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Factors in the Initial Resuscitation of Patients With Severe Trauma: The FiiRST-2 Randomized Clinical Trial",
@@ -157,13 +164,6 @@
             "description": "1. In a cohort of men trying to conceive, the use of antioxidants did not significantly improve pregnancy rates compared to a placebo. 2. In the “opti...",
             "pubDate": "2025-10-03T16:00:11",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/08/pregnancy3_PD_edited-300x150.jpg"
-        },
-        {
-            "title": "DAWN Trial: Redefining the Treatment Window for Stroke Thrombectomy",
-            "link": "https://www.2minutemedicine.com/dawn-trial-redefining-the-treatment-window-for-stroke-thrombectomy/",
-            "description": "Why DAWN Changed Stroke Care The DAWN trial (DWI or CTP Assessment with Clinical Mismatch in the Triage of Wake-Up and Late-Presenting Strokes Undergo...",
-            "pubDate": "2025-10-03T15:30:39",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/stroke-PD-300x150.jpg"
         }
     ]
 }
