@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-06T06:11:53.500795",
+    "lastBuildDate": "2025-10-06T10:48:02.895593",
     "items": [
+        {
+            "title": "One-Pot Swamp Soup",
+            "link": "https://therecipecritic.com/swamp-soup/",
+            "description": "Don’t let the name fool you, Swamp Soup is anything but scary! This TikTok-famous bowl is hearty, healthy, and seriously…",
+            "pubDate": "2025-10-06T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/swamp-soup.jpg"
+        },
         {
             "title": "2-Ingredient Pumpkin Cake",
             "link": "https://therecipecritic.com/2-ingredient-pumpkin-cake/",
@@ -31,13 +38,6 @@
             "description": "Thanksgiving dinner isn’t just about the turkey, it’s the side dishes that make the meal unforgettable! I’ve rounded up my…",
             "pubDate": "2025-10-03T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2013/10/worldsbestgreenbeancasserole2.jpg"
-        },
-        {
-            "title": "Pork Chop Marinade",
-            "link": "https://therecipecritic.com/pork-chop-marinade/",
-            "description": "Stop making boring pork chops. You NEED this pork chop marinade, with soy sauce, brown sugar, garlic, Dijon, and citrus!…",
-            "pubDate": "2025-10-02T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2023/05/pork-chop-marinade.jpg"
         },
         {
             "title": "Instant Chai Latte Mix (Dairy-Free)",
