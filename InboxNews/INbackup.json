@@ -2,8 +2,29 @@
     "title": "INtopBackup",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INtopBackup, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-08T06:56:45.067411",
+    "lastBuildDate": "2025-10-08T07:56:27.109769",
     "items": [
+        {
+            "title": "Why preorders are such a big deal for authors",
+            "link": "https://www.npr.org/sections/planet-money/2025/10/08/g-s1-92255/why-preorders-are-such-a-big-deal-for-authors",
+            "description": "Special gifts. Great stories. And economics too!? Can it be true? The Planet Money book is available for preorder.",
+            "pubDate": "2025-10-08T11:30:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x500+0+0/resize/1200x500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F82%2F3b8da23e4a8c9ed5b54bf8a2f82a%2Fimg-8540.png"
+        },
+        {
+            "title": "How flights are impacted by the government shutdown. And, James Comey's arraignment",
+            "link": "https://www.npr.org/2025/10/08/g-s1-92465/up-first-newsletter-government-shutdown-air-traffic-control-james-comey",
+            "description": "Air traffic controllers are facing a staffing shortage and the government shutdown is making it worse. And, former FBI Director James Comey appears in...",
+            "pubDate": "2025-10-08T12:23:05",
+            "image_url": "https://feeds.npr.org/1001/undefined"
+        },
+        {
+            "title": "Famed polar exploration ship Endurance not as strong as legend held, researcher says",
+            "link": "https://www.npr.org/2025/10/08/nx-s1-5564788/antarctica-ernest-shackleton-ship-endurance-research-south-pole",
+            "description": "Antarctic explorer Ernest Shackleton's crew famously survived after the Endurance became stuck in ice in 1915. A researcher says the ship was ill-equi...",
+            "pubDate": "2025-10-08T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x2418+0+0/resize/3200x2418!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F9f%2Fcd1136f648b796c379fe1df6a10e%2Fgettyimages-480801023.jpg"
+        },
         {
             "title": "Research on metal-organic frameworks gets the chemistry Nobel Prize",
             "link": "https://www.npr.org/2025/10/08/g-s1-92461/nobel-prize-chemistry-metal-organic-frameworks-kitagawa-robson-yaghi",
@@ -19,32 +40,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4724x3149+0+0/resize/4724x3149!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Fb6%2F121a15814c70a9dac92aad805b94%2Fgettyimages-2238905584.jpg"
         },
         {
-            "title": "Why preorders are such a big deal for authors",
-            "link": "https://www.npr.org/sections/planet-money/2025/10/08/g-s1-92255/why-preorders-are-such-a-big-deal-for-authors",
-            "description": "Special gifts. Great stories. And economics too!? Can it be true? The Planet Money book is available for preorder.",
-            "pubDate": "2025-10-08T11:30:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x500+0+0/resize/1200x500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F82%2F3b8da23e4a8c9ed5b54bf8a2f82a%2Fimg-8540.png"
-        },
-        {
-            "title": "Famed polar exploration ship Endurance not as strong as legend held, researcher says",
-            "link": "https://www.npr.org/2025/10/08/nx-s1-5564788/antarctica-ernest-shackleton-ship-endurance-research-south-pole",
-            "description": "Antarctic explorer Ernest Shackleton's crew famously survived after the Endurance became stuck in ice in 1915. A researcher says the ship was ill-equi...",
-            "pubDate": "2025-10-08T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x2418+0+0/resize/3200x2418!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F9f%2Fcd1136f648b796c379fe1df6a10e%2Fgettyimages-480801023.jpg"
-        },
-        {
-            "title": "Hundreds of hikers rescued from Mount Everest after severe snowstorm",
-            "link": "https://www.npr.org/2025/10/08/g-s1-92435/hikers-rescued-from-mount-everest",
-            "description": "About 900 hikers, guides and other staff who were stranded by a weekend snowstorm on the Chinese side of Mount Everest have reached safety, state medi...",
-            "pubDate": "2025-10-08T06:02:59",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2523x1682+0+0/resize/2523x1682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F5c%2F27dbf7e84dd18939c9355e538111%2Fap25279300109863.jpg"
-        },
-        {
-            "title": "Soldiers investigated after 6 people shot dead on highway",
-            "link": "https://www.cbsnews.com/news/soldiers-investigated-shooting-deaths-tamaulipas-mexico/",
-            "description": "Numerous violent clashes involving security forces in Tamaulipas have prompted accusations of extrajudicial killings.",
-            "pubDate": "2025-10-08T11:27:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Hurricane Priscilla weakening but still powerful off Mexico's Pacific coast.",
+            "link": "https://www.cbsnews.com/news/tropical-storm-priscilla-forms-pacific-maps-mexico/",
+            "description": "Hurricane Priscilla was beginning to lose some punch but was still a powerful Category 2 storm off Mexico's Pacific coast, the Miami-based National Hu...",
+            "pubDate": "2025-10-08T12:38:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Israeli forces intercept new aid flotilla bound for Gaza",
@@ -54,60 +54,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Ex-FBI chief James Comey in court today for arraignment — here's what to expect",
-            "link": "https://www.cbsnews.com/news/fbi-james-comey-arraignment-doj-trump-what-to-expect/",
-            "description": "Former FBI Director James Comey, a longtime foe of President Trump, will appear in Virginia for an arraignment, in his first court appearance since be...",
-            "pubDate": "2025-10-08T11:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Tropical Storm Jerry churns over central Atlantic Ocean",
+            "link": "https://www.cbsnews.com/news/storm-jerry-hurricane-season-2025/",
+            "description": "Tropical Storm Jerry continued to churn over tropical waters of the central Atlantic Ocean and was likely to become a hurricane.",
+            "pubDate": "2025-10-08T12:53:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Nigerian minister accused of forging qualifications resigns",
-            "link": "https://www.bbc.com/news/articles/cx2p8x010d0o?at_medium=RSS&at_campaign=rss",
-            "description": "The forgery allegations have sparked outrage among some Nigerians, following a newspaper exposé.",
-            "pubDate": "2025-10-08T11:37:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "At least 24 killed as army paraglider bombs Myanmar Buddhist festival",
+            "link": "https://www.bbc.com/news/articles/cge2l1xj2zdo?at_medium=RSS&at_campaign=rss",
+            "description": "Locals tell the BBC the carnage has made it hard to identify victims of the military attack.",
+            "pubDate": "2025-10-08T12:52:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Key US and regional mediators join talks in push to end Gaza war",
+            "link": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
+            "description": "Steve Witkoff and Jared Kushner's arrival in Egypt comes after Hamas submitted a list of Palestinian prisoners it wants Israel to release in exchange ...",
+            "pubDate": "2025-10-08T12:00:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "National Guard troops are outside Chicago and could be in Memphis soon in Trump’s latest deployment",
             "link": "https://apnews.com/article/national-guard-troops-illinois-memphis-chicago-bbb5801b127897639ab5ae5b8c9ff766",
             "description": "National Guard troops are positioned outside Chicago and they could soon be in Memphis as the Trump administration pushes ahead with an aggressive pol...",
             "pubDate": "2025-10-08T02:33:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Bear injures 2 in Japanese grocery store, man killed in separate attack",
-            "link": "https://www.cbsnews.com/news/japan-bear-attack-grocery-store-separate-death-suspected-mauling/",
-            "description": "As Japan faces rising human-bear encounters, an animal trapped in a grocery store injured two men, while a separate reported mauling proved fatal.",
-            "pubDate": "2025-10-08T10:42:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Burkina Faso junta detains NGO workers for 'spying'",
-            "link": "https://www.bbc.com/news/articles/crkjyzkn1n3o?at_medium=RSS&at_campaign=rss",
-            "description": "The security minister says the NGO \"collected and passed on sensitive security information\" - which it denies.",
-            "pubDate": "2025-10-08T10:55:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Key US and regional mediators join talks to end Gaza war",
-            "link": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
-            "description": "Steve Witkoff and Jared Kushner's arrival in Egypt comes after Hamas submitted a list of Palestinian prisoners it wants Israel to release in exchange ...",
-            "pubDate": "2025-10-08T11:22:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "At least 24 killed as army paraglider bombs Myanmar Buddhist festival",
-            "link": "https://www.bbc.com/news/articles/cge2l1xj2zdo?at_medium=RSS&at_campaign=rss",
-            "description": "Locals tell the BBC the carnage has made it hard to identify victims of the military attack.",
-            "pubDate": "2025-10-08T11:11:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Tropical Storm Jerry churns over central Atlantic Ocean",
-            "link": "https://www.cbsnews.com/news/storm-jerry-hurricane-season-2025/",
-            "description": "Tropical Storm Jerry continued to churn over the tropical waters of the central Atlantic Ocean and was likely to become a hurricane.",
-            "pubDate": "2025-10-08T11:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Man dies days after being charged in 1973 killing of Connecticut woman",
@@ -117,18 +89,46 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
+            "title": "Ex-FBI chief James Comey in court today for arraignment — here's what to expect",
+            "link": "https://www.cbsnews.com/news/fbi-james-comey-arraignment-doj-trump-what-to-expect/",
+            "description": "Former FBI Director James Comey, a longtime foe of President Trump, will appear in Virginia for an arraignment, in his first court appearance since be...",
+            "pubDate": "2025-10-08T12:05:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Nigerian minister accused of forging qualifications resigns",
+            "link": "https://www.bbc.com/news/articles/cx2p8x010d0o?at_medium=RSS&at_campaign=rss",
+            "description": "The forgery allegations have sparked outrage among some Nigerians, following a newspaper exposé.",
+            "pubDate": "2025-10-08T11:37:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "9/3: CBS Morning News",
+            "link": "https://www.cbsnews.com/video/090325-cbs-morning-news/",
+            "description": "President Trump vows to deploy National Guard to Chicago to help fight crime; North Korea's Kim Jong Un joins leaders at military parade in Beijing.",
+            "pubDate": "2025-10-08T12:05:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Burkina Faso junta detains NGO workers for 'spying'",
+            "link": "https://www.bbc.com/news/articles/crkjyzkn1n3o?at_medium=RSS&at_campaign=rss",
+            "description": "The security minister says the NGO \"collected and passed on sensitive security information\" - which it denies.",
+            "pubDate": "2025-10-08T10:55:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
             "title": "Trump-backed Van Epps and Democrat Behn win Tennessee primaries for US House special election",
             "link": "https://apnews.com/article/tennessee-congress-special-election-district-7-2025-da192cf9ef69d86fab781246a772d2ae",
             "description": "",
             "pubDate": "2025-10-07T01:01:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "What we know about National Guard deployment in Chicago and Oregon",
             "link": "https://apnews.com/article/immigration-chicago-portland-memphis-trump-arrests-b36199b00e0511e687c10fa83fd838b5",
             "description": "",
             "pubDate": "2025-09-29T17:50:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

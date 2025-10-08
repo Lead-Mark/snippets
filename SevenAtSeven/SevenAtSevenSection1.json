@@ -2,21 +2,21 @@
     "title": "SevenAtSevenSection1",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-08T06:56:20.932486",
+    "lastBuildDate": "2025-10-08T07:56:00.271506",
     "items": [
-        {
-            "title": "Hundreds of hikers rescued from Mount Everest after severe snowstorm",
-            "link": "https://www.npr.org/2025/10/08/g-s1-92435/hikers-rescued-from-mount-everest",
-            "description": "About 900 hikers, guides and other staff who were stranded by a weekend snowstorm on the Chinese side of Mount Everest have reached safety, state medi...",
-            "pubDate": "2025-10-08T06:02:59",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2523x1682+0+0/resize/2523x1682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F5c%2F27dbf7e84dd18939c9355e538111%2Fap25279300109863.jpg"
-        },
         {
             "title": "Famed polar exploration ship Endurance not as strong as legend held, researcher says",
             "link": "https://www.npr.org/2025/10/08/nx-s1-5564788/antarctica-ernest-shackleton-ship-endurance-research-south-pole",
             "description": "Antarctic explorer Ernest Shackleton's crew famously survived after the Endurance became stuck in ice in 1915. A researcher says the ship was ill-equi...",
             "pubDate": "2025-10-08T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x2418+0+0/resize/3200x2418!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F9f%2Fcd1136f648b796c379fe1df6a10e%2Fgettyimages-480801023.jpg"
+        },
+        {
+            "title": "Pumpkin: A favorite sign of fall, with a bit of shady history",
+            "link": "https://www.npr.org/2025/10/08/nx-s1-5563776/pumpkin-word-origin-history",
+            "description": "Pumpkins are a harvest symbol and part of our nostalgia for a simpler time. But while the word \"pumpkin\" has been around for centuries, the plant date...",
+            "pubDate": "2025-10-08T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4724x3149+0+0/resize/4724x3149!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Fb6%2F121a15814c70a9dac92aad805b94%2Fgettyimages-2238905584.jpg"
         },
         {
             "title": "Why preorders are such a big deal for authors",
@@ -33,74 +33,81 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fee%2F95a480494c68b8d252d29b082522%2Fap25272585404516.jpg"
         },
         {
-            "title": "Pumpkin: A favorite sign of fall, with a bit of shady history",
-            "link": "https://www.npr.org/2025/10/08/nx-s1-5563776/pumpkin-word-origin-history",
-            "description": "Pumpkins are a harvest symbol and part of our nostalgia for a simpler time. But while the word \"pumpkin\" has been around for centuries, the plant date...",
-            "pubDate": "2025-10-08T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4724x3149+0+0/resize/4724x3149!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Fb6%2F121a15814c70a9dac92aad805b94%2Fgettyimages-2238905584.jpg"
+            "title": "How flights are impacted by the government shutdown. And, James Comey's arraignment",
+            "link": "https://www.npr.org/2025/10/08/g-s1-92465/up-first-newsletter-government-shutdown-air-traffic-control-james-comey",
+            "description": "Air traffic controllers are facing a staffing shortage and the government shutdown is making it worse. And, former FBI Director James Comey appears in...",
+            "pubDate": "2025-10-08T12:23:05",
+            "image_url": "https://feeds.npr.org/1001/undefined"
         },
         {
-            "title": "Revolut aims to take on Indian banks and their ‘criminal’ forex fees",
-            "link": "https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/",
-            "description": "Revolut plans to onboard 20 million users in India by 2030 and process more than $7 billion in transactions.",
-            "pubDate": "2025-10-08T06:40:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Charles Schwab backs Singapore’s Qapita, a Carta challenger",
+            "link": "https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/",
+            "description": "Charles Schwab and Singapore-based Qapita have teamed up to launch a new service to help U.S. startups manage cap tables and employee stock plans.",
+            "pubDate": "2025-10-08T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "National Guard troops are outside Chicago and could be in Memphis soon in Trump’s latest deployment",
             "link": "https://apnews.com/article/national-guard-troops-illinois-memphis-chicago-bbb5801b127897639ab5ae5b8c9ff766",
             "description": "National Guard troops are positioned outside Chicago and they could soon be in Memphis as the Trump administration pushes ahead with an aggressive pol...",
             "pubDate": "2025-10-08T02:33:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "How to Make the Most Money Possible from Your Rental Property",
+            "link": "https://www.biggerpockets.com/blog/real-estate-1184",
+            "description": "This is how to make the most money possible from your rental properties without buying another unit. We got into real estate investing to build wealth...",
+            "pubDate": "2025-10-08T12:00:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Revolut aims to take on Indian banks and their ‘criminal’ forex fees",
+            "link": "https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/",
+            "description": "Revolut plans to onboard 20 million users in India by 2030 and process more than $7 billion in transactions.",
+            "pubDate": "2025-10-08T06:40:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "5 Ways to Buy Rentals Without a Huge Bank Account",
+            "link": "https://www.biggerpockets.com/blog/rookie-624",
+            "description": "Most rookies think you need a mountain of cash to buy a rental property, but the truth is that the financing strategy you choose matters much more tha...",
+            "pubDate": "2025-10-08T12:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases",
             "link": "https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/",
             "description": "AMD's unusual deal to finance OpenAI's chip purchases could grant the AI model maker up to $100 billion, analyst estimates.",
             "pubDate": "2025-10-07T22:00:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups",
             "link": "https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/",
             "description": "Trump's Department of Energy wants to cancel billions more in awards that were granted by the Biden administration, and startups are in the crosshairs...",
             "pubDate": "2025-10-07T22:11:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Google launches its AI vibe-coding app Opal in 15 more countries",
-            "link": "https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/",
-            "description": "The app, which lets you create mini web apps using text prompts, is now available in Canada, India, Japan, South Korea, Vietnam, Indonesia, Brazil, Si...",
-            "pubDate": "2025-10-07T20:54:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Trump-backed Van Epps and Democrat Behn win Tennessee primaries for US House special election",
-            "link": "https://apnews.com/article/tennessee-congress-special-election-district-7-2025-da192cf9ef69d86fab781246a772d2ae",
-            "description": "",
-            "pubDate": "2025-10-07T01:01:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "You can’t libel the dead. But that doesn’t mean you should deepfake them.",
             "link": "https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/",
             "description": "\"Please, just stop sending me AI videos of Dad,\" the late Robin Williams' daughter Zelda wrote on Instagram.",
             "pubDate": "2025-10-07T23:49:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "New Tariffs Aimed Directly at Real Estate Investors (Who They’ll Affect)",
             "link": "https://www.biggerpockets.com/blog/on-the-market-362",
             "description": "What are the repercussions of October 1st on the housing market? Dive into the recent shifts that may impact real estate investing and the broader hou...",
             "pubDate": "2025-10-07T12:00:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Short-Term Rental Markets You Should Think Twice About Investing In",
-            "link": "https://www.biggerpockets.com/blog/airbnb-markets-where-you-should-think-twice-about-before-investing-in",
-            "description": "I talk to short-term rental hosts all the time who are struggling to figure out why their place is not booking. They have followed the design tips, ad...",
-            "pubDate": "2025-10-06T23:32:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Trump-backed Van Epps and Democrat Behn win Tennessee primaries for US House special election",
+            "link": "https://apnews.com/article/tennessee-congress-special-election-district-7-2025-da192cf9ef69d86fab781246a772d2ae",
+            "description": "",
+            "pubDate": "2025-10-07T01:01:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Social Security Reforms Could Be on the Way—Here’s What Real Estate Investors Need to Know",
@@ -114,13 +121,6 @@
             "link": "https://www.biggerpockets.com/blog/how-sue-mccormick-has-built-a-20-unit-rehab-portfolio-in-dayton-ohio",
             "description": "Sue McCormick is five years into a plan she long postponed while raising two kids as a single mom. “We are working on our 20th project as we speak,” s...",
             "pubDate": "2025-10-06T23:42:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "4 Overlooked Real Estate Investments That Pay Big in 2025",
-            "link": "https://www.biggerpockets.com/blog/rookie-623",
-            "description": "There are dozens of ways to make money in real estate—including some tactics that are currently flying under the radar and quietly making smart invest...",
-            "pubDate": "2025-10-06T12:00:41",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -128,7 +128,7 @@
             "link": "https://apnews.com/article/immigration-chicago-portland-memphis-trump-arrests-b36199b00e0511e687c10fa83fd838b5",
             "description": "",
             "pubDate": "2025-09-29T17:50:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
