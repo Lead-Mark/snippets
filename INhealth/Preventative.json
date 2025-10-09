@@ -2,21 +2,63 @@
     "title": "Preventative",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Preventative, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-08T17:21:45.568230",
+    "lastBuildDate": "2025-10-09T07:16:55.311828",
     "items": [
+        {
+            "title": "University of California Researchers, Patients Wary of Trump Cuts Even as Some Dollars Flow Again",
+            "link": "https://kffhealthnews.org/news/article/ucla-california-universities-funding-trump-biomedical-research/",
+            "description": "Biomedical researchers and patients are caught in the middle as the Trump administration continues its campaign to strip grants from universities accu...",
+            "pubDate": "2025-10-09T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "This Type Of Coffee Could Protect Against Alzheimer's, Study Finds",
+            "link": "https://www.mindbodygreen.com/articles/this-type-of-coffee-could-protect-against-alzheimers-study-says-protect-against-alzheimer",
+            "description": "Hint: It's a crowd favorite.",
+            "pubDate": "2025-10-09T11:02:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Listen: Why “TrumpRx” Might Not Save You Money",
+            "link": "https://kffhealthnews.org/news/article/julie-rovner-today-explained-podcast-trumprx-announcement-prescription-drug-costs/",
+            "description": "On the \"Today, Explained\" podcast, KFF Health News' Julie Rovner recaps the TrumpRx announcement and why the direct-to-consumer initiative may not sav...",
+            "pubDate": "2025-10-09T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Bring The Farmers Market To Your Door With These Organic Meal Delivery Services",
+            "link": "https://www.mindbodygreen.com/articles/best-organic-meal-delivery-service",
+            "description": "Plus, find out whether your fave brands are really organic.",
+            "pubDate": "2025-10-09T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Trying To Eat 100+ Grams of Protein Per Day? These Tasty Meals Make It Possible",
+            "link": "https://www.mindbodygreen.com/articles/factor-review-year-still-best-high-protein-meal",
+            "description": "Plus, a special promo",
+            "pubDate": "2025-10-09T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Signs Your Pelvic Floor Could Use A Workout, From A Urologist",
+            "link": "https://www.mindbodygreen.com/articles/signs-your-pelvic-floor-could-use-workout-from-urologist-signs-of-a-weak-pelvic-floor",
+            "description": "Plus, why Kegels can actually do more harm than good.",
+            "pubDate": "2025-10-09T11:10:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Uh, Do You Have Digital Dementia? A Memory Coach Explains",
+            "link": "https://www.mindbodygreen.com/articles/do-you-have-digital-dementia-memory-coach-explains-what-is-digital-dementia",
+            "description": "Hint: Probably.",
+            "pubDate": "2025-10-09T11:10:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
         {
             "title": "Reading Rainbow is Back With a New Host",
             "link": "https://blackhealthmatters.com/reading-rainbow-is-back-with-a-new-host/",
             "description": "When we heard that one of our favorite shows, PBS’ Reading Rainbow, was getting a reboot, we greeted the news with hope and trepidation. Because LeVar...",
             "pubDate": "2025-10-08T04:18:39",
             "image_url": "https://www.youtube.com/embed/FFU5i4ejyWw"
-        },
-        {
-            "title": "California’s Nursing Shortage Is Getting Worse. Front-Line Workers Blame Management.",
-            "link": "https://kffhealthnews.org/news/article/california-nursing-shortage-medicaid-funding-management-profit-unions-burnout/",
-            "description": "California’s nursing shortage is projected to worsen, and hospitals say funding cuts will only add strain. But front-line nurses blame heavy workloads...",
-            "pubDate": "2025-10-08T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/10/Burkett_02-resized.jpg"
         },
         {
             "title": "Clinically Speaking: Questions and Answers About HER2-Positive Breast Cancer",
@@ -26,6 +68,13 @@
             "image_url": "https://www.healthywomen.org/media-library/clinically-speaking-questions-and-answers-about-her2-positive-breast-cancer.png?id=61725495&width=980"
         },
         {
+            "title": "California’s Nursing Shortage Is Getting Worse. Front-Line Workers Blame Management.",
+            "link": "https://kffhealthnews.org/news/article/california-nursing-shortage-medicaid-funding-management-profit-unions-burnout/",
+            "description": "California’s nursing shortage is projected to worsen, and hospitals say funding cuts will only add strain. But front-line nurses blame heavy workloads...",
+            "pubDate": "2025-10-08T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/10/Burkett_02-resized.jpg"
+        },
+        {
             "title": "15 Minutes With: Tamsen Fadal Talks Making Menopause Mainstream and the Perks of Midlife",
             "link": "https://www.healthywomen.org/your-health/tamsen-fadal-talks-menopause",
             "description": "In 2019, Emmy-award winning journalist Tamsen Fadal was on air, broadcasting the evening news, when her mind went blank. The word “subpoena” was up on...",
@@ -33,53 +82,11 @@
             "image_url": "https://www.healthywomen.org/media-library/tamsen-fadal.jpg?id=61720982&width=980"
         },
         {
-            "title": "Women Are Up To 40% More Likely To Have A Sleep Disorder: 6 Signs To Look For",
-            "link": "https://www.mindbodygreen.com/articles/sleep-disorders-show-up-differently-in-women-says-md-what-to-do",
-            "description": "Say it with us: Being tired all the time is not normal.",
-            "pubDate": "2025-10-08T12:20:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "This Zodiac Sign Won't Commit — Unless You're Really Compatible",
-            "link": "https://www.mindbodygreen.com/articles/sagittarius-compatibility-how-they-match-up-with-all-12-signs",
-            "description": "Not everyone will match up.",
-            "pubDate": "2025-10-08T13:16:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "If kids are on the table someday, it's prime time to get into these habits.",
-            "link": "https://www.mindbodygreen.com/articles/why-its-never-too-early-to-train-to-give-birth-how-to-do-it-on-the-table-someday",
-            "description": "If kids are on the table someday, it's prime time to get into these habits.",
-            "pubDate": "2025-10-08T11:42:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
             "title": "This Geriatrics Training Program Escaped the Ax. For Now.",
             "link": "https://kffhealthnews.org/news/article/geriatrics-training-program-escapes-trump-ax-for-now/",
             "description": "The Trump administration has restored promised funds to a program that teaches people in health care how to work with aging Americans.",
             "pubDate": "2025-10-08T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "8 Tricks To Help You Sit Less During The Day (For The Sake Of Your Mental Health)",
-            "link": "https://www.mindbodygreen.com/articles/8-tricks-to-sit-less-health-coach",
-            "description": "Recent research shows sitting is detrimental to your mental well-being.",
-            "pubDate": "2025-10-08T11:37:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Want To Work Your Legs & Glutes? Fire Them Up With This Single Move",
-            "link": "https://www.mindbodygreen.com/articles/jump-squat-how-to-tips-benefits",
-            "description": "Jump squats couldn't be simpler, but they're by no means \"easy.\"",
-            "pubDate": "2025-10-08T11:33:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Seeing Breast Cancer Through a New Lens",
-            "link": "https://blackhealthmatters.com/seeing-breast-cancer-through-a-new-lens/",
-            "description": "Felicia Reed, 49, is making real dreams come true for several women living with a form of metastatic breast cancer. Her team helps her shape what she ...",
-            "pubDate": "2025-10-07T08:46:28",
-            "image_url": "https://blackhealthmatters.com/wp-content/uploads/2025/10/279461495_1095294077684408_4824760577558416771_n.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "3 Reasons to Get the Flu Vaccine This Fall",
@@ -89,46 +96,32 @@
             "image_url": "https://www.healthywomen.org/media-library/calendar-concept-with-a-yellow-pin.jpg?id=61715267&width=980"
         },
         {
-            "title": "Partido Republicano vincula falsamente cierre del gobierno con el supuesto intento de los demócratas de ofrecer atención médica a todos los inmigrantes",
-            "link": "https://kffhealthnews.org/news/article/partido-republicano-vincula-falsamente-cierre-del-gobierno-con-el-supuesto-intento-de-democratas-de-ofrecer-atencion-medica-a-todos-los-inmigrantes/",
-            "description": "El presidente Donald Trump, el presidente de la Cámara de Representantes, Mike Johnson, y miembros republicanos del Congreso han repetido esto una y o...",
-            "pubDate": "2025-10-07T18:32:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "This Is What Perimenopause Feels Like",
-            "link": "https://blackhealthmatters.com/this-is-what-perimenopause-feels-like/",
-            "description": "If you’ve been feeling off, your sleep is unpredictable, your mood shifts, and your period shows up early, late, or not at all. You are not alone. The...",
-            "pubDate": "2025-10-07T06:55:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Seeing Breast Cancer Through a New Lens",
+            "link": "https://blackhealthmatters.com/seeing-breast-cancer-through-a-new-lens/",
+            "description": "Felicia Reed, 49, is making real dreams come true for several women living with a form of metastatic breast cancer. Her team helps her shape what she ...",
+            "pubDate": "2025-10-07T08:46:28",
+            "image_url": "https://blackhealthmatters.com/wp-content/uploads/2025/10/279461495_1095294077684408_4824760577558416771_n.jpg"
         },
         {
             "title": "TytoCare–The Last Few Inches of Telehealth?",
             "link": "https://thehealthcareblog.com/blog/2025/10/07/tytocare-the-last-few-inches-of-telehealth/",
             "description": "Tamir Gottfried, the Chief Commercial and Strategy Officer at TytoCare came on THCB to show us how their remote device works to deliver the last few i...",
             "pubDate": "2025-10-07T09:14:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Wary of RFK Jr., Colorado Started Revamping Its Vaccine Policies in the Spring",
-            "link": "https://kffhealthnews.org/news/article/colorado-states-vaccine-recommendations-cdc-acip-rfk-pharmacists-insurance/",
-            "description": "Amid concerns that Health and Human Services Secretary Robert F. Kennedy Jr. is undermining trust in vaccines and public health science, some states a...",
-            "pubDate": "2025-10-07T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "This Is What Perimenopause Feels Like",
+            "link": "https://blackhealthmatters.com/this-is-what-perimenopause-feels-like/",
+            "description": "If you’ve been feeling off, your sleep is unpredictable, your mood shifts, and your period shows up early, late, or not at all. You are not alone. The...",
+            "pubDate": "2025-10-07T06:55:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Listen to the Latest ‘KFF Health News Minute’",
-            "link": "https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2025/",
-            "description": "The \"KFF Health News Minute” brings original health care and health policy reporting from our newsroom to the airwaves each week.",
-            "pubDate": "2025-10-07T15:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Teledoc Medication Abortions Under Attack",
-            "link": "https://thehealthcareblog.com/blog/2025/10/02/teledoc-medication-abortions-under-attack/",
-            "description": "By MIKE MAGEE For those prepared to take a deep breath and relax in the aftermath of the MAGA induced assault on the First Amendment that whipsawed Di...",
-            "pubDate": "2025-10-03T03:08:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Partido Republicano vincula falsamente cierre del gobierno con el supuesto intento de los demócratas de ofrecer atención médica a todos los inmigrantes",
+            "link": "https://kffhealthnews.org/news/article/partido-republicano-vincula-falsamente-cierre-del-gobierno-con-el-supuesto-intento-de-democratas-de-ofrecer-atencion-medica-a-todos-los-inmigrantes/",
+            "description": "El presidente Donald Trump, el presidente de la Cámara de Representantes, Mike Johnson, y miembros republicanos del Congreso han repetido esto una y o...",
+            "pubDate": "2025-10-07T18:32:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Penguin–The Flightless Bird of Health AI",
@@ -136,6 +129,13 @@
             "description": "Fawad Butt and Missy Krasner started a new AI company which is building a big platform for both plans and providers in health care. Penguin Ai has a c...",
             "pubDate": "2025-10-03T08:26:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Teledoc Medication Abortions Under Attack",
+            "link": "https://thehealthcareblog.com/blog/2025/10/02/teledoc-medication-abortions-under-attack/",
+            "description": "By MIKE MAGEE For those prepared to take a deep breath and relax in the aftermath of the MAGA induced assault on the First Amendment that whipsawed Di...",
+            "pubDate": "2025-10-03T03:08:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "15 Minutes With: Maneesha Ghiya Talks Femtech and the Future of Women’s Healthcare",
@@ -159,18 +159,18 @@
             "image_url": "https://www.healthywomen.org/media-library/woman-sitting-on-sofa-hold-her-ankle-injury-feeling-pain-in-her-foot-at-home.jpg?id=61682415&width=980"
         },
         {
-            "title": "Activist Assata Shakur Dead At 78",
-            "link": "https://blackhealthmatters.com/activist-assata-shakur-dead-at-78/",
-            "description": "Assata Shakur died Friday, September 26th, in Cuba at 78. She was revered as a political activist who dedicated her life to liberation by some. To oth...",
-            "pubDate": "2025-09-30T23:02:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
             "title": "Boulder Care: Stephanie Strong & Marianna Zaslavsky",
             "link": "https://thehealthcareblog.com/blog/2025/09/30/boulder-care-stephanie-strong-marianna-zaslavsky/",
             "description": "Stephanie Strong, CEO & Marianna Zaslavsky, the (relatively new) Head of Growth at Boulder Care came on THCB to tell Matthew Holt about their service ...",
             "pubDate": "2025-09-30T07:48:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Activist Assata Shakur Dead At 78",
+            "link": "https://blackhealthmatters.com/activist-assata-shakur-dead-at-78/",
+            "description": "Assata Shakur died Friday, September 26th, in Cuba at 78. She was revered as a political activist who dedicated her life to liberation by some. To oth...",
+            "pubDate": "2025-09-30T23:02:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "HHS’s Independence: If Not Now, When?",
