@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-09T07:16:13.760815",
+    "lastBuildDate": "2025-10-09T11:16:41.712140",
     "items": [
+        {
+            "title": "Buffalo Chicken Soup",
+            "link": "https://therecipecritic.com/buffalo-chicken-soup/",
+            "description": "This buffalo chicken soup is about to be your new favorite! It’s creamy, spicy, and loaded with tender chicken and…",
+            "pubDate": "2025-10-09T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/buffalo-chicken-soup-1.jpg"
+        },
         {
             "title": "Cheesy Baked Tennessee Onions",
             "link": "https://therecipecritic.com/tennessee-onions/",
@@ -31,13 +38,6 @@
             "description": "This 2 ingredient pumpkin cake comes together in minutes and bakes up perfectly spiced, tender, and fluffy every single time. It’s…",
             "pubDate": "2025-10-05T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/2-ingredient-pumpkin-cake-.jpg"
-        },
-        {
-            "title": "Air Fryer Mushrooms",
-            "link": "https://therecipecritic.com/air-fryer-mushrooms/",
-            "description": "Confession: I never thought I liked mushrooms… until I made these air fryer mushrooms. With garlic parmesan, they’re juicy, tender,…",
-            "pubDate": "2025-10-04T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2022/04/airfryermushrooms.jpg"
         },
         {
             "title": "Instant Chai Latte Mix (Dairy-Free)",
