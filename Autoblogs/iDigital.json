@@ -2,84 +2,63 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-11T00:46:43.065177",
+    "lastBuildDate": "2025-10-12T00:21:43.721934",
     "items": [
+        {
+            "title": "Is vibe coding ruining a generation of engineers?",
+            "link": "https://venturebeat.com/ai/is-vibe-coding-ruining-a-generation-of-engineers",
+            "description": "AI tools are revolutionizing software development by automating repetitive tasks, refactoring bloated code, and identifying bugs in real-time. Develop...",
+            "pubDate": "2025-10-11T20:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6O2FgBkLOdYG0bQrbbceee/70c01c9a6f6498e1888781c6ec759dd8/Junior_coders.png"
+        },
+        {
+            "title": "‘I’m stumped’: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+            "link": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+            "description": "“Doesn’t a 30-year history of good credit count for anything?”",
+            "pubDate": "2025-10-11T17:47:00",
+            "image_url": "https://images.mktw.net/im-00705855"
+        },
+        {
+            "title": "When dirt meets data: ScottsMiracle-Gro saved $150M using AI",
+            "link": "https://venturebeat.com/ai/when-dirt-meets-data-scottsmiracle-gro",
+            "description": "How a semiconductor veteran turned over a century of horticultural wisdom into AI-led competitive advantage For decades, a ritual played out across Sc...",
+            "pubDate": "2025-10-11T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7d0hJ4qtWTk5GaypvPfHJY/53aa8c26a39b5f10e16b3073dd73a388/videoframe_878.png"
+        },
+        {
+            "title": "How machine vision is enhancing automation safety and efficiency",
+            "link": "https://www.therobotreport.com/how-machine-vision-is-enhancing-automation-safety-efficiency/",
+            "description": "The most sophisticated machine vision systems have enabled new and emerging designs far more sophisticated than bin picking. The post How machine visi...",
+            "pubDate": "2025-10-11T13:30:23",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/digikey1-featured.jpg"
+        },
+        {
+            "title": "Inflation was out of control in retirement, so I went back to work. I’m still working at 66. Was I right?",
+            "link": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
+            "description": "“Be more concerned with outliving inflation than Social Security.”",
+            "pubDate": "2025-10-11T18:15:00",
+            "image_url": "https://images.mktw.net/im-98752090"
+        },
+        {
+            "title": "Be ready with these portfolio changes if the shutdown damages the Fed’s credibility",
+            "link": "https://www.marketwatch.com/story/be-ready-with-these-portfolio-changes-if-the-shutdown-damages-the-feds-credibility-e1944b57?mod=mw_rss_topstories",
+            "description": "The Fed is making decisions without actual data — but investors are still banking on rate cuts.",
+            "pubDate": "2025-10-11T18:18:00",
+            "image_url": "https://images.mktw.net/im-18210907"
+        },
         {
             "title": "‘I’d hate to turn her over to the state’: My mother, who has dementia, refuses to be put in a facility. What can we do?",
             "link": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
             "description": "“She has never been willing to sign a power of attorney.”",
-            "pubDate": "2025-10-11T01:17:00",
+            "pubDate": "2025-10-11T21:00:00",
             "image_url": "https://images.mktw.net/im-55645544"
         },
         {
-            "title": "‘I have no retirement savings’: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
-            "link": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
-            "description": "“Historically, we’ve been keeping the contribution to her Roth at $50-$200 a month.”",
-            "pubDate": "2025-10-11T00:14:00",
-            "image_url": "https://images.mktw.net/im-90677384"
-        },
-        {
-            "title": "The Download: our bodies’ memories, and Traton’s electric trucks",
-            "link": "https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How do our b...",
-            "pubDate": "2025-10-10T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_621d18.png"
-        },
-        {
-            "title": "Nvidia researchers boost LLMs reasoning skills by getting them to 'think' during pre-training",
-            "link": "https://venturebeat.com/ai/nvidia-researchers-boost-llms-reasoning-skills-by-getting-them-to-think",
-            "description": "Researchers at Nvidia have developed a new technique that flips the script on how large language models (LLMs) learn to reason. The method, called rei...",
-            "pubDate": "2025-10-10T00:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2PTqNZnnwoy3Jnl9Nb0jwP/bceecea29350a1a5646c728208c5baac/nuneybits_Vector_art_of_a_robot_thinking_neon_colors_bc248938-48f9-44e0-8bd0-3a2fd7b9f913.webp"
-        },
-        {
-            "title": "Crypto bulls were amped for potential solana ETF approvals this week. But the government shutdown threw it into limbo.",
-            "link": "https://www.marketwatch.com/story/crypto-bulls-were-amped-for-potential-solana-etf-approvals-this-week-but-the-government-shutdown-threw-it-into-limbo-7bde37a8?mod=mw_rss_topstories",
-            "description": "Crypto bulls have been buzzing with anticipation that several major Wall Street firms may win approval to launch exchange-traded funds investing in so...",
-            "pubDate": "2025-10-10T23:10:00",
-            "image_url": "https://images.mktw.net/im-696203"
-        },
-        {
-            "title": "Will updating your AI agents help or hamper their performance? Raindrop's new tool Experiments tells you",
-            "link": "https://venturebeat.com/ai/will-updating-your-ai-agents-help-or-hamper-their-performance-raindrops-new",
-            "description": "It seems like almost every week for the last two years since ChatGPT launched, new large language models (LLMs) from rival labs or from OpenAI itself ...",
-            "pubDate": "2025-10-10T08:35:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6wvVdQj4t7NiC0a8xS9bQu/8b37da63cebde173a1c338aeb371eba8/cfr0z3n_sharp_detailed_graphic_novel_style_splash_page_bicolore_b6659495-c268-49de-9a52-76abb547bf5a.png"
-        },
-        {
-            "title": "Intel expands Panther Lake processor edge applications to robotics",
-            "link": "https://www.therobotreport.com/intel-expands-panther-lake-processor-edge-applications-to-robotics/",
-            "description": "Intel has the first Panther Lake SKU slated to ship before the end of the year, with broad market availability starting January 2026. The post Intel e...",
-            "pubDate": "2025-10-10T20:04:42",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/gloved-hand-intel-core-ultra-series-3-scaled-featured.jpg"
-        },
-        {
-            "title": "Revolute Robotics brings in $1.9M to deploy its driving, flying robots",
-            "link": "https://www.therobotreport.com/revolute-robotics-brings-in-1-9m-deploy-driving-flying-robots/",
-            "description": "Revolute offers a unique robot that can drive on the ground to extend battery life and fly when it needs to get around obstacles. The post Revolute Ro...",
-            "pubDate": "2025-10-10T15:33:59",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/HMR-Flying-featured.jpg"
-        },
-        {
-            "title": "Edge computing and AI: A conversation with Palladyne AI’s Ben Wolff",
-            "link": "https://www.therobotreport.com/edge-computing-ai-conversation-ben-wolff/",
-            "description": "Palladyne AI focuses on simplifying robot programming, advancing swarming technology, and developing hardware-agnostic AI for diverse applications. Th...",
-            "pubDate": "2025-10-10T20:48:45",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/ben-wolff-250x250-1.jpg"
-        },
-        {
-            "title": "My uncle’s widow is threatening to sue me. She wants money from my grandmother’s estate. Should I be worried?",
-            "link": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
-            "description": "“My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.”",
-            "pubDate": "2025-10-10T23:30:00",
-            "image_url": "https://images.mktw.net/im-86505054"
-        },
-        {
-            "title": "‘I watch antenna TV’: I’m 66. Will I lose my disability benefits if Social Security goes belly up?",
-            "link": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
-            "description": "“I read that the Social Security Disability Insurance Trust Fund is good until 2099.”",
-            "pubDate": "2025-10-10T23:09:00",
-            "image_url": "https://images.mktw.net/im-84858769"
+            "title": "Is the stock market open on Columbus Day/Indigenous Peoples’ Day? Does the post office deliver mail?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories",
+            "description": "Be prepared for plenty of closures on Monday.",
+            "pubDate": "2025-10-11T19:19:00",
+            "image_url": "https://images.mktw.net/im-25414051"
         },
         {
             "title": "Together AI's ATLAS adaptive speculator delivers 400% inference speedup by learning from workloads in real-time",
@@ -89,53 +68,74 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/QKYmkzNToGEJHgfWYSkzb/8dca1ce8a9cecbd949cb5dabb0e4a54b/ATLAS-ai-inference-smk.jpg"
         },
         {
+            "title": "Revolute Robotics brings in $1.9M to deploy its driving, flying robots",
+            "link": "https://www.therobotreport.com/revolute-robotics-brings-in-1-9m-deploy-driving-flying-robots/",
+            "description": "Revolute offers a unique robot that can drive on the ground to extend battery life and fly when it needs to get around obstacles. The post Revolute Ro...",
+            "pubDate": "2025-10-10T15:33:59",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/HMR-Flying-featured.jpg"
+        },
+        {
+            "title": "Nvidia researchers boost LLMs reasoning skills by getting them to 'think' during pre-training",
+            "link": "https://venturebeat.com/ai/nvidia-researchers-boost-llms-reasoning-skills-by-getting-them-to-think",
+            "description": "Researchers at Nvidia have developed a new technique that flips the script on how large language models (LLMs) learn to reason. The method, called rei...",
+            "pubDate": "2025-10-10T00:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2PTqNZnnwoy3Jnl9Nb0jwP/bceecea29350a1a5646c728208c5baac/nuneybits_Vector_art_of_a_robot_thinking_neon_colors_bc248938-48f9-44e0-8bd0-3a2fd7b9f913.webp"
+        },
+        {
+            "title": "Will updating your AI agents help or hamper their performance? Raindrop's new tool Experiments tells you",
+            "link": "https://venturebeat.com/ai/will-updating-your-ai-agents-help-or-hamper-their-performance-raindrops-new",
+            "description": "It seems like almost every week for the last two years since ChatGPT launched, new large language models (LLMs) from rival labs or from OpenAI itself ...",
+            "pubDate": "2025-10-10T08:35:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6wvVdQj4t7NiC0a8xS9bQu/8b37da63cebde173a1c338aeb371eba8/cfr0z3n_sharp_detailed_graphic_novel_style_splash_page_bicolore_b6659495-c268-49de-9a52-76abb547bf5a.png"
+        },
+        {
+            "title": "The Download: our bodies’ memories, and Traton’s electric trucks",
+            "link": "https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How do our b...",
+            "pubDate": "2025-10-10T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_621d18.png"
+        },
+        {
+            "title": "Intel expands Panther Lake processor edge applications to robotics",
+            "link": "https://www.therobotreport.com/intel-expands-panther-lake-processor-edge-applications-to-robotics/",
+            "description": "Intel has the first Panther Lake SKU slated to ship before the end of the year, with broad market availability starting January 2026. The post Intel e...",
+            "pubDate": "2025-10-10T20:04:42",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/gloved-hand-intel-core-ultra-series-3-scaled-featured.jpg"
+        },
+        {
+            "title": "Edge computing and AI: A conversation with Palladyne AI’s Ben Wolff",
+            "link": "https://www.therobotreport.com/edge-computing-ai-conversation-ben-wolff/",
+            "description": "Palladyne AI focuses on simplifying robot programming, advancing swarming technology, and developing hardware-agnostic AI for diverse applications. Th...",
+            "pubDate": "2025-10-10T20:48:45",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/ben-wolff-250x250-1.jpg"
+        },
+        {
             "title": "Robotics Summit 2026 call for speakers ends today",
             "link": "https://www.therobotreport.com/robotics-summit-2026-opens-call-for-speakers/",
             "description": "The Robotics Summit & Expo, the industry’s must-attend technical development event, returns to Boston in 2026 with deepened coverage, an expanded expo...",
             "pubDate": "2025-10-10T16:37:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "This test could reveal the health of your immune system",
             "link": "https://www.technologyreview.com/2025/10/10/1125559/test-health-immune-system/",
             "description": "Attentive readers might have noticed my absence over the last couple of weeks. I’ve been trying to recover from a bout of illness. It got me thinking ...",
             "pubDate": "2025-10-10T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "How do our bodies remember?",
             "link": "https://www.technologyreview.com/2025/10/10/1124963/muscles-remember-explained/",
             "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
             "pubDate": "2025-10-10T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Building connected data ecosystems for AI at scale",
             "link": "https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/",
             "description": "",
             "pubDate": "2025-10-10T17:11:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Echelon's AI agents take aim at Accenture and Deloitte consulting models",
-            "link": "https://venturebeat.com/ai/echelons-ai-agents-take-aim-at-accenture-and-deloitte-consulting-models",
-            "description": "Echelon , an artificial intelligence startup that automates enterprise software implementations, emerged from stealth mode today with $4.75 million in...",
-            "pubDate": "2025-10-09T16:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6Wx0cy48ounMBeal2k0YPo/61ea707f3d72649cd7670e2cc4e809b6/nuneybits_Vector_art_of_AI_robot_coding_9f59b4e8-0719-4d4f-8bf3-025933b4c3f3.webp"
-        },
-        {
-            "title": "The most important OpenAI announcement you probably missed at DevDay 2025",
-            "link": "https://venturebeat.com/ai/the-most-important-openai-announcement-you-probably-missed-at-devday-2025",
-            "description": "OpenAI’s annual developer conference on Monday was a spectacle of ambitious AI product launches, from an app store for ChatGPT to a stunning video-gen...",
-            "pubDate": "2025-10-09T08:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2buVKIMlQ2KFcFg8BPHoqU/c5d2dfbfd8cfe9a9432106a936fa204f/nuneybits_A_retro_glowing_computer_on_gradient_background_that__094dfc70-9906-4074-bb00-d32b04faf5f9-1.webp"
-        },
-        {
-            "title": "Lucid Bots brings embodied AI to commercial painting",
-            "link": "https://www.therobotreport.com/lucid-bots-brings-embodied-ai-commercial-painting/",
-            "description": "Lucid Bots has added painting capabilities to its Sherpa drone, automating commercial coating at scale to meet infrastructure demand. The post Lucid B...",
-            "pubDate": "2025-10-09T20:53:35",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/lucid-bots-featured.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "The Download: mysteries of the immunome, and how to choose a climate tech pioneer",
@@ -145,18 +145,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_41155a.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
