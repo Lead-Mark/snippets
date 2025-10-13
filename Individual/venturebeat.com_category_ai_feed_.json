@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-13T06:19:24.557074",
+    "lastBuildDate": "2025-10-13T11:08:51.343415",
     "items": [
+        {
+            "title": "This new AI technique creates ‘digital twin’ consumers, and it could kill the traditional survey industry",
+            "link": "https://venturebeat.com/ai/this-new-ai-technique-creates-digital-twin-consumers-and-it-could-kill-the",
+            "description": "A new research paper quietly published last week outlines a breakthrough method that allows large language models (LLMs) to simulate human consumer be...",
+            "pubDate": "2025-10-13T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/51ORdJ4l6mg6ZSTkJpGFOw/85fa4483c879359d1872778236f4fc20/nuneybits_Vector_art_of_AI_shopper_silhouette_e82a806b-f70d-4b1d-9418-71b2ffd65ea4.webp"
+        },
+        {
+            "title": "Salesforce bets on AI 'agents' to fix what it calls a $7 billion problem in enterprise software",
+            "link": "https://venturebeat.com/ai/salesforce-bets-on-ai-agents-to-fix-what-it-calls-a-usd7-billion-problem-in",
+            "description": "As 50,000 attendees descend on Salesforce's Dreamforce conference this week, the enterprise software giant is making its most aggressive bet yet on ar...",
+            "pubDate": "2025-10-13T13:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4ElJnVoqNF5EdTdQ2qbc94/6c61cde31557a66a34fdfbbfaa9e57ed/nuneybits_Vector_art_of_businessperson_guiding_robot_f1c9b0fc-59ad-455c-b635-5551c598aa7b.webp"
+        },
+        {
+            "title": "Breaking the bottleneck: Why AI demands an SSD-first future",
+            "link": "https://venturebeat.com/ai/breaking-the-bottleneck-why-ai-demands-an-ssd-first-future",
+            "description": "Presented by Solidigm As AI adoption surges, data centers face a critical bottleneck in storage — and traditional HDDs are at the center of it. Data t...",
+            "pubDate": "2025-10-13T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4rRjfWe1S9u2XgvoKASwHM/ddafa77e43acdade763516ae3aa9a5fe/Solidigm_2.png"
+        },
         {
             "title": "We keep talking about AI agents, but do we ever know what they are?",
             "link": "https://venturebeat.com/ai/we-keep-talking-about-ai-agents-but-do-we-ever-know-what-they-are",
@@ -17,27 +38,6 @@
             "description": "Your best data science team just spent six months building a model that predicts customer churn with 90% accuracy. It’s sitting on a server, unused. W...",
             "pubDate": "2025-10-12T08:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/77WjI7ALpxOD2JSAUGMDRD/e938cb7b3827956c6043438c7af3f0d6/Velocity_gap.png"
-        },
-        {
-            "title": "Is vibe coding ruining a generation of engineers?",
-            "link": "https://venturebeat.com/ai/is-vibe-coding-ruining-a-generation-of-engineers",
-            "description": "AI tools are revolutionizing software development by automating repetitive tasks, refactoring bloated code, and identifying bugs in real-time. Develop...",
-            "pubDate": "2025-10-11T20:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6O2FgBkLOdYG0bQrbbceee/70c01c9a6f6498e1888781c6ec759dd8/Junior_coders.png"
-        },
-        {
-            "title": "When dirt meets data: ScottsMiracle-Gro saved $150M using AI",
-            "link": "https://venturebeat.com/ai/when-dirt-meets-data-scottsmiracle-gro",
-            "description": "How a semiconductor veteran turned over a century of horticultural wisdom into AI-led competitive advantage For decades, a ritual played out across Sc...",
-            "pubDate": "2025-10-11T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7d0hJ4qtWTk5GaypvPfHJY/53aa8c26a39b5f10e16b3073dd73a388/videoframe_878.png"
-        },
-        {
-            "title": "Together AI's ATLAS adaptive speculator delivers 400% inference speedup by learning from workloads in real-time",
-            "link": "https://venturebeat.com/ai/together-ais-atlas-adaptive-speculator-delivers-400-inference-speedup-by",
-            "description": "Enterprises expanding AI deployments are hitting an invisible performance wall. The culprit? Static speculators that can't keep up with shifting workl...",
-            "pubDate": "2025-10-10T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/QKYmkzNToGEJHgfWYSkzb/8dca1ce8a9cecbd949cb5dabb0e4a54b/ATLAS-ai-inference-smk.jpg"
         }
     ]
 }
