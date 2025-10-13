@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-12T00:21:43.725376",
+    "lastBuildDate": "2025-10-13T06:19:24.557074",
     "items": [
+        {
+            "title": "We keep talking about AI agents, but do we ever know what they are?",
+            "link": "https://venturebeat.com/ai/we-keep-talking-about-ai-agents-but-do-we-ever-know-what-they-are",
+            "description": "Imagine you do two things on a Monday morning. First, you ask a chatbot to summarize your new emails. Next, you ask an AI tool to figure out why your ...",
+            "pubDate": "2025-10-12T20:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5b0hTPUKh7PB9D7CfWwO22/3b31fdc3f95c670ce5096758d8760ccd/Agent_autonomy.png"
+        },
+        {
+            "title": "Here's what's slowing down your AI strategy — and how to fix it",
+            "link": "https://venturebeat.com/ai/heres-whats-slowing-down-your-ai-strategy-and-how-to-fix-it",
+            "description": "Your best data science team just spent six months building a model that predicts customer churn with 90% accuracy. It’s sitting on a server, unused. W...",
+            "pubDate": "2025-10-12T08:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/77WjI7ALpxOD2JSAUGMDRD/e938cb7b3827956c6043438c7af3f0d6/Velocity_gap.png"
+        },
         {
             "title": "Is vibe coding ruining a generation of engineers?",
             "link": "https://venturebeat.com/ai/is-vibe-coding-ruining-a-generation-of-engineers",
@@ -24,20 +38,6 @@
             "description": "Enterprises expanding AI deployments are hitting an invisible performance wall. The culprit? Static speculators that can't keep up with shifting workl...",
             "pubDate": "2025-10-10T14:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/QKYmkzNToGEJHgfWYSkzb/8dca1ce8a9cecbd949cb5dabb0e4a54b/ATLAS-ai-inference-smk.jpg"
-        },
-        {
-            "title": "Will updating your AI agents help or hamper their performance? Raindrop's new tool Experiments tells you",
-            "link": "https://venturebeat.com/ai/will-updating-your-ai-agents-help-or-hamper-their-performance-raindrops-new",
-            "description": "It seems like almost every week for the last two years since ChatGPT launched, new large language models (LLMs) from rival labs or from OpenAI itself ...",
-            "pubDate": "2025-10-10T08:35:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6wvVdQj4t7NiC0a8xS9bQu/8b37da63cebde173a1c338aeb371eba8/cfr0z3n_sharp_detailed_graphic_novel_style_splash_page_bicolore_b6659495-c268-49de-9a52-76abb547bf5a.png"
-        },
-        {
-            "title": "Nvidia researchers boost LLMs reasoning skills by getting them to 'think' during pre-training",
-            "link": "https://venturebeat.com/ai/nvidia-researchers-boost-llms-reasoning-skills-by-getting-them-to-think",
-            "description": "Researchers at Nvidia have developed a new technique that flips the script on how large language models (LLMs) learn to reason. The method, called rei...",
-            "pubDate": "2025-10-10T00:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2PTqNZnnwoy3Jnl9Nb0jwP/bceecea29350a1a5646c728208c5baac/nuneybits_Vector_art_of_a_robot_thinking_neon_colors_bc248938-48f9-44e0-8bd0-3a2fd7b9f913.webp"
         }
     ]
 }
