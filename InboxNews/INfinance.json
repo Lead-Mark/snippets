@@ -2,49 +2,42 @@
     "title": "INfinance",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfinance, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-14T07:11:28.276364",
+    "lastBuildDate": "2025-10-14T10:38:47.155516",
     "items": [
+        {
+            "title": "Can I put my RMD into my Roth IRA?",
+            "link": "https://www.marketwatch.com/story/can-i-put-my-rmd-into-my-roth-ira-244a0c46?mod=mw_rss_topstories",
+            "description": "It’s Required Minimum Distribution season. What you can — and can’t do with them.",
+            "pubDate": "2025-10-14T14:45:00",
+            "image_url": "https://images.mktw.net/im-06464668"
+        },
+        {
+            "title": "Stocks keep soaring, but economists don’t think it creates a risk of financial crisis",
+            "link": "https://www.marketwatch.com/story/stocks-keep-soaring-but-economists-dont-think-it-creates-a-risk-of-financial-crisis-14489ef3?mod=mw_rss_topstories",
+            "description": "Why the current AI boom shouldn’t be compared with the environments seen in the late 1990s and late 2000s.",
+            "pubDate": "2025-10-14T15:17:00",
+            "image_url": "https://images.mktw.net/im-05567101"
+        },
         {
             "title": "Friday’s selloff broke something in the stock market. Here’s what that means for investors.",
             "link": "https://www.marketwatch.com/story/fridays-selloff-broke-something-in-the-stock-market-heres-what-that-means-for-investors-f93ae0c3?mod=mw_rss_topstories",
             "description": "Longview Economics says investors should tread carefully with stocks as something was broken with Friday’s selloff last week.",
-            "pubDate": "2025-10-14T12:05:00",
+            "pubDate": "2025-10-14T14:44:00",
             "image_url": "https://images.mktw.net/im-32487827"
-        },
-        {
-            "title": "‘I’m stumped’: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-            "link": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
-            "description": "“Doesn’t a 30-year history of good credit count for anything?”",
-            "pubDate": "2025-10-14T11:59:00",
-            "image_url": "https://images.mktw.net/im-00705855"
         },
         {
             "title": "My stepdaughter is buying a house. Can her soon-to-be ex-husband claim a share?",
             "link": "https://www.marketwatch.com/story/my-stepdaughter-is-buying-a-house-can-her-soon-to-be-ex-husband-claim-a-share-320a8394?mod=mw_rss_topstories",
             "description": "“Her real-estate agent has assured her that she has nothing to worry about.”",
-            "pubDate": "2025-10-14T10:30:00",
+            "pubDate": "2025-10-14T15:30:00",
             "image_url": "https://images.mktw.net/im-49957099"
         },
         {
-            "title": "‘She may have a spending problem’: Would it be wrong to secretly give our son money — without telling his wife?",
-            "link": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
-            "description": "“Our son and his wife, who are in their 30s with a child in preschool, are having marital problems.”",
-            "pubDate": "2025-10-14T11:07:00",
-            "image_url": "https://images.mktw.net/im-86591688"
-        },
-        {
-            "title": "My father died leaving an old will predating his fourth wife. Who inherits his estate?",
-            "link": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
-            "description": "“He gave his fourth wife power of attorney and access to his bank account to pay bills.”",
-            "pubDate": "2025-10-14T11:09:00",
-            "image_url": "https://images.mktw.net/im-88224453"
-        },
-        {
-            "title": "Financial Services Roundup: Market Talk",
-            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-            "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-            "pubDate": "2025-01-27T17:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "AMD is keeping its momentum alive. Here are two reasons for optimism.",
+            "link": "https://www.marketwatch.com/story/amd-is-keeping-its-momentum-alive-here-are-two-reasons-for-optimism-f12ce20c?mod=mw_rss_topstories",
+            "description": "AMD just announced an extension of its relationship with Oracle. Plus, an analyst upgraded the stock and implied Wall Street’s profit expectations are...",
+            "pubDate": "2025-10-14T15:35:00",
+            "image_url": "https://images.mktw.net/im-71766230"
         },
         {
             "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -54,25 +47,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
+            "title": "Financial Services Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+            "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+            "pubDate": "2025-01-27T17:27:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
             "title": "Comex Gold, Silver Settle Lower",
             "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
             "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
             "pubDate": "2025-01-27T19:01:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
             "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
             "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
             "pubDate": "2025-01-27T17:20:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "DeepSeek Won't Sink U.S. AI Titans",
             "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
             "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
             "pubDate": "2025-01-27T18:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-14T07:11:06.957852",
+    "lastBuildDate": "2025-10-14T10:38:27.248084",
     "items": [
+        {
+            "title": "5 Minute Million Dollar Dip",
+            "link": "https://therecipecritic.com/5-minute-million-dollar-dip/",
+            "description": "Million Dollar Dip, also known as Neiman Marcus Dip, is creamy, cheesy, and loaded with almonds, green onions, and bacon.…",
+            "pubDate": "2025-10-14T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2021/06/milliondollardip-1.jpg"
+        },
         {
             "title": "Easy Gluten-Free Monster Cookies (Vegan, Flourless!)",
             "link": "https://minimalistbaker.com/easy-gluten-free-monster-cookies/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/huli-huli-chicken.jpg"
         },
         {
-            "title": "Weekly Meal Plan #62",
-            "link": "https://therecipecritic.com/weekly-meal-plan-62/",
-            "description": "Get ready to make weeknights easier with this free Weekly Meal Plan! You’ll find 5 family-friendly dinners plus a free…",
-            "pubDate": "2025-10-11T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/Week-62-Meal-Plan-Collage-.jpg"
-        },
-        {
             "title": "Crack Chicken Egg Rolls (Air Fryer)",
             "link": "https://therecipecritic.com/air-fryer-crack-chicken-egg-rolls/",
             "description": "Crack Chicken Egg Rolls wrap savory chicken, crispy bacon, melty cheese, and zesty ranch in a golden, crunchy shell. Easy…",
@@ -40,11 +40,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/crack-chicken-egg-rolls.jpg"
         },
         {
-            "title": "8 Thanksgiving Appetizers That Will Disappear Before Dinner",
-            "link": "https://therecipecritic.com/thanksgiving-appetizers/",
-            "description": "Before the turkey hits the table, I love putting out a few simple Thanksgiving appetizers to keep everyone happy and…",
-            "pubDate": "2025-10-10T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2022/09/turkeycharcuterieboard-1.jpg"
+            "title": "Weekly Meal Plan #62",
+            "link": "https://therecipecritic.com/weekly-meal-plan-62/",
+            "description": "Get ready to make weeknights easier with this free Weekly Meal Plan! You’ll find 5 family-friendly dinners plus a free…",
+            "pubDate": "2025-10-11T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/Week-62-Meal-Plan-Collage-.jpg"
         },
         {
             "title": "Instant Chai Latte Mix (Dairy-Free)",
