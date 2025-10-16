@@ -2,21 +2,21 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-16T10:53:10.155443",
+    "lastBuildDate": "2025-10-16T16:39:31.527173",
     "items": [
-        {
-            "title": "A Hybrid Chatbot to Promote Pneumococcal Vaccination Among Older Adults: A Randomized Clinical Trial",
-            "link": "https://www.2minutemedicine.com/a-hybrid-chatbot-to-promote-pneumococcal-vaccination-among-older-adults-a-randomized-clinical-trial/",
-            "description": "1. This randomized clinical trial found that a hybrid chatbot was more effective than the standard intervention at increasing pneumococcal vaccine (PV...",
-            "pubDate": "2025-10-16T00:00:07",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/10/vaccine7_PD_edited-300x150.jpg"
-        },
         {
             "title": "'Death fold' proteins can make cells self-destruct. Scientists want to control them",
             "link": "https://www.npr.org/sections/shots-health-news/2025/10/16/nx-s1-5575582/death-fold-proteins-apoptosis-alzheimers-cancer",
             "description": "Scientists are hoping to treat diseases including cancer and Alzheimer's by influencing how cells make life-or-death decisions.",
             "pubDate": "2025-10-16T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F33%2Faf7871fb4b0f96dd47160ae24fca%2Fgettyimages-1058503122.jpg"
+        },
+        {
+            "title": "A study found lead in popular protein powders. Here's why you shouldn't panic",
+            "link": "https://www.npr.org/2025/10/16/nx-s1-5576294/protein-powder-lead-consumer-reports",
+            "description": "Consumer Reports expressed concern about high levels of lead in some two dozen protein powders, but only with repeated high exposure. Here's what to k...",
+            "pubDate": "2025-10-16T17:52:52",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6142x4095+0+0/resize/6142x4095!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fcf%2F82e7e4b341bbbf6554cc8fcfa85f%2Fgettyimages-2227791218.jpg"
         },
         {
             "title": "Health insurance premiums are going up next year — unless you work at these companies",
@@ -26,18 +26,39 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Fca%2Fdbf8d780416ea88b9c1d1f7a3905%2Fcost-of-living-health-care.jpg"
         },
         {
-            "title": "A sibling’s guide to surviving medical school",
-            "link": "https://kevinmd.com/2025/10/a-siblings-guide-to-surviving-medical-school.html",
-            "description": "When we began medical school, we had dreams and plans for what the next four years would look like. After all, we had the privilege of being siblings ...",
-            "pubDate": "2025-10-16T12:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "A Hybrid Chatbot to Promote Pneumococcal Vaccination Among Older Adults: A Randomized Clinical Trial",
+            "link": "https://www.2minutemedicine.com/a-hybrid-chatbot-to-promote-pneumococcal-vaccination-among-older-adults-a-randomized-clinical-trial/",
+            "description": "1. This randomized clinical trial found that a hybrid chatbot was more effective than the standard intervention at increasing pneumococcal vaccine (PV...",
+            "pubDate": "2025-10-16T00:00:07",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/10/vaccine7_PD_edited-300x150.jpg"
+        },
+        {
+            "title": "Moderate-dose corticosteroid treatment found to improve patient recovery rates from sepsis",
+            "link": "https://medicalxpress.com/news/2025-10-moderate-dose-corticosteroid-treatment-patient.html",
+            "description": "While our immune systems typically do a great job containing pathogens and clearing infections, they can occasionally overreact. When the immune respo...",
+            "pubDate": "2025-10-16T21:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Pickleball Peril? Eye Injuries Surge in Adults Over 50",
+            "link": "https://www.medscape.com/viewarticle/pickleball-peril-eye-injuries-surge-adults-over-50-2025a1000rwu?src=rss",
+            "description": "Thousands of patients have presented to emergency departments with ocular injuries sustained while playing the increasingly popular sport, researchers...",
+            "pubDate": "2025-10-16T16:05:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Discovery of 'primed' state in neuromuscular receptors may guide future drug design",
+            "link": "https://medicalxpress.com/news/2025-10-discovery-primed-state-neuromuscular-receptors.html",
+            "description": "An international research team led by a University of Ottawa Faculty of Medicine investigator has revealed ultra-detailed intricacies in how nerve sig...",
+            "pubDate": "2025-10-16T20:52:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Ending monopolies is the first step toward true health care reform [PODCAST]",
             "link": "https://kevinmd.com/2025/10/ending-monopolies-is-the-first-step-toward-true-health-care-reform-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Health care data strategist Lee Ann McWhorter discusses her article “...",
             "pubDate": "2025-10-16T00:00:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Headache Type Tied to Increased Depression, Suicide Risk",
@@ -45,6 +66,34 @@
             "description": "Primary headaches are linked to increased risk for depression in both men and women, while tension headache is linked to increased risk for suicide in...",
             "pubDate": "2025-10-16T13:38:39",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Smartphone-based relaxation program reduces disability for emergency department migraine patients",
+            "link": "https://medicalxpress.com/news/2025-10-smartphone-based-disability-emergency-department.html",
+            "description": "A smartphone app for muscle relaxation significantly reduced migraine-related disability in patients visiting the emergency department, a new study sh...",
+            "pubDate": "2025-10-16T21:22:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "A sibling’s guide to surviving medical school",
+            "link": "https://kevinmd.com/2025/10/a-siblings-guide-to-surviving-medical-school.html",
+            "description": "When we began medical school, we had dreams and plans for what the next four years would look like. After all, we had the privilege of being siblings ...",
+            "pubDate": "2025-10-16T12:00:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "‘Honest’ Placebos Tied to Better Functioning in Migraine",
+            "link": "https://www.medscape.com/viewarticle/honest-placebos-tied-better-functioning-migraineurs-2025a1000rzz?src=rss",
+            "description": "Open-label or ‘honest’ placebos are linked to reduced pain-related disability and may have a supportive role in migraine care, a new study shows. Meds...",
+            "pubDate": "2025-10-16T14:02:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Social conflict among strongest predictors of teen mental health concerns, research shows",
+            "link": "https://medicalxpress.com/news/2025-10-social-conflict-strongest-predictors-teen.html",
+            "description": "Approximately 20% of American adolescents experience a mental health disorder each year, a number that has been on the rise. Genetics and life events ...",
+            "pubDate": "2025-10-16T21:17:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "More Evidence Lowering Amyloid Is Beneficial in Early AD",
@@ -58,70 +107,14 @@
             "link": "https://www.medscape.com/viewarticle/robust-measles-immunity-british-columbias-lower-mainland-2025a1000rzy?src=rss",
             "description": "About 90% of people in the Lower Mainland of British Columbia have detectable antibodies against measles, indicating robust population-level immunity ...",
             "pubDate": "2025-10-16T13:47:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "HERCULES Trial Brings Hope for Advanced Penile Cancer",
-            "link": "https://www.medscape.com/viewarticle/hercules-trial-brings-hope-advanced-penile-cancer-2025a1000rzn?src=rss",
-            "description": "The HERCULES trial shows pembrolizumab plus chemotherapy produces a 39.4% response rate in advanced penile cancer, offering new treatment hope globall...",
-            "pubDate": "2025-10-16T13:28:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Simple blood test shows promise in detecting amyotrophic lateral sclerosis early",
-            "link": "https://medicalxpress.com/news/2025-10-simple-blood-amyotrophic-lateral-sclerosis.html",
-            "description": "New research by UCLA Health has found a simple blood test could provide faster and more accurate diagnosis of ALS by measuring cell-free DNA. The noni...",
-            "pubDate": "2025-10-16T15:14:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Some US protein powders contain high levels of lead. Can I tell if mine is safe?",
-            "link": "https://medicalxpress.com/news/2025-10-protein-powders-high-safe.html",
-            "description": "This week, the United States non-profit Consumer Reports released its investigation testing 23 protein powders and ready-to-drink shakes from popular ...",
-            "pubDate": "2025-10-16T15:44:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "The role of emotion in psychosis onset",
-            "link": "https://medicalxpress.com/news/2025-10-role-emotion-psychosis-onset.html",
-            "description": "New research from the Institute of Psychiatry, Psychology & Neuroscience (IoPPN) at King's College London has highlighted the important role that emot...",
-            "pubDate": "2025-10-16T15:26:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The antidote to loneliness might be recognizing how much others care",
-            "link": "https://medicalxpress.com/news/2025-10-antidote-loneliness.html",
-            "description": "Young adults consistently underestimate how empathetic their peers are, a new study finds. But there's a simple and scalable fix.",
-            "pubDate": "2025-10-16T15:39:03",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "‘Honest’ Placebos Tied to Better Functioning for Migraineurs",
-            "link": "https://www.medscape.com/viewarticle/honest-placebos-tied-better-functioning-migraineurs-2025a1000rzz?src=rss",
-            "description": "Open-label or ‘honest’ placebos are linked to reduced pain-related disability and may have a supportive role in migraine care, a new study shows. Meds...",
-            "pubDate": "2025-10-16T14:02:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Low-cost vaccine vial monitors damaging heat exposure brought to market",
-            "link": "https://medicalxpress.com/news/2025-10-vaccine-vial-exposure-brought.html",
-            "description": "A color-changing label could help prevent millions of vaccine doses from going to waste, say scientists from the University of Surrey. The innovation,...",
-            "pubDate": "2025-10-16T15:40:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Democratic governors form a public health alliance in a rebuke of Trump",
-            "link": "https://www.npr.org/2025/10/15/g-s1-93582/governors-public-health-alliance-democrats-rfk-trump-hhs-cdc",
-            "description": "They're framing it as a way to share data and messages about threats, emergency preparedness and public health policy at a time when the federal gover...",
-            "pubDate": "2025-10-15T19:08:39",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x681+0+0/resize/1024x681!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2Fbe%2Ffa95d25b4f98b71ceae405b1dc50%2Fap25271075037671.jpg"
-        },
-        {
-            "title": "Physical Activity, Gut Microbiota, and the Risk of Dyslipidemia in a Community‐Based Cohort Study",
-            "link": "https://www.2minutemedicine.com/physical-activity-gut-microbiota-and-the-risk-of-dyslipidemia-in-a-community%e2%80%90based-cohort-study/",
-            "description": "1. In this cohort of adults, moderate-to-vigorous physical activity (MVPA) was associated with a decreased risk of developing dyslipidemia while also ...",
-            "pubDate": "2025-10-15T00:00:36",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/09/exercise2_pd_editedd-300x150.jpg"
+            "title": "Study shows medical–legal partnerships aid recovery for patients with violent injuries",
+            "link": "https://medicalxpress.com/news/2025-10-medicallegal-partnerships-aid-recovery-patients.html",
+            "description": "Researchers at the University of Chicago have found that patients with violent injuries often face legal and financial needs that can have an impact o...",
+            "pubDate": "2025-10-16T20:54:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Don't panic, but there might be lead in your protein powder",
@@ -131,13 +124,6 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5575550"
         },
         {
-            "title": "Study: We're losing the war against drug-resistant infections faster than we thought",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria",
-            "description": "Antimicrobial resistance is responsible for some 1.2 million deaths a year and contributes to millions more. Data in the new report shows that the pro...",
-            "pubDate": "2025-10-15T13:13:56",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3679+0+0/resize/5500x3679!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F2b%2F7455f87b42938babf45a1b70b4ef%2Fgettyimages-579268160.jpg"
-        },
-        {
             "title": "Multidomain rehabilitation after myocardial infarction improves outcomes in older adults",
             "link": "https://www.2minutemedicine.com/multidomain-rehabilitation-after-myocardial-infarction-improves-outcomes-in-older-adults/",
             "description": "1. In this randomized controlled trial, a multidomain rehabilitation program significantly reduced cardiovascular death and unplanned cardiac hospital...",
@@ -145,18 +131,25 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/heart-e1416194674764-300x150.jpg"
         },
         {
-            "title": "The burden of the eldest daughter",
-            "link": "https://kevinmd.com/2025/10/the-burden-of-the-eldest-daughter.html",
-            "description": "Were you the one who always held it together? The responsible one? The one who made sure everyone else was okay, sometimes at the cost of your own wel...",
-            "pubDate": "2025-10-15T14:00:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Physical Activity, Gut Microbiota, and the Risk of Dyslipidemia in a Community‐Based Cohort Study",
+            "link": "https://www.2minutemedicine.com/physical-activity-gut-microbiota-and-the-risk-of-dyslipidemia-in-a-community%e2%80%90based-cohort-study/",
+            "description": "1. In this cohort of adults, moderate-to-vigorous physical activity (MVPA) was associated with a decreased risk of developing dyslipidemia while also ...",
+            "pubDate": "2025-10-15T00:00:36",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/09/exercise2_pd_editedd-300x150.jpg"
+        },
+        {
+            "title": "Democratic governors form a public health alliance in a rebuke of Trump",
+            "link": "https://www.npr.org/2025/10/15/g-s1-93582/governors-public-health-alliance-democrats-rfk-trump-hhs-cdc",
+            "description": "They're framing it as a way to share data and messages about threats, emergency preparedness and public health policy at a time when the federal gover...",
+            "pubDate": "2025-10-15T19:08:39",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x681+0+0/resize/1024x681!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2Fbe%2Ffa95d25b4f98b71ceae405b1dc50%2Fap25271075037671.jpg"
         },
         {
             "title": "Was Viagra the best heart drug we never had?",
             "link": "https://kevinmd.com/2025/10/was-viagra-the-best-heart-drug-we-never-had.html",
             "description": "Prologue: the lost opportunity Everyone knows Viagra as the “little blue pill” that revolutionized the bedroom. But what if its greatest potential was...",
             "pubDate": "2025-10-15T20:00:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "How to stay safe from back-to-school illnesses",
@@ -166,11 +159,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Limiting antihypertensive use does not reduce mortality in nursing home residents with frailty",
-            "link": "https://www.2minutemedicine.com/limiting-antihypertensive-use-does-not-reduce-mortality-in-nursing-home-residents-with-frailty/",
-            "description": "1. In this randomized clinical trial, among older nursing home residents with frailty who were being treated for hypertension with at least two antihy...",
-            "pubDate": "2025-10-14T19:00:56",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/frailty-walker-elderly-300x150.jpeg"
+            "title": "The burden of the eldest daughter",
+            "link": "https://kevinmd.com/2025/10/the-burden-of-the-eldest-daughter.html",
+            "description": "Were you the one who always held it together? The responsible one? The one who made sure everyone else was okay, sometimes at the cost of your own wel...",
+            "pubDate": "2025-10-15T14:00:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Aficamten is superior to metoprolol in the management of obstructive hypertrophic cardiomyopathy",
@@ -178,6 +171,13 @@
             "description": "1. In this randomized trial, aficamten monotherapy led to greater improvements in exercise capacity compared to metoprolol in patients with symptomati...",
             "pubDate": "2025-10-14T22:00:18",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/05/idiopathic_cardiomyopathy_edited-300x150.jpg"
+        },
+        {
+            "title": "Limiting antihypertensive use does not reduce mortality in nursing home residents with frailty",
+            "link": "https://www.2minutemedicine.com/limiting-antihypertensive-use-does-not-reduce-mortality-in-nursing-home-residents-with-frailty/",
+            "description": "1. In this randomized clinical trial, among older nursing home residents with frailty who were being treated for hypertension with at least two antihy...",
+            "pubDate": "2025-10-14T19:00:56",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/02/frailty-walker-elderly-300x150.jpeg"
         }
     ]
 }
