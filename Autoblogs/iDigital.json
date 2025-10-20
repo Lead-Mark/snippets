@@ -2,14 +2,35 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-20T06:51:58.142663",
+    "lastBuildDate": "2025-10-20T11:08:27.452913",
     "items": [
+        {
+            "title": "The Download: a promising retina implant, and how climate change affects flowers",
+            "link": "https://www.technologyreview.com/2025/10/20/1126099/the-download-a-promising-retina-implant-and-how-climate-change-affects-flowers/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This retina ...",
+            "pubDate": "2025-10-20T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png"
+        },
         {
             "title": "Flowers of the future",
             "link": "https://www.technologyreview.com/2025/10/20/1125345/plant-future-climate-change-research-project/",
             "description": "Flowers play a key role in most landscapes, from urban to rural areas. There might be dandelions poking through the cracks in the pavement, wildflower...",
             "pubDate": "2025-10-20T11:00:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/antho.jpg?w=275"
+        },
+        {
+            "title": "Adobe Foundry wants to rebuild Firefly for your brand — not just tweak it",
+            "link": "https://venturebeat.com/ai/adobe-foundry-wants-to-rebuild-firefly-for-your-brand-not-just-tweak-it",
+            "description": "Hoping to attract more enterprise teams to its ecosystem, Adobe launched a new model customization service called Adobe AI Foundry, which would create...",
+            "pubDate": "2025-10-20T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1Hg97nt1wacQ4K8pE0NfX7/5dba45daa25b361ac777c18695b45898/crimedy7_illustration_of_a_sculptor_creating_a_robot_from_a_p_501bf165-0b44-4bb1-9608-1025a42400b7_2.png"
+        },
+        {
+            "title": "This retina implant lets people with vision loss do a crossword puzzle",
+            "link": "https://www.technologyreview.com/2025/10/20/1126065/this-retina-implant-lets-people-with-vision-loss-do-a-crossword-puzzle/",
+            "description": "Science Corporation—a competitor to Neuralink founded by the former president of Elon Musk’s brain-interface venture—has leapfrogged its rival after a...",
+            "pubDate": "2025-10-20T13:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Cooking-and-reading-recipe-with-PRIMA-5.png?w=3000"
         },
         {
             "title": "AI could predict who will have a heart attack",
@@ -33,6 +54,13 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Xu1YqwqTUMJMVWnRrKy7M/23b8a69e94d864a0306f259b1cd29397/u7277289442_A_rendering_of_animated_friendly_AI_agents_with_h_9b63c83c-c489-4154-a498-3bdfdc3a5c5b_3.png"
         },
         {
+            "title": "Developers can now add live Google Maps data to Gemini-powered AI app outputs",
+            "link": "https://venturebeat.com/ai/developers-can-now-add-live-google-maps-data-to-gemini-powered-ai-app",
+            "description": "Google is adding a new feature for third-party developers building atop its Gemini AI models that rivals like OpenAI's ChatGPT, Anthropic's Claude, an...",
+            "pubDate": "2025-10-17T23:31:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2ehvkDsQ7NC7wQuECOcDGS/cb89da9ccaf13f2888f005ac93cecffa/cfr0z3n_realistic_graphic_novel_hyper_detailed_flat_illustratio_8aae43d5-1e50-4ebd-8760-ea28dbc0f328.png"
+        },
+        {
             "title": "The Download: the rehabilitation of AI art, and the scary truth about antimicrobial resistance",
             "link": "https://www.technologyreview.com/2025/10/17/1125895/the-download-the-rehabilitation-of-ai-art-and-the-scary-truth-about-antimicrobial-resistance/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. From slop to...",
@@ -45,34 +73,6 @@
             "description": "For many software developers using generative AI, vibe coding is a double-edged sword. The process delivers rapid prototypes but often leaves a trail ...",
             "pubDate": "2025-10-17T18:45:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/74nSfOtaxxWUY7F5d25vJp/2f602a8058b366f3bdd73cd30d00cf58/AI-human_coding.jpg"
-        },
-        {
-            "title": "From slop to Sotheby’s? AI art enters a new phase",
-            "link": "https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/",
-            "description": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic...",
-            "pubDate": "2025-10-17T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/WEB_NFTbitcoinart.png?w=3000"
-        },
-        {
-            "title": "Developers can now add live Google Maps data to Gemini-powered AI app outputs",
-            "link": "https://venturebeat.com/ai/developers-can-now-add-live-google-maps-data-to-gemini-powered-ai-app",
-            "description": "Google is adding a new feature for third-party developers building atop its Gemini AI models that rivals like OpenAI's ChatGPT, Anthropic's Claude, an...",
-            "pubDate": "2025-10-17T23:31:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2ehvkDsQ7NC7wQuECOcDGS/cb89da9ccaf13f2888f005ac93cecffa/cfr0z3n_realistic_graphic_novel_hyper_detailed_flat_illustratio_8aae43d5-1e50-4ebd-8760-ea28dbc0f328.png"
-        },
-        {
-            "title": "Researchers find adding this one simple sentence to prompts makes AI models way more creative",
-            "link": "https://venturebeat.com/ai/researchers-find-adding-this-one-simple-sentence-to-prompts-makes-ai-models",
-            "description": "One of the coolest things about generative AI models — both large language models (LLMs) and diffusion-based image generators — is that they are \"non-...",
-            "pubDate": "2025-10-17T03:40:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6muOslUgOQCou8M10zFbHv/b0015ffd123a52616f65bc2a26b14b05/cfr0z3n_Simple_refined_corporate_memphis_flat_illustration_isom_73fd3864-fe47-4408-bdec-76e8596ca810.png"
-        },
-        {
-            "title": "This startup thinks slime mold can help us design better cities",
-            "link": "https://www.technologyreview.com/2025/10/17/1125223/slime-design-better-cities-mireta/",
-            "description": "It is a yellow blob with no brain, yet some researchers believe a curious organism known as slime mold could help us build more resilient cities. Huma...",
-            "pubDate": "2025-10-17T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Your guide to Day 2 of RoboBusiness 2025",
@@ -131,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
             "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
