@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-20T17:37:17.089059",
+    "lastBuildDate": "2025-10-21T07:09:17.995641",
     "items": [
+        {
+            "title": "1-Pot Kabocha Chickpea Miso Soup",
+            "link": "https://minimalistbaker.com/kabocha-chickpea-miso-soup/",
+            "description": "Ever followed a restaurant on social media, found yourself drooling over everything they posted, and then realized you’re too far away to place an ord...",
+            "pubDate": "2025-10-21T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/11/1-Pot-Kabocha-Chickpea-Miso-Soup-25-Minimalist-Baker-110323-680x1020.jpg"
+        },
         {
             "title": "Hawaiian Roll Breakfast Casserole",
             "link": "https://therecipecritic.com/hawaiian-roll-breakfast-casserole/",
@@ -19,18 +26,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/dumpling-casserole.jpg"
         },
         {
-            "title": "Tuscan Chicken Orzo Bake",
-            "link": "https://therecipecritic.com/tuscan-chicken-orzo-bake/",
-            "description": "This creamy Tuscan chicken orzo bake is the kind of dinner you’ll want on repeat! Tender chicken, orzo, and sun-dried…",
-            "pubDate": "2025-10-18T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/tuscan-orzo-bake.jpg"
-        },
-        {
             "title": "Weekly Meal Plan #63",
             "link": "https://therecipecritic.com/weekly-meal-plan-63/",
             "description": "Looking for some tasty meals everyone in the family will actually eat? This weekly meal plan has 5 easy recipes…",
             "pubDate": "2025-10-18T01:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/Week-63-Meal-Plan-Collage-.jpg"
+        },
+        {
+            "title": "Tuscan Chicken Orzo Bake",
+            "link": "https://therecipecritic.com/tuscan-chicken-orzo-bake/",
+            "description": "This creamy Tuscan chicken orzo bake is the kind of dinner you’ll want on repeat! Tender chicken, orzo, and sun-dried…",
+            "pubDate": "2025-10-18T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/tuscan-orzo-bake.jpg"
         },
         {
             "title": "11 Thanksgiving Desserts Worth Saving Room For",
@@ -59,13 +66,6 @@
             "description": "We’ve long admired the super talented gluten-free chef and baker Aran Goyoaga. But our status went from fans to super fans last year when she posted a...",
             "pubDate": "2025-09-23T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/08/Pillowy-Gluten-Free-Pita-Aran-Goyoaga-12-680x1020.jpg"
-        },
-        {
-            "title": "The BEST Gluten-Free Pumpkin Bread (1 Bowl!)",
-            "link": "https://minimalistbaker.com/best-gluten-free-pumpkin-bread/",
-            "description": "Fall has three essentials: cozy sweaters, warming soups, and PUMPKIN BREAD! Whether your fond memories of this spice-filled treat are from Starbucks, ...",
-            "pubDate": "2025-09-16T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/08/Gluten-Free-Pumpkin-Bread-11-680x1020.jpg"
         }
     ]
 }
