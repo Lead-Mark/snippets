@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-21T07:48:29.845485",
+    "lastBuildDate": "2025-10-21T10:39:35.969348",
     "items": [
+        {
+            "title": "Insanely Delicious Hot Crab Dip",
+            "link": "https://therecipecritic.com/hot-crab-dip/",
+            "description": "My hot crab dip is one of those recipes you have to try. It’s creamy, cheesy, and irresistible. Ready in…",
+            "pubDate": "2025-10-21T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2018/09/cheesy_hot_crab_dip_2.jpg"
+        },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",
             "link": "https://minimalistbaker.com/kabocha-chickpea-miso-soup/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/dumpling-casserole.jpg"
         },
         {
-            "title": "Weekly Meal Plan #63",
-            "link": "https://therecipecritic.com/weekly-meal-plan-63/",
-            "description": "Looking for some tasty meals everyone in the family will actually eat? This weekly meal plan has 5 easy recipes…",
-            "pubDate": "2025-10-18T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/Week-63-Meal-Plan-Collage-.jpg"
-        },
-        {
             "title": "Tuscan Chicken Orzo Bake",
             "link": "https://therecipecritic.com/tuscan-chicken-orzo-bake/",
             "description": "This creamy Tuscan chicken orzo bake is the kind of dinner you’ll want on repeat! Tender chicken, orzo, and sun-dried…",
@@ -40,11 +40,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/tuscan-orzo-bake.jpg"
         },
         {
-            "title": "11 Thanksgiving Desserts Worth Saving Room For",
-            "link": "https://therecipecritic.com/thanksgiving-desserts/",
-            "description": "Let’s be honest. Once dinner is done, everyone’s just eyeing the dessert table. Thanksgiving dessert is where all the magic…",
-            "pubDate": "2025-10-17T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2023/10/pumpkin-pie-1.jpg"
+            "title": "Weekly Meal Plan #63",
+            "link": "https://therecipecritic.com/weekly-meal-plan-63/",
+            "description": "Looking for some tasty meals everyone in the family will actually eat? This weekly meal plan has 5 easy recipes…",
+            "pubDate": "2025-10-18T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/Week-63-Meal-Plan-Collage-.jpg"
         },
         {
             "title": "Easy Gluten-Free Monster Cookies (Vegan, Flourless!)",
