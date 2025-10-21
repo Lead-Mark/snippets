@@ -2,21 +2,28 @@
     "title": "Individual feed for https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "link": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-21T07:09:23.892490",
+    "lastBuildDate": "2025-10-21T07:48:34.719676",
     "items": [
+        {
+            "title": "The Louvre Heist",
+            "link": "https://www.nytimes.com/2025/10/21/world/louvre-jewelry-heist.html",
+            "description": "Today, we look at how thieves pulled off this weekend’s brazen daylight robbery in Paris and why they did it.",
+            "pubDate": "2025-10-21T12:29:50",
+            "image_url": "https://static01.nyt.com/images/2025/10/21/multimedia/21themorning-nl-LOUVRE-cpfq/21themorning-nl-LOUVRE-cpfq-mediumSquareAt3X-v3.jpg"
+        },
+        {
+            "title": "France Sends Former President Nicolas Sarkozy to Prison to Start 5-Year Sentence",
+            "link": "https://www.nytimes.com/2025/10/21/world/europe/sarkozy-france-president-jail.html",
+            "description": "Nicolas Sarkozy, the president of France from 2007 to 2012, received a five-year sentence after being convicted in a campaign finance scandal.",
+            "pubDate": "2025-10-21T12:27:57",
+            "image_url": "https://static01.nyt.com/images/2025/10/21/multimedia/21france-sarkozy-01-fvqj/21france-sarkozy-01-fvqj-mediumSquareAt3X.jpg"
+        },
         {
             "title": "Nations Hesitate to Send Troops to Gaza, Fearing Clashes With Hamas",
             "link": "https://www.nytimes.com/2025/10/21/world/middleeast/gaza-ceasefire-international-security-force-hamas.html",
             "description": "The Trump peace plan calls for an international security force in the Gaza Strip, but countries that might send troops are wary of danger, an unclear ...",
             "pubDate": "2025-10-21T11:48:07",
             "image_url": "https://static01.nyt.com/images/2025/10/21/multimedia/21int-gaza-security-force-hkmc/21int-gaza-security-force-hkmc-mediumSquareAt3X.jpg"
-        },
-        {
-            "title": "France Sends Former President Nicolas Sarkozy to Prison to Start 5-Year Sentence",
-            "link": "https://www.nytimes.com/2025/10/21/world/europe/sarkozy-france-president-jail.html",
-            "description": "Nicolas Sarkozy, the president of France from 2007 to 2012, reported to a prison in Paris weeks after his conviction in a corruption trial.",
-            "pubDate": "2025-10-21T11:15:10",
-            "image_url": "https://static01.nyt.com/images/2025/10/21/multimedia/21france-sarkozy-01-fvqj/21france-sarkozy-01-fvqj-mediumSquareAt3X.jpg"
         },
         {
             "title": "Judges Warn of ‘Judicial Crisis,’ and Universities Reject Trump Offer",
@@ -31,13 +38,6 @@
             "description": "Grace Wales Bonner is the new creative director of men’s wear at the French fashion house.",
             "pubDate": "2025-10-21T10:53:45",
             "image_url": "https://static01.nyt.com/images/2025/10/17/multimedia/17WALES-BONNER-cwzh/17WALES-BONNER-cwzh-mediumSquareAt3X-v3.jpg"
-        },
-        {
-            "title": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
-            "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html",
-            "description": "With the cease-fire deal under strain, Vice President JD Vance is set to meet with Prime Minister Benjamin Netanyahu and other leaders.",
-            "pubDate": "2025-10-21T10:48:55",
-            "image_url": "https://static01.nyt.com/images/2025/10/21/multimedia/21int-israel-vance-zpgj/21int-israel-vance-zpgj-mediumSquareAt3X.jpg"
         }
     ]
 }
