@@ -2,21 +2,49 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-21T17:01:23.346865",
+    "lastBuildDate": "2025-10-22T07:01:53.897806",
     "items": [
         {
-            "title": "The Download: embryo ethics, and reducing chatbot risks",
-            "link": "https://www.technologyreview.com/2025/10/21/1126189/the-download-embryo-ethics-and-reducing-chatbot-risks/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The astonish...",
-            "pubDate": "2025-10-21T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_37c2b7.png"
+            "title": "Inside the archives of the NASA Ames Research Center",
+            "link": "https://www.technologyreview.com/2025/10/22/1125378/nasa-ames-research-center-archives/",
+            "description": "At the southern tip of San Francisco Bay, surrounded by the tech giants Google, Apple, and Microsoft, sits the historic NASA Ames Research Center. Its...",
+            "pubDate": "2025-10-22T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/AC86-8016-7.jpg?w=2830"
         },
         {
-            "title": "New noninvasive endometriosis tests are on the rise",
-            "link": "https://www.technologyreview.com/2025/10/21/1125327/endometriosis-tests-noninvasive/",
-            "description": "Shantana Hazel often thought her insides might fall out during menstruation. It took 14 years of stabbing pain before she ultimately received a diagno...",
-            "pubDate": "2025-10-21T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/251017_endotests_embed2.jpg?w=3000"
+            "title": "3 Things Stephanie Arnett is into right now",
+            "link": "https://www.technologyreview.com/2025/10/22/1125356/3-things-stephanie-arnett/",
+            "description": "Dungeon Crawler Carl, by Matt Dinniman This science fiction book series confronted me with existential questions like “Are we alone in the universe?” ...",
+            "pubDate": "2025-10-22T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/71agPjqADHL._UF10001000_QL80_.jpg"
+        },
+        {
+            "title": "Simplifying the AI stack: The key to scalable, portable intelligence from cloud to edge",
+            "link": "https://venturebeat.com/ai/simplifying-the-ai-stack-the-key-to-scalable-portable-intelligence-from",
+            "description": "Presented by Arm A simpler software stack is the key to portable, scalable AI across cloud and edge. AI is now powering real-world applications, yet f...",
+            "pubDate": "2025-10-22T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5NhML02FGAEkp2yOpsPkrx/b62d547d376660e631c01d70283f7946/AdobeStock_1243259614.jpeg"
+        },
+        {
+            "title": "Job titles of the future: AI embryologist",
+            "link": "https://www.technologyreview.com/2025/10/22/1125367/ai-embryologist-reproduction-future-jobs/",
+            "description": "Embryologists are the scientists behind the scenes of in vitro fertilization who oversee the development and selection of embryos, prepare them for tr...",
+            "pubDate": "2025-10-22T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Dispatch: Partying at one of Africa’s largest AI gatherings",
+            "link": "https://www.technologyreview.com/2025/10/22/1125361/africa-ai-policymaking-nyalleng-moorosi/",
+            "description": "It’s late August in Rwanda’s capital, Kigali, and people are filling a large hall at one of Africa’s biggest gatherings of minds in AI and machine lea...",
+            "pubDate": "2025-10-22T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Engineering better care",
+            "link": "https://www.technologyreview.com/2025/10/21/1124712/engineering-better-care/",
+            "description": "Every Monday, more than a hundred members of Giovanni Traverso’s Laboratory for Translational Engineering (L4TE) fill a large classroom at Brigham and...",
+            "pubDate": "2025-10-21T22:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/1748_GiovanniTraverso5266_final.jpg?w=1720"
         },
         {
             "title": "New 'Markovian Thinking' technique unlocks a path to million-token AI reasoning",
@@ -33,27 +61,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/AdobeStock_361977639-copy-1.jpg"
         },
         {
-            "title": "Google's new vibe coding AI Studio experience lets anyone build, deploy apps live in minutes",
-            "link": "https://venturebeat.com/ai/googles-new-vibe-coding-ai-studio-experience-lets-anyone-build-deploy-apps",
-            "description": "Google AI Studio has gotten a big vibe coding upgrade with a new interface, buttons, suggestions and community features that allow anyone with an idea...",
-            "pubDate": "2025-10-21T18:45:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4kXCoAPJEcNYeIiP3L6Oyd/e2ced747533b5cf5f7b84e9fc7578ace/cfr0z3n_fix_hand_--chaos_35_--ar_9151_--raw_--profile_h57q96c_u_79d5871e-80b7-4587-8fc5-cd2407d695ac.png"
-        },
-        {
-            "title": "OpenAI announces ChatGPT Atlas, an AI-enabled web browser to challenge Google Chrome",
-            "link": "https://venturebeat.com/ai/openai-releases-chatgpt-atlas-an-ai-enabled-web-browser-to-challenge-google",
-            "description": "OpenAI is entering the browser world with the launch of ChatGPT Atlas, an AI-enabled browser. Atlas, now available globally, can be accessed through A...",
-            "pubDate": "2025-10-21T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4EJUoAdNGN4myXdb69GnMD/f8ab6aaf2305a72ad84dcc5e4afb1beb/agentic_context_engineering.jpg"
-        },
-        {
-            "title": "Draganfly and Palladyne partner to develop drone swarms for defense",
-            "link": "https://www.therobotreport.com/draganfly-palladyne-partner-develop-drone-swarms-defense/",
-            "description": "Draganfly will integrate Palladyne AI's Pilot edge-based software to give drones the ability to collaborate with an operator in the loop. The post Dra...",
-            "pubDate": "2025-10-21T17:44:38",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/X4-P-Robot-014.jpg"
-        },
-        {
             "title": "DeepSeek drops open-source model that compresses text 10x through images, defying conventions",
             "link": "https://venturebeat.com/ai/deepseek-drops-open-source-model-that-compresses-text-10x-through-images",
             "description": "DeepSeek , the Chinese artificial intelligence research company that has repeatedly challenged assumptions about AI development costs , has released a...",
@@ -61,11 +68,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5e39eq2QQIBDorTJB70Tw8/4a8d11981b981c2e3cf3b504304d424c/nuneybits_Vector_art_of_whale_surfing_data_streams_932353ff-5fc4-4cc9-bb53-0b9658f59281.webp"
         },
         {
-            "title": "The astonishing embryo models of Jacob Hanna",
-            "link": "https://www.technologyreview.com/2025/10/21/1125523/jacob-hanna-israel-synthetic-embryo-models/",
-            "description": "When the Palestinian stem-cell scientist Jacob Hanna was stopped while entering the US last May, airport customs agents took him aside and held him fo...",
-            "pubDate": "2025-10-21T10:02:38",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/GettyImages-1242317316.jpg?w=2000"
+            "title": "Google's new vibe coding AI Studio experience lets anyone build, deploy apps live in minutes",
+            "link": "https://venturebeat.com/ai/googles-new-vibe-coding-ai-studio-experience-lets-anyone-build-deploy-apps",
+            "description": "Google AI Studio has gotten a big vibe coding upgrade with a new interface, buttons, suggestions and community features that allow anyone with an idea...",
+            "pubDate": "2025-10-21T18:45:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4kXCoAPJEcNYeIiP3L6Oyd/e2ced747533b5cf5f7b84e9fc7578ace/cfr0z3n_fix_hand_--chaos_35_--ar_9151_--raw_--profile_h57q96c_u_79d5871e-80b7-4587-8fc5-cd2407d695ac.png"
         },
         {
             "title": "Qwen's new Deep Research update lets you turn its reports into webpages, podcasts in seconds",
@@ -75,11 +82,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5Joxz8qhvStlvnHybvWBpG/5dcda997ed99a05e52cc929b825d01d5/cfr0z3n_realistic_graphic_novel_art_hyperdetailed_overhead_isom_7a652de4-81e1-4145-848c-4a9c6c0969e4.png"
         },
         {
-            "title": "Why AI should be able to “hang up” on you",
-            "link": "https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/",
-            "description": "Chatbots today are everything machines. If it can be put into words—relationship advice, work documents, code—AI will produce it, however imperfectly....",
-            "pubDate": "2025-10-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Draganfly and Palladyne partner to develop drone swarms for defense",
+            "link": "https://www.therobotreport.com/draganfly-palladyne-partner-develop-drone-swarms-defense/",
+            "description": "Draganfly will integrate Palladyne AI's Pilot edge-based software to give drones the ability to collaborate with an operator in the loop. The post Dra...",
+            "pubDate": "2025-10-21T17:44:38",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/X4-P-Robot-014.jpg"
         },
         {
             "title": "Waymo plans to bring driverless robotaxis to London in 2026",
@@ -96,13 +103,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/CMU-Amazon-AI-featured.jpg"
         },
         {
-            "title": "Fold your own tessellation",
-            "link": "https://www.technologyreview.com/2025/10/20/1125594/technologyreview-com-tessellation/",
-            "description": "Download the pattern for Dancing Ribbons here. Yoder recommends printing the pattern on paper in between normal printer paper and cardstock in weight,...",
-            "pubDate": "2025-10-20T16:46:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
             "title": "Your guide to Day 2 of RoboBusiness 2025",
             "link": "https://www.therobotreport.com/your-guide-day-2-robobusiness-2025/",
             "description": "Day 2 of RoboBusiness 2025 is another packed day full of interesting talks, unique networking opportunities, and big-name keynotes. The post Your guid...",
@@ -110,11 +110,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/robobusiness-featured-1.jpg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -124,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",

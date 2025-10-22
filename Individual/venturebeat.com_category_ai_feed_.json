@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-21T17:01:23.348787",
+    "lastBuildDate": "2025-10-22T07:01:53.899795",
     "items": [
+        {
+            "title": "Simplifying the AI stack: The key to scalable, portable intelligence from cloud to edge",
+            "link": "https://venturebeat.com/ai/simplifying-the-ai-stack-the-key-to-scalable-portable-intelligence-from",
+            "description": "Presented by Arm A simpler software stack is the key to portable, scalable AI across cloud and edge. AI is now powering real-world applications, yet f...",
+            "pubDate": "2025-10-22T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5NhML02FGAEkp2yOpsPkrx/b62d547d376660e631c01d70283f7946/AdobeStock_1243259614.jpeg"
+        },
         {
             "title": "Qwen's new Deep Research update lets you turn its reports into webpages, podcasts in seconds",
             "link": "https://venturebeat.com/ai/qwens-new-deep-research-update-lets-you-turn-its-reports-into-webpages",
@@ -31,13 +38,6 @@
             "description": "Researchers at Mila have proposed a new technique that makes large language models (LLMs) vastly more efficient when performing complex reasoning. Cal...",
             "pubDate": "2025-10-21T06:12:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1Nt9gogMKGFRD9qvf1lziG/bd8cf13e043d0d9341611055b70556e0/Markovian_thinking.jpg"
-        },
-        {
-            "title": "OpenAI announces ChatGPT Atlas, an AI-enabled web browser to challenge Google Chrome",
-            "link": "https://venturebeat.com/ai/openai-releases-chatgpt-atlas-an-ai-enabled-web-browser-to-challenge-google",
-            "description": "OpenAI is entering the browser world with the launch of ChatGPT Atlas, an AI-enabled browser. Atlas, now available globally, can be accessed through A...",
-            "pubDate": "2025-10-21T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4EJUoAdNGN4myXdb69GnMD/f8ab6aaf2305a72ad84dcc5e4afb1beb/agentic_context_engineering.jpg"
         }
     ]
 }
