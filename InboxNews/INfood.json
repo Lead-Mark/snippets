@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-23T07:06:44.448181",
+    "lastBuildDate": "2025-10-23T11:01:38.575137",
     "items": [
+        {
+            "title": "Classic Sourdough Stuffing",
+            "link": "https://therecipecritic.com/sourdough-stuffing/",
+            "description": "Why did it take me this long to make sourdough stuffing? The tangy crust and chewy middle are pure perfection,…",
+            "pubDate": "2025-10-23T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/sourdough-stuffing.jpg"
+        },
         {
             "title": "Shipwreck Casserole",
             "link": "https://therecipecritic.com/shipwreck-casserole/",
@@ -12,18 +19,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/shipwreck-casserole-.jpg"
         },
         {
-            "title": "Insanely Delicious Hot Crab Dip",
-            "link": "https://therecipecritic.com/hot-crab-dip/",
-            "description": "My hot crab dip is one of those recipes you have to try. It’s creamy, cheesy, and irresistible. Ready in…",
-            "pubDate": "2025-10-21T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2018/09/cheesy_hot_crab_dip_2.jpg"
-        },
-        {
             "title": "1-Pot Kabocha Chickpea Miso Soup",
             "link": "https://minimalistbaker.com/kabocha-chickpea-miso-soup/",
             "description": "Ever followed a restaurant on social media, found yourself drooling over everything they posted, and then realized you’re too far away to place an ord...",
             "pubDate": "2025-10-21T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/11/1-Pot-Kabocha-Chickpea-Miso-Soup-25-Minimalist-Baker-110323-680x1020.jpg"
+        },
+        {
+            "title": "Insanely Delicious Hot Crab Dip",
+            "link": "https://therecipecritic.com/hot-crab-dip/",
+            "description": "My hot crab dip is one of those recipes you have to try. It’s creamy, cheesy, and irresistible. Ready in…",
+            "pubDate": "2025-10-21T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2018/09/cheesy_hot_crab_dip_2.jpg"
         },
         {
             "title": "Hawaiian Roll Breakfast Casserole",
@@ -38,13 +45,6 @@
             "description": "Chicken and dumpling casserole is a comforting, delicious dish! Tender chicken and hearty vegetables are topped with soft, buttery dumplings…",
             "pubDate": "2025-10-19T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/dumpling-casserole.jpg"
-        },
-        {
-            "title": "Tuscan Chicken Orzo Bake",
-            "link": "https://therecipecritic.com/tuscan-chicken-orzo-bake/",
-            "description": "This creamy Tuscan chicken orzo bake is the kind of dinner you’ll want on repeat! Tender chicken, orzo, and sun-dried…",
-            "pubDate": "2025-10-18T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/09/tuscan-orzo-bake.jpg"
         },
         {
             "title": "Easy Gluten-Free Monster Cookies (Vegan, Flourless!)",

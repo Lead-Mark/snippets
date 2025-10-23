@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-23T07:07:33.874532",
+    "lastBuildDate": "2025-10-23T11:02:27.879782",
     "items": [
+        {
+            "title": "Antidepressant side effects differ greatly depending on the drug, study finds",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/10/23/nx-s1-5582787/antidepressant-side-effects-mental-health",
+            "description": "Millions of Americans take antidepressants. And like all medication they come with side effects. Researchers studied 30 different antidepressants and ...",
+            "pubDate": "2025-10-23T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2119x1414+0+0/resize/2119x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2Fb2%2Fb9048e1f4afab8b4317d11cdb4ba%2Fgettyimages-1333447796.jpg"
+        },
         {
             "title": "This nation has the fastest rising rate of cancer cases -- and deaths -- in the world",
             "link": "https://www.npr.org/sections/goats-and-soda/2025/10/22/g-s1-94470/cancer-rates-deaths-lebanon",
@@ -12,11 +19,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4424x2949+0+0/resize/4424x2949!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F9c%2F8959524b408f8196fb74946505d1%2Flebanon-cancer-5.jpg"
         },
         {
-            "title": "Antidepressant side effects differ greatly depending on the drug, study finds",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/10/23/nx-s1-5582787/antidepressant-side-effects-mental-health",
-            "description": "Millions of Americans take antidepressants. And like all medication they come with side effects. Researchers studied 30 different antidepressants and ...",
-            "pubDate": "2025-10-23T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2119x1414+0+0/resize/2119x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2Fb2%2Fb9048e1f4afab8b4317d11cdb4ba%2Fgettyimages-1333447796.jpg"
+            "title": "World Health Organization warns that one in six infections now antibiotic resistant",
+            "link": "https://www.2minutemedicine.com/world-health-organization-warns-that-one-in-six-infections-now-antibiotic-resistant/",
+            "description": "1. A new WHO analysis finds one in six bacterial infections worldwide is now resistant to standard antibiotics. 2. Resistance rates are climbing betwe...",
+            "pubDate": "2025-10-23T14:00:23",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/tablets_PD_edited-300x150.jpg"
         },
         {
             "title": "Ifinatamab Deruxtecan in Patients With Extensive-Stage Small-Cell Lung Cancer: Primary Analysis of the Phase 2 IDeate-Lung01 Trial",
@@ -26,102 +33,81 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/01/lung-cancer-ct-300x150.png"
         },
         {
-            "title": "Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells, mouse study shows",
-            "link": "https://medicalxpress.com/news/2025-10-alzheimer-disrupts-circadian-rhythms-plaque.html",
-            "description": "Alzheimer's disease is notorious for scrambling patients' daily rhythms. Restless nights with little sleep and increased napping during the day are ea...",
-            "pubDate": "2025-10-23T10:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Shingles Vaccination Linked to Vascular Benefits",
-            "link": "https://www.medscape.com/viewarticle/shingles-vaccination-linked-vascular-benefits-breakthrough-2025a1000su1?src=rss",
-            "description": "Several observational analyses suggest higher cardiovascular and dementia risks in those with and without HIV who get shingles and lower risks with va...",
-            "pubDate": "2025-10-23T10:19:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Scanning the tongue to detect and track motor neuron disease",
-            "link": "https://medicalxpress.com/news/2025-10-scanning-tongue-track-motor-neuron.html",
-            "description": "Standard MRI scans of a person's tongue could assist in the early detection and ongoing monitoring of motor neuron disease.",
-            "pubDate": "2025-10-23T12:04:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Dementia linked to problems with brain's waste clearance system",
-            "link": "https://medicalxpress.com/news/2025-10-dementia-linked-problems-brain-clearance.html",
-            "description": "Problems with the brain's waste clearance system could underlie many cases of dementia and help explain why poor sleep patterns and cardiovascular ris...",
-            "pubDate": "2025-10-23T12:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Two More Denosumab Biosimilars Approved in the US",
-            "link": "https://www.medscape.com/viewarticle/two-more-denosumab-biosimilars-approved-us-2025a1000su7?src=rss",
-            "description": "The new approvals bring the number of denosumab biosimilars in the US to eight, but price reductions are not yet substantial. Medscape Medical News",
-            "pubDate": "2025-10-23T11:31:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Cataract surgery becoming an in-office procedure, experts say",
-            "link": "https://medicalxpress.com/news/2025-10-cataract-surgery-office-procedure-experts.html",
-            "description": "Imagine popping by your eye doctor's office for a quick cataract surgery.",
-            "pubDate": "2025-10-23T12:05:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Nailfold Changes Signal Heart Risk in Systemic Sclerosis",
-            "link": "https://www.medscape.com/viewarticle/nailfold-changes-signal-cardiovascular-event-and-mortality-2025a1000stv?src=rss",
-            "description": "Avascular areas on baseline nailfold capillaroscopy are strong, independent predictors of major cardiovascular events and all-cause mortality in patie...",
-            "pubDate": "2025-10-23T10:59:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Widely-used technique for assessing IVF embryos may be flawed, study suggests",
-            "link": "https://medicalxpress.com/news/2025-10-widely-technique-ivf-embryos-flawed.html",
-            "description": "A test deployed in many fertility clinics to assess the viability of embryos for use in IVF is likely to overestimate the number of embryos with abnor...",
-            "pubDate": "2025-10-23T10:00:01",
+            "title": "Socializing could reverse frailty in older people",
+            "link": "https://medicalxpress.com/news/2025-10-socializing-reverse-frailty-older-people.html",
+            "description": "Socializing could help to reverse frailty in older people, according to new research published in the American Journal of Epidemiology.",
+            "pubDate": "2025-10-23T15:30:59",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Creatine Supplements in CVD: Helpful Addition to Treatment?",
-            "link": "https://www.medscape.com/viewarticle/creatine-supplements-cvd-helpful-addition-treatment-2025a1000stw?src=rss",
-            "description": "The popular supplement has shown clear benefits through boosting energy stores, including in the heart. Medscape Medical News",
-            "pubDate": "2025-10-23T09:33:11",
+            "title": "Discovery shakes 60 years of certainty about fat metabolism",
+            "link": "https://medicalxpress.com/news/2025-10-discovery-years-certainty-fat-metabolism.html",
+            "description": "Scientists have known hormone-sensitive lipase (HSL) as the enzyme that releases energy stored in our fat. Yet patients born without this protein do n...",
+            "pubDate": "2025-10-23T16:00:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Is Diabetes Linked to Dementia? Latest Evidence Revealed",
+            "link": "https://www.medscape.com/viewarticle/diabetes-linked-dementia-latest-evidence-revealed-2025a1000svk?src=rss",
+            "description": "A multinational analysis and Swedish registry data show higher dementia mortality after age 80 and a twofold dementia risk in those with type 1 diabet...",
+            "pubDate": "2025-10-23T14:27:28",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Higher Epinephrine Dose Tied to Better Anaphylaxis Outcomes",
-            "link": "https://www.medscape.com/viewarticle/higher-epinephrine-dose-tied-better-anaphylaxis-outcomes-2025a1000suh?src=rss",
-            "description": "An initial 0.3-mg intramuscular dose is less likely to resolve symptoms than a 0.5-mg dose. Medscape Medical News",
-            "pubDate": "2025-10-23T11:20:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "International experts produce guidelines for treating hereditary hearing loss with gene therapy",
+            "link": "https://medicalxpress.com/news/2025-10-international-experts-guidelines-hereditary-loss.html",
+            "description": "Up to 60% of congenital and early-onset hearing loss is caused by genetic mutations in an inherited gene, and gene therapy has recently emerged as a p...",
+            "pubDate": "2025-10-23T16:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Protecting physicians when private equity buys in [PODCAST]",
             "link": "https://kevinmd.com/2025/10/protecting-physicians-when-private-equity-buys-in-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Veteran attorney Dennis Hursh discusses his article “Private practice...",
             "pubDate": "2025-10-23T00:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Tiragolumab Disappoints in Untreated Advanced HCC",
+            "link": "https://www.medscape.com/viewarticle/tiragolumab-disappoints-untreated-advanced-hcc-2025a1000svv?src=rss",
+            "description": "Targeting TIGIT with tiragolumab does not improve outcomes over atezolizumab plus bevacizumab in untreated advanced hepatocellular carcinoma, shows a ...",
+            "pubDate": "2025-10-23T14:44:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Can Washing Make Hospital Dogs Allergy Friendly?",
+            "link": "https://www.medscape.com/viewarticle/hospital-dog-allergen-levels-significantly-reduced-regular-2025a1000svg?src=rss",
+            "description": "Washing hospital dogs significantly reduces allergen levels; results last for 3 days. Medscape Medical News",
+            "pubDate": "2025-10-23T14:19:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Is the PREVENT Model Best for Determining CVD Risk?",
+            "link": "https://www.medscape.com/viewarticle/prevent-calculator-best-determining-cvd-risk-insights-post-2025a1000svo?src=rss",
+            "description": "The PREVENT tool — the newest cardiovascular risk calculator — makes individual dialogue between doctor and patient more crucial than ever. Medscape M...",
+            "pubDate": "2025-10-23T14:22:59",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Artificial intelligence (AI) may reduce cognitive load for sonographers in fetal ultrasound scans without affecting diagnostic performance",
-            "link": "https://www.2minutemedicine.com/artificial-intelligence-ai-assistance-demonstrates-potential-in-reducing-cognitive-load-for-sonographers-in-fetal-ultrasound-scans-without-affecting-diagnostic-performance/",
-            "description": "1. Day and colleagues randomized sonographers to scan pregnant participants with AI assistance or the standard method for congenital heart disease scr...",
-            "pubDate": "2025-10-22T15:30:17",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/10/prenatal_Ultrasound_edited-300x150.jpg"
+            "title": "Psoriasis-linked gene mutation also impacts gut health, scientists discover",
+            "link": "https://medicalxpress.com/news/2025-10-psoriasis-linked-gene-mutation-impacts.html",
+            "description": "A mutation previously linked to skin disorders like psoriasis may also play a surprising role in gut health, according to new research published by sc...",
+            "pubDate": "2025-10-23T15:32:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Incidence of Ocular Manifestation After Adult-Onset Inflammatory Bowel Disease: A 20-Year Population-Based Cohort Study",
-            "link": "https://www.2minutemedicine.com/incidence-of-ocular-manifestation-after-adult-onset-inflammatory-bowel-disease-a-20-year-population-based-cohort-study/",
-            "description": "1. Among patients with adult-onset inflammatory bowel disease (IBD), the incidence of ocular manifestations was 2.9 per 1000 person-years. 2. The inci...",
-            "pubDate": "2025-10-22T00:00:51",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/ulcerative-colitis-300x150.jpg"
+            "title": "Science for living: Addressing the growing OB/GYN shortage and maternity care crisis",
+            "link": "https://medicalxpress.com/news/2025-10-science-obgyn-shortage-maternity-crisis.html",
+            "description": "The United States continues to face a growing maternal health crisis. Despite being one of the most resource-rich nations in the world, America has th...",
+            "pubDate": "2025-10-23T15:56:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Federal Drug Administration approves Alzheimer’s blood test for use in primary care",
-            "link": "https://www.2minutemedicine.com/fda-approves-alzheimers-blood-test-for-use-in-primary-care/",
-            "description": "1. The FDA has cleared the first Alzheimer’s blood test for community use, marking a pivotal step toward earlier and less invasive diagnosis. 2. Roche...",
-            "pubDate": "2025-10-22T13:30:51",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/02/fda-e1423609309526-300x150.jpg"
+            "title": "No Signal for Myocarditis in Updated Moderna COVID Vax",
+            "link": "https://www.medscape.com/viewarticle/no-signal-myocarditis-updated-moderna-mrna-covid-vaccine-2025a1000svq?src=rss",
+            "description": "Small study looks only at a cardiac biomarker; findings are in line with reduced myocarditis risk in mRNA COVID vaccines after initial series. Medscap...",
+            "pubDate": "2025-10-23T14:33:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Scientists are trying to understand how Ebola hides inside the bodies of survivors",
@@ -131,11 +117,25 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5575628"
         },
         {
+            "title": "Artificial intelligence (AI) may reduce cognitive load for sonographers in fetal ultrasound scans without affecting diagnostic performance",
+            "link": "https://www.2minutemedicine.com/artificial-intelligence-ai-assistance-demonstrates-potential-in-reducing-cognitive-load-for-sonographers-in-fetal-ultrasound-scans-without-affecting-diagnostic-performance/",
+            "description": "1. Day and colleagues randomized sonographers to scan pregnant participants with AI assistance or the standard method for congenital heart disease scr...",
+            "pubDate": "2025-10-22T15:30:17",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/10/prenatal_Ultrasound_edited-300x150.jpg"
+        },
+        {
             "title": "Antidepressant side effects differ depending on the drug, study finds",
             "link": "https://www.npr.org/2025/10/22/nx-s1-5582341/antidepressant-side-effects-differ-depending-on-the-drug-study-finds",
             "description": "Researchers in the U.K. have published a major review of published data on physical side effects related to antidepressants such as changes in weight,...",
             "pubDate": "2025-10-22T22:05:11",
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5582341"
+        },
+        {
+            "title": "Incidence of Ocular Manifestation After Adult-Onset Inflammatory Bowel Disease: A 20-Year Population-Based Cohort Study",
+            "link": "https://www.2minutemedicine.com/incidence-of-ocular-manifestation-after-adult-onset-inflammatory-bowel-disease-a-20-year-population-based-cohort-study/",
+            "description": "1. Among patients with adult-onset inflammatory bowel disease (IBD), the incidence of ocular manifestations was 2.9 per 1000 person-years. 2. The inci...",
+            "pubDate": "2025-10-22T00:00:51",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/ulcerative-colitis-300x150.jpg"
         },
         {
             "title": "Trump's 'cardiac age' is 14 years younger. What does that mean?",
@@ -145,24 +145,31 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5575243"
         },
         {
-            "title": "Why faith and academia must work together",
-            "link": "https://kevinmd.com/2025/10/why-faith-and-academia-must-work-together.html",
-            "description": "Ten years. That’s how long I carried around this idea I just couldn’t seem to put into action. I wanted to speak openly about this tension I felt as b...",
-            "pubDate": "2025-10-22T20:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Why the MAHA plan is the wrong cure",
-            "link": "https://kevinmd.com/2025/10/why-the-maha-plan-is-the-wrong-cure.html",
-            "description": "“Make America Healthy Again (MAHA).” Finally, something we can all agree on. The new MAHA report with its pages of promises taps into something real, ...",
-            "pubDate": "2025-10-22T16:00:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Federal Drug Administration approves Alzheimer’s blood test for use in primary care",
+            "link": "https://www.2minutemedicine.com/fda-approves-alzheimers-blood-test-for-use-in-primary-care/",
+            "description": "1. The FDA has cleared the first Alzheimer’s blood test for community use, marking a pivotal step toward earlier and less invasive diagnosis. 2. Roche...",
+            "pubDate": "2025-10-22T13:30:51",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/02/fda-e1423609309526-300x150.jpg"
         },
         {
             "title": "Pancreatic cancer racial disparities",
             "link": "https://kevinmd.com/2025/10/pancreatic-cancer-racial-disparities.html",
             "description": "The names read like a roll call of Black excellence: congressman John Lewis, the civil rights icon who walked across the Edmund Pettus Bridge and help...",
             "pubDate": "2025-10-22T18:00:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Why the MAHA plan is the wrong cure",
+            "link": "https://kevinmd.com/2025/10/why-the-maha-plan-is-the-wrong-cure.html",
+            "description": "“Make America Healthy Again (MAHA).” Finally, something we can all agree on. The new MAHA report with its pages of promises taps into something real, ...",
+            "pubDate": "2025-10-22T16:00:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Why faith and academia must work together",
+            "link": "https://kevinmd.com/2025/10/why-faith-and-academia-must-work-together.html",
+            "description": "Ten years. That’s how long I carried around this idea I just couldn’t seem to put into action. I wanted to speak openly about this tension I felt as b...",
+            "pubDate": "2025-10-22T20:00:13",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
@@ -170,14 +177,7 @@
             "link": "https://kevinmd.com/2025/10/what-ai-can-never-replace-in-medicine.html",
             "description": "When I opened my dermatology practice 25 years ago, I used paper charts, a prescription pad, and a Dictaphone. Today, I use AI daily: for transcriptio...",
             "pubDate": "2025-10-22T17:00:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "The Scan by 2 Minute Medicine®: FDA clears Alzheimer’s blood test, WHO warns of antibiotic resistance, New York confirms chikungunya case, and CDC layoffs raise concern",
-            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-leucovorin-autism-update-oura-ring-fda-scrutiny-lilly-oral-glp-1-trial-and-florida-vaccine-mandate-repeal-2/",
-            "description": "The Scan by 2 Minute Medicine® is a pop-culture medical newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. FDA approves Alzheime...",
-            "pubDate": "2025-10-21T14:00:29",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }
