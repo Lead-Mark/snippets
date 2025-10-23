@@ -2,21 +2,70 @@
     "title": "INtech",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INtech, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-22T18:32:15.453202",
+    "lastBuildDate": "2025-10-23T07:06:57.511052",
     "items": [
+        {
+            "title": "Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building",
+            "link": "https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/",
+            "description": "In a Tesla earnings call Wednesday, the world’s richest man pondered the future of his company’s Optimus robots—and his control over them.",
+            "pubDate": "2025-10-23T00:37:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit",
+            "link": "https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/",
+            "description": "South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investo...",
+            "pubDate": "2025-10-23T07:00:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "This ‘Privacy Browser’ Has Dangerous Hidden Features",
+            "link": "https://www.wired.com/story/universe-browser-malware-gambling-networks/",
+            "description": "The Universe Browser is believed to have been downloaded millions of times. But researchers say it behaves like malware and has links to Asia’s boomin...",
+            "pubDate": "2025-10-23T10:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "How to Manage Cat Allergies—Experts Weigh In (2025)",
+            "link": "https://www.wired.com/story/how-to-live-with-a-cat-if-youre-allergic/",
+            "description": "From dietary supplements to cleaning advice, we'll teach you how to live in harmony with cats (and dogs!), even if you're allergic.",
+            "pubDate": "2025-10-23T11:02:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Keeper Review (2025): Enterprise-Level Password Management for Everyone",
+            "link": "https://www.wired.com/review/keeper-password-manager-2025/",
+            "description": "Keeper Unlimited brings enterprise-level security to all your devices if you’re willing to pay for the privilege.",
+            "pubDate": "2025-10-23T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "ChatGPT’s Horny Era Could Be Its Stickiest Yet",
+            "link": "https://www.wired.com/story/chatgpt-horny-era/",
+            "description": "OpenAI will soon let adults create erotic content in ChatGPT. Experts say that could lead to “emotional commodification,” or horniness as a revenue st...",
+            "pubDate": "2025-10-23T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly",
+            "link": "https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/",
+            "description": "Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.",
+            "pubDate": "2025-10-23T00:05:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "OpenAI requested memorial attendee list in ChatGPT suicide lawsuit",
             "link": "https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/",
             "description": "The new information comes as the Raines family updated its lawsuit against OpenAI. The family first filed a wrongful death suit against OpenAI in Augu...",
             "pubDate": "2025-10-22T21:49:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Our Favorite High Resolution Mirrorless Camera Is $900 Off Right Now",
-            "link": "https://www.wired.com/story/sony-a7rv-deal-2025/",
-            "description": "We found two outstanding camera deals, including one on Sony’s A7R V at the lowest price it’s ever been.",
-            "pubDate": "2025-10-22T19:30:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Why Cohere’s ex-AI research lead is betting against the scaling race",
+            "link": "https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/",
+            "description": "Cohere's former VP of AI research, Sara Hooker, is launching a new startup to build AI models that can adapt to their environment.",
+            "pubDate": "2025-10-22T21:52:17",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Snapchat makes its first open prompt AI Lens available for free in the US",
@@ -24,55 +73,6 @@
             "description": "Snapchat is expanding access to its AI-powered “Imagine Lens,” allowing all users to generate and edit images with custom prompts for free.",
             "pubDate": "2025-10-22T22:25:30",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "AI Models Get Brain Rot, Too",
-            "link": "https://www.wired.com/story/ai-models-social-media-cognitive-decline-study/",
-            "description": "A new study shows that feeding large language models low-quality, high-engagement content from social media lowers their cognitive abilities.",
-            "pubDate": "2025-10-22T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why Cohere’s ex-AI research lead is betting against the scaling race",
-            "link": "https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/",
-            "description": "Cohere's former VP of AI research, Sara Hooker, is launching a new startup to build AI models that can adapt to their environment.",
-            "pubDate": "2025-10-22T21:52:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Tinder Launches Mandatory Facial Verification to Weed Out Bots and Scammers",
-            "link": "https://www.wired.com/story/tinder-launches-mandatory-facial-verification-to-weed-out-bots-and-scammers/",
-            "description": "Face Check will scan new members’ faces to ensure they don’t match existing profiles. The move comes as romance scams continue to proliferate, with bi...",
-            "pubDate": "2025-10-22T21:45:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "JBL’s Rad Clip-On Bluetooth Speaker Is $20 Off",
-            "link": "https://www.wired.com/story/jbl-clip-5-deal-1025/",
-            "description": "Take this unique speaker on your next adventure, and save some cash in the process.",
-            "pubDate": "2025-10-22T19:14:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "No, ICE (Probably) Didn’t Buy Guided Missile Warheads",
-            "link": "https://www.wired.com/story/no-ice-probably-didnt-buy-guided-missile-warheads/",
-            "description": "A federal contracting database lists an ICE payment for $61,218 with the payment code for “guided missile warheads and explosive components.” But it a...",
-            "pubDate": "2025-10-22T21:31:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Tesla’s record sales quarter barely boosted profit",
-            "link": "https://techcrunch.com/2025/10/22/teslas-record-sales-quarter-barely-boosted-profit/",
-            "description": "Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.",
-            "pubDate": "2025-10-22T21:39:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "OpenAI’s Atlas is more about ChatGPT than the web",
-            "link": "https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/",
-            "description": "OpenAI's new browser is a surface for the company to distribute ChatGPT and develop new AI features rather than improving core web experience.",
-            "pubDate": "2025-10-22T19:51:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
