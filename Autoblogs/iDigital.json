@@ -2,42 +2,49 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-24T07:22:38.986324",
+    "lastBuildDate": "2025-10-24T11:12:49.913458",
     "items": [
+        {
+            "title": "Locus Robotics surpasses 6B robot-assisted picks, notes market momentum",
+            "link": "https://www.therobotreport.com/locus-robotics-surpasses-6b-robot-assisted-picks-notes-market-momentum/",
+            "description": "Locus Robotics recorded its 6 billionth pick at a customer in Germany, as mobile robot and AI adoption continues to accelerate. The post Locus Robotic...",
+            "pubDate": "2025-10-24T15:44:02",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/LocusONE_24.jpg"
+        },
+        {
+            "title": "Stand Up for Research, Innovation, and Education",
+            "link": "https://www.technologyreview.com/2025/10/24/1126584/stand-up-for-research-innovation-and-education-2/",
+            "description": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordab...",
+            "pubDate": "2025-10-24T15:24:23",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/08/standup2.jpeg?w=693"
+        },
+        {
+            "title": "The Download: carbon removal’s future, and measuring pain using an app",
+            "link": "https://www.technologyreview.com/2025/10/24/1126569/the-download-carbon-removals-future-and-measuring-pain-using-an-app/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next ...",
+            "pubDate": "2025-10-24T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_551e05.png"
+        },
         {
             "title": "An AI app to measure pain is here",
             "link": "https://www.technologyreview.com/2025/10/24/1126451/an-ai-app-to-measure-pain-is-here/",
             "description": "How are you feeling? I’m genuinely interested in the well-being of all my treasured Checkup readers, of course. But this week I’ve also been wondering...",
             "pubDate": "2025-10-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "What’s next for carbon removal?",
             "link": "https://www.technologyreview.com/2025/10/24/1126478/whats-next-for-carbon-removal/",
             "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
             "pubDate": "2025-10-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "OpenAI launches company knowledge in ChatGPT, letting you access your firm's data from Google Drive, Slack, GitHub",
-            "link": "https://venturebeat.com/ai/openai-launches-company-knowledge-in-chatgpt-letting-you-access-your-firms",
-            "description": "Is the Google Search for internal enterprise knowledge finally here...but from OpenAI ? It certainly seems that way. Today, OpenAI has launched compan...",
-            "pubDate": "2025-10-23T23:19:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/77MUUhh1PM8EeHOJyHjmwX/2f1b317b8af31339017a06f84d871d58/cfr0z3n_third-person_view_of_woman_seated_at_desk_in_a_home_off_d68bd7db-ac86-44be-8e05-2cdb878c7190.png?w=300&q=30"
-        },
-        {
-            "title": "General Motors to offer ‘eyes-off’ driving, with help from Cruise, to market in 2028",
-            "link": "https://www.therobotreport.com/general-motors-brings-eyes-off-driving-with-help-from-cruise-market-2028/",
-            "description": "General Motors is using technology developed at robotaxi startup Cruise with its Super Cruise eyes-off system. The post General Motors to offer ‘eyes-...",
-            "pubDate": "2025-10-23T21:52:34",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/gm-eyesoff-featured.jpg"
-        },
-        {
-            "title": "Avride secures strategic investments up to $375M for self-driving cars, deliveries",
-            "link": "https://www.therobotreport.com/av-developer-avride-secures-strategic-investments-and-commitments-of-up-to-375m/",
-            "description": "Avride developers autonomous vehicles and sidewalk delivery robots, both of which it is deploying in partnership with Uber. The post Avride secures st...",
-            "pubDate": "2025-10-23T20:40:15",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/avride-featured.jpg"
+            "title": "Redefining data engineering in the age of AI",
+            "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
+            "description": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiati...",
+            "pubDate": "2025-10-23T14:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Snowflake-Report-2025-cover.png?w=1556"
         },
         {
             "title": "What enterprises can take away from Microsoft CEO Satya Nadella's shareholder letter",
@@ -47,39 +54,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/QSvQwRJMpyn4Xku8ZnAyk/dd36ccdb1258c23fd9dbabf947ba7cd4/cfr0z3n_httpss.mj.runM4mKVYlCu30_Cut_and_paste_collage_style_ph_780082c3-eb52-4012-ad6c-016de100662a__1_.jpg?w=300&q=30"
         },
         {
-            "title": "Sakana AI's CTO says he's 'absolutely sick' of transformers, the tech that powers every major AI model",
-            "link": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers",
-            "description": "In a striking act of self-critique, one of the architects of the transformer technology that powers ChatGPT , Claude , and virtually every major AI sy...",
-            "pubDate": "2025-10-23T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/WSXBhFReMwh2HPn3P3k9E/f6352f008c9afddcbf6a4ff6148d7c96/nuneybits_Vector_art_of_a_koi_fish_with_scales_formed_from_algo_8e356867-71b0-4e3b-b5b1-87ac3e4c8013.webp?w=300&q=30"
-        },
-        {
-            "title": "GrayMatter Robotics opens physical AI innovation center",
-            "link": "https://www.therobotreport.com/graymatter-robotics-opens-physical-ai-innovation-center/",
-            "description": "GrayMatter says its new headquarters and experience center will help it expand AI robotics applications in manufacturing. The post GrayMatter Robotics...",
-            "pubDate": "2025-10-23T16:00:31",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/GrayMatter_HQ_01.jpg"
-        },
-        {
-            "title": "Podcast recaps RoboBusiness 2025, chats with startups",
-            "link": "https://www.therobotreport.com/robobusiness-2025-pitchfire-recap/",
-            "description": "In this episode, we recap RoboBusiness 2025 and talk to 10 of the startups at the event to learn more about their systems. The post Podcast recaps Rob...",
-            "pubDate": "2025-10-23T17:27:30",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/cerulion-pitchfire-check.jpg"
-        },
-        {
-            "title": "The Download: aluminium’s potential as a zero-carbon fuel, and what’s next for energy storage",
-            "link": "https://www.technologyreview.com/2025/10/23/1126428/the-download-aluminiums-potential-as-a-zero-carbon-fuel-and-whats-next-for-energy-storage/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup...",
-            "pubDate": "2025-10-23T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f6cf.png"
-        },
-        {
-            "title": "Redefining data engineering in the age of AI",
-            "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
-            "description": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiati...",
-            "pubDate": "2025-10-23T14:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Snowflake-Report-2025-cover.png?w=1556"
+            "title": "Avride secures strategic investments up to $375M for self-driving cars, deliveries",
+            "link": "https://www.therobotreport.com/av-developer-avride-secures-strategic-investments-and-commitments-of-up-to-375m/",
+            "description": "Avride developers autonomous vehicles and sidewalk delivery robots, both of which it is deploying in partnership with Uber. The post Avride secures st...",
+            "pubDate": "2025-10-23T20:40:15",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/avride-featured.jpg"
         },
         {
             "title": "‘AI is tearing companies apart’: Writer AI CEO slams Fortune 500 leaders for mismanaging tech",
@@ -96,18 +75,39 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1Y044YCqXidwgzt8iDL4XH/2a45ab0dfe64db4d9371db86b1d0e5d2/cfr0z3n_flat_2D_illustration_mod_colorful_playful_whimsical_sty_715bb078-8762-43bc-93ec-ce95bb5d570d.png?w=300&q=30"
         },
         {
-            "title": "What a massive thermal battery means for energy storage",
-            "link": "https://www.technologyreview.com/2025/10/23/1126419/thermal-batteries-energy-storage/",
-            "description": "Rondo Energy just turned on what it says is the world’s largest thermal battery, an energy storage system that can take in electricity and provide a c...",
-            "pubDate": "2025-10-23T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "GrayMatter Robotics opens physical AI innovation center",
+            "link": "https://www.therobotreport.com/graymatter-robotics-opens-physical-ai-innovation-center/",
+            "description": "GrayMatter says its new headquarters and experience center will help it expand AI robotics applications in manufacturing. The post GrayMatter Robotics...",
+            "pubDate": "2025-10-23T16:00:31",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/GrayMatter_HQ_01.jpg"
         },
         {
-            "title": "Robotics Summit 2026 extends call for speakers",
-            "link": "https://www.therobotreport.com/robotics-summit-2026-opens-call-for-speakers/",
-            "description": "The Robotics Summit & Expo, the industry’s must-attend technical development event, returns to Boston in 2026 with deepened coverage, an expanded expo...",
-            "pubDate": "2025-10-22T16:42:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Sakana AI's CTO says he's 'absolutely sick' of transformers, the tech that powers every major AI model",
+            "link": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers",
+            "description": "In a striking act of self-critique, one of the architects of the transformer technology that powers ChatGPT , Claude , and virtually every major AI sy...",
+            "pubDate": "2025-10-23T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/WSXBhFReMwh2HPn3P3k9E/f6352f008c9afddcbf6a4ff6148d7c96/nuneybits_Vector_art_of_a_koi_fish_with_scales_formed_from_algo_8e356867-71b0-4e3b-b5b1-87ac3e4c8013.webp?w=300&q=30"
+        },
+        {
+            "title": "General Motors to offer ‘eyes-off’ driving, with help from Cruise, to market in 2028",
+            "link": "https://www.therobotreport.com/general-motors-brings-eyes-off-driving-with-help-from-cruise-market-2028/",
+            "description": "General Motors is using technology developed at robotaxi startup Cruise with its Super Cruise eyes-off system. The post General Motors to offer ‘eyes-...",
+            "pubDate": "2025-10-23T21:52:34",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/gm-eyesoff-featured.jpg"
+        },
+        {
+            "title": "Podcast recaps RoboBusiness 2025, chats with startups",
+            "link": "https://www.therobotreport.com/robobusiness-2025-pitchfire-recap/",
+            "description": "In this episode, we recap RoboBusiness 2025 and talk to 10 of the startups at the event to learn more about their systems. The post Podcast recaps Rob...",
+            "pubDate": "2025-10-23T17:27:30",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/cerulion-pitchfire-check.jpg"
+        },
+        {
+            "title": "OpenAI launches company knowledge in ChatGPT, letting you access your firm's data from Google Drive, Slack, GitHub",
+            "link": "https://venturebeat.com/ai/openai-launches-company-knowledge-in-chatgpt-letting-you-access-your-firms",
+            "description": "Is the Google Search for internal enterprise knowledge finally here...but from OpenAI ? It certainly seems that way. Today, OpenAI has launched compan...",
+            "pubDate": "2025-10-23T23:19:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/77MUUhh1PM8EeHOJyHjmwX/2f1b317b8af31339017a06f84d871d58/cfr0z3n_third-person_view_of_woman_seated_at_desk_in_a_home_off_d68bd7db-ac86-44be-8e05-2cdb878c7190.png?w=300&q=30"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -117,13 +117,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -143,6 +136,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
