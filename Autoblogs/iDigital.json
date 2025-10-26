@@ -2,35 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-24T22:54:50.864630",
+    "lastBuildDate": "2025-10-25T21:51:17.203925",
     "items": [
         {
-            "title": "Seneca brings in $60M to develop fire suppression drones",
-            "link": "https://www.therobotreport.com/seneca-brings-in-60m-to-develop-fire-suppression-drones/",
-            "description": "Seneca said it can extend the reach of firefighters, utilities, and communities in situations that were once unsafe and inefficient. The post Seneca b...",
-            "pubDate": "2025-10-24T21:01:10",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/senecadrone-featured.jpg"
+            "title": "When your AI browser becomes your enemy: The Comet security disaster",
+            "link": "https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-comet-security-disaster",
+            "description": "Remember when browsers were simple? You clicked a link, a page loaded, maybe you filled out a form. Those days feel ancient now that AI browsers like ...",
+            "pubDate": "2025-10-25T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6hk25wIFL5HjUQrONWEmCM/a80871621b39fb561fb1479cbdd273c2/Comet.png?w=300&q=30"
         },
         {
-            "title": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale",
-            "link": "https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at",
-            "description": "China’s Ant Group , an affiliate of Alibaba, detailed technical information around its new model, Ring-1T , which the company said is “the first open-...",
-            "pubDate": "2025-10-24T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1ZZDt515lczBZYmiAPxjJm/323c164f6ce43f0bac50cb5d392d747a/crimedy7_illustration_of_ants_building_a_robot_but_the_robot__62e35f6c-d1f6-47e9-bf3c-393e15b45361_1.png?w=300&q=30"
+            "title": "Bonsai Robotics launches Amiga robots at FIRA 2025",
+            "link": "https://www.therobotreport.com/bonsai-robotics-launches-amiga-flex-robots-fira-2025/",
+            "description": "Bonsai Robotics launched its Amiga Flex, Trax, and Max autonomous agriculture vehicles, powered by its Bonsai Intelligence platform. The post Bonsai R...",
+            "pubDate": "2025-10-25T13:25:00",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/bonzai-amiga-featured.jpg"
         },
         {
-            "title": "How Amazon cut development time of new Blue Jay robot",
-            "link": "https://www.therobotreport.com/how-amazon-cut-development-time-of-new-blue-jay-robot/",
-            "description": "Amazon said it was able to reduce the development time by reducing years of trial-and-error into months thanks to advancements in AI. The post How Ama...",
-            "pubDate": "2025-10-24T16:42:27",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/amazon-bluejay-featured.jpg"
-        },
-        {
-            "title": "Thinking Machines challenges OpenAI's AI scaling strategy: 'First superintelligence will be a superhuman learner'",
-            "link": "https://venturebeat.com/ai/thinking-machines-challenges-openais-ai-scaling-strategy-first",
-            "description": "While the world's leading artificial intelligence companies race to build ever-larger models, betting billions that scale alone will unlock artificial...",
-            "pubDate": "2025-10-24T10:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6gnj4yPgIqEF3Y4cLtYWL9/3a8c4c8b409b763704f9f4dd0ad67fd3/nuneybits_A_retro_glowing_computer_terminal_on_gradient_backgro_b5f91633-1cc9-42d7-9d6f-e497887b2ff3.webp?w=300&q=30"
+            "title": "Leju raises $200M for humanoid production as Unitree unveils H2",
+            "link": "https://www.therobotreport.com/leju-raises-200m-humanoid-production-unitree-unveils-h2-robot/",
+            "description": "Leju Robotics has raised funding toward an IPO, while fellow Chinese humanoid developer Unitree showed its latest model. The post Leju raises $200M fo...",
+            "pubDate": "2025-10-25T13:30:12",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Leju_humanoid.jpg"
         },
         {
             "title": "Neolix raises $600M to continue scaling autonomous RoboVan fleet",
@@ -40,18 +33,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Neolix_RoboVans.jpg"
         },
         {
-            "title": "Mistral launches its own AI Studio for quick development with its European open source, proprietary models",
-            "link": "https://venturebeat.com/ai/mistral-launches-its-own-ai-studio-for-quick-development-with-its-european",
-            "description": "The next big trend in AI providers appears to be \"studio\" environments on the web that allow users to spin up agents and AI applications within minute...",
-            "pubDate": "2025-10-24T07:55:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1fMUbtU7YznYAg9NA7yB60/80213a82826047e09229046ab093081a/cfr0z3n_top_down_view_of_diverse_modern_office_workers_at_desks_ef397a8f-5455-47b1-a73e-990ad12aedf1.png?w=300&q=30"
+            "title": "How Amazon cut development time of new Blue Jay robot",
+            "link": "https://www.therobotreport.com/how-amazon-cut-development-time-of-new-blue-jay-robot/",
+            "description": "Amazon said it was able to reduce the development time by reducing years of trial-and-error into months thanks to advancements in AI. The post How Ama...",
+            "pubDate": "2025-10-24T16:42:27",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/amazon-bluejay-featured.jpg"
         },
         {
-            "title": "Locus Robotics surpasses 6B robot-assisted picks, notes market momentum",
-            "link": "https://www.therobotreport.com/locus-robotics-surpasses-6b-robot-assisted-picks-notes-market-momentum/",
-            "description": "Locus Robotics recorded its 6 billionth pick at a customer in Germany, as mobile robot and AI adoption continues to accelerate. The post Locus Robotic...",
-            "pubDate": "2025-10-24T15:44:02",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/LocusONE_24.jpg"
+            "title": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale",
+            "link": "https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at",
+            "description": "China’s Ant Group , an affiliate of Alibaba, detailed technical information around its new model, Ring-1T , which the company said is “the first open-...",
+            "pubDate": "2025-10-24T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1ZZDt515lczBZYmiAPxjJm/323c164f6ce43f0bac50cb5d392d747a/crimedy7_illustration_of_ants_building_a_robot_but_the_robot__62e35f6c-d1f6-47e9-bf3c-393e15b45361_1.png?w=300&q=30"
+        },
+        {
+            "title": "Seneca brings in $60M to develop fire suppression drones",
+            "link": "https://www.therobotreport.com/seneca-brings-in-60m-to-develop-fire-suppression-drones/",
+            "description": "Seneca said it can extend the reach of firefighters, utilities, and communities in situations that were once unsafe and inefficient. The post Seneca b...",
+            "pubDate": "2025-10-24T21:01:10",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/senecadrone-featured.jpg"
+        },
+        {
+            "title": "Thinking Machines challenges OpenAI's AI scaling strategy: 'First superintelligence will be a superhuman learner'",
+            "link": "https://venturebeat.com/ai/thinking-machines-challenges-openais-ai-scaling-strategy-first",
+            "description": "While the world's leading artificial intelligence companies race to build ever-larger models, betting billions that scale alone will unlock artificial...",
+            "pubDate": "2025-10-24T10:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6gnj4yPgIqEF3Y4cLtYWL9/3a8c4c8b409b763704f9f4dd0ad67fd3/nuneybits_A_retro_glowing_computer_terminal_on_gradient_backgro_b5f91633-1cc9-42d7-9d6f-e497887b2ff3.webp?w=300&q=30"
         },
         {
             "title": "Stand Up for Research, Innovation, and Education",
@@ -68,25 +75,25 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_551e05.png"
         },
         {
+            "title": "Mistral launches its own AI Studio for quick development with its European open source, proprietary models",
+            "link": "https://venturebeat.com/ai/mistral-launches-its-own-ai-studio-for-quick-development-with-its-european",
+            "description": "The next big trend in AI providers appears to be \"studio\" environments on the web that allow users to spin up agents and AI applications within minute...",
+            "pubDate": "2025-10-24T07:55:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1fMUbtU7YznYAg9NA7yB60/80213a82826047e09229046ab093081a/cfr0z3n_top_down_view_of_diverse_modern_office_workers_at_desks_ef397a8f-5455-47b1-a73e-990ad12aedf1.png?w=300&q=30"
+        },
+        {
             "title": "An AI app to measure pain is here",
             "link": "https://www.technologyreview.com/2025/10/24/1126451/an-ai-app-to-measure-pain-is-here/",
             "description": "How are you feeling? I’m genuinely interested in the well-being of all my treasured Checkup readers, of course. But this week I’ve also been wondering...",
             "pubDate": "2025-10-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "What’s next for carbon removal?",
             "link": "https://www.technologyreview.com/2025/10/24/1126478/whats-next-for-carbon-removal/",
             "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
             "pubDate": "2025-10-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Redefining data engineering in the age of AI",
-            "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
-            "description": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiati...",
-            "pubDate": "2025-10-23T14:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Snowflake-Report-2025-cover.png?w=1556"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "OpenAI launches company knowledge in ChatGPT, letting you access your firm's data from Google Drive, Slack, GitHub",
@@ -96,25 +103,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/77MUUhh1PM8EeHOJyHjmwX/2f1b317b8af31339017a06f84d871d58/cfr0z3n_third-person_view_of_woman_seated_at_desk_in_a_home_off_d68bd7db-ac86-44be-8e05-2cdb878c7190.png?w=300&q=30"
         },
         {
-            "title": "Microsoft Copilot gets 12 big updates for fall, including new AI assistant character Mico",
-            "link": "https://venturebeat.com/ai/microsoft-copilot-gets-12-big-updates-for-fall-including-new-ai-assistant",
-            "description": "Microsoft today held a live announcement event online for its Copilot AI digital assistant, with Mustafa Suleyman , CEO of Microsoft's AI division, an...",
-            "pubDate": "2025-10-23T20:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1Y044YCqXidwgzt8iDL4XH/2a45ab0dfe64db4d9371db86b1d0e5d2/cfr0z3n_flat_2D_illustration_mod_colorful_playful_whimsical_sty_715bb078-8762-43bc-93ec-ce95bb5d570d.png?w=300&q=30"
-        },
-        {
-            "title": "General Motors to offer ‘eyes-off’ driving, with help from Cruise, to market in 2028",
-            "link": "https://www.therobotreport.com/general-motors-brings-eyes-off-driving-with-help-from-cruise-market-2028/",
-            "description": "General Motors is using technology developed at robotaxi startup Cruise with its Super Cruise eyes-off system. The post General Motors to offer ‘eyes-...",
-            "pubDate": "2025-10-23T21:52:34",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/gm-eyesoff-featured.jpg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Redefining data engineering in the age of AI",
+            "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
+            "description": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiati...",
+            "pubDate": "2025-10-23T14:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Snowflake-Report-2025-cover.png?w=1556"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -143,6 +136,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
