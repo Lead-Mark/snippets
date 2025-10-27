@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.technologyreview.com/feed/",
     "link": "https://www.technologyreview.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-25T21:51:17.204785",
+    "lastBuildDate": "2025-10-27T06:11:27.387533",
     "items": [
+        {
+            "title": "I tried OpenAI’s new Atlas browser but I still don’t know what it’s for",
+            "link": "https://www.technologyreview.com/2025/10/27/1126673/openai-new-atlas-browser/",
+            "description": "OpenAI rolled out a new web browser last week called Atlas. It comes with ChatGPT built in, along with an agent, so that you can browse, get direct an...",
+            "pubDate": "2025-10-27T10:40:08",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f60a.png"
+        },
         {
             "title": "Stand Up for Research, Innovation, and Education",
             "link": "https://www.technologyreview.com/2025/10/24/1126584/stand-up-for-research-innovation-and-education-2/",
@@ -30,14 +37,7 @@
             "link": "https://www.technologyreview.com/2025/10/24/1126478/whats-next-for-carbon-removal/",
             "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
             "pubDate": "2025-10-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Redefining data engineering in the age of AI",
-            "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
-            "description": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiati...",
-            "pubDate": "2025-10-23T14:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Snowflake-Report-2025-cover.png?w=1556"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
