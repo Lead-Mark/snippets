@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-28T11:03:21.926346",
+    "lastBuildDate": "2025-10-28T16:09:06.410028",
     "items": [
+        {
+            "title": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control",
+            "link": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too",
+            "description": "GitHub is making a bold bet that enterprises don't need another proprietary coding agent. They need a way to manage all of them. At its Universe 2025 ...",
+            "pubDate": "2025-10-28T17:10:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4O4T83wUSzVSPKnuWWf4dZ/bea55829b728586b10a802f9f281a1ec/github-agentht-smk.png?w=300&q=30"
+        },
         {
             "title": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
             "link": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in",
@@ -31,13 +38,6 @@
             "description": "Anthropic is making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed its Claud...",
             "pubDate": "2025-10-27T17:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7FxShaZWxncA14CgV1wwvN/8ddd8d938cc83eb730d4630fa88e9c48/nuneybits_Vector_art_of_money_sign_on_retro_computer_screen_in__5728d90d-4417-472b-b380-857cf4cd4682.webp?w=300&q=30"
-        },
-        {
-            "title": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training",
-            "link": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for",
-            "description": "Some enterprises are best served by fine-tuning large models to their needs, but a number of companies plan to build their own models , a project that...",
-            "pubDate": "2025-10-27T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2YeFC7KfZXgvsmj0mIz3qZ/d7e6ef2efddb78aba1c472a8ead8d850/crimedy7_illustration_of_a_server_farm_--ar_169_--v_7_e717ea2e-977b-4ba6-825e-30497516b55d_0.png?w=300&q=30"
         }
     ]
 }
