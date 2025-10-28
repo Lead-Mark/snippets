@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-10-28T07:15:15.513355",
+    "lastBuildDate": "2025-10-28T11:03:21.926346",
     "items": [
+        {
+            "title": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
+            "link": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in",
+            "description": "Building AI for financial software requires a different playbook than consumer AI, and Intuit's latest QuickBooks release provides an example. The com...",
+            "pubDate": "2025-10-28T13:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/26uFKCJx7guEmpRjNxJdWl/bee15b7153fa921dc410f50175781a25/ai_trust_in_a_bucket-SMK.png?w=300&q=30"
+        },
         {
             "title": "PayPal’s Agentic Commerce Play Shows Why Flexibility, Not Standards, Will Define the Next E-Commerce Wave",
             "link": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will",
@@ -31,13 +38,6 @@
             "description": "Some enterprises are best served by fine-tuning large models to their needs, but a number of companies plan to build their own models , a project that...",
             "pubDate": "2025-10-27T05:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2YeFC7KfZXgvsmj0mIz3qZ/d7e6ef2efddb78aba1c472a8ead8d850/crimedy7_illustration_of_a_server_farm_--ar_169_--v_7_e717ea2e-977b-4ba6-825e-30497516b55d_0.png?w=300&q=30"
-        },
-        {
-            "title": "From human clicks to machine intent: Preparing the web for agentic AI",
-            "link": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai",
-            "description": "For three decades, the web has been designed with one audience in mind: People. Pages are optimized for human eyes, clicks and intuition. But as AI-dr...",
-            "pubDate": "2025-10-26T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4ZdaX9qO0ijdRIVB2FWv1i/859a0839dbab81f1cd6b939676fdee33/The_future_of_web.png?w=300&q=30"
         }
     ]
 }

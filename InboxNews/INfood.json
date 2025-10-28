@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-28T07:15:06.252867",
+    "lastBuildDate": "2025-10-28T11:03:08.738471",
     "items": [
+        {
+            "title": "Belgian Waffles",
+            "link": "https://therecipecritic.com/belgian-waffles/",
+            "description": "There’s nothing like my homemade Belgian waffles! They’re crisp on the outside, soft and fluffy on the inside, with deep…",
+            "pubDate": "2025-10-28T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2018/08/belgianwaffles2.jpg"
+        },
         {
             "title": "Cheesy Garlic Bread Dip",
             "link": "https://therecipecritic.com/garlic-bread-dip/",
@@ -31,13 +38,6 @@
             "description": "My Texas Cowboy Stew actually fills up my always–hungry boys! That’s because it’s loaded with smoky bacon, spicy sausage, ground…",
             "pubDate": "2025-10-25T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/texas-stew-.jpg"
-        },
-        {
-            "title": "8 Thanksgiving Turkeys So Good You Might Forget the Sides",
-            "link": "https://therecipecritic.com/thanksgiving-turkey-recipes/",
-            "description": "All right, real talk. The turkey can make or break Thanksgiving. It’s the main event, the centerpiece, the dish everyone…",
-            "pubDate": "2025-10-24T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/10/roasted-turkey-.jpg"
         },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",

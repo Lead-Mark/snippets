@@ -2,8 +2,22 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-28T07:15:15.511952",
+    "lastBuildDate": "2025-10-28T11:03:21.920638",
     "items": [
+        {
+            "title": "The Download: Microsoft’s stance on erotic AI, and an AI hype mystery",
+            "link": "https://www.technologyreview.com/2025/10/28/1126802/the-download-microsofts-stance-on-erotic-ai-and-an-ai-hype-mystery/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We will nev...",
+            "pubDate": "2025-10-28T14:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_c50a7d.png"
+        },
+        {
+            "title": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
+            "link": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in",
+            "description": "Building AI for financial software requires a different playbook than consumer AI, and Intuit's latest QuickBooks release provides an example. The com...",
+            "pubDate": "2025-10-28T13:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/26uFKCJx7guEmpRjNxJdWl/bee15b7153fa921dc410f50175781a25/ai_trust_in_a_bucket-SMK.png?w=300&q=30"
+        },
         {
             "title": "PayPal’s Agentic Commerce Play Shows Why Flexibility, Not Standards, Will Define the Next E-Commerce Wave",
             "link": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will",
@@ -16,14 +30,28 @@
             "link": "https://www.technologyreview.com/2025/10/28/1126687/an-ai-adoption-riddle/",
             "description": "A few weeks ago, I set out on what I thought would be a straightforward reporting journey. After years of momentum for AI—even if you didn’t think it ...",
             "pubDate": "2025-10-28T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "The Download: what to make of OpenAI’s Atlas browser, and how to make climate progress",
-            "link": "https://www.technologyreview.com/2025/10/27/1126679/the-download-what-to-make-of-openais-atlas-browser-and-how-to-make-climate-progress/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I tried Open...",
-            "pubDate": "2025-10-27T14:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f3e0.png"
+            "title": "“We will never build a sex robot,” says Mustafa Suleyman",
+            "link": "https://www.technologyreview.com/2025/10/28/1126781/we-will-never-build-a-sex-robot-says-mustafa-suleyman/",
+            "description": "Mustafa Suleyman, CEO of Microsoft AI, is trying to walk a fine line. On the one hand, he thinks that the industry is taking AI in a dangerous directi...",
+            "pubDate": "2025-10-28T12:07:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Nauticus Robotics aims for deep-sea rare mineral exploration with $250M line of credit",
+            "link": "https://www.therobotreport.com/nauticus-robotics-aims-deep-sea-rare-mineral-exploration-250m-credit-line/",
+            "description": "This new initiative is part of Nauticus' broader strategy to use its technologies in industries essential to the global energy transition. The post Na...",
+            "pubDate": "2025-10-27T19:08:51",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nauticusaquanaut-featured.jpg"
+        },
+        {
+            "title": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training",
+            "link": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for",
+            "description": "Some enterprises are best served by fine-tuning large models to their needs, but a number of companies plan to build their own models , a project that...",
+            "pubDate": "2025-10-27T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2YeFC7KfZXgvsmj0mIz3qZ/d7e6ef2efddb78aba1c472a8ead8d850/crimedy7_illustration_of_a_server_farm_--ar_169_--v_7_e717ea2e-977b-4ba6-825e-30497516b55d_0.png?w=300&q=30"
         },
         {
             "title": "Starship Technologies obtains Series C for autonomous deliveries across the U.S.",
@@ -40,13 +68,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Danny-Bernstein-headshot.jpg"
         },
         {
-            "title": "Augmentus gets funding to scale robotics software for high-mix production",
-            "link": "https://www.therobotreport.com/augmentus-gets-funding-scale-robotics-software-high-mix-production/",
-            "description": "Augmentus has received a strategic investment from Applied Ventures to enable faster deployment, flexible parts handling, and time savings. The post A...",
-            "pubDate": "2025-10-27T13:00:58",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Augmentus_02.jpg"
-        },
-        {
             "title": "Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot",
             "link": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival",
             "description": "Anthropic is making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed its Claud...",
@@ -54,11 +75,18 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7FxShaZWxncA14CgV1wwvN/8ddd8d938cc83eb730d4630fa88e9c48/nuneybits_Vector_art_of_money_sign_on_retro_computer_screen_in__5728d90d-4417-472b-b380-857cf4cd4682.webp?w=300&q=30"
         },
         {
-            "title": "Nauticus Robotics aims for deep-sea rare mineral exploration with $250M line of credit",
-            "link": "https://www.therobotreport.com/nauticus-robotics-aims-deep-sea-rare-mineral-exploration-250m-credit-line/",
-            "description": "This new initiative is part of Nauticus' broader strategy to use its technologies in industries essential to the global energy transition. The post Na...",
-            "pubDate": "2025-10-27T19:08:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nauticusaquanaut-featured.jpg"
+            "title": "Augmentus gets funding to scale robotics software for high-mix production",
+            "link": "https://www.therobotreport.com/augmentus-gets-funding-scale-robotics-software-high-mix-production/",
+            "description": "Augmentus has received a strategic investment from Applied Ventures to enable faster deployment, flexible parts handling, and time savings. The post A...",
+            "pubDate": "2025-10-27T13:00:58",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Augmentus_02.jpg"
+        },
+        {
+            "title": "The Download: what to make of OpenAI’s Atlas browser, and how to make climate progress",
+            "link": "https://www.technologyreview.com/2025/10/27/1126679/the-download-what-to-make-of-openais-atlas-browser-and-how-to-make-climate-progress/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I tried Open...",
+            "pubDate": "2025-10-27T14:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f3e0.png"
         },
         {
             "title": "I tried OpenAI’s new Atlas browser but I still don’t know what it’s for",
@@ -68,13 +96,6 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f60a.png"
         },
         {
-            "title": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training",
-            "link": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for",
-            "description": "Some enterprises are best served by fine-tuning large models to their needs, but a number of companies plan to build their own models , a project that...",
-            "pubDate": "2025-10-27T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2YeFC7KfZXgvsmj0mIz3qZ/d7e6ef2efddb78aba1c472a8ead8d850/crimedy7_illustration_of_a_server_farm_--ar_169_--v_7_e717ea2e-977b-4ba6-825e-30497516b55d_0.png?w=300&q=30"
-        },
-        {
             "title": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling)",
             "link": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool",
             "description": "Watch out, DeepSeek and Qwen! There's a new king of open source large language models (LLMs), especially when it comes to something enterprises are in...",
@@ -82,32 +103,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ooQmDHIK8joIBWGcWySzH/e0d4c547081630465c4b8862570d0fd1/cfr0z3n_extremely_small_tiny_figurine_of_a_humanoid_robot_weari_47d6d5f6-f57a-4685-b6aa-d28c2657eef8.png?w=300&q=30"
         },
         {
-            "title": "From human clicks to machine intent: Preparing the web for agentic AI",
-            "link": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai",
-            "description": "For three decades, the web has been designed with one audience in mind: People. Pages are optimized for human eyes, clicks and intuition. But as AI-dr...",
-            "pubDate": "2025-10-26T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4ZdaX9qO0ijdRIVB2FWv1i/859a0839dbab81f1cd6b939676fdee33/The_future_of_web.png?w=300&q=30"
-        },
-        {
             "title": "AutoStore adds 7 new features to its ASRS",
             "link": "https://www.therobotreport.com/autostore-adds-7-new-features-to-its-asrs/",
             "description": "AutoStore took a data-driven approach to examining customer needs when deciding which features to roll out. The post AutoStore adds 7 new features to ...",
             "pubDate": "2025-10-26T14:00:01",
             "image_url": "https://www.automatedwarehouseonline.com/wp-content/uploads/2025/10/AutoStore-AutoCase-featured.jpg"
-        },
-        {
-            "title": "Stand Up for Research, Innovation, and Education",
-            "link": "https://www.technologyreview.com/2025/10/24/1126584/stand-up-for-research-innovation-and-education-2/",
-            "description": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordab...",
-            "pubDate": "2025-10-24T15:24:23",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/08/standup2.jpeg?w=693"
-        },
-        {
-            "title": "The Download: carbon removal’s future, and measuring pain using an app",
-            "link": "https://www.technologyreview.com/2025/10/24/1126569/the-download-carbon-removals-future-and-measuring-pain-using-an-app/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next ...",
-            "pubDate": "2025-10-24T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_551e05.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -131,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
             "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
