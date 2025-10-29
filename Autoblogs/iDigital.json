@@ -2,14 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-28T16:09:06.408386",
+    "lastBuildDate": "2025-10-29T07:18:41.555294",
     "items": [
         {
-            "title": "The Download: Microsoft’s stance on erotic AI, and an AI hype mystery",
-            "link": "https://www.technologyreview.com/2025/10/28/1126802/the-download-microsofts-stance-on-erotic-ai-and-an-ai-hype-mystery/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We will nev...",
-            "pubDate": "2025-10-28T14:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_c50a7d.png"
+            "title": "IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser",
+            "link": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally",
+            "description": "In an industry where model size is often seen as a proxy for intelligence, IBM is charting a different course — one that values efficiency over enormi...",
+            "pubDate": "2025-10-29T00:23:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4rwJWqsHkQ8TmY86sokH5j/cf400e028ed640c8e65f6bec9134c149/cfr0z3n_Flat_illustration_neon_pink_and_oranges_on_blue_backdro_3059ee39-d179-4b1b-9d52-a4264f21e970.png?w=300&q=30"
+        },
+        {
+            "title": "DeepSeek may have found a new way to improve AI’s ability to remember",
+            "link": "https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/",
+            "description": "An AI model released by Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last wee...",
+            "pubDate": "2025-10-29T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
+            "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
+            "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
+            "pubDate": "2025-10-29T11:41:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Moxi 2.0 mobile manipulator is built for AI, says Diligent Robotics",
@@ -19,16 +33,51 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Moxi2-Render-featured.jpg"
         },
         {
-            "title": "PayPal’s Agentic Commerce Play Shows Why Flexibility, Not Standards, Will Define the Next E-Commerce Wave",
-            "link": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will",
-            "description": "While enterprises looking to sell goods and services online wait for the backbone of agentic commerce to be hashed out, PayPal is hoping its new featu...",
-            "pubDate": "2025-10-28T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7pKgIkX0gvCbEs132P6qBy/93b6eff0b869b8f047b79eed33e75a86/crimedy7_illustration_of_robot_paying_for_groceries_--ar_169__3d2a2c22-022a-4104-9070-fab8f94d73d5_0.png?w=300&q=30"
+            "title": "International Motors and PlusAI develop L4 autonomous truck with NVIDIA DRIVE AGX",
+            "link": "https://www.therobotreport.com/international-motors-and-plusai-develop-l4-autonomous-truck-with-nvidia-drive-agx/",
+            "description": "International Motors is bringing trucks, PlusAI the self-driving software, and NVIDIA the processing for long-haul freight. The post International Mot...",
+            "pubDate": "2025-10-28T19:30:11",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Nvidia_International_PlusA.jpg"
+        },
+        {
+            "title": "Advantech introduces edge AI systems for a range of robot embodiments",
+            "link": "https://www.therobotreport.com/advantech-introduces-edge-ai-systems-for-a-range-of-robot-embodiments/",
+            "description": "Advantech said the NVIDIA Jetson Thor series set a new benchmark for edge AI, delivering up to 2070 FP4 TFLOPS of AI performance. The post Advantech i...",
+            "pubDate": "2025-10-28T23:41:15",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/JetsonThor-advantech-featured.jpg"
+        },
+        {
+            "title": "Microsoft’s Copilot can now build apps and automate your job — here’s how it works",
+            "link": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it",
+            "description": "Microsoft is launching a significant expansion of its Copilot AI assistant on Tuesday, introducing tools that let employees build applications, automa...",
+            "pubDate": "2025-10-28T21:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/33TsQdgl9KxQ34lyEgCUfW/9faff55fd9a871ab3cd21f735ed87cba/nuneybits_Vector_art_of_Microsoft_Windows_desktop_computer_mode_5869d092-9156-48dc-bf50-37d2ff6b0cf3.webp?w=300&q=30"
+        },
+        {
+            "title": "The Download: Microsoft’s stance on erotic AI, and an AI hype mystery",
+            "link": "https://www.technologyreview.com/2025/10/28/1126802/the-download-microsofts-stance-on-erotic-ai-and-an-ai-hype-mystery/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We will nev...",
+            "pubDate": "2025-10-28T14:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_c50a7d.png"
+        },
+        {
+            "title": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
+            "link": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in",
+            "description": "Building AI for financial software requires a different playbook than consumer AI, and Intuit's latest QuickBooks release provides an example. The com...",
+            "pubDate": "2025-10-28T13:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/26uFKCJx7guEmpRjNxJdWl/bee15b7153fa921dc410f50175781a25/ai_trust_in_a_bucket-SMK.png?w=300&q=30"
+        },
+        {
+            "title": "NVIDIA partners with Uber to deploy AVs starting in 2027",
+            "link": "https://www.therobotreport.com/nvidia-partners-with-uber-to-deploy-avs-starting-in-2027/",
+            "description": "NVIDIA said it can support Uber in scaling its global autonomous fleet to 100,000 vehicles over time, starting in 2027. The post NVIDIA partners with ...",
+            "pubDate": "2025-10-28T22:08:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nvidia-hyperion-l4-uber-featured.jpg"
         },
         {
             "title": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control",
             "link": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too",
-            "description": "GitHub is making a bold bet that enterprises don't need another proprietary coding agent. They need a way to manage all of them. At its Universe 2025 ...",
+            "description": "GitHub is making a bold bet that enterprises don't need another proprietary coding agent: They need a way to manage all of them. At its Universe 2025 ...",
             "pubDate": "2025-10-28T17:10:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4O4T83wUSzVSPKnuWWf4dZ/bea55829b728586b10a802f9f281a1ec/github-agentht-smk.png?w=300&q=30"
         },
@@ -40,46 +89,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-02_41_13-PM.png"
         },
         {
-            "title": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
-            "link": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in",
-            "description": "Building AI for financial software requires a different playbook than consumer AI, and Intuit's latest QuickBooks release provides an example. The com...",
-            "pubDate": "2025-10-28T13:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/26uFKCJx7guEmpRjNxJdWl/bee15b7153fa921dc410f50175781a25/ai_trust_in_a_bucket-SMK.png?w=300&q=30"
-        },
-        {
-            "title": "International Motors and PlusAI develop L4 autonomous truck with NVIDIA DRIVE AGX",
-            "link": "https://www.therobotreport.com/international-motors-and-plusai-develop-l4-autonomous-truck-with-nvidia-drive-agx/",
-            "description": "International Motors is bringing trucks, PlusAI the self-driving software, and NVIDIA the processing for long-haul freight. The post International Mot...",
-            "pubDate": "2025-10-28T19:30:11",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Nvidia_International_PlusA.jpg"
-        },
-        {
-            "title": "“We will never build a sex robot,” says Mustafa Suleyman",
-            "link": "https://www.technologyreview.com/2025/10/28/1126781/we-will-never-build-a-sex-robot-says-mustafa-suleyman/",
-            "description": "Mustafa Suleyman, CEO of Microsoft AI, is trying to walk a fine line. On the one hand, he thinks that the industry is taking AI in a dangerous directi...",
-            "pubDate": "2025-10-28T12:07:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "An AI adoption riddle",
-            "link": "https://www.technologyreview.com/2025/10/28/1126687/an-ai-adoption-riddle/",
-            "description": "A few weeks ago, I set out on what I thought would be a straightforward reporting journey. After years of momentum for AI—even if you didn’t think it ...",
-            "pubDate": "2025-10-28T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "PayPal’s agentic commerce play shows why flexibility, not standards, will define the eext c-commerce wave",
+            "link": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will",
+            "description": "E nterprises looking to sell goods and services online are waiting for the backbone of agentic commerce to be hashed out; but PayPal is hoping its new...",
+            "pubDate": "2025-10-28T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7pKgIkX0gvCbEs132P6qBy/93b6eff0b869b8f047b79eed33e75a86/crimedy7_illustration_of_robot_paying_for_groceries_--ar_169__3d2a2c22-022a-4104-9070-fab8f94d73d5_0.png?w=300&q=30"
         },
         {
             "title": "Roundtables: Seeking Climate Solutions in Turbulent Times",
             "link": "https://www.technologyreview.com/2025/10/28/1125962/roundtables-seeking-climate-solutions-in-turbulent-times/",
             "description": "Companies are pursuing climate solutions amid shifting U.S. politics and economic uncertainty. Drawing from MIT Technology Review’s 10 Climate Tech Co...",
             "pubDate": "2025-10-28T19:04:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot",
-            "link": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival",
-            "description": "Anthropic is making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed its Claud...",
-            "pubDate": "2025-10-27T17:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7FxShaZWxncA14CgV1wwvN/8ddd8d938cc83eb730d4630fa88e9c48/nuneybits_Vector_art_of_money_sign_on_retro_computer_screen_in__5728d90d-4417-472b-b380-857cf4cd4682.webp?w=300&q=30"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "FIRA USA 2025 agricultural robotics event recap",
@@ -87,27 +108,6 @@
             "description": "Check out the latest ag robotics from FIRA 2025, and hear about a new incubator called The Reservoir, with founder Danny Bernstein. The post FIRA USA ...",
             "pubDate": "2025-10-27T20:53:25",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Danny-Bernstein-headshot.jpg"
-        },
-        {
-            "title": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling)",
-            "link": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool",
-            "description": "Watch out, DeepSeek and Qwen! There's a new king of open source large language models (LLMs), especially when it comes to something enterprises are in...",
-            "pubDate": "2025-10-27T20:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ooQmDHIK8joIBWGcWySzH/e0d4c547081630465c4b8862570d0fd1/cfr0z3n_extremely_small_tiny_figurine_of_a_humanoid_robot_weari_47d6d5f6-f57a-4685-b6aa-d28c2657eef8.png?w=300&q=30"
-        },
-        {
-            "title": "Starship Technologies obtains Series C for autonomous deliveries across the U.S.",
-            "link": "https://www.therobotreport.com/starship-technologies-obtains-series-c-funding-for-autonomous-deliveries/",
-            "description": "Starship plans to use its latest funding to expand robotic deliveries from campuses and European cities to U.S. urban areas. The post Starship Technol...",
-            "pubDate": "2025-10-27T16:35:27",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Starship_robots.jpg"
-        },
-        {
-            "title": "Nauticus Robotics aims for deep-sea rare mineral exploration with $250M line of credit",
-            "link": "https://www.therobotreport.com/nauticus-robotics-aims-deep-sea-rare-mineral-exploration-250m-credit-line/",
-            "description": "This new initiative is part of Nauticus' broader strategy to use its technologies in industries essential to the global energy transition. The post Na...",
-            "pubDate": "2025-10-27T19:08:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nauticusaquanaut-featured.jpg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
