@@ -2,7 +2,7 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-29T07:18:41.555294",
+    "lastBuildDate": "2025-10-29T10:54:42.645681",
     "items": [
         {
             "title": "IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser",
@@ -12,18 +12,60 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4rwJWqsHkQ8TmY86sokH5j/cf400e028ed640c8e65f6bec9134c149/cfr0z3n_Flat_illustration_neon_pink_and_oranges_on_blue_backdro_3059ee39-d179-4b1b-9d52-a4264f21e970.png?w=300&q=30"
         },
         {
+            "title": "The Download: Boosting AI’s memory, and data centers’ unhappy neighbors",
+            "link": "https://www.technologyreview.com/2025/10/29/1126945/the-download-boosting-ais-memory-and-data-centers-unhappy-neighbors/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. DeepSeek may...",
+            "pubDate": "2025-10-29T14:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f916.png"
+        },
+        {
+            "title": "Vention announces full-stack AI and automation platform expansions",
+            "link": "https://www.therobotreport.com/vention-announces-full-stack-ai-automation-platform-expansions/",
+            "description": "Vention has rolled out AI Operator as it advances its Zero-Shot Automation strategy to making programming easier. The post Vention announces full-stac...",
+            "pubDate": "2025-10-29T15:00:33",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Vention_bin_pick.jpg"
+        },
+        {
+            "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
+            "link": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots",
+            "description": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prom...",
+            "pubDate": "2025-10-29T08:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5JXMNBhUMiSimHDDeX6ODt/2793b1842c2ef9825b7127d7bbd65f4f/_Geostar-2.jpg?w=300&q=30"
+        },
+        {
             "title": "DeepSeek may have found a new way to improve AI’s ability to remember",
             "link": "https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/",
             "description": "An AI model released by Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last wee...",
             "pubDate": "2025-10-29T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
             "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
             "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
             "pubDate": "2025-10-29T11:41:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "NVIDIA partners with Uber to deploy AVs starting in 2027",
+            "link": "https://www.therobotreport.com/nvidia-partners-with-uber-to-deploy-avs-starting-in-2027/",
+            "description": "NVIDIA said it can support Uber in scaling its global autonomous fleet to 100,000 vehicles over time, starting in 2027. The post NVIDIA partners with ...",
+            "pubDate": "2025-10-28T22:08:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nvidia-hyperion-l4-uber-featured.jpg"
+        },
+        {
+            "title": "Finding return on AI investments across industries",
+            "link": "https://www.technologyreview.com/2025/10/28/1126693/finding-return-on-ai-investments-across-industries/",
+            "description": "The market is officially three years post ChatGPT and many of the pundit bylines have shifted to using terms like “bubble” to suggest reasons behind g...",
+            "pubDate": "2025-10-28T16:00:33",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-02_41_13-PM.png"
+        },
+        {
+            "title": "Advantech introduces edge AI systems for a range of robot embodiments",
+            "link": "https://www.therobotreport.com/advantech-introduces-edge-ai-systems-for-a-range-of-robot-embodiments/",
+            "description": "Advantech said the NVIDIA Jetson Thor series set a new benchmark for edge AI, delivering up to 2070 FP4 TFLOPS of AI performance. The post Advantech i...",
+            "pubDate": "2025-10-28T23:41:15",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/JetsonThor-advantech-featured.jpg"
         },
         {
             "title": "Moxi 2.0 mobile manipulator is built for AI, says Diligent Robotics",
@@ -40,25 +82,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Nvidia_International_PlusA.jpg"
         },
         {
-            "title": "Advantech introduces edge AI systems for a range of robot embodiments",
-            "link": "https://www.therobotreport.com/advantech-introduces-edge-ai-systems-for-a-range-of-robot-embodiments/",
-            "description": "Advantech said the NVIDIA Jetson Thor series set a new benchmark for edge AI, delivering up to 2070 FP4 TFLOPS of AI performance. The post Advantech i...",
-            "pubDate": "2025-10-28T23:41:15",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/JetsonThor-advantech-featured.jpg"
-        },
-        {
-            "title": "Microsoft’s Copilot can now build apps and automate your job — here’s how it works",
-            "link": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it",
-            "description": "Microsoft is launching a significant expansion of its Copilot AI assistant on Tuesday, introducing tools that let employees build applications, automa...",
-            "pubDate": "2025-10-28T21:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/33TsQdgl9KxQ34lyEgCUfW/9faff55fd9a871ab3cd21f735ed87cba/nuneybits_Vector_art_of_Microsoft_Windows_desktop_computer_mode_5869d092-9156-48dc-bf50-37d2ff6b0cf3.webp?w=300&q=30"
-        },
-        {
-            "title": "The Download: Microsoft’s stance on erotic AI, and an AI hype mystery",
-            "link": "https://www.technologyreview.com/2025/10/28/1126802/the-download-microsofts-stance-on-erotic-ai-and-an-ai-hype-mystery/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We will nev...",
-            "pubDate": "2025-10-28T14:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/image_c50a7d.png"
+            "title": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control",
+            "link": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too",
+            "description": "GitHub is making a bold bet that enterprises don't need another proprietary coding agent: They need a way to manage all of them. At its Universe 2025 ...",
+            "pubDate": "2025-10-28T17:10:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4O4T83wUSzVSPKnuWWf4dZ/bea55829b728586b10a802f9f281a1ec/github-agentht-smk.png?w=300&q=30"
         },
         {
             "title": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
@@ -68,46 +96,18 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/26uFKCJx7guEmpRjNxJdWl/bee15b7153fa921dc410f50175781a25/ai_trust_in_a_bucket-SMK.png?w=300&q=30"
         },
         {
-            "title": "NVIDIA partners with Uber to deploy AVs starting in 2027",
-            "link": "https://www.therobotreport.com/nvidia-partners-with-uber-to-deploy-avs-starting-in-2027/",
-            "description": "NVIDIA said it can support Uber in scaling its global autonomous fleet to 100,000 vehicles over time, starting in 2027. The post NVIDIA partners with ...",
-            "pubDate": "2025-10-28T22:08:54",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nvidia-hyperion-l4-uber-featured.jpg"
-        },
-        {
-            "title": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control",
-            "link": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too",
-            "description": "GitHub is making a bold bet that enterprises don't need another proprietary coding agent: They need a way to manage all of them. At its Universe 2025 ...",
-            "pubDate": "2025-10-28T17:10:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4O4T83wUSzVSPKnuWWf4dZ/bea55829b728586b10a802f9f281a1ec/github-agentht-smk.png?w=300&q=30"
-        },
-        {
-            "title": "Finding return on AI investments across industries",
-            "link": "https://www.technologyreview.com/2025/10/28/1126693/finding-return-on-ai-investments-across-industries/",
-            "description": "The market is officially three years post ChatGPT and many of the pundit bylines have shifted to using terms like “bubble” to suggest reasons behind g...",
-            "pubDate": "2025-10-28T16:00:33",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-02_41_13-PM.png"
-        },
-        {
-            "title": "PayPal’s agentic commerce play shows why flexibility, not standards, will define the eext c-commerce wave",
-            "link": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will",
-            "description": "E nterprises looking to sell goods and services online are waiting for the backbone of agentic commerce to be hashed out; but PayPal is hoping its new...",
-            "pubDate": "2025-10-28T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7pKgIkX0gvCbEs132P6qBy/93b6eff0b869b8f047b79eed33e75a86/crimedy7_illustration_of_robot_paying_for_groceries_--ar_169__3d2a2c22-022a-4104-9070-fab8f94d73d5_0.png?w=300&q=30"
+            "title": "Microsoft’s Copilot can now build apps and automate your job — here’s how it works",
+            "link": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it",
+            "description": "Microsoft is launching a significant expansion of its Copilot AI assistant on Tuesday, introducing tools that let employees build applications, automa...",
+            "pubDate": "2025-10-28T21:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/33TsQdgl9KxQ34lyEgCUfW/9faff55fd9a871ab3cd21f735ed87cba/nuneybits_Vector_art_of_Microsoft_Windows_desktop_computer_mode_5869d092-9156-48dc-bf50-37d2ff6b0cf3.webp?w=300&q=30"
         },
         {
             "title": "Roundtables: Seeking Climate Solutions in Turbulent Times",
             "link": "https://www.technologyreview.com/2025/10/28/1125962/roundtables-seeking-climate-solutions-in-turbulent-times/",
             "description": "Companies are pursuing climate solutions amid shifting U.S. politics and economic uncertainty. Drawing from MIT Technology Review’s 10 Climate Tech Co...",
             "pubDate": "2025-10-28T19:04:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "FIRA USA 2025 agricultural robotics event recap",
-            "link": "https://www.therobotreport.com/fira-usa-2025-agricultural-robotics-event-recap/",
-            "description": "Check out the latest ag robotics from FIRA 2025, and hear about a new incubator called The Reservoir, with founder Danny Bernstein. The post FIRA USA ...",
-            "pubDate": "2025-10-27T20:53:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Danny-Bernstein-headshot.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -131,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
             "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }

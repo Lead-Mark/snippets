@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-29T07:18:32.349513",
+    "lastBuildDate": "2025-10-29T10:54:30.981143",
     "items": [
+        {
+            "title": "All Things Swedish Meatballs",
+            "link": "https://therecipecritic.com/all-things-swedish-meatballs/",
+            "description": "From frozen to from-scratch, this is your one-stop shop for all things Swedish Meatballs! Start with the easy slow-cooker version…",
+            "pubDate": "2025-10-29T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/05/swedish-meatballs-2.jpg"
+        },
         {
             "title": "Sour Cream Gravy",
             "link": "https://therecipecritic.com/sour-cream-gravy/",
@@ -31,13 +38,6 @@
             "description": "Set it and forget it! This slow cooker Korean BBQ chicken is sweet, savory, and just the right amount of…",
             "pubDate": "2025-10-26T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/slow-cooker-korean-chicken-1.jpg"
-        },
-        {
-            "title": "Texas Cowboy Stew",
-            "link": "https://therecipecritic.com/texas-cowboy-stew/",
-            "description": "My Texas Cowboy Stew actually fills up my always–hungry boys! That’s because it’s loaded with smoky bacon, spicy sausage, ground…",
-            "pubDate": "2025-10-25T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/texas-stew-.jpg"
         },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",
