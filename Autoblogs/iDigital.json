@@ -2,28 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-29T10:54:42.645681",
+    "lastBuildDate": "2025-10-29T11:26:53.206568",
     "items": [
         {
-            "title": "IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser",
-            "link": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally",
-            "description": "In an industry where model size is often seen as a proxy for intelligence, IBM is charting a different course — one that values efficiency over enormi...",
-            "pubDate": "2025-10-29T00:23:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4rwJWqsHkQ8TmY86sokH5j/cf400e028ed640c8e65f6bec9134c149/cfr0z3n_Flat_illustration_neon_pink_and_oranges_on_blue_backdro_3059ee39-d179-4b1b-9d52-a4264f21e970.png?w=300&q=30"
-        },
-        {
-            "title": "The Download: Boosting AI’s memory, and data centers’ unhappy neighbors",
-            "link": "https://www.technologyreview.com/2025/10/29/1126945/the-download-boosting-ais-memory-and-data-centers-unhappy-neighbors/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. DeepSeek may...",
-            "pubDate": "2025-10-29T14:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f916.png"
-        },
-        {
-            "title": "Vention announces full-stack AI and automation platform expansions",
-            "link": "https://www.therobotreport.com/vention-announces-full-stack-ai-automation-platform-expansions/",
-            "description": "Vention has rolled out AI Operator as it advances its Zero-Shot Automation strategy to making programming easier. The post Vention announces full-stac...",
-            "pubDate": "2025-10-29T15:00:33",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Vention_bin_pick.jpg"
+            "title": "Building a high performance data and AI organization (2nd edition)",
+            "link": "https://www.technologyreview.com/2025/10/29/1124014/building-a-high-performance-data-and-ai-organization-2nd-edition/",
+            "description": "Four years is a lifetime when it comes to artificial intelligence. Since the first edition of this study was published in 2021, AI’s capabilities have...",
+            "pubDate": "2025-10-29T16:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR-databricks2025.v6-cover.png?w=1555"
         },
         {
             "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
@@ -33,39 +19,39 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5JXMNBhUMiSimHDDeX6ODt/2793b1842c2ef9825b7127d7bbd65f4f/_Geostar-2.jpg?w=300&q=30"
         },
         {
-            "title": "DeepSeek may have found a new way to improve AI’s ability to remember",
-            "link": "https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/",
-            "description": "An AI model released by Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last wee...",
-            "pubDate": "2025-10-29T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser",
+            "link": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally",
+            "description": "In an industry where model size is often seen as a proxy for intelligence, IBM is charting a different course — one that values efficiency over enormi...",
+            "pubDate": "2025-10-29T00:23:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4rwJWqsHkQ8TmY86sokH5j/cf400e028ed640c8e65f6bec9134c149/cfr0z3n_Flat_illustration_neon_pink_and_oranges_on_blue_backdro_3059ee39-d179-4b1b-9d52-a4264f21e970.png?w=300&q=30"
+        },
+        {
+            "title": "Vention announces full-stack AI and automation platform expansions",
+            "link": "https://www.therobotreport.com/vention-announces-full-stack-ai-automation-platform-expansions/",
+            "description": "Vention has rolled out AI Operator as it advances its Zero-Shot Automation strategy to making programming easier. The post Vention announces full-stac...",
+            "pubDate": "2025-10-29T15:00:33",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Vention_bin_pick.jpg"
+        },
+        {
+            "title": "The Download: Boosting AI’s memory, and data centers’ unhappy neighbors",
+            "link": "https://www.technologyreview.com/2025/10/29/1126945/the-download-boosting-ais-memory-and-data-centers-unhappy-neighbors/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. DeepSeek may...",
+            "pubDate": "2025-10-29T14:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f916.png"
         },
         {
             "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
             "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
             "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
             "pubDate": "2025-10-29T11:41:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "NVIDIA partners with Uber to deploy AVs starting in 2027",
-            "link": "https://www.therobotreport.com/nvidia-partners-with-uber-to-deploy-avs-starting-in-2027/",
-            "description": "NVIDIA said it can support Uber in scaling its global autonomous fleet to 100,000 vehicles over time, starting in 2027. The post NVIDIA partners with ...",
-            "pubDate": "2025-10-28T22:08:54",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nvidia-hyperion-l4-uber-featured.jpg"
-        },
-        {
-            "title": "Finding return on AI investments across industries",
-            "link": "https://www.technologyreview.com/2025/10/28/1126693/finding-return-on-ai-investments-across-industries/",
-            "description": "The market is officially three years post ChatGPT and many of the pundit bylines have shifted to using terms like “bubble” to suggest reasons behind g...",
-            "pubDate": "2025-10-28T16:00:33",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-02_41_13-PM.png"
-        },
-        {
-            "title": "Advantech introduces edge AI systems for a range of robot embodiments",
-            "link": "https://www.therobotreport.com/advantech-introduces-edge-ai-systems-for-a-range-of-robot-embodiments/",
-            "description": "Advantech said the NVIDIA Jetson Thor series set a new benchmark for edge AI, delivering up to 2070 FP4 TFLOPS of AI performance. The post Advantech i...",
-            "pubDate": "2025-10-28T23:41:15",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/JetsonThor-advantech-featured.jpg"
+            "title": "DeepSeek may have found a new way to improve AI’s ability to remember",
+            "link": "https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/",
+            "description": "An AI model released by Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last wee...",
+            "pubDate": "2025-10-29T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Moxi 2.0 mobile manipulator is built for AI, says Diligent Robotics",
@@ -75,11 +61,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Moxi2-Render-featured.jpg"
         },
         {
-            "title": "International Motors and PlusAI develop L4 autonomous truck with NVIDIA DRIVE AGX",
-            "link": "https://www.therobotreport.com/international-motors-and-plusai-develop-l4-autonomous-truck-with-nvidia-drive-agx/",
-            "description": "International Motors is bringing trucks, PlusAI the self-driving software, and NVIDIA the processing for long-haul freight. The post International Mot...",
-            "pubDate": "2025-10-28T19:30:11",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Nvidia_International_PlusA.jpg"
+            "title": "NVIDIA partners with Uber to deploy AVs starting in 2027",
+            "link": "https://www.therobotreport.com/nvidia-partners-with-uber-to-deploy-avs-starting-in-2027/",
+            "description": "NVIDIA said it can support Uber in scaling its global autonomous fleet to 100,000 vehicles over time, starting in 2027. The post NVIDIA partners with ...",
+            "pubDate": "2025-10-28T22:08:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nvidia-hyperion-l4-uber-featured.jpg"
         },
         {
             "title": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control",
@@ -96,6 +82,20 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/26uFKCJx7guEmpRjNxJdWl/bee15b7153fa921dc410f50175781a25/ai_trust_in_a_bucket-SMK.png?w=300&q=30"
         },
         {
+            "title": "Advantech introduces edge AI systems for a range of robot embodiments",
+            "link": "https://www.therobotreport.com/advantech-introduces-edge-ai-systems-for-a-range-of-robot-embodiments/",
+            "description": "Advantech said the NVIDIA Jetson Thor series set a new benchmark for edge AI, delivering up to 2070 FP4 TFLOPS of AI performance. The post Advantech i...",
+            "pubDate": "2025-10-28T23:41:15",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/JetsonThor-advantech-featured.jpg"
+        },
+        {
+            "title": "International Motors and PlusAI develop L4 autonomous truck with NVIDIA DRIVE AGX",
+            "link": "https://www.therobotreport.com/international-motors-and-plusai-develop-l4-autonomous-truck-with-nvidia-drive-agx/",
+            "description": "International Motors is bringing trucks, PlusAI the self-driving software, and NVIDIA the processing for long-haul freight. The post International Mot...",
+            "pubDate": "2025-10-28T19:30:11",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Nvidia_International_PlusA.jpg"
+        },
+        {
             "title": "Microsoft’s Copilot can now build apps and automate your job — here’s how it works",
             "link": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it",
             "description": "Microsoft is launching a significant expansion of its Copilot AI assistant on Tuesday, introducing tools that let employees build applications, automa...",
@@ -107,7 +107,7 @@
             "link": "https://www.technologyreview.com/2025/10/28/1125962/roundtables-seeking-climate-solutions-in-turbulent-times/",
             "description": "Companies are pursuing climate solutions amid shifting U.S. politics and economic uncertainty. Drawing from MIT Technology Review’s 10 Climate Tech Co...",
             "pubDate": "2025-10-28T19:04:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -131,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
             "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
