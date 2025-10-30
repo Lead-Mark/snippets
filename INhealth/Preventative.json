@@ -2,14 +2,28 @@
     "title": "Preventative",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Preventative, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-30T16:14:13.224951",
+    "lastBuildDate": "2025-10-30T16:32:56.562516",
     "items": [
+        {
+            "title": "Types of Melanoma",
+            "link": "https://www.healthywomen.org/condition/types-of-melanoma",
+            "description": "+ Infographic text Melanoma is a type of cancer that happens when the cells that produce color (melanin) grow out of control. Women ages 50–65 have hi...",
+            "pubDate": "2025-10-30T17:13:56",
+            "image_url": "https://www.healthywomen.org/media-library/types-of-melanoma-infographic.png?id=61986900&width=980"
+        },
         {
             "title": "Refugees Will Be Among the First To Lose Food Stamps Under Federal Changes",
             "link": "https://kffhealthnews.org/news/article/refugees-snap-benefits-food-aid-trump-law/",
             "description": "Under the budget law that Republicans call the One Big Beautiful Bill Act, food assistance for refugees will be sliced. The change is sowing fear, unc...",
             "pubDate": "2025-10-30T10:00:00",
             "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/10/RefugeeSNAP_02-resize.jpg"
+        },
+        {
+            "title": "A Sinus Infection Revealed Nasal Polyps – and a Complicating Twist",
+            "link": "https://www.healthywomen.org/real-women-real-stories/sinus-infection-revealed-nasal-polyps",
+            "description": "As told to Nicole Audrey Spector I was in my mid 40s working as a paraeducator in elementary schools in the 1990’s when I began experiencing asthma an...",
+            "pubDate": "2025-10-30T16:42:58",
+            "image_url": "https://www.healthywomen.org/media-library/maureen-upsahl.jpg?id=61986537&width=980"
         },
         {
             "title": "A Comprehensive Examination of Primary Care Disparities in California: Navigating the Abyss",
@@ -26,39 +40,32 @@
             "image_url": "https://www.healthywomen.org/media-library/little-girl-is-itching.jpg?id=61988302&width=980"
         },
         {
-            "title": "Types of Melanoma",
-            "link": "https://www.healthywomen.org/condition/types-of-melanoma",
-            "description": "+ Infographic text Melanoma is a type of cancer that happens when the cells that produce color (melanin) grow out of control. Women ages 50–65 have hi...",
-            "pubDate": "2025-10-30T17:13:56",
-            "image_url": "https://www.healthywomen.org/media-library/types-of-melanoma-infographic.png?id=61986900&width=980"
-        },
-        {
-            "title": "A Sinus Infection Revealed Nasal Polyps – and a Complicating Twist",
-            "link": "https://www.healthywomen.org/real-women-real-stories/sinus-infection-revealed-nasal-polyps",
-            "description": "As told to Nicole Audrey Spector I was in my mid 40s working as a paraeducator in elementary schools in the 1990’s when I began experiencing asthma an...",
-            "pubDate": "2025-10-30T16:42:58",
-            "image_url": "https://www.healthywomen.org/media-library/maureen-upsahl.jpg?id=61986537&width=980"
-        },
-        {
-            "title": "These 3 Minerals Are A+ For Boosting Your Mood & Mental Health",
-            "link": "https://www.mindbodygreen.com/articles/underrated-nutrients-your-brain-needs-for-better-mood",
-            "description": "Your brain is starving...& it's not for calories",
-            "pubDate": "2025-10-30T09:22:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "What the Health? From KFF Health News: Happy Open Enrollment Eve!",
-            "link": "https://kffhealthnews.org/news/podcast/what-the-health-420-open-enrollment-obamacare-aca-shutdown-october-30-2025/",
-            "description": "A standoff in Congress is keeping much of the government shut down as open enrollment begins in most states for Affordable Care Act plans. Democrats a...",
-            "pubDate": "2025-10-30T20:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "California Faces Limits as It Directs Health Facilities To Push Back on Immigration Raids",
-            "link": "https://kffhealthnews.org/news/article/california-ice-immigrant-protections-hospitals-clinics-agents/",
-            "description": "California now has a law requiring hospitals and clinics to improve patient privacy and have clear protocols for handling requests by immigration agen...",
-            "pubDate": "2025-10-30T10:00:00",
+            "title": "Here's How Your Zodiac Sign Should Celebrate Halloween This Year",
+            "link": "https://www.mindbodygreen.com/articles/how-all-12-zodiac-signs-can-celebrate-halloween-this-year",
+            "description": "Things are getting spooky!",
+            "pubDate": "2025-10-30T01:12:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "The Quiet Collapse of America’s Reproductive Health Safety Net",
+            "link": "https://kffhealthnews.org/news/article/title-x-family-planning-hhs-opa-trump-cuts-reproductive-health-maine/",
+            "description": "The HHS office that administers the Title X family planning program has been effectively shut down. And with cuts to federal funding for other family ...",
+            "pubDate": "2025-10-30T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "California enfrenta barreras al querer frenar redadas del ICE en entornos de salud",
+            "link": "https://kffhealthnews.org/news/article/california-enfrenta-barreras-al-querer-frenar-redadas-del-ice-en-entornos-de-salud/",
+            "description": "El gobernador demócrata Gavin Newsom promulgó el mes pasado la ley SB 81, que prohíbe a los centros médicos permitir el acceso de agentes federales a ...",
+            "pubDate": "2025-10-30T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "What Women Should Know About Lung Cancer",
+            "link": "https://blackhealthmatters.com/what-women-should-know-about-lung-cancer-2/",
+            "description": "If you’re a woman in America, the cancer most likely to take your life isn’t breast cancer. It’s lung cancer. And Black women face even greater risks....",
+            "pubDate": "2025-10-30T14:00:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "This Vitamin Promotes A Healthy Inflammatory Response, Study Shows",
@@ -68,39 +75,32 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Here's How Your Zodiac Sign Should Celebrate Halloween This Year",
-            "link": "https://www.mindbodygreen.com/articles/how-all-12-zodiac-signs-can-celebrate-halloween-this-year",
-            "description": "Things are getting spooky!",
-            "pubDate": "2025-10-30T01:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "California enfrenta barreras al querer frenar redadas del ICE en entornos de salud",
-            "link": "https://kffhealthnews.org/news/article/california-enfrenta-barreras-al-querer-frenar-redadas-del-ice-en-entornos-de-salud/",
-            "description": "El gobernador demócrata Gavin Newsom promulgó el mes pasado la ley SB 81, que prohíbe a los centros médicos permitir el acceso de agentes federales a ...",
-            "pubDate": "2025-10-30T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "What the Health? From KFF Health News: Happy Open Enrollment Eve!",
+            "link": "https://kffhealthnews.org/news/podcast/what-the-health-420-open-enrollment-obamacare-aca-shutdown-october-30-2025/",
+            "description": "A standoff in Congress is keeping much of the government shut down as open enrollment begins in most states for Affordable Care Act plans. Democrats a...",
+            "pubDate": "2025-10-30T20:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Craving A Late-Night Snack? This One May Actually Support Blood Sugar",
             "link": "https://www.mindbodygreen.com/articles/bedtime-snack-thats-actually-good-for-you-yes-its-true",
             "description": "Late-night snackers, rejoice!",
             "pubDate": "2025-10-30T10:16:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "What Women Should Know About Lung Cancer",
-            "link": "https://blackhealthmatters.com/what-women-should-know-about-lung-cancer-2/",
-            "description": "If you’re a woman in America, the cancer most likely to take your life isn’t breast cancer. It’s lung cancer. And Black women face even greater risks....",
-            "pubDate": "2025-10-30T14:00:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "The Quiet Collapse of America’s Reproductive Health Safety Net",
-            "link": "https://kffhealthnews.org/news/article/title-x-family-planning-hhs-opa-trump-cuts-reproductive-health-maine/",
-            "description": "The HHS office that administers the Title X family planning program has been effectively shut down. And with cuts to federal funding for other family ...",
+            "title": "California Faces Limits as It Directs Health Facilities To Push Back on Immigration Raids",
+            "link": "https://kffhealthnews.org/news/article/california-ice-immigrant-protections-hospitals-clinics-agents/",
+            "description": "California now has a law requiring hospitals and clinics to improve patient privacy and have clear protocols for handling requests by immigration agen...",
             "pubDate": "2025-10-30T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "These 3 Minerals Are A+ For Boosting Your Mood & Mental Health",
+            "link": "https://www.mindbodygreen.com/articles/underrated-nutrients-your-brain-needs-for-better-mood",
+            "description": "Your brain is starving...& it's not for calories",
+            "pubDate": "2025-10-30T09:22:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Halo, Heresy, and Health Care",
@@ -114,14 +114,14 @@
             "link": "https://www.mindbodygreen.com/articles/sneaky-reason-your-plant-protein-isnt-as-good-as-you-think-it-may-not-be-delivering",
             "description": "Here's why it may not be delivering the results you're looking for.",
             "pubDate": "2025-10-29T11:52:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Create a FSGS Treatment Plan That Works For You or Your Child",
             "link": "https://blackhealthmatters.com/create-a-fsgs-treatment-plan-that-works-for-you-or-your-child/",
             "description": "You or your child has been diagnosed with focal segmental glomerulosclerosis or FSGS—a rare kidney disease that affects how thoroughly your organ filt...",
             "pubDate": "2025-10-29T22:05:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Stroke Risk for Women",
@@ -138,18 +138,18 @@
             "image_url": "https://www.healthywomen.org/media-library/liz-oriordan.png?id=61942953&width=980"
         },
         {
-            "title": "How Gucci Mane & Keyshia Ka’oir Manage His Mental Health",
-            "link": "https://blackhealthmatters.com/how-gucci-mane-keyshia-kaoir-manage-his-mental-health/",
-            "description": "Gucci Mane discussed managing his mental health challenges on The Breakfast Club, where he appeared with his wife Keyshia Ka’oir Davis. The couple des...",
-            "pubDate": "2025-10-27T21:58:19",
-            "image_url": "https://www.youtube.com/embed/N05ai_0hwxs"
-        },
-        {
             "title": "The Nobel Prize’s Amazing Track Record in Immunology",
             "link": "https://thehealthcareblog.com/blog/2025/10/27/the-nobel-prizes-amazing-track-record-in-immunology/",
             "description": "By MIKE MAGEE With the announcement of the 2025 Nobel Prize in Physiology or Medicine last week, the American Association of Immunologists (AAI) took ...",
             "pubDate": "2025-10-27T06:46:22",
             "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
+        },
+        {
+            "title": "How Gucci Mane & Keyshia Ka’oir Manage His Mental Health",
+            "link": "https://blackhealthmatters.com/how-gucci-mane-keyshia-kaoir-manage-his-mental-health/",
+            "description": "Gucci Mane discussed managing his mental health challenges on The Breakfast Club, where he appeared with his wife Keyshia Ka’oir Davis. The couple des...",
+            "pubDate": "2025-10-27T21:58:19",
+            "image_url": "https://www.youtube.com/embed/N05ai_0hwxs"
         },
         {
             "title": "Let a Thousand DNA Flowers Bloom",
@@ -163,21 +163,21 @@
             "link": "https://thehealthcareblog.com/blog/2025/10/23/greg-whisman-caremore/",
             "description": "Greg Whisman is the Chief Medical Officer of Caremore, a venerable prepaid medical group caring for seniors. It’s been part of Anthem/Elevance for man...",
             "pubDate": "2025-10-23T10:42:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "How Sleep Affects Chronic Disease",
             "link": "https://blackhealthmatters.com/sleep-affects-chronic-disease/",
             "description": "New research confirms that poor sleep habits are tied to chronic diseases like diabetes, heart disease, obesity, and depression. Those risks run deepe...",
             "pubDate": "2025-10-23T17:04:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Inside Rick Ross’s Health Transformation",
             "link": "https://blackhealthmatters.com/rapper-rick-ross-loses-100-pounds/",
             "description": "Rick Ross built a public persona around confidence. When his health gave out mid-flight, the consequences were immediate. That moment forced him to re...",
             "pubDate": "2025-10-23T17:02:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }
