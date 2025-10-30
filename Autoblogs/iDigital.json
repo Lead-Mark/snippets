@@ -2,28 +2,63 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-29T11:26:53.206568",
+    "lastBuildDate": "2025-10-30T06:36:31.837819",
     "items": [
         {
-            "title": "Building a high performance data and AI organization (2nd edition)",
-            "link": "https://www.technologyreview.com/2025/10/29/1124014/building-a-high-performance-data-and-ai-organization-2nd-edition/",
-            "description": "Four years is a lifetime when it comes to artificial intelligence. Since the first edition of this study was published in 2021, AI’s capabilities have...",
-            "pubDate": "2025-10-29T16:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR-databricks2025.v6-cover.png?w=1555"
+            "title": "It’s never been easier to be a conspiracy theorist",
+            "link": "https://www.technologyreview.com/2025/10/30/1126457/its-never-been-easier-to-be-a-conspiracy-theorist/",
+            "description": "The timing was eerie. On November 21, 1963, Richard Hofstadter delivered the annual Herbert Spencer Lecture at Oxford University. Hofstadter was a pro...",
+            "pubDate": "2025-10-30T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/9780520276826.jpg?w=666"
         },
         {
-            "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
-            "link": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots",
-            "description": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prom...",
-            "pubDate": "2025-10-29T08:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5JXMNBhUMiSimHDDeX6ODt/2793b1842c2ef9825b7127d7bbd65f4f/_Geostar-2.jpg?w=300&q=30"
+            "title": "Why it’s so hard to bust the weather control conspiracy theory",
+            "link": "https://www.technologyreview.com/2025/10/30/1126467/weather-control-conspiracy-theory-cloud-seeding-floods/",
+            "description": "It was October 2024, and Hurricane Helene had just devastated the US Southeast. Representative Marjorie Taylor Greene of Georgia found an abstract tar...",
+            "pubDate": "2025-10-30T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/6-old-weather-balloon.jpg?w=2228"
         },
         {
-            "title": "IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser",
-            "link": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally",
-            "description": "In an industry where model size is often seen as a proxy for intelligence, IBM is charting a different course — one that values efficiency over enormi...",
-            "pubDate": "2025-10-29T00:23:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4rwJWqsHkQ8TmY86sokH5j/cf400e028ed640c8e65f6bec9134c149/cfr0z3n_Flat_illustration_neon_pink_and_oranges_on_blue_backdro_3059ee39-d179-4b1b-9d52-a4264f21e970.png?w=300&q=30"
+            "title": "Can “The Simpsons” really predict the future?",
+            "link": "https://www.technologyreview.com/2025/10/30/1126462/the-simpsons-conspiracy-theories-al-jean/",
+            "description": "According to internet listicles, the animated sitcom The Simpsons has predicted the future anywhere from 17 to 55 times. “As you know, we’ve inherited...",
+            "pubDate": "2025-10-30T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/SimpsonsThe_BoyMeetsCurl.jpg?w=3000"
+        },
+        {
+            "title": "How conspiracy theories infiltrated the doctor’s office",
+            "link": "https://www.technologyreview.com/2025/10/30/1126464/how-conspiracy-theories-infiltrated-the-doctors-office/",
+            "description": "As anyone who has googled their symptoms and convinced themselves that they’ve got a brain tumor will attest, the internet makes it very easy to self-...",
+            "pubDate": "2025-10-30T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/5-Healthcare-spot.jpg?w=2047"
+        },
+        {
+            "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
+            "link": "https://www.technologyreview.com/2025/10/30/1126471/chatbots-are-surprisingly-effective-at-debunking-conspiracy-theories/",
+            "description": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many ...",
+            "pubDate": "2025-10-30T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Anthropic scientists hacked Claude’s brain — and it noticed. Here’s why that’s huge",
+            "link": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats",
+            "description": "When researchers at Anthropic injected the concept of \"betrayal\" into their Claude AI model's neural networks and asked if it noticed anything unusual...",
+            "pubDate": "2025-10-29T18:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/uB8acjwdIn4wcbdbIasNC/068cc72b7b35d61a4df3fd4d38ca6f78/nuneybits_Vector_art_of_mirrored_robot_face_in_burnt_orange_fbd5a3f2-d7b1-4f4c-90e5-290b8e9444c2.webp?w=300&q=30"
+        },
+        {
+            "title": "From static classifiers to reasoning engines: OpenAI’s new model rethinks content moderation",
+            "link": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks",
+            "description": "Enterprises, eager to ensure any AI models they use adhere to safety and safe-use policies, fine-tune LLMs so they do not respond to unwanted queries....",
+            "pubDate": "2025-10-29T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7hdJbWzLDjzRu2QOtkbDKV/a3a7d637a3e748ccb3ff4ba06e1ff953/crimedy7_illustration_of_technological_safety_cones_--ar_169__cf756a3e-79a5-47c3-993d-cdb5f37f28a2_3.png?w=300&q=30"
+        },
+        {
+            "title": "Agentic AI is all about the context — engineering, that is",
+            "link": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is",
+            "description": "Presented by Elastic As organizations scramble to enact agentic AI solutions, accessing proprietary data from all the nooks and crannies will be key B...",
+            "pubDate": "2025-10-29T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3HhYB9aUXlzxC0Q4V716ck/a33201a5ce2da5b486e6a20da9abbb52/AdobeStock_703274424.jpeg?w=300&q=30"
         },
         {
             "title": "Vention announces full-stack AI and automation platform expansions",
@@ -33,25 +68,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Vention_bin_pick.jpg"
         },
         {
-            "title": "The Download: Boosting AI’s memory, and data centers’ unhappy neighbors",
-            "link": "https://www.technologyreview.com/2025/10/29/1126945/the-download-boosting-ais-memory-and-data-centers-unhappy-neighbors/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. DeepSeek may...",
-            "pubDate": "2025-10-29T14:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f916.png"
+            "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
+            "link": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots",
+            "description": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prom...",
+            "pubDate": "2025-10-29T08:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5JXMNBhUMiSimHDDeX6ODt/2793b1842c2ef9825b7127d7bbd65f4f/_Geostar-2.jpg?w=300&q=30"
         },
         {
-            "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
-            "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
-            "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
-            "pubDate": "2025-10-29T11:41:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost",
+            "link": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising",
+            "description": "The vibe coding tool Cursor, from startup Anysphere , has introduced Composer , its first in-house, proprietary coding large language model (LLM) as p...",
+            "pubDate": "2025-10-29T20:28:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3XICNbOGJJDY7SoZx0m1SV/4b4ec66e5aa6a03194e432369e6e6ac8/cfr0z3n_flat_illustration_elegant_constructivist_1920s_art_deco_6818187a-93ac-437e-af85-43b96b2507a5.png?w=300&q=30"
         },
         {
-            "title": "DeepSeek may have found a new way to improve AI’s ability to remember",
-            "link": "https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/",
-            "description": "An AI model released by Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last wee...",
-            "pubDate": "2025-10-29T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Singapore’s National Robotics Programme reveals initiatives to advance robot adoption",
+            "link": "https://www.therobotreport.com/singapores-national-robotics-programme-reveals-initiatives-advance-robot-adoption/",
+            "description": "The NRP aims to catalyse differentiated robotics capabilities in Singapore by funding use-inspired research and use-driven development. The post Singa...",
+            "pubDate": "2025-10-29T22:08:22",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/ROSCon-NRP-featured.jpg"
+        },
+        {
+            "title": "Advantech introduces edge AI systems for a range of robot embodiments",
+            "link": "https://www.therobotreport.com/advantech-introduces-edge-ai-systems-for-a-range-of-robot-embodiments/",
+            "description": "Advantech said the NVIDIA Jetson Thor series set a new benchmark for edge AI, delivering up to 2070 FP4 TFLOPS of AI performance. The post Advantech i...",
+            "pubDate": "2025-10-28T23:41:15",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/JetsonThor-advantech-featured.jpg"
         },
         {
             "title": "Moxi 2.0 mobile manipulator is built for AI, says Diligent Robotics",
@@ -68,55 +110,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/nvidia-hyperion-l4-uber-featured.jpg"
         },
         {
-            "title": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control",
-            "link": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too",
-            "description": "GitHub is making a bold bet that enterprises don't need another proprietary coding agent: They need a way to manage all of them. At its Universe 2025 ...",
-            "pubDate": "2025-10-28T17:10:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4O4T83wUSzVSPKnuWWf4dZ/bea55829b728586b10a802f9f281a1ec/github-agentht-smk.png?w=300&q=30"
-        },
-        {
-            "title": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
-            "link": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in",
-            "description": "Building AI for financial software requires a different playbook than consumer AI, and Intuit's latest QuickBooks release provides an example. The com...",
-            "pubDate": "2025-10-28T13:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/26uFKCJx7guEmpRjNxJdWl/bee15b7153fa921dc410f50175781a25/ai_trust_in_a_bucket-SMK.png?w=300&q=30"
-        },
-        {
-            "title": "Advantech introduces edge AI systems for a range of robot embodiments",
-            "link": "https://www.therobotreport.com/advantech-introduces-edge-ai-systems-for-a-range-of-robot-embodiments/",
-            "description": "Advantech said the NVIDIA Jetson Thor series set a new benchmark for edge AI, delivering up to 2070 FP4 TFLOPS of AI performance. The post Advantech i...",
-            "pubDate": "2025-10-28T23:41:15",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/JetsonThor-advantech-featured.jpg"
-        },
-        {
-            "title": "International Motors and PlusAI develop L4 autonomous truck with NVIDIA DRIVE AGX",
-            "link": "https://www.therobotreport.com/international-motors-and-plusai-develop-l4-autonomous-truck-with-nvidia-drive-agx/",
-            "description": "International Motors is bringing trucks, PlusAI the self-driving software, and NVIDIA the processing for long-haul freight. The post International Mot...",
-            "pubDate": "2025-10-28T19:30:11",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Nvidia_International_PlusA.jpg"
-        },
-        {
-            "title": "Microsoft’s Copilot can now build apps and automate your job — here’s how it works",
-            "link": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it",
-            "description": "Microsoft is launching a significant expansion of its Copilot AI assistant on Tuesday, introducing tools that let employees build applications, automa...",
-            "pubDate": "2025-10-28T21:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/33TsQdgl9KxQ34lyEgCUfW/9faff55fd9a871ab3cd21f735ed87cba/nuneybits_Vector_art_of_Microsoft_Windows_desktop_computer_mode_5869d092-9156-48dc-bf50-37d2ff6b0cf3.webp?w=300&q=30"
-        },
-        {
-            "title": "Roundtables: Seeking Climate Solutions in Turbulent Times",
-            "link": "https://www.technologyreview.com/2025/10/28/1125962/roundtables-seeking-climate-solutions-in-turbulent-times/",
-            "description": "Companies are pursuing climate solutions amid shifting U.S. politics and economic uncertainty. Drawing from MIT Technology Review’s 10 Climate Tech Co...",
-            "pubDate": "2025-10-28T19:04:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
@@ -129,6 +122,13 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
