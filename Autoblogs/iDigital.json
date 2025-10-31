@@ -2,21 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-10-30T16:32:35.486693",
+    "lastBuildDate": "2025-10-31T07:49:14.687110",
     "items": [
         {
-            "title": "The Download: Introducing: the new conspiracy age",
-            "link": "https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:...",
-            "pubDate": "2025-10-30T14:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f436.png"
-        },
-        {
-            "title": "Robotec.ai works with AMD, Liquid AI to apply agentic AI to warehouse robots",
-            "link": "https://www.therobotreport.com/robotec-ai-works-with-amd-liquid-ai-to-apply-agentic-ai-to-warehouse-robots/",
-            "description": "Robotec.ai is using Liquid AI's vision language models and AMD's Ryzen processors for embodied autonomy in the warehouse. The post Robotec.ai works wi...",
-            "pubDate": "2025-10-30T19:45:46",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/robotecai-amd-liquidai-featured.jpg"
+            "title": "Here’s why we don’t have a cold vaccine. Yet.",
+            "link": "https://www.technologyreview.com/2025/10/31/1127408/heres-why-we-dont-have-a-cold-vaccine-yet/",
+            "description": "For those of us in the Northern Hemisphere, it’s the season of the sniffles. As the weather turns, we’re all spending more time indoors. The kids have...",
+            "pubDate": "2025-10-31T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "NEO humanoid designed for household use, available for preorder",
@@ -26,11 +19,25 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/1x-neo-heads-featured.jpg"
         },
         {
-            "title": "Can “The Simpsons” really predict the future?",
-            "link": "https://www.technologyreview.com/2025/10/30/1126462/the-simpsons-conspiracy-theories-al-jean/",
-            "description": "According to internet listicles, the animated sitcom The Simpsons has predicted the future anywhere from 17 to 55 times. “As you know, we’ve inherited...",
-            "pubDate": "2025-10-30T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/SimpsonsThe_BoyMeetsCurl.jpg?w=3000"
+            "title": "How NVIDIA is bringing physical AI to its industrial customers",
+            "link": "https://www.therobotreport.com/how-nvidia-bringing-physical-ai-industrial-customers/",
+            "description": "The latest Omniverse updates enable U.S. companies to overcome labor shortages and drive reindustrialization, said NVIDIA. The post How NVIDIA is brin...",
+            "pubDate": "2025-10-30T16:36:44",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Omniverse-for-Manufacturing-in-story.jpg"
+        },
+        {
+            "title": "The Download: Introducing the new conspiracy age",
+            "link": "https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:...",
+            "pubDate": "2025-10-30T14:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f436.png"
+        },
+        {
+            "title": "Meta researchers open the LLM black box to repair flawed AI reasoning",
+            "link": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning",
+            "description": "Researchers at Meta FAIR and the University of Edinburgh have developed a new technique that can predict the correctness of a large language model's (...",
+            "pubDate": "2025-10-30T01:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2OkRgL73ZtEWb7eTlVXcOQ/07d98278f0ffa3fe571924f478e410a1/LLM_reasoning.jpg?w=300&q=30"
         },
         {
             "title": "Why IT leaders should pay attention to Canva’s ‘imagination era’ strategy",
@@ -40,13 +47,6 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RueUd7BFZZvUTu1HpMex9/651bfe1010eda474b8f737d42e7354ca/Canva.png?w=300&q=30"
         },
         {
-            "title": "How NVIDIA is bringing physical AI to its industrial customers",
-            "link": "https://www.therobotreport.com/how-nvidia-bringing-physical-ai-industrial-customers/",
-            "description": "The latest Omniverse updates enable U.S. companies to overcome labor shortages and drive reindustrialization, said NVIDIA. The post How NVIDIA is brin...",
-            "pubDate": "2025-10-30T16:36:44",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Omniverse-for-Manufacturing-in-story.jpg"
-        },
-        {
             "title": "It’s never been easier to be a conspiracy theorist",
             "link": "https://www.technologyreview.com/2025/10/30/1126457/its-never-been-easier-to-be-a-conspiracy-theorist/",
             "description": "The timing was eerie. On November 21, 1963, Richard Hofstadter delivered the annual Herbert Spencer Lecture at Oxford University. Hofstadter was a pro...",
@@ -54,25 +54,25 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/9780520276826.jpg?w=666"
         },
         {
+            "title": "Robotec.ai works with AMD, Liquid AI to apply agentic AI to warehouse robots",
+            "link": "https://www.therobotreport.com/robotec-ai-works-with-amd-liquid-ai-to-apply-agentic-ai-to-warehouse-robots/",
+            "description": "Robotec.ai is using Liquid AI's vision language models and AMD's Ryzen processors for embodied autonomy in the warehouse. The post Robotec.ai works wi...",
+            "pubDate": "2025-10-30T19:45:46",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/robotecai-amd-liquidai-featured.jpg"
+        },
+        {
             "title": "Leveraging the clinician’s expertise with agentic AI",
             "link": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
             "description": "",
             "pubDate": "2025-10-30T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Four thoughts from Bill Gates on climate tech",
             "link": "https://www.technologyreview.com/2025/10/30/1127056/four-thoughts-from-bill-gates-on-climate-tech/",
             "description": "Bill Gates doesn’t shy away or pretend modesty when it comes to his stature in the climate world today. “Well, who’s the biggest funder of climate inn...",
             "pubDate": "2025-10-30T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Vention announces full-stack AI and automation platform expansions",
-            "link": "https://www.therobotreport.com/vention-announces-full-stack-ai-automation-platform-expansions/",
-            "description": "Vention has rolled out AI Operator as it advances its Zero-Shot Automation strategy to making programming easier. The post Vention announces full-stac...",
-            "pubDate": "2025-10-29T15:00:33",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Vention_bin_pick.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Anthropic scientists hacked Claude’s brain — and it noticed. Here’s why that’s huge",
@@ -82,18 +82,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/uB8acjwdIn4wcbdbIasNC/068cc72b7b35d61a4df3fd4d38ca6f78/nuneybits_Vector_art_of_mirrored_robot_face_in_burnt_orange_fbd5a3f2-d7b1-4f4c-90e5-290b8e9444c2.webp?w=300&q=30"
         },
         {
-            "title": "Agentic AI is all about the context — engineering, that is",
-            "link": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is",
-            "description": "Presented by Elastic As organizations scramble to enact agentic AI solutions, accessing proprietary data from all the nooks and crannies will be key B...",
-            "pubDate": "2025-10-29T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3HhYB9aUXlzxC0Q4V716ck/a33201a5ce2da5b486e6a20da9abbb52/AdobeStock_703274424.jpeg?w=300&q=30"
-        },
-        {
-            "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
-            "link": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots",
-            "description": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prom...",
-            "pubDate": "2025-10-29T08:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5JXMNBhUMiSimHDDeX6ODt/2793b1842c2ef9825b7127d7bbd65f4f/_Geostar-2.jpg?w=300&q=30"
+            "title": "Vention announces full-stack AI and automation platform expansions",
+            "link": "https://www.therobotreport.com/vention-announces-full-stack-ai-automation-platform-expansions/",
+            "description": "Vention has rolled out AI Operator as it advances its Zero-Shot Automation strategy to making programming easier. The post Vention announces full-stac...",
+            "pubDate": "2025-10-29T15:00:33",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Vention_bin_pick.jpg"
         },
         {
             "title": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost",
@@ -110,6 +103,13 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/ROSCon-NRP-featured.jpg"
         },
         {
+            "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
+            "link": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots",
+            "description": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prom...",
+            "pubDate": "2025-10-29T08:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5JXMNBhUMiSimHDDeX6ODt/2793b1842c2ef9825b7127d7bbd65f4f/_Geostar-2.jpg?w=300&q=30"
+        },
+        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
@@ -117,18 +117,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
