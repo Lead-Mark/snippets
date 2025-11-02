@@ -2,14 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-01T01:08:55.018254",
+    "lastBuildDate": "2025-11-02T01:45:57.439997",
     "items": [
         {
-            "title": "Remedy Robotics, Mission Thrombectomy extend N1 System to blood clot removal",
-            "link": "https://www.therobotreport.com/remedy-robotics-mission-thrombectomy-extend-n1-system-blood-clot-removal/",
-            "description": "Remedy Robotics will collaborate with Mission Thrombectomy's clinical network to guide the global rollout of its telerobotic technology. The post Reme...",
-            "pubDate": "2025-10-31T21:10:28",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Remedy-Robotics-N1-surgical-robot-Cath-Lab-Remote-700x455-1.jpg"
+            "title": "Bats inspire WPI researchers to develop drones using echolocation",
+            "link": "https://www.therobotreport.com/wpi-researchers-create-bat-inspired-search-rescue-drones/",
+            "description": "WPI researchers are enabling aerial robots, smaller than 100 mm and weighing less than 100 g, to navigate without relying on vision. The post Bats ins...",
+            "pubDate": "2025-11-01T16:32:19",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/RBE_Sanket_Tiny-Rescue-Aerial-Robots-featured.jpg"
+        },
+        {
+            "title": "TU Delft algorithm to enables drones to work together to transport heavy payloads",
+            "link": "https://www.therobotreport.com/tu-delft-algorithm-lets-drones-work-together-transport-heavy-payloads/",
+            "description": "The TU Delft researchers said their algorithm enables drones to carry heavier payloads together, even in windy conditions. The post TU Delft algorithm...",
+            "pubDate": "2025-11-01T13:27:34",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Sihao-Sun-Drone_eye_catcher-featured.jpg"
+        },
+        {
+            "title": "Large reasoning models almost certainly can think",
+            "link": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think",
+            "description": "Recently, there has been a lot of hullabaloo about the idea that large reasoning models (LRM) are unable to think. This is mostly due to a research ar...",
+            "pubDate": "2025-11-01T06:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2H0JnerwnmfHRZsVcEeKE6/ac3bd8c2d3ed025d025a30db64bcb8de/LLMs_can_think.png?w=300&q=30"
         },
         {
             "title": "Boston Dynamics partners with Analog to deploy robots in the UAE",
@@ -19,13 +33,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/bdanalog.jpg"
         },
         {
-            "title": "Inside Celosphere 2025: Why there’s no ‘enterprise AI’ without process intelligence",
-            "link": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process",
-            "description": "Presented by Celonis AI adoption is accelerating, but results often lag expectations. And enterprise leaders are under pressure to prove measurable RO...",
-            "pubDate": "2025-10-31T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3rNlhuyCtBRL2JQhpgaSY8/a8139f9a3ea341c37e423b25ee108153/AdobeStock_1086502186.jpeg?w=300&q=30"
-        },
-        {
             "title": "The Download: down the Mandela effect rabbit hole, and the promise of a vaccine for colds",
             "link": "https://www.technologyreview.com/2025/10/31/1127444/the-download-down-the-mandela-effect-rabbit-hole-and-the-promise-of-a-vaccine-for-colds/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why do so ma...",
@@ -33,53 +40,32 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f440.png"
         },
         {
-            "title": "Here’s why we don’t have a cold vaccine. Yet.",
-            "link": "https://www.technologyreview.com/2025/10/31/1127408/heres-why-we-dont-have-a-cold-vaccine-yet/",
-            "description": "For those of us in the Northern Hemisphere, it’s the season of the sniffles. As the weather turns, we’re all spending more time indoors. The kids have...",
-            "pubDate": "2025-10-31T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Remedy Robotics, Mission Thrombectomy extend N1 System to blood clot removal",
+            "link": "https://www.therobotreport.com/remedy-robotics-mission-thrombectomy-extend-n1-system-blood-clot-removal/",
+            "description": "Remedy Robotics will collaborate with Mission Thrombectomy's clinical network to guide the global rollout of its telerobotic technology. The post Reme...",
+            "pubDate": "2025-10-31T21:10:28",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Remedy-Robotics-N1-surgical-robot-Cath-Lab-Remote-700x455-1.jpg"
+        },
+        {
+            "title": "Inside Celosphere 2025: Why there’s no ‘enterprise AI’ without process intelligence",
+            "link": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process",
+            "description": "Presented by Celonis AI adoption is accelerating, but results often lag expectations. And enterprise leaders are under pressure to prove measurable RO...",
+            "pubDate": "2025-10-31T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3rNlhuyCtBRL2JQhpgaSY8/a8139f9a3ea341c37e423b25ee108153/AdobeStock_1086502186.jpeg?w=300&q=30"
         },
         {
             "title": "Here’s the latest company planning for gene-edited babies",
             "link": "https://www.technologyreview.com/2025/10/31/1127461/heres-the-latest-company-planning-for-gene-edited-babies/",
             "description": "A West Coast biotech entrepreneur says he’s secured $30 million to form a public-benefit company to study how to safely create genetically edited babi...",
             "pubDate": "2025-10-31T20:27:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Why IT leaders should pay attention to Canva’s ‘imagination era’ strategy",
-            "link": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy",
-            "description": "The rise of AI marks a critical shift away from decades defined by information-chasing and a push for more and more compute power. Canva co-founder an...",
-            "pubDate": "2025-10-30T04:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RueUd7BFZZvUTu1HpMex9/651bfe1010eda474b8f737d42e7354ca/Canva.png?w=300&q=30"
-        },
-        {
-            "title": "Meta researchers open the LLM black box to repair flawed AI reasoning",
-            "link": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning",
-            "description": "Researchers at Meta FAIR and the University of Edinburgh have developed a new technique that can predict the correctness of a large language model's (...",
-            "pubDate": "2025-10-30T01:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2OkRgL73ZtEWb7eTlVXcOQ/07d98278f0ffa3fe571924f478e410a1/LLM_reasoning.jpg?w=300&q=30"
-        },
-        {
-            "title": "How NVIDIA is bringing physical AI to its industrial customers",
-            "link": "https://www.therobotreport.com/how-nvidia-bringing-physical-ai-industrial-customers/",
-            "description": "The latest Omniverse updates enable U.S. companies to overcome labor shortages and drive reindustrialization, said NVIDIA. The post How NVIDIA is brin...",
-            "pubDate": "2025-10-30T16:36:44",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Omniverse-for-Manufacturing-in-story.jpg"
-        },
-        {
-            "title": "The Download: Introducing the new conspiracy age",
-            "link": "https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:...",
-            "pubDate": "2025-10-30T14:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f436.png"
-        },
-        {
-            "title": "NEO humanoid designed for household use, available for preorder",
-            "link": "https://www.therobotreport.com/1x-announces-pre-order-launch-neo-humanoid-robot/",
-            "description": "1X has launched consumer preorders for the NEO humanoid robot, which it said will be ready for human interaction and tasks around the home. The post N...",
-            "pubDate": "2025-10-30T14:53:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/1x-neo-heads-featured.jpg"
+            "title": "Here’s why we don’t have a cold vaccine. Yet.",
+            "link": "https://www.technologyreview.com/2025/10/31/1127408/heres-why-we-dont-have-a-cold-vaccine-yet/",
+            "description": "For those of us in the Northern Hemisphere, it’s the season of the sniffles. As the weather turns, we’re all spending more time indoors. The kids have...",
+            "pubDate": "2025-10-31T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Robotec.ai works with AMD, Liquid AI to apply agentic AI to warehouse robots",
@@ -89,18 +75,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/robotecai-amd-liquidai-featured.jpg"
         },
         {
+            "title": "Why IT leaders should pay attention to Canva’s ‘imagination era’ strategy",
+            "link": "https://venturebeat.com/ai/why-it-leaders-should-pay-attention-to-canvas-imagination-era-strategy",
+            "description": "The rise of AI marks a critical shift away from decades defined by information-chasing and a push for more and more compute power. Canva co-founder an...",
+            "pubDate": "2025-10-30T04:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RueUd7BFZZvUTu1HpMex9/651bfe1010eda474b8f737d42e7354ca/Canva.png?w=300&q=30"
+        },
+        {
+            "title": "The Download: Introducing the new conspiracy age",
+            "link": "https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:...",
+            "pubDate": "2025-10-30T14:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f436.png"
+        },
+        {
+            "title": "Meta researchers open the LLM black box to repair flawed AI reasoning",
+            "link": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning",
+            "description": "Researchers at Meta FAIR and the University of Edinburgh have developed a new technique that can predict the correctness of a large language model's (...",
+            "pubDate": "2025-10-30T01:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2OkRgL73ZtEWb7eTlVXcOQ/07d98278f0ffa3fe571924f478e410a1/LLM_reasoning.jpg?w=300&q=30"
+        },
+        {
             "title": "Leveraging the clinician’s expertise with agentic AI",
             "link": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
             "description": "",
             "pubDate": "2025-10-30T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Anthropic scientists hacked Claude’s brain — and it noticed. Here’s why that’s huge",
-            "link": "https://venturebeat.com/ai/anthropic-scientists-hacked-claudes-brain-and-it-noticed-heres-why-thats",
-            "description": "When researchers at Anthropic injected the concept of \"betrayal\" into their Claude AI model's neural networks and asked if it noticed anything unusual...",
-            "pubDate": "2025-10-29T18:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/uB8acjwdIn4wcbdbIasNC/068cc72b7b35d61a4df3fd4d38ca6f78/nuneybits_Vector_art_of_mirrored_robot_face_in_burnt_orange_fbd5a3f2-d7b1-4f4c-90e5-290b8e9444c2.webp?w=300&q=30"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost",
@@ -108,6 +108,13 @@
             "description": "The vibe coding tool Cursor, from startup Anysphere , has introduced Composer , its first in-house, proprietary coding large language model (LLM) as p...",
             "pubDate": "2025-10-29T20:28:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3XICNbOGJJDY7SoZx0m1SV/4b4ec66e5aa6a03194e432369e6e6ac8/cfr0z3n_flat_illustration_elegant_constructivist_1920s_art_deco_6818187a-93ac-437e-af85-43b96b2507a5.png?w=300&q=30"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -124,11 +131,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -136,13 +143,6 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
