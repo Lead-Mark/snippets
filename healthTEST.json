@@ -2,14 +2,28 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-03T06:43:51.517806",
+    "lastBuildDate": "2025-11-03T11:01:57.321074",
     "items": [
+        {
+            "title": "Huggies maker Kimberly-Clark is buying Tylenol maker Kenvue",
+            "link": "https://www.npr.org/2025/11/03/nx-s1-5595923/kimberly-clark-huggies-buying-kenvue-tylenol",
+            "description": "One of the biggest mergers of the year, worth $49 billion, comes just weeks after the Trump administration linked the common painkiller to autism, whi...",
+            "pubDate": "2025-11-03T15:49:11",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2029+0+0/resize/3000x2029!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fd4%2F1e5e56a8463b8cc4e21b2fec3885%2Fgettyimages-469708156.jpeg"
+        },
         {
             "title": "To optimize health, sync your habits with your body clock. Here's how",
             "link": "https://www.npr.org/2025/11/03/nx-s1-5590198/health-habits-circadian-rhythms-body-clock",
             "description": "Scientists say the return to \"standard time\" is good for our health. But the time change can be disruptive and we must also adjust to more winter dark...",
             "pubDate": "2025-11-03T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F6a%2Fe2235bc84334b0e5ded89b178a25%2Fgettyimages-2208501063.jpg"
+        },
+        {
+            "title": "Risk of infection and wound dehiscence after use of prophylactic antibiotics in episiotomy or second degree tear (REPAIR study): single centre, double blind, placebo-controlled randomised trial",
+            "link": "https://www.2minutemedicine.com/risk-of-infection-and-wound-dehiscence-after-use-of-prophylactic-antibiotics-in-episiotomy-or-second-degree-tear-repair-study-single-centre-double-blind-placebo-controlled-randomised-trial/",
+            "description": "1. Prophylactic antibiotics reduced the risk of clinically relevant wound complications but not overall wound complications in women with episiotomies...",
+            "pubDate": "2025-11-03T16:00:37",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/freestocks-org-71789-unsplash-300x150.jpg"
         },
         {
             "title": "2 Minute Medicine Rewind November 3rd, 2025",
@@ -19,88 +33,81 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/04/Atrial_fibrillation_01-300x150.jpg"
         },
         {
-            "title": "Prenatal Lead Exposure Tied to MDD Risk in Adulthood",
-            "link": "https://www.medscape.com/viewarticle/prenatal-lead-exposure-tied-significant-risk-major-2025a1000u3q?src=rss",
-            "description": "Prenatal lead exposure is linked to a significantly increased risk for major depression in adulthood. Medscape Medical News",
-            "pubDate": "2025-11-03T11:15:53",
+            "title": "GLP-1 RA May Cut Surgery Risk in Patients With IBD",
+            "link": "https://www.medscape.com/viewarticle/glp-1-ra-may-cut-surgery-risk-patients-ibd-2025a1000u4e?src=rss",
+            "description": "Use of GLP-1 RA in patients with IBD and obesity and/or T2D is significantly associated with weight loss and a reduced risk for surgery. Medscape Medi...",
+            "pubDate": "2025-11-03T13:03:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Self-Injected Med Shows Rapid, Sustained Benefit in gMG",
+            "link": "https://www.medscape.com/viewarticle/self-administered-med-shows-rapid-benefit-mg-2025a1000u5x?src=rss",
+            "description": "Topline phase 3 results show that the novel nanobody gefurulimab is safe and effective for AChR-antibody-positive myasthenia gravis, but long-term res...",
+            "pubDate": "2025-11-03T15:16:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Dual-action mRNA vaccine takes aim at aggressive skin cancer",
+            "link": "https://medicalxpress.com/news/2025-11-dual-action-mrna-vaccine-aim.html",
+            "description": "Yale researchers have developed a new vaccine that does double duty against a rare and aggressive skin cancer by targeting the protein essential to tu...",
+            "pubDate": "2025-11-03T15:55:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "How new advances in 3D bioprinting, organoids and organs on-a-chip aid in the fight against cancer",
+            "link": "https://medicalxpress.com/news/2025-11-advances-3d-bioprinting-organoids-chip.html",
+            "description": "Scientists are exploring leading-edge technologies that could transform how cancer is studied, detected and treated by catching it earlier, when it's ...",
+            "pubDate": "2025-11-03T16:00:10",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Quick CPR from lay rescuers can nearly double survival for children after cardiac arrest",
-            "link": "https://medicalxpress.com/news/2025-10-quick-cpr-lay-rescuers-survival.html",
-            "description": "Cardiopulmonary resuscitation (CPR) performed within five minutes of a child's heart stopping nearly doubled their chances of survival, according to p...",
-            "pubDate": "2025-11-03T10:00:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Detailed map of the developing human brain opens new pathways for Parkinson's treatment",
+            "link": "https://medicalxpress.com/news/2025-11-human-brain-pathways-parkinson-treatment.html",
+            "description": "Scientists from Duke-NUS Medical School and their collaborators have created one of the most comprehensive single cell maps of the developing human br...",
+            "pubDate": "2025-11-03T16:01:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Systemic Therapy for Sjögren Closer With Phase 3 Success",
+            "link": "https://www.medscape.com/viewarticle/systemic-treatment-sj%C3%B6gren-disease-closer-successful-2025a1000u37?src=rss",
+            "description": "Current treatment options have been limited to symptom control. Telitacicept, a novel fusion protein, and ianalumab, a monoclonal antibody, demonstrat...",
+            "pubDate": "2025-11-03T13:24:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "‘Energy Insecurity’ Tied to Anxiety, Depression Risk",
+            "link": "https://www.medscape.com/viewarticle/energy-insecurity-tied-anxiety-depression-risk-2025a1000u4i?src=rss",
+            "description": "Difficulties with paying for household energy needs is linked to increased risk for both anxiety and depression in US adults, a new study suggests. Me...",
+            "pubDate": "2025-11-03T13:07:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Clinical Data on Huntington's Therapy 'Inadequate,' FDA Says",
+            "link": "https://www.medscape.com/s/viewarticle/clinical-data-novel-huntingtons-gene-therapy-inadequate-fda-2025a1000u4o?src=rss",
+            "description": "UniQure, said on Monday the U.S. Food and Drug Administration has deemed clinical data for its gene therapy for Huntington's disease as inadequate. Re...",
+            "pubDate": "2025-11-03T12:18:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Even modest amounts of physical activity may slow Alzheimer's disease among at-risk older adults",
+            "link": "https://medicalxpress.com/news/2025-10-modest-amounts-physical-alzheimer-disease.html",
+            "description": "Increasing your steps by even a little bit may help slow down the progression of Alzheimer's disease among people at heightened risk, according to a n...",
+            "pubDate": "2025-11-03T16:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Why women in medicine need to lift each other up [PODCAST]",
             "link": "https://kevinmd.com/2025/11/why-women-in-medicine-need-to-lift-each-other-up-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Board-certified pediatrician and certified coach Jessie Mahoney discu...",
             "pubDate": "2025-11-03T00:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Long-term use of melatonin supplements to support sleep may have negative heart health effects",
-            "link": "https://medicalxpress.com/news/2025-10-term-melatonin-supplements-negative-heart.html",
-            "description": "Long-term use of melatonin supplements, often used to promote sleep and address insomnia, is associated with a higher risk of heart failure diagnosis,...",
-            "pubDate": "2025-11-03T10:00:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Cholecystectomy Delay Linked to Increased Complication Risk",
-            "link": "https://www.medscape.com/viewarticle/cholecystectomy-delay-linked-substantially-increased-2025a1000u3l?src=rss",
-            "description": "For patients with gallstones blocking the bile duct, delays in gall bladder removal are linked to substantially higher complications. Medscape Medical...",
-            "pubDate": "2025-11-03T10:55:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Optimal cardiovascular health among people with type 2 diabetes may offset dementia risk",
-            "link": "https://medicalxpress.com/news/2025-10-optimal-cardiovascular-health-people-diabetes.html",
-            "description": "Having optimal cardiovascular health may offset the risk of developing mild cognitive impairment and dementia for people with type 2 diabetes (T2D), e...",
-            "pubDate": "2025-11-03T10:00:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Assessing heart-pumping glitch may reduce stroke risk in adults with heart muscle disease",
-            "link": "https://medicalxpress.com/news/2025-10-heart-glitch-adults-muscle-disease.html",
-            "description": "A hidden atrial dysfunction may raise stroke risk in people with transthyretin amyloid cardiomyopathy (ATTR-CM); however, a noninvasive assessment too...",
-            "pubDate": "2025-11-03T10:00:14",
+            "title": "Among youth who vape, study finds rise in daily use and difficulty quitting",
+            "link": "https://medicalxpress.com/news/2025-11-youth-vape-daily-difficulty.html",
+            "description": "Since 2019, overall rates of nicotine vaping have declined among U.S. youth, but those who continue to vape are showing signs of worsening addiction, ...",
+            "pubDate": "2025-11-03T16:00:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Low-dose aspirin linked to lower cardiovascular event risk for adults with type 2 diabetes",
-            "link": "https://medicalxpress.com/news/2025-10-dose-aspirin-linked-cardiovascular-event.html",
-            "description": "People with type 2 diabetes (T2D) and an elevated risk for cardiovascular disease (CVD) who took low-dose aspirin were less likely to experience a maj...",
-            "pubDate": "2025-11-03T10:00:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Novel Iron-Lowering Drug Tied to Slowing of MSA Progression",
-            "link": "https://www.medscape.com/viewarticle/novel-iron-lowering-drug-tied-slowing-multiple-system-2025a1000u3z?src=rss",
-            "description": "ATH434 improves daily function and reduces brain iron in patients with multiple system atrophy, a rare, fatal neurodegenerative disorder with no appro...",
-            "pubDate": "2025-11-03T11:29:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Key Risk Factors Identified for LVSD in Systemic Sclerosis",
-            "link": "https://www.medscape.com/viewarticle/key-risk-factors-identified-left-ventricular-systolic-2025a1000u3i?src=rss",
-            "description": "Distinct demographic, systemic sclerosis-specific, and cardiac factors are linked to a higher risk for left ventricular systolic dysfunction in patien...",
-            "pubDate": "2025-11-03T10:21:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Cannabis for Rheumatic Pain? Experts Call for More Evidence",
-            "link": "https://www.medscape.com/viewarticle/cannabis-rheumatic-pain-experts-call-more-evidence-2025a1000u3f?src=rss",
-            "description": "Despite regulatory progress in many countries, skepticism and a lack of robust randomized trials continue to limit the use of medical cannabis in rheu...",
-            "pubDate": "2025-11-03T10:17:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The time change is a chance to reset your sleep schedule – especially for teens",
-            "link": "https://www.npr.org/2025/11/02/nx-s1-5593446/time-change-teens-sleep-schedule-standard",
-            "description": "Wondering how to help a teen get better sleep? This weekend's time change can be a boost. Here's why. Plus tips from sleep doctors to get more zzzs.",
-            "pubDate": "2025-11-02T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2Ffb%2F8d1e261e4eb6a5cd8c26bce9120b%2Fgettyimages-2180033276.jpg"
         },
         {
             "title": "They were promised a lifeline to 'graduate' from poverty. Then it was taken away",
@@ -110,32 +117,39 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5309x2986+0+0/resize/5309x2986!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F77%2Fcefad80b42caaaab07b855d816b4%2Ftriptych-16x9.jpg"
         },
         {
-            "title": "The problem with laboratory reference ranges",
-            "link": "https://kevinmd.com/2025/11/the-problem-with-laboratory-reference-ranges.html",
-            "description": "Tonight, my lab quietly changed what it considers a “normal” ApoB. On Monday, my patient’s ApoB of 98 mg/dL was comfortably green. On Tuesday, that sa...",
-            "pubDate": "2025-11-02T22:00:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The crisis in modern autism diagnosis",
-            "link": "https://kevinmd.com/2025/11/the-crisis-in-modern-autism-diagnosis.html",
-            "description": "Autism was never meant to be diagnosed in 15 minutes. The original vision, born in war-torn Vienna and postwar Baltimore, called for deep observation,...",
-            "pubDate": "2025-11-02T16:00:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why carrier screening results are complex",
-            "link": "https://kevinmd.com/2025/11/why-carrier-screening-results-are-complex.html",
-            "description": "Carrier screening has outgrown the language we still use to explain it. The rapid expansion of genetic testing has uncovered new layers of complexity ...",
-            "pubDate": "2025-11-02T18:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "The time change is a chance to reset your sleep schedule – especially for teens",
+            "link": "https://www.npr.org/2025/11/02/nx-s1-5593446/time-change-teens-sleep-schedule-standard",
+            "description": "Wondering how to help a teen get better sleep? This weekend's time change can be a boost. Here's why. Plus tips from sleep doctors to get more zzzs.",
+            "pubDate": "2025-11-02T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2Ffb%2F8d1e261e4eb6a5cd8c26bce9120b%2Fgettyimages-2180033276.jpg"
         },
         {
             "title": "My persistent adverse reaction to an SSRI",
             "link": "https://kevinmd.com/2025/11/my-persistent-adverse-reaction-to-an-ssri.html",
             "description": "Two years ago, I took a single 20 mg dose of escitalopram. Like millions of others, I was prescribed this antidepressant with the expectation that it ...",
             "pubDate": "2025-11-02T20:00:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Why carrier screening results are complex",
+            "link": "https://kevinmd.com/2025/11/why-carrier-screening-results-are-complex.html",
+            "description": "Carrier screening has outgrown the language we still use to explain it. The rapid expansion of genetic testing has uncovered new layers of complexity ...",
+            "pubDate": "2025-11-02T18:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "The crisis in modern autism diagnosis",
+            "link": "https://kevinmd.com/2025/11/the-crisis-in-modern-autism-diagnosis.html",
+            "description": "Autism was never meant to be diagnosed in 15 minutes. The original vision, born in war-torn Vienna and postwar Baltimore, called for deep observation,...",
+            "pubDate": "2025-11-02T16:00:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The problem with laboratory reference ranges",
+            "link": "https://kevinmd.com/2025/11/the-problem-with-laboratory-reference-ranges.html",
+            "description": "Tonight, my lab quietly changed what it considers a “normal” ApoB. On Monday, my patient’s ApoB of 98 mg/dL was comfortably green. On Tuesday, that sa...",
+            "pubDate": "2025-11-02T22:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "How one legal team is building support for people with cognitive disabilities",
@@ -152,20 +166,6 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/11/surgeryPD-300x150.jpg"
         },
         {
-            "title": "Public health leaders are meeting to figure out how to counter the MAHA movement",
-            "link": "https://www.npr.org/2025/10/31/nx-s1-5585266/public-health-leaders-are-meeting-to-figure-out-how-to-counter-the-maha-movement",
-            "description": "Public health leaders and researchers are kicking off a meeting in Washington, D.C., to discuss how to counter what they see as dangerous ideas coming...",
-            "pubDate": "2025-10-31T21:05:03",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5585266"
-        },
-        {
-            "title": "Effect of Intensive Blood Pressure Lowering Treatment on Retinal Microvasculature: Secondary Analysis From ESPRIT",
-            "link": "https://www.2minutemedicine.com/effect-of-intensive-blood-pressure-lowering-treatment-on-retinal-microvasculature-secondary-analysis-from-esprit/",
-            "description": "1. Intensive systolic blood pressure (SBP) management reduces hypertension-mediated retinal microvascular damage in populations with high cardiovascul...",
-            "pubDate": "2025-10-31T00:00:35",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/04/bloodpressure2_PD_edited-300x150.jpg"
-        },
-        {
             "title": "Paclitaxel-coated devices do not reduce rates of major amputations in chronic limb-threatening ischemia",
             "link": "https://www.2minutemedicine.com/paclitaxel-coated-devices-do-not-reduce-rates-of-major-amputations-in-chronic-limb-threatening-ischemia/",
             "description": "1. All-cause mortality and reduction in major amputations were similar between groups. 2. The rate of target vessel reintervention was similar in pacl...",
@@ -173,11 +173,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/09/Taxus_stent_FDA-e1607803635904-300x150.jpg"
         },
         {
-            "title": "Clopidogrel monotherapy is superior to aspirin for secondary prevention in coronary artery disease",
-            "link": "https://www.2minutemedicine.com/clopidogrel-monotherapy-is-superior-to-aspirin-for-secondary-prevention-in-coronary-artery-disease/",
-            "description": "1. Major adverse cardiovascular and cerebrovascular events were significantly reduced with clopidogrel compared to aspirin alone. 2. There was no sign...",
-            "pubDate": "2025-10-30T22:55:47",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/pills_pd_edited-300x150.jpg"
+            "title": "Effect of Intensive Blood Pressure Lowering Treatment on Retinal Microvasculature: Secondary Analysis From ESPRIT",
+            "link": "https://www.2minutemedicine.com/effect-of-intensive-blood-pressure-lowering-treatment-on-retinal-microvasculature-secondary-analysis-from-esprit/",
+            "description": "1. Intensive systolic blood pressure (SBP) management reduces hypertension-mediated retinal microvascular damage in populations with high cardiovascul...",
+            "pubDate": "2025-10-31T00:00:35",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/04/bloodpressure2_PD_edited-300x150.jpg"
         }
     ]
 }
