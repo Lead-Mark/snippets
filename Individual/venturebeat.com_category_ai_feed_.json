@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-02T01:45:57.441760",
+    "lastBuildDate": "2025-11-02T23:51:37.969238",
     "items": [
+        {
+            "title": "Moving past speculation: How deterministic CPUs deliver predictable AI performance",
+            "link": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai",
+            "description": "For more than three decades, modern CPUs have relied on speculative execution to keep pipelines full. When it emerged in the 1990s, speculation was ha...",
+            "pubDate": "2025-11-02T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7xDQkK3UJNPCfHY5rmlmLW/4b5264fdd5c1156b8c4863814660dadd/Modern_data_infrastructure.png?w=300&q=30"
+        },
         {
             "title": "Large reasoning models almost certainly can think",
             "link": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think",
@@ -31,13 +38,6 @@
             "description": "Researchers at Meta FAIR and the University of Edinburgh have developed a new technique that can predict the correctness of a large language model's (...",
             "pubDate": "2025-10-30T01:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2OkRgL73ZtEWb7eTlVXcOQ/07d98278f0ffa3fe571924f478e410a1/LLM_reasoning.jpg?w=300&q=30"
-        },
-        {
-            "title": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost",
-            "link": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising",
-            "description": "The vibe coding tool Cursor, from startup Anysphere , has introduced Composer , its first in-house, proprietary coding large language model (LLM) as p...",
-            "pubDate": "2025-10-29T20:28:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3XICNbOGJJDY7SoZx0m1SV/4b4ec66e5aa6a03194e432369e6e6ac8/cfr0z3n_flat_illustration_elegant_constructivist_1920s_art_deco_6818187a-93ac-437e-af85-43b96b2507a5.png?w=300&q=30"
         }
     ]
 }
