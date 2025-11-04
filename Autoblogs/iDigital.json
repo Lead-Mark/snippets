@@ -2,14 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-03T16:34:39.235122",
+    "lastBuildDate": "2025-11-04T06:45:08.512012",
     "items": [
         {
-            "title": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeat’s New Managing Editor",
-            "link": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing",
-            "description": "I’m thrilled to announce a fantastic new addition to our leadership team: Karyne Levy is joining VentureBeat as our new Managing Editor. Today is her ...",
-            "pubDate": "2025-11-03T15:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3M8UYGsdxlIyYdOeQxU2Eo/3703cc8b9b2839a667c762773d65b725/Gemini_Generated_Image_n6phqnn6phqnn6ph.png?w=300&q=30"
+            "title": "Developers beware: Google’s Gemma model controversy exposes model lifecycle risks",
+            "link": "https://venturebeat.com/ai/developers-beware-googles-gemma-model-controversy-exposes-model-lifecycle",
+            "description": "The recent controversy surrounding Google ’s Gemma model has once again highlighted the dangers of using developer test models and the fleeting nature...",
+            "pubDate": "2025-11-03T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5qNV2RpIAeBQOQANXVwft6/ba2fb53327b104d5d3b6fe084f427e4d/gemma-3-270m.png?w=300&q=30"
+        },
+        {
+            "title": "Meet Denario, the AI ‘research assistant’ that is already getting its own papers published",
+            "link": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own",
+            "description": "An international team of researchers has released an artificial intelligence system capable of autonomously conducting scientific research across mult...",
+            "pubDate": "2025-11-03T09:40:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3vIbj1xm8lwmfZQ7qEASzr/9f0690cb8087927276c290678be0e26c/nuneybits_Vector_art_of_data_flowing_into_a_book_c0036116-c0b9-48bb-9dbf-7986efe147d1.webp?w=300&q=30"
         },
         {
             "title": "AgiBot deploys its Real-World Reinforcement Learning system",
@@ -19,32 +26,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AgiBot-RL-featured.jpg"
         },
         {
-            "title": "The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation",
-            "link": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup",
-            "description": "The buzzed-about but still stealthy New York City startup Augmented Intelligence Inc (AUI) , which seeks to go beyond the popular \"transformer\" archit...",
-            "pubDate": "2025-11-03T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4igdWans9zhjcEbMEhNvi2/df1b7697d86e37a001cfc65dbe5524ab/cfr0z3n_no_bracelets_or_watches_remove_and_keep_unadorned_--cha_9327ad90-cbcb-46f3-9695-65a002bd7142.png?w=300&q=30"
-        },
-        {
             "title": "Envalior offers PFAS-free materials for wear and friction applications",
             "link": "https://www.therobotreport.com/envalior-offers-pfas-free-materials-wear-friction-applications/",
             "description": "Envalior says its Stanyl materials can replace 'forever chemicals' in bearings, gears, seals, and bushings for cobots. The post Envalior offers PFAS-f...",
             "pubDate": "2025-11-03T16:55:48",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Envalior_gear.jpg"
-        },
-        {
-            "title": "This startup wants to clean up the copper industry",
-            "link": "https://www.technologyreview.com/2025/11/03/1127474/copper-smelting-chemistry-clean/",
-            "description": "Demand for copper is surging, as is pollution from its dirty production processes. The founders of one startup, Still Bright, think they have a better...",
-            "pubDate": "2025-11-03T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Copy-of-HAX_MeasuringConcentrate_Max.jpg?w=734"
-        },
-        {
-            "title": "The Download: gene-edited babies, and cleaning up copper",
-            "link": "https://www.technologyreview.com/2025/11/03/1127483/the-download-gene-edited-babies-and-cleaning-up-copper/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s the l...",
-            "pubDate": "2025-11-03T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_95dc35.png"
         },
         {
             "title": "Waymo is bringing its robotaxis to Las Vegas, San Diego, and Detroit",
@@ -54,6 +40,20 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/waymo-featured.jpg"
         },
         {
+            "title": "The Download: gene-edited babies, and cleaning up copper",
+            "link": "https://www.technologyreview.com/2025/11/03/1127483/the-download-gene-edited-babies-and-cleaning-up-copper/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s the l...",
+            "pubDate": "2025-11-03T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_95dc35.png"
+        },
+        {
+            "title": "The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation",
+            "link": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup",
+            "description": "The buzzed-about but still stealthy New York City startup Augmented Intelligence Inc (AUI) , which seeks to go beyond the popular \"transformer\" archit...",
+            "pubDate": "2025-11-03T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4igdWans9zhjcEbMEhNvi2/df1b7697d86e37a001cfc65dbe5524ab/cfr0z3n_no_bracelets_or_watches_remove_and_keep_unadorned_--cha_9327ad90-cbcb-46f3-9695-65a002bd7142.png?w=300&q=30"
+        },
+        {
             "title": "The State of AI: Is China about to win the race?",
             "link": "https://www.technologyreview.com/2025/11/03/1126780/the-state-of-ai-is-china-about-to-win-the-race/",
             "description": "The State of AI is a collaboration between the Financial Times & MIT Technology Review examining the ways in which AI is reshaping global power. Every...",
@@ -61,11 +61,25 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR_FT_small.png"
         },
         {
-            "title": "Moving past speculation: How deterministic CPUs deliver predictable AI performance",
-            "link": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai",
-            "description": "For more than three decades, modern CPUs have relied on speculative execution to keep pipelines full. When it emerged in the 1990s, speculation was ha...",
-            "pubDate": "2025-11-02T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7xDQkK3UJNPCfHY5rmlmLW/4b5264fdd5c1156b8c4863814660dadd/Modern_data_infrastructure.png?w=300&q=30"
+            "title": "This startup wants to clean up the copper industry",
+            "link": "https://www.technologyreview.com/2025/11/03/1127474/copper-smelting-chemistry-clean/",
+            "description": "Demand for copper is surging, as is pollution from its dirty production processes. The founders of one startup, Still Bright, think they have a better...",
+            "pubDate": "2025-11-03T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Copy-of-HAX_MeasuringConcentrate_Max.jpg?w=734"
+        },
+        {
+            "title": "Top 10 robotics developments of October 2025",
+            "link": "https://www.therobotreport.com/top-10-october-2025-robotics-developments/",
+            "description": "The return of RoboBusiness, which took place in Silicon Valley, was among the industry highlights of October 2025. The post Top 10 robotics developmen...",
+            "pubDate": "2025-11-03T19:49:01",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Dr.-Fukami-with-Banner-copy-300x194.jpg"
+        },
+        {
+            "title": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeat’s New Managing Editor",
+            "link": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing",
+            "description": "I’m thrilled to announce a fantastic new addition to our leadership team: Karyne Levy is joining VentureBeat as our new Managing Editor. Today is her ...",
+            "pubDate": "2025-11-03T15:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3M8UYGsdxlIyYdOeQxU2Eo/3703cc8b9b2839a667c762773d65b725/Gemini_Generated_Image_n6phqnn6phqnn6ph.png?w=300&q=30"
         },
         {
             "title": "Why automation is the medicine that hospitals and the healthcare system needs",
@@ -75,25 +89,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/robots-at-cleveland-clinics-article-diana-davoyan-copy.jpg"
         },
         {
-            "title": "Bats inspire WPI researchers to develop drones using echolocation",
-            "link": "https://www.therobotreport.com/wpi-researchers-create-bat-inspired-search-rescue-drones/",
-            "description": "WPI researchers are enabling aerial robots, smaller than 100 mm and weighing less than 100 g, to navigate without relying on vision. The post Bats ins...",
-            "pubDate": "2025-11-01T16:32:19",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/RBE_Sanket_Tiny-Rescue-Aerial-Robots-featured.jpg"
-        },
-        {
-            "title": "Large reasoning models almost certainly can think",
-            "link": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think",
-            "description": "Recently, there has been a lot of hullabaloo about the idea that large reasoning models (LRM) are unable to think. This is mostly due to a research ar...",
-            "pubDate": "2025-11-01T06:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2H0JnerwnmfHRZsVcEeKE6/ac3bd8c2d3ed025d025a30db64bcb8de/LLMs_can_think.png?w=300&q=30"
-        },
-        {
-            "title": "Inside Celosphere 2025: Why there’s no ‘enterprise AI’ without process intelligence",
-            "link": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process",
-            "description": "Presented by Celonis AI adoption is accelerating, but results often lag expectations. And enterprise leaders are under pressure to prove measurable RO...",
-            "pubDate": "2025-10-31T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3rNlhuyCtBRL2JQhpgaSY8/a8139f9a3ea341c37e423b25ee108153/AdobeStock_1086502186.jpeg?w=300&q=30"
+            "title": "Moving past speculation: How deterministic CPUs deliver predictable AI performance",
+            "link": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai",
+            "description": "For more than three decades, modern CPUs have relied on speculative execution to keep pipelines full. When it emerged in the 1990s, speculation was ha...",
+            "pubDate": "2025-11-02T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7xDQkK3UJNPCfHY5rmlmLW/4b5264fdd5c1156b8c4863814660dadd/Modern_data_infrastructure.png?w=300&q=30"
         },
         {
             "title": "The Download: down the Mandela effect rabbit hole, and the promise of a vaccine for colds",
@@ -107,7 +107,7 @@
             "link": "https://www.technologyreview.com/2025/10/31/1127461/heres-the-latest-company-planning-for-gene-edited-babies/",
             "description": "A West Coast biotech entrepreneur says he’s secured $30 million to form a public-benefit company to study how to safely create genetically edited babi...",
             "pubDate": "2025-10-31T20:27:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
