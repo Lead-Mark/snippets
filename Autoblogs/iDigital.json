@@ -2,22 +2,8 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-04T11:06:17.440099",
+    "lastBuildDate": "2025-11-04T16:56:20.124854",
     "items": [
-        {
-            "title": "Inside Zendesk’s dual AI leap: From reliable agents to real-time intelligence with GPT-5 and HyperArc",
-            "link": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence",
-            "description": "Presented by Zendesk Agentic AI is currently transforming three key areas of work — creative, coding, and support — says Shashi Upadhyay, president of...",
-            "pubDate": "2025-11-04T04:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3A1V6wmdmtvqCufzm5ImTe/d6992106fc91da6b10e9dc7a63a264d5/AdobeStock_1768576457.jpeg?w=300&q=30"
-        },
-        {
-            "title": "Grubhub partners with Avride for the future of food delivery",
-            "link": "https://www.therobotreport.com/grubhub-partners-avride-future-food-delivery/",
-            "description": "Avride has partnered with Grubhub to bring robotic deliveries beyond college campuses, helping to address traffic and safety concerns. The post Grubhu...",
-            "pubDate": "2025-11-04T13:30:19",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Avride_NYC.jpg"
-        },
         {
             "title": "Forget Fine-Tuning: SAP’s RPT-1 Brings Ready-to-Use AI for Business Tasks",
             "link": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks",
@@ -33,6 +19,13 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_e2c159.png"
         },
         {
+            "title": "Inside Zendesk’s dual AI leap: From reliable agents to real-time intelligence with GPT-5 and HyperArc",
+            "link": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence",
+            "description": "Presented by Zendesk Agentic AI is currently transforming three key areas of work — creative, coding, and support — says Shashi Upadhyay, president of...",
+            "pubDate": "2025-11-04T04:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3A1V6wmdmtvqCufzm5ImTe/d6992106fc91da6b10e9dc7a63a264d5/AdobeStock_1768576457.jpeg?w=300&q=30"
+        },
+        {
             "title": "100 robotics startups to watch",
             "link": "https://www.therobotreport.com/100-robotics-startups-to-watch/",
             "description": "The Startup Radar profiles 100 robotics startups, each five years old or younger, that are working to shape the future of robotics. The post 100 robot...",
@@ -40,25 +33,53 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/RR_TopStartup2025_Page_Cover-276x300.png"
         },
         {
-            "title": "2026 RBR50 Robotics Innovation Awards open for nominations",
-            "link": "https://www.therobotreport.com/2026-rbr50-robotics-innovation-awards-open-for-nominations/",
-            "description": "2026 RBR50 Robotics Innovation Awards will recognize the leading technologies, businesses, startups, and applications of the past year. The post 2026 ...",
-            "pubDate": "2025-11-04T15:56:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Grubhub partners with Avride for the future of food delivery",
+            "link": "https://www.therobotreport.com/grubhub-partners-avride-future-food-delivery/",
+            "description": "Avride has partnered with Grubhub to bring robotic deliveries beyond college campuses, helping to address traffic and safety concerns. The post Grubhu...",
+            "pubDate": "2025-11-04T13:30:19",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Avride_NYC.jpg"
+        },
+        {
+            "title": "Databricks research reveals that building better AI judges isn't just a technical concern, it's a people problem",
+            "link": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a",
+            "description": "The intelligence of AI models isn't what's blocking enterprise deployments. It's the inability to define and measure quality in the first place. That'...",
+            "pubDate": "2025-11-04T20:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/75UWyAdt4L6TmmJjkbVDJu/96a54479b06fb94b7d13366ad4f046af/ouroboros-ai-smk.jpg?w=300&q=30"
+        },
+        {
+            "title": "Attention ISN'T all you need?! New Qwen3 variant Brumby-14B-Base leverages Power Retention technique",
+            "link": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages",
+            "description": "When the transformer architecture was introduced in 2017 in the now seminal Google paper \" Attention Is All You Need ,\" it became an instant cornersto...",
+            "pubDate": "2025-11-04T19:37:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4w8pJoJCpKW8g1eJxxgy3f/c8d0f3a8431956228510e551a2b474f1/aRNZNKxpXqqt3S_iXlQfh_71e40940f61b4bf89d6b5f5cbeafd63e.png?w=300&q=30"
+        },
+        {
+            "title": "98% of market researchers use AI daily, but 4 in 10 say it makes errors — revealing a major trust problem",
+            "link": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors",
+            "description": "Market researchers have embraced artificial intelligence at a staggering pace, with 98% of professionals now incorporating AI tools into their work an...",
+            "pubDate": "2025-11-04T08:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/69hFvbU4ambt5HRDl1GrZa/1a33a47f699ce8af5cf3783ee71cb52c/nuneybits_Vector_art_of_magnifying_glass_revealing_AI_errors_fed1833a-d173-4100-bd60-4e3416c7e83b.webp?w=300&q=30"
+        },
+        {
+            "title": "How ODW Logistics is Innovating with Automation",
+            "link": "https://www.therobotreport.com/how-odw-logistics-is-innovating-with-automation/",
+            "description": "Explore how ODW Logistics and Zebra Robotics revolutionize logistics with innovative automation solutions, enhancing efficiency and employee engagemen...",
+            "pubDate": "2025-11-04T20:52:17",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Cody-Upp-Headshot-250.jpg"
         },
         {
             "title": "Why the for-profit race into solar geoengineering is bad for science and public trust",
             "link": "https://www.technologyreview.com/2025/11/04/1127532/why-the-for-profit-race-into-solar-geoengineering-is-bad-for-science-and-public-trust/",
             "description": "Last week, an American-Israeli company that claims it’s developed proprietary technology to cool the planet announced it had raised $60 million, by fa...",
             "pubDate": "2025-11-04T14:47:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeat’s New Managing Editor",
-            "link": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing",
-            "description": "I’m thrilled to announce a fantastic new addition to our leadership team: Karyne Levy is joining VentureBeat as our new Managing Editor. Today is her ...",
-            "pubDate": "2025-11-03T15:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3M8UYGsdxlIyYdOeQxU2Eo/3703cc8b9b2839a667c762773d65b725/Gemini_Generated_Image_n6phqnn6phqnn6ph.png?w=300&q=30"
+            "title": "2026 RBR50 Robotics Innovation Awards open for nominations",
+            "link": "https://www.therobotreport.com/2026-rbr50-robotics-innovation-awards-open-for-nominations/",
+            "description": "2026 RBR50 Robotics Innovation Awards will recognize the leading technologies, businesses, startups, and applications of the past year. The post 2026 ...",
+            "pubDate": "2025-11-04T15:56:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "This startup wants to clean up the copper industry",
@@ -68,32 +89,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Copy-of-HAX_MeasuringConcentrate_Max.jpg?w=734"
         },
         {
-            "title": "The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation",
-            "link": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup",
-            "description": "The buzzed-about but still stealthy New York City startup Augmented Intelligence Inc (AUI) , which seeks to go beyond the popular \"transformer\" archit...",
-            "pubDate": "2025-11-03T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4igdWans9zhjcEbMEhNvi2/df1b7697d86e37a001cfc65dbe5524ab/cfr0z3n_no_bracelets_or_watches_remove_and_keep_unadorned_--cha_9327ad90-cbcb-46f3-9695-65a002bd7142.png?w=300&q=30"
-        },
-        {
-            "title": "AgiBot deploys its Real-World Reinforcement Learning system",
-            "link": "https://www.therobotreport.com/agibot-deploys-real-world-reinforcement-learning-system/",
-            "description": "AgiBot said its Real-World Reinforcement Learning system lets robots learn new skills in minutes on a pilot production line. The post AgiBot deploys i...",
-            "pubDate": "2025-11-03T19:29:53",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AgiBot-RL-featured.jpg"
-        },
-        {
-            "title": "Top 10 robotics developments of October 2025",
-            "link": "https://www.therobotreport.com/top-10-october-2025-robotics-developments/",
-            "description": "The return of RoboBusiness, which took place in Silicon Valley, was among the industry highlights of October 2025. The post Top 10 robotics developmen...",
-            "pubDate": "2025-11-03T19:49:01",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Dr.-Fukami-with-Banner-copy-300x194.jpg"
-        },
-        {
-            "title": "Meet Denario, the AI ‘research assistant’ that is already getting its own papers published",
-            "link": "https://venturebeat.com/ai/meet-denario-the-ai-research-assistant-that-is-already-getting-its-own",
-            "description": "An international team of researchers has released an artificial intelligence system capable of autonomously conducting scientific research across mult...",
-            "pubDate": "2025-11-03T09:40:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3vIbj1xm8lwmfZQ7qEASzr/9f0690cb8087927276c290678be0e26c/nuneybits_Vector_art_of_data_flowing_into_a_book_c0036116-c0b9-48bb-9dbf-7986efe147d1.webp?w=300&q=30"
+            "title": "The State of AI: Is China about to win the race?",
+            "link": "https://www.technologyreview.com/2025/11/03/1126780/the-state-of-ai-is-china-about-to-win-the-race/",
+            "description": "The State of AI is a collaboration between the Financial Times & MIT Technology Review examining the ways in which AI is reshaping global power. Every...",
+            "pubDate": "2025-11-03T15:46:26",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR_FT_small.png"
         },
         {
             "title": "The Download: gene-edited babies, and cleaning up copper",
@@ -103,18 +103,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_95dc35.png"
         },
         {
-            "title": "The State of AI: Is China about to win the race?",
-            "link": "https://www.technologyreview.com/2025/11/03/1126780/the-state-of-ai-is-china-about-to-win-the-race/",
-            "description": "The State of AI is a collaboration between the Financial Times & MIT Technology Review examining the ways in which AI is reshaping global power. Every...",
-            "pubDate": "2025-11-03T15:46:26",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR_FT_small.png"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Top 10 robotics developments of October 2025",
+            "link": "https://www.therobotreport.com/top-10-october-2025-robotics-developments/",
+            "description": "The return of RoboBusiness, which took place in Silicon Valley, was among the industry highlights of October 2025. The post Top 10 robotics developmen...",
+            "pubDate": "2025-11-03T19:49:01",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Dr.-Fukami-with-Banner-copy-300x194.jpg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -129,6 +122,13 @@
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
