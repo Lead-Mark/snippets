@@ -2,21 +2,21 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-04T06:44:59.785128",
+    "lastBuildDate": "2025-11-04T11:06:09.173764",
     "items": [
+        {
+            "title": "Homemade Beef Broth",
+            "link": "https://therecipecritic.com/homemade-beef-broth/",
+            "description": "This rich, flavorful homemade beef broth is slow-simmered from roasted bones, vegetables, and herbs for lots of flavor. It’s perfect…",
+            "pubDate": "2025-11-04T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/homemade-beef-broth-.jpg"
+        },
         {
             "title": "Sausage Stuffing Balls",
             "link": "https://therecipecritic.com/stuffing-balls/",
             "description": "I’m telling you guys right now, sausage stuffing balls are the best part of my holiday table. They’re crispy on…",
             "pubDate": "2025-11-03T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/sausage-stuffing-balls.jpg"
-        },
-        {
-            "title": "Hobo Stew",
-            "link": "https://therecipecritic.com/hobo-stew/",
-            "description": "If groceries feel higher than ever, you’re not alone. That’s why I love hobo stew. It’s cozy, hearty, and made…",
-            "pubDate": "2025-11-02T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/hobo-stew-1.jpg"
         },
         {
             "title": "Stuffed Mushroom Dip",
@@ -26,11 +26,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/paper-bag-pie-4.jpg"
         },
         {
-            "title": "Weekly Meal Plan #65",
-            "link": "https://therecipecritic.com/weekly-meal-plan-65/",
-            "description": "Between errands, work, and everything else, dinner shouldn’t be another decision to make. This weekly meal plan keeps things simple,…",
-            "pubDate": "2025-11-01T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/Week-65-Meal-Plan-Collage-.jpg"
+            "title": "Hobo Stew",
+            "link": "https://therecipecritic.com/hobo-stew/",
+            "description": "If groceries feel higher than ever, you’re not alone. That’s why I love hobo stew. It’s cozy, hearty, and made…",
+            "pubDate": "2025-11-02T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/hobo-stew-1.jpg"
         },
         {
             "title": "9 Recipes to Make with Rotisserie Chicken",
