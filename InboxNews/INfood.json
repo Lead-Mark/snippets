@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-05T06:54:45.585050",
+    "lastBuildDate": "2025-11-05T11:08:30.441164",
     "items": [
+        {
+            "title": "Easy Turkey Gravy",
+            "link": "https://therecipecritic.com/turkey-gravy/",
+            "description": "Rich, creamy, and ready in minutes, this turkey gravy is pure holiday comfort. Once you pour it over your turkey…",
+            "pubDate": "2025-11-05T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2019/10/turkey_gravy_hero.jpg"
+        },
         {
             "title": "Homemade Beef Broth",
             "link": "https://therecipecritic.com/homemade-beef-broth/",
@@ -31,13 +38,6 @@
             "description": "Trust me, this Stuffed Mushroom Dip is way easier (and honestly better) than making stuffed mushrooms. You skip all the…",
             "pubDate": "2025-11-02T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/paper-bag-pie-4.jpg"
-        },
-        {
-            "title": "9 Recipes to Make with Rotisserie Chicken",
-            "link": "https://therecipecritic.com/9-recipes-to-make-with-rotisserie-chicken/",
-            "description": "Let’s chat costs. Grocery prices are no joke right now, so I wanted to put together something that actually helps…",
-            "pubDate": "2025-11-01T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2021/03/airfryerwholechicken.jpg"
         },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",
