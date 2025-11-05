@@ -2,14 +2,28 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-05T11:08:40.352674",
+    "lastBuildDate": "2025-11-05T16:37:31.967984",
     "items": [
+        {
+            "title": "Google Cloud updates its AI Agent Builder with new observability dashboard and faster build-and-deploy tools",
+            "link": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into",
+            "description": "Google Cloud has introduced a big update in a bid to keep AI d evelopers on its Vertex AI platform for concepting, designing, building, testing, deplo...",
+            "pubDate": "2025-11-05T17:44:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/T84hNL2FLkCHG8Qpdt8AR/8ad71c54daf9b7e5a06242ac44108a23/crimedy7_illustration_of_robots_constructing_a_building_vivid_40fa4859-c9cc-453b-ad1e-3f01969c44fe_2.png?w=300&q=30"
+        },
         {
             "title": "From logs to insights: The AI breakthrough redefining observability",
             "link": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability",
             "description": "Presented by Elastic Logs set to become the primary tool for finding the “why” in diagnosing network incidents Modern IT environments have a data prob...",
             "pubDate": "2025-11-05T05:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/27gJHUFa8zIMnql7WcOsgp/ac5e9d96209e2fea9f36db14be5dd724/AdobeStock_1211315173.jpeg?w=300&q=30"
+        },
+        {
+            "title": "AI’s capacity crunch: Latency risk, escalating costs, and the coming surge-pricing breakpoint",
+            "link": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge",
+            "description": "The latest big headline in AI isn’t model size or multimodality — it’s the capacity crunch. At VentureBeat’s latest AI Impact stop in NYC, Val Bercovi...",
+            "pubDate": "2025-11-05T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/Z0ecVj8UE6ALfA9cdHKDj/355e6c934bf0f4fc5d27927d40f396d1/Still_2025-10-27_192739_3.1.2.png?w=300&q=30"
         },
         {
             "title": "Databricks research reveals that building better AI judges isn't just a technical concern, it's a people problem",
@@ -24,20 +38,6 @@
             "description": "When the transformer architecture was introduced in 2017 in the now seminal Google paper \" Attention Is All You Need ,\" it became an instant cornersto...",
             "pubDate": "2025-11-04T19:37:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4w8pJoJCpKW8g1eJxxgy3f/c8d0f3a8431956228510e551a2b474f1/aRNZNKxpXqqt3S_iXlQfh_71e40940f61b4bf89d6b5f5cbeafd63e.png?w=300&q=30"
-        },
-        {
-            "title": "98% of market researchers use AI daily, but 4 in 10 say it makes errors — revealing a major trust problem",
-            "link": "https://venturebeat.com/ai/98-of-market-researchers-use-ai-daily-but-4-in-10-say-it-makes-errors",
-            "description": "Market researchers have embraced artificial intelligence at a staggering pace, with 98% of professionals now incorporating AI tools into their work an...",
-            "pubDate": "2025-11-04T08:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/69hFvbU4ambt5HRDl1GrZa/1a33a47f699ce8af5cf3783ee71cb52c/nuneybits_Vector_art_of_magnifying_glass_revealing_AI_errors_fed1833a-d173-4100-bd60-4e3416c7e83b.webp?w=300&q=30"
-        },
-        {
-            "title": "Forget Fine-Tuning: SAP’s RPT-1 Brings Ready-to-Use AI for Business Tasks",
-            "link": "https://venturebeat.com/ai/forget-fine-tuning-saps-rpt-1-brings-ready-to-use-ai-for-business-tasks",
-            "description": "SAP aims to displace more general large language models with the release of its own foundational “tabular” model, which the company claims will reduce...",
-            "pubDate": "2025-11-04T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5g7xV36aNl7PqllpWpReld/6ffe5f74c51111a0fcac396e36cbe565/crimedy7_illustration_of_excel_sheets_but_digital_and_electro_5a6d1d66-2e06-4305-bd78-4ccb05874d5d_3.png?w=300&q=30"
         }
     ]
 }
