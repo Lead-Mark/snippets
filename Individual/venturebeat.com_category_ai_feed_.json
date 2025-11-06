@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-06T07:12:30.011572",
+    "lastBuildDate": "2025-11-06T11:15:13.920466",
     "items": [
+        {
+            "title": "Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions",
+            "link": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal",
+            "description": "Google Cloud is introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generation Tensor Proc...",
+            "pubDate": "2025-11-06T13:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3wiaJuUTbBrUaBp8cSXtO4/81095c7817da6a2967a961ed60356ed4/Ironwood_board.jpg?w=300&q=30"
+        },
+        {
+            "title": "The compute rethink: Scaling AI where data lives, at the edge",
+            "link": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge",
+            "description": "Presented by Arm AI is no longer confined to the cloud or data centers. Increasingly, it’s running directly where data is created — in devices, sensor...",
+            "pubDate": "2025-11-06T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ERDb8KPErLVHncySz9rfu/b8f28a9fe706982175c4a8310f45ea90/AdobeStock_624772113.jpeg?w=300&q=30"
+        },
+        {
+            "title": "From prototype to production: What vibe coding tools must fix for enterprise adoption",
+            "link": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise",
+            "description": "Presented by Salesforce Vibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, ...",
+            "pubDate": "2025-11-06T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Tb1BL75AhuG8odK9Kz0XF/5237845c829eb7c9f8d20b41fcdbd9da/AdobeStock_1628357042.jpeg?w=300&q=30"
+        },
         {
             "title": "Google Cloud updates its AI Agent Builder with new observability dashboard and faster build-and-deploy tools",
             "link": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into",
@@ -12,32 +33,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/T84hNL2FLkCHG8Qpdt8AR/8ad71c54daf9b7e5a06242ac44108a23/crimedy7_illustration_of_robots_constructing_a_building_vivid_40fa4859-c9cc-453b-ad1e-3f01969c44fe_2.png?w=300&q=30"
         },
         {
-            "title": "From logs to insights: The AI breakthrough redefining observability",
-            "link": "https://venturebeat.com/ai/from-logs-to-insights-the-ai-breakthrough-redefining-observability",
-            "description": "Presented by Elastic Logs set to become the primary tool for finding the “why” in diagnosing network incidents Modern IT environments have a data prob...",
-            "pubDate": "2025-11-05T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/27gJHUFa8zIMnql7WcOsgp/ac5e9d96209e2fea9f36db14be5dd724/AdobeStock_1211315173.jpeg?w=300&q=30"
-        },
-        {
             "title": "AI’s capacity crunch: Latency risk, escalating costs, and the coming surge-pricing breakpoint",
             "link": "https://venturebeat.com/ai/ais-capacity-crunch-latency-risk-escalating-costs-and-the-coming-surge",
             "description": "The latest big headline in AI isn’t model size or multimodality — it’s the capacity crunch. At VentureBeat’s latest AI Impact stop in NYC, Val Bercovi...",
             "pubDate": "2025-11-05T05:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4htZ4RXS4bpdlPbXEaKYhp/1dd9f6065c85eae3d9e3e44acda4c7fa/IMG_8825.jpg?w=300&q=30"
-        },
-        {
-            "title": "Databricks research reveals that building better AI judges isn't just a technical concern, it's a people problem",
-            "link": "https://venturebeat.com/ai/databricks-research-reveals-that-building-better-ai-judges-isnt-just-a",
-            "description": "The intelligence of AI models isn't what's blocking enterprise deployments. It's the inability to define and measure quality in the first place. That'...",
-            "pubDate": "2025-11-04T20:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/75UWyAdt4L6TmmJjkbVDJu/96a54479b06fb94b7d13366ad4f046af/ouroboros-ai-smk.jpg?w=300&q=30"
-        },
-        {
-            "title": "Attention ISN'T all you need?! New Qwen3 variant Brumby-14B-Base leverages Power Retention technique",
-            "link": "https://venturebeat.com/ai/attention-isnt-all-you-need-new-qwen3-variant-brumby-14b-base-leverages",
-            "description": "When the transformer architecture was introduced in 2017 in the now seminal Google paper \" Attention Is All You Need ,\" it became an instant cornersto...",
-            "pubDate": "2025-11-04T19:37:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4w8pJoJCpKW8g1eJxxgy3f/c8d0f3a8431956228510e551a2b474f1/aRNZNKxpXqqt3S_iXlQfh_71e40940f61b4bf89d6b5f5cbeafd63e.png?w=300&q=30"
         }
     ]
 }

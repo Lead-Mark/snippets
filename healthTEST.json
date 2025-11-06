@@ -2,21 +2,21 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-06T07:13:09.069693",
+    "lastBuildDate": "2025-11-06T11:15:51.464678",
     "items": [
-        {
-            "title": "Bird flu surges among poultry amid a scaled back federal response",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5600125/bird-flu-risk-outbreak-trump-administration",
-            "description": "Migrating wild birds are spreading the virus to domesticated flocks, increasing the risk of eventually seeing a human outbreak. Scientists are trouble...",
-            "pubDate": "2025-11-06T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F9d%2F1450a56e446ca17bab6a2fb18e95%2Fgettyimages-1246952878.jpg"
-        },
         {
             "title": "The shutdown leaves telehealth for Medicare patients in limbo",
             "link": "https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5599542/medicare-telehealth-government-shutdown-2025",
             "description": "Telehealth for Medicare started during the pandemic and became popular quickly. But the shutdown put an abrupt halt to payments for the service.",
             "pubDate": "2025-11-06T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3872x2582+0+0/resize/3872x2582!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Ff2%2Fd16ea2e746f3a34f91f343e70cbc%2Fgettyimages-1406033019.jpg"
+        },
+        {
+            "title": "AI steps in to detect the world's deadliest infectious disease",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/11/06/g-s1-96448/ai-artificial-intelligence-tb-tuberculosis",
+            "description": "There's a global shortage of radiologists. Now artificial intelligence is helping speed up the diagnosis of tuberculosis in hard-to-reach communities.",
+            "pubDate": "2025-11-06T12:30:30",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1776x999+0+0/resize/1776x999!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2Fa5%2F2b06ebe643fba2be5b5bae35d782%2Ftb-diptych3-final.jpg"
         },
         {
             "title": "Gender differences in clinical features, comorbidities and prognostic outcomes in idiopathic pulmonary fibrosis-a retrospective cohort analysis from the British Thoracic Society Interstitial Lung Disease Registry",
@@ -26,10 +26,31 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/08/Thoracic_anatomy_edited-300x150.jpg"
         },
         {
-            "title": "Common heartburn and blood pressure medicines linked to adverse breast cancer outcomes in large global study",
-            "link": "https://medicalxpress.com/news/2025-11-common-heartburn-blood-pressure-medicines.html",
-            "description": "A major international study involving 23,000 people has found concerning evidence about the impact of a range of common, everyday medications on the t...",
-            "pubDate": "2025-11-06T10:59:04",
+            "title": "Bird flu surges among poultry amid a scaled back federal response",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5600125/bird-flu-risk-outbreak-trump-administration",
+            "description": "Migrating wild birds are spreading the virus to domesticated flocks, increasing the risk of eventually seeing a human outbreak. Scientists are trouble...",
+            "pubDate": "2025-11-06T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F9d%2F1450a56e446ca17bab6a2fb18e95%2Fgettyimages-1246952878.jpg"
+        },
+        {
+            "title": "Brain-computer interface decodes Mandarin from neural signals in real time",
+            "link": "https://medicalxpress.com/news/2025-11-brain-interface-decodes-mandarin-neural.html",
+            "description": "Researchers in Shanghai have reported in a study, recently published in Science Advances, that they've successfully decoded Mandarin Chinese language ...",
+            "pubDate": "2025-11-06T16:11:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Human stomach cells tweaked to produce insulin in diabetes treatment study",
+            "link": "https://medicalxpress.com/news/2025-11-human-stomach-cells-tweaked-insulin.html",
+            "description": "Type 1 diabetes is caused by an insufficient production of the hormone insulin by cells in the pancreas called beta cells and is estimated to affect 9...",
+            "pubDate": "2025-11-06T16:00:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Immune overreactions explained: How killer T cells turn against the body",
+            "link": "https://medicalxpress.com/news/2025-11-immune-overreactions-killer-cells-body.html",
+            "description": "Why do immune cells that are supposed to eliminate viruses suddenly turn against our own body? There are instances where killer T cells—which are mean...",
+            "pubDate": "2025-11-06T16:11:32",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
@@ -37,20 +58,13 @@
             "link": "https://www.medscape.com/viewarticle/lawyers-renew-call-uk-medical-device-register-2025a1000un8?src=rss",
             "description": "Personal injury lawyers have urged the creation of a national medical device register to prevent safety scandals. Medscape News UK",
             "pubDate": "2025-11-06T12:11:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "The 'hard, slow work' of reducing overdose deaths is having an effect",
-            "link": "https://medicalxpress.com/news/2025-11-hard-overdose-deaths-effect.html",
-            "description": "Illicit drug overdoses and the deaths they cause are trending down this year, despite spikes in a handful of states, according to a Stateline analysis...",
-            "pubDate": "2025-11-06T11:59:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Widely used pesticides may lower sperm count",
-            "link": "https://medicalxpress.com/news/2025-11-widely-pesticides-sperm.html",
-            "description": "Contemporary agricultural practices make it difficult to prevent consuming chemicals and potentially causing harm to the body.",
-            "pubDate": "2025-11-06T09:56:04",
+            "title": "Understanding post-vaccination syndrome in real-world medicine [PODCAST]",
+            "link": "https://kevinmd.com/2025/11/understanding-post-vaccination-syndrome-in-real-world-medicine-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Internal medicine physician Harry Oken discusses his article “mRNA po...",
+            "pubDate": "2025-11-06T00:00:21",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
@@ -58,21 +72,28 @@
             "link": "https://www.medscape.com/viewarticle/fda-oks-linzess-ibs-constipation-kids-2025a1000ums?src=rss",
             "description": "The FDA expands use of linaclotide to children as young as age 7 years with irritable bowel syndrome with constipation (IBS-C), making it the first ap...",
             "pubDate": "2025-11-06T11:08:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Over-the-counter painkillers match or surpass opioids for dental surgery in all adults, analysis confirms",
+            "link": "https://medicalxpress.com/news/2025-11-counter-painkillers-surpass-opioids-dental.html",
+            "description": "Over-the-counter pain medications work as well or better than opioids after wisdom tooth extraction for both men and women, according to a Rutgers Hea...",
+            "pubDate": "2025-11-06T16:00:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Study shows good British Columbia abortion pill access, but gaps remain",
+            "link": "https://medicalxpress.com/news/2025-11-good-british-columbia-abortion-pill.html",
+            "description": "Most pharmacies in British Columbia can provide the abortion pill mifepristone within days, but uneven access still leaves some women facing barriers ...",
+            "pubDate": "2025-11-06T16:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Alopecia Areata Linked to Mental Health Crisis",
             "link": "https://www.medscape.com/viewarticle/alopecia-areata-linked-marked-rise-risk-psychiatric-2025a1000ub4?src=rss",
             "description": "A multinational retrospective study shows that alopecia areata is significantly associated with an increased risk for psychiatric disorders, especiall...",
             "pubDate": "2025-11-06T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Poll reveals a nation suffering from stress of societal division, loneliness",
-            "link": "https://medicalxpress.com/news/2025-11-poll-reveals-nation-stress-societal.html",
-            "description": "Loneliness and emotional disconnection appear to have become a defining feature of life in America, as a majority of U.S. adults say societal division...",
-            "pubDate": "2025-11-06T10:43:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Sodium Bicarbonate Infusion Fails to Reduce Mortality in AKI",
@@ -82,18 +103,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Early-stage clinical trial demonstrates promise of intranasal influenza vaccine in generating broad immunity",
-            "link": "https://medicalxpress.com/news/2025-11-early-stage-clinical-trial-intranasal.html",
-            "description": "Researchers at the University of Maryland School of Medicine's Center for Vaccine Development and Global Health (CVD) report encouraging results from ...",
-            "pubDate": "2025-11-06T10:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
             "title": "Regular BP Monitoring Crucial for Seniors With T2D, CKD",
             "link": "https://www.medscape.com/viewarticle/regular-bp-monitoring-crucial-seniors-t2d-ckd-2025a1000uav?src=rss",
             "description": "Older adults with T2D and chronic kidney disease who lack regular blood pressure monitoring in the 2 years before diagnosis face higher risks for adve...",
             "pubDate": "2025-11-06T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Regional anesthesia and functional outcomes after anterior cruciate ligament reconstruction surgery in adolescent patients: Society of Pediatric Anesthesia Improvement Network (SPAIN)",
+            "link": "https://www.2minutemedicine.com/regional-anesthesia-and-functional-outcomes-after-anterior-cruciate-ligament-reconstruction-surgery-in-adolescent-patients-society-of-pediatric-anesthesia-improvement-network-spain/",
+            "description": "1. Regional anesthesia, including combined anterior and posterior blocks, did not impair 6-month functional recovery after adolescent ACL reconstructi...",
+            "pubDate": "2025-11-05T00:00:45",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/01/MRT_ACL_PCL_01-300x150.jpg"
         },
         {
             "title": "A declaration of famine is rare. It's now happened twice in 2025, this time in Sudan",
@@ -110,32 +131,32 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3024x2016+0+0/resize/3024x2016!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F55%2F4d92afa6487cbb85b82050f88d93%2Fkrebs-grinnell-hospital-ob1.jpg"
         },
         {
-            "title": "Regional anesthesia and functional outcomes after anterior cruciate ligament reconstruction surgery in adolescent patients: Society of Pediatric Anesthesia Improvement Network (SPAIN)",
-            "link": "https://www.2minutemedicine.com/regional-anesthesia-and-functional-outcomes-after-anterior-cruciate-ligament-reconstruction-surgery-in-adolescent-patients-society-of-pediatric-anesthesia-improvement-network-spain/",
-            "description": "1. Regional anesthesia, including combined anterior and posterior blocks, did not impair 6-month functional recovery after adolescent ACL reconstructi...",
-            "pubDate": "2025-11-05T00:00:45",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/01/MRT_ACL_PCL_01-300x150.jpg"
+            "title": "The quiet will of a healer",
+            "link": "https://kevinmd.com/2025/11/the-quiet-will-of-a-healer.html",
+            "description": "As physicians, we are trained to balance truth with compassion, and science with empathy. It’s a delicate balance and an uncertain path. Medicine requ...",
+            "pubDate": "2025-11-05T20:00:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Helping children overcome anxiety [PODCAST]",
             "link": "https://kevinmd.com/2025/11/helping-children-overcome-anxiety-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Physician executive Mona Potter discusses her article “When anxiety r...",
             "pubDate": "2025-11-05T00:00:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "The quiet will of a healer",
-            "link": "https://kevinmd.com/2025/11/the-quiet-will-of-a-healer.html",
-            "description": "No good deed Goes unpunished Truth is a kindness Not always a cure in need Indeed, I see Is this compassion fatigue? A will to be heard Met with care ...",
-            "pubDate": "2025-11-05T20:00:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Why DPC market-model fit matters most",
+            "link": "https://kevinmd.com/2025/11/why-dpc-market-model-fit-matters-most.html",
+            "description": "In my previous article, I examined why direct primary care (DPC) practices fail, focusing on financial modeling, compliance risks, and the gap between...",
+            "pubDate": "2025-11-05T20:00:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Clear communication is kind patient care",
             "link": "https://kevinmd.com/2025/11/clear-communication-is-kind-patient-care.html",
             "description": "I walked into the exam room to meet with a woman recently diagnosed with breast cancer. She had undergone a PET CT scan to evaluate for the extent of ...",
             "pubDate": "2025-11-05T16:00:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Subcutaneous Dexmedetomidine for Refractory Symptoms in a Hospice Inpatient Unit",
@@ -143,27 +164,6 @@
             "description": "1. Dexmedetomidine by subcutaneous infusion can safely improve refractory pain and agitated delirium in hospice patients while maintaining rousable se...",
             "pubDate": "2025-11-04T00:00:04",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/04/14538_lores-e1544028756500-300x150.jpg"
-        },
-        {
-            "title": "Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25",
-            "link": "https://www.npr.org/2025/11/04/nx-s1-5598279/listeria-outbreak-prepared-pasta",
-            "description": "Certain prepared pasta dishes were recalled from retailers like Trader Joe's, Kroger and Walmart between June and October. Health officials urge custo...",
-            "pubDate": "2025-11-04T19:28:38",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F4d%2F952d3e024eb980183d35fe429221%2Fap24327847666171.jpg"
-        },
-        {
-            "title": "The hidden cardiovascular cost of alcohol",
-            "link": "https://kevinmd.com/2025/11/the-hidden-cardiovascular-cost-of-alcohol.html",
-            "description": "A glass of wine with dinner. A cocktail on a Friday evening. A few beers over the weekend. For many of my patients, alcohol is woven seamlessly into d...",
-            "pubDate": "2025-11-04T20:00:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Can flu shots prevent heart attacks?",
-            "link": "https://kevinmd.com/2025/11/can-flu-shots-prevent-heart-attacks.html",
-            "description": "As an internist and lipidologist, I’ve spent decades parsing data on statins, ezetimibe, PCSK9 inhibitors, and the endless parade of “LDL-lowering bre...",
-            "pubDate": "2025-11-04T22:00:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "2 Minute Medicine Rewind November 3rd, 2025",
