@@ -2,14 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-07T06:37:59.358565",
+    "lastBuildDate": "2025-11-07T10:48:04.594519",
     "items": [
         {
             "title": "iRobot revenue continues to drop with ‘no sources’ of additional capital",
             "link": "https://www.therobotreport.com/irobot-revenue-drops-again-with-no-sources-of-additional-capital/",
-            "description": "iRobot said if it can't obtain new capital it \"may be forced to significantly curtail or cease operations and would likely seek bankruptcy protection....",
+            "description": "iRobot said if it can't obtain new capital, it \"may be forced to significantly curtail or cease operations and would likely seek bankruptcy protection...",
             "pubDate": "2025-11-07T00:40:07",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Roomba_Max_705_Combo_AutoWash_Black_Photo_InSitu_Amazon_Hotspot_DualEdgeBrushes_Mobile600X450-featured.jpg"
+        },
+        {
+            "title": "How Carbon Robotics built the large plant model for its laser weeding robot",
+            "link": "https://www.therobotreport.com/how-carbon-robotics-built-the-large-plant-model-for-its-laser-weeding-robot/",
+            "description": "Carbon Robotics founder and CEO Paul Mikesell explains how the agbotics company built its AI model with high-quality data. The post How Carbon Robotic...",
+            "pubDate": "2025-11-07T13:34:47",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Paul-Mikesell-with-LaserWeeder-G2-featured.jpg"
+        },
+        {
+            "title": "QSS partners with Humanoid to advance robotics in Saudi Arabia",
+            "link": "https://www.therobotreport.com/qss-ai-robotics-partners-humanoid-advance-robotics-development-saudi-arabia/",
+            "description": "QSS AI & Robotics and Humanoid plan to produce and deploy 10,000 robots across industries in Saudi Arabia. The post QSS partners with Humanoid to adva...",
+            "pubDate": "2025-11-07T15:07:26",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/HMND-01-Alpha_Humanoid_6-copy.jpg"
         },
         {
             "title": "The first new subsea habitat in 40 years is about to launch",
@@ -19,11 +33,25 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MarkHarris_20251029_171637167.MP_.jpg?w=2363"
         },
         {
+            "title": "The Download: a new home under the sea, and cloning pets",
+            "link": "https://www.technologyreview.com/2025/11/07/1127765/the-download-a-new-home-under-the-sea-and-cloning-pets/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The first ne...",
+            "pubDate": "2025-11-07T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_7ec9ce.png"
+        },
+        {
             "title": "Cloning isn’t just for celebrity pets like Tom Brady’s dog",
             "link": "https://www.technologyreview.com/2025/11/07/1127692/cloning-celebrity-pets-tom-brady-dog-conservation/",
             "description": "This week, we heard that Tom Brady had his dog cloned. The former quarterback revealed that his Junie is actually a clone of Lua, a pit bull mix that ...",
             "pubDate": "2025-11-07T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "The compute rethink: Scaling AI where data lives, at the edge",
+            "link": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge",
+            "description": "Presented by Arm AI is no longer confined to the cloud or data centers. Increasingly, it’s running directly where data is created — in devices, sensor...",
+            "pubDate": "2025-11-06T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ERDb8KPErLVHncySz9rfu/b8f28a9fe706982175c4a8310f45ea90/AdobeStock_624772113.jpeg?w=300&q=30"
         },
         {
             "title": "Why Google’s File Search could displace DIY RAG stacks in the enterprise",
@@ -40,25 +68,11 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f4d6.png"
         },
         {
-            "title": "Wandercraft earns second FDA clearance for Atalante X exoskeleton",
-            "link": "https://www.therobotreport.com/wandercraft-earns-second-fda-clearance-for-atalante-x-exoskeleton/",
-            "description": "This clearance comes just a few short months after Wandercraft received expanded CE Mark certification for enhanced clinical features. The post Wander...",
-            "pubDate": "2025-11-06T21:44:21",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/wandercraft-featured.jpg"
-        },
-        {
-            "title": "Teradyne Robotics lays off another 14% of workforce",
-            "link": "https://www.therobotreport.com/teradyne-robotics-lays-off-another-14-of-workforce/",
-            "description": "Teradyne Robotics, which includes Mobile Industrial Robots and Universal Robots, said revenue is not meeting expectations. The post Teradyne Robotics ...",
-            "pubDate": "2025-11-06T13:58:58",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/09/UR8-Long_Automotive_Quality-Inspection.jpg"
-        },
-        {
-            "title": "The compute rethink: Scaling AI where data lives, at the edge",
-            "link": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge",
-            "description": "Presented by Arm AI is no longer confined to the cloud or data centers. Increasingly, it’s running directly where data is created — in devices, sensor...",
-            "pubDate": "2025-11-06T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ERDb8KPErLVHncySz9rfu/b8f28a9fe706982175c4a8310f45ea90/AdobeStock_624772113.jpeg?w=300&q=30"
+            "title": "Moonshot's Kimi K2 Thinking emerges as leading open source AI, outperforming GPT-5, Claude Sonnet 4.5 on key benchmarks",
+            "link": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming",
+            "description": "Even as concern and skepticism grows over U.S. AI startup OpenAI's buildout strategy and high spending commitments, Chinese open source AI providers a...",
+            "pubDate": "2025-11-06T18:27:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1HGuj3BsedMoBgz8md53tP/b48cd315b64ffaf658892d572c61d188/cfr0z3n_fisheye_view_surreal_bold_deep_color_vibrant_high_contr_5795af91-597f-4686-8f07-ff43e6922e8c.png?w=300&q=30"
         },
         {
             "title": "Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions",
@@ -68,11 +82,18 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3wiaJuUTbBrUaBp8cSXtO4/81095c7817da6a2967a961ed60356ed4/Ironwood_board.jpg?w=300&q=30"
         },
         {
-            "title": "Sovato closes Series B funding to advance telesurgery",
-            "link": "https://www.therobotreport.com/sovato-closes-series-b-funding-to-advance-telesurgery/",
-            "description": "Sovato has completed fundraising to scale its telesurgery platform and extend expert robotic care globally. Distant doctors, closer care. The post Sov...",
-            "pubDate": "2025-11-06T17:18:11",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/sovanto-remote-featured.jpg"
+            "title": "From prototype to production: What vibe coding tools must fix for enterprise adoption",
+            "link": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise",
+            "description": "Presented by Salesforce Vibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, ...",
+            "pubDate": "2025-11-06T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Tb1BL75AhuG8odK9Kz0XF/5237845c829eb7c9f8d20b41fcdbd9da/AdobeStock_1628357042.jpeg?w=300&q=30"
+        },
+        {
+            "title": "Wandercraft earns second FDA clearance for Atalante X exoskeleton",
+            "link": "https://www.therobotreport.com/wandercraft-earns-second-fda-clearance-for-atalante-x-exoskeleton/",
+            "description": "This clearance comes just a few short months after Wandercraft received expanded CE Mark certification for enhanced clinical features. The post Wander...",
+            "pubDate": "2025-11-06T21:44:21",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/wandercraft-featured.jpg"
         },
         {
             "title": "SS Innovations completes first telesurgery with new SSi Mantra console",
@@ -82,39 +103,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/the-ssi-mantra-tele-surgeon-console-featured.jpg"
         },
         {
-            "title": "From prototype to production: What vibe coding tools must fix for enterprise adoption",
-            "link": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise",
-            "description": "Presented by Salesforce Vibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, ...",
-            "pubDate": "2025-11-06T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Tb1BL75AhuG8odK9Kz0XF/5237845c829eb7c9f8d20b41fcdbd9da/AdobeStock_1628357042.jpeg?w=300&q=30"
-        },
-        {
-            "title": "Moonshot's Kimi K2 Thinking emerges as leading open source AI, outperforming GPT-5, Claude Sonnet 4.5 on key benchmarks",
-            "link": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming",
-            "description": "Even as concern and skepticism grows over U.S. AI startup OpenAI's buildout strategy and high spending commitments, Chinese open source AI providers a...",
-            "pubDate": "2025-11-06T18:27:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1HGuj3BsedMoBgz8md53tP/b48cd315b64ffaf658892d572c61d188/cfr0z3n_fisheye_view_surreal_bold_deep_color_vibrant_high_contr_5795af91-597f-4686-8f07-ff43e6922e8c.png?w=300&q=30"
-        },
-        {
             "title": "Stop worrying about your AI footprint. Look at the big picture instead.",
             "link": "https://www.technologyreview.com/2025/11/06/1127579/ai-footprint/",
             "description": "Picture it: I’m minding my business at a party, parked by the snack table (of course). A friend of a friend wanders up, and we strike up a conversatio...",
             "pubDate": "2025-11-06T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "A new ion-based quantum computer makes error correction simpler",
-            "link": "https://www.technologyreview.com/2025/11/05/1127659/a-new-ion-based-quantum-computer-makes-error-correction-simpler/",
-            "description": "The US- and UK-based company Quantinuum today unveiled Helios, its third-generation quantum computer, which includes expanded computing power and erro...",
-            "pubDate": "2025-11-05T21:43:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -129,6 +122,13 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",

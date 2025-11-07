@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-07T06:37:47.983845",
+    "lastBuildDate": "2025-11-07T10:47:58.529098",
     "items": [
+        {
+            "title": "Banana Bread Pudding",
+            "link": "https://therecipecritic.com/banana-bread-pudding/",
+            "description": "If you love classic bread pudding, you’ve got to try banana bread pudding. Sweet banana flavor, a soft custardy center,…",
+            "pubDate": "2025-11-07T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/03/banana-bread-casserole.jpg"
+        },
         {
             "title": "5-Ingredient Green Bean Casserole",
             "link": "https://therecipecritic.com/5-ingredient-green-bean-casserole/",
@@ -31,13 +38,6 @@
             "description": "I’m telling you guys right now, sausage stuffing balls are the best part of my holiday table. They’re crispy on…",
             "pubDate": "2025-11-03T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/sausage-stuffing-balls.jpg"
-        },
-        {
-            "title": "Stuffed Mushroom Dip",
-            "link": "https://therecipecritic.com/stuffed-mushroom-dip/",
-            "description": "Trust me, this Stuffed Mushroom Dip is way easier (and honestly better) than making stuffed mushrooms. You skip all the…",
-            "pubDate": "2025-11-02T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/paper-bag-pie-4.jpg"
         },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",

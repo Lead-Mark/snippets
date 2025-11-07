@@ -2,8 +2,29 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-07T06:36:46.958677",
+    "lastBuildDate": "2025-11-07T10:47:04.474371",
     "items": [
+        {
+            "title": "How Aging Could Affect Your Sleep",
+            "link": "https://www.webmd.com/healthy-aging/insomnia-in-elderly",
+            "description": "Learn why insomnia often becomes more common with age, how sleep patterns can change, and practical ways to improve rest.",
+            "pubDate": "2025-11-07T10:45:28",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/lifestyle_changes_to_help_your_pbc_slideshow/1800ss_getty_rf_feeling_exhausted_at_work.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Signs of Lung Cancer to Watch For",
+            "link": "https://www.webmd.com/lung-cancer/understanding-lung-cancer-symptoms",
+            "description": "",
+            "pubDate": "2025-11-07T10:45:28",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/symptoms_of_mycobacterium_avium_complex_mac_slideshow/1800ss_getty_rf_senior_man_coughing.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Late-Night Cravings? Here’s What to Eat and Avoid",
+            "link": "https://www.webmd.com/diet/ss/slideshow-late-night-snacks",
+            "description": "",
+            "pubDate": "2025-11-07T10:45:28",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/bad_foods_that_are_good_for_weight_loss_slideshow/1800ss_getty_rf_bag_of_popcorn.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "Smaller infarct size with ticagrelor vs. clopidogrel in STEMI patients: Insights from cardiac magnetic resonance",
             "link": "https://www.2minutemedicine.com/smaller-infarct-size-with-ticagrelor-vs-clopidogrel-in-stemi-patients-insights-from-cardiac-magnetic-resonance/",
@@ -12,102 +33,81 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/04/stemi-myocardial-infarct-300x150.jpg"
         },
         {
-            "title": "How Aging Could Affect Your Sleep",
-            "link": "https://www.webmd.com/healthy-aging/insomnia-in-elderly",
-            "description": "Learn why insomnia often becomes more common with age, how sleep patterns can change, and practical ways to improve rest.",
-            "pubDate": "2025-11-07T06:33:52",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/lifestyle_changes_to_help_your_pbc_slideshow/1800ss_getty_rf_feeling_exhausted_at_work.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Late-Night Cravings? Here’s What to Eat and Avoid",
-            "link": "https://www.webmd.com/diet/ss/slideshow-late-night-snacks",
-            "description": "",
-            "pubDate": "2025-11-07T06:33:52",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/bowl_of_popcorn_close_up_other?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Signs of Lung Cancer to Watch For",
-            "link": "https://www.webmd.com/lung-cancer/understanding-lung-cancer-symptoms",
-            "description": "",
-            "pubDate": "2025-11-07T06:33:52",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/symptoms_of_mycobacterium_avium_complex_mac_slideshow/1800ss_getty_rf_senior_man_coughing.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "It's OK to walk away: The program saving babies' lives",
-            "link": "https://medicalxpress.com/news/2025-11-babies.html",
-            "description": "Researchers invited to evaluate a U.K. program that aims to prevent shaken baby syndrome say the study offers insights that could inform support strat...",
-            "pubDate": "2025-11-07T04:40:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Allopurinol Skin Reaction Genetics Described in US Patients",
-            "link": "https://www.medscape.com/viewarticle/allopurinol-skin-reaction-genetics-described-us-patients-2025a1000usz?src=rss",
-            "description": "HLA class I alleles, one known and one newly identified, are linked to allopurinol-induced severe cutaneous adverse reactions in the US population. Me...",
-            "pubDate": "2025-11-07T10:55:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Vaccines: Could Injections Be Replaced by Massage?",
-            "link": "https://www.medscape.com/viewarticle/vaccines-could-injections-be-replaced-massage-2025a1000utq?src=rss",
-            "description": "A French study in Cell Reports suggests vaccines could one day be delivered through a simple skin massage — no needles required. Medscape News Europe",
-            "pubDate": "2025-11-07T11:27:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Cancer Misinformation: When Influencers Co-Opt Care",
-            "link": "https://www.medscape.com/viewarticle/cancer-misinformation-train-when-influencers-co-opt-care-2025a1000utj?src=rss",
-            "description": "Experts explore the messy intersection between evidence-based cancer care and an enticing wellness industry dominated by social media influencers who ...",
-            "pubDate": "2025-11-07T11:02:50",
+            "title": "Parents who struggle to identify emotions may face higher burnout, alexithymia study finds",
+            "link": "https://medicalxpress.com/news/2025-11-parents-struggle-emotions-higher-burnout.html",
+            "description": "Researchers at the Institute of Psychology at the Maria Grzegorzewska University in Warsaw report associations between alexithymia and parental burnou...",
+            "pubDate": "2025-11-07T14:30:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Why physicians must not suffer in silence [PODCAST]",
-            "link": "https://kevinmd.com/2025/11/why-physicians-must-not-suffer-in-silence-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Neurologist Scott Abramson discusses his article “Why ‘the best physi...",
-            "pubDate": "2025-11-07T00:00:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Atacicept Tackles ‘Root Cause’ in IgA Nephropathy",
-            "link": "https://www.medscape.com/viewarticle/atacicept-tackles-root-cause-iga-nephropathy-2025a1000ut6?src=rss",
-            "description": "The benefits are observed across patient subtypes and potentially offer the chance to avoid dialysis and implement a new standard of care. Medscape Me...",
-            "pubDate": "2025-11-07T10:36:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "ESMO 2025: EU Reform Aims to Fast-Track Cancer Drug Access",
             "link": "https://www.medscape.com/viewarticle/esmo-2025-eu-reform-aims-fast-track-cancer-drug-access-2025a1000uqo?src=rss",
             "description": "The new EU regulation introduces Joint Clinical Assessments that will run in parallel with EMA approvals, delivering comparative effectiveness data wi...",
             "pubDate": "2025-11-07T22:25:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Why Alzheimer's patients forget loved ones",
+            "link": "https://medicalxpress.com/news/2025-11-alzheimer-patients.html",
+            "description": "Few moments are more heartbreaking for families of Alzheimer's disease patients than when a loved one no longer recognizes them. New research from the...",
+            "pubDate": "2025-11-07T15:19:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Why physicians must not suffer in silence [PODCAST]",
+            "link": "https://kevinmd.com/2025/11/why-physicians-must-not-suffer-in-silence-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Neurologist Scott Abramson discusses his article “Why ‘the best physi...",
+            "pubDate": "2025-11-07T00:00:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Military Deployment Raises Respiratory Disease Risk",
+            "link": "https://www.medscape.com/viewarticle/military-deployment-raises-respiratory-disease-risk-2025a1000ux3?src=rss",
+            "description": "Iraq or Afghanistan veterans had significantly higher rates of respiratory diseases in 10 years compared to non-veterans. Medscape Medical News",
+            "pubDate": "2025-11-07T15:35:28",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Poor olfaction linked to increased risk for coronary heart disease",
-            "link": "https://medicalxpress.com/news/2025-11-poor-olfaction-linked-coronary-heart.html",
-            "description": "Poor olfaction is associated with an increased risk for coronary heart disease (CHD) in older adults, according to a study published online Oct. 30 in...",
-            "pubDate": "2025-11-07T04:50:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Urolithin A nudges aging immune cells toward a youthful profile in 28 days",
+            "link": "https://medicalxpress.com/news/2025-11-urolithin-nudges-aging-immune-cells.html",
+            "description": "An international research team focused on aging reports that urolithin A at 1,000 mg per day shifted human immune profiles toward a more naive-like, l...",
+            "pubDate": "2025-11-07T15:40:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "'Food deserts' found even in areas with supermarkets nearby, new study reveals",
-            "link": "https://medicalxpress.com/news/2025-11-food-areas-supermarkets-nearby-reveals.html",
-            "description": "Eating plenty of fruit and vegetables is key to staying healthy and avoiding diseases such as heart disease and stroke. But it's often easier said tha...",
-            "pubDate": "2025-11-07T11:26:04",
+            "title": "Lower vitamin D consistently linked with higher depression in adults",
+            "link": "https://medicalxpress.com/news/2025-11-vitamin-d-linked-higher-depression.html",
+            "description": "Researchers report in a study, published in Biomolecules and Biomedicine, that lower blood levels of vitamin D are consistently linked with higher rat...",
+            "pubDate": "2025-11-07T13:23:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "US Mothers May Run Risks by Sharing Breast Milk",
+            "link": "https://www.medscape.com/viewarticle/us-mothers-may-run-risks-sharing-breast-milk-2025a1000urw?src=rss",
+            "description": "Community sourcing of breast milk outside of accredited donor banks underscores the need for expanded access and more lactation support. Medscape Medi...",
+            "pubDate": "2025-11-07T15:30:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Strep Throat: Use Scoring System to Guide Care",
+            "link": "https://www.medscape.com/s/viewarticle/strep-throat-use-scoring-system-guide-care-2025a1000unx?src=rss",
+            "description": "New guidelines recommend the use of a scoring system to help determine which patients should be tested for strep throat, ideally limiting overdiagnosi...",
+            "pubDate": "2025-11-07T14:42:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Bioengineered bone marrow model successfully used in leukemia research",
+            "link": "https://medicalxpress.com/news/2025-11-bioengineered-bone-marrow-successfully-leukemia.html",
+            "description": "Scientists at the University of Glasgow have successfully used the first bioengineered bone marrow model to carry out vital cancer research, offering ...",
+            "pubDate": "2025-11-07T15:28:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "UK Regulator Approves a New Skin Test for Tuberculosis",
+            "link": "https://www.medscape.com/viewarticle/uk-regulator-approves-new-skin-test-tuberculosis-2025a1000uu4?src=rss",
+            "description": "The MHRA has approved Siiltibcy, a new skin test that uses recombinant proteins to more accurately detect tuberculosis in adults and children. Medscap...",
+            "pubDate": "2025-11-07T13:53:09",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Why morning exercise feels so hard",
-            "link": "https://medicalxpress.com/news/2025-11-morning-hard.html",
-            "description": "Your alarm goes off. Somehow you manage to get dressed, drag yourself to the gym, and start squatting.",
-            "pubDate": "2025-11-07T11:22:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Not just a common cold: Studies show RSV's severity and impact on long-term health",
-            "link": "https://medicalxpress.com/news/2025-11-common-cold-rsv-severity-impact.html",
-            "description": "Often confused for a common cold, respiratory syncytial virus (RSV) can in fact be serious and should be studied more closely. In studies led by Singa...",
-            "pubDate": "2025-11-07T03:50:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Gender differences in clinical features, comorbidities and prognostic outcomes in idiopathic pulmonary fibrosis-a retrospective cohort analysis from the British Thoracic Society Interstitial Lung Disease Registry",
@@ -117,32 +117,32 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/08/Thoracic_anatomy_edited-300x150.jpg"
         },
         {
-            "title": "Pharmacy benefit manager reform vs. direct drug plans",
-            "link": "https://kevinmd.com/2025/11/pharmacy-benefit-manager-reform-vs-direct-drug-plans.html",
-            "description": "Much has been made of the move by President Donald Trump and the pharmaceutical industry to offer direct-purchase drug programs at heavily discounted ...",
-            "pubDate": "2025-11-06T18:00:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
             "title": "Is Lp(a) testing the new messiah?",
             "link": "https://kevinmd.com/2025/11/is-lpa-testing-the-new-messiah.html",
             "description": "I just read yet another article praising the new messiah of cardiology (Lipoprotein(a)) and urging every physician in America to start testing for it....",
             "pubDate": "2025-11-06T22:00:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Is it time for the VA to embrace virtual care?",
             "link": "https://kevinmd.com/2025/11/is-it-time-for-the-va-to-embrace-virtual-care.html",
             "description": "Is it time for the Department of Veterans Affairs (VA) to fully embrace virtual care? The VA has long been one of America’s great health care innovato...",
             "pubDate": "2025-11-06T20:00:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Pharmacy benefit manager reform vs. direct drug plans",
+            "link": "https://kevinmd.com/2025/11/pharmacy-benefit-manager-reform-vs-direct-drug-plans.html",
+            "description": "Much has been made of the move by President Donald Trump and the pharmaceutical industry to offer direct-purchase drug programs at heavily discounted ...",
+            "pubDate": "2025-11-06T18:00:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "The psychological trauma of polarization",
             "link": "https://kevinmd.com/2025/11/the-psychological-trauma-of-polarization.html",
             "description": "The human psyche is built for connection. Our evolutionary history, our families, and our communities shape us to seek cooperation, mutual respect, an...",
             "pubDate": "2025-11-06T16:00:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Regional anesthesia and functional outcomes after anterior cruciate ligament reconstruction surgery in adolescent patients: Society of Pediatric Anesthesia Improvement Network (SPAIN)",
