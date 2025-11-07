@@ -2,35 +2,84 @@
     "title": "INmaster",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INmaster, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-06T16:51:15.051929",
+    "lastBuildDate": "2025-11-07T06:38:11.094893",
     "items": [
         {
-            "title": "5-Ingredient Green Bean Casserole",
-            "link": "https://therecipecritic.com/5-ingredient-green-bean-casserole/",
-            "description": "Thanksgiving doesn’t have to mean a long grocery list or an expensive meal. This 5-ingredient green bean casserole is simple,…",
-            "pubDate": "2025-11-06T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/green-bean-casserole.jpg"
+            "title": "Late-Night Cravings? Here’s What to Eat and Avoid",
+            "link": "https://www.webmd.com/diet/ss/slideshow-late-night-snacks",
+            "description": "",
+            "pubDate": "2025-11-07T06:33:52",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/bowl_of_popcorn_close_up_other?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Unexpected Ways to Help Ease Migraine Pain",
-            "link": "https://www.webmd.com/migraines-headaches/ss/cm/weird-chronic-migriane-tips",
+            "title": "Signs of Lung Cancer to Watch For",
+            "link": "https://www.webmd.com/lung-cancer/understanding-lung-cancer-symptoms",
             "description": "",
-            "pubDate": "2025-11-06T16:44:26",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/psoriasis/young-man-taking-shower-during-the-day/1800x1200-young-man-taking-shower-during-the-day.jpg?resize=484px:*&output-quality=70"
+            "pubDate": "2025-11-07T06:33:52",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/symptoms_of_mycobacterium_avium_complex_mac_slideshow/1800ss_getty_rf_senior_man_coughing.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "How Aging Could Affect Your Sleep",
+            "link": "https://www.webmd.com/healthy-aging/insomnia-in-elderly",
+            "description": "Learn why insomnia often becomes more common with age, how sleep patterns can change, and practical ways to improve rest.",
+            "pubDate": "2025-11-07T06:33:52",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/lifestyle_changes_to_help_your_pbc_slideshow/1800ss_getty_rf_feeling_exhausted_at_work.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "How to Follow the Trajectory of Comet 3I/Atlas",
+            "link": "https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/",
+            "description": "The interstellar comet 3I/Atlas reached its closest point to the sun. Here's how to follow the rest of its journey away from our solar system.",
+            "pubDate": "2025-11-07T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Good News in History, November 7",
+            "link": "https://www.goodnewsnetwork.org/events061107/",
+            "description": "16 years ago today, Utah Jazz coach Jerry Sloan became the first in NBA history to win 1,000 games with a single team. Described as “one of the greate...",
+            "pubDate": "2025-11-07T08:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Top Verizon Promo Codes & Deals | November 2025",
+            "link": "https://www.wired.com/story/verizon-promo-code/",
+            "description": "Save with our roundup of the best Verizon coupons for free iPhone 17 Pro up to $1,100 off new Galaxy phones, and plans up to 50% off this November.",
+            "pubDate": "2025-11-07T07:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Best Base Layer (2025): Ibex, Smartwool, and More",
+            "link": "https://www.wired.com/gallery/best-base-layers/",
+            "description": "Whether you’re layering up for winter cold or looking for an ultralight summer system, we’ve tested and found the best base layers for all your outdoo...",
+            "pubDate": "2025-11-07T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "‘Landfall’ spyware abused zero-day to hack Samsung Galaxy phones",
+            "link": "https://techcrunch.com/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/",
+            "description": "A newly identified Android spyware targeted Galaxy devices for close to a year, including users in the Middle East, researchers exclusively tell TechC...",
+            "pubDate": "2025-11-07T11:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Mexico City Is the Most Video-Surveilled Metropolis in the Americas",
+            "link": "https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/",
+            "description": "Despite 83,000 public cameras, crime in Mexico City remains high—and widespread surveillance raises myriad ethical issues.",
+            "pubDate": "2025-11-07T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Google, Microsoft, and Meta Have Stopped Publishing Workforce Diversity Data",
+            "link": "https://www.wired.com/story/google-microsoft-and-meta-have-stopped-publishing-workforce-diversity-data/",
+            "description": "Other big tech companies including Amazon, Apple, and Nvidia have continued their annual disclosures this year even as the Trump administration cracks...",
+            "pubDate": "2025-11-07T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Flight cancellations begin as shutdown throws major wrench in air travel",
             "link": "https://thepointsguy.com/news/flight-cancellations-government-shutdown/",
-            "description": "The Trump administration on Wednesday announced major flight cancellations would begin Friday if the government shutdown drags on.",
+            "description": "Airlines have begun canceling flights for Friday and the weekend as FAA-ordered cuts began in the midst of the government shutdown.",
             "pubDate": "2025-11-06T20:20:55",
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/11/tsa-houston.jpg"
-        },
-        {
-            "title": "How each airline is handling the flight cuts, starting Friday: What to know",
-            "link": "https://thepointsguy.com/news/airlines-flight-cancellations-faa-shutdown/",
-            "description": "Mass flight cancellations are set to start Friday due to strains from the federal government shutdown. Here's how airlines are responding.",
-            "pubDate": "2025-11-06T18:20:40",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/11/Airport-TSA-Closed_MIGUEL-J.-RODRIGUEZ-CARRILLO.jpg"
         },
         {
             "title": "Sapphire Reserve cardholders to soon unlock Hyatt Explorist status, new Hyatt cards to launch",
@@ -40,18 +89,18 @@
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/11/20251103_Park-Hyatt-Marrakech_CHenderson-188.jpg"
         },
         {
-            "title": "10 Things to Know About an Irregular Heart Beat",
-            "link": "https://www.webmd.com/heart-disease/atrial-fibrillation/ss/cm/10-things-to-do-if-your-heart-isnt-beating-right",
-            "description": "From fluttering to pounding, your heart may be sending a signal. Learn what can trigger palpitations and how to help keep your heart healthy.",
-            "pubDate": "2025-11-06T16:44:26",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/signs-of-recurrent-breast-cancer-you-might-not-realize-slideshow/1800ss-getty-rf-short-of-breath-on-sofa.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "Hotel credit card bonuses with low spending requirements",
             "link": "https://thepointsguy.com/credit-cards/hotel-credit-cards-low-spending-requirements/",
             "description": "Want to earn hotel points and elite status? Pick one of these hotel cards to earn points for free nights without the need to meet a high spending requ...",
             "pubDate": "2025-11-06T20:00:11",
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/08/Boutique-Hotels-Hilton_The-William-Fell-Baltimore-Tapestry-Collection-by-Hilton_Guestroon.jpg"
+        },
+        {
+            "title": "5-Ingredient Green Bean Casserole",
+            "link": "https://therecipecritic.com/5-ingredient-green-bean-casserole/",
+            "description": "Thanksgiving doesn’t have to mean a long grocery list or an expensive meal. This 5-ingredient green bean casserole is simple,…",
+            "pubDate": "2025-11-06T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/green-bean-casserole.jpg"
         },
         {
             "title": "Deal alert: Chase cardholders can save up to 50% on top luggage brands like Tumi",
@@ -61,53 +110,25 @@
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/03/20191022_Calpak-Suitcase_WSmith-9.jpg"
         },
         {
-            "title": "Popular Sandwiches That Aren’t as Healthy as They Seem",
-            "link": "https://www.webmd.com/diet/ss/slideshow-worst-sandwiches-and-wraps",
-            "description": "",
-            "pubDate": "2025-11-06T16:44:26",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/worst_restaurant_meals_slideshow/1800ss_getty_rf_beef_chimichanga.jpg?resize=484px:*&output-quality=70"
+            "title": "Major game changer: Rove Miles adds Lufthansa as a transfer partner — why it matters",
+            "link": "https://thepointsguy.com/news/rove-miles-lufthansa-transfer-partner/",
+            "description": "Rove Miles has added Lufthansa Miles & More as a 1:1 transfer partner. Here’s what that unlocks, including booking Lufthansa first class.",
+            "pubDate": "2025-11-06T22:00:51",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/04/20250407_Lufthansa-747-8-First-Class-Frankhurt-to-Houston_BSmithson_37.jpg"
         },
         {
-            "title": "Sam Altman says he doesn’t want the government to bail out OpenAI if it fails",
-            "link": "https://techcrunch.com/2025/11/06/sam-altman-says-he-doesnt-want-the-government-to-bail-out-openai-if-it-fails/",
-            "description": "The furor over Sarah Friar's comments grew so loud that Trump's AI Czar David Sacks weighed in.",
-            "pubDate": "2025-11-06T20:06:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "A Daycare Rewilded its Yard and the Children Became Healthier: Now the Whole Nation Is Doing it",
+            "link": "https://www.goodnewsnetwork.org/a-daycare-rewilded-its-yard-and-the-children-became-healthier-now-the-whole-nation-is-doing-it/",
+            "description": "Finland is doubling down on evidence from four years ago that definitively shows how children can avoid diseases and allergies throughout their lives ...",
+            "pubDate": "2025-11-06T19:30:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Best Adaptogen Drinks and Functional Drinks of 2025: Get Clear",
-            "link": "https://www.wired.com/gallery/best-adaptogen-drinks/",
-            "description": "I tasted dozens of mushroom teas, kava drinks, and party drinks to find the best. Brez and Juni are the two I recommend for most people looking for fo...",
-            "pubDate": "2025-11-06T17:04:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Google to buy carbon credits from massive Amazonian reforestation project",
-            "link": "https://techcrunch.com/2025/11/06/google-to-buy-carbon-credits-from-massive-amazonian-reforestation-project/",
-            "description": "The deal is the first selected by the Symbiosis Coalition, an advance market commitment founded to seed the market for nature-based carbon removal.",
-            "pubDate": "2025-11-06T20:28:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Amazon launches an AI-powered Kindle Translate service for ebook authors",
-            "link": "https://techcrunch.com/2025/11/06/amazon-launches-an-ai-powered-kindle-translate-service-for-ebook-authors/",
-            "description": "Kindle Translate, an AI-powered translation service, is designed to broaden the reach of ebook authors.",
-            "pubDate": "2025-11-06T20:22:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The 65 Best Movies on Disney+ Right Now (November 2025)",
-            "link": "https://www.wired.com/story/best-movies-disney-plus/",
-            "description": "The Fantastic Four: First Steps, Thunderbolts*, and Something Wicked This Way Comes are just a few of the movies you should be watching on Disney+ thi...",
-            "pubDate": "2025-11-06T20:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Meta estimates that it earns 10% of its revenue from scams, report says",
-            "link": "https://techcrunch.com/2025/11/06/meta-estimates-that-it-earns-10-of-its-revenue-from-scams-report-says/",
-            "description": "These fraudulent ads purport to offer a product or service that isn't actually real, and may be intended to solicit payments from less savvy users.",
-            "pubDate": "2025-11-06T21:20:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Chris Sacca’s VC firm is raising a second nuclear fusion fund",
+            "link": "https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/",
+            "description": "With fusion advances showing real promise, Lowercarbon Capital plans to double down.",
+            "pubDate": "2025-11-06T23:33:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Archaeologists Uncover 5,500-year-old ‘Ritual Landscape’ in Jordan",
@@ -117,13 +138,6 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "25 WIRED-Approved Gifts for Frequent Travelers (2025)",
-            "link": "https://www.wired.com/gallery/best-travel-gifts/",
-            "description": "For the frequent flier who treats the Delta Sky Club like their second home.",
-            "pubDate": "2025-11-06T15:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
             "title": "Polar Bear Gleefully Eating a 1,400-Pound Pumpkin Donated for His Dinner iS a Sight to Behold",
             "link": "https://www.goodnewsnetwork.org/polar-bear-gleefully-eating-a-1400-pound-pumpkin-donated-for-his-dinner-is-a-sight-to-behold/",
             "description": "It’s not everyday that Henry the polar bear sees something that weighs more than he does. At 1,200-pounds, the polar bear is the world’s largest land ...",
@@ -131,45 +145,31 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "The 15-Inch MacBook Air Is $200 Off",
-            "link": "https://www.wired.com/story/macbook-air-15-deal-1125/",
-            "description": "Save hundreds on our preferred MacBook for most people.",
-            "pubDate": "2025-11-06T19:23:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "A Daycare Rewilded its Yard and the Children Became Healthier: Now the Whole Nation Is Doing it",
-            "link": "https://www.goodnewsnetwork.org/a-daycare-rewilded-its-yard-and-the-children-became-healthier-now-the-whole-nation-is-doing-it/",
-            "description": "Finland is doubling down on evidence from four years ago that definitively shows how children can avoid diseases and allergies throughout their lives ...",
-            "pubDate": "2025-11-06T19:30:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year",
-            "link": "https://www.wired.com/story/lego-uss-enterprise-2025/",
-            "description": "This $400 set comes with minifigures of the complete Next Gen crew, including Picard, Riker, and Wesley Crusher’s portable tractor beam.",
-            "pubDate": "2025-11-06T18:06:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Good News in History, November 6",
-            "link": "https://www.goodnewsnetwork.org/events061106/",
-            "description": "808 years ago today, the Charter of the Forest was signed in England by King Henry III. This law document is sometimes described as the sister of the ...",
-            "pubDate": "2025-11-06T08:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Bizarre Deep-Sea Creature Named ‘Death Ball’ Sponge Discovered in Remote Corner of the Planet",
+            "title": "Bizarre Deep-Sea Creature – a ‘Death Ball’ Sponge – Discovered in One of the Most Remote Corners of the Planet",
             "link": "https://www.goodnewsnetwork.org/bizarre-deep-sea-creature-named-death-ball-sponge-discovered-in-remote-corner-of-the-planet/",
             "description": "30 previously unknown deep-sea species, including the carnivorous “death-ball” sponge, have been confirmed from one of the most remote parts of the pl...",
             "pubDate": "2025-11-06T16:30:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments",
-            "link": "https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/",
-            "description": "Altman named a long list of upcoming business he thinks will generate significant revenue.",
-            "pubDate": "2025-11-06T21:18:06",
+            "title": "Accel backs Uber rival Rapido as Prosus boosts stake",
+            "link": "https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/",
+            "description": "TVS Motor booked a 152% return as it sold its Rapido stake to Accel and Prosus. Founded in 2015, Rapido has grown into a major player in India's ride-...",
+            "pubDate": "2025-11-06T22:12:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Tesla delays reveal of production Roadster 2 to April Fools’ Day",
+            "link": "https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/",
+            "description": "Musk said he picked the date so he \"could say I was just kidding\" if it changes again. He had spent months teasing a reveal by the end of this year.",
+            "pubDate": "2025-11-06T23:57:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Tesla to begin Cybercab production in April, Musk claims",
+            "link": "https://techcrunch.com/2025/11/06/tesla-to-begin-cybercab-production-in-april-musk-claims/",
+            "description": "Elon Musk said he expects Tesla to be able to put all the Cybercabs it builds on the road, and thanked Waymo for \"paving the path.\"",
+            "pubDate": "2025-11-06T23:11:12",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
@@ -191,7 +191,7 @@
             "link": "https://thefoodellers.com/trips/asia/china/things-to-know/",
             "description": "China is one of the most misunderstood countries, and we were guilty of that too. Until we went and fell in love. Literally. We had no idea this myste...",
             "pubDate": "2025-11-04T17:05:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Sausage Stuffing Balls",
@@ -208,13 +208,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/paper-bag-pie-4.jpg"
         },
         {
-            "title": "Shibuya Guide: Tokyo’s Energy, Youth, and Endless Movement",
-            "link": "https://thefoodellers.com/trips/asia/japan/tokyo/shibuya/",
-            "description": "Shibuya is Tokyo’s pulse: crowded, stylish, and creative. From the crossing to rooftop parks and tiny alleys, here’s how to experience it beyond the o...",
-            "pubDate": "2025-10-27T21:47:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
             "title": "Shinjuku Guide: The Many Lives of Tokyo’s Brightest District",
             "link": "https://thefoodellers.com/trips/asia/japan/shinjuku/",
             "description": "Shinjuku is chaos and calm, lights and silence. This Shinjuku guide takes you beyond the neon to explore how locals live, eat, and unwind in Tokyo’s m...",
@@ -222,18 +215,25 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
+            "title": "Shibuya Guide: Tokyo’s Energy, Youth, and Endless Movement",
+            "link": "https://thefoodellers.com/trips/asia/japan/tokyo/shibuya/",
+            "description": "Shibuya is Tokyo’s pulse: crowded, stylish, and creative. From the crossing to rooftop parks and tiny alleys, here’s how to experience it beyond the o...",
+            "pubDate": "2025-10-27T21:47:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
             "title": "What to eat in each Tokyo neighborhood",
             "link": "https://thefoodellers.com/trips/asia/japan/tokyo/food-neighborhood/",
             "description": "Tokyo isn’t a single city: it’s a collection of small worlds stitched together by trains, neon lights, and an endless appetite for flavor. The best wa...",
             "pubDate": "2025-10-27T21:49:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "How to Experience Japanese Culture in Tokyo",
             "link": "https://thefoodellers.com/trips/asia/japan/tokyo/culture/",
             "description": "Tokyo is one of the most fascinating cities in the world. Every corner offers something to see, eat, or photograph. But if you follow the same itinera...",
             "pubDate": "2025-10-24T15:21:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",
@@ -268,35 +268,35 @@
             "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-07-03T13:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Jobless claims stay low in latest week",
             "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-13T13:33:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Consumer credit growth soars in December",
             "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-07T20:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "U.S. productivity slows down in fourth quarter while unit labor costs accelerate",
             "link": "https://www.marketwatch.com/story/u-s-productivity-slows-down-in-fourth-quarter-while-unit-labor-costs-accelerate-3c2b9092?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-06T13:34:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Beyond to buy rights to Buy Buy Baby brand and reunite it with Bed Bath & Beyond",
             "link": "https://www.marketwatch.com/story/beyond-to-buy-rights-to-buy-buy-baby-brand-and-reunite-it-with-bed-bath-beyond-4383c6be?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-03T13:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

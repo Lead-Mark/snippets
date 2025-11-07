@@ -2,56 +2,98 @@
     "title": "Finance",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Finance, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-06T16:50:18.978170",
+    "lastBuildDate": "2025-11-07T06:37:17.439149",
     "items": [
+        {
+            "title": "RØDE Quietly Unveils Its New Premium USB Hub Designed Specifically For Content Creators",
+            "link": "https://www.forbes.com/sites/marksparrow/2025/11/07/rde-quietly-unveils-its-new-premium-usb-hub-designed-specifically-for-content-creators/",
+            "description": "This new USB hub from RØDE is made from aluminum alloy and features six USB-C ports, one USB-A port and slots for SD and microSD cards as well as 60W ...",
+            "pubDate": "2025-11-07T11:00:00",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/68f891067200aef824ffd923/0x0.jpg?width=960"
+        },
+        {
+            "title": "How Macy’s, Dillard’s, and Nordstrom are getting their groove back",
+            "link": "https://fortune.com/2025/11/07/department-stores-holiday-season-macys-dillards-nordstrom/",
+            "description": "Department stores have a new playbook to win back shoppers from discount stores and Amazon.",
+            "pubDate": "2025-11-07T07:00:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-1800979746-e1762296488835.jpg?w=2048"
+        },
+        {
+            "title": "Rubin Observatory Finds Massive Stellar Stream Around Spiral Galaxy M61",
+            "link": "https://www.forbes.com/sites/brucedorminey/2025/11/07/rubin-observatory-finds-massive-stellar-stream-around-spiral-galaxy-m61/",
+            "description": "First look images from the Rubin Observatory reveal a massive stellar stream around the Messier 61 grand spiral galaxy, located in the Virgo Cluster o...",
+            "pubDate": "2025-11-07T10:50:42",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/690dcb21a2b2a8a4fa169186/0x0.jpg?width=960"
+        },
+        {
+            "title": "Inside A Billionaire Couple’s Plan To Give Away Their $20 Billion Facebook Fortune",
+            "link": "https://www.forbes.com/sites/phoebeliu/2025/11/07/cari-tuna-billionaire-open-philanthropy-facebook/",
+            "description": "Former journalist and wife of Facebook cofounder Dustin Moskovitz, Cari Tuna steered millions into AI safety research ahead of ChatGPT's launch. Here’...",
+            "pubDate": "2025-11-07T11:30:00",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/690a27b1c66fe386b187ca42/0x0.jpg?width=960"
+        },
+        {
+            "title": "Even as stocks slide, Wall Street is at ‘historically extreme valuations,’ warns Apollo chief economist",
+            "link": "https://fortune.com/2025/11/07/apollo-chief-economist-valuations-ai-wall-street-reckoning/",
+            "description": "The latest data underlines a broader concern among analysts that a reckoning is looming for the markets.",
+            "pubDate": "2025-11-07T11:16:57",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2244508160_65d0e4-e1762513326718.jpg?w=2048"
+        },
+        {
+            "title": "Gen Alpha won’t ever have to write an email when they join the workforce, new research reveals—they’ll be sending voice notes to their boss instead",
+            "link": "https://fortune.com/2025/11/07/gen-alpha-wont-ever-have-to-write-an-email-when-they-join-the-workforce-new-research-reveals-theyll-be-sending-voice-notes-to-their-boss-instead/",
+            "description": "LSE researchers say Gen Alpha will talk, not type at work—they predict that voice notes will make keyboard practically obsolete by 2030.",
+            "pubDate": "2025-11-07T10:00:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-1938282104-e1762441763608.jpg?w=2048"
+        },
+        {
+            "title": "AI’s Chicken Or Egg Dilemma: What Comes First, Vision Or Data?",
+            "link": "https://www.forbes.com/sites/peterbendorsamuel/2025/11/07/ais-chicken-or-egg-dilemma-what-comes-first-vision-or-data/",
+            "description": "Artificial intelligence: where do we begin? Do we start with the data, or do we start by reinventing our processes?",
+            "pubDate": "2025-11-07T11:23:44",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/690dd67cb91751c1f4905718/0x0.jpg?width=960"
+        },
+        {
+            "title": "Microsoft Confirms Windows Update Mistake—Do Not Get ‘Locked Out’",
+            "link": "https://www.forbes.com/sites/zakdoffman/2025/11/07/microsoft-confirms-windows-update-mistake-do-not-get-locked-out/",
+            "description": "Act now after warnings that users are getting locked out of Windows PCs.",
+            "pubDate": "2025-11-07T10:48:51",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/677576d3d8e910be2cdb2177/0x0.jpg?width=960&precrop=921%2C517%2Cx1804%2Cy671"
+        },
+        {
+            "title": "Mark Zuckerberg says ‘The Social Network’ nailed his wardrobe: ‘Every single shirt or fleece they had in that movie is a shirt or fleece that I own’",
+            "link": "https://fortune.com/2025/11/07/mark-zuckerberg-the-social-network-nailed-my-wardrobe-every-shirt-fleece-costume-design-jacqueline-west/",
+            "description": "Zuckerberg even bought one of the shirts worn by actor Jesse Eisenberg, on auction, for over $4,000.",
+            "pubDate": "2025-11-07T11:03:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-101560205-e1762458461795.jpg?w=2048"
+        },
+        {
+            "title": "Elon Musk’s $1 trillion pay package and the race to the bottom among states with weak corporate governance laws",
+            "link": "https://fortune.com/2025/11/07/elon-musk-1-trillion-pay-package/",
+            "description": "Also: All the news and watercooler chat from Fortune.",
+            "pubDate": "2025-11-07T09:53:28",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2236115496.jpg?w=2048"
+        },
+        {
+            "title": "FAA cuts may snarl airports this weekend. What to do if you have to travel.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=29361fc8-7d28-48b9-8b3b-37b7894643a1&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-11-07T02:03:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The SALT deduction is going up to $40,000. Here’s how to get the most out of it.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=84b6fdbf-fcbf-4d24-ac3d-f492a0dda309&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-11-07T00:19:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
         {
             "title": "Layoffs in October hit highest level for month in 22 years as companies cite cost-cutting, AI",
             "link": "https://www.foxbusiness.com/economy/layoffs-october-hit-highest-level-month-22-years-companies-cite-cost-cutting-ai",
             "description": "U.S. employers announced 153,074 job cuts in October 2025, marking a 175% increase from the previous year and the highest total for the month of Octob...",
             "pubDate": "2025-11-06T18:15:34",
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/job-fair.jpg"
-        },
-        {
-            "title": "SiTime’s Precision MEMS Timing Technology Boosts Earnings In The AI Era",
-            "link": "https://www.forbes.com/sites/marcochiappetta/2025/11/06/sitimes-precision-mems-timing-technology-boosts-earnings-in-the-ai-era/",
-            "description": "The Silicon Valley company, and specialist in micro-electro-mechanical systems (MEMS) timing devices, is riding the same wave that’s lifting NVIDIA, B...",
-            "pubDate": "2025-11-06T20:57:40",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/690d09d06320718a08acc2ce/0x0.jpg?width=960"
-        },
-        {
-            "title": "A New AI-Powered Platform Could Reduce Barriers To Transferring College Credits–And Graduation",
-            "link": "https://www.forbes.com/sites/juliegoldenberg/2025/11/06/a-new-ai-powered-platform-could-reduce-barriers-to-transferring-college-creditsand-graduation/",
-            "description": "CourseWise aims to streamline the transfer process, which can interfere with degree completion, particularly for those who start at money-saving commu...",
-            "pubDate": "2025-11-06T20:08:27",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/690cf4bb17e80da7911a0f62/0x0.jpg?width=960"
-        },
-        {
-            "title": "Predictions 2026: CMOs Adapt, Endure, And Push Forward",
-            "link": "https://www.forbes.com/sites/forrester/2025/11/06/predictions-2026-cmos-adapt-endure-and-push-forward/",
-            "description": "Explore Forrester's insights on 2026 predictions for CMOs. Learn how marketing leaders will adapt, focus on resilience, and embrace innovation in unce...",
-            "pubDate": "2025-11-06T19:53:53",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/690cfc738390c36889f9cea6/0x0.png?width=960"
-        },
-        {
-            "title": "FAA confirms which 40 markets will have airline traffic cut 10%",
-            "link": "https://www.foxbusiness.com/economy/faa-confirms-which-40-markets-have-airline-traffic-cut-10",
-            "description": "The FAA orders 10% flight reductions at 40 major U.S. airports starting Friday due to air traffic controller shortages during the government shutdown.",
-            "pubDate": "2025-11-06T19:01:32",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/ATLANTA-AIRPORT-CHRISTMAS.jpg"
-        },
-        {
-            "title": "Nancy Pelosi retires from legendary career as Obama hails ‘one of the best speakers the House of Representatives has ever had’",
-            "link": "https://fortune.com/2025/11/06/nancy-pelosi-retires-former-speaker-of-the-house/",
-            "description": "“I will not be seeking reelection to Congress,” Pelosi said in a video address to voters.",
-            "pubDate": "2025-11-06T20:19:47",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/AP25310440282589-e1762459705287.jpg?w=2048"
-        },
-        {
-            "title": "Jamie Dimon warns blue states’ business exodus could ‘backfire’",
-            "link": "https://www.foxbusiness.com/economy/jamie-dimon-warns-blue-states-business-exodus-could-backfire",
-            "description": "JPMorgan Chase CEO Jamie Dimon gave a cautionary tale to U.S. states driving businesses out, saying \"it will backfire\" while speaking at the America B...",
-            "pubDate": "2025-11-06T18:44:23",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/jamie-dimon-at-america-business-forum.jpg"
         },
         {
             "title": "United Airlines to offer refunds because of shutdown-caused flight restrictions",
@@ -61,81 +103,39 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/scott-kirby-at-white-house.jpg"
         },
         {
-            "title": "Jamie Dimon predicts AI will shorten the workweek: ‘My guess is the developed world be working three-and-a-half days a week’",
-            "link": "https://fortune.com/2025/11/06/jamie-dimon-ai-will-shorten-work-week-three-and-a-half-days/",
-            "description": "He thinks it’ll eliminate jobs, but we can steer our way out of disaster.",
-            "pubDate": "2025-11-06T20:46:32",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2244831435-e1762461293455.jpg?w=2048"
+            "title": "Jamie Dimon warns blue states’ business exodus could ‘backfire’",
+            "link": "https://www.foxbusiness.com/economy/jamie-dimon-warns-blue-states-business-exodus-could-backfire",
+            "description": "JPMorgan Chase CEO Jamie Dimon gave a cautionary tale to U.S. states driving businesses out, saying \"it will backfire\" while speaking at the America B...",
+            "pubDate": "2025-11-06T18:44:23",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/jamie-dimon-at-america-business-forum.jpg"
         },
         {
-            "title": "Zohran Mamdani is New York’s first millennial Mayor—experts share how the young leader’s style will differ from his boomer predecessors",
-            "link": "https://fortune.com/2025/11/06/zohran-mamdani-new-yorks-first-millennial-mayor-experts-say-the-young-leader-will-challenge-the-status-quo-set-by-boomers-before-him-affordability-housing-economy-gen-z/",
-            "description": "Higher minimum wage for young workers, remote working and a 4-day workweek could get a spotlight thanks to New York’s first millennial Mayor",
-            "pubDate": "2025-11-06T17:29:56",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2243511052_51af88-e1762448622313.jpg?w=2048"
+            "title": "FAA confirms which 40 markets will have airline traffic cut 10%",
+            "link": "https://www.foxbusiness.com/economy/faa-confirms-which-40-markets-have-airline-traffic-cut-10",
+            "description": "The FAA orders 10% flight reductions at 40 major U.S. airports starting Friday due to air traffic controller shortages during the government shutdown.",
+            "pubDate": "2025-11-06T19:01:32",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/ATLANTA-AIRPORT-CHRISTMAS.jpg"
         },
         {
-            "title": "Remitly's 24% Stock Selloff Looks Like Trouble From Trump's Immigration Crackdown",
-            "link": "https://www.forbes.com/sites/jeffkauflin/2025/11/06/remitlys-24-stock-selloff-looks-like-trouble-from-trumps-immigration-crackdown/",
-            "description": "The fintech remittance company announced earnings yesterday and forecasted much slower growth than what it has achieved over the past year.",
-            "pubDate": "2025-11-06T20:08:46",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/690cf5542a915619e2f031bd/0x0.jpg?width=960"
+            "title": "Nancy Pelosi to retire in 2027. Here’s the retirement package she may get.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1649a811-87d9-4dcb-8cab-0157d6cc266b&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-11-06T23:27:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Tests showing Chinese-made buses can be stopped remotely prompt Norwegian pullback",
-            "link": "https://fortune.com/2025/11/06/chinese-buses-norway-remote-control/",
-            "description": "The company said tests, done in underground mines to block signals, used both new Yutong buses and three-year-old models from Dutch maker VDL.",
-            "pubDate": "2025-11-06T19:50:47",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2232882709-e1762458569291.jpg?w=2048"
-        },
-        {
-            "title": "Boeing won’t face a criminal conspiracy charge over two 737 Max jetliner crashes that killed 346 people",
-            "link": "https://fortune.com/2025/11/06/boeing-criminal-conspiracy-charge-737-max-jetliner-crashes/",
-            "description": "As part of a deal to drop the charge, the American aerospace company has agreed to pay or invest an additional $1.1 billion in fines.",
-            "pubDate": "2025-11-06T20:40:51",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/11/AP25310559686074.jpg?w=2048"
-        },
-        {
-            "title": "Does ‘Predator: Badlands’ Have A Post-Credits Scene? Here’s What You Need To Know",
-            "link": "https://www.forbes.com/sites/erikkain/2025/11/06/does-predator-badlands-have-a-post-credits-scene-heres-what-you-need-to-know/",
-            "description": "Everything you need to know about the Predator Badlands post-credits scene, without spoilers.",
-            "pubDate": "2025-11-06T20:25:52",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/690cf8aeed7e07987e33e683/0x0.jpg?width=960"
+            "title": "Tesla's stock rises as shareholders approve Elon Musk’s $1 trillion pay package",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1c8fc089-8578-4baa-814d-0a3f518dab49&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-11-06T22:15:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Why one firm’s report on the jobs market contributed to Thursday’s stock selloff",
             "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec32ad83-33db-4022-9f13-532000a9f9cf&mod=mw_rss_bulletins",
             "description": "",
             "pubDate": "2025-11-06T21:42:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Tesla investor meeting: What to know as Musk’s $1 trillion pay package at stake",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d4ecfcda-f7c7-4195-91ab-c735ac87a1cc&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-11-06T19:45:20",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Stocks trimming sharp losses in final hour as investors ponder valuations — live",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5e83462f-f81c-4263-b707-04f215d89dfd&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-11-06T20:04:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "U.S. stocks close sharply lower as investors question valuations and jobs market",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2423fa51-e146-4dbc-a2b6-ffb0fcbda134&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-11-06T21:02:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "If you own a ‘safe’ investment-grade bond fund, better check the holdings",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b2ce0a02-caa2-4fbf-92fb-d1871734a261&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-11-06T16:26:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Trump touts private sector job growth, efforts to shrink federal workforce",
@@ -149,35 +149,35 @@
             "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
             "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
             "pubDate": "2025-01-27T18:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
             "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
             "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
             "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
-            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
-            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
-            "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Tech, Media & Telecom Roundup: Market Talk",
             "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
             "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
             "pubDate": "2025-01-27T17:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
+            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+            "pubDate": "2025-01-27T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
             "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
             "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
             "pubDate": "2025-01-26T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }
