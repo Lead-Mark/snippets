@@ -2,43 +2,8 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-07T16:05:23.235347",
+    "lastBuildDate": "2025-11-07T21:28:58.646409",
     "items": [
-        {
-            "title": "Expert roundtable to examine the future of warehouse automation",
-            "link": "https://www.therobotreport.com/experts-roundtable-examine-future-warehouse-automation/",
-            "description": "Experts from DHL Supply Chain, inVia Robotics, and Interact Analysis will discuss where warehouse automation is going in a free webinar. The post Expe...",
-            "pubDate": "2025-11-07T20:10:28",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/IMG_0731-copy.jpg"
-        },
-        {
-            "title": "The Download: a new home under the sea, and cloning pets",
-            "link": "https://www.technologyreview.com/2025/11/07/1127765/the-download-a-new-home-under-the-sea-and-cloning-pets/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The first ne...",
-            "pubDate": "2025-11-07T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_7ec9ce.png"
-        },
-        {
-            "title": "ACCES I/O Products releases PCI Express Mini Card multifunction analog I/O module",
-            "link": "https://www.therobotreport.com/acces-i-o-products-releases-pci-express-mini-card-multifunction-analog-output-input-module/",
-            "description": "ACCES I/O Products said the module comes in a small, rugged design ideal for embedded and OEM applications. The post ACCES I/O Products releases PCI E...",
-            "pubDate": "2025-11-07T15:37:24",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/accessio-newproduct-featured.jpg"
-        },
-        {
-            "title": "How Carbon Robotics built the large plant model for its laser weeding robot",
-            "link": "https://www.therobotreport.com/how-carbon-robotics-built-the-large-plant-model-for-its-laser-weeding-robot/",
-            "description": "Carbon Robotics founder and CEO Paul Mikesell explains how the agbotics company built its AI model with high-quality data. The post How Carbon Robotic...",
-            "pubDate": "2025-11-07T13:34:47",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Paul-Mikesell-with-LaserWeeder-G2-featured.jpg"
-        },
-        {
-            "title": "QSS partners with Humanoid to advance robotics in Saudi Arabia",
-            "link": "https://www.therobotreport.com/qss-ai-robotics-partners-humanoid-advance-robotics-development-saudi-arabia/",
-            "description": "QSS AI & Robotics and Humanoid plan to produce and deploy 10,000 robots across industries in Saudi Arabia. The post QSS partners with Humanoid to adva...",
-            "pubDate": "2025-11-07T15:07:26",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/HMND-01-Alpha_Humanoid_6-copy.jpg"
-        },
         {
             "title": "The first new subsea habitat in 40 years is about to launch",
             "link": "https://www.technologyreview.com/2025/11/07/1127682/vanguard-deep-subsea-habitat-launch/",
@@ -54,25 +19,67 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Roomba_Max_705_Combo_AutoWash_Black_Photo_InSitu_Amazon_Hotspot_DualEdgeBrushes_Mobile600X450-featured.jpg"
         },
         {
+            "title": "Expert roundtable to examine the future of warehouse automation",
+            "link": "https://www.therobotreport.com/experts-roundtable-examine-future-warehouse-automation/",
+            "description": "Experts from DHL Supply Chain, inVia Robotics, and Interact Analysis will discuss where warehouse automation is going in a free webinar. The post Expe...",
+            "pubDate": "2025-11-07T20:10:28",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/IMG_0731-copy.jpg"
+        },
+        {
+            "title": "The Download: a new home under the sea, and cloning pets",
+            "link": "https://www.technologyreview.com/2025/11/07/1127765/the-download-a-new-home-under-the-sea-and-cloning-pets/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The first ne...",
+            "pubDate": "2025-11-07T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_7ec9ce.png"
+        },
+        {
+            "title": "Terminal-Bench 2.0 launches alongside Harbor, a new framework for testing agents in containers",
+            "link": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing",
+            "description": "The developers of Terminal-Bench, a benchmark suite for evaluating the performance of autonomous AI agents on real-world terminal-based tasks, have re...",
+            "pubDate": "2025-11-07T23:25:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3YRfPQFGsSiFX8rossiNKz/8696ac6b503ac581d02306acc60e62e5/cfr0z3n_intricate_detailed_graphic_novel_two-tone_artwork_sceni_79cceaf2-7024-4d08-9591-c7998cfebd19.png?w=300&q=30"
+        },
+        {
+            "title": "How Carbon Robotics built the large plant model for its laser weeding robot",
+            "link": "https://www.therobotreport.com/how-carbon-robotics-built-the-large-plant-model-for-its-laser-weeding-robot/",
+            "description": "Carbon Robotics founder and CEO Paul Mikesell explains how the agbotics company built its AI model with high-quality data. The post How Carbon Robotic...",
+            "pubDate": "2025-11-07T13:34:47",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Paul-Mikesell-with-LaserWeeder-G2-featured.jpg"
+        },
+        {
+            "title": "Ship fast, optimize later: top AI engineers don't care about cost — they're prioritizing deployment",
+            "link": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre",
+            "description": "Across industries, rising compute expenses are often cited as a barrier to AI adoption — but leading companies are finding that cost is no longer the ...",
+            "pubDate": "2025-11-07T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3GLdSvkbnSK8BCy90z2vow/fd7435230ee4d83e6f66a184129ba54b/Recursor_Wonder_transformed.png?w=300&q=30"
+        },
+        {
+            "title": "ACCES I/O Products releases PCI Express Mini Card multifunction analog I/O module",
+            "link": "https://www.therobotreport.com/acces-i-o-products-releases-pci-express-mini-card-multifunction-analog-output-input-module/",
+            "description": "ACCES I/O Products said the module comes in a small, rugged design ideal for embedded and OEM applications. The post ACCES I/O Products releases PCI E...",
+            "pubDate": "2025-11-07T15:37:24",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/accessio-newproduct-featured.jpg"
+        },
+        {
+            "title": "QSS partners with Humanoid to advance robotics in Saudi Arabia",
+            "link": "https://www.therobotreport.com/qss-ai-robotics-partners-humanoid-advance-robotics-development-saudi-arabia/",
+            "description": "QSS AI & Robotics and Humanoid plan to produce and deploy 10,000 robots across industries in Saudi Arabia. The post QSS partners with Humanoid to adva...",
+            "pubDate": "2025-11-07T15:07:26",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/HMND-01-Alpha_Humanoid_6-copy.jpg"
+        },
+        {
+            "title": "NYU’s new AI architecture makes high-quality image generation faster and cheaper",
+            "link": "https://venturebeat.com/ai/nyus-new-ai-architecture-makes-high-quality-image-generation-faster-and",
+            "description": "Researchers at New York University have developed a new architecture for diffusion models that improves the semantic representation of the images they...",
+            "pubDate": "2025-11-07T00:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4JBgPGu6bOIBWN8QLwUeQP/0b105c2a76cd1ecc0e2903b7b0fc1115/diffusion_process.jpg?w=300&q=30"
+        },
+        {
             "title": "Cloning isn’t just for celebrity pets like Tom Brady’s dog",
             "link": "https://www.technologyreview.com/2025/11/07/1127692/cloning-celebrity-pets-tom-brady-dog-conservation/",
             "description": "This week, we heard that Tom Brady had his dog cloned. The former quarterback revealed that his Junie is actually a clone of Lua, a pit bull mix that ...",
             "pubDate": "2025-11-07T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "From prototype to production: What vibe coding tools must fix for enterprise adoption",
-            "link": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise",
-            "description": "Presented by Salesforce Vibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, ...",
-            "pubDate": "2025-11-06T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Tb1BL75AhuG8odK9Kz0XF/5237845c829eb7c9f8d20b41fcdbd9da/AdobeStock_1628357042.jpeg?w=300&q=30"
-        },
-        {
-            "title": "The compute rethink: Scaling AI where data lives, at the edge",
-            "link": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge",
-            "description": "Presented by Arm AI is no longer confined to the cloud or data centers. Increasingly, it’s running directly where data is created — in devices, sensor...",
-            "pubDate": "2025-11-06T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ERDb8KPErLVHncySz9rfu/b8f28a9fe706982175c4a8310f45ea90/AdobeStock_624772113.jpeg?w=300&q=30"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Moonshot's Kimi K2 Thinking emerges as leading open source AI, outperforming GPT-5, Claude Sonnet 4.5 on key benchmarks",
@@ -82,13 +89,6 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1HGuj3BsedMoBgz8md53tP/b48cd315b64ffaf658892d572c61d188/cfr0z3n_fisheye_view_surreal_bold_deep_color_vibrant_high_contr_5795af91-597f-4686-8f07-ff43e6922e8c.png?w=300&q=30"
         },
         {
-            "title": "Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions",
-            "link": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal",
-            "description": "Google Cloud is introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generation Tensor Proc...",
-            "pubDate": "2025-11-06T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3wiaJuUTbBrUaBp8cSXtO4/81095c7817da6a2967a961ed60356ed4/Ironwood_board.jpg?w=300&q=30"
-        },
-        {
             "title": "The Download: how doctors fight conspiracy theories, and your AI footprint",
             "link": "https://www.technologyreview.com/2025/11/06/1127666/the-download-how-doctors-fight-conspiracy-theories-and-your-ai-footprint/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How conspira...",
@@ -96,18 +96,18 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f4d6.png"
         },
         {
-            "title": "Why Google’s File Search could displace DIY RAG stacks in the enterprise",
-            "link": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise",
-            "description": "By now, enterprises understand that retrieval augmented generation (RAG) allows applications and agents to find the best, most grounded information fo...",
-            "pubDate": "2025-11-06T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2KW1BliyFMc64n78OqnVlM/ac451c69dcc831ebd51d04db82bb7336/crimedy7_illustration_of_digital_pipes_--ar_169_--v_7_bd27b512-87b7-4c25-a63a-7c8829441315_0.png?w=300&q=30"
+            "title": "Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions",
+            "link": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal",
+            "description": "Google Cloud is introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generation Tensor Proc...",
+            "pubDate": "2025-11-06T13:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3wiaJuUTbBrUaBp8cSXtO4/81095c7817da6a2967a961ed60356ed4/Ironwood_board.jpg?w=300&q=30"
         },
         {
             "title": "Stop worrying about your AI footprint. Look at the big picture instead.",
             "link": "https://www.technologyreview.com/2025/11/06/1127579/ai-footprint/",
             "description": "Picture it: I’m minding my business at a party, parked by the snack table (of course). A friend of a friend wanders up, and we strike up a conversatio...",
             "pubDate": "2025-11-06T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
