@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-07T21:28:35.497095",
+    "lastBuildDate": "2025-11-08T23:46:22.340503",
     "items": [
+        {
+            "title": "5-Ingredient Stuffing",
+            "link": "https://therecipecritic.com/5-ingredient-stuffing/",
+            "description": "This 5-ingredient stuffing has the same buttery, herby taste as the traditional recipe. All the flavor of classic Thanksgiving stuffing…",
+            "pubDate": "2025-11-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/5-ingredient-stuffing-.jpg"
+        },
         {
             "title": "Weekly Meal Plan #66",
             "link": "https://therecipecritic.com/weekly-meal-plan-66/",
@@ -31,13 +38,6 @@
             "description": "Rich, creamy, and ready in minutes, this turkey gravy is pure holiday comfort. Once you pour it over your turkey…",
             "pubDate": "2025-11-05T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2019/10/turkey_gravy_hero.jpg"
-        },
-        {
-            "title": "Homemade Beef Broth",
-            "link": "https://therecipecritic.com/homemade-beef-broth/",
-            "description": "This rich, flavorful homemade beef broth is slow-simmered from roasted bones, vegetables, and herbs for lots of flavor. It’s perfect…",
-            "pubDate": "2025-11-04T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/homemade-beef-broth-.jpg"
         },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",
