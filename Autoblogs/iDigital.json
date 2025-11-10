@@ -2,28 +2,70 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-10T08:45:18.325431",
+    "lastBuildDate": "2025-11-10T16:21:12.590758",
     "items": [
+        {
+            "title": "How context engineering can save your company from AI vibe code overload: lessons from Qodo and Monday.com",
+            "link": "https://venturebeat.com/ai/how-context-engineering-can-save-your-company-from-ai-vibe-code-overload",
+            "description": "As cloud project tracking software monday.com ’s engineering organization scaled past 500 developers, the team began to feel the strain of its own suc...",
+            "pubDate": "2025-11-10T15:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6ITdq6fWHUqQToLpa2LMjE/9071464cc3dabd3e163518c89f5eb3b2/cfr0z3n_aerial_view_extended_view_of_hundreds_of_software_devel_dac48c75-82c8-48b8-9ca4-ff785e9ba5f3.png?w=300&q=30"
+        },
+        {
+            "title": "Celosphere 2025: Where enterprise AI moved from experiment to execution",
+            "link": "https://venturebeat.com/ai/celosphere-2025-where-enterprise-ai-moved-from-experiment-to-execution",
+            "description": "Presented by Celonis After a year of boardroom declarations about “AI transformation,” this was the week where enterprise leaders came together to tal...",
+            "pubDate": "2025-11-10T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/uV4vD3ySkvCA0p9ZGxJhR/2ad630e0970a0d2668b8a78dd5c9e013/2025_10_04_Celosphere_3O7A5496__1_.jpg?w=300&q=30"
+        },
+        {
+            "title": "Baseten takes on hyperscalers with new AI training platform that lets you own your model weights",
+            "link": "https://venturebeat.com/ai/baseten-takes-on-hyperscalers-with-new-ai-training-platform-that-lets-you",
+            "description": "Baseten , the AI infrastructure company recently valued at $2.15 billion, is making its most significant product pivot yet: a full-scale push into mod...",
+            "pubDate": "2025-11-10T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/789u1ePM0udlJqqwgxRkPd/6fd3661185f8285972d95d68249faa03/nuneybits_Vector_art_of_multi-cloud_nodes_interconnected_global_df5a72fb-1f71-4b95-8b12-94c1e8def7d6.webp?w=300&q=30"
+        },
+        {
+            "title": "Chronosphere takes on Datadog with AI that explains itself, not just outages",
+            "link": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages",
+            "description": "Chronosphere , a New York-based observability startup valued at $1.6 billion , announced Monday it will launch AI-Guided Troubleshooting capabilities ...",
+            "pubDate": "2025-11-10T19:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6Jp2LKG6zzFEnDhB9m893X/06467084db114c990d9e72be3896bf51/nuneybits_Vector_art_of_AI_debugging_maze_2b3bfc89-ab17-4839-a03e-6331a42f5030.webp?w=300&q=30"
+        },
+        {
+            "title": "The State of AI: Energy is king, and the US is falling behind",
+            "link": "https://www.technologyreview.com/2025/11/10/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/",
+            "description": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publicatio...",
+            "pubDate": "2025-11-10T16:45:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/4c1e48f3-a8d9-fed3-bfeb-c686add0bb5d.png?w=1200"
+        },
+        {
+            "title": "Partner Robotics picks up funding to deploy more construction robots",
+            "link": "https://www.therobotreport.com/partner-robotics-picks-up-fresh-funding-deploy-more-building-tiling-robots/",
+            "description": "Since it was founded in 2023, Partner Robotics has raised around RMB 100 million for building and tiling robots. The post Partner Robotics picks up fu...",
+            "pubDate": "2025-11-10T19:27:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/partnerrobotics-featured.jpg"
+        },
+        {
+            "title": "Reimagining cybersecurity in the era of AI and quantum",
+            "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+            "description": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders an...",
+            "pubDate": "2025-11-10T14:19:28",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/CISCO-iStock-2156608663.jpg"
+        },
+        {
+            "title": "Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively",
+            "link": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can",
+            "description": "Meta has just released a new multilingual automatic speech recognition (ASR) system supporting 1,600+ languages — dwarfing OpenAI’s open source Whispe...",
+            "pubDate": "2025-11-10T20:27:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5WF8w75sB7wnAYEK5pYnPD/16059c6ac3f6b853b3b301bc66f950d3/cfr0z3n_graphic_novel_abstract_expressionist_outline_style_show_390da294-e50e-424d-ab36-20b02133d3d9.png?w=300&q=30"
+        },
         {
             "title": "The Download: busting weather myths, and AI heart attack prediction",
             "link": "https://www.technologyreview.com/2025/11/10/1127798/the-download-busting-weather-myths-and-ai-heart-attack-prediction/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why it’s so ...",
             "pubDate": "2025-11-10T13:10:00",
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f4f0.png"
-        },
-        {
-            "title": "6 proven lessons from the AI projects that broke before they scaled",
-            "link": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled",
-            "description": "Companies hate to admit it, but the road to production-level AI deployment is littered with proof of concepts (PoCs) that go nowhere, or failed projec...",
-            "pubDate": "2025-11-09T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/9vQIPNRompjXxzQ45ADsZ/7b6c888af7d577cb86f1e040c1b56c7f/AI_failures.png?w=300&q=30"
-        },
-        {
-            "title": "The State of AI: Energy is king, and the US is falling behind",
-            "link": "https://www.technologyreview.com/2025/11/09/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/",
-            "description": "Welcome to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday for the next six weeks, writers fr...",
-            "pubDate": "2025-11-09T16:30:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/4c1e48f3-a8d9-fed3-bfeb-c686add0bb5d.png?w=1200"
         },
         {
             "title": "Is physical world AI the future of autonomous machines?",
@@ -33,25 +75,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AdobeStock_1679927749-1024x683.jpeg"
         },
         {
-            "title": "What could possibly go wrong if an enterprise replaces all its engineers with AI?",
-            "link": "https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers",
-            "description": "AI coding, vibe coding and agentic swarm have made a dramatic and astonishing recent market entrance, with the AI Code Tools market valued at $4.8 bil...",
-            "pubDate": "2025-11-08T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1PiLMdaIC9zNld7zUb6c5A/6085df3002ea17a77730da954ae69c07/What_could_possibly_go_wrong.png?w=300&q=30"
-        },
-        {
             "title": "Holman Robotics launches to offer automation management services",
             "link": "https://www.therobotreport.com/holman-robotics-launches-offers-automation-management-services/",
             "description": "Automotive services company Holman has launched a robotics division to provide end-to-end support for industrial automation deployments. The post Holm...",
             "pubDate": "2025-11-08T13:34:43",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Holman_Robotics.jpg"
-        },
-        {
-            "title": "NYU’s new AI architecture makes high-quality image generation faster and cheaper",
-            "link": "https://venturebeat.com/ai/nyus-new-ai-architecture-makes-high-quality-image-generation-faster-and",
-            "description": "Researchers at New York University have developed a new architecture for diffusion models that improves the semantic representation of the images they...",
-            "pubDate": "2025-11-07T00:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4JBgPGu6bOIBWN8QLwUeQP/0b105c2a76cd1ecc0e2903b7b0fc1115/diffusion_process.jpg?w=300&q=30"
         },
         {
             "title": "ACCES I/O Products releases PCI Express Mini Card multifunction analog I/O module",
@@ -61,18 +89,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/accessio-newproduct-featured.jpg"
         },
         {
-            "title": "Terminal-Bench 2.0 launches alongside Harbor, a new framework for testing agents in containers",
-            "link": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing",
-            "description": "The developers of Terminal-Bench, a benchmark suite for evaluating the performance of autonomous AI agents on real-world terminal-based tasks, have re...",
-            "pubDate": "2025-11-07T23:25:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3YRfPQFGsSiFX8rossiNKz/8696ac6b503ac581d02306acc60e62e5/cfr0z3n_intricate_detailed_graphic_novel_two-tone_artwork_sceni_79cceaf2-7024-4d08-9591-c7998cfebd19.png?w=300&q=30"
-        },
-        {
-            "title": "QSS partners with Humanoid to advance robotics in Saudi Arabia",
-            "link": "https://www.therobotreport.com/qss-ai-robotics-partners-humanoid-advance-robotics-development-saudi-arabia/",
-            "description": "QSS AI & Robotics and Humanoid plan to produce and deploy 10,000 robots across industries in Saudi Arabia. The post QSS partners with Humanoid to adva...",
-            "pubDate": "2025-11-07T15:07:26",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/HMND-01-Alpha_Humanoid_6-copy.jpg"
+            "title": "The Download: a new home under the sea, and cloning pets",
+            "link": "https://www.technologyreview.com/2025/11/07/1127765/the-download-a-new-home-under-the-sea-and-cloning-pets/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The first ne...",
+            "pubDate": "2025-11-07T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_7ec9ce.png"
         },
         {
             "title": "The first new subsea habitat in 40 years is about to launch",
@@ -82,20 +103,6 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MarkHarris_20251029_171637167.MP_.jpg?w=2363"
         },
         {
-            "title": "Ship fast, optimize later: top AI engineers don't care about cost — they're prioritizing deployment",
-            "link": "https://venturebeat.com/data-infrastructure/ship-fast-optimize-later-top-ai-engineers-dont-care-about-cost-theyre",
-            "description": "Across industries, rising compute expenses are often cited as a barrier to AI adoption — but leading companies are finding that cost is no longer the ...",
-            "pubDate": "2025-11-07T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3GLdSvkbnSK8BCy90z2vow/fd7435230ee4d83e6f66a184129ba54b/Recursor_Wonder_transformed.png?w=300&q=30"
-        },
-        {
-            "title": "The Download: a new home under the sea, and cloning pets",
-            "link": "https://www.technologyreview.com/2025/11/07/1127765/the-download-a-new-home-under-the-sea-and-cloning-pets/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The first ne...",
-            "pubDate": "2025-11-07T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_7ec9ce.png"
-        },
-        {
             "title": "Expert roundtable to examine the future of warehouse automation",
             "link": "https://www.therobotreport.com/experts-roundtable-examine-future-warehouse-automation/",
             "description": "Experts from DHL Supply Chain, inVia Robotics, and Interact Analysis will discuss where warehouse automation is going in a free webinar. The post Expe...",
@@ -103,18 +110,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/IMG_0731-copy.jpg"
         },
         {
-            "title": "Cloning isn’t just for celebrity pets like Tom Brady’s dog",
-            "link": "https://www.technologyreview.com/2025/11/07/1127692/cloning-celebrity-pets-tom-brady-dog-conservation/",
-            "description": "This week, we heard that Tom Brady had his dog cloned. The former quarterback revealed that his Junie is actually a clone of Lua, a pit bull mix that ...",
-            "pubDate": "2025-11-07T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -124,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
