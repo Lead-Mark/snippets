@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-10T21:45:07.473447",
+    "lastBuildDate": "2025-11-11T05:16:53.999330",
     "items": [
+        {
+            "title": "Cranberry Orange Cookie Bars (Vegan + Gluten-Free)",
+            "link": "https://minimalistbaker.com/cranberry-orange-cookie-bars/",
+            "description": "The texture and flavor of a cookie with the ease of a bar? Talk about the perfect dessert! Introducing: cranberry orange cookie bars! These chewy, but...",
+            "pubDate": "2025-11-11T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/09/Vegan-Gluten-Free-Cranberry-Orange-Cookie-Bars-9-680x1020.jpg"
+        },
         {
             "title": "Rosemary Focaccia",
             "link": "https://therecipecritic.com/rosemary-focaccia/",
@@ -26,18 +33,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2022/11/baggedturkey-2-750x1000-1.jpeg"
         },
         {
-            "title": "Weekly Meal Plan #66",
-            "link": "https://therecipecritic.com/weekly-meal-plan-66/",
-            "description": "Meal planning has become my new favorite thing! I’m not naturally super organized, but having a weekly meal plan, grocery…",
-            "pubDate": "2025-11-08T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/Week-66-Meal-Plan-Collage-.jpg"
-        },
-        {
             "title": "5-Ingredient Stuffing",
             "link": "https://therecipecritic.com/5-ingredient-stuffing/",
             "description": "This 5-ingredient stuffing has the same buttery, herby taste as the traditional recipe. All the flavor of classic Thanksgiving stuffing…",
             "pubDate": "2025-11-08T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/5-ingredient-stuffing-.jpg"
+        },
+        {
+            "title": "Weekly Meal Plan #66",
+            "link": "https://therecipecritic.com/weekly-meal-plan-66/",
+            "description": "Meal planning has become my new favorite thing! I’m not naturally super organized, but having a weekly meal plan, grocery…",
+            "pubDate": "2025-11-08T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/Week-66-Meal-Plan-Collage-.jpg"
         },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",
@@ -59,13 +66,6 @@
             "description": "Making chai lattes has never been easier! This Instant Chai Latte Mix makes comforting chai lattes possible instantly . Just add water and your favori...",
             "pubDate": "2025-09-30T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Instant-Chai-Latte-Mix-8-680x1020.jpg"
-        },
-        {
-            "title": "Pillowy Gluten-Free Pita (from Aran Goyoaga’s Cookbook)",
-            "link": "https://minimalistbaker.com/gluten-free-pita/",
-            "description": "We’ve long admired the super talented gluten-free chef and baker Aran Goyoaga. But our status went from fans to super fans last year when she posted a...",
-            "pubDate": "2025-09-23T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/08/Pillowy-Gluten-Free-Pita-Aran-Goyoaga-12-680x1020.jpg"
         }
     ]
 }
