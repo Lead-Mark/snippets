@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-12T05:40:27.964541",
+    "lastBuildDate": "2025-11-12T11:02:58.425095",
     "items": [
+        {
+            "title": "Immigrants with obesity, diabetes and other health problems may be denied visas",
+            "link": "https://www.npr.org/2025/11/12/nx-s1-5606348/immigrants-visas-health-conditions-trump-guidance",
+            "description": "New guidance from the Trump administration directs visa officers to consider common health ailments, including obesity and diabetes, when would-be imm...",
+            "pubDate": "2025-11-12T14:46:54",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x570+0+0/resize/1024x570!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F3a%2F51f05f2d450dbc2ebfd9e24d31cd%2Fgettyimages-1224917096.jpg"
+        },
         {
             "title": "Hysterectomy Status and Outcomes in Patients With Grade 1, Stage IA Endometrioid Adenocarcinoma",
             "link": "https://www.2minutemedicine.com/hysterectomy-status-and-outcomes-in-patients-with-grade-1-stage-ia-endometrioid-adenocarcinoma/",
@@ -12,74 +19,81 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/01/ob_surg_edited-300x150.jpg"
         },
         {
-            "title": "Sniffing During Neffy: Epinephrine Still Effective",
-            "link": "https://www.medscape.com/viewarticle/sniffing-during-neffy-epinephrine-still-effective-2025a1000vc3?src=rss",
-            "description": "The FDA approved the first-in-its-class nasal spray last year. Medscape Medical News",
-            "pubDate": "2025-11-12T10:36:27",
+            "title": "Is a veggie burger still a burger? A linguist explains",
+            "link": "https://medicalxpress.com/news/2025-11-veggie-burger-linguist.html",
+            "description": "In October 2025, members of the European Parliament voted in favor of a bill to reserve terms such as \"burger\" and \"sausage\" for meat products. If thi...",
+            "pubDate": "2025-11-12T15:00:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Five types of 'wellness woo' that borrow from mainstream medicine",
+            "link": "https://medicalxpress.com/news/2025-11-wellness-woo-mainstream-medicine.html",
+            "description": "What we consider \"fringe\" or \"mainstream\" changes over time. That applies to health and medicine too.",
+            "pubDate": "2025-11-12T15:03:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Experimental drug protects mitochondria and prevents kidney injury in mice",
+            "link": "https://medicalxpress.com/news/2025-11-experimental-drug-mitochondria-kidney-injury.html",
+            "description": "Serious damage to short-term kidney function—known as acute kidney injury, or AKI—can be fatal and also increase the risk of irreversible chronic kidn...",
+            "pubDate": "2025-11-12T16:00:07",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Only 18% of Doctors in France Are Immigrants",
-            "link": "https://www.medscape.com/viewarticle/only-18-doctors-france-are-immigrants-2025a1000vbl?src=rss",
-            "description": "The OECD attributes France’s decline in medical immigration to expanded medical school admissions, capped for decades under the numerus clausus system...",
-            "pubDate": "2025-11-12T09:49:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Early Dementia Types Show Distinct Survival Patterns",
+            "link": "https://www.medscape.com/viewarticle/early-dementia-types-show-distinct-survival-patterns-2025a1000v4l?src=rss",
+            "description": "Early-onset dementia significantly shortens patients' survival, with frontotemporal dementia bearing the greatest burden. Medscape News UK",
+            "pubDate": "2025-11-12T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Clinician Education May Cut Steroid Use in Primary Care",
-            "link": "https://www.medscape.com/viewarticle/clinician-education-and-feedback-may-reduce-inappropriate-2025a1000vby?src=rss",
-            "description": "Educational interventions and personalized feedback may reduce inappropriate corticosteroid injections for acute respiratory infections by primary car...",
-            "pubDate": "2025-11-12T10:31:35",
+            "title": "Is Emergency Intubation Safe in Trauma Care?",
+            "link": "https://www.medscape.com/viewarticle/emergency-intubation-safe-trauma-care-2025a1000vdb?src=rss",
+            "description": "Endotracheal intubation in the emergency department is linked to shorter 24-hour survival and a higher early mortality rate in patients with trauma, a...",
+            "pubDate": "2025-11-12T13:19:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Can CT Accurately Detect Cancer Despite Rising CT Referrals?",
+            "link": "https://www.medscape.com/viewarticle/can-ct-scans-accurately-detect-cancer-patients-non-specific-2025a1000v4b?src=rss",
+            "description": "Although CT referrals from GPs in Denmark have seen an increase, over 10% of patients with non-specific symptoms are diagnosed with cancer, indicating...",
+            "pubDate": "2025-11-12T12:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Brazil’s MasSpec Pen Finds Cancer in Real Time in 90 Seconds",
-            "link": "https://www.medscape.com/viewarticle/brazils-masspec-pen-finds-cancer-real-time-90-seconds-2025a1000vbp?src=rss",
-            "description": "Brazil is assessing the MasSpec Pen, a real-time cancer detection tool that identifies tumors in 90 seconds, to improve surgical precision and outcome...",
-            "pubDate": "2025-11-12T10:19:07",
+            "title": "Mental and physical coaching before surgery prepares immune system and reduces complications, trial finds",
+            "link": "https://medicalxpress.com/news/2025-11-mental-physical-surgery-immune-complications.html",
+            "description": "The weeks leading up to a major surgery can be a time of uncertainty and worry for patients, many of whom anticipate the need for rehabilitation to ge...",
+            "pubDate": "2025-11-12T16:00:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Lives Lost to America’s Blood Pressure Divide",
+            "link": "https://www.medscape.com/viewarticle/lives-lost-americas-blood-pressure-divide-2025a1000vb2?src=rss",
+            "description": "About 58% of Black adults in the US have high blood pressure. Medscape Medical News",
+            "pubDate": "2025-11-12T13:21:44",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Biovac starts trials on South Africa's first domestically developed cholera vaccine",
-            "link": "https://medicalxpress.com/news/2025-11-biovac-trials-south-africa-domestically.html",
-            "description": "Researchers and scientists in South Africa on Tuesday launched clinical trials on the first domestically developed vaccine.",
-            "pubDate": "2025-11-12T09:08:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Phase 3 Data Support Oral Therapy for Psoriasis",
+            "link": "https://www.medscape.com/viewarticle/moderate-severe-psoriasis-novel-oral-therapy-acts-biologic-2025a1000vbh?src=rss",
+            "description": "A novel oral therapy that inhibits the interleukin-23 inflammatory pathway provided control of moderate-to-severe psoriasis at a level similar to a bi...",
+            "pubDate": "2025-11-12T14:24:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Timely home repairs are needed for good health in remote Aboriginal communities",
-            "link": "https://medicalxpress.com/news/2025-11-home-good-health-remote-aboriginal.html",
-            "description": "For people living in metro areas, a broken hot water system or washing machine is a nuisance. But it can usually be sorted by a phone call for a same-...",
-            "pubDate": "2025-11-12T02:10:02",
+            "title": "LSD microdosing reduces depression scores without major side effects, clinical trial finds",
+            "link": "https://medicalxpress.com/news/2025-11-lsd-microdosing-depression-scores-major.html",
+            "description": "University of Auckland researchers report that an 8-week, twice-weekly LSD microdosing regimen for major depressive disorder was feasible and well-tol...",
+            "pubDate": "2025-11-12T15:03:35",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Treatment with antibiotics and steroids in adults with pneumonia addressed in latest clinical practice guideline",
-            "link": "https://medicalxpress.com/news/2025-11-treatment-antibiotics-steroids-adults-pneumonia.html",
-            "description": "Pneumonia, a largely preventable disease, caused more than two million deaths in 2021, according to the Global Burden of Disease report. Evidence-base...",
-            "pubDate": "2025-11-12T10:12:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "DNA Test Outshines PET for Lymphoma Prognosis",
-            "link": "https://www.medscape.com/viewarticle/dna-test-outshines-pet-lymphoma-prognosis-2025a1000vc4?src=rss",
-            "description": "As PET scans fall short, blood-based circulating tumor DNA testing shows promise in monitoring large B-cell lymphoma treatment response. Medscape Medi...",
-            "pubDate": "2025-11-12T10:36:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Better treatments buoy multiple-myeloma patients, bound by research cuts and racial disparities",
-            "link": "https://medicalxpress.com/news/2025-11-treatments-buoy-multiple-myeloma-patients.html",
-            "description": "For more than a year, Diane Hunter, now 72, had been experiencing vague symptoms—pain in her spine and hips, nausea, exhaustion, thirst, and frequent ...",
-            "pubDate": "2025-11-12T01:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "ByHeart recalls all baby formula sold nationwide as infant botulism outbreak grows",
-            "link": "https://medicalxpress.com/news/2025-11-byheart-recalls-baby-formula-sold.html",
-            "description": "ByHeart, a manufacturer of organic baby formula, recalled all of its products sold nationwide Tuesday, days after some batches were recalled in an exp...",
-            "pubDate": "2025-11-12T09:10:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Risk of cardiovascular mortality in patients with gastric cancer",
+            "link": "https://www.2minutemedicine.com/risk-of-cardiovascular-mortality-in-patients-with-gastric-cancer/",
+            "description": "1. In this cohort of patients with gastric cancer, there was a significantly higher risk of cardiovascular death compared with the general population....",
+            "pubDate": "2025-11-11T00:00:45",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/heart-cardiovascular-cardiac-PD-300x150.jpg"
         },
         {
             "title": "Is hormone therapy for menopause right for you? 6 things to know",
@@ -96,13 +110,6 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6951x5213+435+0/resize/6951x5213!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2Fa7%2F5a81763c474b9cbbe0e15d4551b5%2Fap25289506125167.jpg"
         },
         {
-            "title": "I'm pregnant but my doctor won't see me before 9 weeks. Why not? Is it OK to wait?",
-            "link": "https://www.npr.org/2025/11/11/nx-s1-5604880/pregnant-early-pregnancy-prenatal-care-visit",
-            "description": "A pregnancy test can tell you that you're expecting as early as 4 weeks, but most doctors won't see you for another month. Many women want care sooner...",
-            "pubDate": "2025-11-11T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2800+0+0/resize/3500x2800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2F3a%2F774b71d0452799fef69037035cb1%2Fnpr-ask-the-doctor-2-fa.jpg"
-        },
-        {
             "title": "COVID vaccine rollout and pandemic preparedness assessed in new book, 'Fair Doses'",
             "link": "https://www.npr.org/sections/goats-and-soda/2025/11/11/g-s1-97230/vaccines-pandemic-preparedness-covid-seth-berkley-fair-doses",
             "description": "In his new book, ' Fair Doses,' epidemiologist Seth Berkley discusses what went right -- and wrong -- with COVID vaccine distribution and whether the ...",
@@ -110,31 +117,31 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5418x3826+0+0/resize/5418x3826!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F57%2Ffffcbbfd41088b3fdedbe14454d4%2Fseth-berkely-promo-3.jpg"
         },
         {
-            "title": "Risk of cardiovascular mortality in patients with gastric cancer",
-            "link": "https://www.2minutemedicine.com/risk-of-cardiovascular-mortality-in-patients-with-gastric-cancer/",
-            "description": "1. In this cohort of patients with gastric cancer, there was a significantly higher risk of cardiovascular death compared with the general population....",
-            "pubDate": "2025-11-11T00:00:45",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/heart-cardiovascular-cardiac-PD-300x150.jpg"
-        },
-        {
-            "title": "College student with cerebral palsy returns to clinic that transformed her life",
-            "link": "https://www.npr.org/2025/11/11/nx-s1-5566729/college-student-with-cerebral-palsy-returns-to-clinic-that-transformed-her-life",
-            "description": "A 21-year old college student with cerebral palsy experienced a full circle moment when she got a chance to work with researchers at a clinic that hel...",
-            "pubDate": "2025-11-11T09:46:07",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5566729"
+            "title": "I'm pregnant but my doctor won't see me before 9 weeks. Why not? Is it OK to wait?",
+            "link": "https://www.npr.org/2025/11/11/nx-s1-5604880/pregnant-early-pregnancy-prenatal-care-visit",
+            "description": "A pregnancy test can tell you that you're expecting as early as 4 weeks, but most doctors won't see you for another month. Many women want care sooner...",
+            "pubDate": "2025-11-11T12:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2800+0+0/resize/3500x2800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2F3a%2F774b71d0452799fef69037035cb1%2Fnpr-ask-the-doctor-2-fa.jpg"
         },
         {
             "title": "Illinois’ new AI therapy ban has a loophole",
             "link": "https://kevinmd.com/2025/11/illinois-new-ai-therapy-ban-has-a-loophole.html",
             "description": "As a psychiatry resident, I have been closely monitoring developments in the proliferation of AI chatbots for therapy. The moment feels like the groun...",
             "pubDate": "2025-11-11T12:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Physicians must lead the vetting of AI",
-            "link": "https://kevinmd.com/2025/11/physicians-must-lead-the-vetting-of-ai.html",
-            "description": "Walking out of the cath lab one night after taking care of a patient with an acute myocardial infarction, a thought crossed my mind. In cardiology, we...",
-            "pubDate": "2025-11-11T18:00:03",
+            "title": "Redefining health care through agency and partnership [PODCAST]",
+            "link": "https://kevinmd.com/2025/11/redefining-health-care-through-agency-and-partnership-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Patient advocates Alan P. Feren and Joyce Griggs discuss the article ...",
+            "pubDate": "2025-11-11T00:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Physician entrepreneurship and financial freedom",
+            "link": "https://kevinmd.com/2025/11/physician-entrepreneurship-and-financial-freedom.html",
+            "description": "In a unique episode of the Wealth Planning for the Modern Physician podcast, host David Mandell, JD, MBA, sat down with a resident, although not your ...",
+            "pubDate": "2025-11-11T17:00:41",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
@@ -142,20 +149,13 @@
             "link": "https://kevinmd.com/2025/11/honoring-medical-veterans-and-health-care-heroes.html",
             "description": "This past August, our local hospital celebrated its 50th anniversary. The media published photos from 1975 of the ceremonial groundbreaking with hospi...",
             "pubDate": "2025-11-11T14:00:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Redefining health care through agency and partnership [PODCAST]",
-            "link": "https://kevinmd.com/2025/11/redefining-health-care-through-agency-and-partnership-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Patient advocates Alan P. Feren and Joyce Griggs discuss the article ...",
-            "pubDate": "2025-11-11T00:00:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Physician entrepreneurship and financial freedom",
-            "link": "https://kevinmd.com/2025/11/physician-entrepreneurship-and-financial-freedom.html",
-            "description": "In a unique episode of the Wealth Planning for the Modern Physician podcast, host David Mandell, JD, MBA, sat down with a resident, although not your ...",
-            "pubDate": "2025-11-11T17:00:41",
+            "title": "Physicians must lead the vetting of AI",
+            "link": "https://kevinmd.com/2025/11/physicians-must-lead-the-vetting-of-ai.html",
+            "description": "Walking out of the cath lab one night after taking care of a patient with an acute myocardial infarction, a thought crossed my mind. In cardiology, we...",
+            "pubDate": "2025-11-11T18:00:03",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {

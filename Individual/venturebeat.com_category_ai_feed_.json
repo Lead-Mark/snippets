@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-12T05:39:47.059510",
+    "lastBuildDate": "2025-11-12T11:02:17.981639",
     "items": [
+        {
+            "title": "How Deductive AI saved DoorDash 1,000 engineering hours by automating software debugging",
+            "link": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating",
+            "description": "As software systems grow more complex and AI tools generate code faster than ever, a fundamental problem is getting worse: Engineers are drowning in d...",
+            "pubDate": "2025-11-12T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7mfhEiM01EDWrgDZYpDbte/23713914379b94e43303f9965ccc40ae/nuneybits_Vector_art_of_robot_holding_blueprint_193c9fc5-bbb5-46ea-9ff6-1a08bb03716e.webp?w=300&q=30"
+        },
         {
             "title": "Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini",
             "link": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5",
@@ -31,13 +38,6 @@
             "description": "Meta has just released a new multilingual automatic speech recognition (ASR) system supporting 1,600+ languages — dwarfing OpenAI’s open source Whispe...",
             "pubDate": "2025-11-10T20:27:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5WF8w75sB7wnAYEK5pYnPD/16059c6ac3f6b853b3b301bc66f950d3/cfr0z3n_graphic_novel_abstract_expressionist_outline_style_show_390da294-e50e-424d-ab36-20b02133d3d9.png?w=300&q=30"
-        },
-        {
-            "title": "Chronosphere takes on Datadog with AI that explains itself, not just outages",
-            "link": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages",
-            "description": "Chronosphere , a New York-based observability startup valued at $1.6 billion , announced Monday it will launch AI-Guided Troubleshooting capabilities ...",
-            "pubDate": "2025-11-10T19:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6Jp2LKG6zzFEnDhB9m893X/06467084db114c990d9e72be3896bf51/nuneybits_Vector_art_of_AI_debugging_maze_2b3bfc89-ab17-4839-a03e-6331a42f5030.webp?w=300&q=30"
         }
     ]
 }

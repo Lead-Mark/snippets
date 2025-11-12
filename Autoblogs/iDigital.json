@@ -2,14 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-12T05:39:47.058508",
+    "lastBuildDate": "2025-11-12T11:02:17.980657",
     "items": [
+        {
+            "title": "The Download: how to survive a conspiracy theory, and moldy cities",
+            "link": "https://www.technologyreview.com/2025/11/12/1127881/the-download-how-to-survive-a-conspiracy-theory-and-moldy-cities/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What it’s li...",
+            "pubDate": "2025-11-12T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_892899.png"
+        },
         {
             "title": "Improving VMware migration workflows with agentic AI",
             "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
             "description": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewri...",
             "pubDate": "2025-11-12T10:11:15",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/EPAM-Landing-Page-Card-1.png"
+        },
+        {
+            "title": "How Deductive AI saved DoorDash 1,000 engineering hours by automating software debugging",
+            "link": "https://venturebeat.com/ai/how-deductive-ai-saved-doordash-1-000-engineering-hours-by-automating",
+            "description": "As software systems grow more complex and AI tools generate code faster than ever, a fundamental problem is getting worse: Engineers are drowning in d...",
+            "pubDate": "2025-11-12T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7mfhEiM01EDWrgDZYpDbte/23713914379b94e43303f9965ccc40ae/nuneybits_Vector_art_of_robot_holding_blueprint_193c9fc5-bbb5-46ea-9ff6-1a08bb03716e.webp?w=300&q=30"
         },
         {
             "title": "Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini",
@@ -19,18 +33,18 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6PAfmxLhH2Yv7BpN8vczIt/f33baa764e279c49d01c5a10da8eef61/nuneybits_Vector_art_of_a_GPU_made_out_of_computer_code_and_the_59f97a50-f492-452f-bd5d-1d6e6e904c4a.webp?w=300&q=30"
         },
         {
-            "title": "The power of STEM: Shaping the next generation",
-            "link": "https://www.therobotreport.com/power-stem-shaping-next-generation/",
-            "description": "Podcast guests discuss STEM education and robotics competitions' impact on reshoring, innovation, and workforce development. The post The power of STE...",
-            "pubDate": "2025-11-11T13:24:34",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Rob-Ambrose-sq-headshot.jpg"
+            "title": "Terranova gets seed funding to deploy terraforming robots",
+            "link": "https://www.therobotreport.com/terranova-gets-seed-funding-deploy-terraforming-robots/",
+            "description": "The seed round will allow Terranova to begin its first flood-mitigation projects, scale production of its robot systems, and grow its team. The post T...",
+            "pubDate": "2025-11-12T15:16:18",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/terranova-featured.jpg"
         },
         {
-            "title": "Designing space robots: Harmonic Drive shares history, looks ahead",
-            "link": "https://www.therobotreport.com/designing-space-robots-harmonic-drive-shares-history-looks-ahead/",
-            "description": "Learn about the history of Harmonic Drive with space robots, from the Mariner missions to exploration of Mars. The post Designing space robots: Harmon...",
-            "pubDate": "2025-11-11T19:28:26",
-            "image_url": "https://science.nasa.gov/wp-content/uploads/2017/12/p3919a-mariner-mars.jpg"
+            "title": "Foxglove raises $40M to scale its data platform for roboticists",
+            "link": "https://www.therobotreport.com/foxglove-raises-40m-scale-data-platform-roboticists/",
+            "description": "Foxglove co-founder and CEO Adrian Macneil compares today’s robotics infrastructure landscape to the early days of cloud computing. The post Foxglove ...",
+            "pubDate": "2025-11-12T15:04:31",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/RR_TopStartup2025_Page_Cover-276x300.png"
         },
         {
             "title": "Only 9% of developers think AI code can be used without human oversight, BairesDev survey reveals",
@@ -40,25 +54,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5CiQuierRq34dYmuxJUNHb/a86df483038c29162f381f3fc96559f7/cfr0z3n_aerial_view_extended_view_of_hundreds_of_software_dev_51f077e9-5eef-4c86-bf4e-2dabd7ab231b_1.png?w=300&q=30"
         },
         {
-            "title": "HistoSonics raises $250M for commercial expansion of Edison system",
-            "link": "https://www.therobotreport.com/histosonics-brings-250m-commercial-expansion-edison-system/",
-            "description": "HistoSonics is developing a non-invasive therapy that uses histotripsy, a therapeutic focused ultrasound energy, to destroy tumors. The post HistoSoni...",
-            "pubDate": "2025-11-11T20:12:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/histosonics-feature.jpg"
-        },
-        {
-            "title": "The Download: surviving extreme temperatures, and the big whale-wind turbine conspiracy",
-            "link": "https://www.technologyreview.com/2025/11/11/1127866/the-download-surviving-extreme-temperatures-and-the-big-whale-wind-turbine-conspiracy/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The quest to...",
-            "pubDate": "2025-11-11T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/23f0.png"
-        },
-        {
-            "title": "Meta’s SPICE framework lets AI systems teach themselves to reason",
-            "link": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason",
-            "description": "Researchers at Meta FAIR and the National University of Singapore have developed a new reinforcement learning framework for self-improving AI systems....",
-            "pubDate": "2025-11-11T22:21:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/UAYtncQWQ2a2g1rzWOCHR/19d3e60c8a6eef26b99a5a492491bbec/Adversarial_AI_training.jpg?w=300&q=30"
+            "title": "Designing space robots: Harmonic Drive shares history, looks ahead",
+            "link": "https://www.therobotreport.com/designing-space-robots-harmonic-drive-shares-history-looks-ahead/",
+            "description": "Learn about the history of Harmonic Drive with space robots, from the Mariner missions to exploration of Mars. The post Designing space robots: Harmon...",
+            "pubDate": "2025-11-11T19:28:26",
+            "image_url": "https://science.nasa.gov/wp-content/uploads/2017/12/p3919a-mariner-mars.jpg"
         },
         {
             "title": "XTEND secures U.S. DoW contract for autonomous drones",
@@ -68,25 +68,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/XTEND-Scorpio-featured.jpg"
         },
         {
-            "title": "Reimagining cybersecurity in the era of AI and quantum",
-            "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
-            "description": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders an...",
-            "pubDate": "2025-11-10T14:19:28",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/CISCO-iStock-2156608663.jpg"
+            "title": "The Download: surviving extreme temperatures, and the big whale-wind turbine conspiracy",
+            "link": "https://www.technologyreview.com/2025/11/11/1127866/the-download-surviving-extreme-temperatures-and-the-big-whale-wind-turbine-conspiracy/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The quest to...",
+            "pubDate": "2025-11-11T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/23f0.png"
         },
         {
-            "title": "The Download: busting weather myths, and AI heart attack prediction",
-            "link": "https://www.technologyreview.com/2025/11/10/1127798/the-download-busting-weather-myths-and-ai-heart-attack-prediction/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why it’s so ...",
-            "pubDate": "2025-11-10T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f4f0.png"
+            "title": "HistoSonics raises $250M for commercial expansion of Edison system",
+            "link": "https://www.therobotreport.com/histosonics-brings-250m-commercial-expansion-edison-system/",
+            "description": "HistoSonics is developing a non-invasive therapy that uses histotripsy, a therapeutic focused ultrasound energy, to destroy tumors. The post HistoSoni...",
+            "pubDate": "2025-11-11T20:12:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/histosonics-feature.jpg"
         },
         {
-            "title": "Chronosphere takes on Datadog with AI that explains itself, not just outages",
-            "link": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages",
-            "description": "Chronosphere , a New York-based observability startup valued at $1.6 billion , announced Monday it will launch AI-Guided Troubleshooting capabilities ...",
-            "pubDate": "2025-11-10T19:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6Jp2LKG6zzFEnDhB9m893X/06467084db114c990d9e72be3896bf51/nuneybits_Vector_art_of_AI_debugging_maze_2b3bfc89-ab17-4839-a03e-6331a42f5030.webp?w=300&q=30"
+            "title": "Meta’s SPICE framework lets AI systems teach themselves to reason",
+            "link": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason",
+            "description": "Researchers at Meta FAIR and the National University of Singapore have developed a new reinforcement learning framework for self-improving AI systems....",
+            "pubDate": "2025-11-11T22:21:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/UAYtncQWQ2a2g1rzWOCHR/19d3e60c8a6eef26b99a5a492491bbec/Adversarial_AI_training.jpg?w=300&q=30"
+        },
+        {
+            "title": "The State of AI: Energy is king, and the US is falling behind",
+            "link": "https://www.technologyreview.com/2025/11/10/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/",
+            "description": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publicatio...",
+            "pubDate": "2025-11-10T16:45:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/4c1e48f3-a8d9-fed3-bfeb-c686add0bb5d.png?w=1200"
         },
         {
             "title": "Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively",
@@ -96,18 +103,18 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5WF8w75sB7wnAYEK5pYnPD/16059c6ac3f6b853b3b301bc66f950d3/cfr0z3n_graphic_novel_abstract_expressionist_outline_style_show_390da294-e50e-424d-ab36-20b02133d3d9.png?w=300&q=30"
         },
         {
-            "title": "This time, iRobot needs help cleaning up a mess",
-            "link": "https://www.therobotreport.com/this-time-irobot-needs-help-cleaning-up-a-mess/",
-            "description": "iRobot going out of business would be a loss far bigger than its current financial situation. Will anyone step up and save the robotics icon? The post...",
-            "pubDate": "2025-11-10T21:26:14",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/first-generation-roomba.jpg"
+            "title": "Reimagining cybersecurity in the era of AI and quantum",
+            "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+            "description": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders an...",
+            "pubDate": "2025-11-10T14:19:28",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/CISCO-iStock-2156608663.jpg"
         },
         {
-            "title": "The State of AI: Energy is king, and the US is falling behind",
-            "link": "https://www.technologyreview.com/2025/11/10/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/",
-            "description": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publicatio...",
-            "pubDate": "2025-11-10T16:45:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/4c1e48f3-a8d9-fed3-bfeb-c686add0bb5d.png?w=1200"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -124,11 +131,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -136,13 +143,6 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
