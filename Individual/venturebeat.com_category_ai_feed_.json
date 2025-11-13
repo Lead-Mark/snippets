@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-13T06:55:48.517001",
+    "lastBuildDate": "2025-11-13T11:16:35.214910",
     "items": [
+        {
+            "title": "Inside LinkedIn’s generative AI cookbook: How it scaled people search to 1.3 billion users",
+            "link": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3",
+            "description": "LinkedIn is launching its new AI-powered people search this week, after what seems like a very long wait for what should have been a natural offering ...",
+            "pubDate": "2025-11-13T16:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/lgGMZPiCCaW1DNedEGAbm/a05d0e3b39eea0fae4e58895fad8d198/Screenshot_2025-11-12_at_4.53.46â__PM.png?w=300&q=30"
+        },
         {
             "title": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget",
             "link": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on",
@@ -31,13 +38,6 @@
             "description": "Baidu Inc. , China's largest search engine company, released a new artificial intelligence model on Monday that its developers claim outperforms compe...",
             "pubDate": "2025-11-12T00:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6PAfmxLhH2Yv7BpN8vczIt/f33baa764e279c49d01c5a10da8eef61/nuneybits_Vector_art_of_a_GPU_made_out_of_computer_code_and_the_59f97a50-f492-452f-bd5d-1d6e6e904c4a.webp?w=300&q=30"
-        },
-        {
-            "title": "Meta’s SPICE framework lets AI systems teach themselves to reason",
-            "link": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason",
-            "description": "Researchers at Meta FAIR and the National University of Singapore have developed a new reinforcement learning framework for self-improving AI systems....",
-            "pubDate": "2025-11-11T22:21:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/UAYtncQWQ2a2g1rzWOCHR/19d3e60c8a6eef26b99a5a492491bbec/Adversarial_AI_training.jpg?w=300&q=30"
         }
     ]
 }

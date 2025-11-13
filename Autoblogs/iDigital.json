@@ -2,28 +2,42 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-13T06:55:48.515655",
+    "lastBuildDate": "2025-11-13T11:16:35.213508",
     "items": [
+        {
+            "title": "The Download: AI to measure pain, and how to deal with conspiracy theorists",
+            "link": "https://www.technologyreview.com/2025/11/13/1127911/the-download-ai-to-measure-pain-and-how-to-deal-with-conspiracy-theorists/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is changi...",
+            "pubDate": "2025-11-13T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_337440.png"
+        },
+        {
+            "title": "Inside LinkedIn’s generative AI cookbook: How it scaled people search to 1.3 billion users",
+            "link": "https://venturebeat.com/ai/inside-linkedins-generative-ai-cookbook-how-it-scaled-people-search-to-1-3",
+            "description": "LinkedIn is launching its new AI-powered people search this week, after what seems like a very long wait for what should have been a natural offering ...",
+            "pubDate": "2025-11-13T16:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/lgGMZPiCCaW1DNedEGAbm/a05d0e3b39eea0fae4e58895fad8d198/Screenshot_2025-11-12_at_4.53.46â__PM.png?w=300&q=30"
+        },
+        {
+            "title": "Drone maker Neros closes Series B round to expand industrial capacity",
+            "link": "https://www.therobotreport.com/drone-maker-neros-raises-75m-expand-industrial-capacity/",
+            "description": "Neros plans to scale the production of its flagship Archer and Archer Strike drone platforms, as well as its Ground Control Systems. The post Drone ma...",
+            "pubDate": "2025-11-13T15:41:19",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/US_Marines_with_Advanced_Infantry_Training_US_Marine_Operating_Neros_Archer-featured.jpg"
+        },
+        {
+            "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
+            "link": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
+            "description": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The ...",
+            "pubDate": "2025-11-13T15:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "Google is still aiming for its “moonshot” 2030 energy goals",
             "link": "https://www.technologyreview.com/2025/11/13/1127896/google-energy-goals/",
             "description": "Last week, we hosted EmTech MIT, MIT Technology Review’s annual flagship conference in Cambridge, Massachusetts. Over the course of three days of main...",
             "pubDate": "2025-11-13T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Foxglove raises $40M to scale its data platform for roboticists",
-            "link": "https://www.therobotreport.com/foxglove-raises-40m-scale-data-platform-roboticists/",
-            "description": "Foxglove co-founder and CEO Adrian Macneil compares today’s robotics infrastructure landscape to the early days of cloud computing. The post Foxglove ...",
-            "pubDate": "2025-11-12T15:04:31",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/RR_TopStartup2025_Page_Cover-276x300.png"
-        },
-        {
-            "title": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget",
-            "link": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on",
-            "description": "Another day in late 2025, another impressive result from a Chinese company in open source artificial intelligence. Chinese social networking company W...",
-            "pubDate": "2025-11-12T19:31:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4s7atIbhZpkjUNIE9NqvrE/de645440ccc36273944e9ba58f78fea7/ChatGPT_Image_Nov_12__2025__02_29_18_PM.png?w=300&q=30"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "How Deductive AI saved DoorDash 1,000 engineering hours by automating software debugging",
@@ -40,18 +54,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Isembard-US-copy.jpg"
         },
         {
-            "title": "Improving VMware migration workflows with agentic AI",
-            "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
-            "description": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewri...",
-            "pubDate": "2025-11-12T10:11:15",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/EPAM-Landing-Page-Card-1.png"
-        },
-        {
-            "title": "Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini",
-            "link": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5",
-            "description": "Baidu Inc. , China's largest search engine company, released a new artificial intelligence model on Monday that its developers claim outperforms compe...",
-            "pubDate": "2025-11-12T00:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6PAfmxLhH2Yv7BpN8vczIt/f33baa764e279c49d01c5a10da8eef61/nuneybits_Vector_art_of_a_GPU_made_out_of_computer_code_and_the_59f97a50-f492-452f-bd5d-1d6e6e904c4a.webp?w=300&q=30"
+            "title": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget",
+            "link": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on",
+            "description": "Another day in late 2025, another impressive result from a Chinese company in open source artificial intelligence. Chinese social networking company W...",
+            "pubDate": "2025-11-12T19:31:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4s7atIbhZpkjUNIE9NqvrE/de645440ccc36273944e9ba58f78fea7/ChatGPT_Image_Nov_12__2025__02_29_18_PM.png?w=300&q=30"
         },
         {
             "title": "Terranova gets seed funding to deploy terraforming robots",
@@ -68,32 +75,32 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_892899.png"
         },
         {
+            "title": "Foxglove raises $40M to scale its data platform for roboticists",
+            "link": "https://www.therobotreport.com/foxglove-raises-40m-scale-data-platform-roboticists/",
+            "description": "Foxglove co-founder and CEO Adrian Macneil compares today’s robotics infrastructure landscape to the early days of cloud computing. The post Foxglove ...",
+            "pubDate": "2025-11-12T15:04:31",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/RR_TopStartup2025_Page_Cover-276x300.png"
+        },
+        {
+            "title": "Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini",
+            "link": "https://venturebeat.com/ai/baidu-just-dropped-an-open-source-multimodal-ai-that-it-claims-beats-gpt-5",
+            "description": "Baidu Inc. , China's largest search engine company, released a new artificial intelligence model on Monday that its developers claim outperforms compe...",
+            "pubDate": "2025-11-12T00:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6PAfmxLhH2Yv7BpN8vczIt/f33baa764e279c49d01c5a10da8eef61/nuneybits_Vector_art_of_a_GPU_made_out_of_computer_code_and_the_59f97a50-f492-452f-bd5d-1d6e6e904c4a.webp?w=300&q=30"
+        },
+        {
+            "title": "Improving VMware migration workflows with agentic AI",
+            "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+            "description": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewri...",
+            "pubDate": "2025-11-12T10:11:15",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/EPAM-Landing-Page-Card-1.png"
+        },
+        {
             "title": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5",
             "link": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5",
             "description": "ChatGPT is about to become faster and more conversational as OpenAI upgrades its flagship model GPT-5 to GPT-5.1. OpenAI announced two updates to the ...",
             "pubDate": "2025-11-12T05:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3CpLfvpU0TfycKYEA3DBLw/f7dc8b8d4db1e3eef3d0b619d662879e/crimedy7_illustration_of_a_conversation_abstract_--ar_169_--v_5a880096-9873-4985-85ae-e8c247d831fc_0.png?w=300&q=30"
-        },
-        {
-            "title": "The Download: surviving extreme temperatures, and the big whale-wind turbine conspiracy",
-            "link": "https://www.technologyreview.com/2025/11/11/1127866/the-download-surviving-extreme-temperatures-and-the-big-whale-wind-turbine-conspiracy/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The quest to...",
-            "pubDate": "2025-11-11T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/23f0.png"
-        },
-        {
-            "title": "Meta’s SPICE framework lets AI systems teach themselves to reason",
-            "link": "https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason",
-            "description": "Researchers at Meta FAIR and the National University of Singapore have developed a new reinforcement learning framework for self-improving AI systems....",
-            "pubDate": "2025-11-11T22:21:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/UAYtncQWQ2a2g1rzWOCHR/19d3e60c8a6eef26b99a5a492491bbec/Adversarial_AI_training.jpg?w=300&q=30"
-        },
-        {
-            "title": "Designing space robots: Harmonic Drive shares history, looks ahead",
-            "link": "https://www.therobotreport.com/designing-space-robots-harmonic-drive-shares-history-looks-ahead/",
-            "description": "Learn about the history of Harmonic Drive with space robots, from the Mariner missions to exploration of Mars. The post Designing space robots: Harmon...",
-            "pubDate": "2025-11-11T19:28:26",
-            "image_url": "https://science.nasa.gov/wp-content/uploads/2017/12/p3919a-mariner-mars.jpg"
         },
         {
             "title": "HistoSonics raises $250M for commercial expansion of Edison system",
@@ -103,11 +110,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/histosonics-feature.jpg"
         },
         {
-            "title": "The State of AI: Energy is king, and the US is falling behind",
-            "link": "https://www.technologyreview.com/2025/11/10/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/",
-            "description": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publicatio...",
-            "pubDate": "2025-11-10T16:45:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/4c1e48f3-a8d9-fed3-bfeb-c686add0bb5d.png?w=1200"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -115,13 +122,6 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
