@@ -2,14 +2,21 @@
     "title": "Individual feed for https://medicalxpress.com/rss-feed/",
     "link": "https://medicalxpress.com/rss-feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-14T16:30:19.842523",
+    "lastBuildDate": "2025-11-15T01:00:13.607998",
     "items": [
+        {
+            "title": "Researchers to test gene therapy for rare diseases with a new FDA trial protocol",
+            "link": "https://medicalxpress.com/news/2025-11-gene-therapy-rare-diseases-fda.html",
+            "description": "Earlier this year, researchers at Children's Hospital of Philadelphia and Penn created a first-of-its-kind drug customized to a unique genetic mutatio...",
+            "pubDate": "2025-11-15T01:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
         {
             "title": "Skin cancer cluster found in 15 Pennsylvania counties with or near farmland",
             "link": "https://medicalxpress.com/news/2025-11-skin-cancer-cluster-pennsylvania-counties.html",
             "description": "Counties in Pennsylvania that contained or were near cultivated cropland had significantly higher melanoma rates compared to other regions, according ...",
             "pubDate": "2025-11-14T21:00:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Inflammasome found to drive male-specific bone loss in gum disease",
@@ -23,21 +30,14 @@
             "link": "https://medicalxpress.com/news/2025-11-ethiopia-marburg-outbreak-lauds-country.html",
             "description": "Ethiopia on Friday confirmed its first Marburg outbreak after nine cases were identified in a southern region of the country that borders South Sudan.",
             "pubDate": "2025-11-14T18:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Direct link between peak air pollution and cardiac risk revealed",
             "link": "https://medicalxpress.com/news/2025-11-link-peak-air-pollution-cardiac.html",
             "description": "In Lombardy, the risk of suffering cardiac arrest may increase on days recording high levels of air pollution. This emerges from a study conducted by ...",
             "pubDate": "2025-11-14T18:30:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Computational deep dive reveals hidden cancer drug targets and repurposing opportunities",
-            "link": "https://medicalxpress.com/news/2025-11-deep-reveals-hidden-cancer-drug.html",
-            "description": "One person's side effect could be another person's treatment if we expand our perspective on small molecule drug targets, according to a new study pub...",
-            "pubDate": "2025-11-14T18:27:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

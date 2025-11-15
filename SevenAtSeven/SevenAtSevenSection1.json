@@ -2,14 +2,42 @@
     "title": "SevenAtSevenSection1",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-14T16:28:43.935456",
+    "lastBuildDate": "2025-11-15T00:58:55.518770",
     "items": [
+        {
+            "title": "Trump cuts ties with Marjorie Taylor Greene, once among his top MAGA-world defenders",
+            "link": "https://www.npr.org/2025/11/15/g-s1-97954/trump-marjorie-taylor-greene",
+            "description": "The dismissal of Greene — once the epitome of \"Make America Great Again\" — appeared to be the final break in a dispute simmering for months.",
+            "pubDate": "2025-11-15T05:06:18",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3748x2495+0+0/resize/3748x2495!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F3d%2Fb2dd3c3c4e5aad57bf3af2642bf2%2Fap25304709454976.jpg"
+        },
+        {
+            "title": "Leaked documents shed light into how much OpenAI pays Microsoft",
+            "link": "https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/",
+            "description": "Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.",
+            "pubDate": "2025-11-15T00:47:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Better late than never: The delayed September jobs report will be out next week",
+            "link": "https://www.npr.org/2025/11/14/nx-s1-5609321/jobs-report-government-shutdown-economic-data",
+            "description": "The Bureau of Labor Statistics says it will report on September's job gains and unemployment rate next week. That's the first of many overdue economic...",
+            "pubDate": "2025-11-14T21:34:03",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2Fd0%2F67f4b0e244778182514cdda87f33%2Fgettyimages-2239023934.jpg"
+        },
         {
             "title": "Judge says he'll approve opioid settlement with OxyContin maker Purdue and Sackler family",
             "link": "https://www.npr.org/2025/11/14/g-s1-97864/purdue-pharma-sackler-family-opioid-settlement",
             "description": "A federal bankruptcy court judge said he will approve OxyContin-maker Purdue Pharma's latest deal to settle thousands of lawsuits over the toll of opi...",
             "pubDate": "2025-11-14T20:13:16",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5379x3586+0+0/resize/5379x3586!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F0d%2F461708c24b21ae1932e3e0bba37d%2Fap25318044742532.jpg"
+        },
+        {
+            "title": "Trump scraps tariffs on beef, coffee, tropical fruit in a push to lower prices",
+            "link": "https://www.npr.org/2025/11/14/g-s1-97936/trump-tariffs-executive-order-beef-coffee-fruit",
+            "description": "President Trump announced the removal of U.S. tariffs on beef, coffee, tropical fruits and other commodities amid pressure to address high consumer pr...",
+            "pubDate": "2025-11-14T23:59:54",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3855x2570+0+0/resize/3855x2570!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2Fd3%2F46ce4e714aa487a2e04171fcc235%2Fap25318844750951.jpg"
         },
         {
             "title": "A storm devastated Alaska Native villages. Now their public media lost funding",
@@ -19,52 +47,38 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5585941"
         },
         {
-            "title": "Scientists pull ancient RNA from a woolly mammoth's body",
-            "link": "https://www.npr.org/2025/11/14/nx-s1-5607041/wooly-mammoth-oldest-rna-yuka",
-            "description": "Scientists have extracted the oldest RNA molecules out of a woolly mammoth, gaining a snapshot into the processes at work in the extinct mammal's body...",
-            "pubDate": "2025-11-14T16:41:30",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5184x3456+0+0/resize/5184x3456!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F28%2F6fae67074688a0e7b2cd8986368f%2Fmammoth-yuka-2.jpg"
+            "title": "Databricks co-founder argues US must go open source to beat China in AI",
+            "link": "https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/",
+            "description": "VC Andy Konwinski argues that the U.S. is losing its AI research dominance to China.",
+            "pubDate": "2025-11-14T22:52:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "In Kansas and elsewhere, some state lawmakers are skeptical of the redistricting rush",
-            "link": "https://www.npr.org/2025/11/14/nx-s1-5601054/kansas-redistricting-republican-trump",
-            "description": "Kansas Republican leaders couldn't rally enough support this fall for a special session on redistricting. It's just one example of lawmakers pushing b...",
-            "pubDate": "2025-11-14T19:29:09",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4547x3031+0+0/resize/4547x3031!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F95%2Fa023d0fc4211b7359afd9e8f4eb1%2Fap25298688265547.jpg"
+            "title": "FAA takes first steps to restore flights after shutdown strain, but some limits remain",
+            "link": "https://apnews.com/article/faa-flight-restrictions-government-shutdown-airlines-fdfd2ac3f33a08d41a0b0ca6ec0d7394",
+            "description": "The Federal Aviation Administration is rolling back some of its restrictions on commercial flights at 40 major U.S. airports that have been in place s...",
+            "pubDate": "2025-11-14T16:59:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Seizures, broken spines and vomiting: Scientific testing that helped facilitate D-Day",
-            "link": "https://www.npr.org/2025/11/14/nx-s1-5608089/seizures-broken-spines-and-vomiting-scientific-testing-that-helped-facilitate-d-day",
-            "description": "Biomedical engineer Rachel Lance says British scientists submitted themselves to experiments that would be considered unethical today. Her book is Cha...",
-            "pubDate": "2025-11-14T14:47:32",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5608089"
-        },
-        {
-            "title": "New prosecutor takes on the Georgia election case against Trump and others",
-            "link": "https://apnews.com/article/georgia-trump-election-indictment-fani-willis-b91064d57b2ea26f78e771618e5847a9",
+            "title": "She wanted to keep her son in his school district. It was more challenging than it seemed",
+            "link": "https://apnews.com/article/school-education-eviction-apartment-rental-77d1efe6d8a3792bc41165191884b6a4",
             "description": "",
-            "pubDate": "2025-11-14T09:27:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Investor Confidence is Up—What’s Making Everyone Feel Good About the Market?",
-            "link": "https://www.biggerpockets.com/blog/investor-confidence-is-up-q4-2025",
-            "description": "The saying “what doesn’t kill you makes you stronger” applies doubly in real estate. Investors have proved themselves to be a hardy lot, not knuckling...",
-            "pubDate": "2025-11-14T17:54:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Boeing has a carbon emissions problem. Startup Charm Industrial is cleaning up.",
-            "link": "https://techcrunch.com/2025/11/14/boeing-has-a-carbon-emissions-problem-startup-charm-industrial-is-cleaning-up/",
-            "description": "The deal will see Charm Industrial collect forestry waste and transform it into a bio-oil it buries underground.",
-            "pubDate": "2025-11-14T17:04:10",
+            "pubDate": "2025-11-14T00:23:45",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Oura Ring 4 Ceramic review: A colorful glow-up",
-            "link": "https://techcrunch.com/2025/11/14/oura-ring-4-ceramic-review-a-colorful-glow-up/",
-            "description": "If you want a pop of color and style, then the Oura Ring 4 Ceramic might be the smart ring for you.",
-            "pubDate": "2025-11-14T20:30:58",
+            "title": "Yes, You Should Start Lowballing Offers (Buyers in Control!) (Rookie Reply)",
+            "link": "https://www.biggerpockets.com/blog/rookie-640",
+            "description": "You’re seeing houses sit on the market for longer. Now could be your chance to snag an underpriced rental property. But your agent doesn’t know if low...",
+            "pubDate": "2025-11-14T12:00:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "A Turning Point for the Housing Market? | Nov. Housing Market Update",
+            "link": "https://www.biggerpockets.com/blog/real-estate-1200",
+            "description": "The realities of a housing market correction are setting in. This could be the turning point for real estate that investors (and homebuyers) have been...",
+            "pubDate": "2025-11-14T12:00:48",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
@@ -72,63 +86,49 @@
             "link": "https://www.biggerpockets.com/blog/why-multifamily-is-not-in-a-bubble",
             "description": "Is every asset class in a bubble? Whether you think so or not, the fears are all too plausible. Despite the longest government shutdown in history, re...",
             "pubDate": "2025-11-14T18:00:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "OpenAI says it’s fixed ChatGPT’s em dash problem",
-            "link": "https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/",
-            "description": "OpenAI says users can now personalize ChatGPT to stop using the em dash in its output.",
-            "pubDate": "2025-11-14T17:59:45",
+            "title": "Investor Confidence is Up—What’s Making Everyone Feel Good About the Market?",
+            "link": "https://www.biggerpockets.com/blog/investor-confidence-is-up-q4-2025",
+            "description": "The saying “what doesn’t kill you makes you stronger” applies doubly in real estate. Investors have proved themselves to be a hardy lot, not knuckling...",
+            "pubDate": "2025-11-14T17:54:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Tesla releases detailed safety report after Waymo co-CEO called for more data",
+            "link": "https://techcrunch.com/2025/11/14/tesla-releases-detailed-safety-report-after-waymo-co-ceo-called-for-more-data/",
+            "description": "The new data, released Friday, finally addresses some of the biggest criticisms of the paltry \"safety reports\" Tesla's released for years.",
+            "pubDate": "2025-11-14T21:57:21",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "She wanted to keep her son in his school district. It was more challenging than it seemed",
-            "link": "https://apnews.com/article/school-education-eviction-apartment-rental-77d1efe6d8a3792bc41165191884b6a4",
-            "description": "When families are evicted, kids’ schooling is often disrupted. Many evicted families go from living in a school district that spends more money on stu...",
-            "pubDate": "2025-11-14T00:23:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Yes, You Should Start Lowballing Offers (Buyers in Control!) (Rookie Reply)",
-            "link": "https://www.biggerpockets.com/blog/rookie-640",
-            "description": "You’re seeing houses sit on the market for longer. Now could be your chance to snag an underpriced rental property. But your agent doesn’t know if low...",
-            "pubDate": "2025-11-14T12:00:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Five people plead guilty to helping North Koreans infiltrate US companies as ‘remote IT workers’",
-            "link": "https://techcrunch.com/2025/11/14/five-people-plead-guilty-to-helping-north-koreans-infiltrate-us-companies-as-remote-it-workers/",
-            "description": "The U.S. Department of Justice said five people — including four U.S. nationals — \"facilitated\" North Korean IT workers to get jobs at American compan...",
-            "pubDate": "2025-11-14T17:15:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "How to Build a Reliable Maintenance Plan Before Tenants Move In",
-            "link": "https://www.biggerpockets.com/blog/how-to-build-a-reliable-maintenance-plan-before-tenants-move-in",
-            "description": "This article is presented by RentRedi. When I first started managing my rental properties, maintenance requests would throw off my entire week. A tena...",
-            "pubDate": "2025-11-14T18:24:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Emails reveal Epstein’s network of the rich and powerful despite sex offender status",
             "link": "https://apnews.com/article/epstein-documents-trump-andrew-emails-7bdf92fd2d742f88789b2b5d67bf9f48",
             "description": "",
             "pubDate": "2025-11-14T00:05:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "German court rules Google must pay €572M for violating antitrust rules in price comparison sector",
-            "link": "https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/",
-            "description": "A German court has found that Google has abused its dominant market position in the price comparison sector, ruling that the company must pay a total ...",
-            "pubDate": "2025-11-14T15:40:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "A comprehensive list of 2025 tech layoffs",
+            "link": "https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/",
+            "description": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.",
+            "pubDate": "2025-11-14T22:29:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "A Turning Point for the Housing Market? | Nov. Housing Market Update",
-            "link": "https://www.biggerpockets.com/blog/real-estate-1200",
-            "description": "The realities of a housing market correction are setting in. This could be the turning point for real estate that investors (and homebuyers) have been...",
-            "pubDate": "2025-11-14T12:00:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "link": "https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "description": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+            "pubDate": "2025-11-14T22:06:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "How to Build a Reliable Maintenance Plan Before Tenants Move In",
+            "link": "https://www.biggerpockets.com/blog/how-to-build-a-reliable-maintenance-plan-before-tenants-move-in",
+            "description": "This article is presented by RentRedi. When I first started managing my rental properties, maintenance requests would throw off my entire week. A tena...",
+            "pubDate": "2025-11-14T18:24:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-14T16:29:22.199929",
+    "lastBuildDate": "2025-11-15T00:59:28.103705",
     "items": [
+        {
+            "title": "Weekly Meal Plan #67",
+            "link": "https://therecipecritic.com/weekly-meal-plan-67/",
+            "description": "I love a weekly meal plan with easy meals. This one has one of my kids’ all-time favorites, the Taco Casserole!…",
+            "pubDate": "2025-11-15T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/Week-67-Meal-Plan-Collage-.jpg"
+        },
         {
             "title": "How I Turn Thanksgiving Dinner Into a Week of Meals",
             "link": "https://therecipecritic.com/thanksgiving-leftover-recipes/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2024/05/swedish-meatballs-.jpg"
         },
         {
-            "title": "Crockpot Mexican Street Corn Dip",
-            "link": "https://therecipecritic.com/crockpot-mexican-street-corn-dip/",
-            "description": "My slow cooker Mexican street corn dip takes all the flavors of elote and turns them into a warm, creamy,…",
-            "pubDate": "2025-11-11T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/mexican-street-corn-dip-.jpg"
-        },
-        {
             "title": "Cranberry Orange Cookie Bars (Vegan + Gluten-Free)",
             "link": "https://minimalistbaker.com/cranberry-orange-cookie-bars/",
             "description": "The texture and flavor of a cookie with the ease of a bar? Talk about the perfect dessert! Introducing: cranberry orange cookie bars! These chewy, but...",
@@ -40,11 +40,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/09/Vegan-Gluten-Free-Cranberry-Orange-Cookie-Bars-9-680x1020.jpg"
         },
         {
-            "title": "Brown Bag Apple Pie",
-            "link": "https://therecipecritic.com/brown-bag-apple-pie/",
-            "description": "This brown bag apple pie is simple, foolproof, and downright delicious! The secret? It bakes right inside a paper bag, keeping…",
-            "pubDate": "2025-11-10T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/paper-bag-pie-2.jpg"
+            "title": "Crockpot Mexican Street Corn Dip",
+            "link": "https://therecipecritic.com/crockpot-mexican-street-corn-dip/",
+            "description": "My slow cooker Mexican street corn dip takes all the flavors of elote and turns them into a warm, creamy,…",
+            "pubDate": "2025-11-11T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/mexican-street-corn-dip-.jpg"
         },
         {
             "title": "1-Pot Kabocha Chickpea Miso Soup",
