@@ -2,8 +2,15 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-17T11:06:23.904005",
+    "lastBuildDate": "2025-11-17T17:10:47.349930",
     "items": [
+        {
+            "title": "Phi-4 proves that a 'data-first' SFT methodology is the new differentiator",
+            "link": "https://venturebeat.com/ai/phi-4-proves-that-a-data-first-sft-methodology-is-the-new-differentiator",
+            "description": "AI engineers often chase performance by scaling up LLM parameters and data, but the trend toward smaller, more efficient, and better-focused models ha...",
+            "pubDate": "2025-11-17T08:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2O24YvHiGRX9HnRbTC6mzm/7d46d1b93c2b59c8934e4e86226b3971/u9368359752_illustration_of_a_very_small_robot_battling_a_lar_8e5980ba-b925-4725-9dc6-c308541a24d2_1.png?w=300&q=30"
+        },
         {
             "title": "In a sea of agents, AWS bets on structured adherence and spec fidelity",
             "link": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity",
@@ -31,13 +38,6 @@
             "description": "Researchers at Google Cloud and UCLA have proposed a new reinforcement learning framework that significantly improves the ability of language models t...",
             "pubDate": "2025-11-14T23:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2PbpQZSOMgxoRpp8S0kU3r/59a8d6196a4c9411a45242db863941f5/AI_reasoning_trajectories.jpg?w=300&q=30"
-        },
-        {
-            "title": "ChatGPT Group Chats are here … but not for everyone (yet)",
-            "link": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet",
-            "description": "It was originally found in leaked code and publicized by AI influencers on X , but OpenAI has made it official: ChatGPT now offers Group Chats, allowi...",
-            "pubDate": "2025-11-14T15:54:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4lD8xHoLueH39q7LYaoY0X/d121a8f4d69e53cb4ed2e6894726b7fb/gYge-sBdNYW1QP2kJADr-.png?w=300&q=30"
         }
     ]
 }
