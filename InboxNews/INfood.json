@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-17T06:50:18.328362",
+    "lastBuildDate": "2025-11-17T11:06:14.865076",
     "items": [
+        {
+            "title": "4-Ingredient Churro Fudge",
+            "link": "https://therecipecritic.com/4-ingredient-churro-fudge/",
+            "description": "This 4-ingredient churro fudge is pure magic! It’s buttery, cinnamon sugary bliss that tastes like a churro and fudge had…",
+            "pubDate": "2025-11-17T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/churro-fudge-1.jpg"
+        },
         {
             "title": "Baked General Tso’s Chicken",
             "link": "https://therecipecritic.com/baked-general-tsos-chicken/",
@@ -31,13 +38,6 @@
             "description": "I love Thanksgiving leftovers because when I use them, it saves me time, it saves me money, and it gives…",
             "pubDate": "2025-11-14T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/Leftover-Casserole-Horizontal-.png"
-        },
-        {
-            "title": "Crack Cookies",
-            "link": "https://therecipecritic.com/crack-cookies/",
-            "description": "Skip the candy making! These Crack Cookies give you all the buttery, chocolatey, toffee filled flavor of Christmas crack in…",
-            "pubDate": "2025-11-13T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/crack-cookies-1.jpg"
         },
         {
             "title": "Cranberry Orange Cookie Bars (Vegan + Gluten-Free)",
