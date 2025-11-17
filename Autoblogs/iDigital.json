@@ -2,8 +2,36 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-16T01:03:42.032540",
+    "lastBuildDate": "2025-11-17T06:50:26.957366",
     "items": [
+        {
+            "title": "What is the chance your plane will be hit by space debris?",
+            "link": "https://www.technologyreview.com/2025/11/17/1127980/what-is-the-chance-your-plane-will-be-hit-by-space-debris/",
+            "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+            "pubDate": "2025-11-17T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Human-centric IAM is failing: Agentic AI requires a new identity control plane",
+            "link": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control",
+            "description": "The race to deploy agentic AI is on . Across the enterprise, systems that can plan, take actions and collaborate across business applications promise ...",
+            "pubDate": "2025-11-16T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/rUIi8SzjplOP5NV10BpMb/4cd6b92de66e113d7e42f4da6434d0d2/Identity_is_the_new_control_plane.png?w=300&q=30"
+        },
+        {
+            "title": "Micropolis builds the future of robotics in Dubai",
+            "link": "https://www.therobotreport.com/micropolis-builds-future-robotics-dubai/",
+            "description": "Fareed Aljawhari shares his journey from creative director to robotics CEO, focusing on smart cities with Micropolis. The post Micropolis builds the f...",
+            "pubDate": "2025-11-16T13:38:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/headshot-fareed-aljawari.jpg"
+        },
+        {
+            "title": "From shiny object to sober reality: The vector database story, two years later",
+            "link": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later",
+            "description": "When I first wrote “ Vector databases: Shiny object syndrome and the case of a missing unicorn ” in March 2024, the industry was awash in hype. Vector...",
+            "pubDate": "2025-11-16T18:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/SGaUQ51tBkvFJOC9u2V3c/30aeb16db2c0f1e0cb0a488908910f9e/u7277289442_A_multi-tiered_data_stack_lit_in_neon_emanates_st_cc2e0a2c-336d-4d1b-928c-76caecb59444_1.png?w=300&q=30"
+        },
         {
             "title": "Beyond the robot: Shaping the future of autonomous operations",
             "link": "https://www.therobotreport.com/beyond-robot-shaping-future-autonomous-operations/",
@@ -19,39 +47,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/A2RL-grid.jpg"
         },
         {
-            "title": "The Download: how AI really works, and phasing out animal testing",
-            "link": "https://www.technologyreview.com/2025/11/14/1127959/the-download-how-ai-really-works-and-phasing-out-animal-testing/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI’s new...",
-            "pubDate": "2025-11-14T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_0f9bae.png"
-        },
-        {
-            "title": "Neocis unveils upgraded Yomi S robotic system for dental implants",
-            "link": "https://www.therobotreport.com/neocis-upgrades-yomi-s-robotic-system-dental-implants/",
-            "description": "With AI-guided navigation through the implant planning, imaging and surgical process, Yomi S offers safer procedures. The post Neocis unveils upgraded...",
-            "pubDate": "2025-11-14T15:00:33",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Yomi-S-Rendering-extended-pose-featured.jpg"
-        },
-        {
-            "title": "ChatGPT Group Chats are here … but not for everyone (yet)",
-            "link": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet",
-            "description": "It was originally found in leaked code and publicized by AI influencers on X , but OpenAI has made it official: ChatGPT now offers Group Chats, allowi...",
-            "pubDate": "2025-11-14T15:54:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4lD8xHoLueH39q7LYaoY0X/d121a8f4d69e53cb4ed2e6894726b7fb/gYge-sBdNYW1QP2kJADr-.png?w=300&q=30"
-        },
-        {
-            "title": "California agencies eye BurnBot for wildfire prevention",
-            "link": "https://www.therobotreport.com/california-agencies-eye-burnbot-for-wildfire-prevention/",
-            "description": "BurnBot offers an ecologically sensitive, cost-effective new way to create wildfire fuel breaks. The post California agencies eye BurnBot for wildfire...",
-            "pubDate": "2025-11-14T20:47:59",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/burnbot-featured.jpg"
-        },
-        {
-            "title": "LEMO launches REDEL SP 1P68 Series watertight connectors",
-            "link": "https://www.therobotreport.com/lemo-launches-redel-sp-1p68-series-watertight-connectors/",
-            "description": "LEMO says its new REDEL SP 1P68 Series connectors are suitable for medical devices, drones, and harsh environments. The post LEMO launches REDEL SP 1P...",
-            "pubDate": "2025-11-14T15:30:23",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/SP_SAN_SLN_M13.jpg"
+            "title": "Google’s new AI training method helps small models tackle complex reasoning",
+            "link": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning",
+            "description": "Researchers at Google Cloud and UCLA have proposed a new reinforcement learning framework that significantly improves the ability of language models t...",
+            "pubDate": "2025-11-14T23:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2PbpQZSOMgxoRpp8S0kU3r/59a8d6196a4c9411a45242db863941f5/AI_reasoning_trajectories.jpg?w=300&q=30"
         },
         {
             "title": "OpenAI experiment finds that sparse models could give AI builders the tools to debug neural networks",
@@ -61,60 +61,60 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5bjGX4CQLCQ6qGu7z6wGPu/02102d978305371822af26fa77648fa2/crimedy7_illustration_of_neural_networks_vivd_colors_--ar_169_31fd5a88-c680-439c-9d2b-e88d0ceeae89_2.png?w=300&q=30"
         },
         {
-            "title": "Google’s new AI training method helps small models tackle complex reasoning",
-            "link": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning",
-            "description": "Researchers at Google Cloud and UCLA have proposed a new reinforcement learning framework that significantly improves the ability of language models t...",
-            "pubDate": "2025-11-14T23:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2PbpQZSOMgxoRpp8S0kU3r/59a8d6196a4c9411a45242db863941f5/AI_reasoning_trajectories.jpg?w=300&q=30"
+            "title": "California agencies eye BurnBot for wildfire prevention",
+            "link": "https://www.therobotreport.com/california-agencies-eye-burnbot-for-wildfire-prevention/",
+            "description": "BurnBot offers an ecologically sensitive, cost-effective new way to create wildfire fuel breaks. The post California agencies eye BurnBot for wildfire...",
+            "pubDate": "2025-11-14T20:47:59",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/burnbot-featured.jpg"
+        },
+        {
+            "title": "ChatGPT Group Chats are here … but not for everyone (yet)",
+            "link": "https://venturebeat.com/ai/chatgpt-group-chats-are-here-but-not-for-everyone-yet",
+            "description": "It was originally found in leaked code and publicized by AI influencers on X , but OpenAI has made it official: ChatGPT now offers Group Chats, allowi...",
+            "pubDate": "2025-11-14T15:54:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4lD8xHoLueH39q7LYaoY0X/d121a8f4d69e53cb4ed2e6894726b7fb/gYge-sBdNYW1QP2kJADr-.png?w=300&q=30"
+        },
+        {
+            "title": "LEMO launches REDEL SP 1P68 Series watertight connectors",
+            "link": "https://www.therobotreport.com/lemo-launches-redel-sp-1p68-series-watertight-connectors/",
+            "description": "LEMO says its new REDEL SP 1P68 Series connectors are suitable for medical devices, drones, and harsh environments. The post LEMO launches REDEL SP 1P...",
+            "pubDate": "2025-11-14T15:30:23",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/SP_SAN_SLN_M13.jpg"
+        },
+        {
+            "title": "The Download: how AI really works, and phasing out animal testing",
+            "link": "https://www.technologyreview.com/2025/11/14/1127959/the-download-how-ai-really-works-and-phasing-out-animal-testing/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI’s new...",
+            "pubDate": "2025-11-14T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_0f9bae.png"
         },
         {
             "title": "These technologies could help put a stop to animal testing",
             "link": "https://www.technologyreview.com/2025/11/14/1127949/technologies-could-stop-animal-testing/",
             "description": "Earlier this week, the UK’s science minister announced an ambitious plan: to phase out animal testing. Testing potential skin irritants on animals wil...",
             "pubDate": "2025-11-14T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more",
-            "link": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts",
-            "description": "Mere hours after OpenAI updated its flagship foundation model GPT-5 to GPT-5.1 , promising reduced token usage overall and a more pleasant personality...",
-            "pubDate": "2025-11-13T20:23:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7tpZTCavJ5IcG1LDI66Xae/5066d5c70ead90c2f63e0ef888b9a9ef/YPf93J54wCLeSJI7yvPQK.png?w=300&q=30"
-        },
-        {
-            "title": "Upwork study shows AI agents excel with human partners but fail independently",
-            "link": "https://venturebeat.com/ai/upwork-study-shows-ai-agents-excel-with-human-partners-but-fail",
-            "description": "Artificial intelligence agents powered by the world's most advanced language models routinely fail to complete even straightforward professional tasks...",
-            "pubDate": "2025-11-13T18:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1v1ddqAyA62qgnuh9O3ek5/6c2c87800376ecfd23a29d2c01c593e4/nuneybits_Robot_and_human_working_side_by_side_in_a_modern_offi_8b67c654-4d49-42c2-a291-5a9bb86c99db.webp?w=300&q=30"
-        },
-        {
-            "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
-            "link": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
-            "description": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The ...",
-            "pubDate": "2025-11-13T15:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "OpenAI’s new LLM exposes the secrets of how AI really works",
             "link": "https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/",
             "description": "ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. That’s a big deal, because t...",
             "pubDate": "2025-11-13T18:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "EmTech AI 2025: How AI is revolutionizing science",
             "link": "https://www.technologyreview.com/2025/11/13/1127930/emtech-ai-2025-peter-lee/",
             "description": "",
             "pubDate": "2025-11-13T18:33:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -124,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",

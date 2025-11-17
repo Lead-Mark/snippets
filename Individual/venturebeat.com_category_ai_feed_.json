@@ -2,8 +2,22 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-16T01:03:42.033588",
+    "lastBuildDate": "2025-11-17T06:50:26.958618",
     "items": [
+        {
+            "title": "From shiny object to sober reality: The vector database story, two years later",
+            "link": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later",
+            "description": "When I first wrote “ Vector databases: Shiny object syndrome and the case of a missing unicorn ” in March 2024, the industry was awash in hype. Vector...",
+            "pubDate": "2025-11-16T18:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/SGaUQ51tBkvFJOC9u2V3c/30aeb16db2c0f1e0cb0a488908910f9e/u7277289442_A_multi-tiered_data_stack_lit_in_neon_emanates_st_cc2e0a2c-336d-4d1b-928c-76caecb59444_1.png?w=300&q=30"
+        },
+        {
+            "title": "Human-centric IAM is failing: Agentic AI requires a new identity control plane",
+            "link": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control",
+            "description": "The race to deploy agentic AI is on . Across the enterprise, systems that can plan, take actions and collaborate across business applications promise ...",
+            "pubDate": "2025-11-16T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/rUIi8SzjplOP5NV10BpMb/4cd6b92de66e113d7e42f4da6434d0d2/Identity_is_the_new_control_plane.png?w=300&q=30"
+        },
         {
             "title": "Google’s new AI training method helps small models tackle complex reasoning",
             "link": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning",
@@ -24,20 +38,6 @@
             "description": "OpenAI researchers are experimenting with a new approach to designing neural networks, with the aim of making AI models easier to understand, debug, a...",
             "pubDate": "2025-11-14T05:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5bjGX4CQLCQ6qGu7z6wGPu/02102d978305371822af26fa77648fa2/crimedy7_illustration_of_neural_networks_vivd_colors_--ar_169_31fd5a88-c680-439c-9d2b-e88d0ceeae89_2.png?w=300&q=30"
-        },
-        {
-            "title": "Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more",
-            "link": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts",
-            "description": "Mere hours after OpenAI updated its flagship foundation model GPT-5 to GPT-5.1 , promising reduced token usage overall and a more pleasant personality...",
-            "pubDate": "2025-11-13T20:23:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7tpZTCavJ5IcG1LDI66Xae/5066d5c70ead90c2f63e0ef888b9a9ef/YPf93J54wCLeSJI7yvPQK.png?w=300&q=30"
-        },
-        {
-            "title": "Upwork study shows AI agents excel with human partners but fail independently",
-            "link": "https://venturebeat.com/ai/upwork-study-shows-ai-agents-excel-with-human-partners-but-fail",
-            "description": "Artificial intelligence agents powered by the world's most advanced language models routinely fail to complete even straightforward professional tasks...",
-            "pubDate": "2025-11-13T18:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1v1ddqAyA62qgnuh9O3ek5/6c2c87800376ecfd23a29d2c01c593e4/nuneybits_Robot_and_human_working_side_by_side_in_a_modern_offi_8b67c654-4d49-42c2-a291-5a9bb86c99db.webp?w=300&q=30"
         }
     ]
 }
