@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-18T07:07:40.513537",
+    "lastBuildDate": "2025-11-18T11:06:03.746809",
     "items": [
+        {
+            "title": "Leftover Pie Milkshakes",
+            "link": "https://therecipecritic.com/leftover-pie-milkshakes/",
+            "description": "Leftover pie milkshakes are the sweetest way to give your extra pie new life! Just grab a slice, blend it…",
+            "pubDate": "2025-11-18T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/pie-milkshakes-.jpg"
+        },
         {
             "title": "4-Ingredient Churro Fudge",
             "link": "https://therecipecritic.com/4-ingredient-churro-fudge/",
@@ -19,13 +26,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/baked-general-tso-chicken-1.jpg"
         },
         {
-            "title": "Dense Bean Salad",
-            "link": "https://therecipecritic.com/dense-bean-salad/",
-            "description": "TikTok creator Violet Witchel made this dense bean salad go viral for good reason. It’s simple, high in fiber, protein-packed,…",
-            "pubDate": "2025-11-15T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/dense-bean-salad-1.jpg"
-        },
-        {
             "title": "Weekly Meal Plan #67",
             "link": "https://therecipecritic.com/weekly-meal-plan-67/",
             "description": "I love a weekly meal plan with easy meals. This one has one of my kids’ all-time favorites, the Taco Casserole!…",
@@ -33,11 +33,39 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/Week-67-Meal-Plan-Collage-.jpg"
         },
         {
-            "title": "How I Turn Thanksgiving Dinner Into a Week of Meals",
-            "link": "https://therecipecritic.com/thanksgiving-leftover-recipes/",
-            "description": "I love Thanksgiving leftovers because when I use them, it saves me time, it saves me money, and it gives…",
-            "pubDate": "2025-11-14T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/Leftover-Casserole-Horizontal-.png"
+            "title": "Dense Bean Salad",
+            "link": "https://therecipecritic.com/dense-bean-salad/",
+            "description": "TikTok creator Violet Witchel made this dense bean salad go viral for good reason. It’s simple, high in fiber, protein-packed,…",
+            "pubDate": "2025-11-15T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/dense-bean-salad-1.jpg"
+        },
+        {
+            "title": "Cranberry Orange Cookie Bars (Vegan + Gluten-Free)",
+            "link": "https://minimalistbaker.com/cranberry-orange-cookie-bars/",
+            "description": "The texture and flavor of a cookie with the ease of a bar? Talk about the perfect dessert! Introducing: cranberry orange cookie bars! These chewy, but...",
+            "pubDate": "2025-11-11T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/09/Vegan-Gluten-Free-Cranberry-Orange-Cookie-Bars-9-680x1020.jpg"
+        },
+        {
+            "title": "1-Pot Kabocha Chickpea Miso Soup",
+            "link": "https://minimalistbaker.com/kabocha-chickpea-miso-soup/",
+            "description": "Ever followed a restaurant on social media, found yourself drooling over everything they posted, and then realized you’re too far away to place an ord...",
+            "pubDate": "2025-10-21T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/11/1-Pot-Kabocha-Chickpea-Miso-Soup-25-Minimalist-Baker-110323-680x1020.jpg"
+        },
+        {
+            "title": "Easy Gluten-Free Monster Cookies (Vegan, Flourless!)",
+            "link": "https://minimalistbaker.com/easy-gluten-free-monster-cookies/",
+            "description": "Monster Cookies have leveled up! Say hello to our healthier twist on the chewy, tender, peanut buttery, chocolate- & candy-studded cookie you know and...",
+            "pubDate": "2025-10-14T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/02/Easy-Gluten-Free-Monster-Cookies-7-680x1020.jpg"
+        },
+        {
+            "title": "Instant Chai Latte Mix (Dairy-Free)",
+            "link": "https://minimalistbaker.com/instant-chai-latte-mix/",
+            "description": "Making chai lattes has never been easier! This Instant Chai Latte Mix makes comforting chai lattes possible instantly . Just add water and your favori...",
+            "pubDate": "2025-09-30T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Instant-Chai-Latte-Mix-8-680x1020.jpg"
         }
     ]
 }
