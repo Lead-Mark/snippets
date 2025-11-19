@@ -2,8 +2,29 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-19T06:56:33.183493",
+    "lastBuildDate": "2025-11-19T11:04:13.758981",
     "items": [
+        {
+            "title": "6 trends shaping robotics and AI",
+            "link": "https://www.therobotreport.com/6-trends-shaping-robotics-and-ai/",
+            "description": "MassRobotics survey offers a snapshot of current practices, challenges, and future expectations about sensor fusion, AI integration, motor control, po...",
+            "pubDate": "2025-11-19T13:57:28",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/preffered-sensor-combos-robotics-survey.jpg"
+        },
+        {
+            "title": "OpenCV founders launch AI video startup to take on OpenAI and Google",
+            "link": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google",
+            "description": "A new artificial intelligence startup founded by the creators of the world's most widely used computer vision library has emerged from stealth with te...",
+            "pubDate": "2025-11-19T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2KeyrGnSHkdmqbcNw5vNeL/cecc8af8a67e02395c663b22d9a19682/nuneybits_Vector_art_of_digital_film_reel_63eee9bf-9b4d-4d52-ae61-67717cda7a74.webp?w=300&q=30"
+        },
+        {
+            "title": "Encord releases EBIND multimodal embedding model for AI agents",
+            "link": "https://www.therobotreport.com/encord-releases-ebind-multimodal-embedding-model-ai-agents/",
+            "description": "Encord said its EBIND model, based on the E-MM1 dataset, is scalable and resource-light, allowing for the use of multiple data sources. The post Encor...",
+            "pubDate": "2025-11-19T14:59:22",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AdobeStock_1576401625-copy.jpg"
+        },
         {
             "title": "Agile Robots launches Agile ONE industrial humanoid",
             "link": "https://www.therobotreport.com/agile-robots-launches-agile-one-industrial-humanoid/",
@@ -12,60 +33,25 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AgileRobots_AgileONE.jpg"
         },
         {
+            "title": "VentureBeat launches “Beyond the Pilot” — a new podcast series exploring how enterprise AI gets real",
+            "link": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how",
+            "description": "Premiering November 19 VentureBeat is proud to announce the launch of its new flagship podcast, Beyond the Pilot: Enterprise AI in Action , premiering...",
+            "pubDate": "2025-11-19T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/UBKRkNVW5IWPee8mY5sZ7/fe00ca8d47c653249e4ca569c98cd515/Listen_Now_-_1200x675__1_.png?w=300&q=30"
+        },
+        {
+            "title": "The Download: de-censoring DeepSeek, and Gemini 3",
+            "link": "https://www.technologyreview.com/2025/11/19/1128131/the-download-de-censoring-deepseek-and-gemini-3/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Quantum phys...",
+            "pubDate": "2025-11-19T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_bdc3d9.png"
+        },
+        {
             "title": "Quantum physicists have shrunk and “de-censored” DeepSeek R1",
             "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
             "description": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built int...",
             "pubDate": "2025-11-19T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "How AI tax startup Blue J torched its entire business model for ChatGPT—and became a $300 million company",
-            "link": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and",
-            "description": "In the winter of 2022, as the tech world was becoming mesmerized by the sudden, explosive arrival of OpenAI’s ChatGPT, Benjamin Alarie faced a pivotal...",
-            "pubDate": "2025-11-18T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3L8roUj3sEWN26xcxHHEHd/3b4214627fb0a5e6f1197c72d8436ebc/Benjamin_Alarie__1_.jpg?w=300&q=30"
-        },
-        {
-            "title": "Distalmotion raises $150M to accelerate U.S. adoption of DEXTER surgical robot",
-            "link": "https://www.therobotreport.com/distalmotion-raises-150m-accelerate-u-s-dexter-surgical-robot-adoption/",
-            "description": "Distalmotion plans to use the funding to target the U.S. ambulatory surgery center market for its DEXTER robot. The post Distalmotion raises $150M to ...",
-            "pubDate": "2025-11-18T17:49:28",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Distalmotion_Dexter.jpg"
-        },
-        {
-            "title": "Writer's AI agents can actually do your work—not just chat about it",
-            "link": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it",
-            "description": "Writer , a San Francisco-based artificial intelligence startup, is launching a unified AI agent platform designed to let any employee automate complex...",
-            "pubDate": "2025-11-18T16:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1yKXb7MbGu4S6qonAAA7le/2abe7c4f29dcc6886136e0942d139828/nuneybits_Vector_art_of_skyscraper_with_glowing_AI_network_c8012037-7d41-4f65-86ee-bafdc6d3f97e.webp?w=300&q=30"
-        },
-        {
-            "title": "Microsoft remakes Windows for an era of autonomous AI agents",
-            "link": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents",
-            "description": "Microsoft is fundamentally restructuring its Windows operating system to become what executives call the first \"agentic OS,\" embedding the infrastruct...",
-            "pubDate": "2025-11-18T16:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/10JoE3QGKWcEQFwmh6temv/0c4960e461534cc7924eb36cc5b3f1c2/nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__c7e8e82a-c8b6-4bb6-b555-19a4b7abcd08.webp?w=300&q=30"
-        },
-        {
-            "title": "Waymo launching driverless robotaxis in 5 more cities",
-            "link": "https://www.therobotreport.com/waymo-launching-driverless-robotaxis-in-5-more-cities/",
-            "description": "Waymo said it has entered a new phase of commercial scale, doubling the number of cities it operates in without a human specialist in the car. The pos...",
-            "pubDate": "2025-11-18T17:56:22",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/07/waymosanfran-featured.jpg"
-        },
-        {
-            "title": "The Download: AI-powered warfare, and how embryo care is changing",
-            "link": "https://www.technologyreview.com/2025/11/18/1128056/the-download-ai-powered-warfare-and-how-embryo-care-is-changing/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The State of...",
-            "pubDate": "2025-11-18T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f98b.png"
-        },
-        {
-            "title": "Google unveils Gemini 3 claiming the lead in math, science, multimodal and agentic AI benchmarks",
-            "link": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and",
-            "description": "After more than a month of rumors and feverish speculation — including Polymarket wagering on the release date — Google today unveiled Gemini 3 , its ...",
-            "pubDate": "2025-11-18T16:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/rmVbVhW3iQ2iIgOY9E39J/8f5b4a78608564f483f757372d0f4e64/cfr0z3n_Rough_collage_style_showing_upper_thirds_of_3_colonial__abac762c-66eb-4d57-a4b2-e3d957500db1.png?w=300&q=30"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Musk's xAI launches Grok 4.1 with lower hallucination rate on the web and apps — no API access (for now)",
@@ -75,11 +61,25 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5BPaolPQb2HiippqexMByr/dbbc7c78014b61f900e3377e4a754678/200aa65d-c9d0-492e-a1fb-c98055cdb9d0.jpg?w=300&q=30"
         },
         {
+            "title": "Schneider Electric earns UL ECOLOGO certification for industrial automation",
+            "link": "https://www.therobotreport.com/schneider-electric-earns-ul-ecologo-certification-industrial-automation/",
+            "description": "Schneider Electric has obtained UL sustainability certification for its industrial automation and energy equipment. The post Schneider Electric earns ...",
+            "pubDate": "2025-11-18T23:30:11",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Circuit-Breaker-Testing-UL.jpg"
+        },
+        {
             "title": "Networking for AI: Building the foundation for real-time intelligence",
             "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
             "description": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 202...",
             "pubDate": "2025-11-18T16:03:14",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR-Networking-image-16x9-1.jpg"
+        },
+        {
+            "title": "Microsoft remakes Windows for an era of autonomous AI agents",
+            "link": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents",
+            "description": "Microsoft is fundamentally restructuring its Windows operating system to become what executives call the first \"agentic OS,\" embedding the infrastruct...",
+            "pubDate": "2025-11-18T16:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/10JoE3QGKWcEQFwmh6temv/0c4960e461534cc7924eb36cc5b3f1c2/nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__c7e8e82a-c8b6-4bb6-b555-19a4b7abcd08.webp?w=300&q=30"
         },
         {
             "title": "Realizing value with AI inference at scale and in production",
@@ -89,11 +89,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/HPE_AI-factory-implication-matrix_02@2x.jpg"
         },
         {
-            "title": "Schneider Electric earns UL ECOLOGO certification for industrial automation",
-            "link": "https://www.therobotreport.com/schneider-electric-earns-ul-ecologo-certification-industrial-automation/",
-            "description": "Schneider Electric has obtained UL sustainability certification for its industrial automation and energy equipment. The post Schneider Electric earns ...",
-            "pubDate": "2025-11-18T23:30:11",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Circuit-Breaker-Testing-UL.jpg"
+            "title": "Writer's AI agents can actually do your work—not just chat about it",
+            "link": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it",
+            "description": "Writer , a San Francisco-based artificial intelligence startup, is launching a unified AI agent platform designed to let any employee automate complex...",
+            "pubDate": "2025-11-18T16:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1yKXb7MbGu4S6qonAAA7le/2abe7c4f29dcc6886136e0942d139828/nuneybits_Vector_art_of_skyscraper_with_glowing_AI_network_c8012037-7d41-4f65-86ee-bafdc6d3f97e.webp?w=300&q=30"
         },
         {
             "title": "Zoox offers its first public autonomous rides in San Francisco",
@@ -107,14 +107,7 @@
             "link": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/",
             "description": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid m...",
             "pubDate": "2025-11-18T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -124,6 +117,13 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
@@ -131,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
             "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
