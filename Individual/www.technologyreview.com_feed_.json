@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.technologyreview.com/feed/",
     "link": "https://www.technologyreview.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-19T11:04:13.760010",
+    "lastBuildDate": "2025-11-19T16:30:30.101498",
     "items": [
+        {
+            "title": "Scaling innovation in manufacturing with AI",
+            "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
+            "description": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies—like digital twins, the cloud, edge computing, and the industri...",
+            "pubDate": "2025-11-19T16:54:55",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Cover-MITTR_MicrosoftNVIDIA_November2025.png?w=1556"
+        },
         {
             "title": "The Download: de-censoring DeepSeek, and Gemini 3",
             "link": "https://www.technologyreview.com/2025/11/19/1128131/the-download-de-censoring-deepseek-and-gemini-3/",
@@ -16,7 +23,7 @@
             "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
             "description": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built int...",
             "pubDate": "2025-11-19T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Networking for AI: Building the foundation for real-time intelligence",
@@ -31,13 +38,6 @@
             "description": "Training an AI model to predict equipment failures is an engineering achievement. But it’s not until prediction meets action—the moment that model suc...",
             "pubDate": "2025-11-18T16:02:16",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/HPE_AI-factory-implication-matrix_02@2x.jpg"
-        },
-        {
-            "title": "Google’s new Gemini 3 “vibe-codes” responses and comes with its own agent",
-            "link": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/",
-            "description": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid m...",
-            "pubDate": "2025-11-18T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

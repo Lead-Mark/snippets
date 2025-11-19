@@ -2,8 +2,22 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-19T11:04:13.758981",
+    "lastBuildDate": "2025-11-19T16:30:30.100506",
     "items": [
+        {
+            "title": "Bal Seal offers pre-certified IP67, IP69 seals for robots",
+            "link": "https://www.therobotreport.com/bal-seal-offers-pre-certified-ip67-ip69-seals-for-robots/",
+            "description": "This pre-certification eliminates the need for in-house or outsourced seal testing, saving time, reducing costs, and simplifying logistics for robotic...",
+            "pubDate": "2025-11-19T18:38:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Bal-Seal-IP67-and-IP69-Seals-300x200.jpg"
+        },
+        {
+            "title": "North American robot orders increase in Q3 2025, reports A3",
+            "link": "https://www.therobotreport.com/north-american-robot-orders-increase-q3-2025-reports-a3/",
+            "description": "Q3 2025 orders in food and consumer packaged goods surpassed robot orders in automotive manufacturing, said A3. The post North American robot orders i...",
+            "pubDate": "2025-11-19T17:55:06",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Figure-2-Third-Quarter-2025-copy.jpg"
+        },
         {
             "title": "6 trends shaping robotics and AI",
             "link": "https://www.therobotreport.com/6-trends-shaping-robotics-and-ai/",
@@ -12,11 +26,46 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/preffered-sensor-combos-robotics-survey.jpg"
         },
         {
+            "title": "OpenAI debuts GPT‑5.1-Codex-Max coding model and it already completed a 24-hour task internally",
+            "link": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24",
+            "description": "OpenAI has introduced GPT‑5.1-Codex-Max , a new frontier agentic coding model now available in its Codex developer environment. The release marks a si...",
+            "pubDate": "2025-11-19T19:26:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1EELcUCWai7BHVe2Iti1Ht/1fef9a3dd13eeed757dfda0bdccc4403/lsRydt-rLj3bqzrXKMGoN_b9a12412710e4c468f59b1b66cb31312__1_.png?w=300&q=30"
+        },
+        {
             "title": "OpenCV founders launch AI video startup to take on OpenAI and Google",
             "link": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google",
             "description": "A new artificial intelligence startup founded by the creators of the world's most widely used computer vision library has emerged from stealth with te...",
             "pubDate": "2025-11-19T14:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2KeyrGnSHkdmqbcNw5vNeL/cecc8af8a67e02395c663b22d9a19682/nuneybits_Vector_art_of_digital_film_reel_63eee9bf-9b4d-4d52-ae61-67717cda7a74.webp?w=300&q=30"
+        },
+        {
+            "title": "Scaling innovation in manufacturing with AI",
+            "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
+            "description": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies—like digital twins, the cloud, edge computing, and the industri...",
+            "pubDate": "2025-11-19T16:54:55",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Cover-MITTR_MicrosoftNVIDIA_November2025.png?w=1556"
+        },
+        {
+            "title": "The Download: de-censoring DeepSeek, and Gemini 3",
+            "link": "https://www.technologyreview.com/2025/11/19/1128131/the-download-de-censoring-deepseek-and-gemini-3/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Quantum phys...",
+            "pubDate": "2025-11-19T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_bdc3d9.png"
+        },
+        {
+            "title": "The Google Search of AI agents? Fetch launches ASI:One and Business tier for new era of non-human web",
+            "link": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for",
+            "description": "Fetch AI , a startup founded and led by former DeepMind founding investor, Humayun Sheikh, on Wednesday announced the release of three interconnected ...",
+            "pubDate": "2025-11-19T17:57:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3k6j1uNdNxlbnpsPegp9iU/c4e7434ef3767363fefa4e55cf859062/cfr0z3n_Collage_style_minimalist_pop_art_crisp_extreme_close_up_b7276a15-7a28-4c5d-9de2-df497177e0d6__1_.png?w=300&q=30"
+        },
+        {
+            "title": "VentureBeat launches “Beyond the Pilot” — a new podcast series exploring how enterprise AI gets real",
+            "link": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how",
+            "description": "Premiering November 19 VentureBeat is proud to announce the launch of its new flagship podcast, Beyond the Pilot: Enterprise AI in Action , premiering...",
+            "pubDate": "2025-11-19T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/UBKRkNVW5IWPee8mY5sZ7/fe00ca8d47c653249e4ca569c98cd515/Listen_Now_-_1200x675__1_.png?w=300&q=30"
         },
         {
             "title": "Encord releases EBIND multimodal embedding model for AI agents",
@@ -33,39 +82,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AgileRobots_AgileONE.jpg"
         },
         {
-            "title": "VentureBeat launches “Beyond the Pilot” — a new podcast series exploring how enterprise AI gets real",
-            "link": "https://venturebeat.com/ai/venturebeat-launches-beyond-the-pilot-a-new-podcast-series-exploring-how",
-            "description": "Premiering November 19 VentureBeat is proud to announce the launch of its new flagship podcast, Beyond the Pilot: Enterprise AI in Action , premiering...",
-            "pubDate": "2025-11-19T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/UBKRkNVW5IWPee8mY5sZ7/fe00ca8d47c653249e4ca569c98cd515/Listen_Now_-_1200x675__1_.png?w=300&q=30"
-        },
-        {
-            "title": "The Download: de-censoring DeepSeek, and Gemini 3",
-            "link": "https://www.technologyreview.com/2025/11/19/1128131/the-download-de-censoring-deepseek-and-gemini-3/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Quantum phys...",
-            "pubDate": "2025-11-19T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_bdc3d9.png"
-        },
-        {
             "title": "Quantum physicists have shrunk and “de-censored” DeepSeek R1",
             "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
             "description": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built int...",
             "pubDate": "2025-11-19T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Musk's xAI launches Grok 4.1 with lower hallucination rate on the web and apps — no API access (for now)",
-            "link": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and",
-            "description": "In what appeared to be a bid to soak up some of Google's limelight prior to the launch of its new Gemini 3 flagship AI model — now recorded as the mos...",
-            "pubDate": "2025-11-18T20:03:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5BPaolPQb2HiippqexMByr/dbbc7c78014b61f900e3377e4a754678/200aa65d-c9d0-492e-a1fb-c98055cdb9d0.jpg?w=300&q=30"
-        },
-        {
-            "title": "Schneider Electric earns UL ECOLOGO certification for industrial automation",
-            "link": "https://www.therobotreport.com/schneider-electric-earns-ul-ecologo-certification-industrial-automation/",
-            "description": "Schneider Electric has obtained UL sustainability certification for its industrial automation and energy equipment. The post Schneider Electric earns ...",
-            "pubDate": "2025-11-18T23:30:11",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Circuit-Breaker-Testing-UL.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Networking for AI: Building the foundation for real-time intelligence",
@@ -75,11 +96,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR-Networking-image-16x9-1.jpg"
         },
         {
-            "title": "Microsoft remakes Windows for an era of autonomous AI agents",
-            "link": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents",
-            "description": "Microsoft is fundamentally restructuring its Windows operating system to become what executives call the first \"agentic OS,\" embedding the infrastruct...",
-            "pubDate": "2025-11-18T16:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/10JoE3QGKWcEQFwmh6temv/0c4960e461534cc7924eb36cc5b3f1c2/nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__c7e8e82a-c8b6-4bb6-b555-19a4b7abcd08.webp?w=300&q=30"
+            "title": "Musk's xAI launches Grok 4.1 with lower hallucination rate on the web and apps — no API access (for now)",
+            "link": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and",
+            "description": "In what appeared to be a bid to soak up some of Google's limelight prior to the launch of its new Gemini 3 flagship AI model — now recorded as the mos...",
+            "pubDate": "2025-11-18T20:03:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5BPaolPQb2HiippqexMByr/dbbc7c78014b61f900e3377e4a754678/200aa65d-c9d0-492e-a1fb-c98055cdb9d0.jpg?w=300&q=30"
         },
         {
             "title": "Realizing value with AI inference at scale and in production",
@@ -89,25 +110,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/HPE_AI-factory-implication-matrix_02@2x.jpg"
         },
         {
-            "title": "Writer's AI agents can actually do your work—not just chat about it",
-            "link": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it",
-            "description": "Writer , a San Francisco-based artificial intelligence startup, is launching a unified AI agent platform designed to let any employee automate complex...",
-            "pubDate": "2025-11-18T16:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1yKXb7MbGu4S6qonAAA7le/2abe7c4f29dcc6886136e0942d139828/nuneybits_Vector_art_of_skyscraper_with_glowing_AI_network_c8012037-7d41-4f65-86ee-bafdc6d3f97e.webp?w=300&q=30"
-        },
-        {
-            "title": "Zoox offers its first public autonomous rides in San Francisco",
-            "link": "https://www.therobotreport.com/zoox-offers-first-public-autonomous-rides-san-francisco/",
-            "description": "Zoox is accepting its first public riders in San Francisco through its Explorer program, which gives riders early access. The post Zoox offers its fir...",
-            "pubDate": "2025-11-18T22:35:31",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Zoox-San-Francisco-featured.jpg"
-        },
-        {
-            "title": "Google’s new Gemini 3 “vibe-codes” responses and comes with its own agent",
-            "link": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/",
-            "description": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid m...",
-            "pubDate": "2025-11-18T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -117,13 +124,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
@@ -131,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
             "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
