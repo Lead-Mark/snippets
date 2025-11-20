@@ -2,8 +2,29 @@
     "title": "Sports",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Sports, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-20T07:44:37.340516",
+    "lastBuildDate": "2025-11-20T11:07:00.683988",
     "items": [
+        {
+            "title": "'We Just F---ing Blew a Chance': Dan Hurley on Missed Opportunity vs. Arizona",
+            "link": "https://www.foxsports.com/stories/college-basketball/we-just-f-ing-blew-chance-dan-hurley-missed-opportunity-vs-arizona",
+            "description": "Dan Hurley says he's going to have nightmares because UConn 'just f---ing blew a chance' to beat Arizona.",
+            "pubDate": "2025-11-20T06:02:18",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/dan_hurley_horizontal.jpg"
+        },
+        {
+            "title": "What’s Next: How Josh Naylor's New Deal Affects the Mariners, Free Agent Market",
+            "link": "https://www.foxsports.com/stories/mlb/whats-next-josh-naylor-staying-seattle-mariners",
+            "description": "Josh Naylor signed MLB's first big offseason deal. Here's what's next for the Mariners and how it affects other top first basemen.",
+            "pubDate": "2025-11-20T05:36:05",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/joshnaylor3.jpg"
+        },
+        {
+            "title": "3 Best Fits? Where Top MLB Free Agents, Including Japan's Next Star, Could Land",
+            "link": "https://www.foxsports.com/stories/mlb/2026-mlb-free-agents-3-best-fits-stars-should-depart-current-teams",
+            "description": "Rounding up the best fits for top MLB free agents should they leave their respective teams this offseason.",
+            "pubDate": "2025-11-20T06:02:26",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/9492cd5b-freeagents.jpg"
+        },
         {
             "title": "No. 11 Alabama vs. No. 8 Illinois Highlights 🏀 FOX College Hoops",
             "link": "https://www.foxsports.com/watch/fmc-yyw5lzow8r43ayuy",
@@ -19,59 +40,38 @@
             "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/alabama_horizontal.jpg"
         },
         {
-            "title": "3 Best Fits? Where Top MLB Free Agents, Including Japan's Next Star, Could Land",
-            "link": "https://www.foxsports.com/stories/mlb/2026-mlb-free-agents-3-best-fits-stars-should-depart-current-teams",
-            "description": "Rounding up the best fits for top MLB free agents should they leave their respective teams this offseason.",
-            "pubDate": "2025-11-20T06:02:26",
-            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/9492cd5b-freeagents.jpg"
+            "title": "Jimmy Butler, Steve Kerr and the Warriors' quest to solve the Jonathan Kuminga puzzle",
+            "link": "https://www.espn.com/nba/story/_/id/47028331/inside-jimmy-butler-warriors-quest-solve-jonathan-kuminga-puzzle",
+            "description": "Butler has taken on a mentorship role with Kuminga, who is still trying to find his role with the Warriors.",
+            "pubDate": "2025-11-20T15:52:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "What’s Next: How Josh Naylor's New Deal Affects the Mariners, Free Agent Market",
-            "link": "https://www.foxsports.com/stories/mlb/whats-next-josh-naylor-staying-seattle-mariners",
-            "description": "Josh Naylor signed MLB's first big offseason deal. Here's what's next for the Mariners and how it affects other top first basemen.",
-            "pubDate": "2025-11-20T05:36:05",
-            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/joshnaylor3.jpg"
+            "title": "Grading preseason bold predictions for all 32 NHL teams",
+            "link": "https://www.espn.com/nhl/story/_/id/47025947/nhl-2025-26-predictions-grades-preseason-playoffs-stats-milestones",
+            "description": "Some of our wild takes from September don't look so wild anymore. Others are way off-base. Here's an update.",
+            "pubDate": "2025-11-20T15:43:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "'We Just F---ing Blew a Chance': Dan Hurley on Missed Opportunity vs. Arizona",
-            "link": "https://www.foxsports.com/stories/college-basketball/we-just-f-ing-blew-chance-dan-hurley-missed-opportunity-vs-arizona",
-            "description": "Dan Hurley says he's going to have nightmares because UConn 'just f---ing blew a chance' to beat Arizona.",
-            "pubDate": "2025-11-20T06:02:18",
-            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/dan_hurley_horizontal.jpg"
+            "title": "Flyers to honor young cancer patients with pregame SkateSkins",
+            "link": "https://www.espn.com/nhl/story/_/id/47022852/nhl-2025-26-philadelphia-flyers-skateskins-hockey-fights-cancer",
+            "description": "The custom skate accessories were designed as part of the Hockey Fights Cancer initiative.",
+            "pubDate": "2025-11-20T15:43:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Early trade deadline questions: What's next for Giannis, Lakers and top contenders?",
             "link": "https://www.espn.com/nba/story/_/id/47028882/early-nba-trade-deadline-questions-lakers-bucks-warriors-top-contenders",
             "description": "Early NBA trade deadline questions for Bucks, Lakers, Warriors and other top contenders, including biggest needs and what they can pull off.",
-            "pubDate": "2025-11-20T12:42:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "pubDate": "2025-11-20T15:52:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Jimmy Butler, Steve Kerr and the Warriors' quest to solve the Jonathan Kuminga puzzle",
-            "link": "https://www.espn.com/nba/story/_/id/47028331/inside-jimmy-butler-warriors-quest-solve-jonathan-kuminga-puzzle",
-            "description": "Butler has taken on a mentorship role with Kuminga, who is still trying to find his role with the Warriors.",
-            "pubDate": "2025-11-20T12:42:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Projecting Round 1 of next year's NFL draft: Miller finds landing spots for 32 top prospects",
-            "link": "https://www.espn.com/nfl/draft2026/story/_/id/47000736/2026-nfl-mock-draft-first-round-predictions-32-picks-matt-miller",
-            "description": "How early could Ty Simpson go? What about Makai Lemon, David Bailey and Mansoor Delane? Let's project Round 1 of the 2026 draft -- plus two trades.",
-            "pubDate": "2025-11-20T12:40:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Transfer rumors, news: Man United eye highly rated Rennes duo",
-            "link": "https://www.espn.com/soccer/story/_/id/47033078/transfer-rumors-news-man-united-eye-highly-rated-rennes-duo-jeremy-jacquet-mohamed-meite",
-            "description": "Manchester United are keeping tabs on Rennes duo Jérémy Jacquet and Mohamed Meite. Transfer Talk has the latest news and rumors.",
-            "pubDate": "2025-11-20T12:38:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "$400 million extension, blockbuster trade or let it ride? MLB insiders break down Tigers' Tarik Skubal options",
-            "link": "https://www.espn.com/mlb/story/_/id/47022782/mlb-free-agency-2025-26-tarik-skubal-detroit-tigers-trade-extension-400-million-contract",
-            "description": "Will the best pitcher in baseball be on the move this offseason? Those in the game offer their advice.",
-            "pubDate": "2025-11-20T12:36:49",
+            "title": "Men's College Basketball Power Rankings: Arizona rides hot start to No. 1",
+            "link": "https://www.espn.com/mens-college-basketball/story/_/id/47027058/mens-college-basketball-power-rankings-top-25-arizona-uconn",
+            "description": "The Wildcats added another statement win to their early-season résumé, headlining this week's top-25 risers.",
+            "pubDate": "2025-11-20T15:41:57",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
