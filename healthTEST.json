@@ -2,15 +2,8 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-19T22:13:49.633589",
+    "lastBuildDate": "2025-11-20T07:46:19.436652",
     "items": [
-        {
-            "title": "Albuminuria shows a stronger association with kidney failure than proteinuria",
-            "link": "https://www.2minutemedicine.com/albuminuria-shows-a-stronger-association-with-kidney-failure-than-proteinuria/",
-            "description": "1. In this individual-level meta-analysis, urinary albumin-creatinine ratio (UACR) had a stronger association with increased risk of kidney failure wh...",
-            "pubDate": "2025-11-20T00:10:03",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/11/kidney_edited-300x150.jpg"
-        },
         {
             "title": "Resistance Exercise Therapy After COVID-19 Infection: A Randomized Clinical Trial",
             "link": "https://www.2minutemedicine.com/resistance-exercise-therapy-after-covid-19-infection-a-randomized-clinical-trial/",
@@ -19,53 +12,95 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2020/03/COVID-19_2871-300x150.jpg"
         },
         {
-            "title": "‘Lean Diabetes’ a Risk Factor for Dementia?",
-            "link": "https://www.medscape.com/viewarticle/metabolic-stress-not-body-weight-may-explain-dementia-risk-2025a1000wb3?src=rss",
-            "description": "Clinicians may be overlooking ‘lean diabetes’ as a risk factor for dementia. Medscape Medical News",
-            "pubDate": "2025-11-20T02:30:58",
+            "title": "Albuminuria shows a stronger association with kidney failure than proteinuria",
+            "link": "https://www.2minutemedicine.com/albuminuria-shows-a-stronger-association-with-kidney-failure-than-proteinuria/",
+            "description": "1. In this individual-level meta-analysis, urinary albumin-creatinine ratio (UACR) had a stronger association with increased risk of kidney failure wh...",
+            "pubDate": "2025-11-20T00:10:03",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/11/kidney_edited-300x150.jpg"
+        },
+        {
+            "title": "She cares for her aging parents full time. That requires taking care of herself, too",
+            "link": "https://www.npr.org/2025/11/20/nx-s1-5522341/unpaid-caregivers-elderly-support",
+            "description": "Dawnita Brown left her job to become a caregiver for her parents. Brown says it's a gift to care for her parents, but it can also be difficult. That's...",
+            "pubDate": "2025-11-20T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2950x1967+0+0/resize/2950x1967!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F1c%2Fa8dd736e45259ce6d97fda146058%2F20251016-dsc3681.jpg"
+        },
+        {
+            "title": "Portugal’s Doctor Shortage Fuels a Two-Way Migration Wave",
+            "link": "https://www.medscape.com/viewarticle/portugals-doctor-shortage-fuels-two-way-migration-wave-2025a1000wd9?src=rss",
+            "description": "More than 2700 Portuguese doctors have requested certificates to work abroad in just 3 years. Medscape News Europe",
+            "pubDate": "2025-11-20T12:06:11",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Important Long-COVID Lessons From AIDS Researchers",
+            "link": "https://www.medscape.com/viewarticle/important-long-covid-lessons-aids-researchers-2025a1000wdc?src=rss",
+            "description": "The search for long-COVID treatments echoes the previous struggles against HIV/AIDS. Now researchers are taking lessons from those breakthroughs to ma...",
+            "pubDate": "2025-11-20T12:10:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Minnesota has one of the nation's lowest kindergarten measles vaccination rates",
+            "link": "https://medicalxpress.com/news/2025-11-minnesota-nation-lowest-kindergarten-measles.html",
+            "description": "Minnesota has seen one of the nation's sharpest drops in measles herd immunity among kindergartners, falling well below the threshold needed to preven...",
+            "pubDate": "2025-11-20T11:50:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "U.S. making no progress in protecting pregnancy health, March of Dimes report card says",
+            "link": "https://medicalxpress.com/news/2025-11-pregnancy-health-dimes-card.html",
+            "description": "The United States has received another barely passing pregnancy health grade from the March of Dimes after another year in which one out of 10 babies ...",
+            "pubDate": "2025-11-20T12:10:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Cerebrospinal fluid motion in the brain captured in remarkable detail",
+            "link": "https://medicalxpress.com/news/2025-11-cerebrospinal-fluid-motion-brain-captured.html",
+            "description": "Cerebrospinal fluid (CSF) is a clear and watery liquid that flows in and around the brain and spinal cord. Its functions include protecting parts of t...",
+            "pubDate": "2025-11-20T12:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Your Guide to Working as a Doctor in Portugal",
+            "link": "https://www.medscape.com/viewarticle/your-guide-working-doctor-portugal-2025a1000wdh?src=rss",
+            "description": "Although Portugal has 55,000 licensed physicians, only about 30,000 currently work in the public healthcare system, contributing to acute staffing sho...",
+            "pubDate": "2025-11-20T12:32:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "HHS proposes new CDC programs, including hepatitis B screening",
+            "link": "https://medicalxpress.com/news/2025-11-hhs-cdc-hepatitis-screening.html",
+            "description": "The Health and Human Services Department is proposing new initiatives for the Centers for Disease Control and Prevention, including a program to incre...",
+            "pubDate": "2025-11-20T12:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Early Vaccination May Have Mitigated Texas Measles Outbreak",
+            "link": "https://www.medscape.com/viewarticle/early-vaccination-may-have-mitigated-texas-measles-outbreak-2025a1000wd8?src=rss",
+            "description": "CDC recommendation was associated with increased MMR vaccination early and at routine well-child visits. Medscape Medical News",
+            "pubDate": "2025-11-20T12:00:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Last-minute surgery changes? Experts share tips on how to handle canceled surgeries",
+            "link": "https://medicalxpress.com/news/2025-11-minute-surgery-experts-canceled-surgeries.html",
+            "description": "Preparing for surgery can be scary. In addition to the medical issues, having surgery involves a lot of prep. You may need to coordinate childcare, tr...",
+            "pubDate": "2025-11-20T11:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "How culturally compassionate care builds trust and saves lives [PODCAST]",
             "link": "https://kevinmd.com/2025/11/how-culturally-compassionate-care-builds-trust-and-saves-lives-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Public health professional Nishat Uddin discusses her article “Why cu...",
             "pubDate": "2025-11-20T00:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "The future of insulin delivery for diabetes could be through a patch",
-            "link": "https://medicalxpress.com/news/2025-11-future-insulin-delivery-diabetes-patch.html",
-            "description": "A compound that enables the delivery of insulin through the skin has been demonstrated in mice and minipigs. The findings, reported in a paper publish...",
-            "pubDate": "2025-11-20T03:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Researchers diagnose disease with a drop of blood, a microscope and AI",
-            "link": "https://medicalxpress.com/news/2025-11-disease-blood-microscope-ai.html",
-            "description": "Not long ago, the idea of diagnosing a disease with a droplet of blood was considered a pipe dream. Today, this technology could soon become a reality...",
-            "pubDate": "2025-11-20T02:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Young donor age emerges as key factor in stem cell transplant success",
-            "link": "https://medicalxpress.com/news/2025-11-young-donor-age-emerges-key.html",
-            "description": "HLA compatibility is considered the key criterion for selecting donors for allo-HSCT. DKMS study data presented at the DGHO Annual Meeting 2025 in Col...",
-            "pubDate": "2025-11-20T02:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Psychiatric treatment is no guarantee of a return to work, says study",
-            "link": "https://medicalxpress.com/news/2025-11-psychiatric-treatment.html",
-            "description": "Mental health problems are keeping an increasing number of Norwegians out of the employment market. Treatment alone is often not enough to get people ...",
-            "pubDate": "2025-11-20T01:20:01",
+            "title": "Low LDL Cholesterol Linked to Higher Diabetes Risk",
+            "link": "https://www.medscape.com/viewarticle/low-ldl-cholesterol-linked-higher-diabetes-risk-2025a1000w1m?src=rss",
+            "description": "Lower baseline low-density lipoprotein cholesterol levels are linked to a higher risk for incident type 2 diabetes, largely independent of statin use,...",
+            "pubDate": "2025-11-20T12:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Investigating lithium's potential role in slowing cognitive decline in Alzheimer's disease",
-            "link": "https://medicalxpress.com/news/2025-11-lithium-potential-role-cognitive-decline.html",
-            "description": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline such as memory loss and behavioral disturbance...",
-            "pubDate": "2025-11-20T02:30:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Self-Administered Hypnosis vs Sham Hypnosis for Hot Flashes: A Randomized Clinical Trial",
@@ -73,6 +108,20 @@
             "description": "1. Six weeks of self-administered hypnosis reduced hot flash scores and daily interference from hot flashes compared with sham hypnosis among postmeno...",
             "pubDate": "2025-11-19T00:00:01",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Hot-Flashes-300x187.png"
+        },
+        {
+            "title": "Researchers are looking for solutions for side effects of weight loss drugs",
+            "link": "https://www.npr.org/2025/11/19/nx-s1-5611473/researchers-are-looking-for-solutions-for-side-effects-of-weight-loss-drugs",
+            "description": "Drugs like Wegovy and Zepbound are highly effective for weight loss. But researchers at the Society for Neuroscience meeting say they are only beginni...",
+            "pubDate": "2025-11-19T21:56:13",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5611473"
+        },
+        {
+            "title": "World Toilet Day is today! Um ... is that really the best name?",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/11/19/g-s1-98136/world-toilet-day-sanitation-sewage",
+            "description": "Nov. 19 is World Toilet Day — officially declared by the United Nations to bring attention to the 3.4 billion people who live without \"safely managed ...",
+            "pubDate": "2025-11-19T12:32:49",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F70%2F2007f1f948019e425a8cd1b9f10b%2Fworld-toilet-day-1.jpg"
         },
         {
             "title": "Flu season could be nasty this winter",
@@ -89,81 +138,32 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5613438"
         },
         {
-            "title": "Can weed help you drink less? Scientists study how well 'California sober' works",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/11/19/nx-s1-5604813/marijuana-drinking-california-sober",
-            "description": "It's trendy in some circles to replace drinking with consuming cannabis. But can it help people with a drinking problem cut back? Scientists set up a ...",
-            "pubDate": "2025-11-19T05:01:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1666+0+0/resize/2500x1666!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Fd8%2F58f14dc64797b64da3e515390405%2F20251113-comm-barlab033.JPG"
-        },
-        {
-            "title": "World Toilet Day is today! Um ... is that really the best name?",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/11/19/g-s1-98136/world-toilet-day-sanitation-sewage",
-            "description": "Nov. 19 is World Toilet Day — officially declared by the United Nations to bring attention to the 3.4 billion people who live without \"safely managed ...",
-            "pubDate": "2025-11-19T12:32:49",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F70%2F2007f1f948019e425a8cd1b9f10b%2Fworld-toilet-day-1.jpg"
-        },
-        {
-            "title": "Researchers are looking for solutions for side effects of weight loss drugs",
-            "link": "https://www.npr.org/2025/11/19/nx-s1-5611473/researchers-are-looking-for-solutions-for-side-effects-of-weight-loss-drugs",
-            "description": "Drugs like Wegovy and Zepbound are highly effective for weight loss. But researchers at the Society for Neuroscience meeting say they are only beginni...",
-            "pubDate": "2025-11-19T21:56:13",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5611473"
-        },
-        {
-            "title": "Despite Risks, Safety Warnings, Valproate Use On the Rise",
-            "link": "https://www.medscape.com/viewarticle/despite-risks-safety-warnings-global-valproate-use-continues-2025a1000w9z?src=rss",
-            "description": "Even as newer antiseizure drugs surge, global prescribing remains anchored to valproate, signaling slow adoption of safety recommendations. Medscape M...",
-            "pubDate": "2025-11-19T18:58:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Aging parents and Thanksgiving: a gentle check-in",
+            "link": "https://kevinmd.com/2025/11/aging-parents-and-thanksgiving-a-gentle-check-in.html",
+            "description": "Thanksgiving is my favorite holiday. I love the cooking, the noise, the parade, the extra side dishes no one really has room for. Every year I tell my...",
+            "pubDate": "2025-11-19T18:00:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "The U.S. health care crisis: a Titanic parallel",
             "link": "https://kevinmd.com/2025/11/the-u-s-health-care-crisis-a-titanic-parallel.html",
             "description": "Two years ago, Drs. Aaron Morgenstein, Corinne Sundar Rao, and Shreekant Vasudhev drew a compelling parallel between the Titanic’s tragic voyage and t...",
             "pubDate": "2025-11-19T22:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Checkpoint Inhibitor Prices Dropped Marginally Over Decade",
-            "link": "https://www.medscape.com/viewarticle/checkpoint-inhibitor-prices-dropped-marginally-over-decade-2025a1000wa8?src=rss",
-            "description": "A recent analysis reveals that monthly prices of checkpoint inhibitors decreased only a small amount over a decade. Medscape Medical News",
-            "pubDate": "2025-11-19T19:34:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Aging parents and Thanksgiving: a gentle check-in",
-            "link": "https://kevinmd.com/2025/11/aging-parents-and-thanksgiving-a-gentle-check-in.html",
-            "description": "Thanksgiving is my favorite holiday. I love the cooking, the noise, the parade, the extra side dishes no one really has room for. Every year I tell my...",
-            "pubDate": "2025-11-19T18:00:24",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Second Anti-HER2 TKI Approved for NSCLC",
-            "link": "https://www.medscape.com/viewarticle/second-anti-her2-tki-approved-nsclc-2025a1000wan?src=rss",
-            "description": "Bayer’s sevabertinib picks up a second-line indication for HER2-mutated disease, joining Boehringer’s zongertinib on the US market. Medscape Medical N...",
-            "pubDate": "2025-11-19T20:59:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Interdisciplinary medicine: lessons from the cockpit",
             "link": "https://kevinmd.com/2025/11/interdisciplinary-medicine-lessons-from-the-cockpit.html",
             "description": "In aviation, the right seat is typically reserved for the instructor. In medicine, it’s the role of the diagnostician, the mentor, the gatekeeper. I o...",
             "pubDate": "2025-11-19T19:00:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Why psychiatrists can’t treat family members",
             "link": "https://kevinmd.com/2025/11/why-psychiatrists-cant-treat-family-members.html",
             "description": "As a psychiatrist, I’m often asked by family or friends to “help,” to intervene in the mental struggles of a loved one, a friend, or even a distant ac...",
             "pubDate": "2025-11-19T20:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Allergy Therapy Shortcut? Omalizumab Speeds OIT Start",
-            "link": "https://www.medscape.com/viewarticle/allergy-therapy-shortcut-omalizumab-speeds-oit-start-2025a1000wa7?src=rss",
-            "description": "Children who received omalizumab pretreatment underwent less dose escalation in oral immunotherapy. Medscape Medical News",
-            "pubDate": "2025-11-19T19:29:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Association between baseline BMI and in-hospital mortality in critically ill cardiac surgery patients: a retrospective cohort study",
