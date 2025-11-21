@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-21T10:38:31.732332",
+    "lastBuildDate": "2025-11-21T16:10:39.095232",
     "items": [
+        {
+            "title": "Waymo is starting robotaxi testing in three more cities",
+            "link": "https://www.therobotreport.com/waymo-starts-robotaxi-testing-three-more-cities/",
+            "description": "Waymo plans to more than double the number of cities it will operate a commercial robotaxi service in next year. The post Waymo is starting robotaxi t...",
+            "pubDate": "2025-11-21T19:01:00",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/waymo-featured-1.jpg"
+        },
         {
             "title": "The Download: the secrets of vitamin D, and an AI party in Africa",
             "link": "https://www.technologyreview.com/2025/11/21/1128232/the-download-the-secrets-of-vitamin-d-and-an-ai-party-in-africa/",
@@ -19,6 +26,13 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/armstrong-featured.jpg"
         },
         {
+            "title": "Teleop, not autonomy, is the path for 1X’s NEO humanoid",
+            "link": "https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/",
+            "description": "1X has demonstrated progress with its NEO humanoid, but teleoperation could be a better path toward household robots. The post Teleop, not autonomy, i...",
+            "pubDate": "2025-11-21T20:21:18",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/1x-neo-folding-laundry.jpg"
+        },
+        {
             "title": "We’re learning more about what vitamin D does to our bodies",
             "link": "https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/",
             "description": "It has started to get really wintry here in London over the last few days. The mornings are frosty, the wind is biting, and it’s already dark by the t...",
@@ -26,11 +40,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Designing digital resilience in the agentic AI era",
-            "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
-            "description": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With th...",
-            "pubDate": "2025-11-20T14:30:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/iStock-1372094301.jpg"
+            "title": "Tome's founders ditch viral presentation app with 20M users to build AI-native CRM Lightfield",
+            "link": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai",
+            "description": "Lightfield , a customer relationship management platform built entirely around artificial intelligence, officially launched to the public this week af...",
+            "pubDate": "2025-11-20T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5wMf212jO3vjdscRIkO2es/630cda00926624b743d0a1389678334c/nuneybits_Vector_art_of_a_lightfield_75a9847f-77d0-4131-b6db-bdcc95241781.webp?w=300&q=30"
+        },
+        {
+            "title": "Foxconn, Intrinsic building flexible robots for U.S. factories",
+            "link": "https://www.therobotreport.com/foxconn-intrinsic-building-flexible-robots-for-us-factories/",
+            "description": "Foxconn and Intrinsic will develop and test robotics solutions for use across a wide variety of common manufacturing tasks. The post Foxconn, Intrinsi...",
+            "pubDate": "2025-11-20T23:00:51",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AndrewWeeksPhotography_0041.jpg"
         },
         {
             "title": "The Download: what’s next for electricity, and living in the conspiracy age",
@@ -47,32 +68,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Bedrock-featured.jpg"
         },
         {
-            "title": "Foxconn, Intrinsic building flexible robots for U.S. factories",
-            "link": "https://www.therobotreport.com/foxconn-intrinsic-building-flexible-robots-for-us-factories/",
-            "description": "Foxconn and Intrinsic will develop and test robotics solutions for use across a wide variety of common manufacturing tasks. The post Foxconn, Intrinsi...",
-            "pubDate": "2025-11-20T23:00:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AndrewWeeksPhotography_0041.jpg"
-        },
-        {
-            "title": "ScaleOps' new AI Infra Product slashes GPU costs for self-hosted enterprise LLMs by 50% for early adopters",
-            "link": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise",
-            "description": "ScaleOps has expanded its cloud resource management platform with a new product aimed at enterprises operating self-hosted large language models (LLMs...",
-            "pubDate": "2025-11-20T17:35:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3bOnH3W9t1HN5Ha6WoxYDq/00f40013d88e7f450f365f14c433c6d1/e6e653a5878841beaf1a3cb76e2bce67.png?w=300&q=30"
-        },
-        {
-            "title": "Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing",
-            "link": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by",
-            "description": "Elon Musk's frontier generative AI startup xAI formally opened developer access to its Grok 4.1 Fast models last night and introduced a new Agent Tool...",
-            "pubDate": "2025-11-20T23:57:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gvCwU9e5pN9kHaUlTUA8U/a0d9ebd8bc2ef065c0633839940933fb/zjmq0ycPfSjfv1AUt3Vla.png?w=300&q=30"
-        },
-        {
-            "title": "SOSV hosting virtual matchmaking to connect robotics startups & investors",
-            "link": "https://www.therobotreport.com/sosv-virtual-matchmaking-robotics-startups-investors/",
-            "description": "Free event welcomes any robotics startup from pre-Seed through Series B for 1:1 curated meetings with active robotics investors. The post SOSV hosting...",
-            "pubDate": "2025-11-20T18:03:30",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/aacc60_fc9ec8e0436b46baa1ad5a50c626199emv2-1024x720.jpg"
+            "title": "Google's upgraded Nano Banana Pro AI image model hailed as 'absolutely bonkers' for enterprises and users",
+            "link": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers",
+            "description": "Infographics rendered without a single spelling error. Complex diagrams one-shotted from paragraph prompts. Logos restored from fragments. And visual ...",
+            "pubDate": "2025-11-20T20:20:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3n775ntXVEiWy98cWEiYI3/6a8bc67c8995e9e62c074ba25cb4e1d5/6xy436RFzdEv9BoCsVxxK.png?w=300&q=30"
         },
         {
             "title": "Ai2’s Olmo 3 family challenges Qwen and Llama with efficient, open reasoning and customization",
@@ -82,32 +82,39 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2kgtg0ELzGGfEZIeYgcD2H/dfe8040f9c6f5ea3d10feaefff392c59/crimedy7_illustration_of_a_robot_with_a_clear_body_and_you_ca_9b829902-bd72-4f00-a3dd-103ede8df2ae_0.png?w=300&q=30"
         },
         {
-            "title": "Google's upgraded Nano Banana Pro AI image model hailed as 'absolutely bonkers' for enterprises and users",
-            "link": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers",
-            "description": "Infographics rendered without a single spelling error. Complex diagrams one-shotted from paragraph prompts. Logos restored from fragments. And visual ...",
-            "pubDate": "2025-11-20T20:20:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3n775ntXVEiWy98cWEiYI3/6a8bc67c8995e9e62c074ba25cb4e1d5/6xy436RFzdEv9BoCsVxxK.png?w=300&q=30"
+            "title": "ScaleOps' new AI Infra Product slashes GPU costs for self-hosted enterprise LLMs by 50% for early adopters",
+            "link": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise",
+            "description": "ScaleOps has expanded its cloud resource management platform with a new product aimed at enterprises operating self-hosted large language models (LLMs...",
+            "pubDate": "2025-11-20T17:35:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3bOnH3W9t1HN5Ha6WoxYDq/00f40013d88e7f450f365f14c433c6d1/e6e653a5878841beaf1a3cb76e2bce67.png?w=300&q=30"
         },
         {
-            "title": "Tome's founders ditch viral presentation app with 20M users to build AI-native CRM Lightfield",
-            "link": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai",
-            "description": "Lightfield , a customer relationship management platform built entirely around artificial intelligence, officially launched to the public this week af...",
-            "pubDate": "2025-11-20T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5wMf212jO3vjdscRIkO2es/630cda00926624b743d0a1389678334c/nuneybits_Vector_art_of_a_lightfield_75a9847f-77d0-4131-b6db-bdcc95241781.webp?w=300&q=30"
+            "title": "Designing digital resilience in the agentic AI era",
+            "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
+            "description": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With th...",
+            "pubDate": "2025-11-20T14:30:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/iStock-1372094301.jpg"
         },
         {
-            "title": "PI releases H-815 hexapod robot for industrial applications",
-            "link": "https://www.therobotreport.com/pi-releases-h-815-hexapod-robot-industrial-applications/",
-            "description": "PI said its new H-815 hexapod robot is designed for automotive, electronics, photonics, and optics applications. The post PI releases H-815 hexapod ro...",
-            "pubDate": "2025-11-20T16:31:23",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/H-815-featured.jpg"
+            "title": "Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing",
+            "link": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by",
+            "description": "Elon Musk's frontier generative AI startup xAI formally opened developer access to its Grok 4.1 Fast models last night and introduced a new Agent Tool...",
+            "pubDate": "2025-11-20T23:57:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gvCwU9e5pN9kHaUlTUA8U/a0d9ebd8bc2ef065c0633839940933fb/zjmq0ycPfSjfv1AUt3Vla.png?w=300&q=30"
         },
         {
             "title": "Roundtables: Surviving the New Age of Conspiracies",
             "link": "https://www.technologyreview.com/2025/11/20/1127749/roundtables-surviving-the-new-age-of-conspiracies/",
             "description": "Everything is a conspiracy theory now. MIT Technology Review’s series, “The New Conspiracy Age,” explores how this moment is changing science and tech...",
             "pubDate": "2025-11-20T18:03:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -124,11 +131,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -136,13 +143,6 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
