@@ -2,8 +2,64 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-21T16:10:39.095232",
+    "lastBuildDate": "2025-11-22T23:07:40.708533",
     "items": [
+        {
+            "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
+            "link": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+            "description": "Large language models (LLMs) have astounded the world with their capabilities, yet they remain plagued by unpredictability and hallucinations – confid...",
+            "pubDate": "2025-11-23T00:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5oGpH06YuPc5Tx7StjhEDT/acc27ce389aae3c647a2df8f5b3d576b/Lean_4.png?w=300&q=30"
+        },
+        {
+            "title": "Forterra brings in $238M to scale AI platforms for defense applications",
+            "link": "https://www.therobotreport.com/forterra-raises-238m-scale-ai-platforms-defense-applications/",
+            "description": "Forterra said this latest funding round follows a year of deployments with the U.S. military, partnerships, and the acquisition of goTenna. The post F...",
+            "pubDate": "2025-11-22T15:14:05",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/forterra-featured.jpg"
+        },
+        {
+            "title": "Kristian Kassow: A pioneer in the cobot industry speaks",
+            "link": "https://www.therobotreport.com/kristian-kassow-pioneer-cobot-industry-speaks/",
+            "description": "Kristian Kassow, co-founder of Universal Robots and managing director of Kassow Robots, discusses cobot innovations in the podcast. The post Kristian ...",
+            "pubDate": "2025-11-22T13:30:56",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Kristian-Kassow-headshot-sm.jpg"
+        },
+        {
+            "title": "Teleop, not autonomy, is the path for 1X’s NEO humanoid",
+            "link": "https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/",
+            "description": "1X has demonstrated progress with its NEO humanoid, but teleoperation could be a better path toward household robots. The post Teleop, not autonomy, i...",
+            "pubDate": "2025-11-21T20:21:18",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/1x-neo-folding-laundry.jpg"
+        },
+        {
+            "title": "Google’s ‘Nested Learning’ paradigm could solve AI's memory and continual learning problem",
+            "link": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual",
+            "description": "Researchers at Google have developed a new AI paradigm aimed at solving one of the biggest limitations in today’s large language models: their inabili...",
+            "pubDate": "2025-11-21T00:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1E440DR8ZmFwFkxtdS1936/b0e251f749baeb17aa63bde47720b5bd/nested_learning.jpg?w=300&q=30"
+        },
+        {
+            "title": "OpenAI is ending API access to fan-favorite GPT-4o model in February 2026",
+            "link": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+            "description": "OpenAI has sent out emails notifying API customers that its chatgpt-4o-latest model will be retired from the developer platform in mid-February 2026,....",
+            "pubDate": "2025-11-21T23:01:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4K2qYsFflmX9z3ZntUhMDI/e54ae53376bec2ab2f1e0fe1c56f8c8d/MIkhhMSDmHbAJOqcbPZ_5__1_.png?w=300&q=30"
+        },
+        {
+            "title": "Salesforce Agentforce Observability lets you watch your AI agents think in near-real time",
+            "link": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in",
+            "description": "Salesforce launched a suite of monitoring tools on Thursday designed to solve what has become one of the thorniest problems in corporate artificial in...",
+            "pubDate": "2025-11-21T10:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4n1IBZWOdzbulK2Kp5Zo21/783b9b37ea3fc048007c06dba8e86dd9/nuneybits_Vector_art_of_transparent_AI_brain_3f8963a0-7bf6-49f1-9245-07daa216d786.webp?w=300&q=30"
+        },
+        {
+            "title": "Armstrong Robotics wants to create general purpose kitchen robots, starting with dishwashing",
+            "link": "https://www.therobotreport.com/armstrong-robotics-creating-general-purpose-kitchen-robots-starting-dishwashing/",
+            "description": "Armstrong Robotics has already deployed autonomous dishwashing robots at restaurants for a year and a half. The post Armstrong Robotics wants to creat...",
+            "pubDate": "2025-11-21T15:27:50",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/armstrong-featured.jpg"
+        },
         {
             "title": "Waymo is starting robotaxi testing in three more cities",
             "link": "https://www.therobotreport.com/waymo-starts-robotaxi-testing-three-more-cities/",
@@ -19,81 +75,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_d40b26.png"
         },
         {
-            "title": "Armstrong Robotics wants to create general purpose kitchen robots, starting with dishwashing",
-            "link": "https://www.therobotreport.com/armstrong-robotics-creating-general-purpose-kitchen-robots-starting-dishwashing/",
-            "description": "Armstrong Robotics has already deployed autonomous dishwashing robots at restaurants for a year and a half. The post Armstrong Robotics wants to creat...",
-            "pubDate": "2025-11-21T15:27:50",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/armstrong-featured.jpg"
-        },
-        {
-            "title": "Teleop, not autonomy, is the path for 1X’s NEO humanoid",
-            "link": "https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/",
-            "description": "1X has demonstrated progress with its NEO humanoid, but teleoperation could be a better path toward household robots. The post Teleop, not autonomy, i...",
-            "pubDate": "2025-11-21T20:21:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/1x-neo-folding-laundry.jpg"
-        },
-        {
             "title": "We’re learning more about what vitamin D does to our bodies",
             "link": "https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/",
             "description": "It has started to get really wintry here in London over the last few days. The mornings are frosty, the wind is biting, and it’s already dark by the t...",
             "pubDate": "2025-11-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Tome's founders ditch viral presentation app with 20M users to build AI-native CRM Lightfield",
-            "link": "https://venturebeat.com/ai/tomes-founders-ditch-viral-presentation-app-with-20m-users-to-build-ai",
-            "description": "Lightfield , a customer relationship management platform built entirely around artificial intelligence, officially launched to the public this week af...",
-            "pubDate": "2025-11-20T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5wMf212jO3vjdscRIkO2es/630cda00926624b743d0a1389678334c/nuneybits_Vector_art_of_a_lightfield_75a9847f-77d0-4131-b6db-bdcc95241781.webp?w=300&q=30"
-        },
-        {
-            "title": "Foxconn, Intrinsic building flexible robots for U.S. factories",
-            "link": "https://www.therobotreport.com/foxconn-intrinsic-building-flexible-robots-for-us-factories/",
-            "description": "Foxconn and Intrinsic will develop and test robotics solutions for use across a wide variety of common manufacturing tasks. The post Foxconn, Intrinsi...",
-            "pubDate": "2025-11-20T23:00:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/AndrewWeeksPhotography_0041.jpg"
-        },
-        {
-            "title": "The Download: what’s next for electricity, and living in the conspiracy age",
-            "link": "https://www.technologyreview.com/2025/11/20/1128183/the-download-whats-next-for-electricity-and-living-in-the-conspiracy-age/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things...",
-            "pubDate": "2025-11-20T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f384.png"
-        },
-        {
-            "title": "Bedrock Robotics announces autonomous excavation milestone",
-            "link": "https://www.therobotreport.com/bedrock-robotics-announces-autonomous-excavation-milestone/",
-            "description": "Bedrock Robotics automates large excavators for construction earthmoving, freeing skilled human operators for complex tasks. The post Bedrock Robotics...",
-            "pubDate": "2025-11-20T20:26:01",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Bedrock-featured.jpg"
-        },
-        {
-            "title": "Google's upgraded Nano Banana Pro AI image model hailed as 'absolutely bonkers' for enterprises and users",
-            "link": "https://venturebeat.com/ai/googles-upgraded-nano-banana-pro-ai-image-model-hailed-as-absolutely-bonkers",
-            "description": "Infographics rendered without a single spelling error. Complex diagrams one-shotted from paragraph prompts. Logos restored from fragments. And visual ...",
-            "pubDate": "2025-11-20T20:20:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3n775ntXVEiWy98cWEiYI3/6a8bc67c8995e9e62c074ba25cb4e1d5/6xy436RFzdEv9BoCsVxxK.png?w=300&q=30"
-        },
-        {
-            "title": "Ai2’s Olmo 3 family challenges Qwen and Llama with efficient, open reasoning and customization",
-            "link": "https://venturebeat.com/ai/ai2s-olmo-3-family-challenges-qwen-and-llama-with-efficient-open-reasoning",
-            "description": "The Allen Institute for AI (Ai2) hopes to take advantage of an increased demand for customized models and enterprises seeking more transparency from A...",
-            "pubDate": "2025-11-20T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2kgtg0ELzGGfEZIeYgcD2H/dfe8040f9c6f5ea3d10feaefff392c59/crimedy7_illustration_of_a_robot_with_a_clear_body_and_you_ca_9b829902-bd72-4f00-a3dd-103ede8df2ae_0.png?w=300&q=30"
-        },
-        {
-            "title": "ScaleOps' new AI Infra Product slashes GPU costs for self-hosted enterprise LLMs by 50% for early adopters",
-            "link": "https://venturebeat.com/ai/scaleops-new-ai-infra-product-slashes-gpu-costs-for-self-hosted-enterprise",
-            "description": "ScaleOps has expanded its cloud resource management platform with a new product aimed at enterprises operating self-hosted large language models (LLMs...",
-            "pubDate": "2025-11-20T17:35:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3bOnH3W9t1HN5Ha6WoxYDq/00f40013d88e7f450f365f14c433c6d1/e6e653a5878841beaf1a3cb76e2bce67.png?w=300&q=30"
-        },
-        {
-            "title": "Designing digital resilience in the agentic AI era",
-            "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
-            "description": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With th...",
-            "pubDate": "2025-11-20T14:30:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/iStock-1372094301.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing",
@@ -103,11 +89,25 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gvCwU9e5pN9kHaUlTUA8U/a0d9ebd8bc2ef065c0633839940933fb/zjmq0ycPfSjfv1AUt3Vla.png?w=300&q=30"
         },
         {
+            "title": "Designing digital resilience in the agentic AI era",
+            "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
+            "description": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With th...",
+            "pubDate": "2025-11-20T14:30:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/iStock-1372094301.jpg"
+        },
+        {
+            "title": "The Download: what’s next for electricity, and living in the conspiracy age",
+            "link": "https://www.technologyreview.com/2025/11/20/1128183/the-download-whats-next-for-electricity-and-living-in-the-conspiracy-age/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things...",
+            "pubDate": "2025-11-20T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f384.png"
+        },
+        {
             "title": "Roundtables: Surviving the New Age of Conspiracies",
             "link": "https://www.technologyreview.com/2025/11/20/1127749/roundtables-surviving-the-new-age-of-conspiracies/",
             "description": "Everything is a conspiracy theory now. MIT Technology Review’s series, “The New Conspiracy Age,” explores how this moment is changing science and tech...",
             "pubDate": "2025-11-20T18:03:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -117,18 +117,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
