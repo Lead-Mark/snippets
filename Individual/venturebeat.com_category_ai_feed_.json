@@ -2,8 +2,29 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-24T11:08:52.398112",
+    "lastBuildDate": "2025-11-24T16:35:06.234322",
     "items": [
+        {
+            "title": "Anthropic’s Claude Opus 4.5 is here: Cheaper AI, infinite chats, and coding skills that beat humans",
+            "link": "https://venturebeat.com/ai/anthropics-claude-opus-4-5-is-here-cheaper-ai-infinite-chats-and-coding",
+            "description": "Anthropic released its most capable artificial intelligence model yet on Monday, slashing prices by roughly two-thirds while claiming state-of-the-art...",
+            "pubDate": "2025-11-24T21:35:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5vkUnAXbEuLYlu69OvCLLj/b86bfbe8c5e726da1c5f41886d30097a/nuneybits_Vector_art_of_a_computer_image_in_burnt_orange_1655df10-3e1f-4619-bb97-ffc10b141b64.webp?w=300&q=30"
+        },
+        {
+            "title": "How to avoid becoming an “AI-first” company with zero real AI usage",
+            "link": "https://venturebeat.com/ai/how-to-avoid-becoming-an-ai-first-company-with-zero-real-ai-usage",
+            "description": "Remember the first time you heard your company was going AI-first ? Maybe it came through an all-hands that felt different from the others. The CEO sa...",
+            "pubDate": "2025-11-24T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5pK7nWLbFVRgLkc1gAENy4/4347da15bb2f14f54d47301f1d4aa030/AI_mandate.png?w=300&q=30"
+        },
+        {
+            "title": "Microsoft’s Fara-7B is a computer-use AI agent that rivals GPT-4o and works directly on your PC",
+            "link": "https://venturebeat.com/ai/microsofts-fara-7b-is-a-computer-use-ai-agent-that-rivals-gpt-4o-and-works",
+            "description": "Microsoft has introduced Fara-7B, a new 7-billion parameter model designed to act as a Computer Use Agent (CUA) capable of performing complex tasks di...",
+            "pubDate": "2025-11-24T00:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/122LcFHUQVpTuBOJdCZqIv/309362c2e201c8ffe7da63e6ead8a39c/CUA_computer_use_agent.jpg?w=300&q=30"
+        },
         {
             "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
             "link": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
@@ -17,27 +38,6 @@
             "description": "OpenAI has sent out emails notifying API customers that its chatgpt-4o-latest model will be retired from the developer platform in mid-February 2026,....",
             "pubDate": "2025-11-21T23:01:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4K2qYsFflmX9z3ZntUhMDI/e54ae53376bec2ab2f1e0fe1c56f8c8d/MIkhhMSDmHbAJOqcbPZ_5__1_.png?w=300&q=30"
-        },
-        {
-            "title": "Salesforce Agentforce Observability lets you watch your AI agents think in near-real time",
-            "link": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in",
-            "description": "Salesforce launched a suite of monitoring tools on Thursday designed to solve what has become one of the thorniest problems in corporate artificial in...",
-            "pubDate": "2025-11-21T10:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4n1IBZWOdzbulK2Kp5Zo21/783b9b37ea3fc048007c06dba8e86dd9/nuneybits_Vector_art_of_transparent_AI_brain_3f8963a0-7bf6-49f1-9245-07daa216d786.webp?w=300&q=30"
-        },
-        {
-            "title": "Google’s ‘Nested Learning’ paradigm could solve AI's memory and continual learning problem",
-            "link": "https://venturebeat.com/ai/googles-nested-learning-paradigm-could-solve-ais-memory-and-continual",
-            "description": "Researchers at Google have developed a new AI paradigm aimed at solving one of the biggest limitations in today’s large language models: their inabili...",
-            "pubDate": "2025-11-21T00:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1E440DR8ZmFwFkxtdS1936/b0e251f749baeb17aa63bde47720b5bd/nested_learning.jpg?w=300&q=30"
-        },
-        {
-            "title": "Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing",
-            "link": "https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by",
-            "description": "Elon Musk's frontier generative AI startup xAI formally opened developer access to its Grok 4.1 Fast models last night and introduced a new Agent Tool...",
-            "pubDate": "2025-11-20T23:57:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gvCwU9e5pN9kHaUlTUA8U/a0d9ebd8bc2ef065c0633839940933fb/zjmq0ycPfSjfv1AUt3Vla.png?w=300&q=30"
         }
     ]
 }
