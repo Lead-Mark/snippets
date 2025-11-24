@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-24T08:01:31.596468",
+    "lastBuildDate": "2025-11-24T11:08:52.396959",
     "items": [
+        {
+            "title": "The Download: how to fix a tractor, and living among conspiracy theorists",
+            "link": "https://www.technologyreview.com/2025/11/24/1128306/the-download-how-to-fix-a-tractor-and-living-among-conspiracy-theorists/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the man...",
+            "pubDate": "2025-11-24T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1fae7.png"
+        },
         {
             "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
             "link": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
@@ -19,13 +26,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/adaptive-robotics.jpg"
         },
         {
-            "title": "Forterra brings in $238M to scale AI platforms for defense applications",
-            "link": "https://www.therobotreport.com/forterra-raises-238m-scale-ai-platforms-defense-applications/",
-            "description": "Forterra said this latest funding round follows a year of deployments with the U.S. military, partnerships, and the acquisition of goTenna. The post F...",
-            "pubDate": "2025-11-22T15:14:05",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/forterra-featured.jpg"
-        },
-        {
             "title": "Kristian Kassow: A pioneer in the cobot industry speaks",
             "link": "https://www.therobotreport.com/kristian-kassow-pioneer-cobot-industry-speaks/",
             "description": "Kristian Kassow, co-founder of Universal Robots and managing director of Kassow Robots, discusses cobot innovations in the podcast. The post Kristian ...",
@@ -33,18 +33,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Kristian-Kassow-headshot-sm.jpg"
         },
         {
-            "title": "OpenAI is ending API access to fan-favorite GPT-4o model in February 2026",
-            "link": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
-            "description": "OpenAI has sent out emails notifying API customers that its chatgpt-4o-latest model will be retired from the developer platform in mid-February 2026,....",
-            "pubDate": "2025-11-21T23:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4K2qYsFflmX9z3ZntUhMDI/e54ae53376bec2ab2f1e0fe1c56f8c8d/MIkhhMSDmHbAJOqcbPZ_5__1_.png?w=300&q=30"
-        },
-        {
-            "title": "Salesforce Agentforce Observability lets you watch your AI agents think in near-real time",
-            "link": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in",
-            "description": "Salesforce launched a suite of monitoring tools on Thursday designed to solve what has become one of the thorniest problems in corporate artificial in...",
-            "pubDate": "2025-11-21T10:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4n1IBZWOdzbulK2Kp5Zo21/783b9b37ea3fc048007c06dba8e86dd9/nuneybits_Vector_art_of_transparent_AI_brain_3f8963a0-7bf6-49f1-9245-07daa216d786.webp?w=300&q=30"
+            "title": "Forterra brings in $238M to scale AI platforms for defense applications",
+            "link": "https://www.therobotreport.com/forterra-raises-238m-scale-ai-platforms-defense-applications/",
+            "description": "Forterra said this latest funding round follows a year of deployments with the U.S. military, partnerships, and the acquisition of goTenna. The post F...",
+            "pubDate": "2025-11-22T15:14:05",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/forterra-featured.jpg"
         },
         {
             "title": "Google’s ‘Nested Learning’ paradigm could solve AI's memory and continual learning problem",
@@ -61,13 +54,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/waymo-featured-1.jpg"
         },
         {
-            "title": "Teleop, not autonomy, is the path for 1X’s NEO humanoid",
-            "link": "https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/",
-            "description": "1X has demonstrated progress with its NEO humanoid, but teleoperation could be a better path toward household robots. The post Teleop, not autonomy, i...",
-            "pubDate": "2025-11-21T20:21:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/1x-neo-folding-laundry.jpg"
-        },
-        {
             "title": "The Download: the secrets of vitamin D, and an AI party in Africa",
             "link": "https://www.technologyreview.com/2025/11/21/1128232/the-download-the-secrets-of-vitamin-d-and-an-ai-party-in-africa/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re learni...",
@@ -75,11 +61,32 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_d40b26.png"
         },
         {
+            "title": "Salesforce Agentforce Observability lets you watch your AI agents think in near-real time",
+            "link": "https://venturebeat.com/ai/salesforce-agentforce-observability-lets-you-watch-your-ai-agents-think-in",
+            "description": "Salesforce launched a suite of monitoring tools on Thursday designed to solve what has become one of the thorniest problems in corporate artificial in...",
+            "pubDate": "2025-11-21T10:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4n1IBZWOdzbulK2Kp5Zo21/783b9b37ea3fc048007c06dba8e86dd9/nuneybits_Vector_art_of_transparent_AI_brain_3f8963a0-7bf6-49f1-9245-07daa216d786.webp?w=300&q=30"
+        },
+        {
+            "title": "Teleop, not autonomy, is the path for 1X’s NEO humanoid",
+            "link": "https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/",
+            "description": "1X has demonstrated progress with its NEO humanoid, but teleoperation could be a better path toward household robots. The post Teleop, not autonomy, i...",
+            "pubDate": "2025-11-21T20:21:18",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/1x-neo-folding-laundry.jpg"
+        },
+        {
+            "title": "OpenAI is ending API access to fan-favorite GPT-4o model in February 2026",
+            "link": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+            "description": "OpenAI has sent out emails notifying API customers that its chatgpt-4o-latest model will be retired from the developer platform in mid-February 2026,....",
+            "pubDate": "2025-11-21T23:01:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4K2qYsFflmX9z3ZntUhMDI/e54ae53376bec2ab2f1e0fe1c56f8c8d/MIkhhMSDmHbAJOqcbPZ_5__1_.png?w=300&q=30"
+        },
+        {
             "title": "We’re learning more about what vitamin D does to our bodies",
             "link": "https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/",
             "description": "It has started to get really wintry here in London over the last few days. The mornings are frosty, the wind is biting, and it’s already dark by the t...",
             "pubDate": "2025-11-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Designing digital resilience in the agentic AI era",
@@ -87,13 +94,6 @@
             "description": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With th...",
             "pubDate": "2025-11-20T14:30:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/iStock-1372094301.jpg"
-        },
-        {
-            "title": "The Download: what’s next for electricity, and living in the conspiracy age",
-            "link": "https://www.technologyreview.com/2025/11/20/1128183/the-download-whats-next-for-electricity-and-living-in-the-conspiracy-age/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things...",
-            "pubDate": "2025-11-20T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f384.png"
         },
         {
             "title": "Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing",
@@ -107,7 +107,14 @@
             "link": "https://www.technologyreview.com/2025/11/20/1127749/roundtables-surviving-the-new-age-of-conspiracies/",
             "description": "Everything is a conspiracy theory now. MIT Technology Review’s series, “The New Conspiracy Age,” explores how this moment is changing science and tech...",
             "pubDate": "2025-11-20T18:03:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -122,13 +129,6 @@
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
