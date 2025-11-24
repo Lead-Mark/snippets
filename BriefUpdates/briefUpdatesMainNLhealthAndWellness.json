@@ -2,28 +2,42 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-23T15:34:05.658333",
+    "lastBuildDate": "2025-11-23T21:23:06.526649",
     "items": [
+        {
+            "title": "New research confirms HPV vaccination prevents cervical cancer",
+            "link": "https://medicalxpress.com/news/2025-11-hpv-vaccination-cervical-cancer.html",
+            "description": "Two new reviews show strong and consistent evidence that HPV vaccines are effective in preventing cervical cancer and pre-cancerous changes, especiall...",
+            "pubDate": "2025-11-24T01:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
         {
             "title": "11 Foods That Can Support Smoother, More Radiant Skin",
             "link": "https://www.webmd.com/beauty/ss/slideshow-skin-foods",
             "description": "",
-            "pubDate": "2025-11-23T15:32:35",
+            "pubDate": "2025-11-23T21:18:49",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/digestive_health/1800x1200-kiwi-fruit.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "5 Reasons You Need Magnesium",
             "link": "https://www.webmd.com/diet/ss/slideshow-diet-magnesium",
             "description": "Magnesium supports everything from muscle function to energy levels. Learn five key benefits plus foods that can help boost your intake.",
-            "pubDate": "2025-11-23T15:32:35",
+            "pubDate": "2025-11-23T21:18:49",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/young-woman-resting-after-morning-run-other/1800x1200-young-woman-resting-after-morning-run-other.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "What Can Cause Tingling in Your Hands and Feet",
             "link": "https://www.webmd.com/brain/tingling-in-hands-and-feet",
             "description": "",
-            "pubDate": "2025-11-23T15:32:35",
+            "pubDate": "2025-11-23T21:18:49",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/metastatic-breast-cancer-treatment-side-effects-slideshow/1800ss-getty-rf-mature-woman-rubbing-her-tingling-hand.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Most people are happy to do their own hearing tests at home. Could it relieve pressure on the NHS?",
+            "link": "https://medicalxpress.com/news/2025-11-people-happy-home-relieve-pressure.html",
+            "description": "If the NHS recommended it, would people test their own hearing at home and use self-fitting hearing aids?",
+            "pubDate": "2025-11-23T19:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Why bad math (not ideology) is killing DPC clinics [PODCAST]",
@@ -33,45 +47,17 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "What's the difference between a home birth and a free birth?",
-            "link": "https://medicalxpress.com/news/2025-11-difference-home-birth-free.html",
-            "description": "If you're looking on social media for information and experiences of giving birth at home, you'll find widely varied content.",
-            "pubDate": "2025-11-23T16:50:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Most people are happy to do their own hearing tests at home. Could it relieve pressure on the NHS?",
-            "link": "https://medicalxpress.com/news/2025-11-people-happy-home-relieve-pressure.html",
-            "description": "If the NHS recommended it, would people test their own hearing at home and use self-fitting hearing aids?",
-            "pubDate": "2025-11-23T19:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "AI-driven system automates fax filing and digital consent, saving 8,500 staff hours",
-            "link": "https://medicalxpress.com/news/2025-11-ai-driven-automates-digital-consent.html",
-            "description": "An emerging artificial intelligence-powered system developed at Penn Medicine has tripled the speed of fax processing and cut a full week off the new ...",
-            "pubDate": "2025-11-23T19:33:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Epigenetic changes regulate gene expression, but what regulates epigenetics?",
-            "link": "https://medicalxpress.com/news/2025-11-epigenetic-gene-epigenetics.html",
-            "description": "All the cells in an organism have the exact same genetic sequence. What differs across cell types is their epigenetics—meticulously placed chemical ta...",
-            "pubDate": "2025-11-23T19:31:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Off-label use of COVID-19 vaccines was once discouraged but has become common amid new guidelines",
+            "link": "https://medicalxpress.com/news/2025-11-covid-vaccines-discouraged-common-guidelines.html",
+            "description": "Following the federal government's changes to COVID-19 vaccine eligibility and recommendations in 2025, many people are wondering whether they can get...",
+            "pubDate": "2025-11-23T23:40:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Why I became a pediatrician: a doctor’s story",
             "link": "https://kevinmd.com/2025/11/why-i-became-a-pediatrician-a-doctors-story.html",
             "description": "One of the first questions you’re asked when applying to medical school is: Why do you want to be a doctor? For most, the answer is some version of “I...",
             "pubDate": "2025-11-23T16:00:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Daily oral GLP-1 pill a promising alternative to injectables for weight loss, clinical trial finds",
-            "link": "https://medicalxpress.com/news/2025-11-daily-oral-glp-pill-alternative.html",
-            "description": "A new oral GLP-1 medication can help adults with obesity and type 2 diabetes lose more weight and improve their blood sugar levels compared to a place...",
-            "pubDate": "2025-11-23T15:30:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
@@ -79,7 +65,21 @@
             "link": "https://kevinmd.com/2025/11/why-toys-matter-in-the-exam-room.html",
             "description": "Children often surprise us with the seriousness they bring to a clinic visit. Every so often, when the room feels tense, I turn to a simple question a...",
             "pubDate": "2025-11-23T14:00:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Epigenetic changes regulate gene expression, but what regulates epigenetics?",
+            "link": "https://medicalxpress.com/news/2025-11-epigenetic-gene-epigenetics.html",
+            "description": "All the cells in an organism have the exact same genetic sequence. What differs across cell types is their epigenetics—meticulously placed chemical ta...",
+            "pubDate": "2025-11-23T19:31:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "AI-driven system automates fax filing and digital consent, saving 8,500 staff hours",
+            "link": "https://medicalxpress.com/news/2025-11-ai-driven-automates-digital-consent.html",
+            "description": "An emerging artificial intelligence-powered system developed at Penn Medicine has tripled the speed of fax processing and cut a full week off the new ...",
+            "pubDate": "2025-11-23T19:33:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Vernakalant versus procainamide for rapid cardioversion of patients with acute atrial fibrillation (RAFF4): randomised clinical trial",
@@ -93,14 +93,14 @@
             "link": "https://kevinmd.com/2025/11/glioblastoma-immunotherapy-trial-a-new-breakthrough.html",
             "description": "All clinical trials are fueled, in part, by optimism. A trial currently underway in California is fueled by the optimism of one patient in particular,...",
             "pubDate": "2025-11-22T22:00:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Did the CDC just dismantle vaccine safety clarity?",
             "link": "https://kevinmd.com/2025/11/did-the-cdc-just-dismantle-vaccine-safety-clarity.html",
             "description": "“Vaccines do not cause autism.” That statement once anchored public health. The CDC just dismantled it, quietly, strategically, and dangerously. Presu...",
             "pubDate": "2025-11-22T20:00:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Vitamin B supplementation enhances the efficacy of non-steroidal anti-inflammatory drugs in patients with painful foot and ankle conditions: A multicenter, prospective, randomized controlled trial",
@@ -110,39 +110,39 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/02/pills2_PD_edited-300x150.jpg"
         },
         {
-            "title": "In Conversation With AAFP President Sarah Nosal, MD, FAAFP",
-            "link": "https://www.medscape.com/viewarticle/combatting-misinformation-promoting-trust-conversation-aafp-2025a1000win?src=rss",
-            "description": "Medscape Medical News spoke recently with the new AAFP president about the challenges facing family medicine specialists and her goals for her term le...",
-            "pubDate": "2025-11-21T15:35:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
             "title": "NICE Endorses Vutrisiran for ATTR-CM Treatment",
             "link": "https://www.medscape.com/viewarticle/nice-endorses-vutrisiran-attr-cm-treatment-2025a1000wi7?src=rss",
             "description": "NICE has recommended vutrisiran for routine NHS use in adults with transthyretin amyloidosis with cardiomyopathy, offering a new disease-modifying opt...",
             "pubDate": "2025-11-21T13:49:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "UK at Risk of Driving Out International Doctors, GMC Warns",
             "link": "https://www.medscape.com/viewarticle/uk-risk-driving-out-international-doctors-gmc-warns-2025a1000wjb?src=rss",
             "description": "A sharp increase in IMGs leaving the UK has prompted warnings that harsher rhetoric and stalled opportunities may drive talent elsewhere. Medscape New...",
             "pubDate": "2025-11-21T18:12:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "More NPs Transitioning Into Dermatology Practices",
-            "link": "https://www.medscape.com/viewarticle/more-nps-transitioning-dermatology-practices-2025a1000whp?src=rss",
-            "description": "More training and fellowships are leading nurse practitioners toward dermatology, where demand remands. Medscape Medical News",
-            "pubDate": "2025-11-21T12:57:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Office-Based Endoscopy Offers Way Forward for Outpatient GI",
             "link": "https://www.medscape.com/viewarticle/office-based-endoscopy-model-offers-way-forward-outpatient-2025a1000whl?src=rss",
             "description": "Office-based models are becoming more economically viable, along with the benefits of greater autonomy and time optimization, GI experts write. Medsca...",
             "pubDate": "2025-11-21T12:44:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "More NPs Transitioning Into Dermatology Practices",
+            "link": "https://www.medscape.com/viewarticle/more-nps-transitioning-dermatology-practices-2025a1000whp?src=rss",
+            "description": "More training and fellowships are leading nurse practitioners toward dermatology, where demand remands. Medscape Medical News",
+            "pubDate": "2025-11-21T12:57:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "In Conversation With AAFP President Sarah Nosal, MD, FAAFP",
+            "link": "https://www.medscape.com/viewarticle/combatting-misinformation-promoting-trust-conversation-aafp-2025a1000win?src=rss",
+            "description": "Medscape Medical News spoke recently with the new AAFP president about the challenges facing family medicine specialists and her goals for her term le...",
+            "pubDate": "2025-11-21T15:35:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Resistance Exercise Therapy After COVID-19 Infection: A Randomized Clinical Trial",
