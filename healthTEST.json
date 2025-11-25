@@ -2,14 +2,28 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-25T11:10:56.796248",
+    "lastBuildDate": "2025-11-25T16:07:51.235857",
     "items": [
+        {
+            "title": "Just one week off social media can improve young adults' mental health, study finds",
+            "link": "https://www.npr.org/2025/11/25/nx-s1-5616412/just-one-week-off-social-media-can-improve-young-adults-mental-health-study-finds",
+            "description": "A new study shows that cutting social media use for just one week can reduce mental health symptoms, like anxiety and depression, in young adults.",
+            "pubDate": "2025-11-25T09:43:33",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5616412"
+        },
         {
             "title": "5 things to know about the new obesity pills that are on the way",
             "link": "https://www.npr.org/2025/11/25/nx-s1-5619816/obesity-pills-wegovy-semaglutide-orforglipron",
             "description": "Instead of struggling with weekly injections, patients may soon be able to swallow a daily pill to lose weight. Both the makers of Wegovy and Mounjaro...",
             "pubDate": "2025-11-25T12:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2397x1251+0+0/resize/2397x1251!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fad%2Fc4ae57344520b6531f0f00e64da9%2Fgettyimages-1134069131.jpg"
+        },
+        {
+            "title": "Prehospital Postintubation Hypotension and Survival in Severe Traumatic Brain Injury",
+            "link": "https://www.2minutemedicine.com/prehospital-postintubation-hypotension-and-survival-in-severe-traumatic-brain-injury/",
+            "description": "1. Prehospital postintubation hypotension after traumatic brain injury (TBI) is common and associated with a significantly increased incidence of mort...",
+            "pubDate": "2025-11-25T16:00:11",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/MRI_T2_Brain_axial_image-300x150.jpg"
         },
         {
             "title": "New limits on school loans could narrow physician and nurse pipeline, educators warn",
@@ -19,109 +33,81 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x684+0+0/resize/1024x684!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F2d%2Fe54a32a4412b82cad485f2ccac3d%2Fgettyimages-2058873696.jpg"
         },
         {
-            "title": "Just one week off social media can improve young adults' mental health, study finds",
-            "link": "https://www.npr.org/2025/11/25/nx-s1-5616412/just-one-week-off-social-media-can-improve-young-adults-mental-health-study-finds",
-            "description": "A new study shows that cutting social media use for just one week can reduce mental health symptoms, like anxiety and depression, in young adults.",
-            "pubDate": "2025-11-25T09:43:33",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5616412"
+            "title": "Opportunistic CT Screening Can Identify Osteoporosis",
+            "link": "https://www.medscape.com/viewarticle/opportunistic-ct-screening-can-identify-osteoporosis-2025a1000wzj?src=rss",
+            "description": "New technology may support opportunistic screening to identify low bone density. Medscape Medical News",
+            "pubDate": "2025-11-25T17:59:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Cracking gastric cancer's metabolic code: Blocking cholesterol pathways slows tumor growth by 65% in mice",
-            "link": "https://medicalxpress.com/news/2025-11-gastric-cancer-metabolic-code-blocking.html",
-            "description": "A research team from the LKS Faculty of Medicine at the University of Hong Kong (HKUMed) has made a breakthrough in gastric cancer research, revealing...",
-            "pubDate": "2025-11-25T15:26:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Research challenges idea that gene PTPN22 boosts production of interferons",
+            "link": "https://medicalxpress.com/news/2025-11-idea-gene-ptpn22-boosts-production.html",
+            "description": "A new paper from the University of Kansas overturns the idea that a \"risk gene\" carried by millions of people worldwide influences production of type ...",
+            "pubDate": "2025-11-25T20:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Veterans with cardiometabolic conditions face significant risk of dying during extreme heat events, study finds",
-            "link": "https://medicalxpress.com/news/2025-11-veterans-cardiometabolic-conditions-significant-dying.html",
-            "description": "Veterans living in California who have cardiometabolic conditions such as diabetes and high blood pressure experience significantly higher risk of dyi...",
-            "pubDate": "2025-11-25T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Do Statins Raise Vascular Hospitalization Risk in Dementia?",
+            "link": "https://www.medscape.com/viewarticle/do-statins-really-raise-vascular-hospitalization-risk-2025a1000wzq?src=rss",
+            "description": "New data raise the question of whether statins increase cardiovascular or cerebrovascular hospitalizations in dementia, but small event counts and stu...",
+            "pubDate": "2025-11-25T19:13:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Too sick to socialize: How the brain and immune system promote staying in bed",
-            "link": "https://medicalxpress.com/news/2025-11-sick-socialize-brain-immune-staying.html",
-            "description": "\"I just can't make it tonight. You have fun without me.\" Across much of the animal kingdom, when infection strikes, social contact shuts down. A new s...",
-            "pubDate": "2025-11-25T16:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Expanded Lung Cancer Screening Could Avert Many More Deaths",
-            "link": "https://www.medscape.com/viewarticle/expanded-lung-cancer-screening-could-avert-many-more-deaths-2025a1000wxo?src=rss",
-            "description": "Two modeling studies suggest that making more people eligible for lung cancer screening would prevent tens of thousands of deaths in the US each year ...",
-            "pubDate": "2025-11-25T12:48:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Prefrontal cortex reaches back into the brain to shape how other regions function, study reveals",
-            "link": "https://medicalxpress.com/news/2025-11-prefrontal-cortex-brain-regions-function.html",
-            "description": "Vision shapes behavior, and a new study by MIT neuroscientists finds behavior and internal states shape vision. The research, published in Neuron, fin...",
-            "pubDate": "2025-11-25T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Eosinophilic Esophagitis Demands Whole-Patient Care",
-            "link": "https://www.medscape.com/viewarticle/eosinophilic-esophagitis-demands-whole-patient-care-2025a1000wxc?src=rss",
-            "description": "EoE is increasingly diagnosed in Europe, yet for many patients, the biggest hurdle lies beyond treating the inflammation. Medscape News Europe",
-            "pubDate": "2025-11-25T12:35:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Pirfenidone Improves Lung Function After Radiation Injury",
-            "link": "https://www.medscape.com/viewarticle/pirfenidone-improves-lung-function-after-radiation-injury-2025a1000wwl?src=rss",
-            "description": "Pirfenidone, an oral antifibrotic, improves lung function and reduces acute pulmonary exacerbations in patients with grades 2-3 radiation induced lung...",
-            "pubDate": "2025-11-25T12:46:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "More people are addicted to marijuana, but fewer of them are seeking help, experts say",
-            "link": "https://medicalxpress.com/news/2025-11-people-addicted-marijuana-experts.html",
-            "description": "Megan Feller smoked pot several times a day and couldn't eat, sleep or function without it. But at the time, she didn't see the need to reach out for ...",
-            "pubDate": "2025-11-25T16:10:03",
+            "title": "FDA OKs SMA Gene Therapy Itvisma",
+            "link": "https://www.medscape.com/viewarticle/fda-oks-new-formulation-sma-gene-therapy-itvisma-2025a1000wyv?src=rss",
+            "description": "Itvisma contains the active ingredient in Zolgensma approved in 2019 for children younger than 2 years but is reformulated for intrathecal administrat...",
+            "pubDate": "2025-11-25T16:41:34",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "When Alcohol and COPD Collide, Lungs Suffer More",
-            "link": "https://www.medscape.com/viewarticle/when-alcohol-and-copd-collide-lungs-suffer-more-2025a1000wxf?src=rss",
-            "description": "Experts urge primary care docs to question the alcohol use of patients with COPD. Medscape Medical News",
-            "pubDate": "2025-11-25T12:32:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Transforming patient fear into understanding through clear communication [PODCAST]",
-            "link": "https://kevinmd.com/2025/11/transforming-patient-fear-into-understanding-through-clear-communication-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Counselor and certified coach Mary Remón and oncologist Tiffany Troso...",
-            "pubDate": "2025-11-25T00:00:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Gut Microbiota Show Promise in the Fight Against Gout",
             "link": "https://www.medscape.com/viewarticle/gut-microbiota-play-role-urate-metabolism-and-maybe-2025a1000wxr?src=rss",
             "description": "Human studies suggest protective associations, but clinical benefit remains elusive. Medscape Medical News",
             "pubDate": "2025-11-25T12:58:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Alternative sweetener sorbitol linked to liver disease",
+            "link": "https://medicalxpress.com/news/2025-11-alternative-sweetener-sorbitol-linked-liver.html",
+            "description": "Sweeteners such as aspartame, found in Equal packets, sucralose (Splenda), or sugar alcohols are often seen as healthier alternatives to food with ref...",
+            "pubDate": "2025-11-25T20:11:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Many men may not need long-term hormone therapy for prostate cancer, study suggests",
+            "link": "https://medicalxpress.com/news/2025-11-men-term-hormone-therapy-prostate.html",
+            "description": "A study co-led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center found that most of the benefits of androgen deprivation therapy...",
+            "pubDate": "2025-11-25T20:32:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "NICE Recommends New CAR-T Therapy for Adult ALL",
+            "link": "https://www.medscape.com/viewarticle/nice-recommends-new-car-t-therapy-adult-all-2025a1000wzf?src=rss",
+            "description": "NICE has recommended obecabtagene autoleucel for adults with relapsed or refractory B-cell ALL, offering a potentially more effective option to existi...",
+            "pubDate": "2025-11-25T17:42:53",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "The American College of Physicians’ Recommendations for Effective Managed Care",
-            "link": "https://www.2minutemedicine.com/the-american-college-of-physicians-recommendations-for-effective-managed-care/",
-            "description": "1. The American College of Physicians (ACP) recommends that managed care plans promote only high-value, evidence-based, patient-centered care by reduc...",
-            "pubDate": "2025-11-24T22:00:42",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/03/press-release-medicine-2-minute-medicine-300x150.jpg"
+            "title": "Tattoos could be a risk factor for melanoma",
+            "link": "https://medicalxpress.com/news/2025-11-tattoos-factor-melanoma.html",
+            "description": "An increasing number of Swedes are getting tattoos and Sweden's population is now one of the most tattooed in Europe. At the same time, the incidence ...",
+            "pubDate": "2025-11-25T20:50:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Identification of NSTE-ACS patients with totally occluded infarct-related artery: the role of the SAVE risk score in improved risk stratification",
-            "link": "https://www.2minutemedicine.com/identification-of-nste-acs-patients-with-totally-occluded-infarct-related-artery-the-role-of-the-save-risk-score-in-improved-risk-stratification/",
-            "description": "1. The novel SAVE risk score is effective at identifying non-ST-segment elevation acute coronary syndrome (NSTE-ACS) patients with totally occluded in...",
-            "pubDate": "2025-11-24T16:00:38",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/11/Heart_coronary_artery_lesion-300x150.jpg"
+            "title": "Transforming patient fear into understanding through clear communication [PODCAST]",
+            "link": "https://kevinmd.com/2025/11/transforming-patient-fear-into-understanding-through-clear-communication-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Counselor and certified coach Mary Remón and oncologist Tiffany Troso...",
+            "pubDate": "2025-11-25T00:00:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Neighborhood exposure to cannabis stores increases cannabis-related emergency department visits",
-            "link": "https://www.2minutemedicine.com/neighborhood-exposure-to-cannabis-stores-increases-cannabis-related-emergency-department-visits/",
-            "description": "1. In this quasi-experimental study, Ontario neighbourhoods with cannabis stores experienced relatively higher rates of cannabis-related emergency dep...",
-            "pubDate": "2025-11-24T22:00:15",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/05/cannabis_marijuana_PD_edited-300x150.jpg"
+            "title": "Bringing AI into the NICU: How algorithms may help infants' eyes, health",
+            "link": "https://medicalxpress.com/news/2025-11-ai-nicu-algorithms-infants-eyes.html",
+            "description": "When ophthalmologist Emily Cole, MD, steps into the neonatal intensive care unit (NICU) at Children's Hospital Colorado to evaluate an infant's eyes f...",
+            "pubDate": "2025-11-25T20:25:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Advance care planning interventions increase electronic health record documentation",
@@ -131,18 +117,18 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/01/Doctor_and_couple_talking_edited-e1744678764447-300x213.jpg"
         },
         {
-            "title": "Selective serotonin reuptake inhibitors do not affect cognitive function through breastmilk",
-            "link": "https://www.2minutemedicine.com/selective-serotonin-reuptake-inhibitors-do-not-affect-cognitive-function-through-breastmilk/",
-            "description": "1. In this prospective cohort study, postpartum selective serotonin reuptake inhibitors (SSRIs) use during breastfeeding was not associated with reduc...",
-            "pubDate": "2025-11-24T16:00:25",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/05/children2_PD_edited-300x150.jpg"
+            "title": "Identification of NSTE-ACS patients with totally occluded infarct-related artery: the role of the SAVE risk score in improved risk stratification",
+            "link": "https://www.2minutemedicine.com/identification-of-nste-acs-patients-with-totally-occluded-infarct-related-artery-the-role-of-the-save-risk-score-in-improved-risk-stratification/",
+            "description": "1. The novel SAVE risk score is effective at identifying non-ST-segment elevation acute coronary syndrome (NSTE-ACS) patients with totally occluded in...",
+            "pubDate": "2025-11-24T16:00:38",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/11/Heart_coronary_artery_lesion-300x150.jpg"
         },
         {
-            "title": "A bowhead whale's DNA offers clues to fight cancer",
-            "link": "https://www.npr.org/2025/11/24/nx-s1-5612550/bowhead-whale-cancer-dna-longevity",
-            "description": "Scientists searching for new ways to combat cancer think they may have uncovered a promising new lead in the DNA of the bowhead whale.",
-            "pubDate": "2025-11-24T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2134+0+0/resize/3500x2134!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fc9%2Fc944b5c449c7a5f4f5162adf11de%2Fgettyimages-632070192.jpg"
+            "title": "The American College of Physicians’ Recommendations for Effective Managed Care",
+            "link": "https://www.2minutemedicine.com/the-american-college-of-physicians-recommendations-for-effective-managed-care/",
+            "description": "1. The American College of Physicians (ACP) recommends that managed care plans promote only high-value, evidence-based, patient-centered care by reduc...",
+            "pubDate": "2025-11-24T22:00:42",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/03/press-release-medicine-2-minute-medicine-300x150.jpg"
         },
         {
             "title": "For millennials, being a caregiver for family can come with unique challenges",
@@ -152,32 +138,46 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5566734"
         },
         {
-            "title": "How immigrant physicians solved a U.S. crisis",
-            "link": "https://kevinmd.com/2025/11/how-immigrant-physicians-solved-a-u-s-crisis.html",
-            "description": "Adapted from The Care of Foreigners: How Immigrant Physicians Changed US Healthcare. Copyright 2025. Published with permission of Johns Hopkins Univer...",
-            "pubDate": "2025-11-24T20:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "A bowhead whale's DNA offers clues to fight cancer",
+            "link": "https://www.npr.org/2025/11/24/nx-s1-5612550/bowhead-whale-cancer-dna-longevity",
+            "description": "Scientists searching for new ways to combat cancer think they may have uncovered a promising new lead in the DNA of the bowhead whale.",
+            "pubDate": "2025-11-24T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2134+0+0/resize/3500x2134!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fc9%2Fc944b5c449c7a5f4f5162adf11de%2Fgettyimages-632070192.jpg"
+        },
+        {
+            "title": "Neighborhood exposure to cannabis stores increases cannabis-related emergency department visits",
+            "link": "https://www.2minutemedicine.com/neighborhood-exposure-to-cannabis-stores-increases-cannabis-related-emergency-department-visits/",
+            "description": "1. In this quasi-experimental study, Ontario neighbourhoods with cannabis stores experienced relatively higher rates of cannabis-related emergency dep...",
+            "pubDate": "2025-11-24T22:00:15",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/05/cannabis_marijuana_PD_edited-300x150.jpg"
         },
         {
             "title": "How relationships predict physician burnout risk",
             "link": "https://kevinmd.com/2025/11/how-relationships-predict-physician-burnout-risk.html",
             "description": "We entered medicine with a shared calling (to heal, to serve, and to make a difference). Yet somewhere along the journey, between the never-ending cha...",
             "pubDate": "2025-11-24T16:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Pediatric leadership silence on FDA ADHD recall",
-            "link": "https://kevinmd.com/2025/11/pediatric-leadership-silence-on-fda-adhd-recall.html",
-            "description": "“The FDA has issued a nationwide recall of lisdexamfetamine capsules.” That sentence in Newsweek magazine should have triggered alerts, guidance, and ...",
-            "pubDate": "2025-11-24T18:00:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "How immigrant physicians solved a U.S. crisis",
+            "link": "https://kevinmd.com/2025/11/how-immigrant-physicians-solved-a-u-s-crisis.html",
+            "description": "Adapted from The Care of Foreigners: How Immigrant Physicians Changed US Healthcare. Copyright 2025. Published with permission of Johns Hopkins Univer...",
+            "pubDate": "2025-11-24T20:00:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "How movement improves pelvic floor function",
             "link": "https://kevinmd.com/2025/11/how-movement-improves-pelvic-floor-function.html",
             "description": "Most people exercise to improve cardiovascular fitness, metabolic health, or mood, but regular physical activity also plays a significant role in sexu...",
             "pubDate": "2025-11-24T22:00:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Pediatric leadership silence on FDA ADHD recall",
+            "link": "https://kevinmd.com/2025/11/pediatric-leadership-silence-on-fda-adhd-recall.html",
+            "description": "“The FDA has issued a nationwide recall of lisdexamfetamine capsules.” That sentence in Newsweek magazine should have triggered alerts, guidance, and ...",
+            "pubDate": "2025-11-24T18:00:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }
