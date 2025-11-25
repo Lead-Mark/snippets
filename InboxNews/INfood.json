@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-24T16:34:57.611952",
+    "lastBuildDate": "2025-11-25T06:56:09.499821",
     "items": [
+        {
+            "title": "Thanksgiving Turkey Meatballs",
+            "link": "https://minimalistbaker.com/thanksgiving-turkey-meatballs/",
+            "description": "If all the classic, herby, savory flavors of Thanksgiving came together into one satisfying main dish, these turkey meatballs would be it! They’re WAY...",
+            "pubDate": "2025-11-25T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/10/Baked-Thanksgiving-Turkey-Meatballs-7-680x1020.jpg"
+        },
         {
             "title": "Million Dollar Stuffed Shells",
             "link": "https://therecipecritic.com/million-dollar-stuffed-shells/",
@@ -19,18 +26,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/honey-butter-chicken.jpg"
         },
         {
-            "title": "Weekly Meal Plan #68",
-            "link": "https://therecipecritic.com/weekly-meal-plan-68/",
-            "description": "This Weekly Meal Plan is so good! Not only does it include a free shopping list, but it has easy…",
-            "pubDate": "2025-11-22T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/Week-68-Meal-Plan-Collage-.jpg"
-        },
-        {
             "title": "Christmas Sprinkle Cookies",
             "link": "https://therecipecritic.com/sprinkle-cookies/",
             "description": "These sprinkle cookies are pure joy. Soft centers, chewy edges, and lots of colorful sprinkles! They are perfect for Christmas…",
             "pubDate": "2025-11-22T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/chirstmas-sprinkle-cookies-1.jpg"
+        },
+        {
+            "title": "Weekly Meal Plan #68",
+            "link": "https://therecipecritic.com/weekly-meal-plan-68/",
+            "description": "This Weekly Meal Plan is so good! Not only does it include a free shopping list, but it has easy…",
+            "pubDate": "2025-11-22T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/Week-68-Meal-Plan-Collage-.jpg"
         },
         {
             "title": "Classic Chicken Pillows",
@@ -59,13 +66,6 @@
             "description": "Monster Cookies have leveled up! Say hello to our healthier twist on the chewy, tender, peanut buttery, chocolate- & candy-studded cookie you know and...",
             "pubDate": "2025-10-14T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/02/Easy-Gluten-Free-Monster-Cookies-7-680x1020.jpg"
-        },
-        {
-            "title": "Instant Chai Latte Mix (Dairy-Free)",
-            "link": "https://minimalistbaker.com/instant-chai-latte-mix/",
-            "description": "Making chai lattes has never been easier! This Instant Chai Latte Mix makes comforting chai lattes possible instantly . Just add water and your favori...",
-            "pubDate": "2025-09-30T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Instant-Chai-Latte-Mix-8-680x1020.jpg"
         }
     ]
 }

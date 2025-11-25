@@ -2,8 +2,22 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-24T16:35:06.233084",
+    "lastBuildDate": "2025-11-25T06:56:32.832885",
     "items": [
+        {
+            "title": "Aligning VMware migration with business continuity",
+            "link": "https://www.technologyreview.com/2025/11/25/1128173/aligning-vmware-migration-with-business-continuity/",
+            "description": "For decades, business continuity planning meant preparing for anomalous events like hurricanes, floods, tornadoes, or regional power outages. In antic...",
+            "pubDate": "2025-11-25T10:28:29",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Presidio-Landing-Page-Card-1.png"
+        },
+        {
+            "title": "Parallax Worlds raises funding for hyper-realistic digital twins to test robots",
+            "link": "https://www.therobotreport.com/parallax-worlds-raises-4m-stress-test-robots-hyper-realistic-digital-twins/",
+            "description": "Parallax Worlds is creating hyper-realistic digital twins for stress-testing robots and accelerating reliable deployments. The post Parallax Worlds ra...",
+            "pubDate": "2025-11-25T01:02:45",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/parallax-worlds-featured.jpg"
+        },
         {
             "title": "Microsoft’s Fara-7B is a computer-use AI agent that rivals GPT-4o and works directly on your PC",
             "link": "https://venturebeat.com/ai/microsofts-fara-7b-is-a-computer-use-ai-agent-that-rivals-gpt-4o-and-works",
@@ -12,11 +26,18 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/122LcFHUQVpTuBOJdCZqIv/309362c2e201c8ffe7da63e6ead8a39c/CUA_computer_use_agent.jpg?w=300&q=30"
         },
         {
-            "title": "The State of AI: Chatbot companions and the future of our privacy",
-            "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
-            "description": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publicatio...",
-            "pubDate": "2025-11-24T16:30:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR_FT_small.png?w=1135"
+            "title": "Sweetgreen sells Spyce robotics unit to Wonder for $186.4M",
+            "link": "https://www.therobotreport.com/sweetgreen-sells-spyce-robotics-unit-wonder-186-4m/",
+            "description": "As part of the Sweetgreen agreement, 38 Spyce engineers and support staffers, including its co-founders, will move to Wonder. The post Sweetgreen sell...",
+            "pubDate": "2025-11-24T22:25:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/sweetgreen-featured.jpg"
+        },
+        {
+            "title": "How to avoid becoming an “AI-first” company with zero real AI usage",
+            "link": "https://venturebeat.com/ai/how-to-avoid-becoming-an-ai-first-company-with-zero-real-ai-usage",
+            "description": "Remember the first time you heard your company was going AI-first ? Maybe it came through an all-hands that felt different from the others. The CEO sa...",
+            "pubDate": "2025-11-24T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5pK7nWLbFVRgLkc1gAENy4/4347da15bb2f14f54d47301f1d4aa030/AI_mandate.png?w=300&q=30"
         },
         {
             "title": "Anthropic’s Claude Opus 4.5 is here: Cheaper AI, infinite chats, and coding skills that beat humans",
@@ -26,11 +47,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5vkUnAXbEuLYlu69OvCLLj/b86bfbe8c5e726da1c5f41886d30097a/nuneybits_Vector_art_of_a_computer_image_in_burnt_orange_1655df10-3e1f-4619-bb97-ffc10b141b64.webp?w=300&q=30"
         },
         {
-            "title": "How to avoid becoming an “AI-first” company with zero real AI usage",
-            "link": "https://venturebeat.com/ai/how-to-avoid-becoming-an-ai-first-company-with-zero-real-ai-usage",
-            "description": "Remember the first time you heard your company was going AI-first ? Maybe it came through an all-hands that felt different from the others. The CEO sa...",
-            "pubDate": "2025-11-24T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5pK7nWLbFVRgLkc1gAENy4/4347da15bb2f14f54d47301f1d4aa030/AI_mandate.png?w=300&q=30"
+            "title": "The State of AI: Chatbot companions and the future of our privacy",
+            "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
+            "description": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publicatio...",
+            "pubDate": "2025-11-24T16:30:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/MITTR_FT_small.png?w=1135"
         },
         {
             "title": "The Download: how to fix a tractor, and living among conspiracy theorists",
@@ -44,14 +65,7 @@
             "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
             "description": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with ...",
             "pubDate": "2025-11-24T16:21:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How miniaturization is making robots smarter and more autonomous",
-            "link": "https://www.therobotreport.com/how-miniaturization-making-robots-smarter-more-autonomous/",
-            "description": "Miniaturization offers robotics designers new levels of power efficiency, nimbleness, and precision for a range of applications. The post How miniatur...",
-            "pubDate": "2025-11-23T13:30:14",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/adaptive-robotics.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
@@ -61,11 +75,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5oGpH06YuPc5Tx7StjhEDT/acc27ce389aae3c647a2df8f5b3d576b/Lean_4.png?w=300&q=30"
         },
         {
-            "title": "Forterra brings in $238M to scale AI platforms for defense applications",
-            "link": "https://www.therobotreport.com/forterra-raises-238m-scale-ai-platforms-defense-applications/",
-            "description": "Forterra said this latest funding round follows a year of deployments with the U.S. military, partnerships, and the acquisition of goTenna. The post F...",
-            "pubDate": "2025-11-22T15:14:05",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/forterra-featured.jpg"
+            "title": "How miniaturization is making robots smarter and more autonomous",
+            "link": "https://www.therobotreport.com/how-miniaturization-making-robots-smarter-more-autonomous/",
+            "description": "Miniaturization offers robotics designers new levels of power efficiency, nimbleness, and precision for a range of applications. The post How miniatur...",
+            "pubDate": "2025-11-23T13:30:14",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/adaptive-robotics.jpg"
         },
         {
             "title": "Kristian Kassow: A pioneer in the cobot industry speaks",
@@ -75,18 +89,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Kristian-Kassow-headshot-sm.jpg"
         },
         {
-            "title": "Teleop, not autonomy, is the path for 1X’s NEO humanoid",
-            "link": "https://www.therobotreport.com/teleop-not-autonomy-the-path-for-1x-neo-humanoid/",
-            "description": "1X has demonstrated progress with its NEO humanoid, but teleoperation could be a better path toward household robots. The post Teleop, not autonomy, i...",
-            "pubDate": "2025-11-21T20:21:18",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/1x-neo-folding-laundry.jpg"
-        },
-        {
-            "title": "OpenAI is ending API access to fan-favorite GPT-4o model in February 2026",
-            "link": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
-            "description": "OpenAI has sent out emails notifying API customers that its chatgpt-4o-latest model will be retired from the developer platform in mid-February 2026,....",
-            "pubDate": "2025-11-21T23:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4K2qYsFflmX9z3ZntUhMDI/e54ae53376bec2ab2f1e0fe1c56f8c8d/MIkhhMSDmHbAJOqcbPZ_5__1_.png?w=300&q=30"
+            "title": "Forterra brings in $238M to scale AI platforms for defense applications",
+            "link": "https://www.therobotreport.com/forterra-raises-238m-scale-ai-platforms-defense-applications/",
+            "description": "Forterra said this latest funding round follows a year of deployments with the U.S. military, partnerships, and the acquisition of goTenna. The post F...",
+            "pubDate": "2025-11-22T15:14:05",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/forterra-featured.jpg"
         },
         {
             "title": "The Download: the secrets of vitamin D, and an AI party in Africa",
@@ -96,18 +103,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_d40b26.png"
         },
         {
-            "title": "Waymo is starting robotaxi testing in three more cities",
-            "link": "https://www.therobotreport.com/waymo-starts-robotaxi-testing-three-more-cities/",
-            "description": "Waymo plans to more than double the number of cities it will operate a commercial robotaxi service in next year. The post Waymo is starting robotaxi t...",
-            "pubDate": "2025-11-21T19:01:00",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/waymo-featured-1.jpg"
-        },
-        {
-            "title": "We’re learning more about what vitamin D does to our bodies",
-            "link": "https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/",
-            "description": "It has started to get really wintry here in London over the last few days. The mornings are frosty, the wind is biting, and it’s already dark by the t...",
-            "pubDate": "2025-11-21T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "OpenAI is ending API access to fan-favorite GPT-4o model in February 2026",
+            "link": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+            "description": "OpenAI has sent out emails notifying API customers that its chatgpt-4o-latest model will be retired from the developer platform in mid-February 2026,....",
+            "pubDate": "2025-11-21T23:01:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4K2qYsFflmX9z3ZntUhMDI/e54ae53376bec2ab2f1e0fe1c56f8c8d/MIkhhMSDmHbAJOqcbPZ_5__1_.png?w=300&q=30"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -117,18 +117,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
             "pubDate": "2021-10-29T00:18:48",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
