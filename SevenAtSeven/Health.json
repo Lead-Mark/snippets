@@ -2,8 +2,15 @@
     "title": "Health",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Health, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-25T06:55:41.265613",
+    "lastBuildDate": "2025-11-25T11:09:41.999910",
     "items": [
+        {
+            "title": "How Melatonin Supplements May Support Better Sleep",
+            "link": "https://www.webmd.com/vitamins-and-supplements/ss/slideshow-melatonin-overview",
+            "description": "",
+            "pubDate": "2025-11-25T06:52:50",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/melatonin_what_to_know_slideshow/1800ss_getty_rf_melotonin_pills_spilling_from_bottle.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "What Can Raise Your Risk for High Cholesterol?",
             "link": "https://www.webmd.com/cholesterol-management/high-cholesterol-risk-factors",
@@ -19,13 +26,6 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x684+0+0/resize/1024x684!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F2d%2Fe54a32a4412b82cad485f2ccac3d%2Fgettyimages-2058873696.jpg"
         },
         {
-            "title": "How Melatonin Supplements May Support Better Sleep",
-            "link": "https://www.webmd.com/vitamins-and-supplements/ss/slideshow-melatonin-overview",
-            "description": "",
-            "pubDate": "2025-11-25T06:52:50",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/melatonin_what_to_know_slideshow/1800ss_getty_rf_melotonin_pills_spilling_from_bottle.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "Obesity Has Many Causes -- Here Are Some You Might Not Expect",
             "link": "https://www.webmd.com/obesity/causes-of-obesity",
             "description": "",
@@ -33,18 +33,53 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/slideshows/how_insomnia_can_affect_your_health_slideshow/1800x1200_how_insomnia_can_affect_your_health_slideshow.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "'Nobody wants to come': What if the U.S. can no longer attract immigrant physicians?",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/11/24/nx-s1-5618291/immigrant-physicians-foreign-born-doctors-trump-h1b",
-            "description": "Immigrants make up a significant proportion of all the country's doctors. New policies are making it harder and less appealing for foreign-born physic...",
-            "pubDate": "2025-11-24T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fa3%2Fbbebd3a34e6a87ea0aa965c15db3%2Fnpr-11-17.jpg"
+            "title": "5 things to know about the new obesity pills that are on the way",
+            "link": "https://www.npr.org/2025/11/25/nx-s1-5619816/obesity-pills-wegovy-semaglutide-orforglipron",
+            "description": "Instead of struggling with weekly injections, patients may soon be able to swallow a daily pill to lose weight. Both the makers of Wegovy and Mounjaro...",
+            "pubDate": "2025-11-25T12:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2397x1251+0+0/resize/2397x1251!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fad%2Fc4ae57344520b6531f0f00e64da9%2Fgettyimages-1134069131.jpg"
         },
         {
-            "title": "What foods make you happiest? It's not what you think",
-            "link": "https://www.npr.org/2025/11/24/nx-s1-5615440/food-mood-mental-health",
-            "description": "As you prepare for your holiday feast, here's something to consider. Research suggests there are certain foods that can help boost our moods and make ...",
-            "pubDate": "2025-11-24T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F8c%2F285190524fa0a2bea84dabec3a40%2Fimg-9134.jpg"
+            "title": "Just one week off social media can improve young adults' mental health, study finds",
+            "link": "https://www.npr.org/2025/11/25/nx-s1-5616412/just-one-week-off-social-media-can-improve-young-adults-mental-health-study-finds",
+            "description": "A new study shows that cutting social media use for just one week can reduce mental health symptoms, like anxiety and depression, in young adults.",
+            "pubDate": "2025-11-25T09:43:33",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5616412"
+        },
+        {
+            "title": "Researchers Analyzed 1,100+ MRIs — This Metric Predicted Brain Age",
+            "link": "https://www.mindbodygreen.com/articles/this-metric-may-be-1-predictor-of-cognitive-aging",
+            "description": "Is this the fountain of youth?",
+            "pubDate": "2025-11-25T10:01:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "I'm Hooked On This Healthy Aging Serum (& My 55-Year-Old Mom Loves It, Too)",
+            "link": "https://www.mindbodygreen.com/articles/kosas-black-friday-sale-2025",
+            "description": "And she's a skin care loyalist.",
+            "pubDate": "2025-11-25T10:29:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Save Up To 60% On The Supplements That Support Strength, Recovery & Lean Muscle",
+            "link": "https://www.mindbodygreen.com/articles/save-up-to-60-on-supplements-for-strength-recovery-and-muscle",
+            "description": "Stock up now.",
+            "pubDate": "2025-11-25T10:33:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "These Leggings Are A Wearable Lymphatic Massage (& They're 30% Off)",
+            "link": "https://www.mindbodygreen.com/articles/elastique-leggings-black-friday-sale",
+            "description": "I didn't expect these to be so good.",
+            "pubDate": "2025-11-25T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Do This For 10 Minutes Per Day For Younger-Looking Hands (You’ll Be Floored)",
+            "link": "https://www.mindbodygreen.com/articles/omnilux-contour-glove-review-worth-it",
+            "description": "My hands are aging in reverse.",
+            "pubDate": "2025-11-25T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "A bowhead whale's DNA offers clues to fight cancer",
@@ -59,41 +94,6 @@
             "description": "NPR's Juana Summers talks with Jennifer Levin, author of Generation Care, about the roughly 10 million millennials working as family caregivers, often...",
             "pubDate": "2025-11-24T22:02:53",
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5566734"
-        },
-        {
-            "title": "Skipping This Step Before Exercise? You Could Be Slowing Your Gains",
-            "link": "https://www.mindbodygreen.com/articles/underrated-secret-to-better-lifts-faster-runs-and-fewer-injuries",
-            "description": "The often-overlooked performance booster hiding in plain sight",
-            "pubDate": "2025-11-24T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "I Swapped Melatonin For This Supplement And Have Never Slept Better*",
-            "link": "https://www.mindbodygreen.com/articles/how-sleep-support-has-improved-my-sleep-at-home-and-on-road-why-i-wanted-to-try-sleep-support",
-            "description": "To me, it feels like wellness in a bottle.*",
-            "pubDate": "2025-11-24T10:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "The Best Time To Start Hormone Therapy To Lower Disease Risk By 60%",
-            "link": "https://www.mindbodygreen.com/articles/starting-estrogen-early-could-cut-heart-disease-stroke-and-cancer-risk-by-60",
-            "description": "And it's sooner than you think",
-            "pubDate": "2025-11-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Katie Austin Let Go of Her “Perfect” Fitness Routine & Became Stronger Than Ever",
-            "link": "https://www.mindbodygreen.com/articles/fitness-isnt-about-perfection-anymore-and-thats-good-thing",
-            "description": "Perfection is out; balance is in.",
-            "pubDate": "2025-11-24T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "These Are The Lowest Prices We've *Ever* Seen On A Cold Plunge Tub",
-            "link": "https://www.mindbodygreen.com/articles/black-friday-cold-plunge-tub-deals-2025",
-            "description": "Hurry! These discounts won't last.",
-            "pubDate": "2025-11-24T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "My Word for 2024:  Strong",
