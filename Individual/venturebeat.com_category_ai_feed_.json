@@ -2,7 +2,7 @@
     "title": "Individual feed for https://venturebeat.com/category/ai/feed/",
     "link": "https://venturebeat.com/category/ai/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-11-26T11:04:37.428022",
+    "lastBuildDate": "2025-11-26T16:17:35.501972",
     "items": [
         {
             "title": "A weekend ‘vibe code’ hack by Andrej Karpathy quietly sketches the missing layer of enterprise AI orchestration",
@@ -19,6 +19,13 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3xnd8Pd0WlOl5td1iZkwG5/7e244c4fe5fda98c5550d87cd9c511c2/2Q______1_.jpeg?w=300&q=30"
         },
         {
+            "title": "Alibaba's AgentEvolver lifts model performance in tool use by ~30% using synthetic, auto-generated tasks",
+            "link": "https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using",
+            "description": "Researchers at Alibaba’s Tongyi Lab have developed a new framework for self-evolving agents that create their own training data by exploring their app...",
+            "pubDate": "2025-11-26T00:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4enOwMu4NUlXF6NXOriDEH/b99b0fee6403bc292622b870a5b234a6/AI_agent_exploring_different_branches.jpg?w=300&q=30"
+        },
+        {
             "title": "What enterprises should know about The White House's new AI 'Manhattan Project' the Genesis Mission",
             "link": "https://venturebeat.com/ai/what-enterprises-should-know-about-the-white-houses-new-ai-manhattan-project",
             "description": "President Donald Trump’s new “ Genesis Mission ” unveiled Monday, November 24, 2025, is billed as a generational leap in how the United States does sc...",
@@ -31,13 +38,6 @@
             "description": "OpenAI expanded its data residency regions for ChatGPT and its API, giving enterprise users the option to store and process their data closest to thei...",
             "pubDate": "2025-11-25T05:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1g8nmbi7oAHyjfQNPztaUi/02c20bc6a85bbab1d13fffc88b356a9b/crimedy7_illustration_of_a_house_of_data_--ar_169_--v_7_ff997425-90c8-4492-b29d-74de45555488_3.png?w=300&q=30"
-        },
-        {
-            "title": "Anthropic’s Claude Opus 4.5 is here: Cheaper AI, infinite chats, and coding skills that beat humans",
-            "link": "https://venturebeat.com/ai/anthropics-claude-opus-4-5-is-here-cheaper-ai-infinite-chats-and-coding",
-            "description": "Anthropic released its most capable artificial intelligence model yet on Monday, slashing prices by roughly two-thirds while claiming state-of-the-art...",
-            "pubDate": "2025-11-24T21:35:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5vkUnAXbEuLYlu69OvCLLj/b86bfbe8c5e726da1c5f41886d30097a/nuneybits_Vector_art_of_a_computer_image_in_burnt_orange_1655df10-3e1f-4619-bb97-ffc10b141b64.webp?w=300&q=30"
         }
     ]
 }
