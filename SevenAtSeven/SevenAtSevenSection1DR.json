@@ -2,8 +2,15 @@
     "title": "SevenAtSevenSection1",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-26T16:16:42.087296",
+    "lastBuildDate": "2025-11-27T01:10:42.671468",
     "items": [
+        {
+            "title": "The future will be explained to you in Palo Alto",
+            "link": "https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/",
+            "description": "On Wednesday evening at PlayGround Global in Palo Alto, some very smart people who are building things you don’t understand yet will explain what’s co...",
+            "pubDate": "2025-11-27T06:08:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "Medicare negotiated lower prices for 15 drugs, including 71% off Ozempic and Wegovy",
             "link": "https://www.npr.org/sections/shots-health-news/2025/11/26/nx-s1-5621944/medicare-drug-prices-ozempic-and-wegovy",
@@ -26,13 +33,6 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5457x3579+0+0/resize/5457x3579!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F5c%2F5c8b473d4d1389ddb2be35246f42%2Fgettyimages-2186814210.jpg"
         },
         {
-            "title": "Two West Virginia National Guard members killed in D.C. shooting, authorities say",
-            "link": "https://www.npr.org/2025/11/26/nx-s1-5622038/national-guard-shooting-washington-dc",
-            "description": "In a statement, West Virginia Gov. Patrick Morrisey said two members of the West Virginia National Guard died from injuries following a shooting in Wa...",
-            "pubDate": "2025-11-26T20:20:48",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4086x2787+0+0/resize/4086x2787!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F96%2F6937d74f4f48921ace1d1aeb7f13%2Fgettyimages-2230137517.jpg"
-        },
-        {
             "title": "Trump defends key negotiator after leaked phone call appears to show him coaching Russia",
             "link": "https://www.npr.org/2025/11/26/nx-s1-5621838/trump-steve-witkoff-russia",
             "description": "A transcript of the call appears to show Steve Witkoff coaching his Russian counterpart on how they could get a better deal to end the war in Ukraine",
@@ -40,53 +40,25 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F23%2F47cb0ca8426e9b338a00225d1016%2Fgettyimages-2216879972.jpg"
         },
         {
-            "title": "OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan",
-            "link": "https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/",
-            "description": "In August, parents Matthew and Maria Raine sued OpenAI and its CEO, Sam Altman, over their 16-year-old son Adam's suicide, accusing the company of wro...",
-            "pubDate": "2025-11-26T20:26:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "JustiGuide wants to use AI to help people navigate the US immigration system",
-            "link": "https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/",
-            "description": "The startup uses AI to help immigrants understand the system, connect with lawyers, and reduce associated costs.",
-            "pubDate": "2025-11-26T20:31:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Mortgage Rates Fall to a Three-Year Low—Will They Keep Dropping?",
-            "link": "https://www.biggerpockets.com/blog/mortgage-rates-drop-to-three-year-lows-nov-2025",
-            "description": "Mortgage rates fell sharply Tuesday, bringing the average rate back near the 2025 lows from late October—levels investors have not seen since late 202...",
-            "pubDate": "2025-11-26T18:53:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Property Maintenance Doesn’t Need to Be So Hard—Just Use AI",
-            "link": "https://www.biggerpockets.com/blog/maintenance-issues-dont-have-to-be-so-hard-just-use-ai",
-            "description": "This article is presented by TurboTenant. Maintenance might be one of the biggest challenges landlords face. Whether it’s a true emergency or a Sunday...",
-            "pubDate": "2025-11-26T19:21:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Redwood Materials reportedly cuts 5% of staff after $350M raise",
-            "link": "https://techcrunch.com/2025/11/26/redwood-materials-reportedly-cuts-5-of-staff-after-350m-raise/",
-            "description": "The battery recycling and cathode production company, founded by former Tesla CTO JB Straubel, has started using recycled battery materials to create ...",
-            "pubDate": "2025-11-26T20:14:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "2 National Guard members in critical condition after 'targeted' attack in D.C., authorities say",
+            "link": "https://www.npr.org/2025/11/26/nx-s1-5622038/national-guard-shooting-washington-dc",
+            "description": "President Trump said the suspected shooter came to the U.S. from Afghanistan in 2021. The administration plans to send 500 more Guard personnel to the...",
+            "pubDate": "2025-11-26T20:20:48",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1620x1080+0+0/resize/1620x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F58%2Ff75b775141389ab2e9a2ea1c0f44%2F0c2a7758.jpg"
         },
         {
             "title": "The “Lazy” Person’s Guide to Retiring with Rentals (in a Decade!)",
             "link": "https://www.biggerpockets.com/blog/real-estate-1205",
             "description": "Don’t buy in good school districts. Always end your leases in winter. NEVER raise rents on a tenant. These are just some of the “Dionisms” that have m...",
             "pubDate": "2025-11-26T12:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Nordic founders are taking bigger swings, and it’s paying off",
-            "link": "https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/",
-            "description": "Ten years ago, raising €1 million in Copenhagen was enough to make waves in the region’s tech scene. Today, the Nordics are turning out billion-dollar...",
-            "pubDate": "2025-11-26T21:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Mortgage Rates Fall to a Three-Year Low—Will They Keep Dropping?",
+            "link": "https://www.biggerpockets.com/blog/mortgage-rates-drop-to-three-year-lows-nov-2025",
+            "description": "Mortgage rates fell sharply Tuesday, bringing the average rate back near the 2025 lows from late October—levels investors have not seen since late 202...",
+            "pubDate": "2025-11-26T18:53:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Here are the 49 US AI startups that have raised $100M or more in 2025",
@@ -96,17 +68,52 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Federal judge says trial for Wisconsin judge accused of helping immigrant will go on next month",
-            "link": "https://apnews.com/article/milwaukee-judge-immigrant-escape-hearing-066d6aa3fab7a8f159bacd2544bf57c8",
-            "description": "",
-            "pubDate": "2025-11-26T00:04:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "JustiGuide wants to use AI to help people navigate the US immigration system",
+            "link": "https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/",
+            "description": "The startup uses AI to help immigrants understand the system, connect with lawyers, and reduce associated costs.",
+            "pubDate": "2025-11-26T20:31:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Two West Virginia National Guard members shot in DC have died, the state’s governor says",
+            "title": "Property Maintenance Doesn’t Need to Be So Hard—Just Use AI",
+            "link": "https://www.biggerpockets.com/blog/maintenance-issues-dont-have-to-be-so-hard-just-use-ai",
+            "description": "This article is presented by TurboTenant. Maintenance might be one of the biggest challenges landlords face. Whether it’s a true emergency or a Sunday...",
+            "pubDate": "2025-11-26T19:21:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Trump sent National Guard troops to Washington in August. Some are armed. Some have cleaned parks",
+            "link": "https://apnews.com/article/national-guard-washington-deployment-7b6e68871759525bdccb1ed05bd1a806",
+            "description": "",
+            "pubDate": "2025-11-26T18:42:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Trump says lax migration policies are top national security threat after National Guard members shot",
+            "link": "https://apnews.com/article/trump-national-guard-washington-shooting-6548fbcba4b6efce59a38eeed32b4865",
+            "description": "",
+            "pubDate": "2025-11-26T23:01:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan",
+            "link": "https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/",
+            "description": "In August, parents Matthew and Maria Raine sued OpenAI and its CEO, Sam Altman, over their 16-year-old son Adam's suicide, accusing the company of wro...",
+            "pubDate": "2025-11-26T20:26:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "2 National Guard members shot in an ambush attack just blocks from the White House",
             "link": "https://apnews.com/article/national-guard-shooting-dc-c5785dd8920d2d1ac7d71fab769faf5f",
-            "description": "Two West Virginia National Guard members shot Wednesday near the White House have died, the state’s governor said.",
+            "description": "Two West Virginia National Guard members who deployed to the U.S. capital have been shot blocks from the White House in a brazen act of violence that ...",
             "pubDate": "2025-11-26T14:51:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Nordic founders are taking bigger swings, and it’s paying off",
+            "link": "https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/",
+            "description": "Ten years ago, raising €1 million in Copenhagen was enough to make waves in the region’s tech scene. Today, the Nordics are turning out billion-dollar...",
+            "pubDate": "2025-11-26T21:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
@@ -114,21 +121,14 @@
             "link": "https://www.biggerpockets.com/blog/rookie-645",
             "description": "Laura Sides had zero real estate investing experience not too long ago. But, within just six weeks, she made $100,000 on her first real estate deal. H...",
             "pubDate": "2025-11-26T12:00:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Slender Man attacker won’t fight extradition to Wisconsin after fleeing group home",
-            "link": "https://apnews.com/article/morgan-geyser-slender-man-escape-10d31a9d07d175ba3e286761b8889de9",
-            "description": "",
-            "pubDate": "2025-11-25T14:25:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "This Could “Break” the Housing System as We Know It",
             "link": "https://www.biggerpockets.com/blog/on-the-market-376",
             "description": "This could break the mortgage system as we know it. But, is it worth it? New “portable mortgages” have been floated by the Trump Administration and FH...",
             "pubDate": "2025-11-25T12:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
