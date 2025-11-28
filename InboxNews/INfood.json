@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-27T01:11:35.510022",
+    "lastBuildDate": "2025-11-27T20:30:21.389995",
     "items": [
+        {
+            "title": "Thanksgiving Casserole",
+            "link": "https://therecipecritic.com/thanksgiving-casserole/",
+            "description": "This Thanksgiving leftover casserole is the best way to enjoy every last bit of your Thanksgiving dinner. I give you…",
+            "pubDate": "2025-11-27T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/leftover-thanksgiving-casserole-.jpg"
+        },
         {
             "title": "Copycat Raising Cane’s Chicken",
             "link": "https://therecipecritic.com/raising-canes-chicken/",
@@ -12,18 +19,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/raising-canes-chicken-fingers-1.jpg"
         },
         {
-            "title": "Thanksgiving Turkey Meatballs",
-            "link": "https://minimalistbaker.com/thanksgiving-turkey-meatballs/",
-            "description": "If all the classic, herby, savory flavors of Thanksgiving came together into one satisfying main dish, these turkey meatballs would be it! They’re WAY...",
-            "pubDate": "2025-11-25T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/10/Baked-Thanksgiving-Turkey-Meatballs-7-680x1020.jpg"
-        },
-        {
             "title": "Hostess Cupcake Cookies",
             "link": "https://therecipecritic.com/hostess-cupcake-cookies/",
             "description": "These Hostess Cupcake Cookies take your favorite childhood treat and turn it into soft, chocolate cookies! They are topped with…",
             "pubDate": "2025-11-25T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/hostess-cookies-.jpg"
+        },
+        {
+            "title": "Thanksgiving Turkey Meatballs",
+            "link": "https://minimalistbaker.com/thanksgiving-turkey-meatballs/",
+            "description": "If all the classic, herby, savory flavors of Thanksgiving came together into one satisfying main dish, these turkey meatballs would be it! They’re WAY...",
+            "pubDate": "2025-11-25T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2023/10/Baked-Thanksgiving-Turkey-Meatballs-7-680x1020.jpg"
         },
         {
             "title": "Million Dollar Stuffed Shells",
@@ -38,13 +45,6 @@
             "description": "Sticky, sweet, and totally irresistible, this honey butter chicken brings golden brown perfection to your dinner table. One pan, picky-eater…",
             "pubDate": "2025-11-23T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/honey-butter-chicken.jpg"
-        },
-        {
-            "title": "Christmas Sprinkle Cookies",
-            "link": "https://therecipecritic.com/sprinkle-cookies/",
-            "description": "These sprinkle cookies are pure joy. Soft centers, chewy edges, and lots of colorful sprinkles! They are perfect for Christmas…",
-            "pubDate": "2025-11-22T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/christmas-sprinkle-cookies-.jpg"
         },
         {
             "title": "Cranberry Orange Cookie Bars (Vegan + Gluten-Free)",
