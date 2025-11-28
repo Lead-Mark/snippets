@@ -2,21 +2,35 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-28T07:05:41.479054",
+    "lastBuildDate": "2025-11-28T11:01:15.927805",
     "items": [
+        {
+            "title": "Surgical robotics market to double by 2029",
+            "link": "https://www.therobotreport.com/surgical-robotics-market-to-double-by-2029-report/",
+            "description": "New report from The Robot Report's sister publication delivers detailed forecasts, market share insights, and competitive breakdowns about the global ...",
+            "pubDate": "2025-11-28T14:30:02",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/MassDeviceRoboticSurgery_Nov2025_Page_01-232x300.jpg"
+        },
+        {
+            "title": "Advantech integrates compute with D3 Embedded sensing for mobile robots",
+            "link": "https://www.therobotreport.com/advantech-integrates-compute-with-d3-embedded-sensing-for-mobile-robots/",
+            "description": "D3 Embedded and Advantech said their integrated vision systems can help autonomous mobile robots come to market faster. The post Advantech integrates ...",
+            "pubDate": "2025-11-28T13:30:43",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/D3_Advantech-System-copy.jpg"
+        },
+        {
+            "title": "The Download: the mysteries surrounding weight-loss drugs, and the economic effects of AI",
+            "link": "https://www.technologyreview.com/2025/11/28/1128516/the-download-the-mysteries-surrounding-weight-loss-drugs-and-the-economic-effects-of-ai/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we stil...",
+            "pubDate": "2025-11-28T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_3103f2.png"
+        },
         {
             "title": "What we still don’t know about weight-loss drugs",
             "link": "https://www.technologyreview.com/2025/11/28/1128511/what-we-still-dont-know-about-weight-loss-drugs/",
             "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
             "pubDate": "2025-11-28T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "The Download: the fossil fuel elephant in the room, and better tests for endometriosis",
-            "link": "https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This year’s ...",
-            "pubDate": "2025-11-27T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f357.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Moving toward LessOps with VMware-to-cloud migrations",
@@ -26,18 +40,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Cognizant-Landing-Page-Card-1.png"
         },
         {
+            "title": "The Download: the fossil fuel elephant in the room, and better tests for endometriosis",
+            "link": "https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This year’s ...",
+            "pubDate": "2025-11-27T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f357.png"
+        },
+        {
             "title": "This year’s UN climate talks avoided fossil fuels, again",
             "link": "https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/",
             "description": "If we didn’t have pictures and videos, I almost wouldn’t believe the imagery that came out of this year’s UN climate talks. Over the past few weeks in...",
             "pubDate": "2025-11-27T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Agile Robots acquires thyssenkrupp Automation Engineering",
-            "link": "https://www.therobotreport.com/agile-robots-acquires-thyssenkrupp-automation-engineering/",
-            "description": "thyssenkrupp Automation Engineering will provide automotive expertise and expand market access, says Agile Robots. The post Agile Robots acquires thys...",
-            "pubDate": "2025-11-26T17:17:02",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/TKAE_Site_Maschinenpark-copy.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Flexion to use Series A to build sim-to-real, AI systems powering humanoids",
@@ -54,25 +68,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Rebecca-Hu-Thrams-featured.jpg"
         },
         {
-            "title": "The Download: AI and the economy, and slop for the masses",
-            "link": "https://www.technologyreview.com/2025/11/26/1128459/the-download-ai-and-the-economy-and-slop-for-the-masses/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is ch...",
-            "pubDate": "2025-11-26T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_68a693.png"
-        },
-        {
-            "title": "Physical Intelligence raises $600M to advance robot foundation models",
-            "link": "https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/",
-            "description": "Physical Intelligence says Version 6 of its vision-language-action model can reduce failure rates over hours of operation. The post Physical Intellige...",
-            "pubDate": "2025-11-25T21:41:00",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/PI_coffee_AI.jpg"
-        },
-        {
-            "title": "Sovato CEO says big telesurgery advances are coming soon",
-            "link": "https://www.therobotreport.com/sovato-ceo-says-big-telesurgery-advances-are-coming-soon/",
-            "description": "Sovato co-founder and CEO Cynthia Perazzo offers a forecast of telesurgery tech and her perspective on the biggest opportunities. The post Sovato CEO ...",
-            "pubDate": "2025-11-25T22:34:37",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Cynthia-Perazzo-Sovato-1-768x499-1.jpg"
+            "title": "Agile Robots acquires thyssenkrupp Automation Engineering",
+            "link": "https://www.therobotreport.com/agile-robots-acquires-thyssenkrupp-automation-engineering/",
+            "description": "thyssenkrupp Automation Engineering will provide automotive expertise and expand market access, says Agile Robots. The post Agile Robots acquires thys...",
+            "pubDate": "2025-11-26T17:17:02",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/TKAE_Site_Maschinenpark-copy.jpg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -82,18 +82,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
