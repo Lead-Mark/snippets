@@ -2,14 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-27T20:30:31.023521",
+    "lastBuildDate": "2025-11-28T06:23:49.149979",
     "items": [
         {
-            "title": "The Download: the fossil fuel elephant in the room, and better tests for endometriosis",
-            "link": "https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This year’s ...",
-            "pubDate": "2025-11-27T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f357.png"
+            "title": "What we still don’t know about weight-loss drugs",
+            "link": "https://www.technologyreview.com/2025/11/28/1128511/what-we-still-dont-know-about-weight-loss-drugs/",
+            "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+            "pubDate": "2025-11-28T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Moving toward LessOps with VMware-to-cloud migrations",
@@ -19,32 +19,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Cognizant-Landing-Page-Card-1.png"
         },
         {
+            "title": "The Download: the fossil fuel elephant in the room, and better tests for endometriosis",
+            "link": "https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This year’s ...",
+            "pubDate": "2025-11-27T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f357.png"
+        },
+        {
             "title": "This year’s UN climate talks avoided fossil fuels, again",
             "link": "https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/",
             "description": "If we didn’t have pictures and videos, I almost wouldn’t believe the imagery that came out of this year’s UN climate talks. Over the past few weeks in...",
             "pubDate": "2025-11-27T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "A weekend ‘vibe code’ hack by Andrej Karpathy quietly sketches the missing layer of enterprise AI orchestration",
-            "link": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing",
-            "description": "This weekend, Andrej Karpathy , the former director of AI at Tesla and a founding member of OpenAI, decided he wanted to read a book. But he did not w...",
-            "pubDate": "2025-11-26T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Ey8QusmYk8nxrgwRnt2il/f17035cb1ab8a293f3de798fba1978a0/nuneybits_A_glowing_computer_screen_on_a_laptop_computer_code_s_c5238c15-75e5-4c2b-9f4b-e530ad71adf0.webp?w=300&q=30"
-        },
-        {
-            "title": "Flexion to use Series A to build sim-to-real, AI systems powering humanoids",
-            "link": "https://www.therobotreport.com/flexion-raises-50m-build-ai-systems-power-humanoids/",
-            "description": "Flexion is using generative AI to build AI models that can automate tasks involving reasoning, writing, and creativity. The post Flexion to use Series...",
-            "pubDate": "2025-11-26T13:30:14",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/flexion-featured.jpg"
-        },
-        {
-            "title": "Agile Robots acquires thyssenkrupp Automation Engineering",
-            "link": "https://www.therobotreport.com/agile-robots-acquires-thyssenkrupp-automation-engineering/",
-            "description": "thyssenkrupp Automation Engineering will provide automotive expertise and expand market access, says Agile Robots. The post Agile Robots acquires thys...",
-            "pubDate": "2025-11-26T17:17:02",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/TKAE_Site_Maschinenpark-copy.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Inside Glacier’s mission to modernize recycling",
@@ -54,11 +40,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/Rebecca-Hu-Thrams-featured.jpg"
         },
         {
+            "title": "Alibaba's AgentEvolver lifts model performance in tool use by ~30% using synthetic, auto-generated tasks",
+            "link": "https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using",
+            "description": "Researchers at Alibaba’s Tongyi Lab have developed a new framework for self-evolving agents that create their own training data by exploring their app...",
+            "pubDate": "2025-11-26T00:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4enOwMu4NUlXF6NXOriDEH/b99b0fee6403bc292622b870a5b234a6/AI_agent_exploring_different_branches.jpg?w=300&q=30"
+        },
+        {
+            "title": "Flexion to use Series A to build sim-to-real, AI systems powering humanoids",
+            "link": "https://www.therobotreport.com/flexion-raises-50m-build-ai-systems-power-humanoids/",
+            "description": "Flexion is using generative AI to build AI models that can automate tasks involving reasoning, writing, and creativity. The post Flexion to use Series...",
+            "pubDate": "2025-11-26T13:30:14",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/flexion-featured.jpg"
+        },
+        {
             "title": "The Download: AI and the economy, and slop for the masses",
             "link": "https://www.technologyreview.com/2025/11/26/1128459/the-download-ai-and-the-economy-and-slop-for-the-masses/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is ch...",
             "pubDate": "2025-11-26T13:10:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/image_68a693.png"
+        },
+        {
+            "title": "A weekend ‘vibe code’ hack by Andrej Karpathy quietly sketches the missing layer of enterprise AI orchestration",
+            "link": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing",
+            "description": "This weekend, Andrej Karpathy , the former director of AI at Tesla and a founding member of OpenAI, decided he wanted to read a book. But he did not w...",
+            "pubDate": "2025-11-26T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Ey8QusmYk8nxrgwRnt2il/f17035cb1ab8a293f3de798fba1978a0/nuneybits_A_glowing_computer_screen_on_a_laptop_computer_code_s_c5238c15-75e5-4c2b-9f4b-e530ad71adf0.webp?w=300&q=30"
         },
         {
             "title": "Black Forest Labs launches Flux.2 AI image models to challenge Nano Banana Pro and Midjourney",
@@ -68,18 +75,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3xnd8Pd0WlOl5td1iZkwG5/7e244c4fe5fda98c5550d87cd9c511c2/2Q______1_.jpeg?w=300&q=30"
         },
         {
-            "title": "Alibaba's AgentEvolver lifts model performance in tool use by ~30% using synthetic, auto-generated tasks",
-            "link": "https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using",
-            "description": "Researchers at Alibaba’s Tongyi Lab have developed a new framework for self-evolving agents that create their own training data by exploring their app...",
-            "pubDate": "2025-11-26T00:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4enOwMu4NUlXF6NXOriDEH/b99b0fee6403bc292622b870a5b234a6/AI_agent_exploring_different_branches.jpg?w=300&q=30"
-        },
-        {
-            "title": "The AI Hype Index: The people can’t get enough of AI slop",
-            "link": "https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/",
-            "description": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything ...",
-            "pubDate": "2025-11-26T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Agile Robots acquires thyssenkrupp Automation Engineering",
+            "link": "https://www.therobotreport.com/agile-robots-acquires-thyssenkrupp-automation-engineering/",
+            "description": "thyssenkrupp Automation Engineering will provide automotive expertise and expand market access, says Agile Robots. The post Agile Robots acquires thys...",
+            "pubDate": "2025-11-26T17:17:02",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/TKAE_Site_Maschinenpark-copy.jpg"
         },
         {
             "title": "Physical Intelligence raises $600M to advance robot foundation models",
@@ -89,18 +89,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/PI_coffee_AI.jpg"
         },
         {
-            "title": "OpenAI now lets enterprises choose where to host their data",
-            "link": "https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data",
-            "description": "OpenAI expanded its data residency regions for ChatGPT and its API, giving enterprise users the option to store and process their data closest to thei...",
-            "pubDate": "2025-11-25T05:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1g8nmbi7oAHyjfQNPztaUi/02c20bc6a85bbab1d13fffc88b356a9b/crimedy7_illustration_of_a_house_of_data_--ar_169_--v_7_ff997425-90c8-4492-b29d-74de45555488_3.png?w=300&q=30"
-        },
-        {
             "title": "What enterprises should know about The White House's new AI 'Manhattan Project' the Genesis Mission",
             "link": "https://venturebeat.com/ai/what-enterprises-should-know-about-the-white-houses-new-ai-manhattan-project",
             "description": "President Donald Trump’s new “ Genesis Mission ” unveiled Monday, November 24, 2025, is billed as a generational leap in how the United States does sc...",
             "pubDate": "2025-11-25T15:52:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5m2x1YdAEaqWJLhiH1Oh3S/cf8162a0477a1a70dbebd393e0ce2a3d/0hw9lFQJS_Zy6yiTAktWc.png?w=300&q=30"
+        },
+        {
+            "title": "OpenAI now lets enterprises choose where to host their data",
+            "link": "https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data",
+            "description": "OpenAI expanded its data residency regions for ChatGPT and its API, giving enterprise users the option to store and process their data closest to thei...",
+            "pubDate": "2025-11-25T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1g8nmbi7oAHyjfQNPztaUi/02c20bc6a85bbab1d13fffc88b356a9b/crimedy7_illustration_of_a_house_of_data_--ar_169_--v_7_ff997425-90c8-4492-b29d-74de45555488_3.png?w=300&q=30"
         },
         {
             "title": "Sovato CEO says big telesurgery advances are coming soon",
@@ -117,13 +117,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -143,6 +136,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
