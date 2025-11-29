@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-11-28T11:01:59.197971",
+    "lastBuildDate": "2025-11-29T00:50:45.679450",
     "items": [
+        {
+            "title": "Your daily orange juice could be helping your heart",
+            "link": "https://medicalxpress.com/news/2025-11-daily-orange-juice-heart.html",
+            "description": "Most of us think of orange juice as a simple breakfast habit, something you pour without much thought. Yet scientists are discovering that this everyd...",
+            "pubDate": "2025-11-29T01:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
         {
             "title": "Safety and Efficacy of Ozanimod in Patients With Moderately to Severely Active Ulcerative Colitis Stratified by Age",
             "link": "https://www.2minutemedicine.com/safety-and-efficacy-of-ozanimod-in-patients-with-moderately-to-severely-active-ulcerative-colitis-stratified-by-age/",
@@ -12,52 +19,94 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/ulcerative-colitis-300x150.jpg"
         },
         {
-            "title": "US-approved drug to improve quality of life for people with rare condition familial chylomicronemia syndrome",
-            "link": "https://medicalxpress.com/news/2025-11-drug-quality-life-people-rare.html",
-            "description": "For the first time, a drug to treat adult patients with familial chylomicronemia syndrome (FCS), a severe and rare condition that leads to extremely h...",
-            "pubDate": "2025-11-28T15:40:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "A breast cancer researcher at Harvard loses 1/3 of her staff amid NIH funding cuts",
+            "link": "https://www.npr.org/2025/11/28/nx-s1-5616647/a-breast-cancer-researcher-at-harvard-loses-1-3-of-her-staff-amid-nih-funding-cuts",
+            "description": "Amid NIH funding delays, clawbacks and uncertainty, a scientist at Harvard who studies breast cancer has lost one third of her lab employees and wonde...",
+            "pubDate": "2025-11-28T21:34:52",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5616647"
         },
         {
-            "title": "Space-inspired tech uncovers hidden differences in autistic children's play",
-            "link": "https://medicalxpress.com/news/2025-11-space-tech-uncovers-hidden-differences.html",
-            "description": "A pioneering interdisciplinary study has shown that how young children play a simple iPad game could support early identification of autism.",
-            "pubDate": "2025-11-28T15:50:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Why Doctors Relocate Globally — And What LATAM Reveals",
+            "link": "https://www.medscape.com/viewarticle/why-doctors-relocate-globally-and-what-latam-reveals-2025a1000xcz?src=rss",
+            "description": "Spain emerged as the top destination for expatriate physicians, attracting 22% of all respondents and nearly two thirds of Latin American doctors. Med...",
+            "pubDate": "2025-11-28T12:01:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Ureteroscopy Safe and Effective for Stone Disease in Seniors",
-            "link": "https://www.medscape.com/viewarticle/ureteroscopy-safe-and-effective-stone-disease-older-adults-2025a1000x4d?src=rss",
-            "description": "Patients aged 80 years or older with stone disease who undergo ureteroscopy have a low risk for major complications and acceptable stone clearance rat...",
+            "title": "New Review Exposes England’s Palliative Care Failures",
+            "link": "https://www.medscape.com/viewarticle/new-review-exposes-englands-palliative-care-failures-2025a1000xd7?src=rss",
+            "description": "A new independent review warns that palliative and end-of-life care in England remains fragmented, underfunded, and uneven, leaving many patients with...",
+            "pubDate": "2025-11-28T13:38:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Poverty Deepens England’s Mental Health Inequalities",
+            "link": "https://www.medscape.com/viewarticle/poverty-deepens-englands-mental-health-inequalities-2025a1000xe8?src=rss",
+            "description": "A survey shows widening mental health inequalities in England, with rising eating disorders, stable autism rates, and persistent links between severe ...",
+            "pubDate": "2025-11-28T17:57:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Device Screens Predict Craving in Problematic Internet Use",
+            "link": "https://www.medscape.com/viewarticle/device-screens-predict-craving-problematic-internet-use-2025a1000wux?src=rss",
+            "description": "A study finds that highly exposed individuals with risky and pathologic internet use show heightened craving and arousal responses to unavoidable, non...",
             "pubDate": "2025-11-28T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Environmental pollutants and epigenetics: Uncovering a hidden link to diabetes risk",
-            "link": "https://medicalxpress.com/news/2025-11-environmental-pollutants-epigenetics-uncovering-hidden.html",
-            "description": "Diabetes mellitus (DM) continues to be one of the most prevalent and complex metabolic diseases globally, affecting approximately 500 million people. ...",
-            "pubDate": "2025-11-28T15:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Model helps explain how context-dependent behavior occurs",
-            "link": "https://medicalxpress.com/news/2025-11-context-behavior.html",
-            "description": "How animals may modify their behavior depending on their context has been modeled mathematically by two RIKEN neuroscientists. Their simple but biolog...",
-            "pubDate": "2025-11-28T15:34:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "A pediatrician explains the real danger of food perfectionism [PODCAST]",
             "link": "https://kevinmd.com/2025/11/a-pediatrician-explains-the-real-danger-of-food-perfectionism-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Pediatrician Wendy Schofer discusses her article, “Why food perfectio...",
             "pubDate": "2025-11-28T00:00:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "WHO hails uptick in measles vaccines, still below pre-COVID levels",
-            "link": "https://medicalxpress.com/news/2025-11-hails-uptick-measles-vaccines-pre.html",
-            "description": "Measles vaccination rates have improved \"remarkably\" but remain below pre-COVID-19 levels, the World Health Organization said Friday, flagging obstacl...",
-            "pubDate": "2025-11-28T15:55:37",
+            "title": "The myth of no frivolous medical lawsuits",
+            "link": "https://kevinmd.com/2025/11/the-myth-of-no-frivolous-medical-lawsuits.html",
+            "description": "“No medical malpractice lawsuit is frivolous,” is the narrative echoed by plaintiff attorneys. Medical malpractice lawsuits are vastly underrepresente...",
+            "pubDate": "2025-11-28T12:00:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Patients are more than participants: What meaningful engagement really looks like—and why it improves health research",
+            "link": "https://medicalxpress.com/news/2025-11-patients-meaningful-engagement-health.html",
+            "description": "When we talk about \"patient engagement\" in research, it can sound like a slogan on a grant application rather than something that changes people's liv...",
+            "pubDate": "2025-11-28T20:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Why metabolism matters in Fanconi anemia: How a rare genetic disorder disrupts energy pathways",
+            "link": "https://medicalxpress.com/news/2025-11-metabolism-fanconi-anemia-rare-genetic.html",
+            "description": "Experts at Cincinnati Children's have uncovered striking metabolic differences in people with Fanconi anemia (FA), a rare genetic disorder that causes...",
+            "pubDate": "2025-11-28T19:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Autonomy and intrinsic sense of control linked to drinking behaviors and alcohol consequences",
+            "link": "https://medicalxpress.com/news/2025-11-autonomy-intrinsic-linked-behaviors-alcohol.html",
+            "description": "Individuals' autonomy and sense of control are associated with the quantity and frequency of their alcohol consumption and its consequences, according...",
+            "pubDate": "2025-11-28T19:02:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "The patient carryover crisis: Why discharge education fails",
+            "link": "https://kevinmd.com/2025/11/the-patient-carryover-crisis-why-discharge-education-fails.html",
+            "description": "I still remember the feeling of relief standing by my uncle’s bedside. The monitors were humming with steady rhythms; the surgical team was congratula...",
+            "pubDate": "2025-11-28T18:00:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "New research shows no increase in proportion of adults in England with autism or psychotic disorders",
+            "link": "https://medicalxpress.com/news/2025-11-proportion-adults-england-autism-psychotic.html",
+            "description": "The Adult Psychiatric Morbidity Survey provides the official statistics on trends over time in autism, psychotic disorder, bipolar disorder, drug and ...",
+            "pubDate": "2025-11-28T23:40:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Why diagnostic error is high in offices",
+            "link": "https://kevinmd.com/2025/11/why-diagnostic-error-is-high-in-offices.html",
+            "description": "The National Academy of Medicine defines diagnostic error as “the failure to (a) establish an accurate and timely explanation of the patient’s health ...",
+            "pubDate": "2025-11-28T16:00:56",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
@@ -68,27 +117,6 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Why Doctors Relocate Globally — And What LATAM Reveals",
-            "link": "https://www.medscape.com/viewarticle/why-doctors-relocate-globally-and-what-latam-reveals-2025a1000xcz?src=rss",
-            "description": "Spain emerged as the top destination for expatriate physicians, attracting 22% of all respondents and nearly two thirds of Latin American doctors. Med...",
-            "pubDate": "2025-11-28T12:01:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Device Screens Predict Craving in Problematic Internet Use",
-            "link": "https://www.medscape.com/viewarticle/device-screens-predict-craving-problematic-internet-use-2025a1000wux?src=rss",
-            "description": "A study finds that highly exposed individuals with risky and pathologic internet use show heightened craving and arousal responses to unavoidable, non...",
-            "pubDate": "2025-11-28T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "New Review Exposes England’s Palliative Care Failures",
-            "link": "https://www.medscape.com/viewarticle/new-review-exposes-englands-palliative-care-failures-2025a1000xd7?src=rss",
-            "description": "A new independent review warns that palliative and end-of-life care in England remains fragmented, underfunded, and uneven, leaving many patients with...",
-            "pubDate": "2025-11-28T13:38:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
             "title": "Comparison of two different bicarbonate replacement fluids during CVVH with RCA: a prospective, randomized, controlled trial",
             "link": "https://www.2minutemedicine.com/comparison-of-two-different-bicarbonate-replacement-fluids-during-cvvh-with-rca-a-prospective-randomized-controlled-trial/",
             "description": "1. Low bicarbonate replacement fluid (LBF) leads to more stable pH and HCO3− compared to high bicarbonate replacement fluid (LBF) during continuous ve...",
@@ -96,39 +124,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/03/icu-intensive-care-3-300x150.jpg"
         },
         {
-            "title": "Why food perfectionism harms parents",
-            "link": "https://kevinmd.com/2025/11/why-food-perfectionism-harms-parents.html",
-            "description": "The recent Atlantic article by Olga Khazan, “Avoiding Ultraprocessed Foods is Completely Unrealistic. Especially if you have kids,” brought a concern ...",
-            "pubDate": "2025-11-27T12:00:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Medical statistics errors: How bad data hurts clinicians",
-            "link": "https://kevinmd.com/2025/11/medical-statistics-errors-how-bad-data-hurts-clinicians.html",
-            "description": "Last winter, a senior nurse in our psychiatric unit told me, “The dashboard says we’re low-risk. But during night shifts, I don’t even feel safe walki...",
-            "pubDate": "2025-11-27T16:00:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "A husband’s story of end-of-life care at home",
-            "link": "https://kevinmd.com/2025/11/a-husbands-story-of-end-of-life-care-at-home.html",
-            "description": "The British tend to use the term “carer” for the people who help other persons with needs. It seems to emphasize its root word, care, with implication...",
-            "pubDate": "2025-11-27T12:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
             "title": "Divorced during residency: a story of clarity",
             "link": "https://kevinmd.com/2025/11/divorced-during-residency-a-story-of-clarity.html",
             "description": "Keeping my head down and working through intern year was all I had known. My days blurred into nights, and my weeks into months. The dreary Pacific No...",
             "pubDate": "2025-11-27T20:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Medicare negotiated lower prices for 15 drugs, including 71% off Ozempic and Wegovy",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/11/26/nx-s1-5621944/medicare-drug-prices-ozempic-and-wegovy",
-            "description": "Medicare announced 15 lower drugs after a second round of negotiations with pharmaceutical companies. The drugs include Ozempic and also drugs to trea...",
-            "pubDate": "2025-11-26T17:58:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F88%2F891796e24b869059ea1c978f3606%2Fgettyimages-2228099453.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Our readers' tales of kindness will surprise you, warm your heart and make you smile",
@@ -136,6 +136,13 @@
             "description": "We invited you to share acts of kindness. The topics include new shoes, a basket of berries that aren't very tasty and an unexpected twist for someone...",
             "pubDate": "2025-11-26T14:25:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2Fdc%2Fc7762a7145bcbc5c007099252690%2Fkindness-day-9.jpg"
+        },
+        {
+            "title": "Medicare negotiated lower prices for 15 drugs, including 71% off Ozempic and Wegovy",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/11/26/nx-s1-5621944/medicare-drug-prices-ozempic-and-wegovy",
+            "description": "Medicare announced 15 lower drugs after a second round of negotiations with pharmaceutical companies. The drugs include Ozempic and also drugs to trea...",
+            "pubDate": "2025-11-26T17:58:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F88%2F891796e24b869059ea1c978f3606%2Fgettyimages-2228099453.jpg"
         },
         {
             "title": "Age-Based Screening for Lung Cancer Surveillance in the US",
@@ -164,13 +171,6 @@
             "description": "1. Prehospital postintubation hypotension after traumatic brain injury (TBI) is common and associated with a significantly increased incidence of mort...",
             "pubDate": "2025-11-25T16:00:11",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/MRI_T2_Brain_axial_image-300x150.jpg"
-        },
-        {
-            "title": "5 things to know about the new obesity pills that are on the way",
-            "link": "https://www.npr.org/2025/11/25/nx-s1-5619816/obesity-pills-wegovy-semaglutide-orforglipron",
-            "description": "Instead of struggling with weekly injections, patients may soon be able to swallow a daily pill to lose weight. Both the makers of Wegovy and Mounjaro...",
-            "pubDate": "2025-11-25T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2397x1251+0+0/resize/2397x1251!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fad%2Fc4ae57344520b6531f0f00e64da9%2Fgettyimages-1134069131.jpg"
         },
         {
             "title": "The American College of Physicians’ Recommendations for Effective Managed Care",
