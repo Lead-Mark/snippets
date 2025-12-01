@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-01T07:12:27.540261",
+    "lastBuildDate": "2025-12-01T11:01:14.524896",
     "items": [
+        {
+            "title": "Brown Sugar Glazed Carrots",
+            "link": "https://therecipecritic.com/glazed-carrots/",
+            "description": "Brown Sugar glazed carrots are that simple side that always gets rave reviews. The brown sugar caramelizes into the best…",
+            "pubDate": "2025-12-01T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2019/03/glazedcarrots.jpg"
+        },
         {
             "title": "Chocolate Peppermint Cookies (Swig Copycat)",
             "link": "https://therecipecritic.com/triple-chocolate-peppermint-cookies/",
@@ -31,13 +38,6 @@
             "description": "If you want a quick, crunchy treat with a bit of holiday mischief, this Grinch Christmas Crack is it. Sweet,…",
             "pubDate": "2025-11-28T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/grinch-fudge-1.jpg"
-        },
-        {
-            "title": "Thanksgiving Casserole",
-            "link": "https://therecipecritic.com/thanksgiving-casserole/",
-            "description": "This Thanksgiving leftover casserole is the best way to enjoy every last bit of your Thanksgiving dinner. I give you…",
-            "pubDate": "2025-11-27T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/leftover-thanksgiving-casserole-.jpg"
         },
         {
             "title": "Thanksgiving Turkey Meatballs",
