@@ -2,14 +2,63 @@
     "title": "Finance",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Finance, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-02T11:00:44.643381",
+    "lastBuildDate": "2025-12-02T15:11:47.874820",
     "items": [
         {
-            "title": "OpenAI’s “Code Red” Shows Timely Competition In Emerging Models",
-            "link": "https://www.forbes.com/sites/johnwerner/2025/12/02/openais-code-red-shows-timely-competition-in-emerging-models/",
-            "description": "Altman sidelines ads and search ambitions to rapidly improve ChatGPT’s speed, reliability, personalization, and honesty.",
-            "pubDate": "2025-12-02T15:27:27",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/692f03bf83657eba260d8bbc/0x0.jpg?width=960"
+            "title": "How Anthropic’s safety first approach won over big business—and how its own engineers are using its Claude AI",
+            "link": "https://fortune.com/2025/12/02/how-anthropics-safety-first-approach-won-over-big-business-and-how-its-own-engineers-are-using-its-claude-ai/",
+            "description": "Anthropic engineers mostly use Claude for debugging, not writing new software, but they worry about deskilling",
+            "pubDate": "2025-12-02T19:30:45",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2235057464-e1764700995708.jpg?w=2048"
+        },
+        {
+            "title": "UN warns about AI becoming another ‘Great Divergence’ between rich and poor countries like the Industrial Revolution",
+            "link": "https://fortune.com/2025/12/02/united-nations-ai-great-divergence-industrial-revolution-rich-poor-countries/",
+            "description": "“We believe we need more balance, less hysteria and hype,” said Philip Schellekens, the UNDP's chief economist for the Asia Pacific.",
+            "pubDate": "2025-12-02T19:39:51",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-642345936-e1764704330563.jpg?w=2048"
+        },
+        {
+            "title": "Exclusive: Billionaire Michele Kang launches $25 million U.S. Soccer institute that promises to transform the future of women’s sports",
+            "link": "https://fortune.com/2025/12/02/michele-kang-institute-us-soccer-womens-sports-emma-hayes-uswnt/",
+            "description": "Women are not just \"small men\"—and Kang's efforts will target everything from treating women's injuries to preventing girls from dropping out of youth...",
+            "pubDate": "2025-12-02T19:00:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2248015042.jpg?w=2048"
+        },
+        {
+            "title": "Costco sues Trump, demanding refunds on tariffs already paid",
+            "link": "https://fortune.com/2025/12/02/costco-sues-trump-demanding-refunds-on-tariffs-already-paid/",
+            "description": "In a complaint with the U.S. Court of International Trade, Costco demanded money back “to ensure that its right to a complete refund is not jeopardize...",
+            "pubDate": "2025-12-02T19:27:32",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25330457908630.jpg?w=2048"
+        },
+        {
+            "title": "How Kalshi’s Cofounder Went From Professional Ballerina To World’s Youngest Self-Made Woman Billionaire",
+            "link": "https://www.forbes.com/sites/aliciapark/2025/12/02/how-kalshis-luana-lopes-lara-cofounder-went-from-professional-ballerina-to-worlds-youngest-self-made-woman-billionaire/",
+            "description": "A former ballerina and MIT computer science grad, 29-year-old Brazilian Luana Lopes Lara is now the world’s youngest self-made woman billionaire.",
+            "pubDate": "2025-12-02T16:56:58",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/692f168472033b737ab5eb7e/0x0.jpg?width=960"
+        },
+        {
+            "title": "Sabrina Carpenter rips ‘evil and disgusting’ White House use of one of her songs in an ICE raid video montage",
+            "link": "https://fortune.com/2025/12/02/sabrina-carpenter-evil-and-disgusting-ice-raid-video-montage-immigration/",
+            "description": "\"Do not ever involve me or my music to benefit your inhumane agenda.”",
+            "pubDate": "2025-12-02T19:30:42",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25336635200598-e1764703797642.jpg?w=2048"
+        },
+        {
+            "title": "Reagan And Koop Confronted AIDS. Trump And RFK Jr Ignore It",
+            "link": "https://www.forbes.com/sites/arthurkellermann/2025/12/02/reagan-and-koop-confronted-aids-trump-and-rfk-jr-ignore-it/",
+            "description": "December 1 was World AIDS Day. For the first time since this global event was established in 1988, the United States government declined to observe it...",
+            "pubDate": "2025-12-02T17:04:25",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/692f1800e455dc47d944b6a2/0x0.jpg?width=960"
+        },
+        {
+            "title": "Here’s Where Drivers Suffer The Worst Traffic Congestion, Data Shows",
+            "link": "https://www.forbes.com/sites/jimgorzelany/2025/12/02/heres-where-drivers-suffer-the-worst-traffic-congestion-data-shows/",
+            "description": "Commuters in several of the nation’s metro areas now endure some of the most crowded highways on the planet.",
+            "pubDate": "2025-12-02T19:38:58",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/692f3e8f457af39b88e6d032/0x0.jpg?width=960"
         },
         {
             "title": "Some Social Security recipients to receive 2 monthly benefit checks in December",
@@ -19,95 +68,53 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/03/social-security-office-1.jpg"
         },
         {
-            "title": "Meet Amar Subramanya, the 46-year-old Google and Microsoft veteran who will now steer Apple’s supremely important AI strategy",
-            "link": "https://fortune.com/2025/12/02/amar-subramanya-apple-ai-veteran-google-microsoft-career-research-education-machine-learning/",
-            "description": "“We are pleased to welcome Amar to Craig’s leadership team and to bring his extraordinary AI expertise to Apple,\" CEO Tim Cook said in a statement.",
-            "pubDate": "2025-12-02T15:21:36",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/Screenshot-2025-12-02-at-100510-AM-e1764688008943.png?w=2048"
+            "title": "Apple Silicon: Key Execs Reveal How The Mac And iPad Were Revitalized",
+            "link": "https://www.forbes.com/sites/davidphelan/2025/12/02/apple-silicon-key-execs-reveal-how-the-mac-and-ipad-were-revitalized/",
+            "description": "The M1 chip transformed the Mac when it launched five years ago. Two key Apple execs talk about how it happened, what it means, and how dark silicon c...",
+            "pubDate": "2025-12-02T18:15:37",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/692f2bde347916e8198d047b/0x0.jpg?width=960"
         },
         {
-            "title": "Inside the economics of Candace Owens’ media empire and the Macron lawsuit threatening to unravel it",
-            "link": "https://fortune.com/2025/12/02/candace-owens-brigitte-macron-lawsuit/",
-            "description": "The French president and first lady have tapped the firm behind Dominion’s $787.5 million win against Fox News to pursue Owens personally and commerci...",
-            "pubDate": "2025-12-02T15:31:58",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1395252155.jpg?w=2048"
+            "title": "FBI Warns Gmail And Outlook Users—Do Not Click On These Emails",
+            "link": "https://www.forbes.com/sites/zakdoffman/2025/12/02/fbi-warns-gmail-and-outlook-users-do-not-click/",
+            "description": "Hackers are stealing millions of dollars — do not become their next victim.",
+            "pubDate": "2025-12-02T19:50:50",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/66abf55129bee43b04a31eef/0x0.jpg?width=960&precrop=1043%2C587%2Cx428%2Cy367"
         },
         {
-            "title": "AI Agents Took Over Giving Tuesday. Here’s What Comes Next.",
-            "link": "https://www.forbes.com/sites/jasonwingard/2025/12/02/ai-agents-took-over-giving-tuesday-heres-what-comes-next/",
-            "description": "Nonprofits leaned on AI agents to survive the Giving Tuesday surge. Leaders say this year marks a turning point in how missions scale.",
-            "pubDate": "2025-12-02T15:43:14",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/692efd2f312855a03584a9df/0x0.jpg?width=960"
-        },
-        {
-            "title": "Gene Editing Or Gene Silencing: The Therapies Poised To Transform Medicine",
-            "link": "https://www.forbes.com/sites/williamhaseltine/2025/12/02/gene-editing-or-gene-silencing-the-therapies-poised-to-transform-medicine/",
-            "description": "Revolutions in gene therapy are rapidly changing the landscape of modern medicine, forcing society and science alike to confront a pivotal question.",
-            "pubDate": "2025-12-02T15:35:00",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69271ed8167ef169b25b6fc5/0x0.jpg?width=960"
-        },
-        {
-            "title": "Nearly half of U.S. truck-driving schools face closure in crackdown on ‘poorly trained drivers’",
-            "link": "https://fortune.com/2025/12/02/truck-schools-face-crackdown-poorly-trained-drivers-cdl/",
-            "description": "The questionable schools were really just “fleecing people out of money” without teaching them the skills they need to get hired or pass the test, tru...",
-            "pubDate": "2025-12-02T14:51:23",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25335707952808-e1764686088567.jpg?w=2048"
-        },
-        {
-            "title": "‘Metroid Prime 4: Beyond’ Switch 2 Review: C’est Vi-O-La",
-            "link": "https://www.forbes.com/sites/games/2025/12/02/metroid-prime-4-beyond-switch-2-review-cest-vi-o-la/",
-            "description": "It’s taken a long time for us to get 'Metroid Prime 4', and the game is certainly excellent, but did it really need to take 8 years?",
-            "pubDate": "2025-12-02T15:01:02",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/692c04ab52c98b5aed09f062/0x0.jpg?width=960"
-        },
-        {
-            "title": "What Is Regenerative Travel? And Who Is Leading The Way In 2026",
-            "link": "https://www.forbes.com/sites/emesemaczko/2025/12/02/what-is-regenerative-travel-and-who-is-leading-the-way-in-2026/",
-            "description": "We often hear that 'regenerative tourism’ is just a flashy new buzzword, or a rebrand of sustainability. But that couldn't be further from the truth.",
-            "pubDate": "2025-12-02T15:33:52",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/692d7b35a0e63a4e7ba9f06b/0x0.jpg?width=960"
-        },
-        {
-            "title": "Jeff Bezos and Lauren Sánchez Bezos commit $102.5 million to organizations combatting homelessness across the U.S.: ‘This is just the beginning’",
-            "link": "https://fortune.com/2025/12/02/jeff-bezos-lauren-sanchez-bezos-donate-102-million-homelessness-us/",
-            "description": "“It’s a $2 billion commitment,” Sánchez Bezos said. “And we’re going to continue doing it.\"",
-            "pubDate": "2025-12-02T15:30:16",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2208757581-e1764689137357.jpg?w=2048"
-        },
-        {
-            "title": "The trade war was never going to fix our deficit",
-            "link": "https://fortune.com/2025/12/02/trade-war-deficit-national-debt-social-security-supreme-court/",
-            "description": "Trump's tariffs won't alter the trajectory of our national debt or entitlements. For the economy's sake, the Supreme Court should end this abuse of po...",
-            "pubDate": "2025-12-02T14:30:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2194921722-e1764610008264.jpg?w=2048"
-        },
-        {
-            "title": "Nvidia’s stock is almost historically cheap — and that’s a good sign for bulls",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9678819b-697f-4a11-a62f-4da5b62f899f&mod=mw_rss_bulletins",
+            "title": "How Tesla managed a sales gain in the all-important China market",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1a2ca9e4-edc8-4c6d-9a25-16bb75098d51&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-12-02T00:08:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Bayer stock sees its best day in 17 years",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=54bbafbe-fff5-4b60-aa48-cbf6d57f2083&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-02T08:58:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Strategy’s stock shows why it’s a trade, and not an investment",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a71a8cde-b2be-402c-a716-375e46c1d812&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-02T00:44:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "pubDate": "2025-12-02T16:32:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Economic calendar: November automobile-sales updates hit Wall Street today",
             "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f9084891-5f07-4b51-96d4-537a775909d2&mod=mw_rss_bulletins",
             "description": "",
             "pubDate": "2025-12-02T13:28:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "How the next Fed chair could turn bonds into a far riskier investment",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8784d01b-3bc3-4bf7-8900-6de526e6a672&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-12-02T19:51:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "A value-oriented fund manager’s 17 dividend-paying stock-market bargains",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d7c2fa7a-ca7d-4db4-8a50-9600062c3feb&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-12-02T17:18:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Who qualifies for the ‘Trump accounts’ for kids?",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d39db40-b341-412d-9c1a-620dca55e464&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-12-02T18:00:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Trump economic advisor Kevin Hassett touts ‘best Black Friday that we've ever seen’ as holiday spending surges",
@@ -124,11 +131,11 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/Elon-Musk-12.jpg"
         },
         {
-            "title": "Apple is making a big shakeup as it looks for an edge in AI",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5ae0b343-f940-4ec7-a41f-507604a06098&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-01T23:08:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "IRS releases guidance for Trump's 'no tax on tips' and overtime deductions: What to know",
+            "link": "https://www.foxbusiness.com/economy/irs-releases-guidance-trumps-no-tax-tips-overtime-deductions-what-know",
+            "description": "The IRS released new guidance for no tax on tips and overtime deductions under the One Big Beautiful Bill Act. Eligible workers can claim up to $25,00...",
+            "pubDate": "2025-11-28T14:35:54",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/tip-jar-on-counter.jpg"
         },
         {
             "title": "Homebuyers score record discounts as sellers slash prices nationwide",
@@ -138,18 +145,11 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/home-buying-couple-getty.jpg"
         },
         {
-            "title": "IRS releases guidance for Trump's 'no tax on tips' and overtime deductions: What to know",
-            "link": "https://www.foxbusiness.com/economy/irs-releases-guidance-trumps-no-tax-tips-overtime-deductions-what-know",
-            "description": "The IRS released new guidance for no tax on tips and overtime deductions under the One Big Beautiful Bill Act. Eligible workers can claim up to $25,00...",
-            "pubDate": "2025-11-28T14:35:54",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/tip-jar-on-counter.jpg"
-        },
-        {
             "title": "What to Know About China's DeepSeek AI",
             "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
             "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
             "pubDate": "2025-01-27T18:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Tech, Media & Telecom Roundup: Market Talk",
@@ -163,21 +163,21 @@
             "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
             "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
             "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
             "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
             "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
             "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
             "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
             "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
             "pubDate": "2025-01-26T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
