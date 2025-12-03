@@ -2,26 +2,12 @@
     "title": "Health",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Health, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-03T08:05:00.607276",
+    "lastBuildDate": "2025-12-03T11:00:59.699783",
     "items": [
-        {
-            "title": "Caffeine Myths vs. Facts: What’s Actually True?",
-            "link": "https://www.webmd.com/diet/caffeine-myths-and-facts",
-            "description": "",
-            "pubDate": "2025-12-03T07:10:25",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/best_and_worst_foods_for_your_liver_slideshow/1800ss_getty_rf_coffee_cup.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "8 Tips to Help Lower Your Blood Pressure",
-            "link": "https://www.webmd.com/heart/control-blood-pressure",
-            "description": "High blood pressure often develops without clear symptoms. Find out which daily habits may support healthier numbers and learn practical steps you can...",
-            "pubDate": "2025-12-03T07:10:25",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/everyday-habits-that-double-as-migraine-prevention-slideshow/1800ss-getty-rf-saying-no-to-red-wine-alcohol.jpg?resize=484px:*&output-quality=70"
-        },
         {
             "title": "50 years after the birth of special education, some fear for its future under Trump",
             "link": "https://www.npr.org/2025/12/03/nx-s1-5591152/trump-special-education-disabilties-schools",
-            "description": "The Trump administration has fired, or tried to fire, many of the federal staff who manage and enforce federal disability law in schools.",
+            "description": "The Trump administration has fired, or tried to fire, many of the federal staff members who manage and enforce federal disability law in schools.",
             "pubDate": "2025-12-03T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2Feb%2F4283fc2b4e978d3be22153a2f1c0%2Fnpr-idea-anniv-2025-promo.jpg"
         },
@@ -40,6 +26,13 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3300x2200+0+0/resize/3300x2200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F30%2F3b44528548e9b0a6b6465917fff4%2Frfk-hep-b.jpg"
         },
         {
+            "title": "Caffeine Myths vs. Facts: What’s Actually True?",
+            "link": "https://www.webmd.com/diet/caffeine-myths-and-facts",
+            "description": "",
+            "pubDate": "2025-12-03T07:10:25",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/best_and_worst_foods_for_your_liver_slideshow/1800ss_getty_rf_coffee_cup.jpg?resize=484px:*&output-quality=70"
+        },
+        {
             "title": "How to Spot Potential Love-Bombing Behaviors",
             "link": "https://www.webmd.com/sex-relationships/what-is-love-bombing",
             "description": "",
@@ -47,18 +40,25 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/tips_for_caring_for_yourself_with_pnh_slideshow/1800ss_getty_rf_man_and_woman_being_intimate.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "The Largest Metabolomics Study Ever Just Pointed To A New Future In Medicine",
-            "link": "https://www.mindbodygreen.com/articles/this-new-500000-person-study-could-change-how-we-predict-disease",
-            "description": "Welcome to the future of personalized medicine",
-            "pubDate": "2025-12-03T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "8 Tips to Help Lower Your Blood Pressure",
+            "link": "https://www.webmd.com/heart/control-blood-pressure",
+            "description": "High blood pressure often develops without clear symptoms. Find out which daily habits may support healthier numbers and learn practical steps you can...",
+            "pubDate": "2025-12-03T07:10:25",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/everyday-habits-that-double-as-migraine-prevention-slideshow/1800ss-getty-rf-saying-no-to-red-wine-alcohol.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "This Is The Best Way To Use Hyaluronic Acid To Secure Dewy Skin*",
             "link": "https://www.mindbodygreen.com/articles/why-you-should-use-hyaluronic-acid-internally-and-topically-what-more-about-it",
             "description": "It's more than a serum.",
             "pubDate": "2025-12-03T10:10:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "The Largest Metabolomics Study Ever Just Pointed To A New Future In Medicine",
+            "link": "https://www.mindbodygreen.com/articles/this-new-500000-person-study-could-change-how-we-predict-disease",
+            "description": "Welcome to the future of personalized medicine",
+            "pubDate": "2025-12-03T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "A short social media detox improves mental health, a study shows. Here's how to do it",
@@ -72,14 +72,14 @@
             "link": "https://www.mindbodygreen.com/articles/new-balance-fuelcell-supercomp-elite-review",
             "description": "And yes, they're carbon plated.",
             "pubDate": "2025-12-02T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "The Non-Toxic Mattress That Made My Sleep Quality Skyrocket Is $1,500 Off",
             "link": "https://www.mindbodygreen.com/articles/plushbeds-cyber-week-sale-2025",
             "description": "And it's $1,500 off.",
             "pubDate": "2025-12-02T11:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "The Two-Ingredient Morning Ritual That Put An End To My 11 A.M. Energy Crash*",
