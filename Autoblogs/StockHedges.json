@@ -2,42 +2,49 @@
     "title": "StockHedges",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from StockHedges, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-03T07:16:15.481743",
+    "lastBuildDate": "2025-12-03T08:05:37.661377",
     "items": [
         {
-            "title": "Dow Jones Futures Rise As American Eagle, Marvell Jump On Earnings; Stock Market Nears Highs",
-            "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-crowdstrike-american-eagle-earnings/?src=A00220&yptr=yahoo",
+            "title": "Here’s Why EQT Corporation (EQT) Fell in Q3",
+            "link": "https://finance.yahoo.com/news/why-eqt-corporation-eqt-fell-125015551.html",
             "description": "",
-            "pubDate": "2025-12-03T11:52:22",
-            "image_url": "https://media.zenfs.com/en/ibd.com/b714dfe0e5edbdb84f7d5ba181f05b52"
+            "pubDate": "2025-12-03T12:50:15",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/337d25bbec9881ada7d5fd1785eb1e7a"
         },
         {
-            "title": "Morning Bid: Just a blip for risk assets, more Fed pain for the dollar",
-            "link": "https://finance.yahoo.com/news/morning-bid-just-blip-risk-113647947.html",
+            "title": "Earnings live: Macy's stock falls after reporting Q3 profit, American Eagle and Marvell surge",
+            "link": "https://finance.yahoo.com/news/live/earnings-live-macys-stock-falls-after-reporting-q3-profit-american-eagle-and-marvell-surge-125618899.html",
             "description": "",
-            "pubDate": "2025-12-03T11:36:47",
-            "image_url": "https://media.zenfs.com/en/reuters.com/964f0ff1c580ff8b0230a115aca98c08"
+            "pubDate": "2025-12-03T12:56:18",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-12/3826d5d0-d047-11f0-9f7d-8f72e563620e"
         },
         {
-            "title": "Bobcat files patent lawsuits against Caterpillar over construction machinery tech",
-            "link": "https://finance.yahoo.com/news/bobcat-files-patent-lawsuits-against-120225571.html",
+            "title": "Cybersecurity Firm CrowdStrike's Earnings, Revenue Edge By Estimates",
+            "link": "https://www.investors.com/news/technology/crowdstrike-stock-crwd-crowdstrike-earnings-q32025/?src=A00220&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-12-03T12:02:25",
-            "image_url": "https://media.zenfs.com/en/world_construction_network_914/984c771e8bf33ee29a2248bd6d2fdf65"
+            "pubDate": "2025-12-03T12:50:38",
+            "image_url": "https://media.zenfs.com/en/ibd.com/3fd4e0ae05191a5e18ae7f4701795c8f"
         },
         {
-            "title": "Santander to sell around a 3.5% stake in Polish unit for $473m",
-            "link": "https://finance.yahoo.com/news/santander-sell-around-3-5-115254099.html",
+            "title": "Creative Planning acquires US registered investment advisor Burt Wealth",
+            "link": "https://finance.yahoo.com/news/creative-planning-acquires-us-registered-125553110.html",
             "description": "",
-            "pubDate": "2025-12-03T11:52:54",
-            "image_url": "https://media.zenfs.com/en/retail_banker_international_407/772489310b7c8dce4b1ace1bd4784553"
+            "pubDate": "2025-12-03T12:55:53",
+            "image_url": "https://media.zenfs.com/en/private_banker_international_938/0f2853624a993119b5d832bdffd53ecb"
         },
         {
-            "title": "Barrick completes Tongon gold mine divestiture in Côte d’Ivoire",
-            "link": "https://finance.yahoo.com/news/barrick-completes-tongon-gold-mine-115959165.html",
+            "title": "Here’s What Boosted Celestica (CLS) in Q3",
+            "link": "https://finance.yahoo.com/news/boosted-celestica-cls-q3-124906097.html",
             "description": "",
-            "pubDate": "2025-12-03T11:59:59",
-            "image_url": "https://media.zenfs.com/en/mining_technology_700/81d5e70c269b12161ff094198e148ea4"
+            "pubDate": "2025-12-03T12:49:06",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/2d30f5d4f85bbc8bd0e5095b4a8877b4"
+        },
+        {
+            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
+            "pubDate": "2025-01-27T19:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
@@ -51,28 +58,21 @@
             "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
             "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
             "pubDate": "2025-01-27T19:01:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
-            "pubDate": "2025-01-27T19:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "DeepSeek Won't Sink U.S. AI Titans",
             "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
             "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
             "pubDate": "2025-01-27T18:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Financial Services Roundup: Market Talk",
             "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
             "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
             "pubDate": "2025-01-27T17:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }
