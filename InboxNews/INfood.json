@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-04T07:21:27.176940",
+    "lastBuildDate": "2025-12-04T11:01:07.137890",
     "items": [
+        {
+            "title": "Air Fryer Brown Sugar Brussels Sprouts",
+            "link": "https://therecipecritic.com/brown-sugar-brussels-sprouts/",
+            "description": "If you don’t normally love Brussels sprouts, this version might surprise you. The air fryer makes these brown sugar Brussels…",
+            "pubDate": "2025-12-04T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/air-fryer-brussels-sprouts-.jpg"
+        },
         {
             "title": "Christmas Ribbon Salad",
             "link": "https://therecipecritic.com/christmas-ribbon-salad/",
@@ -31,13 +38,6 @@
             "description": "Brown Sugar glazed carrots are that simple side that always gets rave reviews. The brown sugar caramelizes into the best…",
             "pubDate": "2025-12-01T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/glazed-carrots-1-2.jpg"
-        },
-        {
-            "title": "Chocolate Peppermint Cookies (Swig Copycat)",
-            "link": "https://therecipecritic.com/triple-chocolate-peppermint-cookies/",
-            "description": "I took one bite of Swig’s chocolate peppermint cookies and knew I had to tweak mine. I landed on the…",
-            "pubDate": "2025-11-30T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/triple-chocolate-cookies-.jpg"
         },
         {
             "title": "Thanksgiving Turkey Meatballs",
