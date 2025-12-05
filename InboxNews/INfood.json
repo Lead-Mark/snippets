@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-05T06:57:17.837652",
+    "lastBuildDate": "2025-12-05T11:01:26.417942",
     "items": [
+        {
+            "title": "Almond Joy Magic Bars",
+            "link": "https://therecipecritic.com/almond-joy-magic-bars/",
+            "description": "If you love coconut, chocolate, and almonds, these Almond Joy magic bars are the perfect mix. They’re gooey in the…",
+            "pubDate": "2025-12-05T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/almond-joy-magic-bars.jpg"
+        },
         {
             "title": "Air Fryer Brown Sugar Brussels Sprouts",
             "link": "https://therecipecritic.com/brown-sugar-brussels-sprouts/",
@@ -31,13 +38,6 @@
             "description": "Consider this your cinnamon roll home base. Recipes are organized by skill level, from quick beginner rolls to overnight bakery-style…",
             "pubDate": "2025-12-02T01:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2021/04/overnightcinnamonrolls4.jpg"
-        },
-        {
-            "title": "Brown Sugar Glazed Carrots",
-            "link": "https://therecipecritic.com/glazed-carrots/",
-            "description": "Brown Sugar glazed carrots are that simple side that always gets rave reviews. The brown sugar caramelizes into the best…",
-            "pubDate": "2025-12-01T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/glazed-carrots-1-2.jpg"
         },
         {
             "title": "Thanksgiving Turkey Meatballs",
