@@ -2,8 +2,15 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-06T11:25:14.191406",
+    "lastBuildDate": "2025-12-07T00:48:56.158163",
     "items": [
+        {
+            "title": "7 deaths and hundreds of injuries are linked to faulty Abbott glucose monitors",
+            "link": "https://www.npr.org/2025/12/06/g-s1-101082/abbott-glucose-monitor-deaths-recall-freestyle-libre",
+            "description": "About 3 million glucose monitoring sensors were potentially affected by a production error that caused incorrect low glucose readings.",
+            "pubDate": "2025-12-06T17:26:13",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2449x1633+0+0/resize/2449x1633!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F70%2F9c8aa8644e5aafc44e39ecea0fb2%2Fgettyimages-2249261565.jpg"
+        },
         {
             "title": "Efficacy of standard care versus acoustic therapy on acute tinnitus in idiopathic sudden sensorineural hearing loss: a randomized controlled trial",
             "link": "https://www.2minutemedicine.com/efficacy-of-standard-care-versus-acoustic-therapy-on-acute-tinnitus-in-idiopathic-sudden-sensorineural-hearing-loss-a-randomized-controlled-trial/",
@@ -12,25 +19,18 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/02/earcrease_CC_wiki_MedChaos_edited-300x150.jpg"
         },
         {
-            "title": "Nerve blocks and IV prochlorperazine now top recommendations for migraine relief in ERs",
-            "link": "https://medicalxpress.com/news/2025-12-nerve-blocks-iv-prochlorperazine-migraine.html",
-            "description": "A new study by Phoenix's Barrow Neurological Institute and the University of Calgary has found which injectable treatments showed the most benefit for...",
-            "pubDate": "2025-12-06T14:57:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "A pediatrician’s medical service in war and peace",
+            "link": "https://kevinmd.com/2025/12/a-pediatricians-medical-service-in-war-and-peace.html",
+            "description": "I was the expectant team leader at Minot, the one designated to survive “a little longer than the others” if nuclear war came. My role was not glamoro...",
+            "pubDate": "2025-12-06T18:00:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Virtual nursing programs fall short: Most nurses see little workload relief",
-            "link": "https://medicalxpress.com/news/2025-12-virtual-nursing-fall-short-nurses.html",
-            "description": "Hospitals struggling to attract and retain enough registered nurses at the bedside are implementing alternative strategies to ensure patients get need...",
-            "pubDate": "2025-12-06T15:13:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Quitting smoking completely is best way to protect your health, study shows",
-            "link": "https://medicalxpress.com/news/2025-12-health.html",
-            "description": "New research from Johns Hopkins Medicine adds to existing evidence that smoking fewer cigarettes does not eliminate cardiovascular disease risk, and q...",
-            "pubDate": "2025-12-06T15:10:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "How an AI medical scribe saved my practice",
+            "link": "https://kevinmd.com/2025/12/how-an-ai-medical-scribe-saved-my-practice.html",
+            "description": "When I wrote my first novel last year, I grappled with the ethical implications of using a large language model to guide my writing process (one I hav...",
+            "pubDate": "2025-12-06T16:00:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "A lawyer’s essential checklist for physician side hustles [PODCAST]",
@@ -40,6 +40,13 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
+            "title": "Antibody therapy eradicates traces of multiple myeloma in preliminary trial",
+            "link": "https://medicalxpress.com/news/2025-12-antibody-therapy-eradicates-multiple-myeloma.html",
+            "description": "Treatment with an immune and cancer cell-targeting antibody therapy eradicates residual traces of the blood cell cancer multiple myeloma, according to...",
+            "pubDate": "2025-12-06T19:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
             "title": "From AI to wearables: WHO outlines global plan for digital health tools",
             "link": "https://medicalxpress.com/news/2025-12-ai-wearables-outlines-global-digital.html",
             "description": "Make way for digital health. Smart watches and health apps aren't just for fitness enthusiasts and people with access to advanced care—the World Healt...",
@@ -47,18 +54,39 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "AI uncovers how DNA architecture failures trigger blood cancer",
-            "link": "https://medicalxpress.com/news/2025-12-ai-uncovers-dna-architecture-failures.html",
-            "description": "Cancer isn't just about broken genes—it's about broken architecture. Imagine a city where roads suddenly vanish, cutting off neighborhoods from essent...",
-            "pubDate": "2025-12-06T14:50:01",
+            "title": "Targeted alpha therapy using astatine shows promise in thyroid cancer resistant to conventional treatment",
+            "link": "https://medicalxpress.com/news/2025-12-alpha-therapy-astatine-thyroid-cancer.html",
+            "description": "A new targeted alpha therapy is showing promise for patients whose thyroid cancer no longer responds to radioactive iodine, the standard beta-emitting...",
+            "pubDate": "2025-12-06T17:10:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Study maps how psilocybin reshapes brain circuits linked to depression",
+            "link": "https://medicalxpress.com/news/2025-12-psilocybin-reshapes-brain-circuits-linked.html",
+            "description": "An international collaboration led by Cornell researchers used a combination of psilocybin and the rabies virus to map how—and where—the psychedelic c...",
+            "pubDate": "2025-12-06T20:40:58",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "For the first time this century, child deaths under age 5 will likely rise. Why?",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100881/child-mortality-aid-cuts",
-            "description": "A dramatic drop in mortality for youngsters under age 5 has been one of the great accomplishments in global health. But estimates suggest that in 2025...",
-            "pubDate": "2025-12-05T18:12:55",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2Fb0%2F86205a984d55b2e4f71a40ec99e1%2Fgettyimages-2161538732.jpg"
+            "title": "Physician boundaries: When compassion causes harm",
+            "link": "https://kevinmd.com/2025/12/physician-boundaries-when-compassion-causes-harm.html",
+            "description": "I used to believe that being a good physician meant being generous, flexible, and willing to bend the rules if it helped a patient. I don’t believe th...",
+            "pubDate": "2025-12-06T14:00:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Rural health care access: Japan vs. U.S.",
+            "link": "https://kevinmd.com/2025/12/rural-health-care-access-japan-vs-u-s.html",
+            "description": "In Japan’s far north, Hokkaido stretches across mountains, forests, and endless snow. For months each year, the landscape turns white, and travel slow...",
+            "pubDate": "2025-12-06T12:00:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Virtual nursing programs fall short: Most nurses see little workload relief",
+            "link": "https://medicalxpress.com/news/2025-12-virtual-nursing-fall-short-nurses.html",
+            "description": "Hospitals struggling to attract and retain enough registered nurses at the bedside are implementing alternative strategies to ensure patients get need...",
+            "pubDate": "2025-12-06T15:13:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "HHS changed the name of transgender health leader on her official portrait",
@@ -68,11 +96,18 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2F10%2Fd9c7b0644ff4b86d44b4f59285ff%2F20241220-npr-admirallevine-0020.JPG"
         },
         {
-            "title": "CDC advisers vote to overturn decades-long policy on hepatitis B vaccine for infants",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting",
-            "description": "In a controversial move, the vaccine advisory group reversed a recommendations for universal immunizing of newborns intended to protect them from a vi...",
-            "pubDate": "2025-12-05T16:20:06",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F20%2Fc6cedca44999942b75593540d8b1%2Fgettyimages-2249286698.jpg"
+            "title": "Opioid overdose associated with concomitant use of hydrocodone and selective serotonin reuptake inhibitors",
+            "link": "https://www.2minutemedicine.com/opioid-overdose-associated-with-concomitant-use-of-hydrocodone-and-selective-serotonin-reuptake-inhibitors/",
+            "description": "1. Sertraline appears to be the safest selective serotonin reuptake inhibitor (SSRI) option for patients taking hydrocodone because it is associated w...",
+            "pubDate": "2025-12-05T00:00:10",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/12/2mm-opioid-300x150.jpg"
+        },
+        {
+            "title": "For the first time this century, child deaths under age 5 will likely rise. Why?",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100881/child-mortality-aid-cuts",
+            "description": "A dramatic drop in mortality for youngsters under age 5 has been one of the great accomplishments in global health. But estimates suggest that in 2025...",
+            "pubDate": "2025-12-05T18:12:55",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2Fb0%2F86205a984d55b2e4f71a40ec99e1%2Fgettyimages-2161538732.jpg"
         },
         {
             "title": "A recap of the two-day meeting of vaccine advisers to the CDC",
@@ -82,24 +117,17 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5629213"
         },
         {
-            "title": "Has hope survived the war? We asked Israelis and Palestinians we spoke to in 2023",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/12/05/g-s1-100428/gaza-israel-hamas-war-ceasefire-peace-compassion",
-            "description": "In 2023, we interviewed them to see how the Israel-Hamas war was affecting their ability to feel compassion and empathy. In the wake of the ceasefire ...",
-            "pubDate": "2025-12-05T13:00:49",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1798x1000+0+0/resize/1798x1000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2Fb2%2F71c75a7a4d658b50c21d446adf7e%2Fgaza-triptych2.jpg"
+            "title": "CDC advisers vote to overturn decades-long policy on hepatitis B vaccine for infants",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting",
+            "description": "In a controversial move, the vaccine advisory group reversed a recommendations for universal immunizing of newborns intended to protect them from a vi...",
+            "pubDate": "2025-12-05T16:20:06",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F20%2Fc6cedca44999942b75593540d8b1%2Fgettyimages-2249286698.jpg"
         },
         {
-            "title": "Opioid overdose associated with concomitant use of hydrocodone and selective serotonin reuptake inhibitors",
-            "link": "https://www.2minutemedicine.com/opioid-overdose-associated-with-concomitant-use-of-hydrocodone-and-selective-serotonin-reuptake-inhibitors/",
-            "description": "1. Sertraline appears to be the safest selective serotonin reuptake inhibitor (SSRI) option for patients taking hydrocodone because it is associated w...",
-            "pubDate": "2025-12-05T00:00:10",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/12/2mm-opioid-300x150.jpg"
-        },
-        {
-            "title": "ACIP Backs ‘Shared Decision-Making’ on Hep B Vax Birth Dose",
-            "link": "https://www.medscape.com/viewarticle/acip-votes-delay-and-shared-decision-making-hep-b-vaccine-2025a1000y6b?src=rss",
-            "description": "A majority of the panel approved language that curtails and delays the current universal recommendation. Medscape Medical News",
-            "pubDate": "2025-12-05T19:00:56",
+            "title": "Patchy Oversight Leaves GPs Adrift in AI ‘Wild West’",
+            "link": "https://www.medscape.com/viewarticle/patchy-oversight-leaves-gps-adrift-ai-wild-west-2025a1000y65?src=rss",
+            "description": "GPs are adopting artificial intelligence tools at pace, but the RCGP warns that patchy guidance, weak regulation, and safety concerns are leaving clin...",
+            "pubDate": "2025-12-05T18:22:53",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
@@ -107,7 +135,7 @@
             "link": "https://www.medscape.com/viewarticle/fda-okays-car-t-cell-therapy-marginal-zone-lymphoma-2025a1000y5g?src=rss",
             "description": "Liso-cel now has five approved indications, the most of any CD19-targeted CAR T-cell therapy. Medscape Medical News",
             "pubDate": "2025-12-05T16:22:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "SBRT vs Standard RT: Which Offers a QoL Edge in NSCLC?",
@@ -117,46 +145,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "The devaluation of physicians in health care",
-            "link": "https://kevinmd.com/2025/12/the-devaluation-of-physicians-in-health-care.html",
-            "description": "It is remarkable that treatises, white papers, editorials, and articles on the cost of health care are consistent with ignoring the essence of care, a...",
-            "pubDate": "2025-12-05T20:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "ACIP Backs ‘Shared Decision-Making’ on Hep B Vax Birth Dose",
+            "link": "https://www.medscape.com/viewarticle/acip-votes-delay-and-shared-decision-making-hep-b-vaccine-2025a1000y6b?src=rss",
+            "description": "A majority of the panel approved language that curtails and delays the current universal recommendation. Medscape Medical News",
+            "pubDate": "2025-12-05T19:00:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Fellowship Match Day: How Did Rheumatology Fare?",
             "link": "https://www.medscape.com/viewarticle/fellowship-match-day-how-did-rheumatology-fare-2025a1000y6p?src=rss",
             "description": "The results of the 2025 Medicine and Pediatric Specialties Match followed the same patterns seen in recent years for both adult and pediatric rheumato...",
             "pubDate": "2025-12-05T21:29:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Medicare payment is failing rural health",
-            "link": "https://kevinmd.com/2025/12/medicare-payment-is-failing-rural-health.html",
-            "description": "Ten years ago, I quit my job and started a solo office-based practice in rural Washington. I serve patients like Mr. G, an elderly gentleman who drove...",
-            "pubDate": "2025-12-05T17:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "When TV shows use food allergy as murder",
-            "link": "https://kevinmd.com/2025/12/when-tv-shows-use-food-allergy-as-murder.html",
-            "description": "As the holiday season approaches, many people look forward to gatherings, travel, and celebrations centered around food. For those living with food al...",
-            "pubDate": "2025-12-05T22:00:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Patchy Oversight Leaves GPs Adrift in AI ‘Wild West’",
-            "link": "https://www.medscape.com/viewarticle/patchy-oversight-leaves-gps-adrift-ai-wild-west-2025a1000y65?src=rss",
-            "description": "GPs are adopting artificial intelligence tools at pace, but the RCGP warns that patchy guidance, weak regulation, and safety concerns are leaving clin...",
-            "pubDate": "2025-12-05T18:22:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Institutional inbreeding in developmental-behavioral pediatrics",
-            "link": "https://kevinmd.com/2025/12/institutional-inbreeding-in-developmental-behavioral-pediatrics.html",
-            "description": "Developmental-behavioral pediatrics (DBP) was once defined by giants, leaders who authored textbooks, set standards, and gave the specialty a clear id...",
-            "pubDate": "2025-12-05T18:00:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Analysis of arrhythmia and its risk factors in patients with COVID-19",
