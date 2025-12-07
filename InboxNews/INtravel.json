@@ -2,28 +2,21 @@
     "title": "INtravel",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INtravel, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-07T00:48:08.252081",
+    "lastBuildDate": "2025-12-07T11:02:43.298375",
     "items": [
+        {
+            "title": "The next Oneworld alliance airline? Canada's Porter Airlines says it would be 'obvious' choice",
+            "link": "https://thepointsguy.com/news/porter-airlines-ponders-oneworld-alliance/",
+            "description": "Canada's Porter Airlines opened the door to a possible shift to the Oneworld alliance. It's already partners with American Airlines and Alaska Airline...",
+            "pubDate": "2025-12-07T14:00:13",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/porter-airlines-miami.jpg"
+        },
         {
             "title": "Are you overpaying? 9 ways to minimize credit card surcharges",
             "link": "https://thepointsguy.com/credit-cards/how-to-minimize-credit-card-surcharges/",
             "description": "Credit card surcharges are rising, but you can avoid unnecessary fees. Learn nine smart strategies to minimize surcharges and protect your credit card...",
             "pubDate": "2025-12-06T16:00:17",
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/04/Person-making-contactless-payment-at-cafe-with-credit-card_Olga-Pankova.jpg"
-        },
-        {
-            "title": "Delta CEO: Airlines trying to 'copy us' as flyers embrace upscale seat options",
-            "link": "https://thepointsguy.com/news/american-delta-airlines-premium-demand-2026/",
-            "description": "Executives at American Airlines and Delta Air Lines see big payoffs from their premium investments in 2026.",
-            "pubDate": "2025-12-06T14:00:30",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/delta-new-interior-delta-one-suite-wide.jpeg"
-        },
-        {
-            "title": "Air France extends its La Premiere network to Atlanta, Boston and Houston",
-            "link": "https://thepointsguy.com/news/air-france-extends-la-premiere-network-atlanta-boston-houston/",
-            "description": "Air France will expand its ultra-luxurious La Premiere cabin to three new cities in the U.S. next year: Atlanta, Boston and Houston.",
-            "pubDate": "2025-12-06T18:00:44",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/04/20240408_Air-France-La-Premiere_NKelvin-38.jpg"
         },
         {
             "title": "10 luxury hotels that go all-out for the holidays",
@@ -33,11 +26,18 @@
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2021/11/Chicago_Initiatives_Festive_The-Lobby-Christmas-Tree.jpg"
         },
         {
-            "title": "Want World Cup 2026 tickets? These Bank of America cards can help you score them",
-            "link": "https://thepointsguy.com/news/world-cup-2026-tickets-bank-of-america/",
-            "description": "Bank of America is offering select new cardholders exclusive access to buy World Cup 2026 tickets. Learn how the promo works and which card is best fo...",
-            "pubDate": "2025-12-05T22:16:46",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/09/FIFA-World-Cup-Trophy-on-display-during-the-official-Trophy-Tour-around-FIFA-2026-World-Cup-host-cities-in-New-York-City_Mike-Stobe-FIFAFIFA-via-Getty-Images.jpg"
+            "title": "Air France extends its La Premiere network to Atlanta, Boston and Houston",
+            "link": "https://thepointsguy.com/news/air-france-extends-la-premiere-network-atlanta-boston-houston/",
+            "description": "Air France will expand its ultra-luxurious La Premiere cabin to three new cities in the U.S. next year: Atlanta, Boston and Houston.",
+            "pubDate": "2025-12-06T18:00:44",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/04/20240408_Air-France-La-Premiere_NKelvin-38.jpg"
+        },
+        {
+            "title": "Delta CEO: Airlines trying to 'copy us' as flyers embrace upscale seat options",
+            "link": "https://thepointsguy.com/news/american-delta-airlines-premium-demand-2026/",
+            "description": "Executives at American Airlines and Delta Air Lines see big payoffs from their premium investments in 2026.",
+            "pubDate": "2025-12-06T14:00:30",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/delta-new-interior-delta-one-suite-wide.jpeg"
         }
     ]
 }
