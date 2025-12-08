@@ -2,8 +2,29 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-07T11:02:57.303318",
+    "lastBuildDate": "2025-12-08T07:21:23.232622",
     "items": [
+        {
+            "title": "Antioch raises pre-seed funding to accelerate AI robotics testing",
+            "link": "https://www.therobotreport.com/antioch-raises-pre-seed-funding-accelerate-ai-robotics-testing/",
+            "description": "Antioch says its platform allows robots to be tested in virtual environments without the expense and time of other methods. The post Antioch raises pr...",
+            "pubDate": "2025-12-08T11:00:10",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Antioch_founders.jpg"
+        },
+        {
+            "title": "4 technologies that didn’t make our 2026 breakthroughs list",
+            "link": "https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/",
+            "description": "If you’re a longtime reader, you probably know that our newsroom selects 10 breakthroughs every year that we think will define the future. This group ...",
+            "pubDate": "2025-12-08T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Why AI coding agents aren’t production-ready: Brittle context windows, broken refactors, missing operational awareness",
+            "link": "https://venturebeat.com/ai/why-ai-coding-agents-arent-production-ready-brittle-context-windows-broken",
+            "description": "Remember this Quora comment (which also became a meme)? (Source: Quora ) In the pre-large language model (LLM) Stack Overflow era, the challenge was d...",
+            "pubDate": "2025-12-07T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/57iOC9GySM11PZVim8VPJd/8dc8208b48161a7b58f9b78b4c4e53e1/DDM-AI_agents_at_work.png?w=300&q=30"
+        },
         {
             "title": "ARM Institute issues final project call for defense systems",
             "link": "https://www.therobotreport.com/arm-institute-issues-final-project-call-defense-systems/",
@@ -26,6 +47,13 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/mk02-hyundaimotorgroup-featured.jpg"
         },
         {
+            "title": "The ads that sell the sizzle of genetic trait discrimination",
+            "link": "https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/",
+            "description": "One day this fall, I watched an electronic sign outside the Broadway-Lafayette subway station in Manhattan switch seamlessly between an ad for makeup ...",
+            "pubDate": "2025-12-05T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/IMG_2257.jpg?w=1681"
+        },
+        {
             "title": "Civ Robotics provides CivNav AI navigation for solar construction systems",
             "link": "https://www.therobotreport.com/civ-robotics-provides-civnav-ai-navigation-solar-construction-systems/",
             "description": "CivNav works with AI, existing equipment, and Civ Robotics' CivDot robots to efficiently place materials in construction sites. The post Civ Robotics ...",
@@ -33,25 +61,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Civ_Robotics_Civ_Nav_Image_3-copy.jpg"
         },
         {
+            "title": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
+            "link": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
+            "description": "Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, b...",
+            "pubDate": "2025-12-05T13:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4cm8F6jnq7mT7NhyXWA1qQ/119d505338624d93ce9134238ebe73d3/Denialism.png?w=300&q=30"
+        },
+        {
             "title": "The Download: political chatbot persuasion, and gene editing adverts",
             "link": "https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI chatbots ...",
             "pubDate": "2025-12-05T13:10:00",
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f6e9.png"
-        },
-        {
-            "title": "Melonee Wise to lead KUKA’s new software and AI organization",
-            "link": "https://www.therobotreport.com/melonee-wise-leads-kuka-new-software-ai-organization/",
-            "description": "Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots. The post Melonee Wise to lead KUKA’...",
-            "pubDate": "2025-12-05T16:58:56",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/melonee-wise-featured.jpg"
-        },
-        {
-            "title": "The ads that sell the sizzle of genetic trait discrimination",
-            "link": "https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/",
-            "description": "One day this fall, I watched an electronic sign outside the Broadway-Lafayette subway station in Manhattan switch seamlessly between an ad for makeup ...",
-            "pubDate": "2025-12-05T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/IMG_2257.jpg?w=1681"
         },
         {
             "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
@@ -65,21 +86,28 @@
             "link": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
             "description": "In January 2024, the phone rang in homes all around New Hampshire. On the other end was Joe Biden’s voice, urging Democrats to “save your vote” by ski...",
             "pubDate": "2025-12-05T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "AI chatbots can sway voters better than political advertisements",
-            "link": "https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/",
-            "description": "In 2024, a Democratic congressional candidate in Pennsylvania, Shamaine Daniels, used an AI chatbot named Ashley to call voters and carry on conversat...",
-            "pubDate": "2025-12-04T19:54:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Gong study: Sales teams using AI generate 77% more revenue per rep",
+            "link": "https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep",
+            "description": "The debate over whether AI belongs in the corporate boardroom appears to be over — at least for those responsible for generating revenue. Seven in 10 ...",
+            "pubDate": "2025-12-04T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3CmdSFZEYAQv4H7nhojmdb/b1b80ea16c7d7fd8777d247741c4e75b/nuneybits_Vector_art_of_boardroom_table_overlaid_teal_data_07098080-0b63-47c3-8f02-5c9fdbf1e5fc.webp?w=300&q=30"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "The 'truth serum' for AI: OpenAI’s new method for training models to confess their mistakes",
+            "link": "https://venturebeat.com/ai/the-truth-serum-for-ai-openais-new-method-for-training-models-to-confess",
+            "description": "OpenAI researchers have introduced a novel method that acts as a \"truth serum\" for large language models (LLMs), compelling them to self-report their ...",
+            "pubDate": "2025-12-04T23:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3Cr8qlWOHQWFuY1M5Z7sib/b1bad43fa7debaf698f5455f5ffcee1a/LLM_confessions.jpg?w=300&q=30"
+        },
+        {
+            "title": "AWS launches Kiro powers with Stripe, Figma, and Datadog integrations for AI-assisted coding",
+            "link": "https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai",
+            "description": "Amazon Web Services (AWS) has introduced Kiro powers , a system that allows software developers to give their AI coding assistants instant, specialize...",
+            "pubDate": "2025-12-04T14:02:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/53TbLNDfKawmAd8kGfw7ce/17400e5e49710944890e2a6b69cf04f8/nuneybits_Vector_art_of_a_server_rack_in_the_clouds_bf8ba787-9002-494b-b6be-fedd40deb4f9.webp?w=300&q=30"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -94,6 +122,13 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
