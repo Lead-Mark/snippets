@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-09T07:03:52.477136",
+    "lastBuildDate": "2025-12-09T11:01:10.199051",
     "items": [
+        {
+            "title": "Instant Pot Lobster",
+            "link": "https://therecipecritic.com/instant-pot-lobster/",
+            "description": "Instant pot lobster is the easiest way to bring a little luxury to your dinner table, no boiling pots or…",
+            "pubDate": "2025-12-09T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/01/instant-pot-lobster-.jpg"
+        },
         {
             "title": "Tahini Hot Chocolate (Super Dreamy, Protein-Rich!)",
             "link": "https://minimalistbaker.com/tahini-hot-chocolate/",
@@ -26,13 +33,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/christmas-breakfast-casserole.jpg"
         },
         {
-            "title": "Splurge or Save? Recipes for Any Budget",
-            "link": "https://therecipecritic.com/splurge-or-save-recipes-for-any-budget/",
-            "description": "Cooking dinner can feel expensive fast, so I put together a “Splurge or Save” menu that lets you build the…",
-            "pubDate": "2025-12-06T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2020/12/airfryergarlicbuttersteakbites.jpg"
-        },
-        {
             "title": "Insanely Delicious Prime Rib Recipe",
             "link": "https://therecipecritic.com/prime_rib_recipe/",
             "description": "I have the perfect fool proof prime rib recipe for you. I have done all of the testing so that…",
@@ -40,11 +40,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/prime-rib-.jpg"
         },
         {
-            "title": "Almond Joy Magic Bars",
-            "link": "https://therecipecritic.com/almond-joy-magic-bars/",
-            "description": "If you love coconut, chocolate, and almonds, these Almond Joy magic bars are the perfect mix. They’re gooey in the…",
-            "pubDate": "2025-12-05T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/almond-joy-magic-bars.jpg"
+            "title": "Splurge or Save? Recipes for Any Budget",
+            "link": "https://therecipecritic.com/splurge-or-save-recipes-for-any-budget/",
+            "description": "Cooking dinner can feel expensive fast, so I put together a “Splurge or Save” menu that lets you build the…",
+            "pubDate": "2025-12-06T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2020/12/airfryergarlicbuttersteakbites.jpg"
         },
         {
             "title": "Thanksgiving Turkey Meatballs",

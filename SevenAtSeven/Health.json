@@ -2,21 +2,21 @@
     "title": "Health",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Health, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-09T07:03:25.624298",
+    "lastBuildDate": "2025-12-09T11:00:42.887208",
     "items": [
-        {
-            "title": "After NIH grant cuts, breast cancer research at Harvard slowed, and lab workers left",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/12/09/nx-s1-5630892/nih-nci-breast-cancer-research-harvard-joan-brugge",
-            "description": "Amid NIH funding delays, reversals and uncertainty, a scientist at Harvard who studies breast cancer has lost one-third of her lab employees and wonde...",
-            "pubDate": "2025-12-09T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F12%2F76%2Fd74a90e34613bb0a395b8a70a0ce%2F0821-brugge-1.jpg"
-        },
         {
             "title": "Why Your Body Needs Vitamin B12",
             "link": "https://www.webmd.com/diet/vitamin-b12-deficiency-symptoms-causes",
             "description": "Vitamin B12 powers your nerves, blood cells, and energy. Learn why it matters, how to get enough, and what happens when levels run low.",
             "pubDate": "2025-12-09T07:00:31",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/woman-brushing-her-beautiful-hair-other/1800x1200-woman-brushing-her-beautiful-hair-other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "After NIH grant cuts, breast cancer research at Harvard slowed, and lab workers left",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/12/09/nx-s1-5630892/nih-nci-breast-cancer-research-harvard-joan-brugge",
+            "description": "Amid NIH funding delays, reversals and uncertainty, a scientist at Harvard who studies breast cancer has lost one-third of her lab employees and wonde...",
+            "pubDate": "2025-12-09T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F12%2F76%2Fd74a90e34613bb0a395b8a70a0ce%2F0821-brugge-1.jpg"
         },
         {
             "title": "10 Foods Linked to a More Youthful Look",
@@ -33,32 +33,39 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/migraine-stress-relievers-for-women-over-45-slideshow/1800ss-getty-rf-breathing-deeply-for-stress-relief.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Is Constant Self Improvement Getting In The Way Of Our Parenting?",
-            "link": "https://www.mindbodygreen.com/articles/is-constant-self-improvement-getting-in-way-of-our-parenting",
-            "description": "Many parents are stuck in a constant self-improvement cycle—and may be losing sight of who they are and what they authentically know.",
-            "pubDate": "2025-12-09T00:04:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "This Sleep Problem Can Age Your Brain Up To 2 Years, Study Finds",
+            "link": "https://www.mindbodygreen.com/articles/you-brain-can-age-2-years-in-24-hours-if-you-do-this-study-says-sleep-deprivation",
+            "description": "Here's how to get back to baseline.",
+            "pubDate": "2025-12-09T11:24:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "If You Rely On This To Poop, You May Be At Greater Risk Of Dementia",
-            "link": "https://www.mindbodygreen.com/articles/if-you-rely-on-this-to-poop-you-may-be-at-risk-of-dementia-if-you-rely-on-this-to-poop",
-            "description": "Here are safer ways to get things moving fast.",
-            "pubDate": "2025-12-09T10:08:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Before The Year Ends, Close It Out With This Simple Self-Love Reset",
+            "link": "https://www.mindbodygreen.com/articles/self-love-reset",
+            "description": "This time calls for a personal reset.",
+            "pubDate": "2025-12-09T10:38:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Alzheimer’s-Like Changes Seen In Young Adults — This Metabolic Marker Drives It",
-            "link": "https://www.mindbodygreen.com/articles/early-metabolic-stress-may-prime-brain-for-cognitive-decline",
-            "description": "Your 20s and 30s are setting the stage for your future brain health",
-            "pubDate": "2025-12-09T10:01:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Use These 3 Spices To Make Your Food Anti-Inflammatory & Better For Blood Sugar",
+            "link": "https://www.mindbodygreen.com/articles/these-3-spices-boast-potent-metabolic-benefits-study-shows-turmeric-helps-with-blood-lipids",
+            "description": "Flavor & healthy benefits? Yes, please!",
+            "pubDate": "2025-12-09T10:47:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Republicans push high deductible plans and health savings accounts",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/12/08/nx-s1-5629249/hsa-high-deductible-health-plan",
-            "description": "A Republican call to give Americans cash instead of health insurance subsidies revives an old idea that has left millions with medical debt.",
-            "pubDate": "2025-12-08T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2F9a%2Ffb76f9794a9a8745aa3f39db1215%2Fgettyimages-2235954612.jpg"
+            "title": "Your Brain Relies On This Vitamin To Produce Dopamine, Study Shows",
+            "link": "https://www.mindbodygreen.com/articles/how-vitamin-d-regulates-role-of-dopamine-in-brain-cells-gretchen-lidicker-ms",
+            "description": "Considering 40% of Americans are insufficient, getting enough vitamin D is more important than ever.",
+            "pubDate": "2025-12-09T10:33:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "If You Have Orange Peel Skin, You'll Want To Start Doing This Daily",
+            "link": "https://www.mindbodygreen.com/articles/how-taking-collagen-can-help-with-orange-peel-skin-to-improve-my-skin",
+            "description": "It's difficult to improve—but not impossible.",
+            "pubDate": "2025-12-09T11:12:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Does one drink make you dizzy? Why alcohol hits us harder as we age",
@@ -68,18 +75,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2F82%2Ff14620544049911c675bd374c09c%2Fgettyimages-1070607646.jpg"
         },
         {
-            "title": "5 Antioxidants That Fight Free Radicals & Reduce Cancer Risk",
-            "link": "https://www.mindbodygreen.com/articles/these-antioxidants-help-fight-free-radicals-and-prevent-cancer-vitamin-a",
-            "description": "Up your intake of these antioxidants ASAP!",
-            "pubDate": "2025-12-08T18:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Feeling Overwhelmed? This Nutrient Improves Your HRV & Reduces Anxiety",
-            "link": "https://www.mindbodygreen.com/articles/omega-3s-help-reduce-anxiety-by-stimulating-vagus-nerve-how-to-increase-your-omega-3-intake",
-            "description": "Breathwork is great, but have you tried eating more fish?",
-            "pubDate": "2025-12-08T17:22:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Republicans push high deductible plans and health savings accounts",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/12/08/nx-s1-5629249/hsa-high-deductible-health-plan",
+            "description": "A Republican call to give Americans cash instead of health insurance subsidies revives an old idea that has left millions with medical debt.",
+            "pubDate": "2025-12-08T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2F9a%2Ffb76f9794a9a8745aa3f39db1215%2Fgettyimages-2235954612.jpg"
         },
         {
             "title": "As Congress fights over ACA subsidies, another path emerges",
