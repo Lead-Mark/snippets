@@ -2,14 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-08T16:17:09.338219",
+    "lastBuildDate": "2025-12-09T07:04:01.255283",
     "items": [
         {
-            "title": "From combat to space: Foundation Robotics’ Mike LeBlanc talks humanoids",
-            "link": "https://www.therobotreport.com/from-combat-space-foundation-mike-leblanc-humanoid-robotics/",
-            "description": "Mike LeBlanc, co-founder of Foundation Robotics and a U.S. Marine Corps veteran, shares insights from his entrepreneurial journey. The post From comba...",
-            "pubDate": "2025-12-08T19:08:45",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/MikeLeBlancHeadshot-300x300.jpeg"
+            "title": "Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning",
+            "link": "https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for",
+            "description": "Chinese AI startup Zhipu AI aka Z.ai has released its GLM-4.6V series , a new generation of open-source vision-language models (VLMs) optimized for mu...",
+            "pubDate": "2025-12-09T01:03:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/c8LjxKPtjJumRUwmgig3W/3ceb88204d1ec334f3ce3719b80793eb/6Ud5A3f_99gyh14m2ffZr.jpg?w=300&q=30"
         },
         {
             "title": "Anthropic's Claude Code can now read your Slack messages and write code for you",
@@ -17,34 +17,6 @@
             "description": "Anthropic on Monday launched a beta integration that connects its fast-growing Claude Code programming agent directly to Slack , allowing software eng...",
             "pubDate": "2025-12-08T19:00:00",
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/667OUCJyzh5TAzDpX4UQDa/d1b772df47ef4e01e6450e1bb9979970/nuneybits_Vector_art_of_code-filled_speech_bubble_in_burnt_oran_78f6bff7-7863-4363-bcad-892c8f7cf2f7.webp?w=300&q=30"
-        },
-        {
-            "title": "igus designs ReBeLMove modular mobile robot, new energy chain",
-            "link": "https://www.therobotreport.com/igus-designs-rebelmove-modular-mobile-robot-new-energy-chain/",
-            "description": "igus continues its drive for efficiency with a customizable AMR, the E1 one-piece energy chain, and expanded U.S. production. The post igus designs Re...",
-            "pubDate": "2025-12-08T18:22:45",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/RebelMovePro.jpg"
-        },
-        {
-            "title": "Antioch raises pre-seed funding to accelerate AI robotics testing",
-            "link": "https://www.therobotreport.com/antioch-raises-pre-seed-funding-accelerate-ai-robotics-testing/",
-            "description": "Antioch says its platform allows robots to be tested in virtual environments without the expense and time of other methods. The post Antioch raises pr...",
-            "pubDate": "2025-12-08T11:00:10",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Antioch_founders.jpg"
-        },
-        {
-            "title": "Design in the age of AI: How small businesses are building big brands faster",
-            "link": "https://venturebeat.com/ai/design-in-the-age-of-ai-how-small-businesses-are-building-big-brands-faster",
-            "description": "Presented by Design.com For most of history, design was the last step in starting a business — something entrepreneurs invested in once the idea was p...",
-            "pubDate": "2025-12-08T08:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5vOHZEQlNQsMRQBrdSXMLg/f701adc6486654954fb4b6b456792ccc/AdobeStock_1562823709.jpeg?w=300&q=30"
-        },
-        {
-            "title": "Booking.com’s agent strategy: Disciplined, modular and already delivering 2× accuracy",
-            "link": "https://venturebeat.com/ai/booking-coms-agent-strategy-disciplined-modular-and-already-delivering-2",
-            "description": "When many enterprises weren’t even thinking about agentic behaviors or infrastructures, Booking.com had already “stumbled” into them with its homegrow...",
-            "pubDate": "2025-12-08T15:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2t04hE5kMFifED9FQ12PcA/86ec4e3895472b25edb77273488d1c7a/Booking.png?w=300&q=30"
         },
         {
             "title": "The Download: four (still) big breakthroughs, and how our bodies fare in extreme heat",
@@ -61,11 +33,46 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/4c1e48f3-a8d9-fed3-bfeb-c686add0bb5d.png?w=1200"
         },
         {
+            "title": "Booking.com’s agent strategy: Disciplined, modular and already delivering 2× accuracy",
+            "link": "https://venturebeat.com/ai/booking-coms-agent-strategy-disciplined-modular-and-already-delivering-2",
+            "description": "When many enterprises weren’t even thinking about agentic behaviors or infrastructures, Booking.com had already “stumbled” into them with its homegrow...",
+            "pubDate": "2025-12-08T15:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2t04hE5kMFifED9FQ12PcA/86ec4e3895472b25edb77273488d1c7a/Booking.png?w=300&q=30"
+        },
+        {
+            "title": "Design in the age of AI: How small businesses are building big brands faster",
+            "link": "https://venturebeat.com/ai/design-in-the-age-of-ai-how-small-businesses-are-building-big-brands-faster",
+            "description": "Presented by Design.com For most of history, design was the last step in starting a business — something entrepreneurs invested in once the idea was p...",
+            "pubDate": "2025-12-08T08:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5vOHZEQlNQsMRQBrdSXMLg/f701adc6486654954fb4b6b456792ccc/AdobeStock_1562823709.jpeg?w=300&q=30"
+        },
+        {
+            "title": "igus designs ReBeLMove modular mobile robot, new energy chain",
+            "link": "https://www.therobotreport.com/igus-designs-rebelmove-modular-mobile-robot-new-energy-chain/",
+            "description": "igus continues its drive for efficiency with a customizable AMR, the E1 one-piece energy chain, and expanded U.S. production. The post igus designs Re...",
+            "pubDate": "2025-12-08T18:22:45",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/RebelMovePro.jpg"
+        },
+        {
+            "title": "From combat to space: Foundation Robotics’ Mike LeBlanc talks humanoids",
+            "link": "https://www.therobotreport.com/from-combat-space-foundation-mike-leblanc-humanoid-robotics/",
+            "description": "Mike LeBlanc, co-founder of Foundation Robotics and a U.S. Marine Corps veteran, shares insights from his entrepreneurial journey. The post From comba...",
+            "pubDate": "2025-12-08T19:08:45",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/MikeLeBlancHeadshot-300x300.jpeg"
+        },
+        {
+            "title": "Antioch raises pre-seed funding to accelerate AI robotics testing",
+            "link": "https://www.therobotreport.com/antioch-raises-pre-seed-funding-accelerate-ai-robotics-testing/",
+            "description": "Antioch says its platform allows robots to be tested in virtual environments without the expense and time of other methods. The post Antioch raises pr...",
+            "pubDate": "2025-12-08T11:00:10",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Antioch_founders.jpg"
+        },
+        {
             "title": "4 technologies that didn’t make our 2026 breakthroughs list",
             "link": "https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/",
             "description": "If you’re a longtime reader, you probably know that our newsroom selects 10 breakthroughs every year that we think will define the future. This group ...",
             "pubDate": "2025-12-08T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "ARM Institute issues final project call for defense systems",
@@ -89,25 +96,25 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Thermal_camera_0-copy.jpg"
         },
         {
-            "title": "The Download: political chatbot persuasion, and gene editing adverts",
+            "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
+            "link": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
+            "description": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting ...",
+            "pubDate": "2025-12-05T15:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Concentrix-social-card-v2.png"
+        },
+        {
+            "title": "The Download: political chatbot persuasion, and genetic optimization adverts",
             "link": "https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI chatbots ...",
             "pubDate": "2025-12-05T13:10:00",
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f6e9.png"
         },
         {
-            "title": "AI denial is becoming an enterprise risk: Why dismissing “slop” obscures real capability gains",
-            "link": "https://venturebeat.com/ai/ai-denial-is-becoming-an-enterprise-risk-why-dismissing-slop-obscures-real",
-            "description": "Three years ago, ChatGPT was born. It amazed the world and ignited unprecedented investment and excitement in AI. Today, ChatGPT is still a toddler, b...",
-            "pubDate": "2025-12-05T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4cm8F6jnq7mT7NhyXWA1qQ/119d505338624d93ce9134238ebe73d3/Denialism.png?w=300&q=30"
-        },
-        {
-            "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-            "link": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
-            "description": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting ...",
-            "pubDate": "2025-12-05T15:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Concentrix-social-card-v2.png"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -122,13 +129,6 @@
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
