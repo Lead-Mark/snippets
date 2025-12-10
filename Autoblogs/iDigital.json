@@ -2,8 +2,50 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-09T16:41:19.483128",
+    "lastBuildDate": "2025-12-10T07:24:12.884086",
     "items": [
+        {
+            "title": "How one controversial startup hopes to cool the planet",
+            "link": "https://www.technologyreview.com/2025/12/10/1129079/how-one-controversial-startup-hopes-to-cool-the-planet/",
+            "description": "Stardust Solutions believes that it can solve climate change—for a price. The Israel-based geoengineering startup has said it expects nations will soo...",
+            "pubDate": "2025-12-10T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Yanai-Amyad-Stardust-Labs-and-Offices-pic-9.jpg?w=2048"
+        },
+        {
+            "title": "Securing VMware workloads in regulated industries",
+            "link": "https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/",
+            "description": "At a regional hospital, a cardiac patient’s lab results sit behind layers of encryption, accessible to his surgeon but shielded from those without str...",
+            "pubDate": "2025-12-10T10:11:19",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Rapidscale-Landing-Page-Card-1.png"
+        },
+        {
+            "title": "The AI that scored 95% — until consultants learned it was AI",
+            "link": "https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-was-ai",
+            "description": "Presented by SAP When SAP ran a quiet internal experiment to gauge consultant attitudes toward AI, the results were striking. Five teams were asked to...",
+            "pubDate": "2025-12-10T15:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7IoiYyTs0K9D4WfYDzJvhy/2cd15991676cc0648bffb25178642417/AdobeStock_571280209_Preview.jpeg?w=300&q=30"
+        },
+        {
+            "title": "Skana Robotics unveils Alligator autonomous amphibious vessel",
+            "link": "https://www.therobotreport.com/skana-robotics-unveils-alligator-autonomous-amphibious-vessel/",
+            "description": "The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land. The post Skana Robotics...",
+            "pubDate": "2025-12-09T13:20:51",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Skana-Alligator-Image-featured.jpg"
+        },
+        {
+            "title": "The Download: a peek at AI’s future",
+            "link": "https://www.technologyreview.com/2025/12/09/1129029/the-download-a-peek-at-ais-future/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The State of...",
+            "pubDate": "2025-12-09T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f453.png"
+        },
+        {
+            "title": "Brand-context AI: The missing requirement for marketing AI",
+            "link": "https://venturebeat.com/ai/brand-context-ai-the-missing-requirement-for-marketing-ai",
+            "description": "Presented by BlueOcean AI has become a central part of how marketing teams work, but the results often fall short. Models can generate content at scal...",
+            "pubDate": "2025-12-09T08:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/14MrK6yiPQLN3SznWaBOl4/9e3ba1a69b409e0c085c7de1dcea47e2/AdobeStock_438714181.jpeg?w=300&q=30"
+        },
         {
             "title": "Waymo recalls robotaxi software after school bus safety failures",
             "link": "https://www.therobotreport.com/waaymo-recalls-robotaxi-software-after-school-bus-safety-failures/",
@@ -19,13 +61,6 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5h08IT02qEnf15d2nC66XM/808f775396da3b120a6c20c72b759776/G-V5j_tz9IkXATIrqK6cF.png?w=300&q=30"
         },
         {
-            "title": "Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning",
-            "link": "https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for",
-            "description": "Chinese AI startup Zhipu AI aka Z.ai has released its GLM-4.6V series , a new generation of open-source vision-language models (VLMs) optimized for mu...",
-            "pubDate": "2025-12-09T01:03:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/c8LjxKPtjJumRUwmgig3W/3ceb88204d1ec334f3ce3719b80793eb/6Ud5A3f_99gyh14m2ffZr.jpg?w=300&q=30"
-        },
-        {
             "title": "Tracking every decision, dollar and delay: The new process intelligence engine driving public-sector progress",
             "link": "https://venturebeat.com/ai/tracking-every-decision-dollar-and-delay-the-new-process-intelligence-engine",
             "description": "Presented by Celonis The State of Oklahoma discovered its blind spots the hard way. In April 2023, a legislative report revealed its agencies had spen...",
@@ -33,18 +68,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/23oNXRNgKBLbHuQlKDjPbP/736c1c4212c55997871975219bea29ae/AdobeStock_1070394941.jpeg?w=300&q=30"
         },
         {
-            "title": "Brand-context AI: The missing requirement for marketing AI",
-            "link": "https://venturebeat.com/ai/brand-context-ai-the-missing-requirement-for-marketing-ai",
-            "description": "Presented by BlueOcean AI has become a central part of how marketing teams work, but the results often fall short. Models can generate content at scal...",
-            "pubDate": "2025-12-09T08:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/14MrK6yiPQLN3SznWaBOl4/9e3ba1a69b409e0c085c7de1dcea47e2/AdobeStock_438714181.jpeg?w=300&q=30"
-        },
-        {
-            "title": "The Download: a peek at AI’s future",
-            "link": "https://www.technologyreview.com/2025/12/09/1129029/the-download-a-peek-at-ais-future/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The State of...",
-            "pubDate": "2025-12-09T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f453.png"
+            "title": "Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning",
+            "link": "https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for",
+            "description": "Chinese AI startup Zhipu AI aka Z.ai has released its GLM-4.6V series , a new generation of open-source vision-language models (VLMs) optimized for mu...",
+            "pubDate": "2025-12-09T01:03:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/c8LjxKPtjJumRUwmgig3W/3ceb88204d1ec334f3ce3719b80793eb/6Ud5A3f_99gyh14m2ffZr.jpg?w=300&q=30"
         },
         {
             "title": "Programmable optics pioneer Lumotive opens new centers in Oman and Taiwan",
@@ -52,27 +80,6 @@
             "description": "Lumotive has expanded with new leaders and new sites worldwide, meeting surging demand for its programmable optics platform. The post Programmable opt...",
             "pubDate": "2025-12-09T14:00:06",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/lumotive-lcm-featured.jpg"
-        },
-        {
-            "title": "Skana Robotics unveils Alligator autonomous amphibious vessel",
-            "link": "https://www.therobotreport.com/skana-robotics-unveils-alligator-autonomous-amphibious-vessel/",
-            "description": "The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land. The post Skana Robotics...",
-            "pubDate": "2025-12-09T13:20:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Skana-Alligator-Image-featured.jpg"
-        },
-        {
-            "title": "Anthropic's Claude Code can now read your Slack messages and write code for you",
-            "link": "https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for",
-            "description": "Anthropic has launched a beta integration that connects its fast-growing Claude Code programming agent directly into Slack , allowing software enginee...",
-            "pubDate": "2025-12-08T19:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/667OUCJyzh5TAzDpX4UQDa/d1b772df47ef4e01e6450e1bb9979970/nuneybits_Vector_art_of_code-filled_speech_bubble_in_burnt_oran_78f6bff7-7863-4363-bcad-892c8f7cf2f7.webp?w=300&q=30"
-        },
-        {
-            "title": "The Download: four (still) big breakthroughs, and how our bodies fare in extreme heat",
-            "link": "https://www.technologyreview.com/2025/12/08/1128982/the-download-four-still-big-breakthroughs-and-how-our-bodies-fare-in-extreme-heat/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 4 technologi...",
-            "pubDate": "2025-12-08T13:14:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f58a.png"
         },
         {
             "title": "From combat to space: Foundation Robotics’ Mike LeBlanc talks humanoids",
@@ -89,25 +96,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/RebelMovePro.jpg"
         },
         {
+            "title": "The Download: four (still) big breakthroughs, and how our bodies fare in extreme heat",
+            "link": "https://www.technologyreview.com/2025/12/08/1128982/the-download-four-still-big-breakthroughs-and-how-our-bodies-fare-in-extreme-heat/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 4 technologi...",
+            "pubDate": "2025-12-08T13:14:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f58a.png"
+        },
+        {
             "title": "The State of AI: A vision of the world in 2030",
             "link": "https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/",
             "description": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publicatio...",
             "pubDate": "2025-12-08T16:30:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/4c1e48f3-a8d9-fed3-bfeb-c686add0bb5d.png?w=1200"
-        },
-        {
-            "title": "4 technologies that didn’t make our 2026 breakthroughs list",
-            "link": "https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/",
-            "description": "If you’re a longtime reader, you probably know that our newsroom selects 10 breakthroughs every year that we think will define the future. This group ...",
-            "pubDate": "2025-12-08T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-            "link": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
-            "description": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting ...",
-            "pubDate": "2025-12-05T15:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Concentrix-social-card-v2.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -117,13 +117,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -143,6 +136,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
