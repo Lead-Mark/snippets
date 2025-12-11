@@ -2,14 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-10T11:01:23.424350",
+    "lastBuildDate": "2025-12-11T07:19:53.618743",
     "items": [
         {
-            "title": "The Download: a controversial proposal to solve climate change, and our future grids",
-            "link": "https://www.technologyreview.com/2025/12/10/1129186/the-download-a-controversial-proposal-to-solve-climate-change-and-our-future-grids/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How one cont...",
-            "pubDate": "2025-12-10T13:14:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9ca.png"
+            "title": "Creating a glass box: How NetSuite is engineering trust into AI",
+            "link": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai",
+            "description": "Presented by Oracle NetSuite When any company tells you it is their biggest product release in almost three decades, it’s worth listening. When the pe...",
+            "pubDate": "2025-12-11T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6ouXpzYvtEUpMqztfoRe7u/c8be75d5f24ee25abb8f25c45358796a/AdobeStock_1708529298.jpeg?w=300&q=30"
+        },
+        {
+            "title": "Solar geoengineering startups are getting serious",
+            "link": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
+            "description": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in ...",
+            "pubDate": "2025-12-11T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The 70% factuality ceiling: why Google’s new ‘FACTS’ benchmark is a wake-up call for enterprise AI",
+            "link": "https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call",
+            "description": "There's no shortage of generative AI benchmarks designed to measure the performance and accuracy of a given model on completing various helpful enterp...",
+            "pubDate": "2025-12-10T23:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1P96HBSOE22cfl5djgDueT/df9398cb8f464a8f6519d964da86026c/mRfmh7TAQtPYv7mwcN551.png?w=300&q=30"
         },
         {
             "title": "How one controversial startup hopes to cool the planet",
@@ -19,18 +33,53 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Yanai-Amyad-Stardust-Labs-and-Offices-pic-9.jpg?w=2048"
         },
         {
-            "title": "Securing VMware workloads in regulated industries",
-            "link": "https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/",
-            "description": "At a regional hospital, a cardiac patient’s lab results sit behind layers of encryption, accessible to his surgeon but shielded from those without str...",
-            "pubDate": "2025-12-10T10:11:19",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Rapidscale-Landing-Page-Card-1.png"
-        },
-        {
             "title": "Digit humanoid joins Mercado Libre warehouse",
             "link": "https://www.therobotreport.com/agility-mercado-libre-embargoed/",
             "description": "Partnership will integrate Digit robots into fulfillment operations beginning in Texas, with future expansion capabilities for Latin America. The post...",
             "pubDate": "2025-12-10T12:59:39",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/RSE26_LinkedInEVENT_STD_Vs1.jpg"
+        },
+        {
+            "title": "The AI that scored 95% — until consultants learned it was AI",
+            "link": "https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-was-ai",
+            "description": "Presented by SAP When SAP ran a quiet internal experiment to gauge consultant attitudes toward AI, the results were striking. Five teams were asked to...",
+            "pubDate": "2025-12-10T15:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7IoiYyTs0K9D4WfYDzJvhy/f6bb93584c65f055662926cf6ed9d467/AdobeStock_571280209.jpeg?w=300&q=30"
+        },
+        {
+            "title": "OpenAI report reveals a 6x productivity gap between AI power users and everyone else",
+            "link": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and",
+            "description": "The tools are available to everyone. The subscription is company-wide. The training sessions have been held. And yet, in offices from Wall Street to S...",
+            "pubDate": "2025-12-10T14:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2bLHfbnsHmBo88bpiWCXw9/e35290d2729e57b19a3bfff2cb96f47f/nuneybits_purple_gradient_sky_with_city_lights_in_dots_pattern__7c85a503-0251-4c67-9ddc-4341ea63314b.webp?w=300&q=30"
+        },
+        {
+            "title": "MMI earns FDA clearance for robotic soft tissue dissection tools",
+            "link": "https://www.therobotreport.com/mmi-earns-fda-clearance-for-robotic-soft-tissue-dissection-tools/",
+            "description": "MMI’s dissection instruments are some of the smallest fully wristed robotic instruments designed for dissection in open microsurgery. The post MMI ear...",
+            "pubDate": "2025-12-10T16:11:09",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/NanoWrist-Instrument-Portfolio-1-featured-e1765382906106.jpg"
+        },
+        {
+            "title": "The Download: a controversial proposal to solve climate change, and our future grids",
+            "link": "https://www.technologyreview.com/2025/12/10/1129186/the-download-a-controversial-proposal-to-solve-climate-change-and-our-future-grids/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How one cont...",
+            "pubDate": "2025-12-10T13:14:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9ca.png"
+        },
+        {
+            "title": "From iCub to humanoids: Generative Bionics raises $81M",
+            "link": "https://www.therobotreport.com/from-icub-to-humanoids-generative-bionics-raises-81m/",
+            "description": "Generative Bionics plans to unveil its first humanoid robot, built for production environments, at CES in Las Vegas. The post From iCub to humanoids: ...",
+            "pubDate": "2025-12-10T18:53:56",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Daniele_Pucci-generativebionics-featured.jpg"
+        },
+        {
+            "title": "Securing VMware workloads in regulated industries",
+            "link": "https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/",
+            "description": "At a regional hospital, a cardiac patient’s lab results sit behind layers of encryption, accessible to his surgeon but shielded from those without str...",
+            "pubDate": "2025-12-10T10:11:19",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Rapidscale-Landing-Page-Card-1.png"
         },
         {
             "title": "Inbolt provides vision guidance in real time for new bin-picking system",
@@ -40,18 +89,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Inbolt-usine-Stellantis-Caen-Adrien-Boscher-Videaste-photographe-caen-8.jpg"
         },
         {
-            "title": "Exclusive eBook: Aging Clocks & Understanding Why We Age",
-            "link": "https://www.technologyreview.com/2025/12/10/1128999/exclusive-ebook-aging-clocks-understanding-why-we-age/",
-            "description": "In this exclusive subscriber-only ebook, you’ll learn about a new method that scientists have uncovered to look at the ways our bodies are aging. by J...",
-            "pubDate": "2025-12-10T15:08:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "How Hud's runtime sensor cut triage time from 3 hours to 10 minutes",
+            "link": "https://venturebeat.com/ai/how-huds-runtime-sensor-cut-triage-time-from-3-hours-to-10-minutes",
+            "description": "Engineering teams are generating more code with AI agents than ever before. But they're hitting a wall when that code reaches production. The problem ...",
+            "pubDate": "2025-12-10T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5OFBMkrEKqvqYY0hbPYaoF/e31f8e8b39af32f6197a402b42f96136/hud-code-dev-smk.jpg?w=300&q=30"
         },
         {
-            "title": "The Download: a peek at AI’s future",
-            "link": "https://www.technologyreview.com/2025/12/09/1129029/the-download-a-peek-at-ais-future/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The State of...",
-            "pubDate": "2025-12-09T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f453.png"
+            "title": "Exclusive eBook: Aging Clocks & Understanding Why We Age",
+            "link": "https://www.technologyreview.com/2025/12/10/1128999/exclusive-ebook-aging-clocks-understanding-why-we-age/",
+            "description": "In this exclusive subscriber-only eBook, you’ll learn about a new method that scientists have uncovered to look at the ways our bodies are aging. by J...",
+            "pubDate": "2025-12-10T15:08:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Waymo recalls robotaxi software after school bus safety failures",
@@ -61,18 +110,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/waymo-school-buses-1024x580.jpg"
         },
         {
-            "title": "Skana Robotics unveils Alligator autonomous amphibious vessel",
-            "link": "https://www.therobotreport.com/skana-robotics-unveils-alligator-autonomous-amphibious-vessel/",
-            "description": "The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land. The post Skana Robotics...",
-            "pubDate": "2025-12-09T13:20:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Skana-Alligator-Image-featured.jpg"
-        },
-        {
-            "title": "Programmable optics pioneer Lumotive opens new centers in Oman and Taiwan",
-            "link": "https://www.therobotreport.com/programmable-optics-pioneer-lumotive-opens-centers-oman-taiwan/",
-            "description": "Lumotive has expanded with new leaders and new sites worldwide, meeting surging demand for its programmable optics platform. The post Programmable opt...",
-            "pubDate": "2025-12-09T14:00:06",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/lumotive-lcm-featured.jpg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -82,13 +124,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -96,18 +131,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
             "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
