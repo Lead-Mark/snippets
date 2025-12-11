@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-11T07:19:43.201759",
+    "lastBuildDate": "2025-12-11T11:01:04.038022",
     "items": [
+        {
+            "title": "Creamy Chicken Alfredo Soup",
+            "link": "https://therecipecritic.com/creamy-chicken-alfredo-soup/",
+            "description": "You guys are obsessed with my homemade alfredo sauce. So I had to make this creamy, cheesy chicken Alfredo soup!…",
+            "pubDate": "2025-12-11T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/chicken-alfredo-soup-hero.jpg"
+        },
         {
             "title": "Zuppa Toscana Casserole",
             "link": "https://therecipecritic.com/zuppa-toscana-casserole/",
@@ -38,13 +45,6 @@
             "description": "Wake up to a breakfast that feels like a warm hug! This Christmas morning casserole turns sausage, eggs, cheese, and…",
             "pubDate": "2025-12-07T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/christmas-breakfast-casserole.jpg"
-        },
-        {
-            "title": "Insanely Delicious Prime Rib Recipe",
-            "link": "https://therecipecritic.com/prime_rib_recipe/",
-            "description": "I have the perfect fool proof prime rib recipe for you. I have done all of the testing so that…",
-            "pubDate": "2025-12-06T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/10/prime-rib-.jpg"
         },
         {
             "title": "Thanksgiving Turkey Meatballs",
