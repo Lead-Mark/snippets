@@ -2,14 +2,28 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-11T11:00:04.652801",
+    "lastBuildDate": "2025-12-11T16:06:33.972852",
     "items": [
+        {
+            "title": "How Women Over 45 Can Ease Migraine Stress",
+            "link": "https://www.webmd.com/migraines-headaches/ss/cm/migraine-stress-relievers-women-over-45",
+            "description": "",
+            "pubDate": "2025-12-11T16:00:18",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/migraine-stress-relievers-for-women-over-45-slideshow/1800ss-getty-rf-breathing-deeply-for-stress-relief.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "10 Foods Linked to a More Youthful Look",
             "link": "https://www.webmd.com/healthy-aging/ss/cm/anti-aging-foods-look-younger",
             "description": "",
-            "pubDate": "2025-12-11T10:30:57",
+            "pubDate": "2025-12-11T16:00:18",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/foods-to-eat-and-avoid-when-you-have-attr-cm-slideshow/1800ss-getty-rf-salmon-filets.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Why Your Body Needs Vitamin B12",
+            "link": "https://www.webmd.com/diet/vitamin-b12-deficiency-symptoms-causes",
+            "description": "Vitamin B12 powers your nerves, blood cells, and energy. Learn why it matters, how to get enough, and what happens when levels run low.",
+            "pubDate": "2025-12-11T16:00:18",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/woman-brushing-her-beautiful-hair-other/1800x1200-woman-brushing-her-beautiful-hair-other.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "Impact of population based breast density notification: multisite parallel arm randomised controlled trial in BreastScreen",
@@ -19,116 +33,102 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/03/Mammogram_with_subtle_cancer-300x150.jpg"
         },
         {
-            "title": "Why Your Body Needs Vitamin B12",
-            "link": "https://www.webmd.com/diet/vitamin-b12-deficiency-symptoms-causes",
-            "description": "Vitamin B12 powers your nerves, blood cells, and energy. Learn why it matters, how to get enough, and what happens when levels run low.",
-            "pubDate": "2025-12-11T10:30:57",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/woman-brushing-her-beautiful-hair-other/1800x1200-woman-brushing-her-beautiful-hair-other.jpg?resize=484px:*&output-quality=70"
+            "title": "‘Beer Belly’ Can Cause Cardiac Damage",
+            "link": "https://www.medscape.com/viewarticle/beer-belly-can-cause-cardiac-damage-differently-than-general-2025a1000ys4?src=rss",
+            "description": "Visceral obesity is associated with increased left ventricular mass and reduced ventricular volumes — suggesting concentric remodeling. Medscape Medic...",
+            "pubDate": "2025-12-11T13:57:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "How Women Over 45 Can Ease Migraine Stress",
-            "link": "https://www.webmd.com/migraines-headaches/ss/cm/migraine-stress-relievers-women-over-45",
-            "description": "",
-            "pubDate": "2025-12-11T10:30:57",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/migraine-stress-relievers-for-women-over-45-slideshow/1800ss-getty-rf-breathing-deeply-for-stress-relief.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Novel 'body-swap' robot provides insights into how the brain keeps us upright",
-            "link": "https://medicalxpress.com/news/2025-12-body-swap-robot-insights-brain.html",
-            "description": "Imagine driving a car with a steering that doesn't respond instantly and a GPS that always reflects where you were a second ago. To stay on course, yo...",
-            "pubDate": "2025-12-11T15:38:22",
+            "title": "‘Flu-Nami’ Hits NHS as Winter Pressures Escalate",
+            "link": "https://www.medscape.com/viewarticle/flu-nami-hits-nhs-winter-pressures-escalate-2025a1000ytk?src=rss",
+            "description": "With flu cases surging far earlier than expected, NHS leaders in England warn that winter pressures are accelerating at a pace not seen in recent seas...",
+            "pubDate": "2025-12-11T17:52:35",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "The Brainstem and Pain: New Research, New Understanding",
-            "link": "https://www.medscape.com/viewarticle/brainstem-and-pain-new-research-new-understanding-2025a1000yrw?src=rss",
-            "description": "Multiple teams have used powerful imaging, targeted placebo experiments, and AI to map and understand the brainstem’s pain circuitry like never before...",
-            "pubDate": "2025-12-11T13:02:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Hundreds are quarantined in South Carolina as measles spreads in 2 US outbreaks",
+            "link": "https://medicalxpress.com/news/2025-12-hundreds-quarantined-south-carolina-measles.html",
+            "description": "Measles outbreaks are growing along the Utah-Arizona border and in South Carolina, where hundreds are in quarantine.",
+            "pubDate": "2025-12-11T20:50:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Flipped-Dose Immunotherapy May Improve Melanoma Outcomes",
+            "link": "https://www.medscape.com/viewarticle/flipped-dose-immunotherapy-may-improve-melanoma-outcomes-2025a1000ysp?src=rss",
+            "description": "Flipping the standard doses of nivolumab plus ipilimumab for patients with advanced melanoma may improve survival with less toxicity, a real-world stu...",
+            "pubDate": "2025-12-11T16:27:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Why police need Parkinson’s disease training",
             "link": "https://kevinmd.com/2025/12/why-police-need-parkinsons-disease-training.html",
             "description": "As innovations and changes develop in the police field, new areas and populations, including PwP, must be included. More than 1 million cases of Parki...",
             "pubDate": "2025-12-11T14:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "How algorithmic bias created a mental health crisis [PODCAST]",
-            "link": "https://kevinmd.com/2025/12/how-algorithmic-bias-created-a-mental-health-crisis-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Health care executive Ronke Lawal discusses her article, “Digital men...",
-            "pubDate": "2025-12-11T00:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Lost Work, Higher Costs Likely With Lower Vax Rates",
-            "link": "https://www.medscape.com/viewarticle/lost-work-higher-costs-and-disease-likely-lower-vaccine-2025a1000yqd?src=rss",
-            "description": "Social media ranks second as information source among younger adults, but healthcare providers still come out ahead. Medscape Medical News",
-            "pubDate": "2025-12-11T13:08:02",
+            "title": "New sensor technology can detect life-threatening complications after intestinal surgery at an earlier stage",
+            "link": "https://medicalxpress.com/news/2025-12-sensor-technology-life-threatening-complications.html",
+            "description": "An interdisciplinary research team from Dresden University of Technology (TUD), Rostock University Medical Center (UMR) and Dresden University Hospita...",
+            "pubDate": "2025-12-11T21:04:31",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Balanced neural inhibition in the hippocampus is crucial for recognition memory",
-            "link": "https://medicalxpress.com/news/2025-12-neural-inhibition-hippocampus-crucial-recognition.html",
-            "description": "A new study has revealed that neural inhibition and balanced neural activity in a specific area of the brain is required for recognition memory. The f...",
-            "pubDate": "2025-12-11T15:49:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Federal graduate-loan caps threaten rural health care access",
-            "link": "https://kevinmd.com/2025/12/federal-graduate-loan-caps-threaten-rural-health-care-access.html",
-            "description": "I work with many aspiring clinicians from rural communities, and their stories tend to follow the same pattern: deep commitment, strong community root...",
-            "pubDate": "2025-12-11T13:00:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Novel Tool Flags Gaps in Epilepsy Care",
-            "link": "https://www.medscape.com/viewarticle/novel-tool-flags-gaps-epilepsy-care-2025a1000yrz?src=rss",
-            "description": "An autonomous AI tool that scans patient records is helping clinicians spot overlooked tests and referrals. Medscape Medical News",
-            "pubDate": "2025-12-11T13:17:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "EU to reward antibiotic innovation with new pharma rules",
-            "link": "https://medicalxpress.com/news/2025-12-eu-reward-antibiotic-pharma.html",
-            "description": "Drugmakers that develop new antibiotics are set to benefit from longer market protection in Europe after the EU agreed Thursday to a wide-ranging refo...",
-            "pubDate": "2025-12-11T15:46:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Social Media ‘Detox’ May Boost Mental Health in Young Adults",
-            "link": "https://www.medscape.com/viewarticle/social-media-detox-may-boost-mental-health-young-adults-2025a1000yrx?src=rss",
-            "description": "Reducing social media use for a week is linked to improvements in depression, anxiety, and insomnia in young adults, a new study shows. Medscape Medic...",
-            "pubDate": "2025-12-11T12:59:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "FDA looks into reports of deaths after COVID vaccination",
-            "link": "https://medicalxpress.com/news/2025-12-fda-deaths-covid-vaccination.html",
-            "description": "Federal officials say the U.S. Food and Drug Administration (FDA) is reviewing reports of possible deaths in adults and children following COVID-19 va...",
-            "pubDate": "2025-12-11T15:50:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "‘Beer Belly’ Can Cause Cardiac Damage",
-            "link": "https://www.medscape.com/viewarticle/beer-belly-can-cause-cardiac-damage-differently-than-general-2025a1000ys4?src=rss",
-            "description": "Visceral obesity is associated with increased left ventricular mass and reduced ventricular volumes — suggesting concentric remodeling. Medscape Medic...",
-            "pubDate": "2025-12-11T13:57:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Octopus-inspired 3D micro-LEDs pave the way for selective pancreatic cancer therapy",
-            "link": "https://medicalxpress.com/news/2025-12-octopus-3d-micro-pave-pancreatic.html",
-            "description": "Conventional pancreatic cancer treatments face a critical hurdle due to the dense tumor microenvironment (TME). This biological barrier surrounds the ...",
-            "pubDate": "2025-12-11T15:30:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Early childhood adversity can disrupt brain networks and result in lifelong health burden",
+            "link": "https://medicalxpress.com/news/2025-12-early-childhood-adversity-disrupt-brain.html",
+            "description": "Scientists have known for some time that people who experience early childhood adversity are more prone to developing health and behavioral issues in ...",
+            "pubDate": "2025-12-11T20:50:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "The economics of medical weight loss",
             "link": "https://kevinmd.com/2025/12/the-economics-of-medical-weight-loss.html",
             "description": "Most know me for my insights about medical malpractice litigation. However, ever since the 2000s, my practice has focused on medical weight loss manag...",
             "pubDate": "2025-12-11T12:00:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Greater patient safety in major lung surgery: World's largest study provides new insights",
+            "link": "https://medicalxpress.com/news/2025-12-greater-patient-safety-major-lung.html",
+            "description": "The Department of Anesthesiology and Intensive Care Medicine at the Carl Gustav Carus University Hospital in Dresden and the TU Dresden Faculty of Med...",
+            "pubDate": "2025-12-11T20:43:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Incretin-Based Meds May Modestly Raise Biliary Risk in T2D",
+            "link": "https://www.medscape.com/viewarticle/incretin-based-meds-may-modestly-raise-biliary-risk-t2d-2025a1000ytp?src=rss",
+            "description": "Patients with T2D taking incretin-based drugs do not face an increased risk for pancreatitis but have a modestly higher risk for biliary events than t...",
+            "pubDate": "2025-12-11T19:11:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Federal graduate-loan caps threaten rural health care access",
+            "link": "https://kevinmd.com/2025/12/federal-graduate-loan-caps-threaten-rural-health-care-access.html",
+            "description": "I work with many aspiring clinicians from rural communities, and their stories tend to follow the same pattern: deep commitment, strong community root...",
+            "pubDate": "2025-12-11T13:00:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "How algorithmic bias created a mental health crisis [PODCAST]",
+            "link": "https://kevinmd.com/2025/12/how-algorithmic-bias-created-a-mental-health-crisis-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Health care executive Ronke Lawal discusses her article, “Digital men...",
+            "pubDate": "2025-12-11T00:00:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Brain biomarker links inflammation to poor treatment response in psychiatric disorders",
+            "link": "https://medicalxpress.com/news/2025-12-brain-biomarker-links-inflammation-poor.html",
+            "description": "Individuals with psychiatric disorders exhibiting seemingly similar symptoms often respond very differently to the same treatment, suggesting that dis...",
+            "pubDate": "2025-12-11T21:01:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "FDA OKs First At-Home Brain Stim Device for Depression",
+            "link": "https://www.medscape.com/viewarticle/fda-oks-first-home-brain-stimulation-device-depression-2025a1000yu4?src=rss",
+            "description": "The FL-100 tDCS system is available by prescription for adults with moderate to severe MDD in the current episode, either as monotherapy or as an adju...",
+            "pubDate": "2025-12-11T19:25:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Nucleoside-modified mRNA influenza vaccine more effective than standard shot in adults",
@@ -149,7 +149,7 @@
             "link": "https://kevinmd.com/2025/12/why-true-leadership-in-medicine-must-be-learned-and-earned.html",
             "description": "I learned about leadership from my father as a child. My father enlisted in the U.S. Air Force (USAF) and went through basic training. He was a “slick...",
             "pubDate": "2025-12-10T22:00:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Hospital-Level Care at Home for Adults Living in Rural Settings: A Randomized Clinical Trial",

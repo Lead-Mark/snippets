@@ -2,14 +2,14 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-11T11:01:13.998273",
+    "lastBuildDate": "2025-12-11T16:07:40.242072",
     "items": [
         {
-            "title": "The Download: solar geoengineering’s future, and OpenAI is being sued",
-            "link": "https://www.technologyreview.com/2025/12/11/1129288/the-download-solar-geoengineerings-future-and-openai-is-being-sued/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Solar geoeng...",
-            "pubDate": "2025-12-11T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png"
+            "title": "Transforming solar farms: AI, robotics, and industry partnerships at AES",
+            "link": "https://www.therobotreport.com/transforming-solar-farms-ai-robotics-and-industry-partnerships-at-aes/",
+            "description": "AES discusses deploying Maximo robotics to automate solar farm construction, enhancing efficiency, safety, and scalability in clean energy projects. T...",
+            "pubDate": "2025-12-11T17:00:59",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/aes-maximo-featured.jpg"
         },
         {
             "title": "Ghost Robotics releases manipulator arm for Vision 60 quadruped",
@@ -19,25 +19,53 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/arm-ptz-6-featured.jpg"
         },
         {
+            "title": "OpenAI's GPT-5.2 is here: what enterprises need to know",
+            "link": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know",
+            "description": "The rumors were true: OpenAI on Thursday announced the release of its new frontier large language model (LLM) family, GPT-5.2 . It comes at a pivotal ...",
+            "pubDate": "2025-12-11T18:16:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3V50gYllm3mWHfplVg6RxG/a06f74823800f27a945af5a27c04bb5c/aXhBsF1CKZZnrxoHyH4hN.png?w=300&q=30"
+        },
+        {
+            "title": "The Download: solar geoengineering’s future, and OpenAI is being sued",
+            "link": "https://www.technologyreview.com/2025/12/11/1129288/the-download-solar-geoengineerings-future-and-openai-is-being-sued/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Solar geoeng...",
+            "pubDate": "2025-12-11T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png"
+        },
+        {
+            "title": "Creating a glass box: How NetSuite is engineering trust into AI",
+            "link": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai",
+            "description": "Presented by Oracle NetSuite When any company tells you it is their biggest product release in almost three decades, it’s worth listening. When the pe...",
+            "pubDate": "2025-12-11T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6ouXpzYvtEUpMqztfoRe7u/c8be75d5f24ee25abb8f25c45358796a/AdobeStock_1708529298.jpeg?w=300&q=30"
+        },
+        {
+            "title": "Marble enters the race to bring AI to tax work, armed with $9 million and a free research tool",
+            "link": "https://venturebeat.com/ai/marble-enters-the-race-to-bring-ai-to-tax-work-armed-with-usd9-million-and-a",
+            "description": "Marble , a startup building artificial intelligence agents for tax professionals, has raised $9 million in seed funding as the accounting industry gra...",
+            "pubDate": "2025-12-11T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1maiKq2i5ItDNJrpSVbA7A/438f6abcb5e179fda1e9b576ec9c06de/nuneybits_Vector_art_of_a_marble_sphere_climbing_an_upward-tren_4ed67c66-0609-40db-9304-b3b03ab70c2c.webp?w=300&q=30"
+        },
+        {
+            "title": "Helm.ai releases new architectural framework for autonomous vehicles",
+            "link": "https://www.therobotreport.com/helm-ai-releases-new-architectural-framework-for-autonomous-vehicles/",
+            "description": "Helm.ai said the architecture enables automakers to deploy ADAS through L4 capabilities using their existing development fleets. The post Helm.ai rele...",
+            "pubDate": "2025-12-11T20:35:03",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/helmai-featured.jpg"
+        },
+        {
             "title": "Solar geoengineering startups are getting serious",
             "link": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
             "description": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in ...",
             "pubDate": "2025-12-11T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Inbolt provides vision guidance in real time for new bin-picking system",
-            "link": "https://www.therobotreport.com/inbolt-provides-vision-guidance-in-real-time-for-new-bin-picking-system/",
-            "description": "Inbolt said its new guidance system on robot arms enables flexible, fast, accurate, and low-cost bin picking for unstructured environments. The post I...",
-            "pubDate": "2025-12-10T13:00:58",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Inbolt-usine-Stellantis-Caen-Adrien-Boscher-Videaste-photographe-caen-8.jpg"
-        },
-        {
-            "title": "Digit humanoid joins Mercado Libre warehouse",
-            "link": "https://www.therobotreport.com/agility-mercado-libre-embargoed/",
-            "description": "Partnership will integrate Digit robots into fulfillment operations beginning in Texas, with future expansion capabilities for Latin America. The post...",
-            "pubDate": "2025-12-10T12:59:39",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/RSE26_LinkedInEVENT_STD_Vs1.jpg"
+            "title": "The 70% factuality ceiling: why Google’s new ‘FACTS’ benchmark is a wake-up call for enterprise AI",
+            "link": "https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call",
+            "description": "There's no shortage of generative AI benchmarks designed to measure the performance and accuracy of a given model on completing various helpful enterp...",
+            "pubDate": "2025-12-10T23:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1P96HBSOE22cfl5djgDueT/df9398cb8f464a8f6519d964da86026c/mRfmh7TAQtPYv7mwcN551.png?w=300&q=30"
         },
         {
             "title": "The Download: a controversial proposal to solve climate change, and our future grids",
@@ -47,18 +75,18 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9ca.png"
         },
         {
-            "title": "From iCub to humanoids: Generative Bionics raises $81M",
-            "link": "https://www.therobotreport.com/from-icub-to-humanoids-generative-bionics-raises-81m/",
-            "description": "Generative Bionics plans to unveil its first humanoid robot, built for production environments, at CES in Las Vegas. The post From iCub to humanoids: ...",
-            "pubDate": "2025-12-10T18:53:56",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Daniele_Pucci-generativebionics-featured.jpg"
-        },
-        {
             "title": "MMI earns FDA clearance for robotic soft tissue dissection tools",
             "link": "https://www.therobotreport.com/mmi-earns-fda-clearance-for-robotic-soft-tissue-dissection-tools/",
             "description": "MMI’s dissection instruments are some of the smallest fully wristed robotic instruments designed for dissection in open microsurgery. The post MMI ear...",
             "pubDate": "2025-12-10T16:11:09",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/NanoWrist-Instrument-Portfolio-1-featured-e1765382906106.jpg"
+        },
+        {
+            "title": "The AI that scored 95% — until consultants learned it was AI",
+            "link": "https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-was-ai",
+            "description": "Presented by SAP When SAP ran a quiet internal experiment to gauge consultant attitudes toward AI, the results were striking. Five teams were asked to...",
+            "pubDate": "2025-12-10T15:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7IoiYyTs0K9D4WfYDzJvhy/f6bb93584c65f055662926cf6ed9d467/AdobeStock_571280209.jpeg?w=300&q=30"
         },
         {
             "title": "Securing VMware workloads in regulated industries",
@@ -68,11 +96,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/Rapidscale-Landing-Page-Card-1.png"
         },
         {
+            "title": "From iCub to humanoids: Generative Bionics raises $81M",
+            "link": "https://www.therobotreport.com/from-icub-to-humanoids-generative-bionics-raises-81m/",
+            "description": "Generative Bionics plans to unveil its first humanoid robot, built for production environments, at CES in Las Vegas. The post From iCub to humanoids: ...",
+            "pubDate": "2025-12-10T18:53:56",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/Daniele_Pucci-generativebionics-featured.jpg"
+        },
+        {
             "title": "Exclusive eBook: Aging Clocks & Understanding Why We Age",
             "link": "https://www.technologyreview.com/2025/12/10/1128999/exclusive-ebook-aging-clocks-understanding-why-we-age/",
             "description": "In this exclusive subscriber-only eBook, you’ll learn about a new method that scientists have uncovered to look at the ways our bodies are aging. by J...",
             "pubDate": "2025-12-10T15:08:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
