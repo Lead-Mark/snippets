@@ -2,7 +2,7 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-13T11:01:22.483441",
+    "lastBuildDate": "2025-12-14T01:08:19.348328",
     "items": [
         {
             "title": "1X partners with EQT to roll out humanoids across its portfolio companies",
@@ -12,11 +12,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/1X_NEO-Home-Living-featured.jpg"
         },
         {
+            "title": "Why most enterprise AI coding pilots underperform (Hint: It's not the model)",
+            "link": "https://venturebeat.com/ai/why-most-enterprise-ai-coding-pilots-underperform-hint-its-not-the-model",
+            "description": "Gen AI in software engineering has moved well beyond autocomplete. The emerging frontier is agentic coding : AI systems capable of planning changes, e...",
+            "pubDate": "2025-12-13T20:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/38oJ3yjcAb67Hunz4whpDs/5e419481c52a1deafddb26fc2af21f57/DDM_Coding.png?w=300&q=30"
+        },
+        {
+            "title": "Ai2's new Olmo 3.1 extends reinforcement learning training for stronger reasoning benchmarks",
+            "link": "https://venturebeat.com/ai/ai2s-new-olmo-3-1-extends-reinforcement-learning-training-for-stronger",
+            "description": "The Allen Institute for AI (Ai2) recently released what it calls its most powerful family of models yet, Olmo 3 . But the company kept iterating on th...",
+            "pubDate": "2025-12-12T05:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/55oooidNm3E0faEIiqCuT1/40f31d15c37514c2fe5d4e452d130777/crimedy7_illustration_of_a_robot_ranking_things_--ar_169_--v__bf96b272-7cb7-4c4e-ab01-0c7f29b4da84_0.png?w=300&q=30"
+        },
+        {
             "title": "Southeast Asia seeks its place in space",
             "link": "https://www.technologyreview.com/2025/12/12/1129235/dispatch-thai-space-expo-southeast-asia-exploration/",
             "description": "It’s a scorching October day in Bangkok and I’m wandering through the exhibits at the Thai Space Expo, held in one of the city’s busiest shopping mall...",
             "pubDate": "2025-12-12T11:00:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Thailand_orthographic_projection.svg"
+        },
+        {
+            "title": "Google’s new framework helps AI agents spend their compute and tool budget more wisely",
+            "link": "https://venturebeat.com/ai/googles-new-framework-helps-ai-agents-spend-their-compute-and-tool-budget",
+            "description": "In a new paper that studies tool-use in large language model (LLM) agents, researchers at Google and UC Santa Barbara have developed a framework that ...",
+            "pubDate": "2025-12-12T00:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6VnZyZmLcPdUEcSjiLXeDk/5f1a4baa15f9a5f2651050c8bd6c4bad/AI_budget_management.jpg?w=300&q=30"
         },
         {
             "title": "A national robotics strategy is necessary to reshore manufacturing, says the Congressional Robotics Caucus",
@@ -26,13 +47,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/DLA_Piper_caucus.jpg"
         },
         {
-            "title": "Zebra Technologies winding down Fetch-based mobile robot group",
-            "link": "https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/",
-            "description": "Zebra said the move allows it to 'further sharpen our strategic focus on digitizing and automating frontline workflows and on our investments in key g...",
-            "pubDate": "2025-12-12T14:19:34",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/zebra-winding-down-robotics-group.jpg"
-        },
-        {
             "title": "Teradyne Robotics leaning into U.S. manufacturing reboot",
             "link": "https://www.therobotreport.com/teradyne-robotics-leaning-into-u-s-manufacturing-reboot/",
             "description": "Teradyne Robotics plans to open its U.S. headquarters near Detroit in 2026 to boost manufacturing for UR and MiR and better serve customers. The post ...",
@@ -40,11 +54,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/0917eb7e-d17b-3a93-b342-b5986126f12e.png"
         },
         {
-            "title": "The Download: expanded carrier screening, and how Southeast Asia plans to get to space",
-            "link": "https://www.technologyreview.com/2025/12/12/1129478/the-download-expanded-carrier-screening-and-how-southeast-asia-plans-to-get-to-space/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Expanded car...",
-            "pubDate": "2025-12-12T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f3aa.png"
+            "title": "Zebra Technologies winding down Fetch-based mobile robot group",
+            "link": "https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/",
+            "description": "Zebra said the move allows it to 'further sharpen our strategic focus on digitizing and automating frontline workflows and on our investments in key g...",
+            "pubDate": "2025-12-12T14:19:34",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/zebra-winding-down-robotics-group.jpg"
         },
         {
             "title": "Union Park acquires GAM, launches precision motion control platform",
@@ -54,11 +68,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/gam-building.jpg"
         },
         {
+            "title": "The Download: expanded carrier screening, and how Southeast Asia plans to get to space",
+            "link": "https://www.technologyreview.com/2025/12/12/1129478/the-download-expanded-carrier-screening-and-how-southeast-asia-plans-to-get-to-space/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Expanded car...",
+            "pubDate": "2025-12-12T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f3aa.png"
+        },
+        {
             "title": "Expanded carrier screening: Is it worth it?",
             "link": "https://www.technologyreview.com/2025/12/12/1129344/expanded-carrier-screening-is-it-worth-it/",
             "description": "This week I’ve been thinking about babies. Healthy ones. Perfect ones. As you may have read last week, my colleague Antonio Regalado came face to face...",
             "pubDate": "2025-12-12T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "The Download: solar geoengineering’s future, and OpenAI is being sued",
@@ -68,18 +89,25 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png"
         },
         {
+            "title": "OpenAI's GPT-5.2 is here: what enterprises need to know",
+            "link": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know",
+            "description": "The rumors were true: OpenAI on Thursday announced the release of its new frontier large language model (LLM) family, GPT-5.2 . It comes at a pivotal ...",
+            "pubDate": "2025-12-11T18:16:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3V50gYllm3mWHfplVg6RxG/a06f74823800f27a945af5a27c04bb5c/aXhBsF1CKZZnrxoHyH4hN.png?w=300&q=30"
+        },
+        {
+            "title": "GPT-5.2 first impressions: a powerful update, especially for business tasks and workflows",
+            "link": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks",
+            "description": "OpenAI has officially released GPT-5.2 , and the reactions from early testers — among whom OpenAI seeded the model several days prior to public releas...",
+            "pubDate": "2025-12-11T23:26:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6q1G4wvDXmIc0wvUICG9Xq/45d95c24a33f70247eb22cfd7222ea82/uXhTzWhCBc7Q5ud-vONqQ.jpg?w=300&q=30"
+        },
+        {
             "title": "Solar geoengineering startups are getting serious",
             "link": "https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/",
             "description": "Solar geoengineering aims to manipulate the climate by bouncing sunlight back into space. In theory, it could ease global warming. But as interest in ...",
             "pubDate": "2025-12-11T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -94,6 +122,13 @@
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
