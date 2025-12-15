@@ -2,14 +2,105 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-14T11:02:50.171843",
+    "lastBuildDate": "2025-12-15T06:23:58.985506",
     "items": [
         {
-            "title": "The 'magic' of walking with grief",
-            "link": "https://www.npr.org/2025/12/14/nx-s1-5642731/grief-death-walking-help",
-            "description": "Walking with other people who are grieving a loss is one way to ease some of the pain and feel less alone.",
-            "pubDate": "2025-12-14T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F73%2F3999d7494f339ac548ccbf2a376b%2Fimg-9728-helena-maureen-michael.jpg"
+            "title": "What's behind the wellness claims for the synthetic dye methylene blue?",
+            "link": "https://www.npr.org/2025/12/15/nx-s1-5634680/methylene-blue-supplement-safety",
+            "description": "Taking drops of a medical dye is trending in wellness and biohacking circles. Some influencers claim it boosts longevity and brain health. Scientists ...",
+            "pubDate": "2025-12-15T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+0/resize/3500x1969!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F57%2F6846812545de9aa37d09642c311d%2Fnpr-blue-final.jpg"
+        },
+        {
+            "title": "FDA commissioner on public's growing mistrust in the government's health advice",
+            "link": "https://www.npr.org/2025/12/15/nx-s1-5642516/fda-commissioner-on-publics-growing-mistrust-in-the-governments-health-advice",
+            "description": "NPR's Steve Inskeep asks FDA Commissioner Marty Makary about recent controversies around the COVID and Hepatitis B vaccines, and the lack of trust in ...",
+            "pubDate": "2025-12-15T10:08:38",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5642516"
+        },
+        {
+            "title": "2 Minute Medicine Rewind December 15, 2025",
+            "link": "https://www.2minutemedicine.com/2-minute-medicine-rewind-december-15-2025/",
+            "description": "Impact of combined hormonal contraceptives and metformin on metabolic syndrome in women with hyperandrogenic polycystic ovary syndrome and obesity: Th...",
+            "pubDate": "2025-12-15T11:00:33",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/07/Polycystic_ovary-300x150.jpg"
+        },
+        {
+            "title": "A fatal mix-up: How certain gut bacteria drive multiple sclerosis",
+            "link": "https://medicalxpress.com/news/2025-12-fatal-gut-bacteria-multiple-sclerosis.html",
+            "description": "If gut bacteria are too similar to the protective layer of nerves, they can misdirect the immune system and cause it to attack its own nervous system....",
+            "pubDate": "2025-12-15T10:00:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Fertility gene helps glioblastoma tumors survive chemotherapy and return after treatment, researchers discover",
+            "link": "https://medicalxpress.com/news/2025-12-fertility-gene-glioblastoma-tumors-survive.html",
+            "description": "Research by University of Sydney scientists has uncovered a mechanism that may explain why glioblastoma returns after treatment, offering new clues fo...",
+            "pubDate": "2025-12-15T10:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Tranexamic Acid Reduces Transfusions in Noncardiac Surgeries",
+            "link": "https://www.medscape.com/viewarticle/tranexamic-acid-reduces-transfusions-noncardiac-surgeries-2025a1000z33?src=rss",
+            "description": "Use of the antifibrinolytic medication ‘narrowly exceeded’ noninferiority in VTE risk compared with placebo in noncardiac surgeries at hospitals acros...",
+            "pubDate": "2025-12-15T11:12:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Combination pills for high blood pressure may simplify treatment, improve long-term health",
+            "link": "https://medicalxpress.com/news/2025-12-combination-pills-high-blood-pressure.html",
+            "description": "Taking one pill that combines two or more blood pressure medications may help adults with high blood pressure (also known as hypertension) lower their...",
+            "pubDate": "2025-12-15T10:59:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Study links genetic variants to risk of blinding eye disease in premature infants",
+            "link": "https://medicalxpress.com/news/2025-12-links-genetic-variants-eye-disease.html",
+            "description": "A new study from the University of Oklahoma suggests that small genetic differences in two proteins—previously known for their role in premature infan...",
+            "pubDate": "2025-12-15T10:06:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Preoperative MRI for Breast Cancer: Is It Worth It?",
+            "link": "https://www.medscape.com/viewarticle/preoperative-mri-breast-cancer-it-worth-it-2025a1000z2o?src=rss",
+            "description": "In a phase III trial, pre-op MRI did not reduce locoregional recurrences or improve survival among women with early-stage HR-negative breast cancer. M...",
+            "pubDate": "2025-12-15T11:13:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Q&A: ACC Endorses Front-of-Label Nutrition Packaging",
+            "link": "https://www.medscape.com/viewarticle/q-what-clinicians-should-know-about-accs-guidance-front-2025a1000z2z?src=rss",
+            "description": "Kim Allan Williams, MD, discusses how the ACC’s endorsement of front-of-package nutrition labeling may change the conversation around selecting health...",
+            "pubDate": "2025-12-15T10:45:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "New AI tool identifies not just genetic mutations, but the diseases they may cause",
+            "link": "https://medicalxpress.com/news/2025-12-ai-tool-genetic-mutations-diseases.html",
+            "description": "Scientists at the Icahn School of Medicine at Mount Sinai have developed a novel artificial intelligence tool that not only identifies disease-causing...",
+            "pubDate": "2025-12-15T10:00:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Partial vs Total Knee Replacement: Which Is Better for OA?",
+            "link": "https://www.medscape.com/viewarticle/partial-vs-total-knee-replacement-which-better-medial-2025a1000z2y?src=rss",
+            "description": "Both partial and total knee replacement for medial compartment knee osteoarthritis show comparable effectiveness over the long term, with partial knee...",
+            "pubDate": "2025-12-15T10:33:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "GPs Play a Key Role in Tobacco Control — in Just 1 Minute",
+            "link": "https://www.medscape.com/viewarticle/gps-play-key-role-tobacco-control-just-1-minute-2025a1000z2l?src=rss",
+            "description": "Europe’s 2040 tobacco-free goal faces hurdles from new products and funding gaps. Success depends on integrating cessation into routine care. Medscape...",
+            "pubDate": "2025-12-15T09:49:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Voices of experience and hope soar in a song to prevent suicide",
+            "link": "https://www.npr.org/2025/12/14/nx-s1-5634653/suicide-prevention-survival-song-film-art-uk-nhs",
+            "description": "\"Hold the Hope\" was sparked by one woman's experience as a caregiver to someone who survived suicidal struggles. It started as a poem that has become ...",
+            "pubDate": "2025-12-14T12:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+0/resize/3200x1800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F45%2F1eee03a24adfb8e1b974faef9ee2%2Fjesse-zhang-npr-final.jpg"
         },
         {
             "title": "Tanning bed users are at higher risk of skin cancer, especially in unusual places",
@@ -26,39 +117,39 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5640860"
         },
         {
-            "title": "Voices of experience and hope soar in a song to prevent suicide",
-            "link": "https://www.npr.org/2025/12/14/nx-s1-5634653/suicide-prevention-survival-song-film-art-uk-nhs",
-            "description": "\"Hold the Hope\" was sparked by one woman's experience as a caregiver to someone who survived suicidal struggles. It started as a poem that has become ...",
-            "pubDate": "2025-12-14T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+0/resize/3200x1800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F45%2F1eee03a24adfb8e1b974faef9ee2%2Fjesse-zhang-npr-final.jpg"
+            "title": "Why developmental and behavioral pediatrics faces a recruitment collapse",
+            "link": "https://kevinmd.com/2025/12/why-developmental-and-behavioral-pediatrics-faces-a-recruitment-collapse.html",
+            "description": "For two months I have staged testimony, written op-eds, and amplified coalition voices about the collapse of developmental and behavioral pediatrics (...",
+            "pubDate": "2025-12-14T14:00:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Valuing non-procedural physician skills",
-            "link": "https://kevinmd.com/2025/12/valuing-non-procedural-physician-skills.html",
-            "description": "No matter the specialty, the best doctors make it look effortless and “easy.” Whether it’s suturing a jagged laceration, reading an MRI spine with mul...",
-            "pubDate": "2025-12-14T12:00:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Physician leadership communication tips",
+            "link": "https://kevinmd.com/2025/12/physician-leadership-communication-tips.html",
+            "description": "Let’s be honest. Most frontline clinicians don’t wake up worrying about CDC updates. They’re worrying about whether the ED has enough staff, or whethe...",
+            "pubDate": "2025-12-14T20:00:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Scientists develop mini human heart organoid that mimics atrial fibrillation",
-            "link": "https://medicalxpress.com/news/2025-12-scientists-mini-human-heart-organoid.html",
-            "description": "Though an estimated 60 million people around the world have atrial fibrillation, or A-fib, a type of irregular and often fast heartbeat, it's been at ...",
-            "pubDate": "2025-12-14T12:33:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Why senior-friendly health materials are essential for access",
+            "link": "https://kevinmd.com/2025/12/why-senior-friendly-health-materials-are-essential-for-access.html",
+            "description": "I have spent years working with older adults in community and home-based care. During that time, I learned that one of the most stubborn barriers to h...",
+            "pubDate": "2025-12-14T16:00:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "How genetic testing redefines motherhood [PODCAST]",
             "link": "https://kevinmd.com/2025/12/how-genetic-testing-redefines-motherhood-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Family physician Rebecca Thompson discusses her article, “The weight ...",
             "pubDate": "2025-12-14T00:00:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "To 'graduate' from poverty, they can borrow to build a business. So why aren't they?",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/12/13/g-s1-101742/poverty-loan-borrow-refugees-uganda",
-            "description": "It's called the \"graduation\" approach — both financial and moral support to help people move from extreme poverty to self-sufficiency. But in this inn...",
-            "pubDate": "2025-12-13T13:34:36",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2950x1967+0+0/resize/2950x1967!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F4e%2Fa42f14104c1d85ee8d51222cfd69%2Fuganda-smiles-23.jpg"
+            "title": "Valuing non-procedural physician skills",
+            "link": "https://kevinmd.com/2025/12/valuing-non-procedural-physician-skills.html",
+            "description": "No matter the specialty, the best doctors make it look effortless and “easy.” Whether it’s suturing a jagged laceration, reading an MRI spine with mul...",
+            "pubDate": "2025-12-14T12:00:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Vitamin D Levels During Pregnancy and Dental Caries in Offspring",
@@ -68,55 +159,6 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/08/fluoride_edited-300x150.jpg"
         },
         {
-            "title": "Mouse model reveals how muscular dystrophy triggers gut muscle over-contraction",
-            "link": "https://medicalxpress.com/news/2025-12-mouse-reveals-muscular-dystrophy-triggers.html",
-            "description": "Myotonic dystrophy type 1 (DM1) is the most common form of adult-onset muscular dystrophy, affecting about 1 in 8,000 people. While it is well known f...",
-            "pubDate": "2025-12-13T17:08:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Why AI in medicine elevates humanity instead of replacing it",
-            "link": "https://kevinmd.com/2025/12/why-ai-in-medicine-elevates-humanity-instead-of-replacing-it.html",
-            "description": "When I trained in medicine, the learning path was predictable. Long nights of memorizing anatomy. Standing beside seasoned physicians in hospital hall...",
-            "pubDate": "2025-12-13T16:00:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Why smoking is the top cause of bladder cancer",
-            "link": "https://kevinmd.com/2025/12/why-smoking-is-the-top-cause-of-bladder-cancer.html",
-            "description": "Bladder cancer is one of the most common cancers worldwide, yet it often receives far less attention than other smoking-related cancers. According to ...",
-            "pubDate": "2025-12-13T18:00:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Chromatin accessibility maps reveal how stem cells drive myelodysplastic syndrome progression",
-            "link": "https://medicalxpress.com/news/2025-12-chromatin-accessibility-reveal-stem-cells.html",
-            "description": "Over the past few decades, advances in hematology have illuminated how a delicate balance between stem cell self-renewal and differentiation sustains ...",
-            "pubDate": "2025-12-13T17:10:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "The life of a physician on call",
-            "link": "https://kevinmd.com/2025/12/the-life-of-a-physician-on-call.html",
-            "description": "The moon was full, the stars shone bright I thought I’d settle down for the night Upon my soft pillow my head got caught Until a phone call stirred me...",
-            "pubDate": "2025-12-13T20:00:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "South Carolina places 254 in quarantine as measles cases surge",
-            "link": "https://medicalxpress.com/news/2025-12-south-carolina-quarantine-measles-cases.html",
-            "description": "South Carolina health officials say a measles outbreak is growing amid holiday travel and low vaccination rates, and they warn the spread could contin...",
-            "pubDate": "2025-12-13T17:30:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Circular single-stranded DNA molecules for safer genetic medicine",
-            "link": "https://medicalxpress.com/news/2025-12-circular-stranded-dna-molecules-safer.html",
-            "description": "To our immune system, a potentially lifesaving gene therapy can look a lot like a dangerous infection. That's because most genetic medicine uses virus...",
-            "pubDate": "2025-12-13T20:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
             "title": "Arthroscopic subacromial decompression versus placebo surgery for subacromial pain syndrome: 10 year follow-up of the FIMPACT randomised, placebo surgery controlled trial",
             "link": "https://www.2minutemedicine.com/arthroscopic-subacromial-decompression-versus-placebo-surgery-for-subacromial-pain-syndrome-10-year-follow-up-of-the-fimpact-randomised-placebo-surgery-controlled-trial/",
             "description": "1. This randomized controlled trial found that arthroscopic subacromial decompression does not provide meaningful long-term benefit for subacromial pa...",
@@ -124,53 +166,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/11/surgeryPD-300x150.jpg"
         },
         {
-            "title": "EU Panel Clears Path for Updated Moderna COVID Vaccine",
-            "link": "https://www.medscape.com/viewarticle/eu-panel-clears-path-updated-moderna-covid-vaccine-2025a1000yyz?src=rss",
-            "description": "The decision applies to adolescents and adults and aligns with earlier US authorization for higher-risk groups. Medscape News Europe",
-            "pubDate": "2025-12-12T17:01:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Mounjaro Cleared for Type 2 Diabetes in EU Children",
-            "link": "https://www.medscape.com/viewarticle/mounjaro-cleared-type-2-diabetes-eu-children-2025a1000yz4?src=rss",
-            "description": "The move broadens treatment choices for pediatric patients aged 10 years and older whose diabetes remains uncontrolled with existing therapies. Medsca...",
-            "pubDate": "2025-12-12T17:48:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "EMA Rejects Alzheimer’s Drug After Trial Falls Short",
-            "link": "https://www.medscape.com/viewarticle/ema-rejects-alzheimers-drug-after-trial-falls-short-2025a1000yz0?src=rss",
-            "description": "Despite reported slowing of progression, regulators said the evidence on the novel oral agent blarcamesine did not support a positive benefit-risk bal...",
-            "pubDate": "2025-12-12T17:12:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Targeted Therapy Nears EU Approval for Obstructive HCM",
-            "link": "https://www.medscape.com/viewarticle/targeted-therapy-nears-eu-approval-obstructive-hcm-2025a1000yz1?src=rss",
-            "description": "Trial results showed improvements in symptoms, exercise capacity, and left ventricular outflow obstruction. Medscape Medical News",
-            "pubDate": "2025-12-12T17:13:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "New Biologic Cleared for Severe Asthma and Nasal Polyps",
-            "link": "https://www.medscape.com/viewarticle/new-biologic-cleared-severe-asthma-and-nasal-polyps-2025a1000yyv?src=rss",
-            "description": "Phase 3 studies point to sustained disease control in patients who remain symptomatic despite standard therapies. Medscape Medical News",
-            "pubDate": "2025-12-12T15:52:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
             "title": "Impact of population based breast density notification: multisite parallel arm randomised controlled trial in BreastScreen",
             "link": "https://www.2minutemedicine.com/impact-of-population-based-breast-density-notification-multisite-parallel-arm-randomised-controlled-trial-in-breastscreen/",
             "description": "1. In this randomized controlled trial, breast density notification was associated with increased anxiety and confusion without helping women feel mor...",
             "pubDate": "2025-12-11T00:00:44",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/03/Mammogram_with_subtle_cancer-300x150.jpg"
-        },
-        {
-            "title": "Palliative care involvement and intensity of end-of-life care among adolescents and young adults with cancer: a population-based study",
-            "link": "https://www.2minutemedicine.com/palliative-care-involvement-and-intensity-of-end-of-life-care-among-adolescents-and-young-adults-with-cancer-a-population-based-study/",
-            "description": "1. In this cohort of adolescents and young adults (AYAs), getting palliative care from a specialist palliative physician is associated with significan...",
-            "pubDate": "2025-12-10T00:00:19",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/01/teenagers_cc_flikr_petra_bensted_edited-300x150.jpg"
         },
         {
             "title": "Nucleoside-modified mRNA influenza vaccine more effective than standard shot in adults",
