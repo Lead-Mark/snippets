@@ -2,8 +2,15 @@
     "title": "SevenAtSevenLastSection",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenLastSection, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-15T06:21:13.258162",
+    "lastBuildDate": "2025-12-15T11:01:06.762079",
     "items": [
+        {
+            "title": "A Deep Dive into the Rich History of Black Bookstores",
+            "link": "https://bookriot.com/a-deep-dive-into-the-rich-history-of-black-bookstores/",
+            "description": "Black bookstores are and have always been not only retail spaces, but spaces for community and revolution.",
+            "pubDate": "2025-12-15T11:20:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/12/black-owned-bookstores-cropped.jpg.optimal.jpg"
+        },
         {
             "title": "How Probiotics Help Support a Healthy Gut",
             "link": "https://www.webmd.com/digestive-disorders/what-are-probiotics",
@@ -12,18 +19,11 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/tips_to_help_slow_vaginal_yeast_infection_slideshow/1800ss_getty_rf_yogurt.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Berberine: What This Natural Compound May Offer for Health",
-            "link": "https://www.webmd.com/obesity/berberine-health-benefits",
-            "description": "",
-            "pubDate": "2025-12-15T06:16:57",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/12_ways_your_mind_can_help_your_body_slideshow/1800ss_getty_rf_brain_activity.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Some of the Ways We Brought the Criminal Justice System to Life Through Visuals in 2025",
-            "link": "https://www.themarshallproject.org/2025/12/15/crime-justice-healing-visual-storytelling",
-            "description": "Through evocative illustrations and photography, we tackled themes of deplorable prison conditions, healing after gun violence and deaths in custody.",
-            "pubDate": "2025-12-15T11:00:00",
-            "image_url": "https://mirrorball.themarshallproject.org/PBgQD5RroGh8BXOidKTTqZpXVqE41YQrh8mBgbBJhvI/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC83dGQ4d25uaHNr/aDAya3lodDVjeXI0/bDBwajhjL1NlcXVl/bmNlJTIwMDEuMDBf/MDBfMzZfMDguU3Rp/bGwwMDMuanBn"
+            "title": "Double Chocolate Muffins",
+            "link": "https://therecipecritic.com/chocolate-muffins/",
+            "description": "Costco doesn’t make their famous double chocolate muffins anymore, so I had to crack the code and make a version…",
+            "pubDate": "2025-12-15T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/chocolate-muffins-1.jpg"
         },
         {
             "title": "Tips That May Help Lower Prescription Costs",
@@ -33,18 +33,46 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/features/get_your_breast_cancer_paperwork_organized_features/1800x1200_get_your_breast_cancer_paperwork_organized_pharmacy_features_alt.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "The Book News We Covered This Week",
-            "link": "https://bookriot.com/today-in-books-december-14-2025/",
-            "description": "Emily Henry teases an adaptation, the most popular books on Libby, new adaptations from authors of color, and more.",
-            "pubDate": "2025-12-14T16:00:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/01/red-eyeglasses-on-a-stack-of-newspapers.jpg.optimal.jpg"
+            "title": "8 of the Best New Cozy Mysteries to Read This Winter",
+            "link": "https://bookriot.com/new-cozy-mysteries-winter-2025/",
+            "description": "From a sweet potato pie-related murder to a father-daughter food detective duo, there's a perfect new cozy mystery here to read this winter.",
+            "pubDate": "2025-12-15T11:15:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/12/new-cozy-mysteries-winter-2025.jpg.optimal.jpg"
         },
         {
-            "title": "Book Riot’s Deals of the Day for December 14, 2025",
-            "link": "https://bookriot.com/book-riots-deals-of-the-day-for-december-14-2025/",
-            "description": "A hard-boiled '60s mystery, a Pulitzer Prize-winning author, dark academia meets gothic fantasy, a Psyche and Eros retelling, and more of the best boo...",
-            "pubDate": "2025-12-14T11:00:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/12/daily-deals-10.jpg.optimal.jpg"
+            "title": "Some of the Ways We Brought the Criminal Justice System to Life Through Visuals in 2025",
+            "link": "https://www.themarshallproject.org/2025/12/15/crime-justice-healing-visual-storytelling",
+            "description": "Through evocative illustrations and photography, we tackled themes of deplorable prison conditions, healing after gun violence and deaths in custody.",
+            "pubDate": "2025-12-15T11:00:00",
+            "image_url": "https://mirrorball.themarshallproject.org/PBgQD5RroGh8BXOidKTTqZpXVqE41YQrh8mBgbBJhvI/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC83dGQ4d25uaHNr/aDAya3lodDVjeXI0/bDBwajhjL1NlcXVl/bmNlJTIwMDEuMDBf/MDBfMzZfMDguU3Rp/bGwwMDMuanBn"
+        },
+        {
+            "title": "York County Library (SC) Bans “Gender Identity” Books for Minors, Strips Citizens of First Amendment Rights",
+            "link": "https://bookriot.com/york-county-library-gender-identity-ban/",
+            "description": "York County Library passed a new policy that bans \"gender identity\" books from any youth sections in the library.",
+            "pubDate": "2025-12-15T13:30:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2024/08/book-cart-with-red-x-over-it.jpg.optimal.jpg"
+        },
+        {
+            "title": "Book Riot’s Deals of the Day for December 15, 2025",
+            "link": "https://bookriot.com/book-riots-deals-of-the-day-for-december-15-2025/",
+            "description": "The American pyramid scheme, sisters who turn into dogs, a feast of food writing, and more of today's best book deals.",
+            "pubDate": "2025-12-15T14:00:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/12/deals-121525.jpg.optimal.jpg"
+        },
+        {
+            "title": "2025’s Best Cookbooks and Food Writing, BIPOC Edition",
+            "link": "https://bookriot.com/https-bookriot-com-2025s-best-cookbooks-and-food-writing-bipoc-edition/",
+            "description": "Learn how to make Sudanese doughnuts, birria tortas, incredible chutneys, and more in these amazing cookbooks.",
+            "pubDate": "2025-12-15T11:40:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/12/people-and-things-95.jpg.optimal.jpg"
+        },
+        {
+            "title": "Berberine: What This Natural Compound May Offer for Health",
+            "link": "https://www.webmd.com/obesity/berberine-health-benefits",
+            "description": "",
+            "pubDate": "2025-12-15T06:16:57",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/12_ways_your_mind_can_help_your_body_slideshow/1800ss_getty_rf_brain_activity.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "Crispy Sweet Chili Chicken",
@@ -58,7 +86,7 @@
             "link": "https://juliaberolzheimer.com/2025/12/amazon-sundays-gifts-under-100/",
             "description": "This week’s Amazon Sunday focuses on last-minute finds that make wrapping up holiday shopping a breeze. With quick delivery and… The post Amazon Sunda...",
             "pubDate": "2025-12-14T05:00:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "What’s So Scary About Treatable Conditions Behind Bars?",
@@ -82,25 +110,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/crack-green-beans.jpg"
         },
         {
-            "title": "The Best Queer Books of 2025, According to All the Lists",
-            "link": "https://bookriot.com/the-best-queer-books-of-2025-according-to-all-the-lists/",
-            "description": "Here are the queer books that appeared most often on the biggest \"Best Books of 2025\" lists, from Barnes & Noble to The New York Times.",
-            "pubDate": "2025-12-13T12:00:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2024/07/rainbow-bookstore.png"
-        },
-        {
-            "title": "All Access Just Got Even Better",
-            "link": "https://bookriot.com/all-access-just-got-even-better/",
-            "description": "Great news! Book Riot All Access now includes the New Release Index! We’re all about bringing you the best bookish ...",
-            "pubDate": "2025-12-13T13:00:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/11/AllAccess_970x550.jpg.optimal.jpg"
-        },
-        {
-            "title": "The Biggest Book News of the Week",
-            "link": "https://bookriot.com/today-in-books-december-13-2025/",
-            "description": "THE ATLANTIC'S best 10 books of the year, the 2026 Read Harder Challenge tasks, the Tournament of Books shortlist, and more.",
-            "pubDate": "2025-12-13T16:00:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/04/newspapers-in-loose-stack.jpg.optimal.jpg"
+            "title": "$55 Christmas Dinner Menu (Yes, It Feeds 6-8!)",
+            "link": "https://therecipecritic.com/christmas-dinner-menu-plan/",
+            "description": "You all loved the affordable Thanksgiving Menu so much that I turned it into a challenge for Christmas. Could I…",
+            "pubDate": "2025-12-12T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/03/honey_ham-1.jpg"
         },
         {
             "title": "Missouri Journalists: How to Access the State Prison System’s Comprehensive Death Data",
@@ -117,13 +131,6 @@
             "image_url": "https://juliaberolzheimer.com/wp-content/uploads/2025/12/20251123-jb-leret-leret-vest-another-tomorrorw-pants-1000683-1024x1536.jpg"
         },
         {
-            "title": "$55 Christmas Dinner Menu (Yes, It Feeds 6-8!)",
-            "link": "https://therecipecritic.com/christmas-dinner-menu-plan/",
-            "description": "You all loved the affordable Thanksgiving Menu so much that I turned it into a challenge for Christmas. Could I…",
-            "pubDate": "2025-12-12T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2024/03/honey_ham-1.jpg"
-        },
-        {
             "title": "It’s Hard to Grieve in Prison. This Guide Can Help",
             "link": "https://www.themarshallproject.org/2025/12/12/prison-grief-death-hospice-trauma-guide",
             "description": "From breathing exercises to journaling prompts, we compiled steps that help with processing difficult emotions while locked up.",
@@ -135,7 +142,7 @@
             "link": "https://juliaberolzheimer.com/2025/12/cart-confidential-vol-30/",
             "description": "This week’s Cart Confidential leans into the pieces that feel right for the festive season ahead. Thoughtful gifts, polished accessories,… The post Ca...",
             "pubDate": "2025-12-12T05:00:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "The Winter Coat Revival",
@@ -145,25 +152,11 @@
             "image_url": "https://juliaberolzheimer.com/wp-content/uploads/2025/12/20251124-jb-giuliva-heritage-coat-la-ligne-pants-1009075-1024x1536.jpg"
         },
         {
-            "title": "Creamy Chicken Alfredo Soup",
-            "link": "https://therecipecritic.com/creamy-chicken-alfredo-soup/",
-            "description": "You guys are obsessed with my homemade alfredo sauce. So I had to make this creamy, cheesy chicken Alfredo soup!…",
-            "pubDate": "2025-12-11T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/11/chicken-alfredo-soup-hero.jpg"
-        },
-        {
             "title": "Last Chance Gifts",
             "link": "https://juliaberolzheimer.com/2025/12/last-chance-gifts/",
             "description": "If you’re finishing your holiday gifting, these last-chance picks from Net-A-Porter, Shopbop, and Tuckernuck arrive quickly yet feel wonderfully thoug...",
             "pubDate": "2025-12-11T20:30:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Parenting under pressure: Refugee fathers face a series of struggles",
-            "link": "https://childandfamilyblog.com/refugee-fathers-face-series-struggles/?utm_source=rss&utm_medium=rss&utm_campaign=refugee-fathers-face-series-struggles",
-            "description": "This blog post is based on research originally published in Turunç, G. & Kisbu, Y. (2025). Effects of pre- and post-displacement difficulties on paren...",
-            "pubDate": "2025-12-10T23:59:44",
-            "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/11/pexels-ahmed-akacha-3313934-6929741-scaled.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "How a Public Record Cost Cuyahoga County Taxpayers $650,000",
@@ -171,6 +164,13 @@
             "description": "A worker’s demotion after releasing court records to The Marshall Project - Cleveland led to a lawsuit alleging retaliation and witness intimidation.",
             "pubDate": "2025-12-10T21:20:00",
             "image_url": "https://mirrorball.themarshallproject.org/yWxq81jtYoR1SidZF64xYvNhtDNNCcQtCgN3vWbM8j4/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC9pazM4Ym5sNTB0/dWowcXdiM2cycGpu/Nm00bzhyL0hUX0NM/RS1KVURHRS1TRU1B/Ullfc29jaWFsXzI1/MTIxMC5qcGc"
+        },
+        {
+            "title": "Parenting under pressure: Refugee fathers face a series of struggles",
+            "link": "https://childandfamilyblog.com/refugee-fathers-face-series-struggles/?utm_source=rss&utm_medium=rss&utm_campaign=refugee-fathers-face-series-struggles",
+            "description": "This blog post is based on research originally published in Turunç, G. & Kisbu, Y. (2025). Effects of pre- and post-displacement difficulties on paren...",
+            "pubDate": "2025-12-10T23:59:44",
+            "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/11/pexels-ahmed-akacha-3313934-6929741-scaled.jpg"
         },
         {
             "title": "Our Favorite Things of 2025",
@@ -187,18 +187,18 @@
             "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/10/pexels-pavel-danilyuk-8205410-scaled.jpg"
         },
         {
-            "title": "Balancing children’s autonomy and relatedness in a shifting culture: How prosocial development and parental goals are linked",
-            "link": "https://childandfamilyblog.com/balancing-childrens-autonomy-relatedness-shifting-culture/?utm_source=rss&utm_medium=rss&utm_campaign=balancing-childrens-autonomy-relatedness-shifting-culture",
-            "description": "Key takeaways for caregivers​ Cultural shifts change what adults try to foster in children. In locations that are moving from collectivistic to more i...",
-            "pubDate": "2025-11-25T21:50:50",
-            "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/11/pexels-xperimental-33069002-scaled.jpg"
-        },
-        {
             "title": "After Five Years Of Living Here – We’re Renovating!!",
             "link": "https://www.younghouselove.com/why-we-are-renovating-again/",
             "description": "Cue the demo dust! After 5+ years of living in this house, we're embarking on a renovation! Of course over the holidays (because we are nothing if not...",
             "pubDate": "2025-11-25T18:54:29",
             "image_url": "https://www.younghouselove.com/wp-content/uploads/2020/10/Florida-House-Progress-Demo-Stairs-Laundry-650x488.jpg"
+        },
+        {
+            "title": "Balancing children’s autonomy and relatedness in a shifting culture: How prosocial development and parental goals are linked",
+            "link": "https://childandfamilyblog.com/balancing-childrens-autonomy-relatedness-shifting-culture/?utm_source=rss&utm_medium=rss&utm_campaign=balancing-childrens-autonomy-relatedness-shifting-culture",
+            "description": "Key takeaways for caregivers​ Cultural shifts change what adults try to foster in children. In locations that are moving from collectivistic to more i...",
+            "pubDate": "2025-11-25T21:50:50",
+            "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/11/pexels-xperimental-33069002-scaled.jpg"
         },
         {
             "title": "25 Holiday Gift Exchange Theme Ideas",
@@ -222,18 +222,18 @@
             "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/09/pexels-pixabay-51951-scaled.jpg"
         },
         {
-            "title": "How I Packed Light For My Trip to Italy",
-            "link": "https://www.younghouselove.com/how-to-pack-light-for-italy/",
-            "description": "Every time I go to Europe for a week with just one carry on (and a purse as my personal item) I get asked for a detailed rundown of how that's possibl...",
-            "pubDate": "2025-11-05T03:13:19",
-            "image_url": "https://www.younghouselove.com/wp-content/uploads/2025/11/Packing-Light-For-Italy-Featured-Image-650x575.jpg"
-        },
-        {
             "title": "Do adopted children struggle more than other children?",
             "link": "https://childandfamilyblog.com/do-adopted-children-struggle-more-than-other-children/?utm_source=rss&utm_medium=rss&utm_campaign=do-adopted-children-struggle-more-than-other-children",
             "description": "Key takeaways for caregivers Adoptive families and adopted people are, first and foremost, families and people. Adoption adds a trait, but it is not a...",
             "pubDate": "2025-11-05T23:25:39",
             "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/10/pexels-olia-danilevich-8524996-scaled.jpg"
+        },
+        {
+            "title": "How I Packed Light For My Trip to Italy",
+            "link": "https://www.younghouselove.com/how-to-pack-light-for-italy/",
+            "description": "Every time I go to Europe for a week with just one carry on (and a purse as my personal item) I get asked for a detailed rundown of how that's possibl...",
+            "pubDate": "2025-11-05T03:13:19",
+            "image_url": "https://www.younghouselove.com/wp-content/uploads/2025/11/Packing-Light-For-Italy-Featured-Image-650x575.jpg"
         },
         {
             "title": "Put Plan B into Action",
