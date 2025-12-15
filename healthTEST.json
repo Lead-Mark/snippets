@@ -2,14 +2,21 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-15T11:02:11.624517",
+    "lastBuildDate": "2025-12-15T16:30:54.854348",
     "items": [
         {
-            "title": "FDA commissioner on public's growing mistrust in the government's health advice",
-            "link": "https://www.npr.org/2025/12/15/nx-s1-5642516/fda-commissioner-on-publics-growing-mistrust-in-the-governments-health-advice",
-            "description": "NPR's Steve Inskeep asks FDA Commissioner Marty Makary about recent controversies around the COVID and Hepatitis B vaccines, and the lack of trust in ...",
-            "pubDate": "2025-12-15T10:08:38",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5642516"
+            "title": "What's behind the wellness claims for the synthetic dye methylene blue?",
+            "link": "https://www.npr.org/2025/12/15/nx-s1-5634680/methylene-blue-supplement-safety",
+            "description": "Taking drops of a medical dye is trending in wellness and biohacking circles. Some influencers claim it boosts longevity and brain health. Scientists ...",
+            "pubDate": "2025-12-15T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+0/resize/3500x1969!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F57%2F6846812545de9aa37d09642c311d%2Fnpr-blue-final.jpg"
+        },
+        {
+            "title": "ACA shoppers face sticker shock as Congress dithers on health care",
+            "link": "https://www.npr.org/sections/shots-health-news/2025/12/15/nx-s1-5644978/aca-costs-congress-health-care",
+            "description": "With subsidies that help consumers pay their health insurance premiums set to expire, health care shoppers face staggering prices. Lawmakers are runni...",
+            "pubDate": "2025-12-15T18:57:04",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F86%2F83e359e34030915d54d8ffab2e00%2Fgettyimages-2251244552.jpg"
         },
         {
             "title": "2 Minute Medicine Rewind December 15, 2025",
@@ -19,39 +26,53 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/07/Polycystic_ovary-300x150.jpg"
         },
         {
-            "title": "What's behind the wellness claims for the synthetic dye methylene blue?",
-            "link": "https://www.npr.org/2025/12/15/nx-s1-5634680/methylene-blue-supplement-safety",
-            "description": "Taking drops of a medical dye is trending in wellness and biohacking circles. Some influencers claim it boosts longevity and brain health. Scientists ...",
-            "pubDate": "2025-12-15T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+0/resize/3500x1969!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F57%2F6846812545de9aa37d09642c311d%2Fnpr-blue-final.jpg"
+            "title": "Drug-related pressure ulcers in hospitalised patients: a multicentre retrospective study in Japan identifying high-risk medications and patient characteristics",
+            "link": "https://www.2minutemedicine.com/drug-related-pressure-ulcers-in-hospitalised-patients-a-multicentre-retrospective-study-in-japan-identifying-high-risk-medications-and-patient-characteristics/",
+            "description": "1. Approximately one in nine hospitalised patients with pressure ulcers met criteria for definite drug-related pressure ulcers (DRPU), characterised b...",
+            "pubDate": "2025-12-15T16:00:27",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/06/Patient_in_hospital_bed_joondalup_health_campus-300x150.jpg"
         },
         {
-            "title": "New EGFR Lung Cancer Drug Nears EU Approval",
-            "link": "https://www.medscape.com/viewarticle/new-egfr-lung-cancer-drug-nears-eu-approval-2025a1000z55?src=rss",
-            "description": "The third generation EGFR TKI targets EGFR mutant NSCLC, showing improved progression free survival and fewer adverse events than standard therapy. Me...",
-            "pubDate": "2025-12-15T14:59:32",
+            "title": "FDA commissioner on growing public mistrust of government health advice",
+            "link": "https://www.npr.org/2025/12/15/nx-s1-5642516/fda-commissioner-martin-makary-public-trust-vaccines",
+            "description": "FDA Commissioner Martin Makary discusses vaccine policy, COVID-era decisions and the erosion of trust in government health guidance.",
+            "pubDate": "2025-12-15T10:08:38",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5184x3456+0+0/resize/5184x3456!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Faf%2F2b3e0bdf42538462195908eb57ad%2Fap25126636344428.jpg"
+        },
+        {
+            "title": "Blood test may help identify which colon cancer patients benefit from NSAIDs",
+            "link": "https://medicalxpress.com/news/2025-12-blood-colon-cancer-patients-benefit.html",
+            "description": "A blood test could help doctors decide which patients with colon cancer should receive anti-inflammatory medication along with chemotherapy after surg...",
+            "pubDate": "2025-12-15T21:10:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "FDA Approves Uplizna for Generalized Myasthenia Gravis",
+            "link": "https://www.medscape.com/viewarticle/fda-approves-first-class-drug-generalized-myasthenia-gravis-2025a1000z6f?src=rss",
+            "description": "The B-cell depleting therapy is indicated for adults with generalized myasthenia gravis and anti-acetylcholine receptor or anti-muscle-specific tyrosi...",
+            "pubDate": "2025-12-15T19:11:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "How should kratom be regulated? [PODCAST]",
+            "link": "https://kevinmd.com/2025/12/how-should-kratom-be-regulated-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Retired nurse practitioner Heidi Sykora discusses her article, “The c...",
+            "pubDate": "2025-12-15T00:00:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Obesity independently linked to prevalence of tinnitus",
+            "link": "https://medicalxpress.com/news/2025-12-obesity-independently-linked-prevalence-tinnitus.html",
+            "description": "Obesity is independently associated with an increased prevalence of tinnitus, according to a study published online Nov. 2 in Cureus.",
+            "pubDate": "2025-12-15T21:30:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Shorter disease duration seen with eustachian tube dysfunction in Meniere disease",
+            "link": "https://medicalxpress.com/news/2025-12-shorter-disease-duration-eustachian-tube.html",
+            "description": "For patients with Meniere disease (MD), Eustachian tube dysfunction (ETD) is associated with shorter disease duration and more severe aural fullness s...",
+            "pubDate": "2025-12-15T21:29:18",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Behavioral health spending spikes to 40% of all children's health expenditures, nearly doubling in a decade",
-            "link": "https://medicalxpress.com/news/2025-12-behavioral-health-spikes-children-expenditures.html",
-            "description": "Behavioral health care has surged to represent 40% of all medical expenditures for U.S. children in 2022, nearly doubling from 22% in 2011, according ...",
-            "pubDate": "2025-12-15T16:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Immunome's Tumor Drug Meets Main Goal in Late-stage Study",
-            "link": "https://www.medscape.com/s/viewarticle/immunomes-tumor-drug-meets-main-goal-late-stage-study-2025a1000z4c?src=rss",
-            "description": "Immunome said on Monday its experimental drug met the main goal in a late-stage study for patients with a rare type of tumor, sending its shares up 34...",
-            "pubDate": "2025-12-15T12:16:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "SMC Approves Givinostat for Duchenne Patients in Scotland",
-            "link": "https://www.medscape.com/viewarticle/smc-approves-givinostat-duchenne-patients-scotland-2025a1000z1m?src=rss",
-            "description": "Scotland’s NHS can now offer givinostat to ambulant children with Duchenne muscular dystrophy, marking a step forward in care. Medscape News UK",
-            "pubDate": "2025-12-15T12:08:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "EU Clears Generic Sleep Aid for Seniors With Insomnia",
@@ -61,53 +82,39 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Your cholesterol numbers: The good, the bad, the triglycerides",
-            "link": "https://medicalxpress.com/news/2025-12-cholesterol-good-bad-triglycerides.html",
-            "description": "If you want to maintain healthy cholesterol levels, the first step is knowing your numbers and what they actually mean—but at first glance, that can b...",
-            "pubDate": "2025-12-15T15:43:46",
+            "title": "New EGFR Lung Cancer Drug Nears EU Approval",
+            "link": "https://www.medscape.com/viewarticle/new-egfr-lung-cancer-drug-nears-eu-approval-2025a1000z55?src=rss",
+            "description": "The third generation EGFR TKI targets EGFR mutant NSCLC, showing improved progression free survival and fewer adverse events than standard therapy. Me...",
+            "pubDate": "2025-12-15T14:59:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Gene therapy for hereditary spastic paraplegia hits proof-of-principle milestone",
+            "link": "https://medicalxpress.com/news/2025-12-gene-therapy-hereditary-spastic-paraplegia.html",
+            "description": "There is no cure for the rare disease Hereditary Spastic Paraplegia (HSP), but researchers from Drexel University's College of Medicine and the UMass ...",
+            "pubDate": "2025-12-15T21:12:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "FDA Approves Niraparib-abiraterone Acetate Combo for CSPC",
+            "link": "https://www.medscape.com/viewarticle/fda-approves-niraparib-abiraterone-acetate-combo-cspc-2025a1000z65?src=rss",
+            "description": "The treatment combination was previously approved in BRCA2m-positive patients with metastatic castrate-resistant prostate cancer. Medscape Medical New...",
+            "pubDate": "2025-12-15T18:14:51",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "First European Guide on Light Therapy in Cancer Care",
-            "link": "https://www.medscape.com/viewarticle/first-european-guide-light-therapy-cancer-care-2025a1000z3d?src=rss",
-            "description": "AFSOS 2025 introduced the first European reference for photobiomodulation, outlining the evidence, dosing, and clinical use in supportive cancer care....",
-            "pubDate": "2025-12-15T12:16:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Resident Doctors in England Confirm Strike After BMA Poll",
+            "link": "https://www.medscape.com/s/viewarticle/resident-doctor-england-confirm-strike-after-bma-poll-2025a1000z5m?src=rss",
+            "description": "Resident doctors in England have confirmed strike action following a BMA poll, despite warnings of patient safety risks amid a flu surge. Press Associ...",
+            "pubDate": "2025-12-15T16:38:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "How should kratom be regulated? [PODCAST]",
-            "link": "https://kevinmd.com/2025/12/how-should-kratom-be-regulated-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Retired nurse practitioner Heidi Sykora discusses her article, “The c...",
-            "pubDate": "2025-12-15T00:00:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "COVID-19 vaccination significantly reduces risk to pregnant women and babies, study finds",
-            "link": "https://medicalxpress.com/news/2025-12-covid-vaccination-significantly-pregnant-women.html",
-            "description": "Pregnant people who received a COVID-19 vaccine were far less likely to experience severe illness or deliver their babies prematurely, according to a ...",
-            "pubDate": "2025-12-15T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Smartwatch system helps parents shorten and defuse children's severe tantrums early",
-            "link": "https://medicalxpress.com/news/2025-12-smartwatch-parents-shorten-defuse-children.html",
-            "description": "Mayo Clinic researchers have developed a smartwatch-based alert system that signals parents at the earliest signs of a tantrum in children with emotio...",
-            "pubDate": "2025-12-15T16:00:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Hawaiʻi life expectancy decline smaller than US average during COVID-19 pandemic",
-            "link": "https://medicalxpress.com/news/2025-12-hawaii-life-decline-smaller-average.html",
-            "description": "While life expectancy across the U.S. declined significantly during the COVID-19 pandemic, a new study led by researchers at the University of Hawaiʻi...",
-            "pubDate": "2025-12-15T15:06:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Tanning bed users are at higher risk of skin cancer, especially in unusual places",
-            "link": "https://www.npr.org/sections/shots-health-news/2025/12/14/nx-s1-5640088/tanning-bed-users-are-at-higher-risk-of-skin-cancer-especially-in-unusual-places",
-            "description": "Indoor tanning is trending among Gen Z. A new study finds tanning bed users not only have a much higher risk of melanoma, they also have DNA damage li...",
-            "pubDate": "2025-12-14T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2F9b%2Fd277269d46488eba97200107649f%2Fgettyimages-152141609.jpg"
+            "title": "Personality traits are powerful predictors of risk of death",
+            "link": "https://medicalxpress.com/news/2025-12-personality-traits-powerful-predictors-death.html",
+            "description": "A study from the University of Limerick analyzing almost six million person-years of data has revealed that personality traits are linked to longevity...",
+            "pubDate": "2025-12-15T21:16:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Measles cases spike in South Carolina",
@@ -124,32 +131,32 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+0/resize/3200x1800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F45%2F1eee03a24adfb8e1b974faef9ee2%2Fjesse-zhang-npr-final.jpg"
         },
         {
+            "title": "Why senior-friendly health materials are essential for access",
+            "link": "https://kevinmd.com/2025/12/why-senior-friendly-health-materials-are-essential-for-access.html",
+            "description": "I have spent years working with older adults in community and home-based care. During that time, I learned that one of the most stubborn barriers to h...",
+            "pubDate": "2025-12-14T16:00:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
             "title": "Physician leadership communication tips",
             "link": "https://kevinmd.com/2025/12/physician-leadership-communication-tips.html",
             "description": "Let’s be honest. Most frontline clinicians don’t wake up worrying about CDC updates. They’re worrying about whether the ED has enough staff, or whethe...",
             "pubDate": "2025-12-14T20:00:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Why developmental and behavioral pediatrics faces a recruitment collapse",
             "link": "https://kevinmd.com/2025/12/why-developmental-and-behavioral-pediatrics-faces-a-recruitment-collapse.html",
             "description": "For two months I have staged testimony, written op-eds, and amplified coalition voices about the collapse of developmental and behavioral pediatrics (...",
             "pubDate": "2025-12-14T14:00:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Valuing non-procedural physician skills",
             "link": "https://kevinmd.com/2025/12/valuing-non-procedural-physician-skills.html",
             "description": "No matter the specialty, the best doctors make it look effortless and “easy.” Whether it’s suturing a jagged laceration, reading an MRI spine with mul...",
             "pubDate": "2025-12-14T12:00:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why senior-friendly health materials are essential for access",
-            "link": "https://kevinmd.com/2025/12/why-senior-friendly-health-materials-are-essential-for-access.html",
-            "description": "I have spent years working with older adults in community and home-based care. During that time, I learned that one of the most stubborn barriers to h...",
-            "pubDate": "2025-12-14T16:00:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Vitamin D Levels During Pregnancy and Dental Caries in Offspring",
@@ -171,13 +178,6 @@
             "description": "1. In this randomized controlled trial, breast density notification was associated with increased anxiety and confusion without helping women feel mor...",
             "pubDate": "2025-12-11T00:00:44",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/03/Mammogram_with_subtle_cancer-300x150.jpg"
-        },
-        {
-            "title": "Nucleoside-modified mRNA influenza vaccine more effective than standard shot in adults",
-            "link": "https://www.2minutemedicine.com/nucleoside-modified-mrna-influenza-vaccine-more-effective-than-standard-shot-in-adults/",
-            "description": "1. A nucleoside-modified mRNA (modRNA) influenza vaccine showed greater protection against influenza-like illness compared to a standard inactivated v...",
-            "pubDate": "2025-12-10T16:00:34",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/10/vaccine7_PD_edited-300x150.jpg"
         }
     ]
 }
