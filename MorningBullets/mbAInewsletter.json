@@ -2,231 +2,392 @@
     "title": "mbAInewsletter",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from mbAInewsletter, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-15T16:29:57.271589",
+    "lastBuildDate": "2025-12-16T06:55:12.633121",
     "items": [
         {
-            "title": "Here’s Why the U.S. Will (Probably) Dodge a Recession in 2026",
-            "link": "https://money.com/recession-predictions-2026/?xid=moneyrss",
-            "description": "Economists predict growth to slow but not outright reverse in 2026 — and that's good news for your wallet.",
-            "pubDate": "2025-12-15T13:31:12",
-            "image_url": "https://img.money.com/2025/12/News-Reccession-Watch-2026.jpg?quality=85"
+            "title": "Technological shifts are breeding a new type of CEO: Meet 25 rising execs inside the Fortune 500",
+            "link": "https://fortune.com/2025/12/16/fortune-next-to-lead-list-2026-new-breed-ceo/",
+            "description": "Also: All the news and watercooler chat from Fortune.",
+            "pubDate": "2025-12-16T11:08:22",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2247739327-e1765883017156.jpg?w=2048"
         },
         {
-            "title": "R&B Legend Carl Carlton, Iconic Voice Behind 'She's a Bad Mama Jama,' Dies at 72: What Was He Worth?",
-            "link": "https://www.finance-monthly.com/carl-carlton-death-net-worth/",
-            "description": "R&B and funk star Carl Carlton, forever known for his irresistible 1981 hit \"She's a Bad Mama Jama (She's Built, She's Stacked),\" passed away on Decem...",
-            "pubDate": "2025-12-15T15:59:19",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/12/1954617185CarlCARLTONB1-1024x596.jpg"
+            "title": "Walmart is selling a 14-inch laptop for only $129",
+            "link": "https://www.thestreet.com/deals/hp-14inch-hd-windows-laptop-walmart-sale",
+            "description": "One shopper said \"if you don't get this thing you will regret it.\"",
+            "pubDate": "2025-12-16T09:00:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE0NzE2NTc4MDE1NDg3Nzgw/walmart-retail-department-store-lead.jpg"
         },
         {
-            "title": "Analyst Report: UWM Holdings Corporation",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_5978_AnalystReport_1765801278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "title": "Tesla Rival Xpeng Receives Level 3 Autonomous Testing Permit Amid Planned Robotaxi Push: Report",
+            "link": "https://www.benzinga.com/markets/tech/25/12/49413927/tesla-rival-xpeng-receives-level-3-autonomous-testing-permit-amid-planned-robotaxi-push-report",
+            "description": "Chinese automaker Xpeng Inc. has reportedly received permit to test Level 3 autonomous vehicles in the country. read more",
+            "pubDate": "2025-12-16T10:08:27",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/16/Shanghai-china-april-27--2023-Xpeng-Car-.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "GLJ Research's Gordon Johnson Mocks Tesla Optimus As Chuck E Cheese-Level Tech: 'Will Not Sell One Of These Things In 2026'",
+            "link": "https://www.benzinga.com/markets/tech/25/12/49413937/glj-researchs-gordon-johnson-mocks-tesla-optimus-as-chuck-e-cheese-level-tech-will-not-sell-one-of-t",
+            "description": "GLJ Research analyst Gordon Johnson slammed Tesla's Optimus as \"1980s Chuck E. Cheese–level\" animatronics. read more",
+            "pubDate": "2025-12-16T10:09:04",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/16/Tesla-Optimus-Futuristic-Humanoid-Autono_0.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Macy's is selling a $150 luxe faux fur throw for only $30 as the perfect holiday gift",
+            "link": "https://www.thestreet.com/deals/hotel-collection-faux-fur-throw-macys-sale",
+            "description": "Shoppers call this find \"the softest blanket ever.\"",
+            "pubDate": "2025-12-16T08:00:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MTY4NjQwMTczNDI3Nzk1ODYz/jim-cramer-says-macys-closing-stores-is-a-sign-of-health.jpg"
+        },
+        {
+            "title": "The silent, subtle mistakes that take executives out of the CEO race",
+            "link": "https://fortune.com/article/silent-mistakes-executives-ceo-race-search-cues-boards/",
+            "description": "In a CEO search, small moments can end a candidacy instantly.",
+            "pubDate": "2025-12-16T11:44:45",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2229543535-e1765847186299.jpg?w=2048"
+        },
+        {
+            "title": "Amazon is selling a $30 portable speaker for only $13 as a holiday sale",
+            "link": "https://www.thestreet.com/deals/dbsono-portable-bluetooth-speaker-amazon-sale",
+            "description": "It's a great last-minute gift.",
+            "pubDate": "2025-12-16T10:00:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjA0OTczNTQ2MTczMTE0MTA4/coway-airmega-air-purifier-amazon-sale.jpg"
+        },
+        {
+            "title": "Barrick Mining regains operational control of Loulo-Gounkoto mine in Mali",
+            "link": "https://finance.yahoo.com/news/barrick-mining-regains-operational-control-114406766.html",
             "description": "",
-            "pubDate": "2025-12-15T12:21:18",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+            "pubDate": "2025-12-16T11:44:06",
+            "image_url": "https://media.zenfs.com/en/mining_technology_700/2f9738f3bba9d82883eb62e7de41c5b5"
         },
         {
-            "title": "A Look Into Natural Grocers Inc's Price Over Earnings",
-            "link": "https://www.benzinga.com/insights/news/25/12/49400983/a-look-into-natural-grocers-incs-price-over-earnings",
-            "description": "read more",
-            "pubDate": "2025-12-15T18:00:41",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_2.jpg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+            "title": "Nike's oversized crewneck sweatshirt is on sale for only $43, and it comes in 14 colors",
+            "link": "https://www.thestreet.com/deals/nike-phoenix-fleece-oversized-crewneck-sweatshirt-nike-sale",
+            "description": "Shoppers say it's the \"best looking\" and \"most practical\" sweatshirt they've ever owned.",
+            "pubDate": "2025-12-16T11:30:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjEyNzQ3MzM4MTk0NjI2MTc2/german-economy-as-the-nation-hosts-the-euro-2024soccer-championship.jpg"
         },
         {
-            "title": "World’s Best Digital Banks 2025: Round II—Consumer Regional",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-consumer-regional/",
-            "description": "‘Phygital’ strategies and tools help consumer banks blend advanced technology and AI with accessibility and financial inclusion. The post World’s Best...",
-            "pubDate": "2025-12-15T15:00:31",
-            "image_url": "https://public.flourish.studio/visualisation/26823935/thumbnail"
-        },
-        {
-            "title": "Former Meta integrity chief says new report reveals ‘disappointing’ ad fraud epidemic at the social-media giant",
-            "link": "https://fortune.com/2025/12/15/former-meta-integrity-chief-ad-fraud-epidemic-china-scams/",
-            "description": "An internal audit warned of systemic corruption, yet Meta expanded Chinese ad partnerships that generated billions—much of it tied to fraud.",
-            "pubDate": "2025-12-15T20:08:17",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2243442616-e1765828252174.jpg?w=2048"
-        },
-        {
-            "title": "World’s Best Digital Banks 2025: Round II—Corporate Winners",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-corporate-winners/",
-            "description": "This year’s winners highlight the banks that are leading digital transformation in the corporate and institutional sector. The post World’s Best Digit...",
-            "pubDate": "2025-12-15T13:16:17",
-            "image_url": "https://public.flourish.studio/visualisation/26821603/thumbnail"
-        },
-        {
-            "title": "Movies struggle for place in changing entertainment market",
-            "link": "https://www.thestreet.com/entertainment/movies-struggle-for-place-in-changing-entertainment-market",
-            "description": "The legendary actor and filmmaker Orson Welles believed that a happy ending depended upon where you stopped your story. Movies have had a long and inc...",
-            "pubDate": "2025-12-15T19:13:46",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MTkxODIwMDM2MjI1MTE1ODEx/movie-theatre_4_082322_kl.jpg"
-        },
-        {
-            "title": "Analyst Report: Merck & Co Inc",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_3209_AnalystReport_1765801278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-            "description": "",
-            "pubDate": "2025-12-15T12:21:18",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
-        },
-        {
-            "title": "Rivian CEO says the EV maker’s new large driving model will one day allow for fully autonomous driving—and maybe a spot in the robotaxi race",
-            "link": "https://fortune.com/2025/12/15/rivian-ceo-ev-maker-new-chips-autonomous-driving-robotaxi/",
-            "description": "“Our initial focus will be on personally owned vehicles,\" RJ Scaringe said. But \"this also enables us to pursue opportunities in the rideshare space.\"",
-            "pubDate": "2025-12-15T21:18:34",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2250624058-e1765833300623.jpg?w=2048"
-        },
-        {
-            "title": "High earners face £15k income hit by 2029 following Autumn Budget",
-            "link": "https://moneyweek.com/personal-finance/tax/high-earners-autumn-budget-income-hit",
-            "description": "Rachel Reeves’s Autumn Budget means high earners – or HENRYs – are now looking at an income hit running into the thousands. Can you avoid it?",
-            "pubDate": "2025-12-15T17:23:21",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/H4TxqrD79Sf2GFUFyERMe5-1280-80.jpg"
-        },
-        {
-            "title": "Energy secretary says electricity prices will drop under Trump administration policies",
-            "link": "https://www.foxbusiness.com/economy/energy-secretary-says-electricity-prices-drop-under-trump-administration-policies",
-            "description": "Energy Secretary Chris Wright said that President Donald Trump's pro-energy policies will stop rising electricity prices and eventually reduce costs d...",
-            "pubDate": "2025-12-15T19:06:43",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/chris-wright-hearing.jpg"
-        },
-        {
-            "title": "World’s Best Digital Banks 2025: Round II—Consumer Winners",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-consumer-winners/",
-            "description": "Consumer banking is moving far beyond traditional branch-based models. The post World’s Best Digital Banks 2025: Round II—Consumer Winners appeared fi...",
-            "pubDate": "2025-12-15T13:58:50",
-            "image_url": "https://public.flourish.studio/visualisation/26821949/thumbnail"
-        },
-        {
-            "title": "This Simple Spreadsheet Could Change Your Financial Life",
-            "link": "https://money.com/simple-spreadsheet-financial-life/?xid=moneyrss",
-            "description": "It's a simple way to track your income and expenses.",
-            "pubDate": "2025-12-15T12:00:41",
-            "image_url": "https://img.money.com/2025/12/Explainer-Spreadsheet-Change-Financial-Life.jpg?quality=85"
-        },
-        {
-            "title": "World’s Best Digital Banks 2025: Round II—Consumer Regional",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-consumer-regional/",
-            "description": "‘Phygital’ strategies and tools help consumer banks blend advanced technology and AI with accessibility and financial inclusion. The post World’s Best...",
-            "pubDate": "2025-12-15T15:00:31",
-            "image_url": "https://public.flourish.studio/visualisation/26823935/thumbnail"
-        },
-        {
-            "title": "Walmart's bestselling fleece throw blanket is only $11 during a limited-time Flash deal",
-            "link": "https://www.thestreet.com/deals/exclusivo-mezcla-fleece-throw-blanket-walmart-flash-sale",
-            "description": "\"My go-to everyday blanket.\"",
-            "pubDate": "2025-12-15T19:30:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE3MDkzNjk1MzExMTkzNDU1/daily-life-in-edmonton.jpg"
-        },
-        {
-            "title": "World’s Best Digital Banks 2025: Round II—Corporate Winners",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-corporate-winners/",
-            "description": "This year’s winners highlight the banks that are leading digital transformation in the corporate and institutional sector. The post World’s Best Digit...",
-            "pubDate": "2025-12-15T13:16:17",
-            "image_url": "https://public.flourish.studio/visualisation/26821603/thumbnail"
-        },
-        {
-            "title": "AT&T Settlement Deadline Is Thursday: How to Claim Up to $7,500",
-            "link": "https://money.com/att-settlement-deadline-extended/?xid=moneyrss",
-            "description": "After the filing window closes, all submissions will be reviewed, and payments will start going out once the court grants final approval on Jan. 15.",
-            "pubDate": "2025-12-15T18:19:03",
-            "image_url": "https://img.money.com/2025/11/News-ATT-Settlement-Deadline-Extended.jpg?quality=85"
-        },
-        {
-            "title": "Quality emerging market companies with consistent returns",
-            "link": "https://moneyweek.com/investments/emerging-markets/quality-emerging-market-companies-with-consistent-returns",
-            "description": "Mark Hammonds, portfolio manager at Guinness Global Investors, selects three emerging market stocks where he'd put his money",
-            "pubDate": "2025-12-15T09:30:00",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/jgPdXUD7A6VJHtVZ2qrGU6-1280-80.jpg"
-        },
-        {
-            "title": "World’s Best Digital Banks 2025: Round II—Consumer Winners",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-consumer-winners/",
-            "description": "Consumer banking is moving far beyond traditional branch-based models. The post World’s Best Digital Banks 2025: Round II—Consumer Winners appeared fi...",
-            "pubDate": "2025-12-15T13:58:50",
-            "image_url": "https://public.flourish.studio/visualisation/26821949/thumbnail"
-        },
-        {
-            "title": "Small businesses say Trump tariffs are hurting this group of consumers this holiday season—here’s what is getting more expensive",
-            "link": "https://fortune.com/2025/12/15/small-businesses-trump-tariffs-are-hurting-consumers-holiday-season/",
-            "description": "Consumers' estimated gift budgets decreased $229 between October and November, according to a Gallup index.",
-            "pubDate": "2025-12-15T20:05:17",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25343629468543-e1765827188879.jpg?w=2048"
-        },
-        {
-            "title": "Trump vows to fight ‘fraud’ in SNAP benefits for 42 million Americans",
-            "link": "https://fortune.com/2025/12/15/trump-accuses-snap-benefits-of-fraud-government-shutdown/",
-            "description": "“It's always something that goes wrong,” Jamal Brown, a 41-year-old food stamp participant said, “unfortunately.”",
-            "pubDate": "2025-12-15T20:04:54",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2245332370-e1765824569231.jpg?w=2048"
-        },
-        {
-            "title": "Millions underestimate how many paydays are left until retirement  - why you should be counting your payslips",
-            "link": "https://moneyweek.com/personal-finance/pensions/millions-underestimate-how-many-paydays-are-left-until-retirement-why-you-should-be-counting-your-payslips",
-            "description": "Keeping track of how long you will be earning a salary for can help work out how much you need to put into a workplace pension",
-            "pubDate": "2025-12-15T17:07:47",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/3GHeTsqoHu3pA8T7rZztzQ-1280-80.jpg"
-        },
-        {
-            "title": "Weekly Stock List",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_45601_StockPicks_1765802680000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-            "description": "",
-            "pubDate": "2025-12-15T12:44:40",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
-        },
-        {
-            "title": "Jim Carrey Nearly Walked Away From The Grinch Despite a $20 Million Payday",
-            "link": "https://www.finance-monthly.com/jim-carrey-almost-quit-grinch/",
-            "description": "Jim Carrey was already one of Hollywood’s most bankable stars when he signed on to play the Grinch, yet the role almost ended his involvement after a ...",
-            "pubDate": "2025-12-15T15:43:35",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/12/jim-carrey-how-the-grinch-stole-christmas-1024x577.webp"
-        },
-        {
-            "title": "Walmart is selling 'comfortable' $160 wireless Bluetooth headphones for only $18 that arrive before the holidays",
-            "link": "https://www.thestreet.com/deals/ikt-wireless-bluetooth-headphones-walmart-sale",
-            "description": "These headphones offer multiple features for any music listener or TV fanatic.",
-            "pubDate": "2025-12-15T20:15:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjEwODE2MzA5MzU1NjIwMTc3/a-walmart-store-ahead-of-earnings-figures.jpg"
-        },
-        {
-            "title": "Micron Stock Climbs As Wedbush Says Shares Are Headed To $300",
-            "link": "https://www.benzinga.com/trading-ideas/movers/25/12/49401337/micron-stock-climbs-as-wedbush-says-shares-are-headed-to-300",
-            "description": "Micron Technology Inc (NASDAQ:MU) shares climbed on Monday after Wedbush reiterated its bullish stance and lifted its price target. read more",
-            "pubDate": "2025-12-15T18:07:02",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/15/Micron.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "Gold price today, Monday, December 15: Gold opens above $4,300 as rate outlook remains unclear",
-            "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-december-15-gold-opens-above-4300-as-rate-outlook-remains-unclear-125044340.html",
-            "description": "",
-            "pubDate": "2025-12-15T12:50:44",
-            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-10/536e06e0-b113-11f0-97fe-489e0315cec6"
-        },
-        {
-            "title": "Johnson & Johnson Gets Target Hike, But BofA Flags Modest Pipeline Impact",
-            "link": "https://www.benzinga.com/analyst-stock-ratings/price-target/25/12/49401381/johnson-johnson-gets-target-hike-but-bofa-flags-modest-pipeline-impact",
-            "description": "BofA raised Johnson & Johnson's price target to $220, citing steady growth, but sees limited upside from its pipeline through 2026. read more",
-            "pubDate": "2025-12-15T18:08:06",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/15/JohnsonandJohnson-New-York--Usa---May-9-.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "Will the House GOP Health Care Plan Survive the Week?",
+            "title": "Inside the House GOP’s Battle Over Health Care",
             "link": "https://www.dailysignal.com/2025/12/15/will-the-house-gop-health-care-plan-survive-the-week/",
             "description": "House Republican leadership is hoping to pass a health care plan this week. But it could hit some major speed bumps along the way. Going... Read More ...",
-            "pubDate": "2025-12-15T21:01:00",
+            "pubDate": "2025-12-16T00:10:07",
             "image_url": "https://www.dailysignal.com/wp-content/uploads/2025/12/Brian-Fitzpatrick-1024x532.jpg"
         },
         {
-            "title": "World’s Best Digital Banks 2025: Round II—Global Winners",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-global-winners/",
-            "description": "The global banking industry is currently in the midst of a profound digital transformation, propelled by the accelerating pace of technological advanc...",
-            "pubDate": "2025-12-15T16:58:17",
-            "image_url": "https://public.flourish.studio/visualisation/26826691/thumbnail"
+            "title": "Destination XL, FullBeauty merge to offer inclusive apparel at scale",
+            "link": "https://finance.yahoo.com/news/destination-xl-fullbeauty-merge-offer-114704900.html",
+            "description": "",
+            "pubDate": "2025-12-16T11:47:04",
+            "image_url": "https://media.zenfs.com/en/just_style_482/e18c705cebdc2ecfe6d0e690aeef77d0"
         },
         {
-            "title": "Comfort food chain shuts all locations after Chapter 11 filing",
-            "link": "https://www.thestreet.com/restaurants/comfort-food-chain-biscuit-bar-shuts-all-locations-after-chapter-11-filing",
-            "description": "Comfort food means something different to every person. For some, it might be a favorite dish from childhood that they rarely eat anymore, while for o...",
-            "pubDate": "2025-12-15T19:30:14",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjE2ODM4MDM0NDMwMTA5MjAz/closing-store-closed-closure-lead.jpg"
+            "title": "Anthony Geary Dead at 78 After Surgery Complications in Amsterdam: How Much Was the ‘General Hospital’ Legend Worth?",
+            "link": "https://www.finance-monthly.com/anthony-geary-dead-net-worth/",
+            "description": "Anthony Geary, the legendary actor whose portrayal of Luke Spencer reshaped daytime television, has died. He was 78. Geary passed away Sunday in Amste...",
+            "pubDate": "2025-12-16T11:27:10",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/12/download-15-1024x732.jpg"
+        },
+        {
+            "title": "Fed official forecasts bold path for interest rates, GDP in 2026",
+            "link": "https://www.thestreet.com/fed/fed-official-forecasts-bold-path-for-interest-rates-gdp-in-2026",
+            "description": "Let’s ponder for a moment what might happen to interest rates in 2026. The past 12 months have been quite an economic ride: Historic in some respects,...",
+            "pubDate": "2025-12-16T11:33:00",
+            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/NDA6MDAwMDAwMDAyNzk4NDUz/john-williams-president-and-chief-executive-officer-of-the-federal-reserve-bank-of-new-york-speaks-during-an-economic-club-of-new-york-ecny-event-in-new-york-us-on-thursday-sept-4-2025-williams-said-h.jpg"
+        },
+        {
+            "title": "Build a Smarter 2026 Personal Budget That Sets You Up for Success",
+            "link": "https://www.finance-monthly.com/smarter-2026-budget/",
+            "description": "As 2026 approaches, now is the perfect time to take control of your personal finances and set yourself up for a year of financial clarity and confiden...",
+            "pubDate": "2025-12-16T10:58:01",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2024/05/iStock-1185358443.jpg"
+        },
+        {
+            "title": "Mirae Asset Securities: Embedding Innovation at the Core of Global Private Banking",
+            "link": "https://gfmag.com/banking/mirae-asset-securities-embedding-innovation-at-the-core-of-global-private-banking/",
+            "description": "Korea’s leading private bank has long prided itself on identifying the next frontier of investment opportunity. Today, that forward-leaning ethos has ...",
+            "pubDate": "2025-12-16T11:02:48",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2025/12/Mirae-Asset-Daewoo-Global-Branches-Official-Logo-HK_NY_Singapore_London_Vietnam-1024x339.png"
+        },
+        {
+            "title": "How Students Can Budget Smartly: 7 Tips to Manage Money While Studying",
+            "link": "https://www.finance-monthly.com/how-students-can-budget-smartly-7-tips-to-manage-money-while-studying/",
+            "description": "The transition to higher education is often the first significant foray into financial independence, presenting both opportunities and considerable ri...",
+            "pubDate": "2025-12-16T11:37:12",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/12/iStock-956311346-1024x576.jpg"
+        },
+        {
+            "title": "Vivek Ramaswamy's Bitcoin Treasury Company Is Facing Turbulence: Momentum Score Plummets",
+            "link": "https://www.benzinga.com/crypto/cryptocurrency/25/12/49413638/vivek-ramaswamys-bitcoin-treasury-company-is-facing-turbulence-momentum-score-plummets",
+            "description": "Former Republican Presidential Candidate and current Ohio state gubernatorial hopeful Vivek Ramaswamy’s Bitcoin (CRYPTO: BTC ) treasury company i read...",
+            "pubDate": "2025-12-16T10:01:14",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/16/Vivek-Ramaswamy-Criticizes-a-Law-That-Be.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Rivian CEO RJ Scaringe Hasn't Ruled Out Robotaxis, Says RIVN Is Focused On Level 4 Autonomy",
+            "link": "https://www.benzinga.com/markets/tech/25/12/49413329/rivian-ceo-rj-scaringe-hasnt-ruled-out-robotaxis-says-rivn-is-focused-on-level-4-autonomy",
+            "description": "Rivian CEO RJ Scaringe hints at the possibility of the automaker entering the Robotaxi market in the future. read more",
+            "pubDate": "2025-12-16T09:18:04",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/16/Rivian.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Mirae Asset Securities: Embedding Innovation at the Core of Global Private Banking",
+            "link": "https://gfmag.com/banking/mirae-asset-securities-embedding-innovation-at-the-core-of-global-private-banking/",
+            "description": "Korea’s leading private bank has long prided itself on identifying the next frontier of investment opportunity. Today, that forward-leaning ethos has ...",
+            "pubDate": "2025-12-16T11:02:48",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2025/12/Mirae-Asset-Daewoo-Global-Branches-Official-Logo-HK_NY_Singapore_London_Vietnam-1024x339.png"
+        },
+        {
+            "title": "Trump sues BBC for $10 billion over January 6 video editing",
+            "link": "https://fortune.com/2025/12/16/trump-sues-bbc-for-10-billion-over-january-6-video-editing/",
+            "description": "The broadcaster had apologized last month to Trump over the edit of the speech. But the publicly funded broadcaster rejected claims it had defamed him...",
+            "pubDate": "2025-12-16T10:40:25",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25349735695836-e1765881481357.jpg?w=2048"
+        },
+        {
+            "title": "Google Taps TotalEnergies For Clean Power To Run Malaysia Data Centers",
+            "link": "https://www.benzinga.com/markets/large-cap/25/12/49413961/google-taps-totalenergies-for-clean-power-to-run-malaysia-data-centers",
+            "description": "TotalEnergies pens 21-year power purchase agreement with Google to supply 1 TWh of renewable electricity from a solar project in Malaysia. read more",
+            "pubDate": "2025-12-16T10:12:27",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/16/French-Totalenergies-Fuel-And-Gas-Statio.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Citi’s investment management unit head joins BlackRock – report",
+            "link": "https://finance.yahoo.com/news/citi-investment-management-unit-head-114604997.html",
+            "description": "",
+            "pubDate": "2025-12-16T11:46:04",
+            "image_url": "https://media.zenfs.com/en/private_banker_international_938/b113f28e17f363841736156208a8db88"
+        },
+        {
+            "title": "Sydney Sweeney Dazzles in Plunging White Gown at The Housemaid Premiere In Los Angeles",
+            "link": "https://www.finance-monthly.com/sydney-sweeney-housemaid-premiere/",
+            "description": "Sydney Sweeney arrived in spectacular fashion at the Los Angeles premiere of her psychological thriller The Housemaid on Monday night, leaving the red...",
+            "pubDate": "2025-12-16T11:45:17",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/10/SYDNEY2011032420GettyImages-2066808961-1024x576.webp"
+        },
+        {
+            "title": "How to limit how much of your Christmas bonus goes to the taxman",
+            "link": "https://moneyweek.com/personal-finance/tax/how-to-limit-how-much-christmas-bonus-goes-to-hmrc-tax",
+            "description": "It's Christmas bonus season but the boosted pay packet may mean much of your hard-earned reward ends up with HMRC instead of in your pocket",
+            "pubDate": "2025-12-16T11:34:18",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/XMTrgWRXgPvYr8Ytu2kv6j-1280-80.jpg"
+        },
+        {
+            "title": "America’s $38 trillion national debt ‘exacerbates generational imbalances’ with Gen Z and Millennials paying the price, warns think tank",
+            "link": "https://fortune.com/2025/12/16/us-national-debt-generationa-imbalances-research-think-tank/",
+            "description": "\"Without significant policy changes to reduce debt growth, future generations will inherit a budget where significant resources are locked into servic...",
+            "pubDate": "2025-12-16T11:32:02",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2250789175-e1765883916103.jpg?w=2048"
+        },
+        {
+            "title": "Morning Bid: Jobs news, AI blues and falling oil",
+            "link": "https://finance.yahoo.com/news/morning-bid-jobs-news-ai-113823579.html",
+            "description": "",
+            "pubDate": "2025-12-16T11:38:23",
+            "image_url": "https://media.zenfs.com/en/reuters.com/ba45b9c65231f27ffd572da773533f07"
+        },
+        {
+            "title": "Peter Greene Found Dead at 60: What We Know So Far — and How Much He Was Worth",
+            "link": "https://www.finance-monthly.com/peter-greene-dead-net-worth/",
+            "description": "Hollywood is mourning the sudden death of Peter Greene, the intense character actor best known for Pulp Fiction, The Mask, and Training Day, who was f...",
+            "pubDate": "2025-12-16T11:49:10",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/12/resize-1-1-1024x576.webp"
+        },
+        {
+            "title": "WSP Global signs agreement to acquire power and energy company TRC",
+            "link": "https://finance.yahoo.com/news/wsp-global-signs-agreement-acquire-114121529.html",
+            "description": "",
+            "pubDate": "2025-12-16T11:41:21",
+            "image_url": "https://media.zenfs.com/en/power_technology_866/35cc04de9876e6fa6682b368114f9c42"
+        },
+        {
+            "title": "Global selloff in stocks signals AI bubble may be ending in the healthiest way possible",
+            "link": "https://fortune.com/2025/12/16/stocks-global-selloff-ai-bubble-ends/",
+            "description": "Investors are selling off individual stocks of companies that seem to be overextended, but they are broadly bullish on stocks as a whole.",
+            "pubDate": "2025-12-16T11:45:30",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-sb10063964a-001.jpg?w=2048"
+        },
+        {
+            "title": "Citigroup's Big Changes Paid Off, But The Easy Gains Are Gone",
+            "link": "https://seekingalpha.com/article/4853625-citigroups-stock-big-changes-paid-off-but-the-easy-gains-are-gone?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-12-16T11:31:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Fed Outlook 2026: Rate Forecasts And Fixed Income Strategies",
+            "link": "https://seekingalpha.com/article/4853622-fed-outlook-2026-rate-forecasts-fixed-income-strategies?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-12-16T10:58:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Caesars Entertainment expands presence in Las Vegas with new sportsbook",
+            "link": "https://seekingalpha.com/news/4531846-caesars-entertainment-expands-presence-in-las-vegas-with-new-sportsbook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2025-12-16T11:49:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Employers likely added 40,000 jobs in November as government releases report",
+            "link": "https://abcnews.go.com/Business/wireStory/employers-added-40000-jobs-november-government-releases-report-128441516",
+            "description": "The U.S. job market is sluggish and confusing this fall",
+            "pubDate": "2025-12-16T05:33:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Atlas Lithium At A 2026 Inflection Point",
+            "link": "https://seekingalpha.com/article/4853626-atlas-lithium-stock-at-a-2026-inflection-point?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-12-16T11:34:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "iShares Russell Top 200 ETF declares quarterly distribution of $0.4382",
+            "link": "https://seekingalpha.com/news/4531848-ishares-russell-top-200-etf-declares-quarterly-distribution-of-04382?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2025-12-16T11:48:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "South Korean battery stocks slump on Ford's EV decision",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=462c659c-f5a7-4d74-a198-1bfc74d67877&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-12-16T10:13:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon",
+            "link": "https://www.cnbc.com/2025/12/16/slope-sam-altman-jpmorgan-amazon.html",
+            "description": "Slope, an AI lending platform backed by JPMorgan Chase, told CNBC exclusively that it is launching a partnership with Amazon's independent sellers.",
+            "pubDate": "2025-12-16T11:00:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Killings of Rob Reiner and his wife stun Hollywood as decision on charges for their son looms",
+            "link": "https://apnews.com/article/rob-reiner-wife-killed-331fa106817847d4d6a1e5db2add056f",
+            "description": "",
+            "pubDate": "2025-12-16T00:05:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "iShares Russell 1000 Value ETF declares quarterly distribution of $1.0189",
+            "link": "https://seekingalpha.com/news/4531850-ishares-russell-1000-value-etf-declares-quarterly-distribution-of-10189?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2025-12-16T11:50:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Global ETF November Report",
+            "link": "https://seekingalpha.com/article/4853627-global-etf-november-report?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-12-16T11:47:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Klarna Vs Affirm: Which BNPL Stock Was The Better Bet This Year As Americans Cling To Pandemic-Era Habit?",
+            "link": "https://stocktwits.com/news-articles/markets/equity/klarna-affirm-which-bnpl-stock-was-the-better-bet-this-year/cLeJe96REY0",
+            "description": "What started as a lockdown convenience has turned into a lifeline, fueling Klarna and Affirm’s rise, rattling investors, and reshaping how Americans s...",
+            "pubDate": "2025-12-16T11:43:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "China lowers anti-dumping tariffs on European pork exporters",
+            "link": "https://www.cnbc.com/2025/12/16/china-lowers-anti-dumping-tariffs-on-european-pork-exporters-.html",
+            "description": "China on Tuesday announced lower duties on pork imports and pig by-products from the European Union.",
+            "pubDate": "2025-12-16T09:17:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Why Wharton's Jeremy Siegel Believes Powell's Conceptual Shift On Inflation ‘Matters Enormously'",
+            "link": "https://stocktwits.com/news-articles/markets/equity/wharton-jeremy-siegel-powell-shift-on-inflation/cLeJIQUREYX",
+            "description": "The economist said Powell’s tone on inflation, acknowledgment of labor market softness, and the shift on the balance sheet point to a more accommodati...",
+            "pubDate": "2025-12-16T11:07:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Brown University shooting leaves students, community frustrated with official response",
+            "link": "https://apnews.com/article/brown-university-shooting-security-64e1e19e7a4ce2039912107071035247",
+            "description": "The effort to find a man who walked onto Brown University’s campus and shot nearly a dozen students in a crowded lecture hall has raised serious quest...",
+            "pubDate": "2025-12-16T00:18:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Coinbase CEO Remains Bullish On Stablecoins Despite Growth Slowing Down",
+            "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/coinbase-ceo-bullish-on-stablecoins-despite-slowing-growth/cLeJIp8REYg",
+            "description": "Data shows that while the supply and institutional demand for stablecoins are on the rise, the pace of growth has slowed.",
+            "pubDate": "2025-12-16T11:21:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Lamb Weston: A Fry Utility Trapped In A Capacity Cycle",
+            "link": "https://seekingalpha.com/article/4853628-lamb-weston-a-fry-utility-trapped-in-a-capacity-cycle?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2025-12-16T11:48:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Monster Vs. Celsius: As Consumers Ditch Soda And Booze, Which Energy Drink’s Stock Is Winning?",
+            "link": "https://stocktwits.com/news-articles/markets/equity/monster-vs-celsius-which-energy-drinks-stock-is-winning/cLeJeSCREY1",
+            "description": "With their unique strengths in a growing market, both Monster and Celsius have emerged as strong bets for investors.",
+            "pubDate": "2025-12-16T11:52:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Victor Davis Hanson: ‘We Never Get Any Thanks for What We Do’",
+            "link": "https://www.dailysignal.com/2025/12/16/victor-davis-hanson-we-never-get-any-thanks-for-what-we-do/",
+            "description": "In this episode of “Victor Davis Hanson: In His Own Words,” Victor Davis Hanson and Jack Fowler discuss former President Joe Biden’s failure to make.....",
+            "pubDate": "2025-12-16T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "iShares Micro-Cap ETF declares quarterly distribution of $0.7330",
+            "link": "https://seekingalpha.com/news/4531851-ishares-micro-cap-etf-declares-quarterly-distribution-of-07330?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2025-12-16T11:51:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Oklo Gets Initial Safety Approval From DOE For Aurora Facility To Begin Assembly",
+            "link": "https://stocktwits.com/news-articles/markets/equity/oklo-gets-initial-safety-approval-from-doe-for-aurora-facility-to-begin-assembly/cLeJeacREYK",
+            "description": "Aurora is the first facility approved under the DOE’s Fuel Line Pilot Program, the company announced on Tuesday.",
+            "pubDate": "2025-12-16T11:43:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Americans like artificial Christmas trees even though few are made in US and prices are up",
+            "link": "https://abcnews.go.com/Business/wireStory/americans-artificial-christmas-trees-made-us-prices-128441794",
+            "description": "A trade association says new U.S. tariffs increased artificial Christmas tree prices by 10% to 15% this year as tree companies reduced their orders an...",
+            "pubDate": "2025-12-16T06:16:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Europe’s dirty money problem",
+            "link": "https://www.worldfinance.com/special-reports/europes-dirty-money-problem",
+            "description": "The EU’s new anti-money laundering agency aims to harmonise oversight and close long-standing gaps across the single market. But with a modest budget ...",
+            "pubDate": "2025-12-16T09:22:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Sen. Cruz wants restrictions on military flights approved soon to prevent another midair collision",
+            "link": "https://abcnews.go.com/Business/wireStory/sen-cruz-restrictions-military-flights-approved-prevent-midair-128437145",
+            "description": "Republican Sen. Ted Cruz wants restrictions on military flights approved before government funding runs out at the end of next month to prevent anothe...",
+            "pubDate": "2025-12-16T01:25:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Asian shares, US futures sink ahead of US jobs report",
+            "link": "https://abcnews.go.com/Business/wireStory/asian-shares-us-futures-sink-ahead-us-jobs-128442156",
+            "description": "Shares have tumbled in Asia and U.S. futures also fell ahead of the release of U.S. employment and inflation reports that could drive the direction of...",
+            "pubDate": "2025-12-16T09:01:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "iShares Russell 1000 Growth ETF declares quarterly distribution of $0.4742",
+            "link": "https://seekingalpha.com/news/4531849-ishares-russell-1000-growth-etf-declares-quarterly-distribution-of-04742?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2025-12-16T11:49:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Mortgage market reforms: how the FCA's new affordability rules could help you onto the property ladder",
@@ -236,6 +397,13 @@
             "image_url": "https://cdn.mos.cms.futurecdn.net/GqfK8V3rjoH69YVxJoadf6-1280-80.jpg"
         },
         {
+            "title": "High earners face £15k income hit by 2029 following Autumn Budget",
+            "link": "https://moneyweek.com/personal-finance/tax/high-earners-autumn-budget-income-hit",
+            "description": "Rachel Reeves’s Autumn Budget means high earners – or HENRYs – are now looking at an income hit running into the thousands. Can you avoid it?",
+            "pubDate": "2025-12-15T17:23:21",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/H4TxqrD79Sf2GFUFyERMe5-1280-80.jpg"
+        },
+        {
             "title": "World’s Best Digital Banks 2025: Round II—Global Winners",
             "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-global-winners/",
             "description": "The global banking industry is currently in the midst of a profound digital transformation, propelled by the accelerating pace of technological advanc...",
@@ -243,41 +411,6 @@
             "image_url": "https://public.flourish.studio/visualisation/26826691/thumbnail"
         },
         {
-            "title": "HSBC promises to keep all of its bank branches open until 2027",
-            "link": "https://moneyweek.com/personal-finance/hsbc-bank-branches-promise-keep-open",
-            "description": "HSBC has extended its branch promise meaning all 327 of its branches will remain open until at least 2027",
-            "pubDate": "2025-12-15T16:21:43",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/eDHEYZ22G5mHJZtrBZrtgY-1280-80.jpg"
-        },
-        {
-            "title": "Sanofi Expands Dren Bio Partnership With Potential $1.7 Billion Autoimmune Disease Collaboration",
-            "link": "https://www.benzinga.com/news/contracts/25/12/49401478/sanofi-expands-dren-bio-partnership-with-potential-1-7-billion-autoimmune-disease-collaboration",
-            "description": "Sanofi expands its partnership with Dren Bio in a deal featuring $100 million upfront and up to $1.7 billion tied to a next-generation autoimmune B-ce...",
-            "pubDate": "2025-12-15T18:10:41",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/15/lab--Medical-Hospital-Research-Laborator.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "President Trump Sparks Outrage With Insensitive Comments on Rob Reiner’s Tragic Passing",
-            "link": "https://www.finance-monthly.com/trump-rob-reiner-death/",
-            "description": "The entertainment world is in shock following the tragic deaths of acclaimed director Rob Reiner and his wife Michele, yet one public figure’s respons...",
-            "pubDate": "2025-12-15T16:09:52",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/12/MixCollage-15-Dec-2025-10-24-AM-9072.webp"
-        },
-        {
-            "title": "What's Driving the Market Sentiment Around MP Materials Corp?",
-            "link": "https://www.benzinga.com/insights/short-sellers/25/12/49400972/whats-driving-the-market-sentiment-around-mp-materials-corp",
-            "description": "read more",
-            "pubDate": "2025-12-15T18:00:33",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_2.jpg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "‘We are now firmly back in a good is bad/bad is good regime’: Weak job data may lead to more rate cuts and boost stocks, Morgan Stanley economist says",
-            "link": "https://fortune.com/2025/12/15/morgan-stanley-michael-wilson-job-data-good-news-rate-cuts-fed/",
-            "description": "Morgan Stanley’s top strategist Michael Wilson noted the labor market, more so than inflation, has become a crucial factor in determining future monet...",
-            "pubDate": "2025-12-15T19:10:51",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2251232939-e1765824846540.jpg?w=2048"
-        },
-        {
             "title": "World’s Best Digital Banks 2025: Round II—Islamic Regional",
             "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-islamic-regional/",
             "description": "Digital-first institutions are rapidly incorporating AI and other transformative tech into their Islamic banking practice. The post World’s Best Digit...",
@@ -285,32 +418,18 @@
             "image_url": "https://public.flourish.studio/visualisation/26823728/thumbnail"
         },
         {
-            "title": "World’s Best Digital Banks 2025: Round II—Islamic Regional",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-islamic-regional/",
-            "description": "Digital-first institutions are rapidly incorporating AI and other transformative tech into their Islamic banking practice. The post World’s Best Digit...",
-            "pubDate": "2025-12-15T14:39:31",
-            "image_url": "https://public.flourish.studio/visualisation/26823728/thumbnail"
+            "title": "World’s Best Digital Banks 2025: Round II—Consumer Winners",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-consumer-winners/",
+            "description": "Consumer banking is moving far beyond traditional branch-based models. The post World’s Best Digital Banks 2025: Round II—Consumer Winners appeared fi...",
+            "pubDate": "2025-12-15T13:58:50",
+            "image_url": "https://public.flourish.studio/visualisation/26821949/thumbnail"
         },
         {
-            "title": "North West Turns Heads With Bleached Eyebrows on Malibu Night Out With Kim Kardashian",
-            "link": "https://www.finance-monthly.com/north-west-bleached-eyebrows-malibu/",
-            "description": "North West is once again proving that she is growing up in the global spotlight, and doing it entirely on her own terms. The 12-year-old daughter of K...",
-            "pubDate": "2025-12-15T15:01:49",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/12/8c1137a32c999fee4ce7fa4c9b813734-1024x683.webp"
-        },
-        {
-            "title": "McLeod’s Daughters Star Rachael Carpani Tragically Dead At 45: What Was She Worth?",
-            "link": "https://www.finance-monthly.com/rachael-carpani-dead-net-worth/",
-            "description": "Australian actress Rachael Carpani, beloved for her iconic role as Jodi Fountain in the hit series McLeod’s Daughters, has passed away at the age of 4...",
-            "pubDate": "2025-12-15T16:21:02",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2025/12/0_Hating-Alison-Ashley-Premiere-1024x682.webp"
-        },
-        {
-            "title": "HBO Max unveils new way to watch beloved shows",
-            "link": "https://www.thestreet.com/entertainment/hbo-max-unveils-new-way-to-watch-beloved-shows",
-            "description": "Inflation has hit many Americans hard, and if people are cutting on food expenses and dining out less, it is understandable that they are also cutting...",
-            "pubDate": "2025-12-15T21:00:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/NDA6MDAwMDAwMDAyNzk3OTk4/harry-potter-hbo-max-lead.jpg"
+            "title": "World’s Best Digital Banks 2025: Round II—Consumer Regional",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-consumer-regional/",
+            "description": "‘Phygital’ strategies and tools help consumer banks blend advanced technology and AI with accessibility and financial inclusion. The post World’s Best...",
+            "pubDate": "2025-12-15T15:00:31",
+            "image_url": "https://public.flourish.studio/visualisation/26823935/thumbnail"
         },
         {
             "title": "The Rise of the ‘Digital Nomad’ Retiree Lifestyle",
@@ -320,137 +439,95 @@
             "image_url": "https://img.money.com/2025/12/Explainer-Retiree-Digital-Nomad-Lifestyle.jpg?quality=85"
         },
         {
-            "title": "Analyst Report: Adobe Inc",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_2675_AnalystReport_1765801278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-            "description": "",
-            "pubDate": "2025-12-15T12:21:18",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+            "title": "World’s Best Digital Banks 2025: Round II—Global Winners",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-global-winners/",
+            "description": "The global banking industry is currently in the midst of a profound digital transformation, propelled by the accelerating pace of technological advanc...",
+            "pubDate": "2025-12-15T16:58:17",
+            "image_url": "https://public.flourish.studio/visualisation/26826691/thumbnail"
         },
         {
-            "title": "Costco Stock Heads For Worst Day In A Month On Rare Sell Call — Jim Cramer Rings The Valuation Alarm",
-            "link": "https://stocktwits.com/news-articles/markets/equity/costco-stock-heads-for-worst-day-in-a-month-on-rare-sell-call-jim-cramer-rings-the-valuation-alarm/cLe4W2SREoM",
-            "description": "Costco shares fell after a rare sell call, with concerns over slowing membership and a steep valuation.",
-            "pubDate": "2025-12-15T20:25:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Millions underestimate how many paydays are left until retirement  - why you should be counting your payslips",
+            "link": "https://moneyweek.com/personal-finance/pensions/millions-underestimate-how-many-paydays-are-left-until-retirement-why-you-should-be-counting-your-payslips",
+            "description": "Keeping track of how long you will be earning a salary for can help work out how much you need to put into a workplace pension",
+            "pubDate": "2025-12-15T17:07:47",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/3GHeTsqoHu3pA8T7rZztzQ-1280-80.jpg"
         },
         {
-            "title": "Serbia organized crime prosecutors charge minister, others in connection with Kushner-linked project",
-            "link": "https://abcnews.go.com/Business/wireStory/serbia-organized-crime-prosecutors-charge-minister-connection-kushner-128410222",
-            "description": "Serbia’s prosecutor for organized crime has charged a government minister and three others with abuse of position and falsifying of documents related ...",
-            "pubDate": "2025-12-15T13:09:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "AT&T Settlement Deadline Is Thursday: How to Claim Up to $7,500",
+            "link": "https://money.com/att-settlement-deadline-extended/?xid=moneyrss",
+            "description": "After the filing window closes, all submissions will be reviewed, and payments will start going out once the court grants final approval on Jan. 15.",
+            "pubDate": "2025-12-15T18:19:03",
+            "image_url": "https://img.money.com/2025/11/News-ATT-Settlement-Deadline-Extended.jpg?quality=85"
         },
         {
-            "title": "Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say",
-            "link": "https://www.cnbc.com/2025/12/15/hassetts-fed-chair-candidacy-received-pushback-from-high-level-people-close-to-trump-sources-say.html",
-            "description": "There's concern that the National Economic Council director is too close to the president.",
-            "pubDate": "2025-12-15T18:57:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Why Paying Off Your Mortgage Early Might Be a Mistake",
+            "link": "https://money.com/why-paying-off-mortgage-early-mistake/?xid=moneyrss",
+            "description": "Here's what to consider.",
+            "pubDate": "2025-12-15T22:00:48",
+            "image_url": "https://img.money.com/2025/12/Explainer-Paying-Off-Mortgage-Mistake.jpg?quality=85"
         },
         {
-            "title": "Financial Sector Breaks Out as Capital Rotates and Leadership Shifts",
-            "link": "https://www.marketbeat.com/originals/financials-break-out-as-capital-rotates-and-leadership-shifts/",
-            "description": "The financial sector has broken out of a multi-month consolidation, with XLF clearing $54 resistance, signaling renewed momentum and signs of sector l...",
-            "pubDate": "2025-12-15T11:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "HSBC promises to keep all of its bank branches open until 2027",
+            "link": "https://moneyweek.com/personal-finance/hsbc-bank-branches-promise-keep-open",
+            "description": "HSBC has extended its branch promise meaning all 327 of its branches will remain open until at least 2027",
+            "pubDate": "2025-12-15T16:21:43",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/eDHEYZ22G5mHJZtrBZrtgY-1280-80.jpg"
         },
         {
-            "title": "The Vertiv Pullback: Ignore the Noise, Buy the Data",
-            "link": "https://www.marketbeat.com/originals/the-vertiv-pullback-ignore-the-noise-buy-the-data/",
-            "description": "Vertiv remains a primary beneficiary of the artificial intelligence boom as major technology firms accelerate capital spending on physical infrastruct...",
-            "pubDate": "2025-12-15T14:23:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "World’s Best Digital Banks 2025: Round II—Consumer Regional",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-consumer-regional/",
+            "description": "‘Phygital’ strategies and tools help consumer banks blend advanced technology and AI with accessibility and financial inclusion. The post World’s Best...",
+            "pubDate": "2025-12-15T15:00:31",
+            "image_url": "https://public.flourish.studio/visualisation/26823935/thumbnail"
         },
         {
-            "title": "RLJ Lodging Trust: From 2025 Laggard To 2026 World Cup Beneficiary",
-            "link": "https://seekingalpha.com/article/4853488-rlj-lodging-trust-from-2025-laggard-to-2026-world-cup-beneficiary?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-12-15T21:06:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Energy secretary says electricity prices will drop under Trump administration policies",
+            "link": "https://www.foxbusiness.com/economy/energy-secretary-says-electricity-prices-drop-under-trump-administration-policies",
+            "description": "Energy Secretary Chris Wright said that President Donald Trump's pro-energy policies will stop rising electricity prices and eventually reduce costs d...",
+            "pubDate": "2025-12-15T19:06:43",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/chris-wright-hearing.jpg"
         },
         {
-            "title": "US tariffs are having an uneven effect on holiday prices and purchases",
-            "link": "https://abcnews.go.com/Business/wireStory/us-tariffs-uneven-effect-holiday-prices-purchases-128408251",
-            "description": "Many U.S. consumers say they’ve noticed higher than usual prices for holiday gifts in recent months, according to a a December poll from The Associate...",
-            "pubDate": "2025-12-15T13:33:32",
+            "title": "Here’s Why the U.S. Will (Probably) Dodge a Recession in 2026",
+            "link": "https://money.com/recession-predictions-2026/?xid=moneyrss",
+            "description": "Economists predict growth to slow but not outright reverse in 2026 — and that's good news for your wallet.",
+            "pubDate": "2025-12-15T13:31:12",
+            "image_url": "https://img.money.com/2025/12/News-Reccession-Watch-2026.jpg?quality=85"
+        },
+        {
+            "title": "World’s Best Digital Banks 2025: Round II—Consumer Winners",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-consumer-winners/",
+            "description": "Consumer banking is moving far beyond traditional branch-based models. The post World’s Best Digital Banks 2025: Round II—Consumer Winners appeared fi...",
+            "pubDate": "2025-12-15T13:58:50",
+            "image_url": "https://public.flourish.studio/visualisation/26821949/thumbnail"
+        },
+        {
+            "title": "Powell acknowledges labor market slowdown but rejects fears of steep decline",
+            "link": "https://www.foxbusiness.com/economy/powell-acknowledges-labor-market-slowdown-rejects-fears-steep-decline",
+            "description": "Federal Reserve Chair Jerome Powell discusses labor market outlook after the third interest rate cut this year, citing unemployment rise to 4.4% and s...",
+            "pubDate": "2025-12-15T21:26:05",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/jerome-powell-fomc-oct.png"
+        },
+        {
+            "title": "This Simple Spreadsheet Could Change Your Financial Life",
+            "link": "https://money.com/simple-spreadsheet-financial-life/?xid=moneyrss",
+            "description": "It's a simple way to track your income and expenses.",
+            "pubDate": "2025-12-15T12:00:41",
+            "image_url": "https://img.money.com/2025/12/Explainer-Spreadsheet-Change-Financial-Life.jpg?quality=85"
+        },
+        {
+            "title": "World’s Best Digital Banks 2025: Round II—Islamic Regional",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-digital-banks-2025-round-ii-islamic-regional/",
+            "description": "Digital-first institutions are rapidly incorporating AI and other transformative tech into their Islamic banking practice. The post World’s Best Digit...",
+            "pubDate": "2025-12-15T14:39:31",
+            "image_url": "https://public.flourish.studio/visualisation/26823728/thumbnail"
+        },
+        {
+            "title": "SpaceX could be the biggest IPO ever next year. How investors can play it right now",
+            "link": "https://www.cnbc.com/2025/12/15/spacex-may-be-the-biggest-ipo-ever-next-year-how-to-play-it-right-now.html",
+            "description": "The SpaceX IPO could reshape valuations across the aerospace industry and deliver a rare blockbuster deal for Wall Street.",
+            "pubDate": "2025-12-15T18:24:14",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "AEON Biopharma announces execution of exchange agreement with Daewoong Pharmaceutical",
-            "link": "https://seekingalpha.com/news/4531681-aeon-biopharma-announces-execution-of-exchange-agreement-with-daewoong-pharmaceutical?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2025-12-15T21:24:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Stocks making the biggest moves midday: Zillow, KLA, iRobot, Immunome & more",
-            "link": "https://www.cnbc.com/2025/12/15/stocks-making-the-biggest-moves-midday-z-klac-irbt-imnm.html",
-            "description": "These are the stocks posting the largest moves midday.",
-            "pubDate": "2025-12-15T18:33:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Uber Stock Slips Toward 7-Month Lows After Regulators Step Up Case Over Billing And Cancellations — Retail Calls The Dip A Buy",
-            "link": "https://stocktwits.com/news-articles/markets/equity/uber-stock-slips-toward-7-month-lows-after-regulators-step-up-case-over-billing-and-cancellations-retail-calls-the-dip-a-buy/cLe4QZ4REos",
-            "description": "Uber shares slid as regulators escalated a subscription lawsuit, while retail investors called the dip a buy.",
-            "pubDate": "2025-12-15T19:29:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Crypto’s real threat to banks",
-            "link": "https://www.economist.com/finance-and-economics/2025/12/15/cryptos-real-threat-to-banks",
-            "description": "The industry is supplanting Wall Street’s privileged position on the American right",
-            "pubDate": "2025-12-15T19:44:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Stocks making the biggest moves premarket: iRobot, Las Vegas Sands, Tilray & more",
-            "link": "https://www.cnbc.com/2025/12/15/stocks-making-the-biggest-moves-premarket-irbt-lvs-tlry.html",
-            "description": "These are the stocks posting the largest moves in premarket trading.",
-            "pubDate": "2025-12-15T16:05:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "U.S. stocks remain lower in final hour of trading. Follow the updates here.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3bafff50-11a3-459e-94e1-ace18bec5374&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-15T19:55:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "UPSIDE-DOWN WORLD: Biden Admin Sought Domestic Terrorism Guidance From Leftist Group Linked to Antifa",
-            "link": "https://www.dailysignal.com/2025/12/15/upside-down-world-biden-admin-sought-domestic-terrorism-guidance-leftist-group-linked-antifa/",
-            "description": "Even a year later, it’s hard to wrap your head around the upside-down world of the Biden administration: The White House celebrated transgender ideolo...",
-            "pubDate": "2025-12-15T21:15:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "History Shows Us Where Bond Yields Go Next",
-            "link": "https://seekingalpha.com/article/4853487-history-shows-us-where-bond-yields-go-next?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-12-15T21:06:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Saga Communications repurchases 2.8% of outstanding shares",
-            "link": "https://seekingalpha.com/news/4531678-saga-communications-repurchases-28-of-outstanding-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2025-12-15T21:25:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "EXCLUSIVE: How Trump’s ‘Convicted Felon’ Label Could Soon Vanish",
-            "link": "https://www.dailysignal.com/2025/12/15/exclusive-how-trumps-convicted-felon-label-could-soon-vanish/",
-            "description": "FIRST ON THE DAILY SIGNAL–Almost two years after a Democrat-elected prosecutor secured a conviction against then-candidate Donald Trump, a New York ap...",
-            "pubDate": "2025-12-15T20:39:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Functional Brands Inc. GAAP EPS of $0.04, revenue of $1.7M",
-            "link": "https://seekingalpha.com/news/4531679-functional-brands-inc-gaap-eps-of-0_04-revenue-of-1_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2025-12-15T21:25:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Is Nutanix the Best Comeback Trade Left in 2025? The Setup Says Yes",
@@ -460,24 +537,122 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Here's why one analyst thinks that AI-bubble fears are overstated",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=64e30b5e-6c7b-4bad-8099-a123023b676c&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-15T18:03:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Sen. Cruz wants restrictions on military flights approved soon to prevent another midair collision",
+            "link": "https://abcnews.go.com/Business/wireStory/sen-cruz-restrictions-military-flights-approved-prevent-midair-128430990",
+            "description": "Republican Sen. Ted Cruz wants restrictions on military flights approved before government funding runs out at the end of next month to prevent anothe...",
+            "pubDate": "2025-12-15T23:25:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "HASI and KKR commit additional $1 billion to CarbonCount vehicle",
-            "link": "https://seekingalpha.com/news/4531673-hasi-and-kkr-commit-additional-1-billion-to-carboncount-vehicle?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Why Wall Street’s lone Nvidia bear is doubling down on his call",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=447dc3a3-c74b-4024-9f12-c3fb348c7c7b&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2025-12-15T21:24:08",
+            "pubDate": "2025-12-15T21:30:21",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Rivian’s Autonomy Bombshell Changes Everything—Even Its Valuation",
-            "link": "https://www.marketbeat.com/originals/rivians-autonomy-bombshell-changes-everythingeven-its-valuation/",
-            "description": "Rivian stock is rallying as the company transitions to a technology platform with in-house chips and software that analysts believe justify a higher v...",
-            "pubDate": "2025-12-15T12:38:00",
+            "title": "This Anti-Christian Group May Be Out of Power Now, But Its Popularity Among Dems Bodes Ill for the Future",
+            "link": "https://www.dailysignal.com/2025/12/15/upside-down-world-biden-admin-sought-domestic-terrorism-guidance-leftist-group-linked-antifa/",
+            "description": "Even a year later, it’s hard to wrap your head around the upside-down world of the Biden administration: The White House celebrated transgender ideolo...",
+            "pubDate": "2025-12-15T22:41:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Free Jimmy Lai",
+            "link": "https://www.dailysignal.com/2025/12/15/free-jimmy-lai/",
+            "description": "By having its kangaroo court in Hong Kong convict media magnate Jimmy Lai of trumped-up national security charges, China has reminded the world it’s s...",
+            "pubDate": "2025-12-15T23:58:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "The Vertiv Pullback: Ignore the Noise, Buy the Data",
+            "link": "https://www.marketbeat.com/originals/the-vertiv-pullback-ignore-the-noise-buy-the-data/",
+            "description": "Vertiv remains a primary beneficiary of the artificial intelligence boom as major technology firms accelerate capital spending on physical infrastruct...",
+            "pubDate": "2025-12-15T14:23:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Crypto’s real threat to banks",
+            "link": "https://www.economist.com/finance-and-economics/2025/12/15/cryptos-real-threat-to-banks",
+            "description": "The industry is supplanting Wall Street’s privileged position on the American right",
+            "pubDate": "2025-12-15T19:44:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Why DLocal Is the Top Emerging Market Fintech Stock to Watch for 2026",
+            "link": "https://www.marketbeat.com/originals/why-dlocal-is-the-top-emerging-market-fintech-stock-to-watch-for-2026/",
+            "description": "DLocal Limited is a great choice for EM exposure in 2026. It is a fintech that funnels payments across borders into business accounts and has broad su...",
+            "pubDate": "2025-12-15T16:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Leading Chile’s pension transformation",
+            "link": "https://www.worldfinance.com/wealth-management/leading-chiles-pension-transformation",
+            "description": "As Chile undertakes its most ambitious pension reform in decades, AFP Capital has emerged as a benchmark for innovation, trust and performance. Find o...",
+            "pubDate": "2025-12-15T14:36:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Trump Declares Lethal Drug a ‘Weapon of Mass Destruction’",
+            "link": "https://www.dailysignal.com/2025/12/15/trump-declares-lethal-drug-a-weapon-mass-destruction/",
+            "description": "President Donald Trump has declared fentanyl a weapon of mass destruction. “With this historic executive order I will sign today, we’re formerly class...",
+            "pubDate": "2025-12-15T22:40:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "An aspiring neurosurgeon and a campus Republican died in the Brown campus shooting",
+            "link": "https://apnews.com/article/brown-university-shooting-victims-e5b40e867f1a349c5c9b7c4f0e866af8",
+            "description": "",
+            "pubDate": "2025-12-15T16:14:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "The Third Rule Of Financial Independence Could Also Be Your Biggest Regret",
+            "link": "https://www.financialsamurai.com/the-third-rule-of-financial-independence/",
+            "description": "As someone who has been writing about financial independence and escaping corporate America since 2009, I’ve developed several rules that serve as the...",
+            "pubDate": "2025-12-15T12:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Gen X-ers are lagging behind in retirement saving and planning. How to catch up.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fd6d2c75-3ba0-440e-bb6d-5ca64255effd&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-12-15T23:59:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Broadcom’s worst three-day stock slide since 2020 marks a humbling of sorts",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=12f66dfa-15f4-45c9-9527-da0428a8d9ba&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-12-15T23:14:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "ServiceNow’s $7 Billion Gamble: Panic or Opportunity?",
+            "link": "https://www.marketbeat.com/originals/servicenows-7-billion-gamble-panic-or-opportunity/",
+            "description": "ServiceNow is executing a bold strategy to secure the future of enterprise AI by integrating critical assets into its unified platform architecture.",
+            "pubDate": "2025-12-15T18:09:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Stocks making the biggest moves premarket: iRobot, Las Vegas Sands, Tilray & more",
+            "link": "https://www.cnbc.com/2025/12/15/stocks-making-the-biggest-moves-premarket-irbt-lvs-tlry.html",
+            "description": "These are the stocks posting the largest moves in premarket trading.",
+            "pubDate": "2025-12-15T16:05:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Why Ford is scrapping major EV plans and taking a $19.5 billion hit",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b60c41dd-2b5c-462e-aee3-8cbe217b3fa3&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2025-12-15T22:22:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Zillow, KLA, iRobot, Immunome & more",
+            "link": "https://www.cnbc.com/2025/12/15/stocks-making-the-biggest-moves-midday-z-klac-irbt-imnm.html",
+            "description": "These are the stocks posting the largest moves midday.",
+            "pubDate": "2025-12-15T22:05:56",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
@@ -485,175 +660,21 @@
             "link": "https://www.worldfinance.com/wealth-management/a-new-horizon-for-italian-wealth-management",
             "description": "Italy’s wealth management market is transforming as rising HNWI and UHNWI wealth, generational shifts and AI reshape client expectations and drive ban...",
             "pubDate": "2025-12-15T09:07:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "My Totally \"Technical\" S&P 500 Index Outlook For 2026",
-            "link": "https://seekingalpha.com/article/4853491-my-totally-technical-s-and-p-500-index-outlook-for-2026?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-12-15T21:11:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "The Third Rule Of Financial Independence Could Also Be Your Biggest Regret",
-            "link": "https://www.financialsamurai.com/the-third-rule-of-financial-independence/",
-            "description": "As someone who has been writing about financial independence and escaping corporate America since 2009, I’ve developed several rules that serve as the...",
-            "pubDate": "2025-12-15T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "6 Deadly Antisemitic Attacks and Incidents Since Oct. 7",
-            "link": "https://www.dailysignal.com/2025/12/15/6-deadly-antisemitic-attacks-and-incidents-since-oct-7/",
-            "description": "At least 15 people are dead after two gunmen opened fire at a Hanukkah event at Sydney’s Bondi beach. Prime Minister of Australia Anthony Albanese has...",
-            "pubDate": "2025-12-15T20:42:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Two Fed officials who rarely agree both say inflation fears have cooled",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb6eeab7-892a-457a-a97b-2f8893ef0deb&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-15T20:16:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Search for the Brown University shooter resumes as questions swirl about campus security",
-            "link": "https://apnews.com/article/brown-university-shooting-investigation-b08f1fdf5e71542f6e93bbba05fa043c",
-            "description": "",
-            "pubDate": "2025-12-15T09:58:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Analyst takes ‘contrarian stance’ on Costco’s stock and says it’s time to sell",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ac8e5a04-ca86-4108-8751-598cb8e9be36&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-15T20:45:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "PTF: Technology Dashboard For December",
-            "link": "https://seekingalpha.com/article/4853489-ptf-technology-dashboard-for-december?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-12-15T21:06:42",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "U.S. stocks end lower as rotation trade continues",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ac80b76-b66c-43c3-b75a-6ecf54567312&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-15T21:01:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Mattel’s OpenAI Product Launch Slips Beyond Holiday 2025 As Toymaker Takes Cautious Approach To AI: Report",
-            "link": "https://stocktwits.com/news-articles/markets/equity/mattel-openai-product-launch-slips-beyond-holiday-2025-as-toymaker-takes-cautious-approach-to-ai-report/cLe4WCZREou",
-            "description": "The toymaker confirmed to Axios on Monday that the company will not hit its original target of announcing a product in 2025.",
-            "pubDate": "2025-12-15T20:59:56",
+            "title": "Dell and HP Are Raising Prices—And Investors Should Take Note",
+            "link": "https://www.marketbeat.com/originals/dell-and-hp-are-raising-pricesand-investors-should-take-note/",
+            "description": "Dell and HP exert significant pricing power by raising commercial costs to offset inflation while capitalizing on the massive AI infrastructure boom.",
+            "pubDate": "2025-12-15T17:03:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "PURE Bioscience GAAP EPS of $0.00, revenue of $707M",
-            "link": "https://seekingalpha.com/news/4531677-pure-bioscience-gaap-eps-of-0_00-revenue-of-707m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2025-12-15T21:23:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Has The Catalyst For Stock Diversification Arrived?",
-            "link": "https://seekingalpha.com/article/4853504-has-catalyst-for-stock-diversification-arrived?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2025-12-15T21:20:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "iRobot files for bankruptcy protection; will be private under restructuring",
-            "link": "https://abcnews.go.com/Business/wireStory/roomba-maker-irobot-files-bankruptcy-protection-private-restructuring-128411370",
-            "description": "Roomba maker iRobot has filed for Chapter 11 bankruptcy protection, but says that it doesn’t expect any disruptions to devices as the more than 30-yea...",
-            "pubDate": "2025-12-15T13:33:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Insiders Buy Natural Gas Stocks: 2 for the Watchlist",
-            "link": "https://www.insidertrades.com/education/insiders-buy-natural-gas-stocks-2-for-the-watchlist/",
-            "description": "LNG stocks like KMI and NEXT are well-positioned for demand increases occurring today and expected over the coming years. Insiders are buying in 2025.",
-            "pubDate": "2025-12-15T13:49:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Fraught With Fraud: Undercover GAO Investigation Reveals 95% of Its Fake Enrollees Received Obamacare Subsidies",
-            "link": "https://www.dailysignal.com/2025/12/15/fraught-with-fraud-undercover-gao-investigation-reveals-95-of-its-fake-enrollees-received-obamacare-subsidies/",
-            "description": "No one spends a dollar better than the person who earned it. That adage reveals the crux of massive fraud and improper payments that plague... Read Mo...",
-            "pubDate": "2025-12-15T21:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "An aspiring neurosurgeon and a campus Republican died in the Brown campus shooting",
-            "link": "https://apnews.com/article/brown-university-shooting-victims-e5b40e867f1a349c5c9b7c4f0e866af8",
-            "description": "An aspiring neurosurgeon at Brown University and a leader of a campus Republicans group were in a study group preparing for an economics final, with t...",
-            "pubDate": "2025-12-15T16:14:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Leading Chile’s pension transformation",
-            "link": "https://www.worldfinance.com/wealth-management/leading-chiles-pension-transformation",
-            "description": "As Chile undertakes its most ambitious pension reform in decades, AFP Capital has emerged as a benchmark for innovation, trust and performance. Find o...",
-            "pubDate": "2025-12-15T14:36:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "SpaceX could be the biggest IPO ever next year. How investors can play it right now",
-            "link": "https://www.cnbc.com/2025/12/15/spacex-may-be-the-biggest-ipo-ever-next-year-how-to-play-it-right-now.html",
-            "description": "The SpaceX IPO could reshape valuations across the aerospace industry and deliver a rare blockbuster deal for Wall Street.",
-            "pubDate": "2025-12-15T18:24:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Iran's rial currency plummets to new low, sparking fears of higher food prices",
-            "link": "https://abcnews.go.com/Business/wireStory/irans-rial-currency-plummets-new-low-sparking-fears-128409299",
-            "description": "Iran’s rial has hit a new record low of over 1.3 million to the U.S. dollar, deepening its collapse amid sanctions and regional tensions",
-            "pubDate": "2025-12-15T13:26:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Farmers and politics threaten to put EU's free-trade deal with South America on ice",
-            "link": "https://abcnews.go.com/Business/wireStory/farmers-politics-threaten-put-eus-free-trade-deal-128414544",
-            "description": "France is creating a last-minute hurdle for a major trade deal between the European Union and the Mercosur bloc",
-            "pubDate": "2025-12-15T14:54:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Walmart, Target Face FDA Heat After Recalled Baby Formula Tied To Infant Botulism Found In Stores",
-            "link": "https://stocktwits.com/news-articles/markets/equity/walmart-target-face-fda-heat-after-recalled-baby-formula-tied-to-infant-botulism-found-in-stores/cLe4QUcREot",
-            "description": "The FDA sent letters dated Dec. 12 to both Walmart and Target, highlighting that the recalled baby formula was found on the shelves at multiple stores...",
-            "pubDate": "2025-12-15T19:42:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "JPMorgan Investment Banking Chief Plans Exit After 45 Years As Bank Ramps Up AI And Braces For $105B Costs: Report",
-            "link": "https://stocktwits.com/news-articles/markets/equity/jpmorgan-investment-banking-chief-plans-exit-after-45-years-as-bank-ramps-up-ai-braces-for-105-billion-costs-report/cLe4OJPREor",
-            "description": "According to Grant’s Linkedin profile, he joined the lender in 1980 as an investment banker after graduating from Oxford University and rose to be the...",
-            "pubDate": "2025-12-15T18:39:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "What to know about the search for the Brown University shooting suspect",
-            "link": "https://apnews.com/article/brown-university-mass-shooting-cc3e5d5505cf0e3d9e49fdc56c2a1459",
-            "description": "",
-            "pubDate": "2025-12-15T13:39:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Powell says he wants to 'turn this job over' with economy in 'really good shape' before departure",
-            "link": "https://www.foxbusiness.com/economy/powell-says-he-wants-turn-job-over-economy-really-good-shape-before-departure",
-            "description": "Federal Reserve chair Jerome Powell wants to leave office with inflation at 2% and strong job market when his term ends in May 2026, avoiding legacy t...",
-            "pubDate": "2025-12-14T16:46:59",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/jerome-powell.jpg"
-        },
-        {
-            "title": "Retirement Hobbies That Can Actually Make You Money",
-            "link": "https://money.com/retirement-hobbies-that-make-money/?xid=moneyrss",
-            "description": "From tutoring to crafting, these activities are fun and can earn you extra cash.",
-            "pubDate": "2025-12-14T17:00:12",
-            "image_url": "https://img.money.com/2025/12/Explainer-Retirement-Hobbies-Money.jpg?quality=85"
+            "title": "Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say",
+            "link": "https://www.cnbc.com/2025/12/15/hassetts-fed-chair-candidacy-received-pushback-from-high-level-people-close-to-trump-sources-say.html",
+            "description": "There's concern that the National Economic Council director is too close to the president.",
+            "pubDate": "2025-12-15T18:57:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Bessent expects taxpayers will see 'very large' tax refunds early next year",
@@ -663,18 +684,11 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/treasury-secretary-scott-bessent-reagan-portrait.jpg"
         },
         {
-            "title": "U.S.-China soybean tussle reveals Beijing’s food security strategy. Goldman Sachs on how to invest",
-            "link": "https://www.cnbc.com/2025/12/14/us-china-soybeans-reveals-food-security-goals-goldman-sachs-plays.html",
-            "description": "China's focus on food security mirrors efforts for self-sufficiency in chips and energy, Goldman Sachs said.",
-            "pubDate": "2025-12-14T12:53:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Powell says rate cuts won't make 'much of a difference' for struggling housing sector",
-            "link": "https://www.foxbusiness.com/economy/powell-says-rate-cuts-wont-make-much-difference-struggling-housing-sector",
-            "description": "Federal Reserve Chairman Jerome Powell warned that housing market struggles will persist despite rate cuts, citing low inventory and affordability cha...",
-            "pubDate": "2025-12-12T13:30:04",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/fed-chair-jerome-powell-press-conference-01.jpg"
+            "title": "Powell says he wants to 'turn this job over' with economy in 'really good shape' before departure",
+            "link": "https://www.foxbusiness.com/economy/powell-says-he-wants-turn-job-over-economy-really-good-shape-before-departure",
+            "description": "Federal Reserve chair Jerome Powell wants to leave office with inflation at 2% and strong job market when his term ends in May 2026, avoiding legacy t...",
+            "pubDate": "2025-12-14T16:46:59",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/07/jerome-powell.jpg"
         },
         {
             "title": "Cannabis stocks surge on report Trump seeks to ease restrictions",
@@ -684,39 +698,46 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/cannbis-plants-hemp-farmer-getty.jpg"
         },
         {
-            "title": "‘This place will win’: Business leaders say West Palm Beach is becoming America’s next big boomtown",
-            "link": "https://www.foxbusiness.com/economy/this-place-win-business-leaders-say-west-palm-beach-becoming-americas-next-big-boomtown",
-            "description": "West Palm Beach has evolved from its retirement haven days, as tech firms, financial giants and entrepreneurs flock to one of the country's most sough...",
-            "pubDate": "2025-12-12T11:00:15",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/west-palm-beach-fl-skyline.jpg"
-        },
-        {
-            "title": "'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices",
-            "link": "https://www.cnbc.com/2025/12/12/food-inflation-affordability-economy-consumer-spending.html",
-            "description": "Spending on restaurant appetizers is booming during this period of food inflation as consumers find creative ways to cut back even as they continue to...",
-            "pubDate": "2025-12-12T16:12:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Why central banks are turning to gold",
-            "link": "https://www.worldfinance.com/special-reports/why-central-banks-are-turning-to-gold",
-            "description": "Gold’s surge to $4,000 an ounce marks more than a price record – it signals a retreat from the US dollar and a new era of risk aversion as nations see...",
-            "pubDate": "2025-12-12T14:57:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Investment Gains Shouldn’t Cancel Out Your Cash Flow Problems",
-            "link": "https://www.financialsamurai.com/why-investment-gains-dont-cancel-out-crappy-cash-flow-problems/",
-            "description": "I’m in a cash crunch, and it doesn’t feel good. After buying my house in 2023 and living paycheck to paycheck for six months, I promised myself I woul...",
-            "pubDate": "2025-12-12T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Powell says rate cuts won't make 'much of a difference' for struggling housing sector",
+            "link": "https://www.foxbusiness.com/economy/powell-says-rate-cuts-wont-make-much-difference-struggling-housing-sector",
+            "description": "Federal Reserve Chairman Jerome Powell warned that housing market struggles will persist despite rate cuts, citing low inventory and affordability cha...",
+            "pubDate": "2025-12-12T13:30:04",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/fed-chair-jerome-powell-press-conference-01.jpg"
         },
         {
             "title": "A new hand at the helm of Banreservas",
             "link": "https://www.worldfinance.com/banking/a-new-hand-at-the-helm-of-banreservas",
             "description": "Under newly appointed CEO Leonardo Aguilera, PhD, Banreservas aims to consolidate its leading role in the Dominican economy, with further advances in ...",
             "pubDate": "2025-12-12T09:50:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Why central banks are turning to gold",
+            "link": "https://www.worldfinance.com/special-reports/why-central-banks-are-turning-to-gold",
+            "description": "Gold’s surge to $4,000 an ounce marks more than a price record – it signals a retreat from the US dollar and a new era of risk aversion as nations see...",
+            "pubDate": "2025-12-12T14:57:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Investment Gains Shouldn’t Cancel Out Your Cash Flow Problems",
+            "link": "https://www.financialsamurai.com/why-investment-gains-dont-cancel-out-crappy-cash-flow-problems/",
+            "description": "I’m in a cash crunch, and it doesn’t feel good. After buying my house in 2023 and living paycheck to paycheck for six months, I promised myself I woul...",
+            "pubDate": "2025-12-12T12:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices",
+            "link": "https://www.cnbc.com/2025/12/12/food-inflation-affordability-economy-consumer-spending.html",
+            "description": "Spending on restaurant appetizers is booming during this period of food inflation as consumers find creative ways to cut back even as they continue to...",
+            "pubDate": "2025-12-12T16:12:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Opening Bell: 12.11.25",
+            "link": "https://dealbreaker.com/2025/12/opening-bell-12-11-2025",
+            "description": "Even Jay Powell doesn’t buy the official numbers; Oracle’s spending spree spooks; forget about conservations—what about porn?; and more!",
+            "pubDate": "2025-12-11T16:45:30",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MTkyODYzNzI0NTUyMzMzMDA4/jay-powell.jpg"
         },
         {
             "title": "Automaker gears up for self-driving future with new chip",
@@ -726,11 +747,18 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/rivian-factory.jpg"
         },
         {
-            "title": "Opening Bell: 12.11.25",
-            "link": "https://dealbreaker.com/2025/12/opening-bell-12-11-2025",
-            "description": "Even Jay Powell doesn’t buy the official numbers; Oracle’s spending spree spooks; forget about conservations—what about porn?; and more!",
-            "pubDate": "2025-12-11T16:45:30",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MTkyODYzNzI0NTUyMzMzMDA4/jay-powell.jpg"
+            "title": "Sure, Swift Kicks To The Sternum For All Tech CEOs, But How About An AI Robot That Can Clean The Damn John?",
+            "link": "https://dealbreaker.com/2025/12/sure-swift-kicks-to-the-sternum-for-all-tech-ceos-but-how-about-an-ai-robot-that-can-clean-the-damn-john",
+            "description": "The bulk of the media-facing AI field is full of tech charlatans stumbling all over one another to create the first humanoid robot that isn't a useles...",
+            "pubDate": "2025-12-11T19:00:00",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjE5NzkxNjk2ODYxMzQxNTQ5/rosie.jpg"
+        },
+        {
+            "title": "Coca-Cola announces major leadership change as Henrique Braun is named next CEO",
+            "link": "https://www.foxbusiness.com/markets/coca-cola-announces-major-leadership-change-henrique-braun-named-next-ceo",
+            "description": "Coca-Cola named Henrique Braun as its new CEO, effective March 2026, replacing James Quincey, who will transition to executive chairman after nine yea...",
+            "pubDate": "2025-12-11T00:50:26",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/coca-cola-new-ceo-1.jpg"
         },
         {
             "title": "Cracker Barrel diners are sounding the alarm; here’s what reportedly has them furious",
@@ -747,38 +775,17 @@
             "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MTc1ODgzNDc5ODExMTA1ODQ3/trump-walter-reed.jpg"
         },
         {
-            "title": "Coca-Cola announces major leadership change as Henrique Braun is named next CEO",
-            "link": "https://www.foxbusiness.com/markets/coca-cola-announces-major-leadership-change-henrique-braun-named-next-ceo",
-            "description": "Coca-Cola named Henrique Braun as its new CEO, effective March 2026, replacing James Quincey, who will transition to executive chairman after nine yea...",
-            "pubDate": "2025-12-11T00:50:26",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/coca-cola-new-ceo-1.jpg"
-        },
-        {
-            "title": "Sure, Swift Kicks To The Sternum For All Tech CEOs, But How About An AI Robot That Can Clean The Damn John?",
-            "link": "https://dealbreaker.com/2025/12/sure-swift-kicks-to-the-sternum-for-all-tech-ceos-but-how-about-an-ai-robot-that-can-clean-the-damn-john",
-            "description": "The bulk of the media-facing AI field is full of tech charlatans stumbling all over one another to create the first humanoid robot that isn't a useles...",
-            "pubDate": "2025-12-11T19:00:00",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjE5NzkxNjk2ODYxMzQxNTQ5/rosie.jpg"
-        },
-        {
             "title": "Art Basel Miami sees strong attendance and sales as art market recovers",
             "link": "https://www.cnbc.com/2025/12/11/art-basel-miami-attendance-sales.html",
             "description": "More than 80,000 collectors and art fans poured into Art Basel Miami Beach, with several works selling for over $1 million.",
             "pubDate": "2025-12-11T17:09:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "The case for more Fed rate cuts could rest on a 'systematic overcount' of jobs numbers",
             "link": "https://www.cnbc.com/2025/12/11/case-for-more-fed-rate-cuts-could-rest-on-systemic-overcount-of-jobs.html",
             "description": "There are indications that policymakers will be more inclined to cut further if the labor market stays weak.",
             "pubDate": "2025-12-11T19:50:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "America’s bond market is quiet—almost too quiet",
-            "link": "https://www.economist.com/finance-and-economics/2025/12/11/americas-bond-market-is-quiet-almost-too-quiet",
-            "description": "Scott Bessent has a cunning plan",
-            "pubDate": "2025-12-11T11:10:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
@@ -789,46 +796,39 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
+            "title": "America’s bond market is quiet—almost too quiet",
+            "link": "https://www.economist.com/finance-and-economics/2025/12/11/americas-bond-market-is-quiet-almost-too-quiet",
+            "description": "Scott Bessent has a cunning plan",
+            "pubDate": "2025-12-11T11:10:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
             "title": "Wall Street is drooling over bank mergers",
             "link": "https://www.economist.com/finance-and-economics/2025/12/11/wall-street-is-drooling-over-bank-mergers",
             "description": "The world’s most fragmented financial industry faces dramatic change",
             "pubDate": "2025-12-11T11:07:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "U.S. has to stop taking in 'below-average' immigrants who won't help economy, says Lutnick",
-            "link": "https://www.cnbc.com/2025/12/11/lutnick-economy-gold-card-trump.html",
-            "description": "The White House is rolling out its gold card visa.",
-            "pubDate": "2025-12-11T19:25:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Germany has a lawyer problem",
-            "link": "https://www.economist.com/finance-and-economics/2025/12/11/germany-has-a-lawyer-problem",
-            "description": "Its endless bureaucratic rules trap would-be reformers",
-            "pubDate": "2025-12-11T11:14:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Charting the horizon towards sustainability",
-            "link": "https://www.worldfinance.com/banking/charting-the-horizon-towards-sustainability",
-            "description": "Banco Popular Dominicano is charting a new course for the financial sector – one where responsible banking drives innovation, inclusion and impact. It...",
-            "pubDate": "2025-12-11T14:28:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Trump administration's new quarters feature pilgrims, ditching civil rights theme",
             "link": "https://www.cnbc.com/2025/12/11/trump-quarter-coin-pilgrim-suffragettes-civil-rights.html",
             "description": "Special quarter-dollar coin designs for the U.S.' 250th birthday feature pilgrims and former presidents rather than previously floated civil rights th...",
             "pubDate": "2025-12-11T21:28:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Germany has a lawyer problem",
+            "link": "https://www.economist.com/finance-and-economics/2025/12/11/germany-has-a-lawyer-problem",
+            "description": "Its endless bureaucratic rules trap would-be reformers",
+            "pubDate": "2025-12-11T11:14:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "What a stiff drink says about China’s economy",
             "link": "https://www.economist.com/finance-and-economics/2025/12/11/what-a-stiff-drink-says-about-chinas-economy",
             "description": "The baijiu business is the latest to be struck by “involution”",
             "pubDate": "2025-12-11T11:12:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Mark Cuban: Employers Are Unknowingly Profiting From Sick Workers’ Drug Costs",
@@ -852,25 +852,25 @@
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/cracker-barrel-ceo-branding-fox-news-022.jpg"
         },
         {
+            "title": "Walmart's First Family: The numbers behind the wealth",
+            "link": "https://www.cnbc.com/video/2025/12/10/walmarts-first-family-the-numbers-behind-the-wealth.html",
+            "description": "CNBC's Robert Frank breaks down the massive wealth of the Walton family, the heirs behind the Walmart fortune.",
+            "pubDate": "2025-12-10T11:48:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
             "title": "Overcoming Financial Hopelessness When Life Feels Impossible",
             "link": "https://www.financialsamurai.com/how-to-overcome-financial-hopelessness-when-life-feels-impossible/",
             "description": "Recently, I’ve been experiencing a bout of financial hopelessness that’s been surprisingly hard to shake. Rationally, I know I’ll be OK, but mentally,...",
             "pubDate": "2025-12-10T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Inside Art Basel Miami 2025",
             "link": "https://www.cnbc.com/video/2025/12/10/inside-art-basel-miami-2025.html",
             "description": "Robert Frank gets an inside look at Art Basel Miami and speaks exclusively with Art Basel CEO Noah Horowitz, UBS Head of Art Advisory Americas Matthew...",
             "pubDate": "2025-12-10T15:27:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Walmart's First Family: The numbers behind the wealth",
-            "link": "https://www.cnbc.com/video/2025/12/10/walmarts-first-family-the-numbers-behind-the-wealth.html",
-            "description": "CNBC's Robert Frank breaks down the massive wealth of the Walton family, the heirs behind the Walmart fortune.",
-            "pubDate": "2025-12-10T11:48:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Rising stocks and IPOs helped create 287 new billionaires this year",
@@ -884,49 +884,49 @@
             "link": "https://www.financialsamurai.com/selling-treasury-bonds-is-easy-but-consider-the-tax-implications/",
             "description": "As savers, we are being rewarded with higher risk-free yields. Treasury bills (T-bills), Treasury bonds, and money market funds are still paying over ...",
             "pubDate": "2025-12-08T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Big Lot vs Great Views: Deciding Which Home Offers More Value",
             "link": "https://www.financialsamurai.com/big-lot-or-amazing-views-which-home-offers-more-value/",
             "description": "Ideally, you want to find a home with both a big lot and amazing views. These are the two special features that most buyers covet the most, which crea...",
             "pubDate": "2025-12-05T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Inside Art Basel Miami: Beeple’s robot dogs",
             "link": "https://www.cnbc.com/video/2025/12/05/inside-art-basel-miami-beeples-robot-dogs.html",
             "description": "CNBC’s Robert Frank joins ‘Squawk on the Street’ from Miami to report on the latest project from the artist Beeple.",
             "pubDate": "2025-12-05T15:17:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Tech, Media & Telecom Roundup: Market Talk",
-            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
-            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
-            "pubDate": "2025-01-27T17:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
-            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
-            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
-            "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "What to Know About China's DeepSeek AI",
             "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
             "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
             "pubDate": "2025-01-27T18:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
             "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
             "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
             "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Tech, Media & Telecom Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
+            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+            "pubDate": "2025-01-27T17:28:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
+            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+            "pubDate": "2025-01-27T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
