@@ -2,42 +2,56 @@
     "title": "123",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from 123, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-18T08:29:32.167637",
+    "lastBuildDate": "2025-12-18T11:01:30.325806",
     "items": [
         {
-            "title": "Trump Media to Merge With Fusion Energy Firm in $6 Billion Deal",
-            "link": "https://www.wsj.com/business/deals/trump-media-tae-technologies-merger-ai-fusion-power-b9ac22a5?siteid=yhoof2&yptr=yahoo",
+            "title": "Compass, Inc. (COMP): A Bull Case Theory",
+            "link": "https://finance.yahoo.com/news/compass-inc-comp-bull-case-153958558.html",
             "description": "",
-            "pubDate": "2025-12-18T13:08:00",
-            "image_url": "https://media.zenfs.com/en/wsj.com/27a20017b4869434e818db8a03a98bc4"
+            "pubDate": "2025-12-18T15:39:58",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/9ada497319016d555273fe07e9a4c6cb"
         },
         {
-            "title": "TEXT-Statement from the ECB following policy meeting",
-            "link": "https://finance.yahoo.com/news/text-statement-ecb-following-policy-131605287.html",
+            "title": "Dream Finders Homes, Inc. (DFH): A Bear Case Theory",
+            "link": "https://finance.yahoo.com/news/dream-finders-homes-inc-dfh-153949828.html",
             "description": "",
-            "pubDate": "2025-12-18T13:16:05",
-            "image_url": "https://media.zenfs.com/en/reuters.com/353125256a6d202fe7f3f8ba0e746e5a"
+            "pubDate": "2025-12-18T15:39:49",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/9ed6f484ae38a92efe8e5e365a2a6ddb"
         },
         {
-            "title": "Where Fed Officials See Inflation Through 2028",
-            "link": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-12-18-2025/card/where-fed-officials-see-inflation-through-2028-z5ow6T0I0eduEYWrhZBb?siteid=yhoof2&yptr=yahoo",
+            "title": "First Watch Restaurant Group, Inc. (FWRG): A Bear Case Theory",
+            "link": "https://finance.yahoo.com/news/first-watch-restaurant-group-inc-153928414.html",
             "description": "",
-            "pubDate": "2025-12-18T13:09:55",
-            "image_url": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8"
+            "pubDate": "2025-12-18T15:39:28",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/2456878bf79842d489cb5e275c6b2c33"
         },
         {
-            "title": "Trump Media announces merger with TAE Technologies",
-            "link": "https://finance.yahoo.com/news/trump-media-announces-merger-tae-130827231.html",
+            "title": "EC’s automotive package takes flexible decarbonisation path: ACEA",
+            "link": "https://finance.yahoo.com/news/ec-automotive-package-takes-flexible-154605637.html",
             "description": "",
-            "pubDate": "2025-12-18T13:08:27",
-            "image_url": "https://media.zenfs.com/en/quartz_855/8e23880b9269a821c156d393b00503ee"
+            "pubDate": "2025-12-18T15:46:05",
+            "image_url": "https://media.zenfs.com/en/motor_finance_444/12f4df24daee8314000dcee9380af7f7"
         },
         {
-            "title": "Where Will Tesla Be in 1 Year?",
-            "link": "https://finance.yahoo.com/news/where-tesla-1-130500121.html",
+            "title": "Instacart Parent’s Stock Drops. It Faces an FTC Investigation, Report Says.",
+            "link": "https://www.barrons.com/articles/instacart-stock-price-maplebear-ftc-ai-86cd471c?siteid=yhoof2&yptr=yahoo",
             "description": "",
-            "pubDate": "2025-12-18T13:05:00",
-            "image_url": "https://media.zenfs.com/en/motleyfool.com/a147dae876e4de18f1f42d625d478462"
+            "pubDate": "2025-12-18T15:40:00",
+            "image_url": "https://media.zenfs.com/en/Barrons.com/982d421c0aa4d0a5213a88fd65affe54"
+        },
+        {
+            "title": "Financial Services Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+            "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+            "pubDate": "2025-01-27T17:27:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
+            "pubDate": "2025-01-27T19:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
@@ -47,13 +61,6 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Comex Gold, Silver Settle Lower",
-            "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
-            "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
-            "pubDate": "2025-01-27T19:01:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
             "title": "DeepSeek Won't Sink U.S. AI Titans",
             "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
             "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
@@ -61,18 +68,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Financial Services Roundup: Market Talk",
-            "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-            "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-            "pubDate": "2025-01-27T17:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
-            "pubDate": "2025-01-27T19:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Comex Gold, Silver Settle Lower",
+            "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+            "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+            "pubDate": "2025-01-27T19:01:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }
