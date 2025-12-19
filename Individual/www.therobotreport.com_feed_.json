@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-12-19T07:04:37.774489",
+    "lastBuildDate": "2025-12-19T11:01:39.160950",
     "items": [
+        {
+            "title": "LimX Dynamics unveils TRON 2 shape-shifting limbed robot",
+            "link": "https://www.therobotreport.com/limx-dynamics-just-unveiled-tron-2-shape-shifting-robot/",
+            "description": "The TRON 2 modular tri-form robot supports dual-arm, wheeled, and bipedal configurations for integrated VLA research and development. The post LimX Dy...",
+            "pubDate": "2025-12-19T13:45:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/limx-tron2-featured.jpg"
+        },
         {
             "title": "RealMan Robotics open-sources its RealSource robot dataset",
             "link": "https://www.therobotreport.com/realman-robotics-open-sources-realsource-robot-dataset/",
@@ -31,13 +38,6 @@
             "description": "Wisk Aero is focused on safely validating the Generation 6 design, simulation models, and system performance. The post Wisk Aero completes first fligh...",
             "pubDate": "2025-12-17T20:55:17",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/wiskaero-featured.jpg"
-        },
-        {
-            "title": "e-con Systems launches Darsi Pro edge AI vision box powered by NVIDIA Jetson",
-            "link": "https://www.therobotreport.com/e-con-systems-launches-darsi-pro-edge-ai-vision-box-powered-nvidia-jetson/",
-            "description": "e-con Systems designed Darsi Pro for multi-sensor connectivity and cloud-based device management for robotics and other uses. The post e-con Systems l...",
-            "pubDate": "2025-12-17T16:38:06",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/e-Con_Darsi_pro.jpg"
         }
     ]
 }
