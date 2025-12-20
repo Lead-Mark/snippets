@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-20T06:06:03.211129",
+    "lastBuildDate": "2025-12-20T11:01:26.863263",
     "items": [
+        {
+            "title": "Cheesy Alfredo Ravioli Casserole",
+            "link": "https://therecipecritic.com/alfredo-ravioli-casserole/",
+            "description": "By the end of the day, I’m wiped and still expected to make dinner. This Alfredo ravioli casserole swoops in…",
+            "pubDate": "2025-12-20T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/beef-lo-mein-3.jpg"
+        },
         {
             "title": "Weekly Meal Plan 70",
             "link": "https://therecipecritic.com/weekly-meal-plan-70/",
@@ -31,13 +38,6 @@
             "description": "This mushroom rice is way better than a simple side. The secret is a splash of Worcestershire. It enhances the…",
             "pubDate": "2025-12-16T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/mushroom-rice-.jpg"
-        },
-        {
-            "title": "Double Chocolate Muffins",
-            "link": "https://therecipecritic.com/chocolate-muffins/",
-            "description": "Costco doesn’t make their famous double chocolate muffins anymore, so I had to crack the code and make a version…",
-            "pubDate": "2025-12-15T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/02/chocolate-muffins-1.jpg"
         },
         {
             "title": "Tahini Hot Chocolate (Super Dreamy, Protein-Rich!)",
