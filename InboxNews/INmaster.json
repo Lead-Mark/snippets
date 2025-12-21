@@ -2,8 +2,22 @@
     "title": "INmaster",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INmaster, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-21T06:06:26.013063",
+    "lastBuildDate": "2025-12-21T11:01:51.772275",
     "items": [
+        {
+            "title": "8 off-season European destinations where you won’t be too cold this winter",
+            "link": "https://thepointsguy.com/travel/europe-off-season-mild-winter/",
+            "description": "Instead of icicles and blankets of powder, these European destinations offer romantic mists, moody fog and a dusting of snow in their winter off-seaso...",
+            "pubDate": "2025-12-21T14:00:28",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/Edinburgh_georgeclerk.jpg"
+        },
+        {
+            "title": "Best Vitamins and Supplements for Your Mental Health",
+            "link": "https://www.webmd.com/depression/ss/cm/slideshow-best-vitamins-and-supplements-for-your-mental-health",
+            "description": "",
+            "pubDate": "2025-12-21T06:00:02",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/things_that_may_slow_prostate_cancer_slideshow/1800ss_getty_rf_omega_3_capsules.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "Drinks That May Help Ease Pain and Inflammation",
             "link": "https://www.webmd.com/diet/ss/cm/drinks-fight-pain-inflammation",
@@ -19,17 +33,52 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/what_is_substance_abuse_ref_guide/1800x1200_what_is_alcohol_abuse_ref_guide.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Best Vitamins and Supplements for Your Mental Health",
-            "link": "https://www.webmd.com/depression/ss/cm/slideshow-best-vitamins-and-supplements-for-your-mental-health",
-            "description": "",
-            "pubDate": "2025-12-21T06:00:02",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/things_that_may_slow_prostate_cancer_slideshow/1800ss_getty_rf_omega_3_capsules.jpg?resize=484px:*&output-quality=70"
+            "title": "Beef Chow Mein",
+            "link": "https://therecipecritic.com/beef-chow-mein/",
+            "description": "Skip the takeout, this Beef Chow Mein is ready in just 25 minutes! Packed with tender beef, crisp veggies, and saucy…",
+            "pubDate": "2025-12-21T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/beef-lo-mein-2.jpg"
+        },
+        {
+            "title": "Research Reveals the Optimal Way to Optimize",
+            "link": "https://www.wired.com/story/researchers-discover-the-optimal-way-to-optimize/",
+            "description": "The leading approach to the simplex method, a widely used technique for balancing complex logistical constraints, can’t get any better.",
+            "pubDate": "2025-12-21T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo",
             "link": "https://www.wired.com/story/best-paper-planners/",
             "description": "Digital tools are not always superior. Here are some WIRED-tested paper agendas and notebooks to keep you on track.",
             "pubDate": "2025-12-21T10:09:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
+            "link": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+            "description": "Waymo suspended its SF robotaxi service on Saturday evening after a massive blackout appeared to leave many of its vehicles stalled on city streets.",
+            "pubDate": "2025-12-21T15:46:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "8 Best Space Heaters (2025): Tested, Measured, and Mistreated",
+            "link": "https://www.wired.com/gallery/the-best-space-heaters/",
+            "description": "These portable heaters will heat a room quickly, quietly, and safely.",
+            "pubDate": "2025-12-21T11:31:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Israel’s famed VC Jon Medved, diagnosed with ALS, backed the tech that will improve his life",
+            "link": "https://techcrunch.com/2025/12/21/israels-famed-vc-jon-medved-diagnosed-with-als-backed-the-tech-that-will-improve-his-life/",
+            "description": "In perhaps the last public interview of one Israel's most famous VCs, Jon Medved tells TechCrunch how tech will enhance his life.",
+            "pubDate": "2025-12-21T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "5 Best Monitors for the Mac Mini (2025), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-monitors-for-mac-mini/",
+            "description": "The Mac Mini is a fantastic little computer, but you'll need one of these great monitors to complete the setup.",
+            "pubDate": "2025-12-21T12:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
@@ -37,7 +86,14 @@
             "link": "https://www.wired.com/story/what-is-lossless-audio-and-do-you-really-need-it/",
             "description": "Lossless audio is the first step toward audio nirvana. But what is it, does it really make a difference, and how can you get it? Here’s what to know.",
             "pubDate": "2025-12-21T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "As EU waters down 2035 EV goals, electric startups express concern",
+            "link": "https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/",
+            "description": "The future may be electric, but that future is being postponed. The European Commission, citing the need for flexibility, has softened its ambitious p...",
+            "pubDate": "2025-12-21T15:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "This all-inclusive island resort in Mexico has butler service, tequila tastings and a hammam — and you can book it with points",
@@ -61,25 +117,32 @@
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/20181120_114829.jpg"
         },
         {
-            "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
-            "link": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
-            "description": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours...",
-            "pubDate": "2025-12-20T18:20:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Good News in History, December 20",
+            "link": "https://www.goodnewsnetwork.org/events061220/",
+            "description": "22 years ago today, Gangs of New York premiered in theaters. Martin Scorsese’s colorful and gritty depiction of gangland violence among the poor immig...",
+            "pubDate": "2025-12-20T08:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Trump’s Agriculture Bailout Is Alienating His MAHA Base",
-            "link": "https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/",
-            "description": "The administration’s pro-industry tilt—across three executive agencies—is feeding the MAHA movement’s growing discontent.",
-            "pubDate": "2025-12-20T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Google and Apple reportedly warn employees on visas to avoid international travel",
+            "link": "https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/",
+            "description": "Law firms representing Google and Apple have reportedly warned that employees who need a visa stamp to re-enter the United States should avoid leaving...",
+            "pubDate": "2025-12-20T22:00:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
             "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-12-20-2025/",
             "description": "Our partner Rob Brezsny, who has a new book out, Astrology Is Real: Revelations from My Life as an Oracle, provides his weekly wisdom to enlighten our...",
             "pubDate": "2025-12-20T13:31:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was",
+            "link": "https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/",
+            "description": "The iRobot founder opens up about the 18-month regulatory process that he says doomed the Roomba maker -- and what it means for American innovation.",
+            "pubDate": "2025-12-20T21:31:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Microscopic ‘Christmas Tree’ is Remarkable Highlight of Science Project Comparing the Vast and Small",
@@ -93,63 +156,14 @@
             "link": "https://www.goodnewsnetwork.org/simply-shining-light-on-skin-can-replace-finger-pricks-for-people-with-diabetes/",
             "description": "A new method for measuring blood glucose levels, developed at MIT, could save diabetes patients from having to prick their fingers several times a day...",
             "pubDate": "2025-12-20T21:00:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The 17 Best Gifts for Plant Lovers We’d Buy Ourselves (2025)",
-            "link": "https://www.wired.com/gallery/best-gifts-for-plant-lovers/",
-            "description": "Plant parents don’t always want another plant—up your gift-giving game with these favorite plant presents we've tested.",
-            "pubDate": "2025-12-20T13:30:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Google and Apple reportedly warn employees on visas to avoid international travel",
-            "link": "https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/",
-            "description": "Law firms representing Google and Apple have reportedly warned that employees who need a visa stamp to re-enter the United States should avoid leaving...",
-            "pubDate": "2025-12-20T22:00:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was",
-            "link": "https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/",
-            "description": "The iRobot founder opens up about the 18-month regulatory process that he says doomed the Roomba maker -- and what it means for American innovation.",
-            "pubDate": "2025-12-20T21:31:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed",
-            "link": "https://www.wired.com/gallery/best-nintendo-switch-2-controllers/",
-            "description": "Get a grip on gaming with the best controller options for Nintendo’s latest handheld console.",
-            "pubDate": "2025-12-20T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
-            "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
-            "description": "ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use.",
-            "pubDate": "2025-12-20T20:34:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Sequoia partner spreads debunked Brown shooting theory, testing new leadership",
-            "link": "https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/",
-            "description": "The newest episode raises questions about whether Sequoia's new leadership -- managing partners Alfred Lin and Pat Grady, who took over last month -- ...",
-            "pubDate": "2025-12-20T02:31:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Good News in History, December 20",
-            "link": "https://www.goodnewsnetwork.org/events061220/",
-            "description": "22 years ago today, Gangs of New York premiered in theaters. Martin Scorsese’s colorful and gritty depiction of gangland violence among the poor immig...",
-            "pubDate": "2025-12-20T08:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Aging Mother-and-Son Jaguars Arrive at Special ‘Retirement’ Home for Big Cats to Live Out Their Years",
             "link": "https://www.goodnewsnetwork.org/aging-mother-and-son-jaguars-arrive-at-special-retirement-home-for-big-cats/",
             "description": "A very old jaguar and her senior son are being welcomed to a specially-made retirement home in a UK zoo. Wild jaguars typically live for around 12 yea...",
             "pubDate": "2025-12-20T15:49:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Deal alert: Points and miles travel deals for December 2025",
@@ -173,13 +187,6 @@
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/10/atc-delays.jpg"
         },
         {
-            "title": "Germany’s best Christmas markets — and how to get there on points and miles",
-            "link": "https://thepointsguy.com/travel/best-christmas-markets-germany/",
-            "description": "Your guide to the best Christmas markets in Germany, and how to plan a trip with points and miles.",
-            "pubDate": "2025-12-19T20:37:46",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/20251218_Germany-Christmas-Markets_RCraft-47.jpg"
-        },
-        {
             "title": "Air Fryer Garlic Bread",
             "link": "https://therecipecritic.com/air-fryer-garlic-bread/",
             "description": "You all loved my best homemade garlic bread so much that an air fryer version was a must! It’s got…",
@@ -192,13 +199,6 @@
             "description": "This green chile dip is warm, creamy, and so easy! The best part is, you get to control the heat!…",
             "pubDate": "2025-12-17T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/green-chile-dip-1.jpg"
-        },
-        {
-            "title": "One Pot Mushroom Rice",
-            "link": "https://therecipecritic.com/mushroom-rice/",
-            "description": "This mushroom rice is way better than a simple side. The secret is a splash of Worcestershire. It enhances the…",
-            "pubDate": "2025-12-16T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/mushroom-rice-.jpg"
         },
         {
             "title": "Visiting the Great Wall of China: how to experience Mutianyu properly",
@@ -226,7 +226,7 @@
             "link": "https://thefoodellers.com/trips/asia/japan/tokyo/mistakes/",
             "description": "Tokyo is one of the best cities in the world but it’s also one of the easiest places to get wrong. Not because it’s difficult, but because the city ha...",
             "pubDate": "2025-12-01T19:57:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Thanksgiving Turkey Meatballs",
@@ -240,14 +240,14 @@
             "link": "https://thefoodellers.com/trips/asia/japan/tokyo/ueno-yanaka/",
             "description": "There is a version of Tokyo that still moves slowly. A Tokyo made of narrow streets, family-run shops, wooden houses, cats sunbathing on rooftops, and...",
             "pubDate": "2025-11-21T14:28:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Chinese New Year Foods & Traditions 2026 Guide",
             "link": "https://thefoodellers.com/tips/chinese-new-year-food/",
             "description": "It’s almost time for Chinese New Year, the biggest celebration in the Chinese calendar. Food is at the heart of this holiday, not just for taste but f...",
             "pubDate": "2025-11-20T20:12:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Cranberry Orange Cookie Bars (Vegan + Gluten-Free)",
@@ -268,35 +268,35 @@
             "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-07-03T13:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Jobless claims stay low in latest week",
             "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-13T13:33:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Consumer credit growth soars in December",
             "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-07T20:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "U.S. productivity slows down in fourth quarter while unit labor costs accelerate",
             "link": "https://www.marketwatch.com/story/u-s-productivity-slows-down-in-fourth-quarter-while-unit-labor-costs-accelerate-3c2b9092?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-06T13:34:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Beyond to buy rights to Buy Buy Baby brand and reunite it with Bed Bath & Beyond",
             "link": "https://www.marketwatch.com/story/beyond-to-buy-rights-to-buy-buy-baby-brand-and-reunite-it-with-bed-bath-beyond-4383c6be?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-03T13:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }
