@@ -2,7 +2,7 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-21T11:01:40.991379",
+    "lastBuildDate": "2025-12-21T15:56:18.452294",
     "items": [
         {
             "title": "Ai2 says its Molmo 2 multimodal AI model can do more with less data",
@@ -12,6 +12,13 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/molmo2-featured.jpg"
         },
         {
+            "title": "Agent autonomy without guardrails is an SRE nightmare",
+            "link": "https://venturebeat.com/ai/agent-autonomy-without-guardrails-is-an-sre-nightmare",
+            "description": "João Freitas is GM and VP of engineering for AI and automation at PagerDuty As AI use continues to evolve in large organizations, leaders are increasi...",
+            "pubDate": "2025-12-21T19:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/rxbKNH1o8tpwpScizzIEV/87402fa2b986b713ae0b029f2725250f/Building_agents.png?w=300&q=30"
+        },
+        {
             "title": "Chef Robotics launches its most advanced assembly robot yet",
             "link": "https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/",
             "description": "Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool. The post Chef Robotics launches its...",
@@ -19,11 +26,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/chef-robotics-chef.jpg"
         },
         {
-            "title": "The Download: China’s dying EV batteries, and why AI doomers are doubling down",
-            "link": "https://www.technologyreview.com/2025/12/19/1130167/the-download-chinas-dying-ev-batteries-and-why-ai-doomers-are-doubling-down/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China figure...",
-            "pubDate": "2025-12-19T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/image_766883.png"
+            "title": "Hiring specialists made sense before AI — now generalists win",
+            "link": "https://venturebeat.com/ai/hiring-specialists-made-sense-before-ai-now-generalists-win",
+            "description": "Tony Stoyanov is CTO and co-founder of EliseAI In the 2010s, tech companies chased staff-level specialists: Backend engineers, data scientists, system...",
+            "pubDate": "2025-12-20T19:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7GXeJplC5s3umRvVp4Qg64/1fb79aaaed1a6e90e507e6f945119954/Specialist_versus_generalist.png?w=300&q=30"
         },
         {
             "title": "Otis shares the secrets to controlling elevators for robots",
@@ -33,11 +40,39 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/AMR-waits-for-elevator.jpg"
         },
         {
+            "title": "The Download: China’s dying EV batteries, and why AI doomers are doubling down",
+            "link": "https://www.technologyreview.com/2025/12/19/1130167/the-download-chinas-dying-ev-batteries-and-why-ai-doomers-are-doubling-down/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China figure...",
+            "pubDate": "2025-12-19T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/image_766883.png"
+        },
+        {
             "title": "LimX Dynamics unveils TRON 2 shape-shifting limbed robot",
             "link": "https://www.therobotreport.com/limx-dynamics-just-unveiled-tron-2-shape-shifting-robot/",
             "description": "The TRON 2 modular tri-form robot supports dual-arm, wheeled, and bipedal configurations for integrated VLA research and development. The post LimX Dy...",
             "pubDate": "2025-12-19T13:45:39",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/limx-tron2-featured.jpg"
+        },
+        {
+            "title": "Palona goes vertical, launches Vision, Workflow: 4 key lessons for AI builders",
+            "link": "https://venturebeat.com/orchestration/palona-goes-vertical-launching-vision-workflow-features-4-key-lessons-for-ai",
+            "description": "Building an enterprise AI company on a \"foundation of shifting sand\" is the central challenge for founders today, according to the leadership at Palon...",
+            "pubDate": "2025-12-18T18:10:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7o83pL3JkR4AtWCixTF1Vn/b5a86a9b546c10df9b90c10efab45bc5/fQUa9jYY1tHu1pCu1Y-vE.jpg?w=300&q=30"
+        },
+        {
+            "title": "The 8 worst technology flops of 2025",
+            "link": "https://www.technologyreview.com/2025/12/18/1130106/the-8-worst-technology-flops-of-2025/",
+            "description": "Welcome to our annual list of the worst, least successful, and simply dumbest technologies of the year. This year, politics was a recurring theme. Don...",
+            "pubDate": "2025-12-18T12:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/1X_NEO-Home-Living.jpeg?w=1686"
+        },
+        {
+            "title": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI",
+            "link": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
+            "description": "Anthropic said on Wednesday it would release its Agent Skills technology as an open standard, a strategic bet that sharing its approach to making AI a...",
+            "pubDate": "2025-12-18T17:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/J3NYgqu1RNo5JeiBlj7Vc/a01c1b4c38ac8f0ba4ec1feb781c5333/nuneybits_Vector_art_of_retro_computer_screen_scrolling_code_fo_392f32d5-c9a7-4acb-8276-6336ec58d7a4.webp?w=300&q=30"
         },
         {
             "title": "RealMan Robotics open-sources its RealSource robot dataset",
@@ -54,32 +89,32 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f384.png"
         },
         {
-            "title": "The 8 worst technology flops of 2025",
-            "link": "https://www.technologyreview.com/2025/12/18/1130106/the-8-worst-technology-flops-of-2025/",
-            "description": "Welcome to our annual list of the worst, least successful, and simply dumbest technologies of the year. This year, politics was a recurring theme. Don...",
-            "pubDate": "2025-12-18T12:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/1X_NEO-Home-Living.jpeg?w=1686"
+            "title": "Take our quiz on the year in health and biotechnology",
+            "link": "https://www.technologyreview.com/2025/12/18/1130140/take-our-quiz-on-the-year-in-health-and-biotechnology/",
+            "description": "In just a couple of weeks, we’ll be bidding farewell to 2025. And what a year it has been! Artificial intelligence is being incorporated into more asp...",
+            "pubDate": "2025-12-18T16:59:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "China figured out how to sell EVs. Now it has to deal with their aging batteries.",
             "link": "https://www.technologyreview.com/2025/12/18/1130148/china-ev-battery-recycle/",
             "description": "In August 2025, Wang Lei decided it was finally time to say goodbye to his electric vehicle. Wang, who is 39, had bought the car in 2016, when EVs sti...",
             "pubDate": "2025-12-18T21:24:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Take our quiz on the year in health and biotechnology",
-            "link": "https://www.technologyreview.com/2025/12/18/1130140/take-our-quiz-on-the-year-in-health-and-biotechnology/",
-            "description": "In just a couple of weeks, we’ll be bidding farewell to 2025. And what a year it has been! Artificial intelligence is being incorporated into more asp...",
-            "pubDate": "2025-12-18T16:59:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Gemini 3 Flash arrives with reduced costs and latency — a powerful combo for enterprises",
+            "link": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for",
+            "description": "Enterprises can now harness the power of a large language model that's near that of the state-of-the-art Google’s Gemini 3 Pro , but at a fraction of ...",
+            "pubDate": "2025-12-17T19:24:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/49s3tZpzGRgAER8EKNnJ9f/9b37d007e7f3651a4046466d1159496a/crimedy7_illustration_of_a_robot_running_very_quickly_--ar_16_8c0c48f5-0305-43bc-b49d-4c06e63e9545_0.png?w=300&q=30"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -89,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
