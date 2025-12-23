@@ -2,8 +2,22 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2025-12-23T11:01:34.697783",
+    "lastBuildDate": "2025-12-23T15:56:23.480578",
     "items": [
+        {
+            "title": "Robotics in review: Editors look back at 2025",
+            "link": "https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/",
+            "description": "The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling. The post Robotics in re...",
+            "pubDate": "2025-12-23T19:56:16",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/11/RSE26_LinkedInEVENT_STD_Vs1.jpg"
+        },
+        {
+            "title": "Galbot brings in $300M to scale mobile manipulator deployments",
+            "link": "https://www.therobotreport.com/galbot-brings-in-300m-to-scale-mobile-manipulator-deployments/",
+            "description": "Galbot's flagship robot is the G1, a mobile manipulator with a human-like torso, two arms, and a mobile base. The post Galbot brings in $300M to scale...",
+            "pubDate": "2025-12-23T18:43:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/galbot-featured.jpg"
+        },
         {
             "title": "TE Connectivity launches 3D industrial application tool",
             "link": "https://www.therobotreport.com/te-connectivity-launches-3d-industrial-application-tool/",
@@ -24,20 +38,6 @@
             "description": "Molmo 2 is an 8B-parameter model that surpasses the 72B-parameter Molmo in accuracy, temporal understanding, and pixel-level grounding. The post Ai2 s...",
             "pubDate": "2025-12-21T13:30:03",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/molmo2-featured.jpg"
-        },
-        {
-            "title": "Chef Robotics launches its most advanced assembly robot yet",
-            "link": "https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/",
-            "description": "Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool. The post Chef Robotics launches its...",
-            "pubDate": "2025-12-20T13:35:35",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/chef-robotics-chef.jpg"
-        },
-        {
-            "title": "Otis shares the secrets to controlling elevators for robots",
-            "link": "https://www.therobotreport.com/otis-shares-secrets-controlling-elevators-robots/",
-            "description": "Otis developed APIs allowing autonomous robots to communicate with and navigate elevators in commercial buildings. The post Otis shares the secrets to...",
-            "pubDate": "2025-12-19T19:57:11",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/AMR-waits-for-elevator.jpg"
         }
     ]
 }
