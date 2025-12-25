@@ -2,70 +2,98 @@
     "title": "Politics",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Politics, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-24T15:55:27.956540",
+    "lastBuildDate": "2025-12-25T06:05:28.321753",
     "items": [
         {
-            "title": "Inside the White House Christmas card tradition – from Coolidge to Trump",
-            "link": "https://www.foxnews.com/politics/inside-white-house-christmas-card-tradition-from-coolidge-trump",
-            "description": "The history of the White House Christmas card list is long, unique, with annual messages as distinct as the former presidents themselves.",
-            "pubDate": "2025-12-24T19:00:54",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/melania-trump-christmas-1.jpg?ve=1&tl=1"
+            "title": "Nearly 20 states sue HHS over declaration to restrict gender transition treatment for minors",
+            "link": "https://www.foxnews.com/politics/nearly-20-states-sue-hhs-over-declaration-restrict-gender-transition-treatment-minors",
+            "description": "A group of 19 Democrat-led states filed a lawsuit against the Trump administration over a declaration to restrict gender transition treatments for min...",
+            "pubDate": "2025-12-25T02:40:19",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/rfk-jr-speaking.jpg?ve=1&tl=1"
         },
         {
-            "title": "What 60 Minutes Tried to Leave Out: Trump Admin's Statements on Illegal Immigration",
-            "link": "https://redstate.com/nick-arama/2025/12/24/heres-one-of-the-statements-the-trump-admin-provided-to-60-minutes-they-didnt-want-to-mention-this-n2197455",
+            "title": "Scavenger hunts, Christmas mass, Cajun-fried turkey: Capitol Hill's favorite holiday traditions",
+            "link": "https://www.foxnews.com/politics/scavenger-hunts-christmas-mass-cajun-fried-turkey-capitol-hills-favorite-holiday-traditions",
+            "description": "House lawmakers on both sides of the aisle agree that the holidays are a time for family, friends, and showing people that they care.",
+            "pubDate": "2025-12-25T07:00:29",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/capitol-hill-christmas-tree.jpg?ve=1&tl=1"
+        },
+        {
+            "title": "Rep. Baumgartner to Newsmax: Nigeria Must Prosecute Anti-Christian Extremists",
+            "link": "https://www.newsmax.com/politics/michael-baumgartner-donald-trump-nigeria/2025/12/24/id/1239624",
+            "description": "Rep. Michael Baumgartner, R-Wash., told Newsmax Wednesday he wants the people responsible for the persecution of Christians in Nigeria to be held acco...",
+            "pubDate": "2025-12-25T02:18:44",
+            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=AD51E3E1-28E7-4751-A7E5-BF419C3BAC39"
+        },
+        {
+            "title": "Palau Agrees to Take 75 Migrants From US",
+            "link": "https://www.newsmax.com/politics/palau-migrants-u-s/2025/12/24/id/1239620",
+            "description": "Palau, an island nation in the Pacific, agreed to take up to 75 \"third country nationals\" from the U.S., the country's president announced Wednesday.",
+            "pubDate": "2025-12-25T01:24:51",
+            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=18559512-9994-40C2-A069-C9936E0AA3D1"
+        },
+        {
+            "title": "Rep. Biggs to Newsmax: Rhetoric Fuels Attacks on ICE Agents",
+            "link": "https://www.newsmax.com/politics/andy-biggs-newsmax-ice/2025/12/24/id/1239619",
+            "description": "Rep. Andy Biggs, R-Ariz., warned Wednesday on Newsmax that political rhetoric targeting Immigration and Customs Enforcement is fueling real-world viol...",
+            "pubDate": "2025-12-25T01:20:36",
+            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=545DEBCD-6DF3-491F-8ACD-D83999973C0D"
+        },
+        {
+            "title": "Rep. Randy Fine to Newsmax: 'Import 3rd World, Become 3rd World'",
+            "link": "https://www.newsmax.com/politics/minnesota-somali-fraud/2025/12/24/id/1239622",
+            "description": "The Minnesota Somali fraud scam should come as no surprise, Rep. Randy Fine, R-Fla., said on Newsmax, because Democrats like Gov. Tim Walz reap what t...",
+            "pubDate": "2025-12-25T02:03:23",
+            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=F8A82889-71CB-44E7-A2E2-A303E0EDED3E"
+        },
+        {
+            "title": "Father Flanagan to Newsmax: Young Americans Seek Truth",
+            "link": "https://www.newsmax.com/politics/patrick-flanagan-donald-trump-bible/2025/12/24/id/1239623",
+            "description": "Father Patrick Flanagan told Newsmax on Wednesday that younger Americans are increasingly turning to faith as they grow disillusioned with modern inst...",
+            "pubDate": "2025-12-25T02:04:16",
+            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=D89D61D3-744F-4ED6-A36D-3DFA396C9A84"
+        },
+        {
+            "title": "Pentagon to send 350 National Guard troops to New Orleans as violent crime surges ahead of major events",
+            "link": "https://www.foxnews.com/politics/pentagon-send-350-national-guard-troops-new-orleans-violent-crime-surges-ahead-major-events",
+            "description": "More than 300 national Guard troops will assist law enforcement in New Orleans through Mardi Gras as officials work to combat rising violent crime.",
+            "pubDate": "2025-12-24T20:47:21",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/national-guard-in-dc-navy-yard-2.jpg?ve=1&tl=1"
+        },
+        {
+            "title": "Trump takes NORAD Santa calls with children, praises 'clean, beautiful coal' and 'high-IQ' person",
+            "link": "https://www.foxnews.com/politics/trump-takes-norad-santa-calls-children-praises-clean-beautiful-coal-high-iq-person",
+            "description": "President Donald Trump told kids they're \"high IQ\" and praised \"clean, beautiful coal\" during Christmas Eve NORAD Santa tracker calls from Mar-a-Lago ...",
+            "pubDate": "2025-12-24T23:51:54",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/trump-norad-charistmas-calls.jpg?ve=1&tl=1"
+        },
+        {
+            "title": "Accused Nat'l Guard Shooter Hit With Federal Murder Charge; US Atty Pirro Says Death Penalty Possible",
+            "link": "https://redstate.com/bobhoge/2025/12/24/doj-hits-accused-guard-shooter-with-federal-murder-charge-jeanine-pirro-says-opens-door-to-execution-n2197462",
             "description": "",
-            "pubDate": "2025-12-24T19:03:46",
-            "image_url": "https://media.townhall.com/cdn/hodl/2025/307/a159a590-a26e-4180-a3cf-7330d93dff82.jpg"
+            "pubDate": "2025-12-24T21:27:21",
+            "image_url": "https://media.townhall.com/cdn/hodl/2025/335/20a67d43-ee7d-4687-be60-39b361cf4e0e.png"
         },
         {
-            "title": "H-E-B Grocers' Computers Fail, So They Take an Opportunity to Spread Unexpected Christmas Cheer",
-            "link": "https://redstate.com/jenniferoo/2025/12/24/christmas-cheer-h-e-b-computers-go-down-and-they-bag-the-customers-purchases-and-let-them-go-n2197459",
+            "title": "DOJ discovers more than 1M potential Epstein records, further delaying file release",
+            "link": "https://www.foxnews.com/politics/doj-discovers-more-than-1m-potential-epstein-records-further-delaying-file-release",
+            "description": "Jeffrey Epstein documents review could take weeks as Justice Department says it discovered over a million additional files from FBI and prosecutors.",
+            "pubDate": "2025-12-24T21:21:08",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/trump-bondi2.png?ve=1&tl=1"
+        },
+        {
+            "title": "North Pole Doc Gives Thumbs Up: Rudolph's Glow Gets Vet's Go",
+            "link": "https://redstate.com/wardclark/2025/12/24/north-pole-doc-gives-thumbs-up-rudolphs-glow-gets-vets-go-n2197469",
             "description": "",
-            "pubDate": "2025-12-24T20:15:11",
-            "image_url": "https://media.townhall.com/cdn/hodl/2025/314/ba9cdf16-d105-44f6-9143-ab9725057b3a.jpg"
+            "pubDate": "2025-12-24T23:35:43",
+            "image_url": "https://media.townhall.com/cdn/hodl/rs/images/up/2018/12/Untitled-1-6.jpg"
         },
         {
-            "title": "From Camo to Christmas: National Guard Embraces Festive Uniform Modification",
-            "link": "https://redstate.com/katie-jerkovich/2025/12/24/national-guard-troops-festive-new-uniform-modification-garners-attention-n2197461",
+            "title": "This Disgusting Take on Spiking of '60 Minutes' Story Shows Dems Have Truly Gone Off the Rails",
+            "link": "https://redstate.com/nick-arama/2025/12/24/reaction-to-bari-weiss-decision-is-unhinged-n2197466",
             "description": "",
-            "pubDate": "2025-12-24T20:05:24",
-            "image_url": "https://media.townhall.com/cdn/hodl/2025/230/2719ba5a-1615-48e7-9d5d-8dbf01a1c8e6.jpg"
-        },
-        {
-            "title": "Our Gift to You This Holiday Season",
-            "link": "https://redstate.com/redstate-staff/2025/12/24/dont-miss-our-massive-christmas-and-new-years-sale-n2197267",
-            "description": "",
-            "pubDate": "2025-12-24T18:15:00",
-            "image_url": "https://media.townhall.com/cdn/hodl/2025/352/c7fb95bb-1a15-4acc-9aca-1cf1d8066572.jpg"
-        },
-        {
-            "title": "Trump's Lindell Support Rumbles Minnesota Governor Fight",
-            "link": "https://www.newsmax.com/politics/trump-mike-lindell-minnesota-gop/2025/12/24/id/1239579",
-            "description": "Some Republican strategists are concerned that President Donald Trump's involvement in the Minnesota gubernatorial race could hurt the party's chances...",
-            "pubDate": "2025-12-24T18:41:35",
-            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=E3034CDA-21C3-483F-A3C9-63079251863D"
-        },
-        {
-            "title": "DOJ Delays Epstein Files After Finding 1 Million Records",
-            "link": "https://www.newsmax.com/politics/jeffrey-epstein-doj-files/2025/12/24/id/1239582",
-            "description": "The Justice Department said Wednesday that it may need a \"few more weeks\" to release all of its records on the late sex offender Jeffrey Epstein after...",
-            "pubDate": "2025-12-24T18:59:20",
-            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=A8B88AAB-031C-442A-ADD9-1E07FA5ED60B"
-        },
-        {
-            "title": "EXCLUSIVE: 17,500 illegal immigrants arrested under Laken Riley Act in Trump’s second term",
-            "link": "https://www.foxnews.com/politics/exclusive-17500-illegal-immigrants-arrested-under-laken-riley-act-trumps-second-term",
-            "description": "DHS arrests over 17,500 illegal immigrants in 2025 under new Laken Riley Act, targeting criminals for mandatory detention and deportation processing.",
-            "pubDate": "2025-12-24T16:19:15",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/dhs-laken-riley-captures.png?ve=1&tl=1"
-        },
-        {
-            "title": "Prominent Rhode Island Democrat caught on video telling officer, 'You know who I am?' during DUI stop",
-            "link": "https://www.foxnews.com/politics/prominent-rhode-island-democrat-caught-video-telling-officer-you-know-who-i-am-during-dui-stop",
-            "description": "The arrest of Maria Bucci, the chairwoman of the Democratic committee in Cranston, Rhode Island, was captured in a bodycam video by East Greenwich pol...",
-            "pubDate": "2025-12-24T17:31:56",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/maria-bucci-traffic-stop-1.jpg?ve=1&tl=1"
+            "pubDate": "2025-12-24T23:06:03",
+            "image_url": "https://media.townhall.com/cdn/hodl/2019/8/d6b0d95b-f0b9-406f-b186-bc9e944d2e3f.png"
         },
         {
             "title": "Knowledge: The Ultimate Christmas Gift That Keeps Giving",
@@ -75,39 +103,11 @@
             "image_url": "https://media.townhall.com/cdn/hodl/rs/images/up/2023/340/d4e20e59-76d4-408c-893a-568266fcba3d.jpg"
         },
         {
-            "title": "Alito rips Supreme Court majority as 'unwise' for blocking Trump's National Guard plan",
-            "link": "https://www.foxnews.com/politics/alito-rips-supreme-court-majority-unwise-blocking-trumps-national-guard-plan",
-            "description": "Supreme Court temporarily blocks President Trump's National Guard deployment in Chicago as Justice Samuel Alito warns the decision could limit federal...",
-            "pubDate": "2025-12-24T19:36:52",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/trump-alito.jpg?ve=1&tl=1"
-        },
-        {
-            "title": "WH Orders Forces to 'Quarantine' Venezuelan Oil for 2 Months",
-            "link": "https://www.newsmax.com/politics/white-house-orders-venezuelan/2025/12/24/id/1239581",
-            "description": "The White House has ordered U.S. military forces to focus almost exclusively on enforcing the \"quarantine\" of Venezuelan oil for at least the next two...",
-            "pubDate": "2025-12-24T18:58:22",
-            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=08767274-E472-4E5E-95C2-8F4A40511032"
-        },
-        {
-            "title": "Rick Gates to Newsmax: Trump in 'Virtuous Fight' With Media",
-            "link": "https://www.newsmax.com/politics/rick-gates-trump-media/2025/12/24/id/1239578",
-            "description": "Former Trump campaign aide Rick Gates told Newsmax that President Donald Trump is now waging a critical battle with many large media outlets. Gates to...",
-            "pubDate": "2025-12-24T18:28:17",
-            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=6D7E7684-EEB2-4B68-8C8F-420A7FBC2A70"
-        },
-        {
-            "title": "Poll: Politics Off the Table at Holiday Gatherings",
-            "link": "https://www.newsmax.com/politics/holiday-family-friends/2025/12/24/id/1239577",
-            "description": "When it comes to topics people expect to discuss at holiday gatherings this season, politics is pretty far down the list, according to a new survey.",
-            "pubDate": "2025-12-24T18:12:45",
-            "image_url": "https://www.newsmax.com/cmspages/getfile.aspx?guid=562F4B8A-2632-4506-8BE6-CEABA3ABA81E"
-        },
-        {
-            "title": "Democrats warn Trump greenlighting Nvidia AI chip sales could boost China’s military edge",
-            "link": "https://www.foxnews.com/politics/democrats-warn-trump-green-lighting-nvidia-ai-chip-sales-could-boost-chinas-military-edge",
-            "description": "Congressional Democrats oppose NVIDIA's advanced H200 chip sales to China, with lawmakers calling the decision a threat to U.S. military security.",
-            "pubDate": "2025-12-24T18:14:00",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/gregory-meeks-sits-in-committee.jpg?ve=1&tl=1"
+            "title": "Zelensky Proposes Demilitarized Zone in New Peace Proposal",
+            "link": "https://redstate.com/wardclark/2025/12/24/zelensky-proposes-demilitarized-zone-in-new-peace-proposal-n2197468",
+            "description": "",
+            "pubDate": "2025-12-24T22:02:47",
+            "image_url": "https://media.townhall.com/cdn/hodl/2025/232/85500930-55e0-4c59-8d44-ddccde31831f.jpg"
         }
     ]
 }
