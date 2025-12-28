@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-28T11:01:20.674128",
+    "lastBuildDate": "2025-12-28T15:56:09.264625",
     "items": [
+        {
+            "title": "One Pan General Tso’s Chicken",
+            "link": "https://therecipecritic.com/one-pan-general-tsos-chicken/",
+            "description": "You love my baked General Tso’s chicken, so obviously, I had to make a faster one. This one pan General…",
+            "pubDate": "2025-12-28T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/general-tsos-chicken-1.jpg"
+        },
         {
             "title": "Crockpot Poppy Seed Chicken",
             "link": "https://therecipecritic.com/crockpot-poppyseed-chicken/",
@@ -31,13 +38,6 @@
             "description": "You guys are obsessed with my Broccoli Cheddar soup, and I know you love a good orzo recipe. So this…",
             "pubDate": "2025-12-23T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/broccoli-orzo.jpg"
-        },
-        {
-            "title": "Bourbon Shrimp",
-            "link": "https://therecipecritic.com/bourbon-shrimp/",
-            "description": "Bourbon shrimp are sticky, garlicky, and packed with flavor. Sweet brown sugar and a splash of bourbon create a quick,…",
-            "pubDate": "2025-12-22T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/bourbon-shrimp.jpg"
         },
         {
             "title": "Tahini Hot Chocolate (Super Dreamy, Protein-Rich!)",
