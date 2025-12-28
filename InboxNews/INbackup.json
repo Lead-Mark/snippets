@@ -2,21 +2,28 @@
     "title": "INtopBackup",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INtopBackup, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-28T06:06:23.711264",
+    "lastBuildDate": "2025-12-28T11:01:22.167562",
     "items": [
+        {
+            "title": "Memory loss: As AI gobbles up chips, prices for devices may rise",
+            "link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
+            "description": "Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available...",
+            "pubDate": "2025-12-28T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2550x1509+0+0/resize/2550x1509!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fcb%2Fe6930aae4194aa1d81d15e00b18b%2Fap101105125088.jpg"
+        },
+        {
+            "title": "Viral global TikToks: A twist on soccer, Tanzania's Charlie Chaplin, hope in Gaza",
+            "link": "https://www.npr.org/sections/goats-and-soda/2025/12/28/g-s1-103034/tiktok-gaza-africa-brazil-soccer-history-charlie-chaplin",
+            "description": "TikToks are everywhere (well, except countries like Australia and India, where they've been banned.) We talk to the creators of some of the year's mos...",
+            "pubDate": "2025-12-28T13:25:04",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3008x1692+0+0/resize/3008x1692!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Fe4%2F77b6419e4e4d87b700fcc259eccc%2Fquad-tiktoks-2025.jpg"
+        },
         {
             "title": "Zelenskyy to meet with Trump as efforts to end Russia-Ukraine war remain elusive",
             "link": "https://www.npr.org/2025/12/28/nx-s1-5659700/zelenskyy-meets-trump-efforts-end-russia-ukraine-war-elusive",
             "description": "In the days before the meeting, Russia has intensified its attacks on Ukraine's capital, using missiles and drones to attack Kyiv and try to increase ...",
             "pubDate": "2025-12-28T08:25:09",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5848x3899+0+0/resize/5848x3899!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2Fee%2F2a8a03364b0aadd38fe5ec6682f0%2Fap25352461957428.jpg"
-        },
-        {
-            "title": "For Ukrainians, a nuclear missile museum is a bitter reminder of what the country gave up",
-            "link": "https://www.npr.org/2025/12/28/g-s1-103485/ukraine-museum-strategic-missile-forces-budapest-agreement",
-            "description": "The Museum of Strategic Missile Forces tells the story of how Ukraine dismantled its nuclear weapons arsenal after independence in 1991. Today many Uk...",
-            "pubDate": "2025-12-28T10:02:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fe4%2Fab28c4f2432e9e23a46addf051d8%2Fdsc00415.jpg"
         },
         {
             "title": "Brigitte Bardot, sex goddess of cinema, has died",
@@ -26,109 +33,102 @@
             "image_url": "https://media.npr.org/assets/img/2022/10/24/gettyimages-3172350_custom-add98cd773a876982ae5870ba975a2496ddfefea.jpg"
         },
         {
-            "title": "Jeffrey R. Holland, next in line to lead Church of Jesus Christ of Latter-day Saints, dies at 85",
-            "link": "https://www.npr.org/2025/12/27/nx-s1-5659302/jeffrey-r-holland-church-of-jesus-christ-of-latter-day-saints-obit",
-            "description": "Jeffrey R. Holland led the Quorum of the Twelve Apostles, a key governing body. He was next in line to become the church's president.",
-            "pubDate": "2025-12-28T00:22:59",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2059+0+0/resize/3000x2059!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Fbd%2F57a421ba42c8b9e42df98e9f1ba1%2Fap25361533756916.jpg"
+            "title": "For Ukrainians, a nuclear missile museum is a bitter reminder of what the country gave up",
+            "link": "https://www.npr.org/2025/12/28/g-s1-103485/ukraine-museum-strategic-missile-forces-budapest-agreement",
+            "description": "The Museum of Strategic Missile Forces tells the story of how Ukraine dismantled its nuclear weapons arsenal after independence in 1991. Today many Uk...",
+            "pubDate": "2025-12-28T10:02:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fe4%2Fab28c4f2432e9e23a46addf051d8%2Fdsc00415.jpg"
         },
         {
-            "title": "Memory loss: As AI gobbles up chips, prices for devices may rise",
-            "link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-            "description": "Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available...",
-            "pubDate": "2025-12-28T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2550x1509+0+0/resize/2550x1509!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fcb%2Fe6930aae4194aa1d81d15e00b18b%2Fap101105125088.jpg"
+            "title": "Iranian cinema giant, Bahram Beyzai, dies aged 87",
+            "link": "https://www.bbc.com/news/articles/cde61jz5653o?at_medium=RSS&at_campaign=rss",
+            "description": "A restored copy of his film, Bashu, the Little Stranger, won an award at this year's Venice Film Festival.",
+            "pubDate": "2025-12-28T12:25:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "The Book Report: Ron Charles' picks from 2025",
+            "link": "https://www.cbsnews.com/news/the-book-report-ron-charles-picks-from-2025/",
+            "description": "The Washington Post book reviewer offers \"Sunday Morning\" viewers his picks for fiction and non-fiction titles to add to their New Year's reading list...",
+            "pubDate": "2025-12-28T15:43:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "French cinema actress Brigitte Bardot dies aged 91",
+            "link": "https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss",
+            "description": "The actress was a symbol of sexual liberation in the 1950s but became increasingly controversial after making homophobic and racist slurs.",
+            "pubDate": "2025-12-28T13:34:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Bank of America CEO warns market \"will punish people\" without independent Fed",
+            "link": "https://www.cbsnews.com/news/bank-of-america-ceo-brian-moynihan-independent-fed-jerome-powell/",
+            "description": "Bank of America Chairman and CEO Brian Moynihan stated last week that, as President Trump seeks a new chair of the Federal Reserve, maintaining the ba...",
+            "pubDate": "2025-12-28T15:53:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Three killed in Sweden as major storm sweeps across Nordic countries",
+            "link": "https://www.bbc.com/news/articles/cdj817m37rgo?at_medium=RSS&at_campaign=rss",
+            "description": "Thousands of homes in parts of Finland, Sweden and Norway have been left without power.",
+            "pubDate": "2025-12-28T13:22:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Nine arrested in Italy for allegedly raising millions for Hamas",
+            "link": "https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS&at_campaign=rss",
+            "description": "Police say the suspects raised around €7m (£6m) for the militant group over more than two years.",
+            "pubDate": "2025-12-28T11:56:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Open: This is \"Face the Nation with Margaret Brennan,\" Dec. 28, 2025",
+            "link": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-dec-28-2025/",
+            "description": "This week on \"Face the Nation with Margaret Brennan,\" a look back on 2025, a year filled with change that's turned Washington norms upside down -- and...",
+            "pubDate": "2025-12-28T15:47:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Transcript: Bank of America CEO Brian Moynihan on \"Face the Nation with Margaret Brennan,\" Dec. 28, 2025",
+            "link": "https://www.cbsnews.com/news/brian-moynihan-bank-of-america-ceo-face-the-nation-12-28-2025/",
+            "description": "The following is the transcript of the interview with Bank of America Chairman and CEO Brian Moynihan that aired on \"Face the Nation with Margaret Bre...",
+            "pubDate": "2025-12-28T15:43:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Mystery on County Road M",
             "link": "https://www.cbsnews.com/video/kendhammer-mystery-on-county-road-m-3/",
             "description": "Todd Kendhammer says his wife was killed in an accident -- a pipe flew off a truck and crashed into their car. Authorities say the scene was staged. \"...",
-            "pubDate": "2025-12-28T07:02:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "In pictures: The life and career of Brigitte Bardot",
-            "link": "https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss",
-            "description": "The French actress redefined cinematic allure, captivating the world before championing animal rights.",
-            "pubDate": "2025-12-28T10:18:24",
+            "pubDate": "2025-12-28T15:55:20",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "12/27: CBS Weekend News",
-            "link": "https://www.cbsnews.com/video/1227-cbs-weekend-news/",
-            "description": "Powerful winter storm brings heavy snow to Northeast; How AI is assisting with our chores",
-            "pubDate": "2025-12-28T04:28:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Did man stage a freak car accident to cover up wife's murder?",
-            "link": "https://www.cbsnews.com/news/barbara-todd-kendhammer-prosecutors-say-husband-murdered-wife-staged-car-accident/",
-            "description": "The couple's children say their father is innocent and point out that he had 28 guns in the basement if he really wanted to kill her.",
-            "pubDate": "2025-12-28T07:10:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Two killed in Sweden as major storm sweeps across Nordic countries",
-            "link": "https://www.bbc.com/news/articles/cdj817m37rgo?at_medium=RSS&at_campaign=rss",
-            "description": "Thousands of homes in parts of Finland, Sweden and Norway have been left without power.",
-            "pubDate": "2025-12-28T08:55:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Brigitte Bardot: From French cinema to international fame",
-            "link": "https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss",
-            "description": "The French model and actress has died at the age of 91.",
-            "pubDate": "2025-12-28T10:23:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Gas line rupture briefly shuts down major Southern California freeway",
-            "link": "https://www.cbsnews.com/news/castaic-gas-line-rupture-5-freeway-closed/",
-            "description": "The 5 Freeway north of Los Angeles was closed for hours and a shelter-in-place order was issued to more than 19,000 residents in Castaic after a natur...",
-            "pubDate": "2025-12-28T06:25:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s",
-            "link": "https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss",
-            "description": "The cocktail of kittenish charm and continental sensuality who swept away the cinematic cobwebs of the 1950s.",
-            "pubDate": "2025-12-28T10:18:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Polls close on first day of Myanmar's widely criticised 'sham' election",
-            "link": "https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss",
-            "description": "Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power.",
-            "pubDate": "2025-12-28T07:37:08",
+            "title": "Executions in Iran estimated to have doubled in 2025, report says",
+            "link": "https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss",
+            "description": "The Iran Human Rights (IHR) group says it has verified at least 1,500 executions up until the start of December.",
+            "pubDate": "2025-12-28T12:02:13",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "\"48 Hours\" show schedule",
-            "link": "https://www.cbsnews.com/48-hours/episode-schedule/",
-            "description": "True crime. Real justice. To miss it would be a crime.",
-            "pubDate": "2025-12-28T07:10:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Winter storm snarls holiday travel across US Northeast, Great Lakes",
-            "link": "https://apnews.com/article/holiday-travel-snow-light-cancellations-bd2cdb21ab373c6d21be046352ec5a9b",
-            "description": "More than a thousand flights have been canceled or delayed across the Northeast and Great Lakes as a winter storm disrupted one of the busiest travel ...",
-            "pubDate": "2025-12-27T08:07:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Sure, the newspaper informed. But as it fades, those who used it for other things must adjust, too",
             "link": "https://apnews.com/article/media-newspapers-fading-warren-buffett-6cebea1d8b67ab14d062c803cbe0ff42",
             "description": "",
             "pubDate": "2025-12-27T00:44:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Anonymous money fuels $5 million in attacks on Georgia’s Lt. Gov. Burt Jones",
             "link": "https://apnews.com/article/burt-jones-governor-2026-georgia-dark-money-70f49891f560a70fb68788ac8dbe7dc3",
             "description": "",
             "pubDate": "2025-12-27T00:03:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Winter storm snarls holiday travel across US Northeast, Great Lakes",
+            "link": "https://apnews.com/article/holiday-travel-snow-light-cancellations-bd2cdb21ab373c6d21be046352ec5a9b",
+            "description": "More than a thousand flights have been canceled or delayed across the Northeast and Great Lakes as a winter storm disrupted one of the busiest travel ...",
+            "pubDate": "2025-12-27T08:07:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
