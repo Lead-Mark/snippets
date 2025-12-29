@@ -1,9 +1,15 @@
 {
-    "title": "Individual feed for https://www.therobotreport.com/feed/",
+    "title": "Individual Feed: www.therobotreport.com_feed_",
     "link": "https://www.therobotreport.com/feed/",
-    "description": "Individual feed output.",
-    "lastBuildDate": "2025-12-29T11:03:12.508898",
+    "description": "Individual feed entries from https://www.therobotreport.com/feed/",
     "items": [
+        {
+            "title": "EIB invests $58.7M into Comau’s Italian facilities",
+            "link": "https://www.therobotreport.com/eib-invests-58-7m-into-comau-italian-facilities/",
+            "description": "Comau said the EIB partnership will target industrial sectors including batteries, aerospace, construction, renewable energy, and logistics. The post ...",
+            "pubDate": "2025-12-29T18:37:04",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/ComauDryRoom-featured.jpg"
+        },
         {
             "title": "New lidar platforms promise safer, more efficient, and more autonomous industrial systems",
             "link": "https://www.therobotreport.com/new-lidar-platforms-promise-safer-more-efficient-more-autonomous-industrial-systems/",
@@ -31,13 +37,6 @@
             "description": "Hytron uses an AI-driven platform to clean all restroom touchpoints while also controlling water application to minimize slip risk. The post Primech A...",
             "pubDate": "2025-12-26T13:20:38",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/hytron-featured.jpg"
-        },
-        {
-            "title": "Comau introduces MyCo cobot products",
-            "link": "https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/",
-            "description": "Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation. The post Comau ...",
-            "pubDate": "2025-12-24T15:31:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/MyCo-featured.jpg"
         }
     ]
 }
