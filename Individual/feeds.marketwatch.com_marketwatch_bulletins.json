@@ -1,43 +1,6 @@
 {
-    "title": "Individual feed for http://feeds.marketwatch.com/marketwatch/bulletins",
+    "title": "Individual Feed: feeds.marketwatch.com_marketwatch_bulletins",
     "link": "http://feeds.marketwatch.com/marketwatch/bulletins",
-    "description": "Individual feed output.",
-    "lastBuildDate": "2025-12-29T16:29:16.589152",
-    "items": [
-        {
-            "title": "Dow, S&P 500 and Nasdaq all close lower, as silver and gold pull back sharply",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=43d43b86-6da4-45f6-ae3e-f7b7f469efa7&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-29T21:03:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "U.S. stocks remain lower in final hour, as silver and gold pull back — live",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2e5bd7f8-f87b-424b-885c-677f75cdcb25&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-29T20:10:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "‘The bulls are spooked’: Has silver’s stunning rise this year run out of steam?",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d71dcfda-88ec-4100-8495-8e86abcc2110&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-29T19:29:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "AI slop is taking over the internet — and it’s here to stay",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fe87e585-232c-4587-915a-cb7a22ee059d&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-29T18:47:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "This silver-tracking ETF is having its worst trading session since 2020",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=15219588-be70-44b4-aa54-2c7eba3e988b&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2025-12-29T15:55:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        }
-    ]
+    "description": "Individual feed entries from http://feeds.marketwatch.com/marketwatch/bulletins",
+    "items": []
 }
