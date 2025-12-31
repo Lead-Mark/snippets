@@ -2,7 +2,7 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2025-12-31T06:07:21.977679",
+    "lastBuildDate": "2025-12-31T11:02:47.943065",
     "items": [
         {
             "title": "Farmers are about to pay a lot more for health insurance",
@@ -26,39 +26,88 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5661570"
         },
         {
-            "title": "Early detection fails when screening guidelines ignore young women [PODCAST]",
-            "link": "https://kevinmd.com/2025/12/early-detection-fails-when-screening-guidelines-ignore-young-women-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Psychotherapist and patient advocate Sara Rands discusses her article...",
-            "pubDate": "2025-12-31T00:00:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "If someone's always late, is it time blindness, or are they just being rude?",
-            "link": "https://medicalxpress.com/news/2025-12-late-rude.html",
-            "description": "Even as a kid, Alice Lovatt was always getting in trouble for being late.",
-            "pubDate": "2025-12-31T10:05:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "His brother's mental illness isolated his family. Now he's helping other caregivers",
+            "link": "https://www.npr.org/2025/12/31/nx-s1-5660892/caregiver-family-mental-illness-support",
+            "description": "When it comes to serious mental illness, family caregivers are crucial partners. But often, they must fend for themselves. A new solution offers them ...",
+            "pubDate": "2025-12-31T12:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F17%2F46e8e4cb44b5b6e6838fdf84609b%2F251222-npr-mituldesai-josealvaradojr-0081.JPG"
         },
         {
             "title": "Flu is rising rapidly, driven by a new variant. Here's what to know",
             "link": "https://medicalxpress.com/news/2025-12-flu-rapidly-driven-variant.html",
             "description": "Flu is rising rapidly across the U.S., driven by a new variant of the virus—and cases are expected to keep growing with holiday travel.",
             "pubDate": "2025-12-31T10:04:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Does Fatigue Increase Odds of Reaction to Peanut OIT?",
+            "link": "https://www.medscape.com/viewarticle/does-fatigue-increase-odds-reaction-peanut-oit-2025a10010sk?src=rss",
+            "description": "Peanut oral immunotherapy is generally safe, but rare, severe immediate allergic reactions may emerge months into treatment, a real-world French study...",
+            "pubDate": "2025-12-31T14:43:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Liver Cancer Risk Drops Post-HCV Treatment in HIV Cases",
+            "link": "https://www.medscape.com/viewarticle/liver-cancer-risk-drops-post-hcv-treatment-hiv-cases-2025a10010sr?src=rss",
+            "description": "People coinfected with HIV and hepatitis C virus remain at risk for hepatocellular carcinoma within 6 years of starting direct-acting antivirals, thou...",
+            "pubDate": "2025-12-31T15:08:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Trump v 'Obamacare': US health costs set to soar for millions in 2026",
             "link": "https://medicalxpress.com/news/2025-12-trump-obamacare-health-soar-millions.html",
             "description": "Iowa farmer Aaron Lehman was already paying a hefty price for health insurance, but his premium is set to skyrocket in January when major government s...",
             "pubDate": "2025-12-31T10:09:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "‘Z-Drug’ Use in Early Pregnancy: New Safety Data",
+            "link": "https://www.medscape.com/viewarticle/z-drugs-disordered-sleep-early-pregnancy-new-safety-data-2025a10010sp?src=rss",
+            "description": "Commonly prescribed sleep medications such as zolpidem are not associated with a meaningful increase in the overall risk for birth defects when used i...",
+            "pubDate": "2025-12-31T15:13:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Dupilumab Delivers Positive Results for AFRS",
+            "link": "https://www.medscape.com/viewarticle/dupilumab-delivers-positive-results-allergic-fungal-2025a10010sv?src=rss",
+            "description": "Patients treated with dupilumab were less likely to pursue corticosteroids or surgery. Medscape Medical News",
+            "pubDate": "2025-12-31T15:18:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "AI App Accurately Identifies Gluten-Free Packaged Foods",
+            "link": "https://www.medscape.com/viewarticle/ai-app-accurately-identifies-gluten-free-packaged-foods-2025a10010si?src=rss",
+            "description": "An AI-powered smartphone app identified gluten-free packaged foods with 99% accuracy, closely matching expert dietitians and revealing major gaps betw...",
+            "pubDate": "2025-12-31T14:21:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Adenotonsillectomy improves growth in children with mild sleep-disordered breathing",
+            "link": "https://medicalxpress.com/news/2025-12-adenotonsillectomy-growth-children-mild-disordered.html",
+            "description": "For children with mild sleep-disordered breathing (SDB), adenotonsillectomy improves growth and sleep-related outcomes, according to a study published...",
+            "pubDate": "2025-12-31T14:10:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "In a year of steep challenges, there were still shining moments in global health",
-            "link": "https://www.npr.org/sections/goats-and-soda/2025/12/30/g-s1-103731/global-health-progress-challenges-vaccines-malaria-hiv",
-            "description": "The Trump administration's deep cuts in U.S. foreign health aid had a devastating impact. Yet there were achievements of note in spite of it all.",
-            "pubDate": "2025-12-30T19:40:19",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5454x3636+0+0/resize/5454x3636!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F47%2Fe6f5c8ea4a56b9d13aab088750dd%2Fgettyimages-2236624267.jpg"
+            "title": "Early detection fails when screening guidelines ignore young women [PODCAST]",
+            "link": "https://kevinmd.com/2025/12/early-detection-fails-when-screening-guidelines-ignore-young-women-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Psychotherapist and patient advocate Sara Rands discusses her article...",
+            "pubDate": "2025-12-31T00:00:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Coloradans snap up over-the-counter naloxone while hospitals offer the overdose-reversal drug to more patients",
+            "link": "https://medicalxpress.com/news/2025-12-coloradans-snap-counter-naloxone-hospitals.html",
+            "description": "Colorado is coming closer to universal access to overdose-reversing medication as residents snap up an over-the-counter version and hospitals offer it...",
+            "pubDate": "2025-12-31T13:50:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "If someone's always late, is it time blindness, or are they just being rude?",
+            "link": "https://medicalxpress.com/news/2025-12-late-rude.html",
+            "description": "Even as a kid, Alice Lovatt was always getting in trouble for being late.",
+            "pubDate": "2025-12-31T10:05:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Flu cases are surging and rates will likely get worse, new CDC data shows",
@@ -82,18 +131,11 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5645107"
         },
         {
-            "title": "Visual analog scale has comparable validity for perennial allergic, nonallergic rhinitis",
-            "link": "https://medicalxpress.com/news/2025-12-visual-analog-scale-validity-perennial.html",
-            "description": "The visual analog scale (VAS) demonstrates comparable validity for perennial allergic rhinitis (PAR) and nonallergic rhinitis (NAR) severity and quali...",
-            "pubDate": "2025-12-30T20:50:02",
+            "title": "Emotional awareness and expression therapy explained",
+            "link": "https://kevinmd.com/2025/12/emotional-awareness-and-expression-therapy-explained.html",
+            "description": "Most people assume that pain and illness are caused only by injury or disease. If your back hurts, it must be damaged; abdominal pain must come only f...",
+            "pubDate": "2025-12-30T14:00:41",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Semaglutide Tied to Fewer Hospitalizations in Heart Patients",
-            "link": "https://www.medscape.com/viewarticle/semaglutide-tied-fewer-hospitalizations-heart-patients-2025a10010pg?src=rss",
-            "description": "Semaglutide use is linked to fewer hospitalizations and fewer days in the hospital for patients with cardiovascular disease and overweight or obesity,...",
-            "pubDate": "2025-12-30T12:50:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "GLP-1 psychological side effects: a psychiatrist’s view",
@@ -103,59 +145,17 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Physicians Carry a Double Burden When Their Parents Get Sick",
-            "link": "https://www.medscape.com/viewarticle/physicians-carry-double-burden-when-their-parents-get-sick-2025a10010ni?src=rss",
-            "description": "When a parent’s health declines, doctors must navigate difficult, overlapping roles, balancing clinical knowledge with personal heartbreak. Medscape M...",
-            "pubDate": "2025-12-30T12:49:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Pine Scent, Humming May Boost Immune Function",
-            "link": "https://www.medscape.com/viewarticle/holiday-rituals-pine-scent-humming-may-boost-immune-signs-2025a10010po?src=rss",
-            "description": "Christmas traditions such as decorating a tree and singing not only lift spirits but also boost immunity by triggering immune responses, enhancing ove...",
-            "pubDate": "2025-12-30T13:01:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Survey reveals high demand for health care and exercise gerontechnology, respondents urge government funding",
-            "link": "https://medicalxpress.com/news/2025-12-survey-reveals-high-demand-health.html",
-            "description": "In order to understand Hong Kong citizens' views on the development of gerontechnology, Lingnan University recently held a public opinion survey. The ...",
-            "pubDate": "2025-12-30T22:40:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Anti-inflammatory Targets for HS Likely Vary by Patient",
-            "link": "https://www.medscape.com/viewarticle/anti-inflammatory-targets-hidradenitis-suppurativa-likely-2025a10010ps?src=rss",
-            "description": "The progress in understanding the pathophysiology of hidradenitis suppurativa appears to be leading to treatment strategies individualized for disease...",
-            "pubDate": "2025-12-30T13:37:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
             "title": "Student loan cuts for health professionals",
             "link": "https://kevinmd.com/2025/12/student-loan-cuts-for-health-professionals.html",
             "description": "I want to make something clear from the very beginning, because this point often gets lost when taking this perspective on this topic. Nurses, physici...",
             "pubDate": "2025-12-30T20:00:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Emotional awareness and expression therapy explained",
-            "link": "https://kevinmd.com/2025/12/emotional-awareness-and-expression-therapy-explained.html",
-            "description": "Most people assume that pain and illness are caused only by injury or disease. If your back hurts, it must be damaged; abdominal pain must come only f...",
-            "pubDate": "2025-12-30T14:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Why lab monkey escapes demand transparency",
             "link": "https://kevinmd.com/2025/12/why-lab-monkey-escapes-demand-transparency.html",
             "description": "A laboratory transport truck crashed in Mississippi last month resulting in eight monkeys escaping, seven of whom were shot and killed after surviving...",
             "pubDate": "2025-12-30T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Who Benefited From UK Drug Decisions in 2025?",
-            "link": "https://www.medscape.com/viewarticle/who-benefited-uk-drug-decisions-2025-2025a10010d7?src=rss",
-            "description": "From new cancer drugs to Alzheimer’s rejections, 2025 highlighted how value assessments shaped NHS access. Medscape News UK",
-            "pubDate": "2025-12-30T15:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
