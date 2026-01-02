@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-02T06:06:07.151992",
+    "lastBuildDate": "2026-01-02T11:01:21.131586",
     "items": [
+        {
+            "title": "Weekly Meal Plan #72",
+            "link": "https://therecipecritic.com/weekly-meal-plan-72/",
+            "description": "Dinner doesn’t have to feel like another thing you’re failing at. This weekly meal plan is all about hearty, comforting…",
+            "pubDate": "2026-01-02T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/Week-72-Meal-Plan-Collage-.jpg"
+        },
         {
             "title": "Neiman Marcus Chicken Salad",
             "link": "https://therecipecritic.com/neiman-marcus-chicken-salad/",
@@ -19,13 +26,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/dumpling-soup-1.jpg"
         },
         {
-            "title": "Creamy Curried Black Eyed Pea Soup",
-            "link": "https://minimalistbaker.com/curried-black-eyed-pea-soup/",
-            "description": "What’s that? You’d like an easy, delicious soup that practically makes itself and will make all of your wildest dreams come true!? Us too ! We can’t g...",
-            "pubDate": "2025-12-30T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Creamy-Curried-Vegan-Black-Eyed-Bean-Soup-8-680x1020.jpg"
-        },
-        {
             "title": "Honey Mustard Pork Chops",
             "link": "https://therecipecritic.com/honey-mustard-pork-chops/",
             "description": "These honey mustard pork chops bring big flavor with very little effort. The whole grain mustard adds texture and bite.…",
@@ -33,18 +33,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/honey-mustard-pork-chops-1.jpg"
         },
         {
+            "title": "Creamy Curried Black Eyed Pea Soup",
+            "link": "https://minimalistbaker.com/curried-black-eyed-pea-soup/",
+            "description": "What’s that? You’d like an easy, delicious soup that practically makes itself and will make all of your wildest dreams come true!? Us too ! We can’t g...",
+            "pubDate": "2025-12-30T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Creamy-Curried-Vegan-Black-Eyed-Bean-Soup-8-680x1020.jpg"
+        },
+        {
             "title": "Slow Cooker Lasagna",
             "link": "https://therecipecritic.com/slow-cooker-lasagna/",
             "description": "This easy slow cooker lasagna layers tender noodles with rich meat sauce and three cheeses, all with just 25 minutes…",
             "pubDate": "2025-12-29T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/slow-cooker-lasagna-.jpg"
-        },
-        {
-            "title": "One Pan General Tso’s Chicken",
-            "link": "https://therecipecritic.com/one-pan-general-tsos-chicken/",
-            "description": "You love my baked General Tso’s chicken, so obviously, I had to make a faster one. This one pan General…",
-            "pubDate": "2025-12-28T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/general-tsos-chicken-1.jpg"
         },
         {
             "title": "Tahini Hot Chocolate (Super Dreamy, Protein-Rich!)",
