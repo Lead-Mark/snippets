@@ -2,8 +2,22 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-02T11:00:08.687100",
+    "lastBuildDate": "2026-01-02T16:00:03.310189",
     "items": [
+        {
+            "title": "Tips to Prevent and Reduce Jet Lag",
+            "link": "https://www.webmd.com/sleep-disorders/sleep-travel",
+            "description": "",
+            "pubDate": "2026-01-02T15:55:00",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/everyday-habits-that-double-as-migraine-prevention-slideshow/1800ss-getty-rf-sleeping-soundly-in-bed.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Health Benefits of Reducing Alcohol Intake",
+            "link": "https://www.webmd.com/mental-health/addiction/ss/slideshow-quit-alcohol-effects",
+            "description": "",
+            "pubDate": "2026-01-02T15:55:00",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/blog_posts/diabetes/1800x1200_getty_rf_woman_feet_standing_on_scale.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "Neighborhood Deprivation and Days Spent at Home After Fall-Related Hip Fracture",
             "link": "https://www.2minutemedicine.com/neighborhood-deprivation-and-days-spent-at-home-after-fall-related-hip-fracture/",
@@ -12,25 +26,81 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2020/08/X-ray_of_a_comminuted_hip_fracture-300x150.jpg"
         },
         {
-            "title": "Tips to Prevent and Reduce Jet Lag",
-            "link": "https://www.webmd.com/sleep-disorders/sleep-travel",
-            "description": "",
-            "pubDate": "2026-01-02T06:00:01",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/everyday-habits-that-double-as-migraine-prevention-slideshow/1800ss-getty-rf-sleeping-soundly-in-bed.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Health Benefits of Reducing Alcohol Intake",
-            "link": "https://www.webmd.com/mental-health/addiction/ss/slideshow-quit-alcohol-effects",
-            "description": "",
-            "pubDate": "2026-01-02T06:00:01",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/blog_posts/diabetes/1800x1200_getty_rf_woman_feet_standing_on_scale.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "How to Start a Detox Diet",
             "link": "https://www.webmd.com/diet/detox-diets",
             "description": "Detox diets are often linked to weight loss and better health, but do they actually work? Learn about the different types, potential risks, and what e...",
-            "pubDate": "2026-01-02T06:00:01",
+            "pubDate": "2026-01-02T15:55:00",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/the_truth_about_detox_diets_bigbead/1800x1200_the_truth_about_detox_diets_bigbead.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Rising food prices linked to childhood stunting and obesity",
+            "link": "https://medicalxpress.com/news/2026-01-food-prices-linked-childhood-stunting.html",
+            "description": "When food prices skyrocket during an economic crisis, it is primarily urban populations and people with low levels of education who are affected. This...",
+            "pubDate": "2026-01-02T20:30:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Potential biomarker linked to multiple sclerosis progression and brain inflammation",
+            "link": "https://medicalxpress.com/news/2026-01-potential-biomarker-linked-multiple-sclerosis.html",
+            "description": "A new University of Toronto-led study has discovered a possible biomarker linked to multiple sclerosis (MS) disease progression that could help identi...",
+            "pubDate": "2026-01-02T16:12:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Biologic Therapies in IBD: Drug Persistence Pattern Explored",
+            "link": "https://www.medscape.com/viewarticle/biologic-therapies-ibd-drug-persistence-pattern-explored-2025a10010ha?src=rss",
+            "description": "Biologics remain viable options with varying persistence over 1 year in patients with inflammatory bowel disease. Medscape News UK",
+            "pubDate": "2026-01-02T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The shifting meaning of supervision in modern health care",
+            "link": "https://kevinmd.com/2026/01/the-shifting-meaning-of-supervision-in-modern-health-care.html",
+            "description": "The discomfort I felt around supervising did not arise in the clinic. It arose while reading the agreements meant to define it. Supervisory agreements...",
+            "pubDate": "2026-01-02T15:00:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "AI model predicts B cell reactivity to neoantigens for improved cancer vaccines",
+            "link": "https://medicalxpress.com/news/2026-01-ai-cell-reactivity-neoantigens-cancer.html",
+            "description": "Neoantigens are unique markers that distinguish only cancer cells. By adding B cell reactivity, cancer vaccines can move beyond one-time attacks and s...",
+            "pubDate": "2026-01-02T16:24:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Gene-Editing Breakthrough Ends Transfusions for UK Patient",
+            "link": "https://www.medscape.com/viewarticle/gene-editing-breakthrough-ends-transfusions-uk-patient-2026a100003l?src=rss",
+            "description": "UK doctors have delivered a one-time CRISPR therapy to free a woman with beta thalassaemia from lifelong blood transfusions. Medscape News UK",
+            "pubDate": "2026-01-02T18:20:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Peacekeeping medicine: Saving lives in Sudan’s forgotten hospital",
+            "link": "https://kevinmd.com/2026/01/peacekeeping-medicine-saving-lives-in-sudans-forgotten-hospital.html",
+            "description": "When we think of peacekeeping missions, images of armored vehicles and blue helmets often dominate the narrative. Rarely do we picture the quiet, rele...",
+            "pubDate": "2026-01-02T12:00:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "FFA Appears Earlier in Patients With Skin of Color",
+            "link": "https://www.medscape.com/viewarticle/frontal-fibrosing-alopecia-appears-earlier-skin-color-groups-2026a100003j?src=rss",
+            "description": "A study finds that over one-third of frontal fibrosing alopecia cases occur in people with skin of color, who are diagnosed a decade earlier than Whit...",
+            "pubDate": "2026-01-02T18:01:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "AI detects stomach cancer risk in remote communities from upper endoscopic images",
+            "link": "https://medicalxpress.com/news/2026-01-ai-stomach-cancer-remote-communities.html",
+            "description": "In many regions, doctors practice in settings with limited medical resources. Advanced tests, specialist support, and expert guidance for complex deci...",
+            "pubDate": "2026-01-02T17:13:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Bullying Predicts Youth Trauma Across Three Nations",
+            "link": "https://www.medscape.com/viewarticle/bullying-strongly-predicts-posttraumatic-stress-adolescents-2025a100108k?src=rss",
+            "description": "Severe bullying, especially when involving perceived threats, is a major predictor of posttraumatic stress symptoms in children and adolescents, a thr...",
+            "pubDate": "2026-01-02T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Australia's red and yellow beach flags can be dangerously confusing. Is it time to change them?",
@@ -40,66 +110,31 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Bullying Predicts Youth Trauma Across Three Nations",
-            "link": "https://www.medscape.com/viewarticle/bullying-strongly-predicts-posttraumatic-stress-adolescents-2025a100108k?src=rss",
-            "description": "Severe bullying, especially when involving perceived threats, is a major predictor of posttraumatic stress symptoms in children and adolescents, a thr...",
-            "pubDate": "2026-01-02T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Can Dual-Energy CT Replace Standard Imaging in GI Bleeding?",
-            "link": "https://www.medscape.com/viewarticle/can-dual-energy-ct-replace-conventional-imaging-detection-2025a10010iw?src=rss",
-            "description": "A retrospective single-centre study finds that a dual-energy CT protocol is non-inferior to a conventional triphasic CT protocol in diagnosing gastroi...",
-            "pubDate": "2026-01-02T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Costs pose hurdle for promising new hepatitis C lab test",
-            "link": "https://medicalxpress.com/news/2026-01-pose-hurdle-hepatitis-lab.html",
-            "description": "A new rapid test for hepatitis C could help identify many more patients who could be cured of the deadly disease, but its use may be limited unless in...",
-            "pubDate": "2026-01-02T15:24:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Creating cells that help the brain keep its cool",
-            "link": "https://medicalxpress.com/news/2026-01-cells-brain-cool.html",
-            "description": "Researchers at Lund University in Sweden have created a method that makes it possible to transform the brain's support cells into parvalbumin-positive...",
-            "pubDate": "2026-01-02T15:22:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Testing During Exercise Flags High Risk After Fontan Surgery",
-            "link": "https://www.medscape.com/viewarticle/exercise-pulmonary-vascular-resistance-index-predicts-2026a1000029?src=rss",
-            "description": "A higher pulmonary vascular resistance index during exercise, but not at rest, predicts poor clinical outcomes in adults with Fontan circulation, high...",
-            "pubDate": "2026-01-02T11:25:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
             "title": "Is It Safe to Skip Surgery After Colorectal Polyp Removal?",
             "link": "https://www.medscape.com/viewarticle/it-safe-skip-surgery-after-malignant-colorectal-polyp-2026a100002e?src=rss",
             "description": "New data indicate that nonoperative surveillance after removing a malignant colorectal polyp can achieve high rates of rectal and sphincter preservati...",
             "pubDate": "2026-01-02T12:08:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "High-dose risankizumab trial tests staying power against psoriasis",
-            "link": "https://medicalxpress.com/news/2026-01-high-dose-risankizumab-trial-staying.html",
-            "description": "Oregon Medical Research Center in Portland, Oregon, has led a phase 2 trial in moderate-to-severe plaque psoriasis that paired higher-than-approved do...",
-            "pubDate": "2026-01-02T15:38:28",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Biologic Therapies in IBD: Drug Persistence Pattern Explored",
-            "link": "https://www.medscape.com/viewarticle/biologic-therapies-ibd-drug-persistence-pattern-explored-2025a10010ha?src=rss",
-            "description": "Biologics remain viable options with varying persistence over 1 year in patients with inflammatory bowel disease. Medscape News UK",
-            "pubDate": "2026-01-02T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "How frivolous lawsuits drive up health care costs",
+            "link": "https://kevinmd.com/2026/01/how-frivolous-lawsuits-drive-up-health-care-costs.html",
+            "description": "Frivolous medical malpractice lawsuits are endemic and infect everyone whether they realize it or not. The greed of plaintiffs, attorneys, medical exp...",
+            "pubDate": "2026-01-02T16:00:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "A mother's circadian rhythm may predict her child's vulnerability to bacterial infection",
-            "link": "https://medicalxpress.com/news/2026-01-mother-circadian-rhythm-child-vulnerability.html",
-            "description": "In laboratory models, researchers at The University of Texas MD Anderson Cancer Center discovered that a mother's circadian rhythms, or internal body ...",
-            "pubDate": "2026-01-02T15:00:35",
+            "title": "Emotional abuse recognition: a nurse’s story",
+            "link": "https://kevinmd.com/2026/01/emotional-abuse-recognition-a-nurses-story.html",
+            "description": "I wanted to be at the top. Clinical ladder 4 was the top. You couldn’t get any higher achievement as an ICU nurse than this. There were many requireme...",
+            "pubDate": "2026-01-02T14:00:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Concierge medicine access: Is it really the problem?",
+            "link": "https://kevinmd.com/2026/01/concierge-medicine-access-is-it-really-the-problem.html",
+            "description": "A recent Johns Hopkins study has reignited that debate. The research documents rapid growth in concierge and direct primary care practices and warns t...",
+            "pubDate": "2026-01-02T18:00:09",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
@@ -108,41 +143,6 @@
             "description": "1. 3 months of dual antiplatelet therapy (DAPT) in patients treated with Firehawk stents was non-inferior to 12 months of DAPT for the primary composi...",
             "pubDate": "2026-01-01T00:00:16",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/04/stemi-myocardial-infarct-300x150.jpg"
-        },
-        {
-            "title": "The emotional toll of leaving patients behind",
-            "link": "https://kevinmd.com/2026/01/the-emotional-toll-of-leaving-patients-behind.html",
-            "description": "This is not a detailed story like the ones I usually write. It’s just a little breeze of warmth that touched my soul and heart, and I wanted to share ...",
-            "pubDate": "2026-01-01T14:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "From law to medicine: Witnessing trauma on the Pacific Coast Highway",
-            "link": "https://kevinmd.com/2026/01/from-law-to-medicine-witnessing-trauma-on-the-pacific-coast-highway.html",
-            "description": "An excerpt from Wipe Out, Rise Up: A Surf Session In Being a Leader, Pushing Past Limits, and Sustaining Health. Copyright © 2024 Scott Ellner. Publis...",
-            "pubDate": "2026-01-01T18:00:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Peripheral artery disease prevention: Saving limbs and lives",
-            "link": "https://kevinmd.com/2026/01/peripheral-artery-disease-prevention-saving-limbs-and-lives.html",
-            "description": "With the holiday season upon us, joy, warmth, and delicious food fill our homes. While we enjoy those festival meals, our own “life-highway” vessels q...",
-            "pubDate": "2026-01-01T12:00:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Artificial intelligence ends the dangerous cycle of delayed patient care [PODCAST]",
-            "link": "https://kevinmd.com/2025/12/artificial-intelligence-ends-the-dangerous-cycle-of-delayed-patient-care-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Orthopedic surgeon Kevin J. Campbell discusses his article “Health ca...",
-            "pubDate": "2026-01-01T00:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Why doctors struggle with treating friends and family",
-            "link": "https://kevinmd.com/2026/01/why-doctors-struggle-with-treating-friends-and-family.html",
-            "description": "Early in medical school, a professor warned us: “Never prescribe for someone who isn’t your patient.” He shared a story of writing a simple antibiotic...",
-            "pubDate": "2026-01-01T16:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Association between atrial fibrillation and both the in-hospital mortality and disease severity in acute pancreatitis: insights from a multicenter study",
