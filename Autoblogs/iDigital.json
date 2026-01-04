@@ -2,21 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-03T16:01:38.896894",
+    "lastBuildDate": "2026-01-04T06:06:17.048409",
     "items": [
-        {
-            "title": "Kilter introduces AX-1 precision weeding robot",
-            "link": "https://www.therobotreport.com/kilter-introduces-ax-1-precision-weed-killing-robot/",
-            "description": "Kilter AS has launched the AX-1 system, which uses machine learning and autonomous robotics to provide targeted weed control for farmers. The post Kil...",
-            "pubDate": "2026-01-03T13:45:20",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/kilter-ax-1-featured.jpg"
-        },
         {
             "title": "Top 10 robotics developments of December 2025",
             "link": "https://www.therobotreport.com/top-10-robotics-developments-december-2025/",
             "description": "In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and some new robot releases. The post ...",
             "pubDate": "2026-01-03T14:00:48",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/HMND-01-Alpha-Bipedal-featuredd-300x195.jpg"
+        },
+        {
+            "title": "Kilter introduces AX-1 precision weeding robot",
+            "link": "https://www.therobotreport.com/kilter-introduces-ax-1-precision-weed-killing-robot/",
+            "description": "Kilter AS has launched the AX-1 system, which uses machine learning and autonomous robotics to provide targeted weed control for farmers. The post Kil...",
+            "pubDate": "2026-01-03T13:45:20",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/kilter-ax-1-featured.jpg"
         },
         {
             "title": "3 things Will Douglas Heaven is into right now",
@@ -44,7 +44,7 @@
             "link": "https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/",
             "description": "The Italian neurosurgeon Sergio Canavero has been preparing for a surgery that might never happen. His idea? Swap a sick person’s head—or perhaps just...",
             "pubDate": "2026-01-02T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Looking back at iRobot’s diversification attempts through the years",
@@ -58,7 +58,7 @@
             "link": "https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/",
             "description": "Have you ever felt “velvetmist”? It’s a “complex and subtle emotion that elicits feelings of comfort, serenity, and a gentle sense of floating.” It’s ...",
             "pubDate": "2025-12-31T10:10:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "The ascent of the AI therapist",
@@ -75,6 +75,13 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/a-ZHC_2317.jpg?w=3000"
         },
         {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -89,11 +96,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -101,13 +108,6 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
