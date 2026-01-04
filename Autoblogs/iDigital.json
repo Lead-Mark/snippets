@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-04T06:06:17.048409",
+    "lastBuildDate": "2026-01-04T11:01:52.560264",
     "items": [
+        {
+            "title": "How drone journalism is reshaping reporting",
+            "link": "https://www.therobotreport.com/how-drone-journalism-is-reshaping-reporting/",
+            "description": "Drone and robotic technologies enable safer reporting, real-time coverage, and immersive aerial perspectives. The post How drone journalism is reshapi...",
+            "pubDate": "2026-01-04T14:27:46",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Dania-DAAS-copy.jpg"
+        },
         {
             "title": "Top 10 robotics developments of December 2025",
             "link": "https://www.therobotreport.com/top-10-robotics-developments-december-2025/",
@@ -44,21 +51,14 @@
             "link": "https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/",
             "description": "The Italian neurosurgeon Sergio Canavero has been preparing for a surgery that might never happen. His idea? Swap a sick person’s head—or perhaps just...",
             "pubDate": "2026-01-02T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Looking back at iRobot’s diversification attempts through the years",
-            "link": "https://www.therobotreport.com/looking-back-irobot-scrapped-retired-robots-through-years/",
-            "description": "We look back at some of the many robots that iRobot developed in addition to the Roomba over the past 35 years. The post Looking back at iRobot’s dive...",
-            "pubDate": "2025-12-31T15:46:12",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/iRobot-Robot-Graveyard.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Why inventing new emotions feels so good",
             "link": "https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/",
             "description": "Have you ever felt “velvetmist”? It’s a “complex and subtle emotion that elicits feelings of comfort, serenity, and a gentle sense of floating.” It’s ...",
             "pubDate": "2025-12-31T10:10:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "The ascent of the AI therapist",
@@ -96,18 +96,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
             "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
