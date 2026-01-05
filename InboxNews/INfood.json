@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-05T06:06:12.681606",
+    "lastBuildDate": "2026-01-05T11:01:16.681725",
     "items": [
+        {
+            "title": "Minestrone Casserole",
+            "link": "https://therecipecritic.com/minestrone-casserole/",
+            "description": "If you love my minestrone soup even a little, you have to try this minestrone casserole. It takes the cozy,…",
+            "pubDate": "2026-01-05T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/minestrone-casserole-.jpg"
+        },
         {
             "title": "Fried Cabbage",
             "link": "https://therecipecritic.com/fried-cabbage/",
@@ -31,13 +38,6 @@
             "description": "If you’ve had the Neiman Marcus chicken salad, you know why it’s famous. My copycat version gets the combo of…",
             "pubDate": "2026-01-01T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/neiman-marcus-chicken-salad-1.jpg"
-        },
-        {
-            "title": "Potsticker Soup",
-            "link": "https://therecipecritic.com/potsticker-soup/",
-            "description": "My potsticker soup is what you make when you’re busy, hungry, and need something quick that still tastes really good.…",
-            "pubDate": "2025-12-31T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/dumpling-soup-1.jpg"
         },
         {
             "title": "Creamy Curried Black Eyed Pea Soup",
