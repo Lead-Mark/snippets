@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-05T11:01:27.177346",
+    "lastBuildDate": "2026-01-05T16:01:29.538610",
     "items": [
+        {
+            "title": "CES 2026: Hesai to showcase next-gen lidar for physical AI",
+            "link": "https://www.therobotreport.com/ces-2026-hesai-showcase-next-gen-lidar-physical-ai/",
+            "description": "Hesai makes advanced lidar sensors, using solid-state technology to guide autonomous vehicles and humanoid robots. The post CES 2026: Hesai to showcas...",
+            "pubDate": "2026-01-05T18:00:53",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/hesai-ces2026-featured-2.jpg"
+        },
         {
             "title": "The Download: Kenya’s Great Carbon Valley, and the AI terms that were everywhere in 2025",
             "link": "https://www.technologyreview.com/2026/01/05/1130672/the-download-kenyas-great-carbon-valley-and-the-ai-terms-that-were-everywhere-in-2025/",
@@ -12,11 +19,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/image.png"
         },
         {
-            "title": "Boston Dynamics shows Atlas humanoid working at Georgia Hyundai plant",
-            "link": "https://www.therobotreport.com/boston-dynamics-shows-atlas-humanoid-working-georgia-hyundai-plant/",
-            "description": "In a 60 Minutes segment, Boston Dynamics provided a glimpse at how its Atlas humanoid is becoming more capable. The post Boston Dynamics shows Atlas h...",
-            "pubDate": "2026-01-05T14:54:08",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Atlas-60_minutes.jpg"
+            "title": "Top 10 most popular robotics stories of 2025",
+            "link": "https://www.therobotreport.com/top-10-most-popular-robotics-stories-of-2025/",
+            "description": "Between advances in humanoid robotics, exciting events, and large robot orders, there was no shortage of news to cover this year. The post Top 10 most...",
+            "pubDate": "2026-01-05T18:29:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/02/digit-raas-3-300x195.jpg"
+        },
+        {
+            "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+            "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+            "description": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the enginee...",
+            "pubDate": "2026-01-05T07:45:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6VsJWNsStTR57q9vFd5L08/a0d88b4dcbd1e9ba77fd72a9c55988d9/nuneybits_Vector_art_of_programmer_conducting_robot_orchestra_i_908157a9-d44f-4bce-b390-5913b88dad27.webp?w=300&q=30"
         },
         {
             "title": "Negotiating independence: Intuition Robotics puts user agency at the heart of ElliQ",
@@ -26,6 +40,13 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/intuition-robotics-2026-featured.jpg"
         },
         {
+            "title": "Boston Dynamics shows Atlas humanoid working at Georgia Hyundai plant",
+            "link": "https://www.therobotreport.com/boston-dynamics-shows-atlas-humanoid-working-georgia-hyundai-plant/",
+            "description": "In a 60 Minutes segment, Boston Dynamics provided a glimpse at how its Atlas humanoid is becoming more capable. The post Boston Dynamics shows Atlas h...",
+            "pubDate": "2026-01-05T14:54:08",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Atlas-60_minutes.jpg"
+        },
+        {
             "title": "What’s next for AI in 2026",
             "link": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
             "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
@@ -33,25 +54,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
+            "title": "The overlooked driver of digital transformation",
+            "link": "https://www.technologyreview.com/2026/01/05/1124662/the-overlooked-driver-of-digital-transformation/",
+            "description": "When business leaders talk about digital transformation, their focus often jumps straight to cloud platforms, AI tools, or collaboration software. Yet...",
+            "pubDate": "2026-01-05T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
             "title": "How drone journalism is reshaping reporting",
             "link": "https://www.therobotreport.com/how-drone-journalism-is-reshaping-reporting/",
             "description": "Drone and robotic technologies enable safer reporting, real-time coverage, and immersive aerial perspectives. The post How drone journalism is reshapi...",
             "pubDate": "2026-01-04T14:27:46",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Dania-DAAS-copy.jpg"
-        },
-        {
-            "title": "Top 10 robotics developments of December 2025",
-            "link": "https://www.therobotreport.com/top-10-robotics-developments-december-2025/",
-            "description": "In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and some new robot releases. The post ...",
-            "pubDate": "2026-01-03T14:00:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/HMND-01-Alpha-Bipedal-featuredd-300x195.jpg"
-        },
-        {
-            "title": "Kilter introduces AX-1 precision weeding robot",
-            "link": "https://www.therobotreport.com/kilter-introduces-ax-1-precision-weed-killing-robot/",
-            "description": "Kilter AS has launched the AX-1 system, which uses machine learning and autonomous robotics to provide targeted weed control for farmers. The post Kil...",
-            "pubDate": "2026-01-03T13:45:20",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/12/kilter-ax-1-featured.jpg"
         },
         {
             "title": "3 things Will Douglas Heaven is into right now",
@@ -66,13 +80,6 @@
             "description": "The Italian neurosurgeon Sergio Canavero has been preparing for a surgery that might never happen. His idea? Swap a sick person’s head—or perhaps just...",
             "pubDate": "2026-01-02T11:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Why inventing new emotions feels so good",
-            "link": "https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/",
-            "description": "Have you ever felt “velvetmist”? It’s a “complex and subtle emotion that elicits feelings of comfort, serenity, and a gentle sense of floating.” It’s ...",
-            "pubDate": "2025-12-31T10:10:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
