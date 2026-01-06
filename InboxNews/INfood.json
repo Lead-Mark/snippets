@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-06T06:06:38.454648",
+    "lastBuildDate": "2026-01-06T11:03:11.820288",
     "items": [
+        {
+            "title": "New Orleans Gumbo",
+            "link": "https://therecipecritic.com/gumbo-recipe/",
+            "description": "After listening to your feedback and learning what makes a great New Orleans gumbo, I made some changes. This version…",
+            "pubDate": "2026-01-06T15:07:51",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/gumbo-1.jpg"
+        },
         {
             "title": "Minestrone Casserole",
             "link": "https://therecipecritic.com/minestrone-casserole/",
@@ -31,13 +38,6 @@
             "description": "Dinner doesn’t have to feel like another thing you’re failing at. This weekly meal plan is all about hearty, comforting…",
             "pubDate": "2026-01-02T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/Week-72-Meal-Plan-Collage-.jpg"
-        },
-        {
-            "title": "Neiman Marcus Chicken Salad",
-            "link": "https://therecipecritic.com/neiman-marcus-chicken-salad/",
-            "description": "If you’ve had the Neiman Marcus chicken salad, you know why it’s famous. My copycat version gets the combo of…",
-            "pubDate": "2026-01-01T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/neiman-marcus-chicken-salad-1.jpg"
         },
         {
             "title": "Creamy Curried Black Eyed Pea Soup",

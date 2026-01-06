@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-01-06T06:06:50.737356",
+    "lastBuildDate": "2026-01-06T11:03:49.817611",
     "items": [
+        {
+            "title": "NVIDIA releases new physical AI models, plus autonomous vehicle tools",
+            "link": "https://www.therobotreport.com/nvidia-releases-new-physical-ai-models-plus-autonomous-vehicle-tools/",
+            "description": "NVIDIA released Cosmos, GR00T, and Alpamayo open models to help developers build reasoning machines including robots and vehicles. The post NVIDIA rel...",
+            "pubDate": "2026-01-06T13:00:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Physical-AI_NVIDIA_CES26.jpg"
+        },
         {
             "title": "Boston Dynamics, Google reunite on next-gen Atlas humanoid",
             "link": "https://www.therobotreport.com/boston-dynamics-google-reunite-on-next-gen-atlas-humanoid/",
@@ -31,13 +38,6 @@
             "description": "In a 60 Minutes segment, Boston Dynamics provided a glimpse at how its Atlas humanoid is becoming more capable. The post Boston Dynamics shows Atlas h...",
             "pubDate": "2026-01-05T14:54:08",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Atlas-60_minutes.jpg"
-        },
-        {
-            "title": "Negotiating independence: Intuition Robotics puts user agency at the heart of ElliQ",
-            "link": "https://www.therobotreport.com/negotiating-independence-putting-user-agency-heart-robotics/",
-            "description": "Intuition Robotics' ElliQ uses relationship-based AI to provide proactive health coaching and support independence for older adults. The post Negotiat...",
-            "pubDate": "2026-01-05T13:00:37",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/01/intuition-robotics-2026-featured.jpg"
         }
     ]
 }
