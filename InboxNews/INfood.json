@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-07T11:01:39.300861",
+    "lastBuildDate": "2026-01-07T16:01:21.614195",
     "items": [
+        {
+            "title": "Copycat Longhorn Parmesan Crusted Chicken",
+            "link": "https://therecipecritic.com/copycat-longhorn-parmesan-crusted-chicken/",
+            "description": "My copycat Longhorn parmesan crusted chicken brings all the cheesy, buttery goodness from the restaurant straight to your kitchen. Juicy…",
+            "pubDate": "2026-01-07T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/longhorn-chicken.jpg"
+        },
         {
             "title": "New Orleans Gumbo",
             "link": "https://therecipecritic.com/gumbo-recipe/",
@@ -31,13 +38,6 @@
             "description": "Stop what you are doing right now, and make this Crack Chicken and Rice soup! With tender chicken, rice, creamy…",
             "pubDate": "2026-01-03T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/crack-chicken-soup-2-2.jpg"
-        },
-        {
-            "title": "Weekly Meal Plan #72",
-            "link": "https://therecipecritic.com/weekly-meal-plan-72/",
-            "description": "Dinner doesn’t have to feel like another thing you’re failing at. This weekly meal plan is all about hearty, comforting…",
-            "pubDate": "2026-01-02T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/Week-72-Meal-Plan-Collage-.jpg"
         },
         {
             "title": "Creamy Curried Black Eyed Pea Soup",
