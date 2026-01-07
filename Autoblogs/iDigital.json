@@ -2,8 +2,22 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-06T16:11:51.568948",
+    "lastBuildDate": "2026-01-07T06:06:27.053851",
     "items": [
+        {
+            "title": "Orbbec releases two new Gemini stereo cameras for robotics",
+            "link": "https://www.therobotreport.com/orbbec-releases-two-new-gemini-stereo-cameras-for-robotics/",
+            "description": "Orbbec announced new vision products, partnerships, and expanded manufacturing capabilities at CES in Las Vegas. The post Orbbec releases two new Gemi...",
+            "pubDate": "2026-01-06T23:00:24",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/orbbec-featured.jpg"
+        },
+        {
+            "title": "Powering up (and saving) the planet",
+            "link": "https://www.technologyreview.com/2026/01/06/1128655/powering-up-and-saving-the-planet/",
+            "description": "Water shortages in Southern California made an indelible impression on Evelyn Wang ’00 when she was growing up in Los Angeles. “I was quite young, per...",
+            "pubDate": "2026-01-06T22:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT-Solar-Thermal-1-Press.jpg?w=1708"
+        },
         {
             "title": "NVIDIA releases new physical AI models, plus autonomous vehicle tools",
             "link": "https://www.therobotreport.com/nvidia-releases-new-physical-ai-models-plus-autonomous-vehicle-tools/",
@@ -12,25 +26,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Physical-AI_NVIDIA_CES26.jpg"
         },
         {
-            "title": "Boston Dynamics, Google reunite on next-gen Atlas humanoid",
-            "link": "https://www.therobotreport.com/boston-dynamics-google-reunite-on-next-gen-atlas-humanoid/",
-            "description": "At CES, Boston Dynamics reunited with Google, demoed Atlas for the first time in public, debuted a new production version of the humanoid, and announc...",
-            "pubDate": "2026-01-06T03:40:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/69742-on-site-photo-4.jpeg"
-        },
-        {
-            "title": "The Download: our predictions for AI, and good climate news",
-            "link": "https://www.technologyreview.com/2026/01/06/1130744/the-download-our-predictions-for-ai-and-good-climate-news/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next ...",
-            "pubDate": "2026-01-06T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/image_b834e7.png"
-        },
-        {
-            "title": "Amazon acquires Rightbot, adds to Robotics Delivery and Packaging Innovation team",
-            "link": "https://www.therobotreport.com/amazon-acquires-rightbot-adds-robotics-delivery-packaging-innovation-team/",
-            "description": "Amazon was an investor in Rightbot, which developed a suction-based robot for unloading trucks and trailers. The post Amazon acquires Rightbot, adds t...",
-            "pubDate": "2026-01-06T19:25:37",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2023/12/rightbot-featured.jpg"
+            "title": "Dennis Whyte’s fusion quest",
+            "link": "https://www.technologyreview.com/2026/01/06/1128665/dennis-whytes-fusion-quest/",
+            "description": "Ever since nuclear fusion was discovered in the 1930s, scientists have wondered if we could somehow replicate and harness the phenomenon behind starli...",
+            "pubDate": "2026-01-06T22:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/MIT-Fusion-Landscape20-01-PRESS_0.jpg?w=1507"
         },
         {
             "title": "ANELLO launches compact navigation system for resilient drone operations",
@@ -47,18 +47,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/genieplatform-featured.jpg"
         },
         {
-            "title": "Europe’s drone-filled vision for the future of war",
-            "link": "https://www.technologyreview.com/2026/01/06/1129737/autonomous-warfare-europe-drones-defense-automated-kill-chains/",
-            "description": "Last spring, 3,000 British soldiers of the 4th Light Brigade, also known as the Black Rats, descended upon the damp forests of Estonia’s eastern terri...",
-            "pubDate": "2026-01-06T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/3CPAF5A.jpg?w=2667"
+            "title": "Starstruck",
+            "link": "https://www.technologyreview.com/2026/01/06/1128661/starstruck/",
+            "description": "Few people, if any, contemplate stars—celestial or cinematic—the way Aomawa Shields does. An astronomer and astrobiologist, Shields explores the poten...",
+            "pubDate": "2026-01-06T22:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Screenshot-2025-10-22-at-10.38.48-AM.jpg?w=2667"
         },
         {
-            "title": "Why AI predictions are so hard",
-            "link": "https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/",
-            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Sometimes AI...",
-            "pubDate": "2026-01-06T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Amazon acquires Rightbot, adds to Robotics Delivery and Packaging Innovation team",
+            "link": "https://www.therobotreport.com/amazon-acquires-rightbot-adds-robotics-delivery-packaging-innovation-team/",
+            "description": "Amazon was an investor in Rightbot, which developed a suction-based robot for unloading trucks and trailers. The post Amazon acquires Rightbot, adds t...",
+            "pubDate": "2026-01-06T19:25:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2023/12/rightbot-featured.jpg"
+        },
+        {
+            "title": "Investing in the promise of quantum",
+            "link": "https://www.technologyreview.com/2026/01/06/1128993/investing-in-the-promise-of-quantum/",
+            "description": "As MIT navigates a difficult and constantly changing higher education landscape, I believe our best response is not easy but simple: Keep doing our ve...",
+            "pubDate": "2026-01-06T22:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Hands-on engineering",
+            "link": "https://www.technologyreview.com/2026/01/06/1128990/hands-on-engineering/",
+            "description": "Jaden Chizuruoke May ’29 worked with teammates Rihanna Arouna ’29 and Marian Akinsoji ’29 to design the chemically powered model car whose framework h...",
+            "pubDate": "2026-01-06T22:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
@@ -68,32 +82,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6VsJWNsStTR57q9vFd5L08/a0d88b4dcbd1e9ba77fd72a9c55988d9/nuneybits_Vector_art_of_programmer_conducting_robot_orchestra_i_908157a9-d44f-4bce-b390-5913b88dad27.webp?w=300&q=30"
         },
         {
-            "title": "The Download: Kenya’s Great Carbon Valley, and the AI terms that were everywhere in 2025",
-            "link": "https://www.technologyreview.com/2026/01/05/1130672/the-download-kenyas-great-carbon-valley-and-the-ai-terms-that-were-everywhere-in-2025/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Welcome to K...",
-            "pubDate": "2026-01-05T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/image.png"
-        },
-        {
-            "title": "The overlooked driver of digital transformation",
-            "link": "https://www.technologyreview.com/2026/01/05/1124662/the-overlooked-driver-of-digital-transformation/",
-            "description": "When business leaders talk about digital transformation, their focus often jumps straight to cloud platforms, AI tools, or collaboration software. Yet...",
-            "pubDate": "2026-01-05T16:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -103,11 +96,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -115,6 +108,13 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
