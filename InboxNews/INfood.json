@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-08T06:06:19.312490",
+    "lastBuildDate": "2026-01-08T11:01:29.815551",
     "items": [
+        {
+            "title": "Shipwreck Stew",
+            "link": "https://therecipecritic.com/shipwreck-stew/",
+            "description": "Shipwreck stew is a one-pot dinner that keeps things simple and affordable. Ground beef, tender potatoes, and everyday vegetables cook…",
+            "pubDate": "2026-01-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/shipwreck-stew-.jpg"
+        },
         {
             "title": "Copycat Longhorn Parmesan Crusted Chicken",
             "link": "https://therecipecritic.com/copycat-longhorn-parmesan-crusted-chicken/",
@@ -31,13 +38,6 @@
             "description": "You don’t need fancy ingredients to make something great, and this fried cabbage proves that! Bacon, cabbage, a little seasoning,…",
             "pubDate": "2026-01-04T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/fried-cabbage-.jpg"
-        },
-        {
-            "title": "Crack Chicken and Rice Soup",
-            "link": "https://therecipecritic.com/crack-chicken-and-rice-soup/",
-            "description": "Stop what you are doing right now, and make this Crack Chicken and Rice soup! With tender chicken, rice, creamy…",
-            "pubDate": "2026-01-03T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/crack-chicken-soup-2-2.jpg"
         },
         {
             "title": "Creamy Curried Black Eyed Pea Soup",
