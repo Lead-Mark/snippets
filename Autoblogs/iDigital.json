@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-10T11:01:21.848154",
+    "lastBuildDate": "2026-01-11T11:01:40.430612",
     "items": [
+        {
+            "title": "Wing is bringing drone delivery to 150 more Walmart stores",
+            "link": "https://www.therobotreport.com/wing-brings-drone-delivery-to-150-more-walmart-stores/",
+            "description": "Walmart and Wing plans to establish a network of over 270 drone delivery locations by 2027, stretching from Los Angeles to Miami. The post Wing is bri...",
+            "pubDate": "2026-01-11T15:05:56",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Wing-Walmart-Nest-featured.jpg"
+        },
         {
             "title": "Why AIC is the only path to certifiable robotics",
             "link": "https://www.therobotreport.com/why-aic-is-the-only-path-to-certifiable-robotics/",
@@ -19,18 +26,18 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f347.png"
         },
         {
-            "title": "Kodiak plans to scale autonomous trucking hardware and sensors with Bosch",
-            "link": "https://www.therobotreport.com/kodiak-plans-scale-autonomous-trucking-hardware-sensors-bosch/",
-            "description": "Bosch plans to supply Kodiak with a variety of hardware components, including sensors and vehicle actuation components. The post Kodiak plans to scale...",
-            "pubDate": "2026-01-09T21:54:02",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/kodiakbosch-featured.jpg"
-        },
-        {
             "title": "Buildroid AI expands simulation-first robotics platform to U.S. sites",
             "link": "https://www.therobotreport.com/buildroid-ai-expands-simulation-first-robotics-platform-u-s-sites/",
             "description": "Buildroid says its block-laying robot and supporting mobile robots, validated in simulation, can automate 80% of masonry work. The post Buildroid AI e...",
             "pubDate": "2026-01-09T14:38:42",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/BLR_at-construction-site_7b.jpg"
+        },
+        {
+            "title": "Kodiak plans to scale autonomous trucking hardware and sensors with Bosch",
+            "link": "https://www.therobotreport.com/kodiak-plans-scale-autonomous-trucking-hardware-sensors-bosch/",
+            "description": "Bosch plans to supply Kodiak with a variety of hardware components, including sensors and vehicle actuation components. The post Kodiak plans to scale...",
+            "pubDate": "2026-01-09T21:54:02",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/kodiakbosch-featured.jpg"
         },
         {
             "title": "Humanoid takes seven-month path to HMND 01 Alpha",
@@ -44,7 +51,7 @@
             "link": "https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/",
             "description": "Here at MIT Technology Review we’ve been writing about the gene-editing technology CRISPR since 2013, calling it the biggest biotech breakthrough of t...",
             "pubDate": "2026-01-09T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Using unstructured data to fuel enterprise AI success",
@@ -54,13 +61,6 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Invisible-article-art-v1@300x.png"
         },
         {
-            "title": "The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained",
-            "link": "https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Researchers ...",
-            "pubDate": "2026-01-08T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/image_16a7ea.png"
-        },
-        {
             "title": "America’s new dietary guidelines ignore decades of scientific research",
             "link": "https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/",
             "description": "The new year has barely begun, but the first days of 2026 have brought big news for health. On Monday, the US’s federal health agency upended its reco...",
@@ -68,18 +68,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Screenshot-2026-01-07-180634.png?w=2082"
         },
         {
-            "title": "Neocis’ Yomi platform completes over 100,000 osteotomies",
-            "link": "https://www.therobotreport.com/neocis-yomi-platform-completes-over-100000-osteotomies/",
-            "description": "The Yomi platform combines real-time haptic guidance, pre-operative digital planning, and intra-operative adaptability. The post Neocis’ Yomi platform...",
-            "pubDate": "2026-01-08T20:00:34",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Yomi-S-Rendering-full-featured.jpg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+            "title": "The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained",
+            "link": "https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Researchers ...",
+            "pubDate": "2026-01-08T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/image_16a7ea.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -96,11 +89,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -108,6 +101,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
