@@ -2,14 +2,42 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-12T07:06:28.605892",
+    "lastBuildDate": "2026-01-12T11:02:26.487209",
     "items": [
+        {
+            "title": "The cost of IVF: How far did you go to pay for your fertility treatment?",
+            "link": "https://www.npr.org/2026/01/12/g-s1-104283/ivf-cost-jobs-age-children-fertility",
+            "description": "IVF is super expensive and people who really want kids take extreme measures to pay for it. Some take up a 2nd job, others go into debt, while others ...",
+            "pubDate": "2026-01-12T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8027x5354+0+0/resize/8027x5354!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F28%2F11%2Fb8406865428ebe9609ce21406330%2Fgettyimages-1358737791.jpg"
+        },
+        {
+            "title": "2 Minute Medicine: Pharma Roundup – New oral gonorrhea antibiotic Nuzolvence (zoliflodacin), late‑December cardiovascular and oncology drug approvals, first targeted complement inhibitor therapy for HSCT‑TMA (Yartemlea), and antibody‑drug conjugate (ADC) safety concerns with ifinatamab deruxtecan (I‑DXd) [January 2026]",
+            "link": "https://www.2minutemedicine.com/2-minute-medicine-pharma-roundup-new-oral-gonorrhea-antibiotic-nuzolvence-zoliflodacin-late%e2%80%91december-cardiovascular-and-oncology-drug-approvals-first-targeted-complement-inhibit/",
+            "description": "Oral gonorrhea antibiotic Nuzolvence approved just weeks ago The Food and Drug Administration recently approved Nuzolvence (zoliflodacin) as a first‑i...",
+            "pubDate": "2026-01-12T15:00:58",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/05/ChatGPT-Image-May-12-2025-at-10_22_23-AM-300x200.png"
+        },
+        {
+            "title": "How IVF has led to a record number of single moms in their 40s",
+            "link": "https://www.npr.org/2026/01/12/nx-s1-5647761/ivf-fertility-motherhood-40s-cost-donor-decision",
+            "description": "Who gets to be a parent has been reshaped by IVF: Single women in their 40s are increasingly opting to become moms.",
+            "pubDate": "2026-01-12T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2949x1966+0+0/resize/2949x1966!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F2c%2F2f7b3c834df08c7e3b48631ddc7e%2Fingram-40-crop.jpg"
+        },
         {
             "title": "Marrying for health insurance? The ACA cost crisis forces some drastic choices",
             "link": "https://www.npr.org/2026/01/12/nx-s1-5672426/aca-congress-insurance-subsidies-costs",
-            "description": "While Congress debates bringing back Affordable Care Act subsidies , many Americans have already made life-altering decisions to afford health care.",
+            "description": "While Congress debates bringing back Affordable Care Act subsidies, many Americans have already made life-altering decisions to afford health care.",
             "pubDate": "2026-01-12T10:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2119x1415+0+0/resize/2119x1415!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fe4%2Ff7e89d0f457c90613e1a4ded832c%2Fgettyimages-2224833429.jpg"
+        },
+        {
+            "title": "Large language models (LLMs) substantially improved patient comprehension of discharge summaries",
+            "link": "https://www.2minutemedicine.com/large-language-models-llms-substantially-improved-patient-comprehension-of-discharge-summaries/",
+            "description": "1. Kumar and colleagues assessed LLM’s ability to translate discharge summary notes into plain language to improve patient comprehension. 2. Patients,...",
+            "pubDate": "2026-01-12T15:30:39",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/12/doctor-patient-6-urologic-oncology-300x150.jpg"
         },
         {
             "title": "Exercise is as effective as medication in treating depression, study finds",
@@ -26,95 +54,95 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/11/CC_kidneystone_hazydan_wiki_edited-300x150.png"
         },
         {
-            "title": "The cost of IVF: How far did you go to pay for your fertility treatment?",
-            "link": "https://www.npr.org/2026/01/12/g-s1-104283/ivf-cost-jobs-age-children-fertility",
-            "description": "IVF is super expensive and people who really want kids take extreme measures to pay for it. Some take up a 2nd job, others go into debt, while others ...",
-            "pubDate": "2026-01-12T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8027x5354+0+0/resize/8027x5354!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F28%2F11%2Fb8406865428ebe9609ce21406330%2Fgettyimages-1358737791.jpg"
+            "title": "Point-Of-Care Test Enhances STI Care in Emergency Department",
+            "link": "https://www.medscape.com/viewarticle/point-care-test-enhances-sti-care-emergency-department-2026a10000zc?src=rss",
+            "description": "Point-of-care testing for common sexually transmitted infections may reduce overuse of antibiotics and improve emergency department workflow. Medscape...",
+            "pubDate": "2026-01-12T13:06:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "How IVF has led to a record number of single moms in their 40s",
-            "link": "https://www.npr.org/2026/01/12/nx-s1-5647761/ivf-fertility-motherhood-40s-cost-donor-decision",
-            "description": "Who gets to be a parent has been reshaped by IVF: Single women in their 40s are increasingly opting to become moms.",
-            "pubDate": "2026-01-12T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2949x1966+0+0/resize/2949x1966!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F2c%2F2f7b3c834df08c7e3b48631ddc7e%2Fingram-40-crop.jpg"
-        },
-        {
-            "title": "Tailored Exercise Boosts Axial Spondyloarthritis Outcomes",
-            "link": "https://www.medscape.com/viewarticle/tailored-exercise-therapy-boosts-axial-spondyloarthritis-2026a10000o4?src=rss",
-            "description": "A personalised exercise programme improves trunk strength and mobility, enhances cardiorespiratory fitness, and reduces disease activity in patients w...",
-            "pubDate": "2026-01-12T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "TV depictions of Hands-Only CPR are often misleading, research suggests",
-            "link": "https://medicalxpress.com/news/2026-01-tv-depictions-cpr.html",
-            "description": "TV depictions of out-of-hospital cardiac arrest may mislead viewers about who is most likely to need cardiopulmonary resuscitation (CPR) and where it'...",
-            "pubDate": "2026-01-12T10:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Delayed Sleep-Wake Phase Disorder in Teens Often Missed",
-            "link": "https://www.medscape.com/viewarticle/delayed-sleep-wake-phase-disorder-teens-often-missed-2026a10000yd?src=rss",
-            "description": "The delayed sleep-wake phase in adolescents often overlaps with ADHD and restless legs syndrome, worsening insomnia and academic performance and calli...",
-            "pubDate": "2026-01-12T12:02:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Practice-Changing Data in Gastroesophageal Adenocarcinoma",
-            "link": "https://www.medscape.com/viewarticle/practice-changing-data-gastroesophageal-adenocarcinoma-2026a10000yp?src=rss",
-            "description": "First-line zanidatamab plus chemotherapy leads to ‘practice-changing’ PFS and overall survival gains in a phase 3 study of HER2-positive advanced gast...",
-            "pubDate": "2026-01-12T12:00:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "The burden of being both doctor and family: an ethical reflection",
+            "link": "https://kevinmd.com/2026/01/the-burden-of-being-both-doctor-and-family-an-ethical-reflection.html",
+            "description": "I come from a long line of physicians. My grandfather was a pioneer in pharmacy and biochemistry, so influential that a museum now bears his name. My ...",
+            "pubDate": "2026-01-12T14:00:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Navigating the medical system requires specific life skills [PODCAST]",
             "link": "https://kevinmd.com/2026/01/navigating-the-medical-system-requires-specific-life-skills.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Otolaryngologist Alan P. Feren and patient advocate Joyce Griggs disc...",
             "pubDate": "2026-01-12T00:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Scientists report new immune insights and targets into LRRK2 mutations in Parkinson's disease",
+            "link": "https://medicalxpress.com/news/2026-01-scientists-immune-insights-lrrk2-mutations.html",
+            "description": "Parkinson's disease (PD) is a debilitating and progressive neurodegenerative disorder caused by the loss of dopamine-producing neurons in the substant...",
+            "pubDate": "2026-01-12T15:24:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "No Clear First-Line Treatment for Opioid Use Disorder?",
+            "link": "https://www.medscape.com/viewarticle/study-finds-no-clear-first-line-treatment-opioid-use-2026a10000ze?src=rss",
+            "description": "Pharmacology, prescribing requirements, and patient preference are crucial factors in choosing opioid agonist treatments. Medscape News Canada",
+            "pubDate": "2026-01-12T12:22:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Pediatrician offers advice on how to talk with a teen about drugs and alcohol",
+            "link": "https://medicalxpress.com/news/2026-01-pediatrician-advice-teen-drugs-alcohol.html",
+            "description": "Although most teens don't use drugs or alcohol, some do: Adolescence is a time of exploration and risk-taking, and today's substances—from high-potenc...",
+            "pubDate": "2026-01-12T15:20:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "DNA testing of colorectal polyps improves insight into hereditary risks",
-            "link": "https://medicalxpress.com/news/2026-01-dna-colorectal-polyps-insight-hereditary.html",
-            "description": "For 10% of colorectal cancer patients, hereditary factors play a role, with higher percentages among younger patients. Research from Radboud Universit...",
-            "pubDate": "2026-01-12T09:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Cannabis May Ease Symptoms in Advanced Pancreatic Cancer",
+            "link": "https://www.medscape.com/viewarticle/cannabis-may-ease-symptoms-advanced-pancreatic-cancer-2026a10000zh?src=rss",
+            "description": "In a small pilot study of patients with advanced pancreatic cancer, early access to medical cannabis shows promise in the improvement of symptoms such...",
+            "pubDate": "2026-01-12T13:15:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "How weight loss benefits the health of your fat tissue",
-            "link": "https://medicalxpress.com/news/2026-01-weight-loss-benefits-health-fat.html",
-            "description": "It is well known that obesity typically leads to inflammation and dysfunction of fat tissue that increases the risk of developing metabolic diseases s...",
-            "pubDate": "2026-01-12T10:00:05",
+            "title": "Triple Therapy Linked to Steadier Lung Function in CF",
+            "link": "https://www.medscape.com/viewarticle/triple-therapy-linked-lower-lung-clearance-index-pediatric-2026a10000yy?src=rss",
+            "description": "Following initiation of elexacaftor/tezacaftor/ivacaftor, Lung Clearance Index decreases in children with cystic fibrosis, and the extent of decline i...",
+            "pubDate": "2026-01-12T12:33:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "US FDA Declines to Approve Atara's Therapy for Rare Blood Cancer",
+            "link": "https://www.medscape.com/s/viewarticle/us-fda-declines-approve-ataras-therapy-rare-blood-cancer-2026a100010a?src=rss",
+            "description": "The U.S. Food and Drug Administration on Monday declined to approve Atara Biotherapeutics' cell therapy for ‌a rare form of blood cancer, the company ...",
+            "pubDate": "2026-01-12T13:09:07",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Expanded school-based program linked to lower youth tobacco use rates in California",
-            "link": "https://medicalxpress.com/news/2026-01-school-based-linked-youth-tobacco.html",
-            "description": "Researchers from University of California San Diego report that an expanded, school-based tobacco prevention program in California was associated with...",
-            "pubDate": "2026-01-12T10:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "ADRIATIC clinical trial results suggest durvalumab may offer a new path in small cell lung cancer care",
-            "link": "https://medicalxpress.com/news/2026-01-adriatic-clinical-trial-results-durvalumab.html",
-            "description": "A new study suggests that the immune checkpoint inhibitor, durvalumab, may offer new treatment options for patients living with small cell lung cancer...",
-            "pubDate": "2026-01-12T09:33:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "HPV Self-Sampling May Boost Cervical Cancer Screening",
-            "link": "https://www.medscape.com/viewarticle/human-papillomavirus-self-sampling-linked-increased-cervical-2026a10000l2?src=rss",
-            "description": "Human papillomavirus self-sampling is associated with increased participation by long-term non-attenders in an organised cervical cancer screening pro...",
-            "pubDate": "2026-01-12T12:00:00",
+            "title": "Parkrun participation surging thanks to parkwalkers, new research shows",
+            "link": "https://medicalxpress.com/news/2026-01-parkrun-surging-parkwalkers.html",
+            "description": "New research from the University of Stirling has revealed that introducing parkwalkers to parkrun events has led to a surge in those walking the route...",
+            "pubDate": "2026-01-12T15:36:25",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Do Flu Shots Cut Severe Illness After Stem Cell Transplant?",
-            "link": "https://www.medscape.com/viewarticle/do-flu-shots-cut-severe-illness-after-allogeneic-2026a10000l9?src=rss",
-            "description": "Among allogeneic haematopoietic stem cell transplant recipients with influenza infection, seasonal influenza vaccination lowers the risk for progressi...",
-            "pubDate": "2026-01-12T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Extremely elevated lipoprotein(a) levels tied to 30-year heart risk in women",
+            "link": "https://medicalxpress.com/news/2026-01-extremely-elevated-lipoproteina-year-heart.html",
+            "description": "Brigham and Women's Hospital investigators link very high lipoprotein(a) with a higher 30-year risk of major cardiovascular events in initially health...",
+            "pubDate": "2026-01-12T15:22:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "One in four older Americans with dementia prescribed risky brain-altering drugs despite safety warnings",
+            "link": "https://medicalxpress.com/news/2026-01-older-americans-dementia-risky-brain.html",
+            "description": "Despite years of clinical guidelines warning against the practice, one in four Medicare beneficiaries with dementia is prescribed brain-altering medic...",
+            "pubDate": "2026-01-12T16:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "A physician father on the Dobbs decision and reproductive rights",
+            "link": "https://kevinmd.com/2026/01/a-physician-father-on-the-dobbs-decision-and-reproductive-rights.html",
+            "description": "I proudly bear the title of “Dad,” and my daughter is five (going on 15), fiery, carefree, and unmistakably precocious, yet still my silly, innocent, ...",
+            "pubDate": "2026-01-12T12:00:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "New Orleans is bringing house calls back to support new moms",
@@ -124,32 +152,18 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5645821"
         },
         {
-            "title": "Ghost networks in health care: Why physicians are suing insurers",
-            "link": "https://kevinmd.com/2026/01/ghost-networks-in-health-care-why-physicians-are-suing-insurers.html",
-            "description": "For years we have told patients the same thing when they have trouble finding a doctor: Go to your insurance directory, look it up, they can help you....",
-            "pubDate": "2026-01-11T16:00:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "A school nurse’s story of trauma and nurse burnout",
+            "link": "https://kevinmd.com/2026/01/a-school-nurses-story-of-trauma-and-nurse-burnout.html",
+            "description": "School had just started for the new school year. It was hot and humid. I had just retired from ICU nursing and behavioral health, a 46-year career and...",
+            "pubDate": "2026-01-11T20:00:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "WISeR Medicare pilot: the new “AI death panel”?",
             "link": "https://kevinmd.com/2026/01/wiser-medicare-pilot-the-new-ai-death-panel.html",
             "description": "There are many ways to say “no” in medicine. “No, this antibiotic won’t help a viral infection.” “No, this test won’t change our management.” “No, tha...",
             "pubDate": "2026-01-11T18:00:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "A school nurse’s story of trauma and nurse burnout",
-            "link": "https://kevinmd.com/2026/01/a-school-nurses-story-of-trauma-and-nurse-burnout.html",
-            "description": "School had just started for the new school year. It was hot and humid. I had just retired from ICU nursing and behavioral health, a 46-year career and...",
-            "pubDate": "2026-01-11T20:00:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "SNF discharge planning: Why documentation is no longer enough",
-            "link": "https://kevinmd.com/2026/01/snf-discharge-planning-why-documentation-is-no-longer-enough.html",
-            "description": "There is a dangerous assumption circulating in skilled nursing facility (SNF) boardrooms: “If it’s documented in the EMR, we are protected.” For years...",
-            "pubDate": "2026-01-11T14:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Management of Dyspnea With High-Flow Nasal Air or Fan-A Randomized Controlled Crossover Trial",
@@ -164,20 +178,6 @@
             "description": "1. Preoperative evolocumab combined with rosuvastatin did not significantly reduce six-month major adverse cardiovascular events but improved several ...",
             "pubDate": "2026-01-09T00:00:43",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/04/stemi-myocardial-infarct-300x150.jpg"
-        },
-        {
-            "title": "Ultrasound-guided stellate ganglion block attenuates early postoperative visceral pain after laparoscopic hysterectomy: A prospective randomized controlled trial",
-            "link": "https://www.2minutemedicine.com/ultrasound-guided-stellate-ganglion-block-attenuates-early-postoperative-visceral-pain-after-laparoscopic-hysterectomy-a-prospective-randomized-controlled-trial/",
-            "description": "1. Ultrasound-guided stellate ganglion block significantly reduces early postoperative visceral pain after laparoscopic hysterectomy. 2. Stellate gang...",
-            "pubDate": "2026-01-08T00:00:07",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/04/14538_lores-e1544028756500-300x150.jpg"
-        },
-        {
-            "title": "Infrapatellar Fat Pad Glucocorticoid Injection in Knee Osteoarthritis",
-            "link": "https://www.2minutemedicine.com/infrapatellar-fat-pad-glucocorticoid-injection-in-knee-osteoarthritis/",
-            "description": "1. Infrapatellar fat pad (IPFP) glucocorticoid injections do not significantly reduce pain or effusion volume compared to placebo in knee osteoarthrit...",
-            "pubDate": "2026-01-08T16:00:22",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/07/osteoarthritis2-300x150.jpg"
         }
     ]
 }

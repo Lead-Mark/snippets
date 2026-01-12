@@ -2,8 +2,15 @@
     "title": "Individual feed for https://rss.politico.com/economy.xml",
     "link": "https://rss.politico.com/economy.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-01-12T07:05:47.829536",
+    "lastBuildDate": "2026-01-12T11:01:31.677147",
     "items": [
+        {
+            "title": "Capitol agenda: Trump tests GOP with Fed probe",
+            "link": "https://www.politico.com/live-updates/2026/01/12/congress/trump-gop-doj-fed-jerome-powell-00721769",
+            "description": "",
+            "pubDate": "2026-01-12T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
         {
             "title": "Vance tries to thread affordability needle in Rust Belt",
             "link": "https://www.politico.com/news/2025/12/16/vance-tries-to-thread-affordability-needle-in-rust-belt-00693642",
@@ -31,13 +38,6 @@
             "description": "The White House plans to make affordability a key selling point for Republicans across the board as the 2026 midterm elections come into focus.",
             "pubDate": "2025-12-11T15:38:17",
             "image_url": "https://static.politico.com/bf/ae/813166f249a1b1a866642d1f9453/https-delivery-gettyimages.com/downloads/2250509568"
-        },
-        {
-            "title": "Trump will again test ‘blame Democrats’ message on the economy — this time at a casino",
-            "link": "https://www.politico.com/news/2025/12/09/trump-will-again-test-his-blame-democrats-message-on-the-economy-this-time-at-a-casino-00683164",
-            "description": "President Donald Trump will give a speech in Northeastern Pennsylvania on Tuesday, the first stop in a ‘tour’ where he will talk about affordability c...",
-            "pubDate": "2025-12-09T19:30:00",
-            "image_url": "https://static.politico.com/9a/75/2e75ab4d49e08e4ab496cc41ce5b/trump-farm-aid-49281.jpg"
         }
     ]
 }
