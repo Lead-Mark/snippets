@@ -2,21 +2,35 @@
     "title": "theBalancedBriefNLbreakingNews",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from theBalancedBriefNLbreakingNews, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-11T11:00:32.915507",
+    "lastBuildDate": "2026-01-11T21:52:29.766432",
     "items": [
+        {
+            "title": "Buddhist monks and their dog captivate Americans while walking for peace",
+            "link": "https://abcnews.go.com/US/wireStory/buddhist-monks-dog-captivate-americans-walking-peace-129101335",
+            "description": "The monks say they want to promote mindfulness, healing and finding inner peace.",
+            "pubDate": "2026-01-11T14:20:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Shootout leaves South Carolina cop wounded, suspect killed",
+            "link": "https://abcnews.go.com/US/wireStory/south-carolina-police-officer-shot-wounded-suspect-killed-129110211",
+            "description": "The sheriff described the shooting as an “ambush-style attack.”",
+            "pubDate": "2026-01-11T23:02:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
         {
             "title": "Transgender teen athlete in a Supreme Court fight knows the upcoming sports season could be her last",
             "link": "https://abcnews.go.com/US/wireStory/transgender-teen-athlete-supreme-court-fight-upcoming-sports-129100359",
             "description": "Becky Pepper-Jackson is a 15-year-old in West Virginia who knows the upcoming sports season could be her last",
             "pubDate": "2026-01-11T12:45:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Suspect arrested after fire damages historic Mississippi synagogue",
             "link": "https://abcnews.go.com/US/wireStory/suspect-arrested-after-fire-damages-historic-mississippi-synagogue-129102856",
             "description": "A fire heavily damaged a historic synagogue in Mississippi.",
             "pubDate": "2026-01-11T15:53:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Milan’s Catholic archdiocese brings Olympic values into parish life",
@@ -24,20 +38,6 @@
             "description": "As Milan prepares to host the 2026 Winter Olympics, the city’s Catholic archdiocese launched a multi-year program that uses sport to promote values su...",
             "pubDate": "2026-01-11T10:45:32",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Greenland’s harsh environment and lack of infrastructure have prevented rare earth mining",
-            "link": "https://abcnews.go.com/US/wireStory/greenlands-harsh-environment-lack-infrastructure-prevented-rare-earth-129098070",
-            "description": "Greenland’s harsh environment, lack of key infrastructure and difficult geology have prevented anyone from building a mine to extract the sought-after...",
-            "pubDate": "2026-01-11T05:25:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Buddhist monks and their dog captivate Americans while walking for peace",
-            "link": "https://abcnews.go.com/US/wireStory/buddhist-monks-dog-captivate-americans-walking-peace-129101335",
-            "description": "The monks say they want to promote mindfulness, healing and finding inner peace.",
-            "pubDate": "2026-01-11T14:20:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }
