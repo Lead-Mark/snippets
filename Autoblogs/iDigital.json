@@ -2,28 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-12T16:01:37.504130",
+    "lastBuildDate": "2026-01-13T06:08:02.341248",
     "items": [
         {
-            "title": "Securing digital assets as crypto crime surges",
-            "link": "https://www.technologyreview.com/2026/01/12/1129479/securing-digital-assets-as-crypto-crime-surges/",
-            "description": "In February 2025, cyberattackers thought to be linked to North Korea executed a sophisticated supply chain attack on cryptocurrency exchange Bybit. By...",
-            "pubDate": "2026-01-12T13:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/X2A9916.jpg?w=3000"
+            "title": "Schaeffler to deploy hundreds of Humanoid robots in its factories",
+            "link": "https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/",
+            "description": "Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model. The post Schaeffler to deploy...",
+            "pubDate": "2026-01-13T10:00:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Schaeffler_Humanoids-in-Global-Factories.jpg"
         },
         {
-            "title": "CES showed me why Chinese tech companies feel so optimistic",
-            "link": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
-            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I decided to...",
-            "pubDate": "2026-01-12T17:01:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/AP26008139270328.jpg?w=2667"
-        },
-        {
-            "title": "AGIBOT makes its U.S. debut with more than 5,100 robots shipped",
-            "link": "https://www.therobotreport.com/agibot-makes-u-s-debut-with-more-than-5100-robots-shipped/",
-            "description": "A recent report from Omdia sheds light on the wider humanoid robot market and where AGIBOT fits into it. The post AGIBOT makes its U.S. debut with mor...",
-            "pubDate": "2026-01-12T18:24:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/agibot-featured.jpg"
+            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
+            "pubDate": "2026-01-12T11:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
         },
         {
             "title": "The Download: introducing this year’s 10 Breakthrough Technologies",
@@ -33,18 +26,53 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f30d.png"
         },
         {
-            "title": "Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim",
-            "link": "https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/",
-            "description": "Emissions from air freight have increased by 25% since 2019, according to a 2024 analysis by environmental advocacy organization Stand.Earth. The rese...",
-            "pubDate": "2026-01-12T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "ARM Institute issues education and workforce development project call",
+            "link": "https://www.therobotreport.com/arm-institute-issues-education-workforce-development-project-call/",
+            "description": "While the call is open only to ARM Institute members, many educational institutions may qualify for a free or low-cost membership. The post ARM Instit...",
+            "pubDate": "2026-01-12T07:01:16",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/EWD-Call.jpg"
+        },
+        {
+            "title": "CES showed me why Chinese tech companies feel so optimistic",
+            "link": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
+            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I decided to...",
+            "pubDate": "2026-01-12T17:01:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/AP26008139270328.jpg?w=2667"
+        },
+        {
+            "title": "Securing digital assets as crypto crime surges",
+            "link": "https://www.technologyreview.com/2026/01/12/1129479/securing-digital-assets-as-crypto-crime-surges/",
+            "description": "In February 2025, cyberattackers thought to be linked to North Korea executed a sophisticated supply chain attack on cryptocurrency exchange Bybit. By...",
+            "pubDate": "2026-01-12T13:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/X2A9916.jpg?w=3000"
+        },
+        {
+            "title": "TESOLLO uses own actuator in DG-5F-S humanoid robotic hand",
+            "link": "https://www.therobotreport.com/tesollo-uses-own-actuator-dg-5f-s-humanoid-robotic-hand/",
+            "description": "TESOLLO said the technology it developed in house enables a smaller and lighter 20-DoF robot hand. The post TESOLLO uses own actuator in DG-5F-S human...",
+            "pubDate": "2026-01-12T22:28:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/DG-5F-S_Compact_Humanoid_Hand_Image1.jpg"
+        },
+        {
+            "title": "AGIBOT makes its U.S. debut with more than 5,100 robots shipped",
+            "link": "https://www.therobotreport.com/agibot-makes-u-s-debut-with-more-than-5100-robots-shipped/",
+            "description": "A recent report from Omdia sheds light on the wider humanoid robot market and where AGIBOT fits into it. The post AGIBOT makes its U.S. debut with mor...",
+            "pubDate": "2026-01-12T18:24:51",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/agibot-featured.jpg"
         },
         {
             "title": "10 Breakthrough Technologies 2026",
             "link": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
             "description": "",
             "pubDate": "2026-01-12T11:15:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim",
+            "link": "https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/",
+            "description": "Emissions from air freight have increased by 25% since 2019, according to a 2024 analysis by environmental advocacy organization Stand.Earth. The rese...",
+            "pubDate": "2026-01-12T14:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Wing is bringing drone delivery to 150 more Walmart stores",
@@ -52,27 +80,6 @@
             "description": "Walmart and Wing plans to establish a network of over 270 drone delivery locations by 2027, stretching from Los Angeles to Miami. The post Wing is bri...",
             "pubDate": "2026-01-11T15:05:56",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Wing-Walmart-Nest-featured.jpg"
-        },
-        {
-            "title": "Why AIC is the only path to certifiable robotics",
-            "link": "https://www.therobotreport.com/why-aic-is-the-only-path-to-certifiable-robotics/",
-            "description": "The EU AI Act could affect humanoids. AIC, or artificial integrated cognition, provides a path for AI to gain the trust needed to advance. The post Wh...",
-            "pubDate": "2026-01-10T13:30:19",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/AdobeStock_1576173730-scaled.jpeg"
-        },
-        {
-            "title": "Buildroid AI expands simulation-first robotics platform to U.S. sites",
-            "link": "https://www.therobotreport.com/buildroid-ai-expands-simulation-first-robotics-platform-u-s-sites/",
-            "description": "Buildroid says its block-laying robot and supporting mobile robots, validated in simulation, can automate 80% of masonry work. The post Buildroid AI e...",
-            "pubDate": "2026-01-09T14:38:42",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/BLR_at-construction-site_7b.jpg"
-        },
-        {
-            "title": "Kodiak plans to scale autonomous trucking hardware and sensors with Bosch",
-            "link": "https://www.therobotreport.com/kodiak-plans-scale-autonomous-trucking-hardware-sensors-bosch/",
-            "description": "Bosch plans to supply Kodiak with a variety of hardware components, including sensors and vehicle actuation components. The post Kodiak plans to scale...",
-            "pubDate": "2026-01-09T21:54:02",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/kodiakbosch-featured.jpg"
         },
         {
             "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
@@ -89,6 +96,13 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6VsJWNsStTR57q9vFd5L08/a0d88b4dcbd1e9ba77fd72a9c55988d9/nuneybits_Vector_art_of_programmer_conducting_robot_orchestra_i_908157a9-d44f-4bce-b390-5913b88dad27.webp?w=300&q=30"
         },
         {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
@@ -103,11 +117,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -115,13 +129,6 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }

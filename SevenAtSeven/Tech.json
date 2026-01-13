@@ -2,41 +2,34 @@
     "title": "Tech",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Tech, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-12T16:00:45.007544",
+    "lastBuildDate": "2026-01-13T06:05:37.478656",
     "items": [
         {
-            "title": "Best Travel Cameras (2026), Tested and Reviewed",
-            "link": "https://www.wired.com/gallery/best-travel-cameras/",
-            "description": "We’ve found the best travel cameras—from point-and-shoot to full-frame—to help you bring home the perfect vacation photos.",
-            "pubDate": "2026-01-12T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
-            "link": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
-            "description": "French defense tech company Harmattan AI is now valued at $1.4 billion after raising a $200 million Series B round led by Dassault Aviation, which is ...",
-            "pubDate": "2026-01-12T14:00:44",
+            "title": "Hands-on with Bee, Amazon’s latest AI wearable",
+            "link": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
+            "description": "We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year.",
+            "pubDate": "2026-01-13T00:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Meta hires former Trump advisor Dina Powell McCormick as president and vice chair",
-            "link": "https://techcrunch.com/2026/01/12/meta-hires-former-trump-advisor-dina-powell-mccormick-as-president-and-vice-chair/",
-            "description": "Before joining Meta, Powell McCormick was working as deputy national security advisor to President Donald Trump.",
-            "pubDate": "2026-01-12T14:58:19",
+            "title": "OpenAI buys tiny health records startup Torch for, reportedly, $100M",
+            "link": "https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/",
+            "description": "AI health records startup Torch will be using its tech for OpenAI's new ChatGPT Health, according to co-founder Ilya Abyzov.",
+            "pubDate": "2026-01-13T00:04:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "More than 100 new tech unicorns were minted in 2025 — here they are",
+            "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
+            "description": "Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year.",
+            "pubDate": "2026-01-13T01:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
-            "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
-            "description": "Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product.",
-            "pubDate": "2026-01-12T20:48:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Pebble founder says his new company is ‘not a startup’",
-            "link": "https://techcrunch.com/2026/01/12/pebble-founder-says-his-new-company-is-not-a-startup/",
-            "description": "Pebble's founder talks about how his new company is doing things differently.",
-            "pubDate": "2026-01-12T20:38:44",
+            "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
+            "link": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
+            "description": "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global",
+            "pubDate": "2026-01-13T04:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
@@ -47,32 +40,39 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "10 Best Pet Cameras (2026), Tested With Our Pets",
-            "link": "https://www.wired.com/gallery/best-pet-cameras/",
-            "description": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
-            "pubDate": "2026-01-12T11:34:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+            "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+            "description": "Anthropic's Claude for Healthcare is unveiled about a week after OpenAI announced its ChatGPT Health product.",
+            "pubDate": "2026-01-12T20:48:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Anthropic’s new Cowork tool offers Claude Code without the code",
             "link": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
             "description": "Built into the Claude Desktop app, Cowork lets users designate a specific folder where Claude can read or modify files, with further instructions give...",
             "pubDate": "2026-01-12T19:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Why Amazon bought Bee, an AI wearable",
+            "link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
+            "description": "Amazon explains where its wearable Bee fits in and whether it will merge with Alexa.",
+            "pubDate": "2026-01-12T21:55:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Pebble founder says his new company is ‘not a startup’",
+            "link": "https://techcrunch.com/2026/01/12/pebble-founder-says-his-new-company-is-not-a-startup/",
+            "description": "Pebble's founder talks about how his new company is doing things differently.",
+            "pubDate": "2026-01-12T20:38:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Trump’s EPA plans to ignore health effects of air pollution",
             "link": "https://techcrunch.com/2026/01/12/trumps-epa-plans-to-ignore-health-effects-of-air-pollution/",
             "description": "The Trump administration plans to stop assigning value to human life when analyzing the costs and benefits of air pollution controls.",
             "pubDate": "2026-01-12T19:23:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Luminar lines up $22 million bidder for its lidar business",
-            "link": "https://techcrunch.com/2026/01/12/luminar-lines-up-22-million-bidder-for-its-lidar-business/",
-            "description": "The bid comes from Quantum Computing Inc., which already lined up to buy Luminar's semiconductor division. Luminar founder Austin Russell has also exp...",
-            "pubDate": "2026-01-12T15:28:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }
