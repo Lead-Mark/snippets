@@ -2,35 +2,28 @@
     "title": "INhealth",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INhealth, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-14T11:04:45.647870",
+    "lastBuildDate": "2026-01-14T16:02:06.266850",
     "items": [
         {
-            "title": "Introducing Embody: Sustainable Strategies for Healthy Weight",
-            "link": "https://www.webmd.com/diet/features/webmd-launches-embody-health-weight-loss",
-            "description": "Embody combines science, strategies, and personal stories to support your health goals. Find expert guidance for weight management, nutrition, movemen...",
-            "pubDate": "2026-01-14T06:00:01",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1800x1200-Fitness-Basics-Yaeger-Sprinkle-Movement-Woman-Dancing.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "The Best Times to Drink Water",
-            "link": "https://www.webmd.com/diet/ss/slideshow-best-times-drink-water",
+            "title": "How Much Water Should You Drink Every Day?",
+            "link": "https://www.webmd.com/diet/how-much-water-to-drink",
             "description": "",
-            "pubDate": "2026-01-14T06:00:01",
+            "pubDate": "2026-01-14T15:55:01",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/what_happens_when_you_give_up_caffeine_slideshow/1800ss_getty_rf_woman_drinking_water-e82.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "Steps You Can Take to Prevent Prediabetes",
-            "link": "https://www.webmd.com/diabetes/ss/slideshow-prediabetes-recommendations",
+            "link": "https://www.webmd.com/diabetes/stop-prediabetes-progression",
             "description": "",
-            "pubDate": "2026-01-14T06:00:01",
+            "pubDate": "2026-01-14T15:55:01",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_riding_bicycle_other/1800x1200_mature_man_riding_bicycle_other_alt.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Should Your Muscles Burn During A Workout? Here’s What That Really Means",
-            "link": "https://www.mindbodygreen.com/articles/muscle-burn-vs-muscle-growth-understanding-difference",
-            "description": "Burn ≠ build: What really fuels muscle growth",
-            "pubDate": "2026-01-14T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Introducing Embody: Sustainable Strategies for Healthy Weight",
+            "link": "https://www.webmd.com/diet/features/webmd-launches-embody-health-weight-loss",
+            "description": "Embody combines science, strategies, and personal stories to support your health goals. Find expert guidance for weight management, nutrition, movemen...",
+            "pubDate": "2026-01-14T15:55:01",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1800x1200-Fitness-Basics-Yaeger-Sprinkle-Movement-Woman-Dancing.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "I Tried 5 Blood Sugar Hacks — Here’s What Worked According To My CGM",
@@ -44,21 +37,28 @@
             "link": "https://www.mindbodygreen.com/articles/if-your-magnesium-supplement-isnt-cutting-it-try-this-instead-know-more-about-it",
             "description": "And say hello to relaxation.",
             "pubDate": "2026-01-14T10:11:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "I'm A Doctor & Traditional Medicine Failed Me — Here's What Actually Worked",
+            "link": "https://www.mindbodygreen.com/articles/why-healing-your-gut-requires-healing-your-mind-from-md",
+            "description": "Spoiler alert: Your gut issues might not actually be about your gut.",
+            "pubDate": "2026-01-14T19:27:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Should Your Muscles Burn During A Workout? Here’s What That Really Means",
+            "link": "https://www.mindbodygreen.com/articles/muscle-burn-vs-muscle-growth-understanding-difference",
+            "description": "Burn ≠ build: What really fuels muscle growth",
+            "pubDate": "2026-01-14T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "This Widely Used Chemical Doubles Parkinson’s Risk —  How To Reduce Exposure",
             "link": "https://www.mindbodygreen.com/articles/this-chemical-exposure-is-emerging-as-parkinsons-risk-factor",
             "description": "A clearer picture of risk—and how to lower it.",
             "pubDate": "2026-01-13T10:59:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "How To Tell If Your Poop Is Normal (& What It Means For Gut Health)",
-            "link": "https://www.mindbodygreen.com/articles/is-your-poop-healthy-and-normal-heres-how-to-tell-signs-of-a-healthy-poop",
-            "description": "Your poop can tell you a lot about your health.",
-            "pubDate": "2026-01-13T10:09:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

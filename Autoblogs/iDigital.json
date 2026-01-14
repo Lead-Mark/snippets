@@ -2,7 +2,7 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-14T11:03:00.841388",
+    "lastBuildDate": "2026-01-14T16:01:50.239925",
     "items": [
         {
             "title": "The Download: next-gen nuclear, and the data center backlash",
@@ -12,11 +12,25 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png"
         },
         {
+            "title": "Patents vs. trade secrets in the age of AI robotics",
+            "link": "https://www.therobotreport.com/patents-vs-trade-secrets-in-the-age-of-ai-robotics/",
+            "description": "Greenberg Traurig shares insights about how to choose the right IP strategy when algorithms, and not humans, drive innovation The post Patents vs. tra...",
+            "pubDate": "2026-01-14T18:44:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/protecting-ai-driven-ip.jpg"
+        },
+        {
             "title": "Data centers are amazing. Everyone hates them.",
             "link": "https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/",
             "description": "Behold, the hyperscale data center! Massive structures, with thousands of specialized computer chips running in parallel to perform the complex calcul...",
             "pubDate": "2026-01-14T11:17:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "4 physical AI predictions for 2026 — and beyond, from UR",
+            "link": "https://www.therobotreport.com/four-physical-ai-predictions-2026-beyond-universal-robots/",
+            "description": "Trends such as industry-specific AI and a new data economy will affect physical AI in 2026, says a Universal Robots executive. The post 4 physical AI ...",
+            "pubDate": "2026-01-13T14:49:51",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/IMTS_AI_demo-7.jpg"
         },
         {
             "title": "The Download: sodium-ion batteries and China’s bright tech future",
@@ -33,11 +47,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/X-square-quanta-x2.jpg"
         },
         {
-            "title": "CES 2026 robotics recap; industry experts make predictions",
-            "link": "https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/",
-            "description": "Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon. The post CES...",
-            "pubDate": "2026-01-13T21:08:29",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/chris-ahti-headshots.jpg"
+            "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+            "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+            "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification...",
+            "pubDate": "2026-01-13T13:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
         },
         {
             "title": "A3 releases full three-part national safety standard for industrial robots",
@@ -47,18 +61,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/robots-production-AI-featured.jpg"
         },
         {
-            "title": "Schaeffler to deploy hundreds of Humanoid robots in its factories",
-            "link": "https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/",
-            "description": "Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model. The post Schaeffler to deploy...",
-            "pubDate": "2026-01-13T10:00:40",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Schaeffler_Humanoids-in-Global-Factories.jpg"
+            "title": "CES 2026 robotics recap; industry experts make predictions",
+            "link": "https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/",
+            "description": "Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon. The post CES...",
+            "pubDate": "2026-01-13T21:08:29",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/chris-ahti-headshots.jpg"
         },
         {
-            "title": "4 physical AI predictions for 2026 — and beyond, from UR",
-            "link": "https://www.therobotreport.com/four-physical-ai-predictions-2026-beyond-universal-robots/",
-            "description": "Trends such as industry-specific AI and a new data economy will affect physical AI in 2026, says a Universal Robots executive. The post 4 physical AI ...",
-            "pubDate": "2026-01-13T14:49:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/IMTS_AI_demo-7.jpg"
+            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
+            "pubDate": "2026-01-12T11:30:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
         },
         {
             "title": "CES showed me why Chinese tech companies feel so optimistic",
@@ -72,7 +86,28 @@
             "link": "https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/",
             "description": "Emissions from air freight have increased by 25% since 2019, according to a 2024 analysis by environmental advocacy organization Stand.Earth. The rese...",
             "pubDate": "2026-01-12T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+            "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+            "description": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model ...",
+            "pubDate": "2026-01-07T20:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30"
+        },
+        {
+            "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+            "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+            "description": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the enginee...",
+            "pubDate": "2026-01-05T07:45:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6VsJWNsStTR57q9vFd5L08/a0d88b4dcbd1e9ba77fd72a9c55988d9/nuneybits_Vector_art_of_programmer_conducting_robot_orchestra_i_908157a9-d44f-4bce-b390-5913b88dad27.webp?w=300&q=30"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -87,13 +122,6 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
