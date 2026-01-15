@@ -2,28 +2,105 @@
     "title": "INmaster",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INmaster, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-14T16:02:01.598154",
+    "lastBuildDate": "2026-01-15T06:07:59.723977",
     "items": [
+        {
+            "title": "Introducing Embody: Sustainable Strategies for Healthy Weight",
+            "link": "https://www.webmd.com/diet/features/webmd-launches-embody-health-weight-loss",
+            "description": "Embody combines science, strategies, and personal stories to support your health goals. Find expert guidance for weight management, nutrition, movemen...",
+            "pubDate": "2026-01-15T06:00:01",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1800x1200-Fitness-Basics-Yaeger-Sprinkle-Movement-Woman-Dancing.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Steps You Can Take to Prevent Prediabetes",
+            "link": "https://www.webmd.com/diabetes/stop-prediabetes-progression",
+            "description": "",
+            "pubDate": "2026-01-15T06:00:01",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_riding_bicycle_other/1800x1200_mature_man_riding_bicycle_other_alt.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "How Much Water Should You Drink Every Day?",
+            "link": "https://www.webmd.com/diet/how-much-water-to-drink",
+            "description": "",
+            "pubDate": "2026-01-15T06:00:01",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/what_happens_when_you_give_up_caffeine_slideshow/1800ss_getty_rf_woman_drinking_water-e82.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI",
+            "link": "https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/",
+            "description": "The departures are a blow for Thinking Machines Lab. Two narratives are already emerging about why they happened.",
+            "pubDate": "2026-01-15T00:40:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "The FTC’s data-sharing order against GM is finally settled",
+            "link": "https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/",
+            "description": "The order, first proposed a year ago, bans GM from collecting and then selling geolocation data to third parties, like data brokers and insurance comp...",
+            "pubDate": "2026-01-15T00:27:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Microsoft taps India’s Varaha for durable carbon removal offtake",
+            "link": "https://techcrunch.com/2026/01/15/microsoft-taps-indias-varaha-for-asia-first-durable-carbon-removal-offtake/",
+            "description": "Microsoft is buying over 100,000 tons of carbon dioxide removal credits from India's Varaha over the next three years.",
+            "pubDate": "2026-01-15T09:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
+            "link": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
+            "description": "The abrupt change in personnel was in the works for several weeks, according to an OpenAI executive.",
+            "pubDate": "2026-01-15T02:16:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Good News in History, January 15",
+            "link": "https://www.goodnewsnetwork.org/events070115/",
+            "description": "25 years ago today, Jimmy Wales and Larry Sanger launched Wikipedia. The collaborative online encyclopedia created and maintained by a community of vo...",
+            "pubDate": "2026-01-15T08:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Our Favorite Coway Air Purifiers Are on Sale (2026)",
+            "link": "https://www.wired.com/story/coway-air-purifier-deals-january-2026/",
+            "description": "Breathe easier with these discounts on one of WIRED’s favorite air purifier brands, including an option for large rooms.",
+            "pubDate": "2026-01-15T10:02:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Wikipedia’s Existential Threats Feel Greater Than Ever",
+            "link": "https://www.wired.com/story/wikipedias-existential-threats-have-never-been-greater/",
+            "description": "As the free online encyclopedia turns 25, it’s facing political opposition, AI scraping, dwindling volunteers, and a public that may no longer believe...",
+            "pubDate": "2026-01-15T10:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Lizn Hearpieces Review: Affordable but Uncomfortable Hearing Aids",
+            "link": "https://www.wired.com/review/lizn-hearpieces/",
+            "description": "These odd-looking hearing aids double as solid earbuds, but comfort is a major issue.",
+            "pubDate": "2026-01-15T10:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
+            "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
+            "description": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
+            "pubDate": "2026-01-15T00:04:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "What to do if a boarding pass isn’t marked TSA PreCheck",
+            "link": "https://thepointsguy.com/airline/what-to-do-if-a-boarding-pass-isnt-marked-tsa-precheck/",
+            "description": "Here's what you need to know about adding TSA PreCheck to your boarding pass.",
+            "pubDate": "2026-01-14T22:00:03",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/07/TSA-PRECHECK_Patrick-T.-FallonBloomberg-via-Getty-Images.jpg"
+        },
         {
             "title": "4 Ingredient Artisan Bread",
             "link": "https://therecipecritic.com/artisan-bread/",
             "description": "My 4-ingredient artisan bread is simple, rustic, and completely bakery-worthy. With just flour, water, yeast, and salt, you’ll get a loaf with…",
             "pubDate": "2026-01-14T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/4-ingredient-artisan-bread.jpg"
-        },
-        {
-            "title": "Are you eligible for a new Bilt Rewards card welcome offer? Your biggest Bilt card questions answered",
-            "link": "https://thepointsguy.com/credit-cards/bilt-card-biggest-questions-answered/",
-            "description": "Bilt Card 2.0 is here, and new and existing Bilt Rewards members have questions about the transition. We answer what you need to know about the new Bi...",
-            "pubDate": "2026-01-14T17:40:09",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/01/Woman-on-phone-with-credit-card-and-laptop_Alexandr-Dubynin.jpg"
-        },
-        {
-            "title": "Steps You Can Take to Prevent Prediabetes",
-            "link": "https://www.webmd.com/diabetes/stop-prediabetes-progression",
-            "description": "",
-            "pubDate": "2026-01-14T15:55:01",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_riding_bicycle_other/1800x1200_mature_man_riding_bicycle_other_alt.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "This stunning Park Hyatt in Japan's premier ski destination has points availability this season: Here's what to know",
@@ -33,27 +110,6 @@
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/Park-Hyatt-Niseko-Hanazono_HYATT.jpg"
         },
         {
-            "title": "United taps former Apple, Delta executive as its new MileagePlus chief; Vasu Raja is back",
-            "link": "https://thepointsguy.com/news/united-airlines-mileageplus-chief-jarad-fisher/",
-            "description": "United Airlines is bringing in a former Apple and Delta Air Lines leader to lead MileagePlus. Former American Airlines CCO Vasu Raja is also joining t...",
-            "pubDate": "2026-01-14T18:35:49",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/05/UnitedPolaris_1.jpg"
-        },
-        {
-            "title": "What is Bilt Cash? How to earn and redeem this new reward currency",
-            "link": "https://thepointsguy.com/credit-cards/bilt-cash-earn-and-redeem/",
-            "description": "Bilt Cash is a new rewards currency that you can earn and redeem within the Bilt Rewards program. Here's what you should know about earning and redeem...",
-            "pubDate": "2026-01-14T18:10:58",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/01/Bilt-Q1-26-Bilt-Obsidian_market-1.jpg"
-        },
-        {
-            "title": "How Much Water Should You Drink Every Day?",
-            "link": "https://www.webmd.com/diet/how-much-water-to-drink",
-            "description": "",
-            "pubDate": "2026-01-14T15:55:01",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/what_happens_when_you_give_up_caffeine_slideshow/1800ss_getty_rf_woman_drinking_water-e82.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "New Atmos Rewards card offers: Earn bonus points and a Companion Fare for Alaska and Hawaiian flights",
             "link": "https://thepointsguy.com/credit-cards/alaska-atmos-rewards-current-offers/",
             "description": "Atmos Rewards credit cards offer big bonuses for Alaska Airlines and Hawaiian Airlines travelers looking to earn points to redeem for award flights.",
@@ -61,11 +117,46 @@
             "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/08/An-Alaska-Airlines-airplane-and-a-Hawaiian-Airlines-airplane-at-Los-Angeles-International-Airport-LAX-in-Los-Angeles-California_Eric-ThayerBloomberg-via-Getty-Images.jpg"
         },
         {
-            "title": "Introducing Embody: Sustainable Strategies for Healthy Weight",
-            "link": "https://www.webmd.com/diet/features/webmd-launches-embody-health-weight-loss",
-            "description": "Embody combines science, strategies, and personal stories to support your health goals. Find expert guidance for weight management, nutrition, movemen...",
-            "pubDate": "2026-01-14T15:55:01",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1800x1200-Fitness-Basics-Yaeger-Sprinkle-Movement-Woman-Dancing.jpg?resize=484px:*&output-quality=70"
+            "title": "Chase Sapphire Reserve vs. Sapphire Reserve for Business: Which Reserve is right for you?",
+            "link": "https://thepointsguy.com/credit-cards/chase-sapphire-reserve-vs-chase-sapphire-reserve-for-business/",
+            "description": "We analyze the benefits of the Chase Sapphire Reserve and the Chase Sapphire Reserve for Business to help you decide which deserves a spot in your wal...",
+            "pubDate": "2026-01-14T21:00:43",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/2GettyImages-501091692.jpg"
+        },
+        {
+            "title": "Saks files for bankruptcy: Should you use your Amex Platinum Card credit soon?",
+            "link": "https://thepointsguy.com/credit-cards/saks-bankruptcy-amex-platinum-credits/",
+            "description": "Saks Fifth Avenue filed for bankruptcy. Should you use your American Express Platinum Card credit soon?",
+            "pubDate": "2026-01-14T22:10:12",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/02/Beverley-Hills-Saks-Fifth-Avenue-Exrerior_AaronPBauer-GriffinGC-Images.jpg"
+        },
+        {
+            "title": "Rare Twins Born to Mountain Gorilla Family in Virunga National Park",
+            "link": "https://www.goodnewsnetwork.org/rare-twins-born-to-mountain-gorilla-family-in-virunga-national-park/",
+            "description": "The Bageni family has a pair of blue balloons outside their mailbox, after this Congolese gorilla clan welcomed twins. Now numbering 59 individuals, t...",
+            "pubDate": "2026-01-14T12:00:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Just Like After 9-11, Town of Gander Shows Up to Help Stranded Airline Passengers During Ice Storm",
+            "link": "https://www.goodnewsnetwork.org/dozens-from-famous-canadian-town-arrive-to-help-stranded-airline-passengers-just-like-they-did-on-911/",
+            "description": "When an Air Canada flight from Montreal to St. Johns was forced down on the tarmac in a small city during bad weather last week, the passengers were p...",
+            "pubDate": "2026-01-14T14:00:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
+            "link": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
+            "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from emp...",
+            "pubDate": "2026-01-14T22:48:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+            "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+            "description": "The California attorney general has opened a formal investigation into Elon Musk's xAI after its chatbot Grok began generating nonconsensual sexual im...",
+            "pubDate": "2026-01-14T22:42:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Fiancé Surprises His Bride with Wedding Shower in the Preschool Where They First Met as Toddlers",
@@ -75,102 +166,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "App downloads declined again in 2025, but consumer spending soared to nearly $156B",
-            "link": "https://techcrunch.com/2026/01/14/app-downloads-declined-again-in-2025-but-consumer-spending-soared-to-nearly-156b/",
-            "description": "Global app downloads were down, but consumer spending was up to nearly $156B in 2025.",
-            "pubDate": "2026-01-14T20:05:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Verizon Outage Knocks Out US Mobile Service, Including Some 911 Calls",
-            "link": "https://www.wired.com/story/verizon-outage-knocks-out-us-mobile-service-including-some-911-calls/",
-            "description": "A major Verizon outage appeared to impact customers across the United States starting around noon ET on Wednesday. Calls to Verizon customers from oth...",
-            "pubDate": "2026-01-14T18:54:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Digg launches its new Reddit rival to the public",
-            "link": "https://techcrunch.com/2026/01/14/digg-launches-its-new-reddit-rival-to-the-public/",
-            "description": "Digg, a reboot of an earlier social news site, is now relaunching as a Reddit competitor focused on communities.",
-            "pubDate": "2026-01-14T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Trump Doesn’t Need the Proud Boys Anymore",
-            "link": "https://www.wired.com/story/trump-proud-boys-ice/",
-            "description": "In a world where ICE agents are shooting US citizens on the street, the need for militias and extremist groups like the Proud Boys to support far-righ...",
-            "pubDate": "2026-01-14T16:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Rare Twins Born to Mountain Gorilla Family in Virunga National Park",
-            "link": "https://www.goodnewsnetwork.org/rare-twins-born-to-mountain-gorilla-family-in-virunga-national-park/",
-            "description": "The Bageni family has a pair of blue balloons outside their mailbox, after this Congolese gorilla clan welcomed twins. Now numbering 59 individuals, t...",
-            "pubDate": "2026-01-14T12:00:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "AI models are starting to crack high-level math problems",
-            "link": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-            "description": "Since the release of GPT 5.2, AI tools have become inescapable in high-level mathematics.",
-            "pubDate": "2026-01-14T19:10:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later",
-            "link": "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/",
-            "description": "New research has discovered that a neural circuit may explain procrastination. Scientists were able to disrupt this connection using a drug.",
-            "pubDate": "2026-01-14T20:09:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Good News in History, January 14",
-            "link": "https://www.goodnewsnetwork.org/events070114/",
-            "description": "126 years ago today, Tosca debuted in Rome. A mainstay on opera calendars around the world, Giacomo Puccini’s enduring tale of feminine resilience and...",
-            "pubDate": "2026-01-14T08:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin",
-            "link": "https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/",
-            "description": "As Netflix tries to take down YouTube’s dominance in the podcast space, it's getting new originals with Pete Davidson and Michael Irvin.",
-            "pubDate": "2026-01-14T20:57:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Save Big on One of Our Favorite Desk Lamps from Lume Cube",
-            "link": "https://www.wired.com/story/lume-edge-light-deal-126/",
-            "description": "Lume Cube has a variety of marked down lighting products to help revamp your home office.",
-            "pubDate": "2026-01-14T19:48:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Just Like After 9-11, Town of Gander Shows Up to Help Stranded Airline Passengers During Ice Storm",
-            "link": "https://www.goodnewsnetwork.org/dozens-from-famous-canadian-town-arrive-to-help-stranded-airline-passengers-just-like-they-did-on-911/",
-            "description": "When an Air Canada flight from Montreal to St. Johns was forced down on the tarmac in a small city during bad weather last week, the passengers were p...",
-            "pubDate": "2026-01-14T14:00:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Blackstone, General Atlantic-backed Liftoff Mobile files for IPO",
-            "link": "https://techcrunch.com/2026/01/14/blackstone-general-atlantic-backed-liftoff-mobile-files-for-ipo/",
-            "description": "The company offers a platform that helps mobile app developers market their wares and has an army of bankers working on its IPO.",
-            "pubDate": "2026-01-14T19:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
             "title": "Sunken Medieval Cargo Ship Found–The Largest Vessel of Its Kind Ever Found",
             "link": "https://www.goodnewsnetwork.org/sunken-medieval-cargo-ship-found-the-largest-vessel-of-its-kind-ever-found/",
             "description": "For 600 years, the waters off Copenhagen have hidden an exceptional secret. Now, maritime archaeologists from the Viking Ship Museum in Denmark reveal...",
             "pubDate": "2026-01-14T19:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "AI’s Hacking Skills Are Approaching an ‘Inflection Point’",
-            "link": "https://www.wired.com/story/ai-models-hacking-inflection-point/",
-            "description": "AI models are getting so good at finding vulnerabilities that some experts say the tech industry might need to rethink how software is built.",
-            "pubDate": "2026-01-14T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Korean BBQ Sauce",
@@ -205,21 +205,28 @@
             "link": "https://thefoodellers.com/trips/europe/italy/naples/gluten-free-pizza/",
             "description": "If you are gluten-free, you might assume that Naples, the birthplace of pizza, would be difficult, restrictive, or disappointing. The reality is the o...",
             "pubDate": "2026-01-08T16:03:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "What is considered a “normal meal” in different cultures",
-            "link": "https://thefoodellers.com/tips/what-a-normal-meal-looks-like-in-different-cultures/",
-            "description": "People often search for a “normal meal” when they arrive somewhere new. Something familiar enough to feel grounding, but local enough to feel authenti...",
-            "pubDate": "2026-01-06T14:06:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "63 Essential Things to Know Before Visiting Tokyo",
             "link": "https://thefoodellers.com/trips/asia/japan/tokyo/tips/",
             "description": "From trains to table manners, these are the lessons Tokyo quietly teaches travellers. They’re practical, cultural, and often invisible until you get t...",
             "pubDate": "2026-01-06T16:06:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "What is considered a “normal meal” in different cultures",
+            "link": "https://thefoodellers.com/tips/what-a-normal-meal-looks-like-in-different-cultures/",
+            "description": "People often search for a “normal meal” when they arrive somewhere new. Something familiar enough to feel grounding, but local enough to feel authenti...",
+            "pubDate": "2026-01-06T14:06:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "What grocery stores reveal about how people eat",
+            "link": "https://thefoodellers.com/tips/how-grocery-stores-reveal-how-people-eat/",
+            "description": "A grocery store is one of the most revealing places you can walk into when travelling. More than restaurants or cafés, it shows how people actually ea...",
+            "pubDate": "2026-01-06T14:10:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Why lunch is the main meal in some countries",
@@ -227,13 +234,6 @@
             "description": "For many travellers, dinner feels like the main event. It is where expectations concentrate: the moment reserved for something special, social, or mem...",
             "pubDate": "2026-01-06T14:03:29",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "What grocery stores reveal about how people eat",
-            "link": "https://thefoodellers.com/tips/how-grocery-stores-reveal-how-people-eat/",
-            "description": "A grocery store is one of the most revealing places you can walk into when travelling. More than restaurants or cafés, it shows how people actually ea...",
-            "pubDate": "2026-01-06T14:10:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Creamy Curried Black Eyed Pea Soup",
@@ -268,21 +268,21 @@
             "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-07-03T13:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Jobless claims stay low in latest week",
             "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-13T13:33:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Consumer credit growth soars in December",
             "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-07T20:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "U.S. productivity slows down in fourth quarter while unit labor costs accelerate",
@@ -296,7 +296,7 @@
             "link": "https://www.marketwatch.com/story/beyond-to-buy-rights-to-buy-buy-baby-brand-and-reunite-it-with-bed-bath-beyond-4383c6be?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-03T13:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }
