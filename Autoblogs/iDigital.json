@@ -2,8 +2,29 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-15T06:07:48.921377",
+    "lastBuildDate": "2026-01-15T11:02:47.909035",
     "items": [
+        {
+            "title": "The Download: spying on the spies, and promising climate tech",
+            "link": "https://www.technologyreview.com/2026/01/15/1131361/the-download-spying-on-the-spies-and-promising-climate-tech/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the man...",
+            "pubDate": "2026-01-15T13:10:39",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/SBTi_stolle.jpeg"
+        },
+        {
+            "title": "Skild AI raises $1.4B to build ‘omni-bodied’ robot brain",
+            "link": "https://www.therobotreport.com/skild-ai-raises-1-4b-building-omni-bodied-robot-skild-brain/",
+            "description": "Skild AI has received investment from SoftBank, NVIDIA, Bezos Expeditions, and more as it builds a brain to operate any robot. The post Skild AI raise...",
+            "pubDate": "2026-01-15T15:25:47",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Skild_AI-funding.jpg"
+        },
+        {
+            "title": "Three climate technologies breaking through in 2026",
+            "link": "https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/",
+            "description": "Happy New Year! I know it’s a bit late to say, but it never quite feels like the year has started until the new edition of our 10 Breakthrough Technol...",
+            "pubDate": "2026-01-15T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
         {
             "title": "The Download: next-gen nuclear, and the data center backlash",
             "link": "https://www.technologyreview.com/2026/01/14/1131317/the-download-next-gen-nuclear-and-the-data-center-backlash/",
@@ -30,14 +51,7 @@
             "link": "https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/",
             "description": "Behold, the hyperscale data center! Massive structures, with thousands of specialized computer chips running in parallel to perform the complex calcul...",
             "pubDate": "2026-01-14T11:17:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "X Square Robot secures $140M in funding for AI foundation models",
-            "link": "https://www.therobotreport.com/x-square-robot-secures-140m-in-funding-for-ai-foundation-models/",
-            "description": "X Square Robot has raised $140 million to build the WALL-A model for general-purpose robots just four months after raising $100 million. The post X Sq...",
-            "pubDate": "2026-01-13T19:36:55",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/X-square-quanta-x2.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "CES 2026 robotics recap; industry experts make predictions",
@@ -47,20 +61,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/chris-ahti-headshots.jpg"
         },
         {
-            "title": "A3 releases full three-part national safety standard for industrial robots",
-            "link": "https://www.therobotreport.com/now-available-full-403-page-ansi-a3-r15-06-2025-robot-safety-standard/",
-            "description": "A3 has published a comprehensive three-part national safety standard governing the manufacture, integration, and use of industrial robotics. The post ...",
-            "pubDate": "2026-01-13T19:58:50",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/robots-production-AI-featured.jpg"
-        },
-        {
-            "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-            "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-            "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification...",
-            "pubDate": "2026-01-13T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
-        },
-        {
             "title": "The Download: sodium-ion batteries and China’s bright tech future",
             "link": "https://www.technologyreview.com/2026/01/13/1131245/the-download-sodium-ion-batteries-and-chinas-bright-tech-future/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sodium-ion b...",
@@ -68,39 +68,11 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f648.png"
         },
         {
-            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
-            "pubDate": "2026-01-12T11:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
-        },
-        {
-            "title": "CES showed me why Chinese tech companies feel so optimistic",
-            "link": "https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/",
-            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I decided to...",
-            "pubDate": "2026-01-12T17:01:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/AP26008139270328.jpg?w=2667"
-        },
-        {
-            "title": "Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim",
-            "link": "https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/",
-            "description": "Emissions from air freight have increased by 25% since 2019, according to a 2024 analysis by environmental advocacy organization Stand.Earth. The rese...",
-            "pubDate": "2026-01-12T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-            "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-            "description": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model ...",
-            "pubDate": "2026-01-07T20:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30"
-        },
-        {
-            "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-            "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-            "description": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the enginee...",
-            "pubDate": "2026-01-05T07:45:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6VsJWNsStTR57q9vFd5L08/a0d88b4dcbd1e9ba77fd72a9c55988d9/nuneybits_Vector_art_of_programmer_conducting_robot_orchestra_i_908157a9-d44f-4bce-b390-5913b88dad27.webp?w=300&q=30"
+            "title": "A3 releases full three-part national safety standard for industrial robots",
+            "link": "https://www.therobotreport.com/now-available-full-403-page-ansi-a3-r15-06-2025-robot-safety-standard/",
+            "description": "A3 has published a comprehensive three-part national safety standard governing the manufacture, integration, and use of industrial robotics. The post ...",
+            "pubDate": "2026-01-13T19:58:50",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/robots-production-AI-featured.jpg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -110,13 +82,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
@@ -124,11 +89,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -136,6 +101,13 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
