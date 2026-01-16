@@ -2,14 +2,21 @@
     "title": "Individual feed for https://rss.politico.com/economy.xml",
     "link": "https://rss.politico.com/economy.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-01-16T11:08:17.986696",
+    "lastBuildDate": "2026-01-16T16:05:28.553029",
     "items": [
+        {
+            "title": "Americans give Trump low marks on handling of economy as midterms likely to center on affordability",
+            "link": "https://www.politico.com/news/2026/01/16/cnn-poll-americans-trump-economy-affordability-00733331",
+            "description": "Sixty-one percent of voters told a CNN poll released Friday that they disapprove of the way Trump is handling the economy.",
+            "pubDate": "2026-01-16T16:21:41",
+            "image_url": "https://static.politico.com/68/b2/5b9d44ab4d0c8b17f4ef174553ab/trump-99151.jpg"
+        },
         {
             "title": "Capitol agenda: Trump tests GOP with Fed probe",
             "link": "https://www.politico.com/live-updates/2026/01/12/congress/trump-gop-doj-fed-jerome-powell-00721769",
             "description": "",
             "pubDate": "2026-01-12T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Vance tries to thread affordability needle in Rust Belt",
@@ -31,13 +38,6 @@
             "description": "In races across the country, Democrats focused on promises to make life more affordable — even as they offered contrasting approaches.",
             "pubDate": "2025-12-12T11:45:00",
             "image_url": "https://static.politico.com/63/ba/9d9ff056446c8dc21621feff8ac9/election-2025-miami-mayor-23341.jpg"
-        },
-        {
-            "title": "Voters sour on Trump’s handling of the economy in new poll",
-            "link": "https://www.politico.com/news/2025/12/11/trump-economy-ap-poll-00686464",
-            "description": "The White House plans to make affordability a key selling point for Republicans across the board as the 2026 midterm elections come into focus.",
-            "pubDate": "2025-12-11T15:38:17",
-            "image_url": "https://static.politico.com/bf/ae/813166f249a1b1a866642d1f9453/https-delivery-gettyimages.com/downloads/2250509568"
         }
     ]
 }
