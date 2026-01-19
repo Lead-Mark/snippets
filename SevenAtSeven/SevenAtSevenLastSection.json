@@ -2,42 +2,98 @@
     "title": "SevenAtSevenLastSection",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenLastSection, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-16T16:03:52.758273",
+    "lastBuildDate": "2026-01-19T07:18:42.151010",
     "items": [
+        {
+            "title": "How Much Water Should You Drink Every Day?",
+            "link": "https://www.webmd.com/diet/how-much-water-to-drink",
+            "description": "",
+            "pubDate": "2026-01-19T07:06:06",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/what_happens_when_you_give_up_caffeine_slideshow/1800ss_getty_rf_woman_drinking_water-e82.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Steps You Can Take to Prevent Prediabetes",
+            "link": "https://www.webmd.com/diabetes/stop-prediabetes-progression",
+            "description": "",
+            "pubDate": "2026-01-19T07:06:06",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_riding_bicycle_other/1800x1200_mature_man_riding_bicycle_other_alt.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "A Must-Read about Health Inequity and Harm Reduction",
+            "link": "https://bookriot.com/under-the-skin-by-linda-villarosa/",
+            "description": "Linda Villarosa's Pulitzer Prize-winning look at the hidden toll of racism on the health of Americans is a searing wake-up call.",
+            "pubDate": "2026-01-19T11:04:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2026/01/medical-equipment.jpg.optimal.jpg"
+        },
+        {
+            "title": "Judge These Books By Their Covers: Read a Book from a “Best Book Covers” List",
+            "link": "https://bookriot.com/books-on-best-book-covers-lists/",
+            "description": "Go ahead. Judge these books by their covers because their covers are among the best of the best.",
+            "pubDate": "2026-01-19T11:00:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/12/read-harder-book-cover.jpg.optimal.jpg"
+        },
+        {
+            "title": "11 Romances Set Around the World",
+            "link": "https://bookriot.com/romances-set-around-the-world/",
+            "description": "Expand your romance reading horizons with these romances set around the world, from the beaches of Viet Nam to Joseon dynasty Korea.",
+            "pubDate": "2026-01-19T11:02:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2026/01/romances-set-around-the-world.jpg.optimal.jpg"
+        },
+        {
+            "title": "Sheep Solve Hugh Jackman’s Murder!",
+            "link": "https://bookriot.com/sheep-solve-hugh-jackmans-murder/",
+            "description": "A tour of Louise Penny's book collection, cozy crime dramas to watch right now, and more mystery news and links",
+            "pubDate": "2026-01-19T11:03:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2026/01/mystery-news-011926.jpg.optimal.jpg"
+        },
+        {
+            "title": "Introducing Embody: Sustainable Strategies for Healthy Weight",
+            "link": "https://www.webmd.com/diet/features/webmd-launches-embody-health-weight-loss",
+            "description": "Embody combines science, strategies, and personal stories to support your health goals. Find expert guidance for weight management, nutrition, movemen...",
+            "pubDate": "2026-01-19T07:06:06",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1800x1200-Fitness-Basics-Yaeger-Sprinkle-Movement-Woman-Dancing.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Exciting New and Recent Middle Grade Novels",
+            "link": "https://bookriot.com/new-and-recent-middle-grade-novels-winter-2026/",
+            "description": "These new and recent middle grade novels feature kids figuring out school and friendships, solving family mysteries, and more.",
+            "pubDate": "2026-01-19T11:01:00",
+            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2026/01/new-recent-middle-grade-2026.jpg.optimal.jpg"
+        },
+        {
+            "title": "Amazon Sundays: The Spring Break Prep",
+            "link": "https://juliaberolzheimer.com/2026/01/amazon-sundays-the-spring-break-prep/",
+            "description": "Spring break packing is less about “what to bring” and more about what keeps the trip running smoothly with everyday… The post Amazon Sundays: The Spr...",
+            "pubDate": "2026-01-18T05:00:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Slow Cooker Bourbon Meatballs",
+            "link": "https://therecipecritic.com/slow-cooker-bourbon-meatballs/",
+            "description": "Slow cooker bourbon meatballs are an easy, set-it-and-forget-it favorite. Frozen meatballs simmer in a sweet, sticky bourbon sauce, making them…",
+            "pubDate": "2026-01-17T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/bourbon-meatballs-.jpg"
+        },
+        {
+            "title": "How ICE Agent Who Killed Renee Good Could Face State Charges",
+            "link": "https://www.themarshallproject.org/2026/01/17/ice-minnesota-officer-renee-good",
+            "description": "Prosecutors would have to overcome many legal obstacles, from the officer’s possible immunity claims to the laws that govern deadly use of force.",
+            "pubDate": "2026-01-17T17:00:00",
+            "image_url": "https://mirrorball.themarshallproject.org/4bh6wh1HcM-QgXhaJc49dyqkROfvq45GaUf3niifrak/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC8zM28xMmlzYzcw/dHZpdTE2eGxoamlo/c2t4aXh0LzI2MDEx/Nl9JbWFnbl9DQUVT/U0FZMDExN19oZWFk/ZXIuanBn"
+        },
+        {
+            "title": "How to Wear Leopard",
+            "link": "https://juliaberolzheimer.com/2026/01/how-to-wear-leopard/",
+            "description": "Leopard remains one of fashion’s most reliable prints because it changes with you. It can read polished, playful, graphic, or… The post How to Wear Le...",
+            "pubDate": "2026-01-17T05:00:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
         {
             "title": "Nordstrom: The Beauty I’d Restock If I Lost My Bag",
             "link": "https://juliaberolzheimer.com/2026/01/nordstrom-the-beauty-id-restock-if-i-lost-my-bag/",
             "description": "Thank you to Nordstrom for sponsoring this post. These are the products I’d replace first because they shape how my… The post Nordstrom: The Beauty I’...",
             "pubDate": "2026-01-16T05:00:38",
             "image_url": "https://juliaberolzheimer.com/wp-content/uploads/2026/01/20260113-jb-nordstrom-2.jpg"
-        },
-        {
-            "title": "How Much Water Should You Drink Every Day?",
-            "link": "https://www.webmd.com/diet/how-much-water-to-drink",
-            "description": "",
-            "pubDate": "2026-01-16T15:55:03",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/what_happens_when_you_give_up_caffeine_slideshow/1800ss_getty_rf_woman_drinking_water-e82.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "This Debut Novel Makes a Great Read for the Early New Year",
-            "link": "https://bookriot.com/the-names-by-florence-knapp/",
-            "description": "What's the meaning of a name? In this debut novel, three name options for a baby boy open up three potential futures for him and his family.",
-            "pubDate": "2026-01-16T12:00:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2026/01/the-names-book-cover.jpg.optimal.jpg"
-        },
-        {
-            "title": "7+ Court Cases About Book Bans to Watch in 2026: Book Censorship News, January 16, 2026",
-            "link": "https://bookriot.com/court-cases-about-book-bans-2026/",
-            "description": "Are library books considered \"government speech?\" Can a public library ban LGBTQ+ books? Seven book censorship court cases to watch in 2026.",
-            "pubDate": "2026-01-16T13:15:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2024/08/site-book-censorship-image.jpg.optimal.jpg"
-        },
-        {
-            "title": "Introducing Embody: Sustainable Strategies for Healthy Weight",
-            "link": "https://www.webmd.com/diet/features/webmd-launches-embody-health-weight-loss",
-            "description": "Embody combines science, strategies, and personal stories to support your health goals. Find expert guidance for weight management, nutrition, movemen...",
-            "pubDate": "2026-01-16T15:55:03",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1800x1200-Fitness-Basics-Yaeger-Sprinkle-Movement-Woman-Dancing.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "Weekly Meal Plan #73",
@@ -47,32 +103,18 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/Week-73-Meal-Plan-Collage-.jpg"
         },
         {
-            "title": "Think Spring With These Nonfiction Nature Reads",
-            "link": "https://bookriot.com/nonfiction-nature-reads/",
-            "description": "While winter will be with us for a while still, these fantastic works of nonfiction about nature remind us of the spring waiting around the corner.",
-            "pubDate": "2026-01-16T11:30:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2026/01/image-of-a-book-stack-surrounded-by-butterflies-and-flowers.jpg.optimal.jpg"
+            "title": "It’s Hard to Stay Motivated When You’re Facing ‘Death by Incarceration’",
+            "link": "https://www.themarshallproject.org/2026/01/16/lamarr-knox-new-york-prison-politics",
+            "description": "LaMarr W. Knox on stalled prison reform measures: “In New York prisons, hope is nonexistent because so many of us are loaded up with long sentences.”",
+            "pubDate": "2026-01-16T11:00:00",
+            "image_url": "https://mirrorball.themarshallproject.org/nhU4uwEvG1iUFmzaLFm17Mwbk4FOVjZ7nTHLf3xAso8/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC9oYjhxMXRqcHps/a202aG1xYmhreXdk/ZGEwdjllL0xlZV9M/SS5SRUZPUk1ESVNB/UFBPSU5UTUVOVF9o/ZWFkZXJfMjUxMjAy/LmpwZw"
         },
         {
-            "title": "Book Riot’s Deals of the Day for January 16, 2026",
-            "link": "https://bookriot.com/book-riots-deals-of-the-day-for-january-16-2026/",
-            "description": "Wilderness horror, queer romantic adventure in Georgian London, a Gothic witchy thriller, and more of today's best book deals",
-            "pubDate": "2026-01-16T17:16:49",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2026/01/deals-011625.jpg.optimal.jpg"
-        },
-        {
-            "title": "Steps You Can Take to Prevent Prediabetes",
-            "link": "https://www.webmd.com/diabetes/stop-prediabetes-progression",
-            "description": "",
-            "pubDate": "2026-01-16T15:55:03",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/mature_man_riding_bicycle_other/1800x1200_mature_man_riding_bicycle_other_alt.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "The Most-Anticipated Books of 2026 and More News For Library Workers",
-            "link": "https://bookriot.com/news-for-library-workers-january-2026/",
-            "description": "From excellent book club picks for 2026 to the state of young adult literature, catch up with the latest news for library workers.",
-            "pubDate": "2026-01-16T11:45:00",
-            "image_url": "https://s2982.pcdn.co/wp-content/uploads/2025/10/library-check-out.jpg.optimal.jpg"
+            "title": "After Haitians Endured Campaign Lies, An Ohio Town Prepares For ICE",
+            "link": "https://www.themarshallproject.org/2026/01/16/immigration-springfield-haitian-tps-ice",
+            "description": "Falsely accused of eating pets, and worse, Haitians in Springfield have survived harassment, and now fear deportation.",
+            "pubDate": "2026-01-16T11:00:10",
+            "image_url": "https://mirrorball.themarshallproject.org/HEB-VdFwLriNBt-JEyQJr2G9mwTgZSxsj3X-WkeW-gY/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC9qbnhhOG42OWE0/OWt6ODBiOGg0cmYx/aHA5ZWVkLzI2MDEx/Ml9NTWNHYXJ2ZXlf/SEFJVElBTlMtU1BS/SU5HRklFTEQtMS5q/cGc"
         },
         {
             "title": "Marry Me Stuffed Shells",
@@ -89,20 +131,6 @@
             "image_url": "https://juliaberolzheimer.com/wp-content/uploads/2026/01/20260114-outfitformulas-2.jpg"
         },
         {
-            "title": "4 Ingredient Artisan Bread",
-            "link": "https://therecipecritic.com/artisan-bread/",
-            "description": "My 4-ingredient artisan bread is simple, rustic, and completely bakery-worthy. With just flour, water, yeast, and salt, you’ll get a loaf with…",
-            "pubDate": "2026-01-14T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/4-ingredient-artisan-bread.jpg"
-        },
-        {
-            "title": "16 Tops For A Night Out",
-            "link": "https://juliaberolzheimer.com/2026/01/16-tops-for-a-night-out/",
-            "description": "La DoubleJ Coat, Demaris Bailey Top, Frame Jeans, Prada Pumps (available in other colors here), Valentino Bag, Sometimes an evening look starts… The p...",
-            "pubDate": "2026-01-14T05:00:07",
-            "image_url": "https://juliaberolzheimer.com/wp-content/uploads/2026/01/20251227-jb-ladoublej-coat-damaris-top-frame-jeans-1000332-1024x1536.jpg"
-        },
-        {
             "title": "The 7-Day Daily Looks Challenge",
             "link": "https://juliaberolzheimer.com/2026/01/daily-looks-challenge/",
             "description": "Day 1: Finish The Look Add one extra \"finishing touch\" you'd usually skip. Day 2: Repeat Player Style something you… The post The 7-Day Daily Looks Ch...",
@@ -110,11 +138,11 @@
             "image_url": "https://juliaberolzheimer.com/wp-content/themes/gadabout-base-theme/img/icon-left-arrow@2x.png"
         },
         {
-            "title": "Mississippi Prison Killings Have Not Stopped. 5 Things to Know.",
-            "link": "https://www.themarshallproject.org/2026/01/13/mississippi-prison-deaths-investigation",
-            "description": "Over 10 years, the reasons for the killings are often the same: Severe understaffing, lax oversight and gang violence.",
-            "pubDate": "2026-01-13T11:00:00",
-            "image_url": "https://mirrorball.themarshallproject.org/Qfd8LkK58nYb6GP4kJB_4J8I1-ebGercdByDsKmrJXw/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC9wNWliMGhnNXQx/NXBudThvems3cnNy/dDVudmFuLzI2MDEx/M19KQUMtTVMtUFJJ/U09OUy01LVRBS0VB/V0FZUy12Mi5qcGc"
+            "title": "4 Ingredient Artisan Bread",
+            "link": "https://therecipecritic.com/artisan-bread/",
+            "description": "My 4-ingredient artisan bread is simple, rustic, and completely bakery-worthy. With just flour, water, yeast, and salt, you’ll get a loaf with…",
+            "pubDate": "2026-01-14T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/4-ingredient-artisan-bread.jpg"
         },
         {
             "title": "Korean BBQ Sauce",
@@ -124,18 +152,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/green-chili-dip-2.jpg"
         },
         {
-            "title": "Crack Tater Tot Casserole",
-            "link": "https://therecipecritic.com/crack-tater-tot-casserole/",
-            "description": "Crack tater tot casserole is bold, cozy, and a little bit addictive, in the best way! Creamy, cheesy, and topped…",
-            "pubDate": "2026-01-12T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/crack-casserole.jpg"
-        },
-        {
-            "title": "Boots: Four Must-Have Styles for 2026",
-            "link": "https://juliaberolzheimer.com/2026/01/boots-four-must-have-styles-for-2026/",
-            "description": "This season’s boots do more than finish an outfit, they set the tone. Texture, height, and subtle statement details define… The post Boots: Four Must-...",
-            "pubDate": "2026-01-12T05:00:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Mississippi Prison Killings Have Not Stopped. 5 Things to Know.",
+            "link": "https://www.themarshallproject.org/2026/01/13/mississippi-prison-deaths-investigation",
+            "description": "Over 10 years, the reasons for the killings are often the same: Severe understaffing, lax oversight and gang violence.",
+            "pubDate": "2026-01-13T11:00:00",
+            "image_url": "https://mirrorball.themarshallproject.org/Qfd8LkK58nYb6GP4kJB_4J8I1-ebGercdByDsKmrJXw/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC9wNWliMGhnNXQx/NXBudThvems3cnNy/dDVudmFuLzI2MDEx/M19KQUMtTVMtUFJJ/U09OUy01LVRBS0VB/V0FZUy12Mi5qcGc"
         },
         {
             "title": "New York Prisons Are Getting More Cameras. Will It Make Them Safer?",
@@ -145,53 +166,11 @@
             "image_url": "https://mirrorball.themarshallproject.org/hPBR7VxTUvgx53F_ALNG5ieAJsRnxq1HULLNvPAaSus/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC92cjlrOWRiazhq/bzYwZ3pyemg4N2t3/YzFvNnVpLzI2MDEx/MF9BUF9DQUVTU0FZ/MDExMF9oZWFkZXIu/anBn"
         },
         {
-            "title": "Before ICE Shooting, Immigration Agents Repeatedly Used Deadly Force",
-            "link": "https://www.themarshallproject.org/2026/01/07/ice-minneapolis-shooting-renee-good",
-            "description": "The killing of a Minneapolis woman is latest by ICE and Border Patrol officers in recent months. Others have been wounded or threatened with guns.",
-            "pubDate": "2026-01-08T02:40:41",
-            "image_url": "https://mirrorball.themarshallproject.org/YlHeadIp88V_C3WmZbwXoJFUmm2PYyWEWT4DKeY6yx8/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC92c3R3b3lvZ3E4/eDUzdHc5NG5ncDB3/cjZlYXo0L0lDRS1H/VU5TLU1TUC1TaG9v/dGluZ19BUC0wMTA3/LmpwZw"
-        },
-        {
-            "title": "How Missouri Denied Condemned Men Spiritual Advisers at Their Deaths",
-            "link": "https://www.themarshallproject.org/2026/01/08/spiritual-advisers-executions-missouri",
-            "description": "“We’re talking about constitutional rights in someone’s dying moments,” one advocate said.",
-            "pubDate": "2026-01-08T11:00:00",
-            "image_url": "https://mirrorball.themarshallproject.org/jn7CCe3EVXPhomsTXWAk1twedo2gpoSIZJac7Q34LXc/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC9yNng3d250M3Rk/cDlrcnVkMHd2dXE3/N3UwcGI5L01jTmFt/YXJhX1NwaXJpdHVh/bC1BZHZpc29ycy1F/eGVjdXRpb25fMjUx/MjAzX2hlYWRlcl9I/SVJFUy5qcGc"
-        },
-        {
             "title": "The Other Project We’re Starting…",
             "link": "https://www.younghouselove.com/digitize-old-photos-project/",
             "description": "Our big renovation project isn't anywhere close to done (it just started this week, and Sherry's sharing peeks over on Instagram in stories) but I've ...",
             "pubDate": "2026-01-07T19:56:23",
             "image_url": "https://www.younghouselove.com/wp-content/uploads/2026/01/Photo-Ablum-Cabinet-Before-Closed-Featured-650x541.jpg"
-        },
-        {
-            "title": "Who’s in Ohio’s Psychiatric Hospitals, How Did They Get There and When Do They Get Out?",
-            "link": "https://www.themarshallproject.org/2026/01/07/ohio-psychiatric-hospital-rising-criminal-patients",
-            "description": "Criminal defendants are overwhelming an understaffed state mental health system that, a few years ago, served thousands more patients.",
-            "pubDate": "2026-01-07T11:00:00",
-            "image_url": "https://mirrorball.themarshallproject.org/XGpG04N7ujUozAUbWNXZSr1CNuwEhHpUeP94eGWpsjQ/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC96ajV0bTZiMGZt/M2s3Y3k3NGV6emkx/dHRzZjJuLzI1MTIw/NF9NVm9nZWxfQ0xF/LVBTWUNIX0Zlcmd1/c29uLTMuanBn"
-        },
-        {
-            "title": "17 Good Questions To Ask A Recruiter In 2026",
-            "link": "https://careersherpa.net/questions-to-ask-recruiters/?utm_source=rss&utm_medium=rss&utm_campaign=questions-to-ask-recruiters",
-            "description": "Knowing the best questions to ask recruiters can make your job search simpler and save time for everyone involved. But a lot of job-seekers aren’t sur...",
-            "pubDate": "2026-01-04T08:25:48",
-            "image_url": "https://careersherpa.net/wp-content/uploads/2022/08/questions-to-ask-a-recruiter.png"
-        },
-        {
-            "title": "33 Best Job Search Websites To Use In 2026",
-            "link": "https://careersherpa.net/best-job-search-websites/?utm_source=rss&utm_medium=rss&utm_campaign=best-job-search-websites",
-            "description": "When starting a job search, the obvious first step is to find jobs so you can apply. Well, that’s what this list is for. Table of contents The Best Jo...",
-            "pubDate": "2026-01-04T20:26:32",
-            "image_url": "http://careersherpa.net/wp-content/uploads/2021/08/the-best-job-search-websites.png"
-        },
-        {
-            "title": "The 29 Best Jobs For People With Social Anxiety In 2026",
-            "link": "https://careersherpa.net/jobs-for-people-with-social-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=jobs-for-people-with-social-anxiety",
-            "description": "In this day and age there are a number of good jobs for people with social anxiety. The variety of positions in the job market and a rise in remote wo...",
-            "pubDate": "2026-01-04T19:01:00",
-            "image_url": "https://careersherpa.net/wp-content/uploads/2023/08/jobs-for-people-with-social-anxiety.png"
         },
         {
             "title": "The 29 Best Recession Proof Jobs To Have In 2026",
@@ -201,11 +180,32 @@
             "image_url": "https://careersherpa.net/wp-content/uploads/2022/05/recession-proof-jobs.png"
         },
         {
+            "title": "33 Best Job Search Websites To Use In 2026",
+            "link": "https://careersherpa.net/best-job-search-websites/?utm_source=rss&utm_medium=rss&utm_campaign=best-job-search-websites",
+            "description": "When starting a job search, the obvious first step is to find jobs so you can apply. Well, that’s what this list is for. Table of contents The Best Jo...",
+            "pubDate": "2026-01-04T20:26:32",
+            "image_url": "http://careersherpa.net/wp-content/uploads/2021/08/the-best-job-search-websites.png"
+        },
+        {
             "title": "How To Work With A Recruiter To Find A Job In 2026",
             "link": "https://careersherpa.net/working-with-a-recruiter/?utm_source=rss&utm_medium=rss&utm_campaign=working-with-a-recruiter",
             "description": "Working with a recruiter is something that many job-seekers consider at some point. After all, having someone help you find a job can be quite appeali...",
             "pubDate": "2026-01-04T08:32:35",
             "image_url": "https://careersherpa.net/wp-content/uploads/2023/05/how-to-work-with-a-recruiter-to-find-a-job.png"
+        },
+        {
+            "title": "The 29 Best Jobs For People With Social Anxiety In 2026",
+            "link": "https://careersherpa.net/jobs-for-people-with-social-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=jobs-for-people-with-social-anxiety",
+            "description": "In this day and age there are a number of good jobs for people with social anxiety. The variety of positions in the job market and a rise in remote wo...",
+            "pubDate": "2026-01-04T19:01:00",
+            "image_url": "https://careersherpa.net/wp-content/uploads/2023/08/jobs-for-people-with-social-anxiety.png"
+        },
+        {
+            "title": "17 Good Questions To Ask A Recruiter In 2026",
+            "link": "https://careersherpa.net/questions-to-ask-recruiters/?utm_source=rss&utm_medium=rss&utm_campaign=questions-to-ask-recruiters",
+            "description": "Knowing the best questions to ask recruiters can make your job search simpler and save time for everyone involved. But a lot of job-seekers aren’t sur...",
+            "pubDate": "2026-01-04T08:25:48",
+            "image_url": "https://careersherpa.net/wp-content/uploads/2022/08/questions-to-ask-a-recruiter.png"
         },
         {
             "title": "30 Non-Material Gift Ideas",
