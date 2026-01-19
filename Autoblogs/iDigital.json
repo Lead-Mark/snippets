@@ -2,14 +2,35 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-19T07:18:54.554332",
+    "lastBuildDate": "2026-01-19T11:02:58.579020",
     "items": [
+        {
+            "title": "The Download: the US digital rights crackdown, and AI companionship",
+            "link": "https://www.technologyreview.com/2026/01/19/1131450/the-download-the-us-digital-rights-crackdown-and-ai-companionship/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What it’s li...",
+            "pubDate": "2026-01-19T13:39:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f1e8-1f1f3.png"
+        },
+        {
+            "title": "Going beyond pilots with composable and sovereign AI",
+            "link": "https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/",
+            "description": "Today marks an inflection point for enterprise AI adoption. Despite billions invested in generative AI, only 5% of integrated pilots deliver measurabl...",
+            "pubDate": "2026-01-19T11:59:33",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Uniphore-Landing-Page-Card.png?w=1200"
+        },
+        {
+            "title": "Chinese robotics outlook for 2026 includes cobot growth, competitive pressure",
+            "link": "https://www.therobotreport.com/chinese-robotics-outlook-2026-includes-growth-competitive-pressure/",
+            "description": "Chinese trends in industrial robots and cobots for 2026 include growing volumes, consolidation pressures, and international expansion. The post Chines...",
+            "pubDate": "2026-01-19T13:23:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2025/10/Unitree_H2.jpg"
+        },
         {
             "title": "What it’s like to be banned from the US for fighting online hate",
             "link": "https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/",
             "description": "It was early evening in Berlin, just a day before Christmas Eve, when Josephine Ballon got an unexpected email from US Customs and Border Protection. ...",
             "pubDate": "2026-01-19T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "The hidden technology behind fluid robot motion",
@@ -26,11 +47,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/botsync-featured-1536x997-1-1024x665.jpg"
         },
         {
-            "title": "The Download: cut through AI coding hype, and biotech trends to watch",
-            "link": "https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI coding is...",
-            "pubDate": "2026-01-16T12:59:42",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f916.png"
+            "title": "IFR names top 5 global robotics trends of 2026",
+            "link": "https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/",
+            "description": "The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity. The post IFR names top...",
+            "pubDate": "2026-01-16T18:13:12",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Robot_Trends_2026-featured.jpg"
         },
         {
             "title": "NEURA Robotics partners with Bosch to advance German-made robotics",
@@ -40,25 +61,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/CES-2026-NEURA-Robotics-Booth-featured.jpg"
         },
         {
-            "title": "IFR names top 5 global robotics trends of 2026",
-            "link": "https://www.therobotreport.com/ifr-top-5-global-robotics-trends-of-2026/",
-            "description": "The IFR has made its predictions of the top 5 robotics industry trends for 2026, including an increased focus on cybersecurity. The post IFR names top...",
-            "pubDate": "2026-01-16T18:13:12",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Robot_Trends_2026-featured.jpg"
-        },
-        {
-            "title": "Humanoid and Siemens proof of concept shows the way to industrial deployments",
-            "link": "https://www.therobotreport.com/humanoid-siemens-proof-of-concept-may-lead-more-industrial-deployments/",
-            "description": "Humanoid successfully demonstrated its HMND 01 Alpha wheeled mobile manipulator at a Siemens production facility in Germany. The post Humanoid and Sie...",
-            "pubDate": "2026-01-16T16:10:17",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/HMND_SIEMENS_featured.jpg"
-        },
-        {
-            "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-            "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-            "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $10...",
-            "pubDate": "2026-01-16T14:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30"
+            "title": "The Download: cut through AI coding hype, and biotech trends to watch",
+            "link": "https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI coding is...",
+            "pubDate": "2026-01-16T12:59:42",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f916.png"
         },
         {
             "title": "Three technologies that will shape biotech in 2026",
@@ -68,53 +75,11 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "The Download: spying on the spies, and promising climate tech",
-            "link": "https://www.technologyreview.com/2026/01/15/1131361/the-download-spying-on-the-spies-and-promising-climate-tech/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the man...",
-            "pubDate": "2026-01-15T13:10:39",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/SBTi_stolle.jpeg"
-        },
-        {
-            "title": "Exclusive eBook: How AGI Became a Consequential Conspiracy Theory",
-            "link": "https://www.technologyreview.com/2026/01/15/1131079/exclusive-ebook-how-agi-became-a-consequential-conspiracy-theory/",
-            "description": "In this exclusive subscriber-only eBook, you’ll learn about how the idea that machines will be as smart as—or smarter than—humans has hijacked an enti...",
-            "pubDate": "2026-01-15T17:16:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-            "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-            "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification...",
-            "pubDate": "2026-01-13T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
-        },
-        {
-            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
-            "pubDate": "2026-01-12T11:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
-        },
-        {
-            "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-            "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-            "description": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model ...",
-            "pubDate": "2026-01-07T20:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30"
-        },
-        {
-            "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-            "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-            "description": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes. For the past week, the enginee...",
-            "pubDate": "2026-01-05T07:45:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6VsJWNsStTR57q9vFd5L08/a0d88b4dcbd1e9ba77fd72a9c55988d9/nuneybits_Vector_art_of_programmer_conducting_robot_orchestra_i_908157a9-d44f-4bce-b390-5913b88dad27.webp?w=300&q=30"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -124,18 +89,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -143,6 +101,13 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
