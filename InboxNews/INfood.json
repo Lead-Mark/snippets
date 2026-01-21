@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-21T07:22:04.993542",
+    "lastBuildDate": "2026-01-21T11:02:51.101716",
     "items": [
+        {
+            "title": "Louisiana Shrimp Dip",
+            "link": "https://therecipecritic.com/louisiana-shrimp-dip/",
+            "description": "My Louisiana shrimp dip is rich, savory, and full of flavor without feeling heavy. You can serve it warm or…",
+            "pubDate": "2026-01-21T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/lousiana-shrimp-dip-2.jpg"
+        },
         {
             "title": "Vegan Gluten-Free Morning Glory Muffins",
             "link": "https://minimalistbaker.com/vegan-gluten-free-morning-glory-muffins/",
@@ -38,13 +45,6 @@
             "description": "Marry me stuffed shells take the viral sauce you love and turn it into a cozy, baked pasta moment. Think creamy…",
             "pubDate": "2026-01-15T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/marry-me-shells-.jpg"
-        },
-        {
-            "title": "4 Ingredient Artisan Bread",
-            "link": "https://therecipecritic.com/artisan-bread/",
-            "description": "My 4-ingredient artisan bread is simple, rustic, and completely bakery-worthy. With just flour, water, yeast, and salt, you’ll get a loaf with…",
-            "pubDate": "2026-01-14T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/4-ingredient-artisan-bread.jpg"
         },
         {
             "title": "Creamy Curried Black Eyed Pea Soup",
