@@ -2,8 +2,29 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-21T16:42:11.400839",
+    "lastBuildDate": "2026-01-22T07:50:30.792521",
     "items": [
+        {
+            "title": "Why 2026 is a hot year for lithium",
+            "link": "https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/",
+            "description": "In 2026, I’m going to be closely watching the price of lithium. If you’re not in the habit of obsessively tracking commodity markets, I certainly don’...",
+            "pubDate": "2026-01-22T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Yann LeCun’s new venture is a contrarian bet against large language models",
+            "link": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
+            "description": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the indus...",
+            "pubDate": "2026-01-22T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Microsoft Research reveals Rho-alpha vision-language-action model for robots",
+            "link": "https://www.therobotreport.com/microsoft-research-reveals-rho-alpha-vision-language-action-model-for-robots/",
+            "description": "The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft. The post Microsoft Res...",
+            "pubDate": "2026-01-21T14:46:39",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Microsoft_Rho-alpha.jpg"
+        },
         {
             "title": "The Download: Trump at Davos, and AI scientists",
             "link": "https://www.technologyreview.com/2026/01/21/1131548/the-download-trump-at-davos-and-ai-scientists/",
@@ -26,13 +47,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Festo-AX-Motion-Insights-featured.jpg"
         },
         {
-            "title": "Microsoft Research reveals Rho-alpha vision-language-action model for robots",
-            "link": "https://www.therobotreport.com/microsoft-research-reveals-rho-alpha-vision-language-action-model-for-robots/",
-            "description": "The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft. The post Microsoft Res...",
-            "pubDate": "2026-01-21T14:46:39",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Microsoft_Rho-alpha.jpg"
-        },
-        {
             "title": "Rethinking AI’s future in an augmented workplace",
             "link": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
             "description": "There are many paths AI evolution could take. On one end of the spectrum, AI is dismissed as a marginal fad, another bubble fueled by notoriety and mi...",
@@ -44,14 +58,7 @@
             "link": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
             "description": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in “sovereign AI,” with the premise being that countries should be in ...",
             "pubDate": "2026-01-21T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "All anyone wants to talk about at Davos is AI and Donald Trump",
-            "link": "https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/",
-            "description": "This story first appeared in The Debrief, our subscriber-only newsletter about the biggest news in tech by Mat Honan, Editor in Chief. Subscribe to re...",
-            "pubDate": "2026-01-21T11:20:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Serve Robotics to acquire hospital logistics provider Diligent Robotics",
@@ -59,13 +66,6 @@
             "description": "Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi. The post Serve Robotics to acquire hospi...",
             "pubDate": "2026-01-20T21:44:36",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/diligent-serve-featured.jpg"
-        },
-        {
-            "title": "Reimagining ERP for the agentic AI era",
-            "link": "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/",
-            "description": "The story of enterprise resource planning (ERP) is really a story of businesses learning to organize themselves around the latest, greatest technology...",
-            "pubDate": "2026-01-20T16:14:14",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_Riminity_2025_CoverV10_121525.png?w=1555"
         },
         {
             "title": "Konnex raises funding to advance robotics-as-a-service offering",
