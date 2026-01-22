@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-22T07:50:30.792521",
+    "lastBuildDate": "2026-01-22T11:03:01.058416",
     "items": [
+        {
+            "title": "The Download: Yann LeCun’s new venture, and lithium’s on the rise",
+            "link": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Yann LeCun’s...",
+            "pubDate": "2026-01-22T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/231102_Subime-Systems_thumb.jpg?w=3000"
+        },
         {
             "title": "Why 2026 is a hot year for lithium",
             "link": "https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/",
@@ -16,7 +23,14 @@
             "link": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
             "description": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the indus...",
             "pubDate": "2026-01-22T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Rethinking AI’s future in an augmented workplace",
+            "link": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
+            "description": "There are many paths AI evolution could take. On one end of the spectrum, AI is dismissed as a marginal fad, another bubble fueled by notoriety and mi...",
+            "pubDate": "2026-01-21T15:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/vanguard-art@300x.png"
         },
         {
             "title": "Microsoft Research reveals Rho-alpha vision-language-action model for robots",
@@ -24,13 +38,6 @@
             "description": "The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft. The post Microsoft Res...",
             "pubDate": "2026-01-21T14:46:39",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Microsoft_Rho-alpha.jpg"
-        },
-        {
-            "title": "The Download: Trump at Davos, and AI scientists",
-            "link": "https://www.technologyreview.com/2026/01/21/1131548/the-download-trump-at-davos-and-ai-scientists/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. All anyone w...",
-            "pubDate": "2026-01-21T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/10/20241017PalmerLuckey0217_2.jpg?w=3000"
         },
         {
             "title": "Boston Dynamics releases Spot and Orbit 5.1 with new Spot Cam",
@@ -47,25 +54,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Festo-AX-Motion-Insights-featured.jpg"
         },
         {
-            "title": "Rethinking AI’s future in an augmented workplace",
-            "link": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
-            "description": "There are many paths AI evolution could take. On one end of the spectrum, AI is dismissed as a marginal fad, another bubble fueled by notoriety and mi...",
-            "pubDate": "2026-01-21T15:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/vanguard-art@300x.png"
-        },
-        {
             "title": "Everyone wants AI sovereignty. No one can truly have it.",
             "link": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
             "description": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in “sovereign AI,” with the premise being that countries should be in ...",
             "pubDate": "2026-01-21T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Serve Robotics to acquire hospital logistics provider Diligent Robotics",
-            "link": "https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/",
-            "description": "Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi. The post Serve Robotics to acquire hospi...",
-            "pubDate": "2026-01-20T21:44:36",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/diligent-serve-featured.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Konnex raises funding to advance robotics-as-a-service offering",
@@ -75,46 +68,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Konnex_02.jpg"
         },
         {
-            "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-            "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-            "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, de...",
-            "pubDate": "2026-01-19T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30"
-        },
-        {
-            "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-            "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-            "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $10...",
-            "pubDate": "2026-01-16T14:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30"
-        },
-        {
-            "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-            "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-            "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification...",
-            "pubDate": "2026-01-13T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
-        },
-        {
-            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
-            "pubDate": "2026-01-12T11:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
-        },
-        {
-            "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-            "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-            "description": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model ...",
-            "pubDate": "2026-01-07T20:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Serve Robotics to acquire hospital logistics provider Diligent Robotics",
+            "link": "https://www.therobotreport.com/serve-robotics-acquires-diligent-robotics/",
+            "description": "Serve Robotics said it hopes to help Diligent Robotics scale deployments of its hospital delivery robot Moxi. The post Serve Robotics to acquire hospi...",
+            "pubDate": "2026-01-20T21:44:36",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/diligent-serve-featured.jpg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -129,6 +87,13 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",

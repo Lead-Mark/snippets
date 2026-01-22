@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-22T07:50:20.929315",
+    "lastBuildDate": "2026-01-22T11:02:50.124519",
     "items": [
+        {
+            "title": "Red Beans and Rice",
+            "link": "https://therecipecritic.com/red-beans-and-rice/",
+            "description": "If your family is hungry now and you don’t have time to soak beans or babysit the stove, this red…",
+            "pubDate": "2026-01-22T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/red-beans-and-rice.jpg"
+        },
         {
             "title": "Louisiana Shrimp Dip",
             "link": "https://therecipecritic.com/louisiana-shrimp-dip/",
@@ -38,13 +45,6 @@
             "description": "There’s a NEW recipe in this weekly meal plan, and it’s already a favorite at my house. This Alfredo Ravioli…",
             "pubDate": "2026-01-16T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/Week-73-Meal-Plan-Collage-.jpg"
-        },
-        {
-            "title": "Marry Me Stuffed Shells",
-            "link": "https://therecipecritic.com/marry-me-stuffed-shells/",
-            "description": "Marry me stuffed shells take the viral sauce you love and turn it into a cozy, baked pasta moment. Think creamy…",
-            "pubDate": "2026-01-15T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2025/12/marry-me-shells-.jpg"
         },
         {
             "title": "Creamy Curried Black Eyed Pea Soup",
