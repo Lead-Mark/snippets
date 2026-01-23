@@ -2,14 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-22T16:41:01.356823",
+    "lastBuildDate": "2026-01-23T07:48:37.023181",
     "items": [
         {
-            "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-            "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-            "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thurs...",
-            "pubDate": "2026-01-22T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30"
+            "title": "America’s coming war over AI regulation",
+            "link": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
+            "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+            "pubDate": "2026-01-23T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Measles is surging in the US. Wastewater tracking could help.",
+            "link": "https://www.technologyreview.com/2026/01/23/1131698/measles-surging-us-wastewater-tracking/",
+            "description": "This week marked a rather unpleasant anniversary: It’s a year since Texas reported a case of measles—the start of a significant outbreak that ended up...",
+            "pubDate": "2026-01-23T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "LivsMed completes Korean IPO to accelerate remote robotic surgery",
@@ -19,13 +26,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/LivsMed-Stark-surgical-robot-Sovato-Telesurgery-1-1.jpg"
         },
         {
-            "title": "The Download: Yann LeCun’s new venture, and lithium’s on the rise",
-            "link": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Yann LeCun’s...",
-            "pubDate": "2026-01-22T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/231102_Subime-Systems_thumb.jpg?w=3000"
-        },
-        {
             "title": "Zipline raises over $600M in funding, surpasses 2M commercial drone deliveries",
             "link": "https://www.therobotreport.com/zipline-raises-over-600m-in-funding-surpasses-2m-commercial-drone-deliveries/",
             "description": "In Houston and Phoenix, eligible customers will soon be able to order tens of thousands of items through the Zipline app. The post Zipline raises over...",
@@ -33,39 +33,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/ziplinedelivery-featured.jpg"
         },
         {
-            "title": "Yann LeCun’s new venture is a contrarian bet against large language models",
-            "link": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
-            "description": "Yann LeCun is a Turing Award recipient and a top AI researcher, but he has long been a contrarian figure in the tech world. He believes that the indus...",
-            "pubDate": "2026-01-22T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "The Download: Yann LeCun’s new venture, and lithium’s on the rise",
+            "link": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Yann LeCun’s...",
+            "pubDate": "2026-01-22T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/231102_Subime-Systems_thumb.jpg?w=3000"
         },
         {
-            "title": "Why 2026 is a hot year for lithium",
-            "link": "https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/",
-            "description": "In 2026, I’m going to be closely watching the price of lithium. If you’re not in the habit of obsessively tracking commodity markets, I certainly don’...",
-            "pubDate": "2026-01-22T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Dispatch from Davos: hot air, big egos and cold flexes",
-            "link": "https://www.technologyreview.com/2026/01/22/1131687/hot-air-cold-flexes-at-davos/",
-            "description": "This story first appeared in The Debrief, our subscriber-only newsletter about the biggest news in tech by Mat Honan, Editor in Chief. Subscribe to re...",
-            "pubDate": "2026-01-22T16:39:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+            "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+            "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thurs...",
+            "pubDate": "2026-01-22T14:00:00",
+            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30"
         },
         {
             "title": "“Dr. Google” had its issues. Can ChatGPT Health do better?",
             "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
             "description": "For the past two decades, there’s been a clear first step for anyone who starts experiencing new medical symptoms: Look them up online. The practice w...",
             "pubDate": "2026-01-22T17:38:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Festo introduces AI-based predictive maintenance platform to improve automation uptime",
-            "link": "https://www.therobotreport.com/festo-introduces-ai-based-predictive-maintenance-platform-improve-automation-uptime/",
-            "description": "Festo said the platform provides flexible deployment options that support on-premises and cloud-based environments. The post Festo introduces AI-based...",
-            "pubDate": "2026-01-21T21:40:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Festo-AX-Motion-Insights-featured.jpg"
+            "title": "Dispatch from Davos: hot air, big egos and cold flexes",
+            "link": "https://www.technologyreview.com/2026/01/22/1131687/hot-air-cold-flexes-at-davos/",
+            "description": "This story first appeared in The Debrief, our subscriber-only newsletter about the biggest news in tech by Mat Honan, Editor in Chief. Subscribe to re...",
+            "pubDate": "2026-01-22T16:39:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Boston Dynamics releases Spot and Orbit 5.1 with new Spot Cam",
@@ -73,6 +66,13 @@
             "description": "Boston Dynamics' updates include an upgraded AI model, enhanced door-opening capabilities, and more. It also announced the product version of Atlas. T...",
             "pubDate": "2026-01-21T18:28:46",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/spot-cam2-illuminated-featured.jpg"
+        },
+        {
+            "title": "Festo introduces AI-based predictive maintenance platform to improve automation uptime",
+            "link": "https://www.therobotreport.com/festo-introduces-ai-based-predictive-maintenance-platform-improve-automation-uptime/",
+            "description": "Festo said the platform provides flexible deployment options that support on-premises and cloud-based environments. The post Festo introduces AI-based...",
+            "pubDate": "2026-01-21T21:40:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Festo-AX-Motion-Insights-featured.jpg"
         },
         {
             "title": "Microsoft Research reveals Rho-alpha vision-language-action model for robots",
@@ -110,18 +110,18 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
