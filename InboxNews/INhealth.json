@@ -2,8 +2,15 @@
     "title": "INhealth",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INhealth, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-23T07:48:53.152827",
+    "lastBuildDate": "2026-01-23T11:04:51.183734",
     "items": [
+        {
+            "title": "Why Potassium Matters for Heart Health",
+            "link": "https://www.webmd.com/heart-disease/potassium-and-your-heart",
+            "description": "",
+            "pubDate": "2026-01-23T07:45:35",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/cleaning_with_bleach_mistakes_youre_making_slideshow/1800ss_getty_rf_washing_tomatoes_alt.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "Understanding the Carnivore Diet",
             "link": "https://www.webmd.com/diet/carnivore-diet",
@@ -19,46 +26,39 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/ice_pick_headaches_bigbead/1800x1200_ice_pick_headaches_bigbead.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Why Potassium Matters for Heart Health",
-            "link": "https://www.webmd.com/heart-disease/potassium-and-your-heart",
-            "description": "",
-            "pubDate": "2026-01-23T07:45:35",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/cleaning_with_bleach_mistakes_youre_making_slideshow/1800ss_getty_rf_washing_tomatoes_alt.jpg?resize=484px:*&output-quality=70"
+            "title": "New Study Shows This Protein Is Crucial For Building Muscle & Losing Fat",
+            "link": "https://www.mindbodygreen.com/articles/new-study-shows-milk-protein-supplements-improves-body-composition",
+            "description": "And how to get more.",
+            "pubDate": "2026-01-23T10:20:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Bye, Carbo-loading: Why Balanced Blood Sugar Wins For Performance",
             "link": "https://www.mindbodygreen.com/articles/what-100-years-of-research-says-about-carbs-energy-and-performance",
             "description": "A sweeping new review of metabolism and performance finds that drops in blood glucose—not muscle carb stores—may be what actually drives fatigue durin...",
             "pubDate": "2026-01-23T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "What Your Dentist Wishes You Knew About Cleaning Your Tongue",
             "link": "https://www.mindbodygreen.com/articles/connection-between-tongue-scraping-nitric-oxide-and-longevity",
             "description": "If you aren’t doing this, your oral health routine is *not* complete",
             "pubDate": "2026-01-23T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Working Out This Many Hours Before Bed Negatively Impacts Your Sleep",
+            "link": "https://www.mindbodygreen.com/articles/how-exercising-before-bed-can-impact-sleep-what-time-to-do-it-why-exercising-at-night-is-healthy",
+            "description": "Making the case for an early evening spin class.",
+            "pubDate": "2026-01-23T10:17:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Knee Pain? New Study Shows This Supplement Helps (Not Turmeric)",
             "link": "https://www.mindbodygreen.com/articles/creatine-for-joints-new-study-shows-it-helps-osteoarthritis",
             "description": "It does so much more than help you build muscle.",
             "pubDate": "2026-01-22T10:09:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "This Overlooked Mineral May Play A Role In Protecting Against Alzheimer’s",
-            "link": "https://www.mindbodygreen.com/articles/lithiums-surprising-connection-to-alzheimers-disease-explained",
-            "description": "Why this decades-old drug is getting a second look for brain health",
-            "pubDate": "2026-01-22T10:01:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "A 15-Minute Session With This Device Rivals A Professional Massage",
-            "link": "https://www.mindbodygreen.com/articles/chirp-contour-review-as-good-as-professional-massage",
-            "description": "Worth the hype?",
-            "pubDate": "2026-01-21T10:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

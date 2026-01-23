@@ -2,21 +2,21 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-23T07:46:55.676256",
+    "lastBuildDate": "2026-01-23T11:00:10.889530",
     "items": [
+        {
+            "title": "Why Potassium Matters for Heart Health",
+            "link": "https://www.webmd.com/heart-disease/potassium-and-your-heart",
+            "description": "",
+            "pubDate": "2026-01-23T07:45:35",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/cleaning_with_bleach_mistakes_youre_making_slideshow/1800ss_getty_rf_washing_tomatoes_alt.jpg?resize=484px:*&output-quality=70"
+        },
         {
             "title": "Conditions That Can Resemble a Migraine",
             "link": "https://www.webmd.com/migraines-headaches/can-migraines-lead-to-other-health-conditions",
             "description": "Some headaches can look or feel similar to migraine. Learn about other conditions that may present in comparable ways and how they’re often told apart...",
             "pubDate": "2026-01-23T07:45:35",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/ice_pick_headaches_bigbead/1800x1200_ice_pick_headaches_bigbead.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Effect of high elevation on deep vein thrombosis: a multicenter cohort study",
-            "link": "https://www.2minutemedicine.com/effect-of-high-elevation-on-deep-vein-thrombosis-a-multicenter-cohort-study/",
-            "description": "1. Injuries suffered at high elevations are associated with a significantly higher odds of developing deep vein thrombosis (DVT) compared to those suf...",
-            "pubDate": "2026-01-23T00:00:08",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/05/DVT2_cc_wiki_JamesHeilmanMD_edited-300x150.jpg"
         },
         {
             "title": "Understanding the Carnivore Diet",
@@ -26,88 +26,95 @@
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/carnivore_diet_ref_guide/1800x1200_carnivore_diet_ref_guide.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Why Potassium Matters for Heart Health",
-            "link": "https://www.webmd.com/heart-disease/potassium-and-your-heart",
-            "description": "",
-            "pubDate": "2026-01-23T07:45:35",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/cleaning_with_bleach_mistakes_youre_making_slideshow/1800ss_getty_rf_washing_tomatoes_alt.jpg?resize=484px:*&output-quality=70"
+            "title": "Effect of high elevation on deep vein thrombosis: a multicenter cohort study",
+            "link": "https://www.2minutemedicine.com/effect-of-high-elevation-on-deep-vein-thrombosis-a-multicenter-cohort-study/",
+            "description": "1. Injuries suffered at high elevations are associated with a significantly higher odds of developing deep vein thrombosis (DVT) compared to those suf...",
+            "pubDate": "2026-01-23T00:00:08",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/05/DVT2_cc_wiki_JamesHeilmanMD_edited-300x150.jpg"
         },
         {
-            "title": "Why Skin Toxicity Remains Common in Modern Cancer Therapies",
-            "link": "https://www.medscape.com/viewarticle/why-skin-toxicity-remains-common-modern-cancer-therapies-2026a10002ak?src=rss",
-            "description": "Adverse effects on skin remain common across modern cancer therapies, driven by distinct mechanisms, highlighting the need for early recognition and t...",
-            "pubDate": "2026-01-23T12:22:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Preterm Birth Raises Risk for Severe RSV, Even at 36 Weeks",
-            "link": "https://www.medscape.com/viewarticle/preterm-birth-raises-risk-severe-rsv-even-36-weeks-2026a10002al?src=rss",
-            "description": "Infants born even a few weeks early face a markedly higher risk for severe RSV, with late-preterm babies more likely to land in intensive care than th...",
-            "pubDate": "2026-01-23T12:18:16",
+            "title": "Microbes living in our mouths could hold the key to obesity prevention",
+            "link": "https://medicalxpress.com/news/2026-01-microbes-mouths-key-obesity.html",
+            "description": "Scientists may have found a new way to spot early signs of obesity, which could lead to novel prevention strategies. A study published in the journal ...",
+            "pubDate": "2026-01-23T14:43:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Exercise has 'similar effect' to therapy, study on depression shows",
-            "link": "https://medicalxpress.com/news/2026-01-similar-effect-therapy-depression.html",
-            "description": "The estimated 280 million people worldwide who suffer from depression could have a treatment option that is not only cheaper than therapy and antidepr...",
-            "pubDate": "2026-01-23T11:51:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "NICE Backs New Therapy for Severe Lupus Nephritis",
-            "link": "https://www.medscape.com/viewarticle/nice-backs-new-therapy-severe-lupus-nephritis-2026a100029x?src=rss",
-            "description": "NICE has recommended obinutuzumab with mycophenolate for severe lupus nephritis after trials showed higher renal response and fewer flares. Medscape N...",
-            "pubDate": "2026-01-23T12:37:43",
+            "title": "Brain device for ADHD shows no benefit in major UK trial",
+            "link": "https://medicalxpress.com/news/2026-01-brain-device-adhd-benefit-major.html",
+            "description": "Diagnoses of attention deficit hyperactivity disorder (ADHD) are rising rapidly in the U.K. More children and teenagers than ever are being referred f...",
+            "pubDate": "2026-01-23T15:18:22",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Med Op-Ed: Squandered Transcripts, CVD Evidence Gap, More",
-            "link": "https://www.medscape.com/viewarticle/med-op-ed-squandered-transcripts-cvd-evidence-gap-more-2026a10002aj?src=rss",
-            "description": "Healthcare institutions delete records of patient encounters, common cardiology patients are underrepresented in clinical trials, and a medical device...",
-            "pubDate": "2026-01-23T12:14:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "The impact of war on the innocence of children",
+            "link": "https://kevinmd.com/2026/01/the-impact-of-war-on-the-innocence-of-children.html",
+            "description": "They are not born into battle. They arrive with open hands, with laughter, with faith that the world will keep them safe. Yet, men who are not content...",
+            "pubDate": "2026-01-23T12:00:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Progression-free survival prolonged with sacituzumab govitecan plus pembrolizumab in triple-negative breast cancer",
-            "link": "https://medicalxpress.com/news/2026-01-free-survival-prolonged-sacituzumab-govitecan.html",
-            "description": "For patients with previously untreated, programmed death ligand 1 (PD-L1)-positive, locally advanced unresectable or metastatic triple-negative breast...",
-            "pubDate": "2026-01-23T02:50:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Breathing disruptions during sleep widespread in newborns with spina bifida, study finds",
-            "link": "https://medicalxpress.com/news/2026-01-disruptions-widespread-newborns-spina-bifida.html",
-            "description": "Children with spina bifida, a malformation of the spinal cord that can lead to mobility impairments and hydrocephalus—a buildup of fluid in the brain—...",
-            "pubDate": "2026-01-23T05:10:01",
+            "title": "NICE Endorses Online Programme for Bulimia and Binge Eating",
+            "link": "https://www.medscape.com/viewarticle/nice-endorses-online-programme-bulimia-and-binge-eating-2026a10002az?src=rss",
+            "description": "NICE says an online CBT-based self-help programme can support people with bulimia and binge eating while they wait for specialist NHS care. Medscape N...",
+            "pubDate": "2026-01-23T13:44:37",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Canada’s Women Doctors Spend More Time Per Patient",
-            "link": "https://www.medscape.com/viewarticle/canadas-women-doctors-spend-more-time-patient-2026a10002at?src=rss",
-            "description": "Fee-for-service models do not account for time spent per patient and may thus disadvantage women physicians, in terms of their earnings. Medscape News...",
-            "pubDate": "2026-01-23T12:37:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "What do caregivers feel when witnessing terminal lucidity in children?",
-            "link": "https://medicalxpress.com/news/2026-01-caregivers-witnessing-terminal-lucidity-children.html",
-            "description": "There are records of several unusual experiences reported by people in a terminal state, occurring in the final days, hours, or minutes of life. One s...",
-            "pubDate": "2026-01-23T00:50:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Hormone therapy combined with tirzepatide linked to greater weight loss after menopause",
-            "link": "https://medicalxpress.com/news/2026-01-hormone-therapy-combined-tirzepatide-linked.html",
-            "description": "A new study led by Mayo Clinic found that postmenopausal women receiving menopausal hormone therapy lost 35% more weight while taking tirzepatide, a F...",
-            "pubDate": "2026-01-23T11:40:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Overcoming the economic barriers of fee-for-service medicine [PODCAST]",
             "link": "https://kevinmd.com/2026/01/overcoming-the-economic-barriers-of-fee-for-service-medicine-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Surgeon and health tech strategist Sarah Matt discusses her article “...",
             "pubDate": "2026-01-23T00:00:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "CAR T cells with boosted BACH2 protein can fight cancer more effectively",
+            "link": "https://medicalxpress.com/news/2026-01-car-cells-boosted-bach2-protein.html",
+            "description": "UT Southwestern Medical Center researchers have discovered that increasing the levels of a protein called BACH2 makes engineered cancer-fighting immun...",
+            "pubDate": "2026-01-23T14:45:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Clinical trial finds 24 minutes of music with auditory beats eases anxiety",
+            "link": "https://medicalxpress.com/news/2026-01-clinical-trial-minutes-music-auditory.html",
+            "description": "A new randomized clinical trial has revealed that just 24 minutes of listening to specially designed music paired with auditory beat stimulation (ABS)...",
+            "pubDate": "2026-01-23T15:28:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "How will weight-loss jabs change the food industry?",
+            "link": "https://medicalxpress.com/news/2026-01-weight-loss-jabs-food-industry.html",
+            "description": "Consumers are surrounded by food that is highly conducive to weight gain. No one likes dieting and very few have lasting success. But now weight-loss ...",
+            "pubDate": "2026-01-23T15:57:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Rise in Outpatient ED Use Among Publicly Insured Patients",
+            "link": "https://www.medscape.com/viewarticle/rise-outpatient-ed-use-among-publicly-insured-patients-2026a10002av?src=rss",
+            "description": "Emergency department visits in California increased by 38% from 2008 to 2023, driven by sharp growth among patients with Medicaid and Medicare. Medsca...",
+            "pubDate": "2026-01-23T13:11:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Export Ban Fails to Stem UK Aspirin Shortages",
+            "link": "https://www.medscape.com/s/viewarticle/export-ban-fails-stem-uk-aspirin-shortages-2026a10002as?src=rss",
+            "description": "Pharmacies warn of severe shortages of low-dose aspirin, with rationing, rising prices, and concerns over patient safety and NHS reimbursement. Press ...",
+            "pubDate": "2026-01-23T13:48:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "NICE Backs New Therapy for Severe Lupus Nephritis",
+            "link": "https://www.medscape.com/viewarticle/nice-backs-new-therapy-severe-lupus-nephritis-2026a100029x?src=rss",
+            "description": "NICE has recommended obinutuzumab with mycophenolate for severe lupus nephritis after trials showed higher renal response and fewer flares. Medscape N...",
+            "pubDate": "2026-01-23T12:37:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "The Doctor Entrepreneur: MENA’s New Healthcare Innovators",
+            "link": "https://www.medscape.com/viewarticle/doctor-entrepreneur-menas-new-healthcare-innovators-2026a10002bm?src=rss",
+            "description": "Bridging clinical safety and startup agility requires a mindset shift medical school never taught us, but the future of regional healthcare innovation...",
+            "pubDate": "2026-01-23T15:50:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Anthropic positions Claude as workflow software for regulated healthcare, not a chatbot",
@@ -124,39 +131,25 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/pills_pd_edited-300x150.jpg"
         },
         {
-            "title": "Why organizational culture eats strategy for breakfast in health care",
-            "link": "https://kevinmd.com/2026/01/why-organizational-culture-eats-strategy-for-breakfast-in-health-care.html",
-            "description": "Eighteen months ago, I learned something every patient hopes never to hear: that my cancer had returned. Years earlier, I had been treated successfull...",
-            "pubDate": "2026-01-22T12:00:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Social media’s impact on the nursing workforce and student enrollment",
-            "link": "https://kevinmd.com/2026/01/social-medias-impact-on-the-nursing-workforce-and-student-enrollment.html",
-            "description": "A nursing student recently told me she had decided not to apply for bedside roles after graduation. Not because of her clinical rotations. Not because...",
-            "pubDate": "2026-01-22T14:00:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Why evidence-based practice in nursing is a strategic imperative",
+            "link": "https://kevinmd.com/2026/01/why-evidence-based-practice-in-nursing-is-a-strategic-imperative.html",
+            "description": "Every day, nurses make thousands of clinical decisions that directly shape patient outcomes, safety, and recovery. Yet in many hospitals across the co...",
+            "pubDate": "2026-01-22T16:00:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Why epistemic trespassing in medicine is a dangerous trend",
             "link": "https://kevinmd.com/2026/01/why-epistemic-trespassing-in-medicine-is-a-dangerous-trend.html",
             "description": "Somewhere over the last two decades, medicine began to drift into strange territory. Authority (once grounded in evidence, humility, and disciplined e...",
             "pubDate": "2026-01-22T20:00:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Why evidence-based practice in nursing is a strategic imperative",
-            "link": "https://kevinmd.com/2026/01/why-evidence-based-practice-in-nursing-is-a-strategic-imperative.html",
-            "description": "Every day, nurses make thousands of clinical decisions that directly shape patient outcomes, safety, and recovery. Yet in many hospitals across the co...",
-            "pubDate": "2026-01-22T16:00:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "AstraZeneca moves to own multimodal oncology AI with Modella",
-            "link": "https://www.2minutemedicine.com/astrazeneca-moves-to-own-multimodal-oncology-ai-with-modella/",
-            "description": "1. AstraZeneca is acquiring Modella AI to embed multimodal foundation models into oncology R&D and strengthen biomarker driven trial strategy. 2. The ...",
-            "pubDate": "2026-01-21T16:10:22",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/12/doctor-patient-6-urologic-oncology-300x150.jpg"
+            "title": "Social media’s impact on the nursing workforce and student enrollment",
+            "link": "https://kevinmd.com/2026/01/social-medias-impact-on-the-nursing-workforce-and-student-enrollment.html",
+            "description": "A nursing student recently told me she had decided not to apply for bedside roles after graduation. Not because of her clinical rotations. Not because...",
+            "pubDate": "2026-01-22T14:00:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Cast immobilization is non-inferior to surgical intervention in isolated Weber B fractures of lateral malleolus",
@@ -164,6 +157,13 @@
             "description": "1. Cast immobilization is non-inferior to surgical treatment with open reduction and internal plate fixation (ORIF) in the management of isolated Webe...",
             "pubDate": "2026-01-21T00:00:53",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/10/ankle-fracture-300x150.png"
+        },
+        {
+            "title": "AstraZeneca moves to own multimodal oncology AI with Modella",
+            "link": "https://www.2minutemedicine.com/astrazeneca-moves-to-own-multimodal-oncology-ai-with-modella/",
+            "description": "1. AstraZeneca is acquiring Modella AI to embed multimodal foundation models into oncology R&D and strengthen biomarker driven trial strategy. 2. The ...",
+            "pubDate": "2026-01-21T16:10:22",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/12/doctor-patient-6-urologic-oncology-300x150.jpg"
         }
     ]
 }

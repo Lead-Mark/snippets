@@ -2,21 +2,28 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-01-23T07:48:37.023181",
+    "lastBuildDate": "2026-01-23T11:03:05.699065",
     "items": [
+        {
+            "title": "The Download: chatbots for health, and US fights over AI regulation",
+            "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “Dr. Google”...",
+            "pubDate": "2026-01-23T13:07:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f987.png"
+        },
         {
             "title": "America’s coming war over AI regulation",
             "link": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
             "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
             "pubDate": "2026-01-23T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Measles is surging in the US. Wastewater tracking could help.",
             "link": "https://www.technologyreview.com/2026/01/23/1131698/measles-surging-us-wastewater-tracking/",
             "description": "This week marked a rather unpleasant anniversary: It’s a year since Texas reported a case of measles—the start of a significant outbreak that ended up...",
             "pubDate": "2026-01-23T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "LivsMed completes Korean IPO to accelerate remote robotic surgery",
@@ -33,32 +40,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/ziplinedelivery-featured.jpg"
         },
         {
-            "title": "The Download: Yann LeCun’s new venture, and lithium’s on the rise",
-            "link": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Yann LeCun’s...",
-            "pubDate": "2026-01-22T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/231102_Subime-Systems_thumb.jpg?w=3000"
-        },
-        {
-            "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-            "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-            "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thurs...",
-            "pubDate": "2026-01-22T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30"
-        },
-        {
             "title": "“Dr. Google” had its issues. Can ChatGPT Health do better?",
             "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
             "description": "For the past two decades, there’s been a clear first step for anyone who starts experiencing new medical symptoms: Look them up online. The practice w...",
             "pubDate": "2026-01-22T17:38:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Dispatch from Davos: hot air, big egos and cold flexes",
             "link": "https://www.technologyreview.com/2026/01/22/1131687/hot-air-cold-flexes-at-davos/",
             "description": "This story first appeared in The Debrief, our subscriber-only newsletter about the biggest news in tech by Mat Honan, Editor in Chief. Subscribe to re...",
             "pubDate": "2026-01-22T16:39:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Boston Dynamics releases Spot and Orbit 5.1 with new Spot Cam",
@@ -68,13 +61,6 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/spot-cam2-illuminated-featured.jpg"
         },
         {
-            "title": "Festo introduces AI-based predictive maintenance platform to improve automation uptime",
-            "link": "https://www.therobotreport.com/festo-introduces-ai-based-predictive-maintenance-platform-improve-automation-uptime/",
-            "description": "Festo said the platform provides flexible deployment options that support on-premises and cloud-based environments. The post Festo introduces AI-based...",
-            "pubDate": "2026-01-21T21:40:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Festo-AX-Motion-Insights-featured.jpg"
-        },
-        {
             "title": "Microsoft Research reveals Rho-alpha vision-language-action model for robots",
             "link": "https://www.therobotreport.com/microsoft-research-reveals-rho-alpha-vision-language-action-model-for-robots/",
             "description": "The Rho-alpha model incorporates sensor modalities such as tactile feedback and is trained with human guidance, says Microsoft. The post Microsoft Res...",
@@ -82,39 +68,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Microsoft_Rho-alpha.jpg"
         },
         {
-            "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-            "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-            "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, de...",
-            "pubDate": "2026-01-19T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30"
-        },
-        {
-            "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-            "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-            "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $10...",
-            "pubDate": "2026-01-16T14:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30"
-        },
-        {
-            "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-            "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-            "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification...",
-            "pubDate": "2026-01-13T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
-        },
-        {
-            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
-            "pubDate": "2026-01-12T11:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
-        },
-        {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Festo introduces AI-based predictive maintenance platform to improve automation uptime",
+            "link": "https://www.therobotreport.com/festo-introduces-ai-based-predictive-maintenance-platform-improve-automation-uptime/",
+            "description": "Festo said the platform provides flexible deployment options that support on-premises and cloud-based environments. The post Festo introduces AI-based...",
+            "pubDate": "2026-01-21T21:40:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Festo-AX-Motion-Insights-featured.jpg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -122,6 +80,13 @@
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
             "pubDate": "2021-10-29T00:18:48",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
+        },
+        {
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
