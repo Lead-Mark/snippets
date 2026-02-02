@@ -2,48 +2,69 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-02T06:27:36.657680",
+    "lastBuildDate": "2026-02-02T11:06:17.343655",
     "items": [
         {
-            "title": "Oracle amps up its AI bet with a plan to raise as much as $50 billion this year",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f836f839-2457-49f6-9191-a278e18c2714&mod=mw_rss_bulletins",
+            "title": "Shareholders aren’t happy about this big oil-and-gas merger",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b8f31489-d604-4a4a-8456-21a2d3b3d085&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-02-02T02:10:37",
+            "pubDate": "2026-02-02T13:53:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Cboe Volatility Index — the ‘fear gauge’ — jumps with stock-market skid in cards",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8dedd7bf-b72b-4ebe-ac12-b1b2bb846dee&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-02-02T13:39:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Economic calendar: Wall Street on watch for factory updates and automobile sales",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4ff4fdc5-6bc2-4b6c-a395-0728cc3506b9&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-02-02T13:04:30",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Here’s what’s worth streaming in February on Netflix, Hulu, Peacock and more",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e6a18dce-e4bc-4ee1-aa3b-66021ae793bd&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-02-02T00:24:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Disney may soon have a new CEO. Here’s who it might be.",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2cb95935-ec6b-4837-b974-57e284e4153a&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-02-02T01:38:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Oracle stock drops after plan for cloud provider to raise up to $50 billion",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2a46f7d-c119-46f4-ae02-76bf526a7ca4&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-02-02T09:37:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Nvidia’s OpenAI investment may not be as big as hoped, adding to tech jitters",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4aa93f8a-feb3-4d51-916e-f6eb589caaeb&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-02-02T03:31:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Speaker Johnson: 'Confident' government shutdown will end by Tuesday",
             "link": "https://www.cnbc.com/2026/02/01/government-shutdown-mike-johnson.html",
             "description": "The government shut down on Saturday after Senate Democrats demanded changes to a spending package following the killings of U.S. citizens in Minnesot...",
-            "pubDate": "2026-02-01T17:07:06",
+            "pubDate": "2026-02-02T15:16:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "U.S. stocks are shaking off early weakness, while gold steadies and oil slumps",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aab41651-883d-4013-a433-7224b7b9f77c&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-02-02T15:04:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Disney misses earnings target despite record theme-park revenue",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=28e1103e-254a-496a-8922-95faa57cdc0e&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-02-02T12:31:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Democrat Christian Menefee wins election for U.S. House, narrowing GOP's slim majority",
+            "link": "https://www.cnbc.com/2026/02/01/christian-menefee-wins-election-for-us-house.html",
+            "description": "Democrat Christian Menefee won a Texas U.S. House seat in a special election Saturday that will narrow Republicans' already-slim majority.",
+            "pubDate": "2026-02-01T15:04:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "United Arab Emirates' 'Spy Sheikh' bought secret stake in Trump crypto company: WSJ",
+            "link": "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html",
+            "description": "“This is corruption, plain and simple,\" said Massachusetts Sen. Elizabeth Warren, the top Democrat on the Senate Banking Committee.",
+            "pubDate": "2026-02-01T20:36:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Epstein files: Ro Khanna says DOJ's latest release is 'not good enough'",
+            "link": "https://www.cnbc.com/2026/02/01/epstein-files-ro-khanna-says-dojs-release-is-not-good-enough.html",
+            "description": "The congressional Democrat said that Friday's Epstein disclosure was \"significant,\" but it is only about half of the files that have been collected.",
+            "pubDate": "2026-02-01T19:04:50",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -51,28 +72,7 @@
             "link": "https://www.cnbc.com/2026/02/01/us-special-envoy-for-iraq-mark-savaya-no-longer-in-post-reuters.html",
             "description": "Mark Savaya, named by U.S. ⁠President Donald Trump as special envoy for Iraq in October, is no longer in that role, sources familiar with the move tol...",
             "pubDate": "2026-02-01T20:08:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Democrat Christian Menefee wins election for U.S. House, narrowing GOP's slim majority",
-            "link": "https://www.cnbc.com/2026/02/01/christian-menefee-wins-election-for-us-house.html",
-            "description": "Democrat Christian Menefee won a Texas U.S. House seat in a special election Saturday that will narrow Republicans' already-slim majority.",
-            "pubDate": "2026-02-01T15:04:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Epstein files: Ro Khanna says DOJ's latest release is 'not good enough'",
-            "link": "https://www.cnbc.com/2026/02/01/epstein-files-ro-khanna-says-dojs-release-is-not-good-enough.html",
-            "description": "The congressional Democrat said that Friday's Epstein disclosure was \"significant,\" but it is only about half of the files that have been collected.",
-            "pubDate": "2026-02-01T19:04:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "United Arab Emirates' 'Spy Sheikh' bought secret stake in Trump crypto company: WSJ",
-            "link": "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html",
-            "description": "“This is corruption, plain and simple,\" said Massachusetts Sen. Elizabeth Warren, the top Democrat on the Senate Banking Committee.",
-            "pubDate": "2026-02-01T20:36:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
