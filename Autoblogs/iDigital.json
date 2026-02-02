@@ -2,15 +2,8 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-02T17:14:28.360466",
+    "lastBuildDate": "2026-02-02T17:51:35.784479",
     "items": [
-        {
-            "title": "NASA’s Perseverance Rover completes its first AI-planned drive",
-            "link": "https://www.therobotreport.com/nasa-perseverance-rover-completes-first-ai-planned-drive/",
-            "description": "During the demonstration, NASA engineers used vision-language models, or VLMs, to create waypoints on Mars for Perseverance. The post NASA’s Persevera...",
-            "pubDate": "2026-02-02T18:05:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/pia26344-perseverance-selfie-at-cheyava-featured.jpg"
-        },
         {
             "title": "The RaaS Blueprint: Key Insights from a conversation with RobCo’s Roman Hölzl",
             "link": "https://www.therobotreport.com/the-raas-blueprint-key-insights-from-a-conversation-with-robcos-roman-holzl/",
@@ -33,11 +26,11 @@
             "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f344.png"
         },
         {
-            "title": "What’s next for EV batteries in 2026",
-            "link": "https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/",
-            "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
-            "pubDate": "2026-02-02T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "NASA’s Perseverance Rover completes its first AI-planned drive",
+            "link": "https://www.therobotreport.com/nasa-perseverance-rover-completes-first-ai-planned-drive/",
+            "description": "During the demonstration, NASA engineers used vision-language models, or VLMs, to create waypoints on Mars for Perseverance. The post NASA’s Persevera...",
+            "pubDate": "2026-02-02T18:05:25",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/pia26344-perseverance-selfie-at-cheyava-featured.jpg"
         },
         {
             "title": "What we’ve been getting wrong about AI’s truth crisis",
@@ -45,6 +38,13 @@
             "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. What would i...",
             "pubDate": "2026-02-02T18:09:57",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "What’s next for EV batteries in 2026",
+            "link": "https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/",
+            "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+            "pubDate": "2026-02-02T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "What evolving robot standards mean for implementations of cobots",
@@ -72,7 +72,7 @@
             "link": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
             "description": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy...",
             "pubDate": "2026-01-30T16:32:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -110,11 +110,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -124,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
