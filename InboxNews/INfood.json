@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-03T07:17:32.924711",
+    "lastBuildDate": "2026-02-03T11:03:00.358415",
     "items": [
+        {
+            "title": "Lobster Roll Dip",
+            "link": "https://therecipecritic.com/lobster-roll-dip/",
+            "description": "If you love a good lobster rolls, you’ll love it even more as a dip. Creamy, cheesy, and loaded with…",
+            "pubDate": "2026-02-03T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/lobster-roll-dip-1.jpg"
+        },
         {
             "title": "30 Minute Cream Cheese Chicken",
             "link": "https://therecipecritic.com/cream-cheese-chicken/",
@@ -31,13 +38,6 @@
             "description": "Think of this hot Reuben dip as a love letter to the classic Reuben sandwich. It’s rich, tangy, loaded with…",
             "pubDate": "2026-01-29T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/hot-reuben-dip-4.jpg"
-        },
-        {
-            "title": "Crockpot Grape Jelly Little Smokies",
-            "link": "https://therecipecritic.com/crockpot-grape-jelly-little-smokies/",
-            "description": "If you’re hosting anything and need a quick appetizer, these crockpot grape jelly little smokies are it. Dump everything in…",
-            "pubDate": "2026-01-28T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/grape-jelly-smokies.jpg"
         },
         {
             "title": "Vegan Gluten-Free Morning Glory Muffins",
