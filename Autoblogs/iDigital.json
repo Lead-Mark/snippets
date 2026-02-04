@@ -2,14 +2,42 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-04T06:45:03.180567",
+    "lastBuildDate": "2026-02-04T11:02:58.264857",
     "items": [
         {
-            "title": "Microbes could extract the metal needed for cleantech",
-            "link": "https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/",
-            "description": "In a pine forest on Michigan’s Upper Peninsula, the only active nickel mine in the US is nearing the end of its life. At a time when carmakers want th...",
-            "pubDate": "2026-02-03T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Endolith-laboratory-team-.jpg?w=1794"
+            "title": "LimX Dynamics picks up $200M for humanoid robot expansion",
+            "link": "https://www.therobotreport.com/limx-dynamics-raises-200m-for-humanoid-robot-expansion/",
+            "description": "LimX Dynamics plans to continue developing humanoid and semi-humanoid robots for Chinese and global markets. The post LimX Dynamics picks up $200M for...",
+            "pubDate": "2026-02-04T14:56:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Tron_1_skiing-copy.jpg"
+        },
+        {
+            "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
+            "link": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+            "description": "The previous article in this series, “Rules fail at the prompt, succeed at the boundary,” focused on the first AI-orchestrated espionage campaign and ...",
+            "pubDate": "2026-02-04T14:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Protegrity-article-2-iStock-536974739.png"
+        },
+        {
+            "title": "InOrbit adds Steve Cousins to board, to offer OpenRobOps as open-source fleet manager",
+            "link": "https://www.therobotreport.com/inorbit-adds-steve-cousins-board-offers-openrobops-open-source-fleet-manager/",
+            "description": "InOrbit is working with academia, industry, and the open-source community to bring OpenRobOps to robotics fleet developers. The post InOrbit adds Stev...",
+            "pubDate": "2026-02-04T14:01:02",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/InOrbit_Ground_Control.jpg"
+        },
+        {
+            "title": "The Download: the future of nuclear power plants, and social media-fueled AI hype",
+            "link": "https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why AI compa...",
+            "pubDate": "2026-02-04T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/image_20e8ae.png"
+        },
+        {
+            "title": "ETM brings its transverse flux motor technology to robotics",
+            "link": "https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/",
+            "description": "ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks. The post ETM brings its tra...",
+            "pubDate": "2026-02-04T15:37:04",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/etm-power-incremental-monumental-slide-02-featured.jpg"
         },
         {
             "title": "Overland AI raises $100M to scale autonomy with the U.S. armed forces",
@@ -19,18 +47,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/overlandai-featured.jpg"
         },
         {
+            "title": "Microbes could extract the metal needed for cleantech",
+            "link": "https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/",
+            "description": "In a pine forest on Michigan’s Upper Peninsula, the only active nickel mine in the US is nearing the end of its life. At a time when carmakers want th...",
+            "pubDate": "2026-02-03T10:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Endolith-laboratory-team-.jpg?w=1794"
+        },
+        {
             "title": "The Download: squeezing more metal out of aging mines, and AI’s truth crisis",
             "link": "https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/",
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microbes cou...",
             "pubDate": "2026-02-03T13:10:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/image_96cac6.png"
-        },
-        {
-            "title": "Waymo keeps foot on the autonomous vehicle pedal with $16B funding",
-            "link": "https://www.therobotreport.com/waymo-keeps-foot-autonomous-vehicle-pedal-16b-funding/",
-            "description": "Waymo plans to continue its expansion across locations, citing statistics showing that self-driving cars are safer than human drivers. The post Waymo ...",
-            "pubDate": "2026-02-03T13:43:53",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Waymo_SFO.jpg"
         },
         {
             "title": "Road to rail: Slashing costs and carbon with automation",
@@ -40,81 +68,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/kevin-damoa-headshot.jpg"
         },
         {
-            "title": "The RaaS Blueprint: Key Insights from a conversation with RobCo’s Roman Hölzl",
-            "link": "https://www.therobotreport.com/the-raas-blueprint-key-insights-from-a-conversation-with-robcos-roman-holzl/",
-            "description": "A conversation with RobCo’s CEO Roman Hölzl, on the importance of service-based solutions in the automation industry. The post The RaaS Blueprint: Key...",
-            "pubDate": "2026-02-02T21:11:35",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/robco-software-featured.jpg"
-        },
-        {
-            "title": "The Download: inside a deepfake marketplace, and EV batteries’ future",
-            "link": "https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the m...",
-            "pubDate": "2026-02-02T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f344.png"
-        },
-        {
-            "title": "The crucial first step for designing a successful enterprise AI system",
-            "link": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
-            "description": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomes—but how do you design ...",
-            "pubDate": "2026-02-02T14:20:29",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/01/iconic-use-case-1.png"
-        },
-        {
-            "title": "NASA’s Perseverance Rover completes its first AI-planned drive",
-            "link": "https://www.therobotreport.com/nasa-perseverance-rover-completes-first-ai-planned-drive/",
-            "description": "During the demonstration, NASA engineers used vision-language models, or VLMs, to create waypoints on Mars for Perseverance. The post NASA’s Persevera...",
-            "pubDate": "2026-02-02T18:05:25",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/pia26344-perseverance-selfie-at-cheyava-featured.jpg"
-        },
-        {
             "title": "What we’ve been getting wrong about AI’s truth crisis",
             "link": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
             "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. What would i...",
             "pubDate": "2026-02-02T18:09:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-            "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-            "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thurs...",
-            "pubDate": "2026-01-22T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30"
-        },
-        {
-            "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-            "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-            "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, de...",
-            "pubDate": "2026-01-19T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30"
-        },
-        {
-            "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-            "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-            "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $10...",
-            "pubDate": "2026-01-16T14:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30"
-        },
-        {
-            "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-            "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-            "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification...",
-            "pubDate": "2026-01-13T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
-        },
-        {
-            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
-            "pubDate": "2026-01-12T11:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -124,6 +82,13 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
@@ -131,18 +96,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
-        },
-        {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
             "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
