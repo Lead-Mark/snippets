@@ -2,21 +2,21 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-05T11:04:17.231212",
+    "lastBuildDate": "2026-02-05T17:14:21.882439",
     "items": [
-        {
-            "title": "Amazing Pepper Steak Stir Fry",
-            "link": "https://therecipecritic.com/pepper-steak-recipe/",
-            "description": "Trust me on this one. If you want the most tender pepper steak you’ve ever made at home, this recipe…",
-            "pubDate": "2026-02-05T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/pepper-steak.jpg"
-        },
         {
             "title": "Lazy Enchiladas (4 Ingredients)",
             "link": "https://therecipecritic.com/lazy-enchiladas/",
             "description": "When you want dinner fast, these Lazy Enchiladas are it! Four ingredients. Less than 30 minutes. Just layer frozen taquitos…",
             "pubDate": "2026-02-05T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/lazy-enchiladas.jpg"
+        },
+        {
+            "title": "Amazing Pepper Steak Stir Fry",
+            "link": "https://therecipecritic.com/pepper-steak-recipe/",
+            "description": "Trust me on this one. If you want the most tender pepper steak you’ve ever made at home, this recipe…",
+            "pubDate": "2026-02-05T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/pepper-steak.jpg"
         },
         {
             "title": "Red Beans and Rice",
