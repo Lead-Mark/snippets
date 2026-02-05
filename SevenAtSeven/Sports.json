@@ -2,14 +2,21 @@
     "title": "Sports",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Sports, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-05T07:39:47.444483",
+    "lastBuildDate": "2026-02-05T11:03:03.721207",
     "items": [
         {
-            "title": "Women's College Basketball 2025-26 Undefeated Teams Tracker: UConn Wins 40th Straight",
-            "link": "https://www.foxsports.com/stories/womens-college-basketball/womens-college-basketball-2025-2026-undefeated-teams-tracker",
-            "description": "Here are the women's college basketball teams that are still undefeated in the 2025-2026 season.",
-            "pubDate": "2026-02-05T03:27:16",
-            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/02/uconnh1.jpg"
+            "title": "What’s Next: Tigers Make Splash With Framber Valdez As Tarik Skubal Decision Looms",
+            "link": "https://www.foxsports.com/stories/mlb/whats-next-tigers-framber-valdez-free-agency-tarik-skubal",
+            "description": "By signing Framber Valdez, the Tigers have one of MLB's best pitching duos as long as Tarik Skubal remains in Detroit.",
+            "pubDate": "2026-02-05T07:02:36",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/framber-scaled.jpg"
+        },
+        {
+            "title": "Game Changers: How Rashid Shaheed Transformed the Seahawks",
+            "link": "https://www.foxsports.com/stories/nfl/how-rashid-shaheed-helped-seahawks-super-bowl",
+            "description": "Here's how midseason acquisition Rashid Shaheed gave Seattle another gear on offense and special teams, leading to a Super Bowl berth.",
+            "pubDate": "2026-02-05T15:02:31",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/02/shaheed-16x9-1.jpg"
         },
         {
             "title": "4 Takeaways From NASCAR's Clash: Ryan Preece's Big Breakthrough",
@@ -19,18 +26,11 @@
             "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/02/artboard-1.png"
         },
         {
-            "title": "2026 MLB Free Agent Signings, Trades: Framber Valdez Signs $115 Million Deal With Tigers",
-            "link": "https://www.foxsports.com/stories/mlb/2026-mlb-free-agent-signing-trades-tracker",
-            "description": "Keeping tabs on all of MLB's notable free agency signings, trades, and extensions ahead of the 2026 season.",
-            "pubDate": "2026-02-05T03:50:33",
-            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/a263dd89-16x9-1.jpg"
-        },
-        {
-            "title": "What’s Next: Tigers Make Splash With Framber Valdez As Tarik Skubal Decision Looms",
-            "link": "https://www.foxsports.com/stories/mlb/whats-next-tigers-framber-valdez-free-agency-tarik-skubal",
-            "description": "By signing Framber Valdez, the Tigers have one of MLB's best pitching duos as long as Tarik Skubal remains in Detroit.",
-            "pubDate": "2026-02-05T07:02:36",
-            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/framber-scaled.jpg"
+            "title": "MLB Free Agency Rumors, Buzz: Tigers Keeping Skubal After Signing Valdez?",
+            "link": "https://www.foxsports.com/stories/mlb/mlb-free-agency-rumors-buzz-jorge-polanco-ready-play-1b-mets",
+            "description": "Keeping track of players who may be on the move, manager comings and goings, and other buzz from around the majors.",
+            "pubDate": "2026-02-05T15:38:31",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/11/16x9.jpg"
         },
         {
             "title": "Tom Izzo Threatens To Bench Michigan State Star Jeremy Fears 'If He Plays That Way'",
@@ -40,39 +40,39 @@
             "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/02/jeremy_fears_horizontal.jpg"
         },
         {
-            "title": "Who has the edge in Seahawks-Patriots? Barnwell previews every possible angle of Super Bowl LX",
-            "link": "https://www.espn.com/nfl/story/_/id/47808453/super-bowl-lx-2026-seahawks-patriots-preview-prediction-maye-darnold-barnwell",
-            "description": "Can Drake Maye hit enough big plays? Which Sam Darnold will show up? And will defense define this Super Bowl matchup? Let's go deep on Seahawks-Patrio...",
-            "pubDate": "2026-02-05T12:26:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "'We're poor': Sampson bemoans UH's low budget",
+            "link": "https://www.espn.com/mens-college-basketball/story/_/id/47838117/kelvin-sampson-bemoans-houston-nil-budget-poor",
+            "description": "Houston coach Kelvin Sampson said his top-10 team can't sign more recruits because the school's athletic department is \"very poor.\"",
+            "pubDate": "2026-02-05T15:49:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Real Madrid's big transfer questions: What to do about Vini Jr., more",
-            "link": "https://www.espn.com/soccer/story/_/id/47815213/real-madrid-big-transfer-questions-vini-jr-bellingham-paz-arbeloa",
-            "description": "January transfer window was quiet, but there are plenty of issues for the club to address in the summer.",
-            "pubDate": "2026-02-05T08:55:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Who makes Mike Macdonald's defense so good? Seahawks to watch in Super Bowl LX",
-            "link": "https://www.espn.com/nfl/story/_/id/47831363/seattle-seahawks-defense-mike-macdonald-defensive-scheme-keys-super-bowl",
-            "description": "Devon Witherspoon, DeMarcus Lawrence and Nick Emmanwori are crucial players on Seattle's defense.",
-            "pubDate": "2026-02-05T12:26:15",
+            "title": "UGA's Seymour charged with damaging property",
+            "link": "https://www.espn.com/college-football/story/_/id/47837682/georgia-seymour-charged-11-felony-counts-property-damage",
+            "description": "Georgia DT London Seymour, son of Pro Football Hall of Famer Richard Seymour, was arrested Jan. 29 after he and three other men allegedly caused damag...",
+            "pubDate": "2026-02-05T15:49:53",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "NHL Awards Watch: Kucherov gaining on MacKinnon for MVP?",
-            "link": "https://www.espn.com/nhl/story/_/id/47816593/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke",
-            "description": "We polled PHWA voters to find out who's ahead in the major races as some new names have entered the conversation for the Hart and Vezina.",
-            "pubDate": "2026-02-05T12:27:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Sources: Bucks not pressured to trade Giannis",
+            "link": "https://www.espn.com/nba/story/_/id/47838041/sources-bucks-feel-pressure-trade-giannis-antetokounmpo",
+            "description": "The Bucks don't feel the pressure to move Giannis Antetokounmpo on Thursday, team sources told ESPN hours ahead of the NBA's trade deadline.",
+            "pubDate": "2026-02-05T15:49:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Transfer rumors, news: Sterling in Napoli talks after ending Chelsea contract",
-            "link": "https://www.espn.com/soccer/story/_/id/47835766/transfer-rumors-news-raheem-sterling-napoli-talks-ending-chelsea-contract",
-            "description": "Raheem Sterling is in talks to join Napoli, while Barcelona and Real Madrid eye Tottenham's Cristian Romero. Transfer Talk has the latest.",
-            "pubDate": "2026-02-05T08:55:24",
+            "title": "Sources: Dubs deal Kuminga, Hield for Porzingis",
+            "link": "https://www.espn.com/nba/story/_/id/47834519/warriors-trading-jonathan-kuminga-buddy-hield-hawks-kristaps-porzingis",
+            "description": "The Warriors are trading Jonathan Kuminga and Buddy Hield to the Hawks for Kristaps Porzingis, sources told ESPN, unofficially putting an end to Golde...",
+            "pubDate": "2026-02-05T15:49:53",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Izzo threatens to bench Fears after critical tech",
+            "link": "https://www.espn.com/mens-college-basketball/story/_/id/47835044/izzo-threatens-bench-fears-tech-michigan-state-loss",
+            "description": "Michigan State head coach Tom Izzo called out star guard Jeremy Fears after he was accused of employ dirty tactics for the second straight game, this ...",
+            "pubDate": "2026-02-05T15:49:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }
