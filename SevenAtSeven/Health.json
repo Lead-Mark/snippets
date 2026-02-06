@@ -2,7 +2,7 @@
     "title": "Health",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Health, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-06T06:56:41.340816",
+    "lastBuildDate": "2026-02-06T11:02:24.821040",
     "items": [
         {
             "title": "Symptoms That May Point to Chronic Migraine",
@@ -10,6 +10,27 @@
             "description": "",
             "pubDate": "2026-02-06T06:50:57",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/upper_back_pain_other/1800x1200_getty_rf_upper_back_pain_other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Ways to Manage Blue Light for Better Sleep",
+            "link": "https://www.webmd.com/sleep-disorders/sleep-blue-light",
+            "description": "",
+            "pubDate": "2026-02-06T06:50:57",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/slideshows/how_insomnia_can_affect_your_health_slideshow/1800x1200_how_insomnia_can_affect_your_health_slideshow.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "TB or not TB? That is the question",
+            "link": "https://www.npr.org/2026/02/06/g-s1-108804/tuberculosis-infectious-disease-diagnosis-misdiagnosis",
+            "description": "A new study in \"Nature Medicine\" estimates 2 million people are incorrectly told they have TB each year — and clinicians miss diagnosing TB in 1 milli...",
+            "pubDate": "2026-02-06T15:06:05",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7131x4754+0+0/resize/7131x4754!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fa2%2F572ae8fb4159bf7cfd2b08286660%2Ftb-615132254.jpg"
+        },
+        {
+            "title": "White House unveils TrumpRx website for medication discounts",
+            "link": "https://www.npr.org/2026/02/05/nx-s1-5702493/trumprx-drug-prices-discounts",
+            "description": "Under Trump administration deals to lower drug prices, pharmaceutical companies are offering some of their drugs at discounted prices through a new we...",
+            "pubDate": "2026-02-06T03:43:28",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2632+0+0/resize/3936x2632!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F51%2F161266024111a0c0fd511b7c9f1d%2Fap26037015524301.jpg"
         },
         {
             "title": "Best Fruits to Eat During Cancer Treatment",
@@ -26,60 +47,46 @@
             "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5691672"
         },
         {
-            "title": "White House unveils TrumpRx website for medication discounts",
-            "link": "https://www.npr.org/2026/02/05/nx-s1-5702493/trumprx-drug-prices-discounts",
-            "description": "Under Trump administration deals to lower drug prices, pharmaceutical companies are offering some of their drugs at discounted prices through a new we...",
-            "pubDate": "2026-02-06T03:43:28",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2632+0+0/resize/3936x2632!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F51%2F161266024111a0c0fd511b7c9f1d%2Fap26037015524301.jpg"
+            "title": "Congress passes $50 billion foreign aid bill, despite the Trump's cuts in 2025",
+            "link": "https://www.npr.org/2026/02/06/nx-s1-5702252/congress-passes-50-billion-foreign-aid-bill-despite-the-trumps-cuts-in-2025",
+            "description": "Congress allocated $50 billion for initiatives aimed at supporting democracy, scholarship programs, U.S. embassy operations and health and humanitaria...",
+            "pubDate": "2026-02-06T15:19:38",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7654x5103+0+0/resize/7654x5103!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F6d%2Fac561ef4423a96cbc802a1fe6d70%2Fusaid-2253193345.jpg"
         },
         {
-            "title": "Ways to Manage Blue Light for Better Sleep",
-            "link": "https://www.webmd.com/sleep-disorders/sleep-blue-light",
-            "description": "",
-            "pubDate": "2026-02-06T06:50:57",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/article_thumbnails/slideshows/how_insomnia_can_affect_your_health_slideshow/1800x1200_how_insomnia_can_affect_your_health_slideshow.jpg?resize=484px:*&output-quality=70"
+            "title": "Is Your Posture A Mess? Try This Beginner-Friendly Back Stretch",
+            "link": "https://www.mindbodygreen.com/articles/cobra-pose-bhujangasana-guide",
+            "description": "Backbends help keep your spine healthy and flexible.",
+            "pubDate": "2026-02-06T10:23:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Short On Time? This 5-Minute Habit Still Boosts Heart Health",
+            "link": "https://www.mindbodygreen.com/articles/want-better-heart-health-science-says-start-with-5-minutes-a-day",
+            "description": "Yes, really, only 5 minutes",
+            "pubDate": "2026-02-06T10:21:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "A Psychiatrist On The Dangers Of Pathologizing Everyday Emotions",
+            "link": "https://www.mindbodygreen.com/articles/proactive-mental-health-intervention",
+            "description": "We spoke with top psychiatrist and researcher Daniel Z. Lieberman, M.D. about how we need to be more forward-thinking with mental care.",
+            "pubDate": "2026-02-06T12:13:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "5 Ways Omega-3s Help Balance Blood Sugar, According to Research",
+            "link": "https://www.mindbodygreen.com/articles/5-ways-omega-3s-help-balance-blood-sugar-according-to-research",
+            "description": "And how much you need to see a benefit.",
+            "pubDate": "2026-02-06T10:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "I Didn’t Know I Had Bloating Issues Until This Helped Balanced My Gut",
             "link": "https://www.mindbodygreen.com/articles/i-didnt-know-i-had-bloating-issues-until-this-balanced-my-gut-know-more-about",
             "description": "And I genuinely love the flavor.",
             "pubDate": "2026-02-06T10:13:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Is Skipping Breakfast Helping (or Hurting) Your Metabolic Health? Research Weighs In",
-            "link": "https://www.mindbodygreen.com/articles/what-happens-when-you-routinely-skip-your-first-meal-of-day",
-            "description": "The breakfast debate just got more interesting",
-            "pubDate": "2026-02-06T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Why Adjustable Dumbbells Are the Smartest Strength Training Upgrade",
-            "link": "https://www.mindbodygreen.com/articles/home-gym-upgrade-that-finally-made-me-lift-heavier-and-feel-stronger",
-            "description": "An easy upgrade that makes working out from home easier, less intrusive, and more affordable.",
-            "pubDate": "2026-02-06T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "40% Of Cancer Cases Could Be Avoided With These Science-Backed Changes",
-            "link": "https://www.mindbodygreen.com/articles/researchers-examined-36-cancer-types-and-these-3-risk-factors-top-list",
-            "description": "A reframing of cancer prevention on a global scale",
-            "pubDate": "2026-02-06T10:01:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How the new dietary guidelines could impact school meals",
-            "link": "https://www.npr.org/2026/02/05/nx-s1-5691598/school-lunch-food-pyramid-usda-dietary-guidelines",
-            "description": "Cutting back on ready-to-eat meals won't be easy, and whole milk may make a comeback. One thing that's certain: It'll be a while before the new guidel...",
-            "pubDate": "2026-02-05T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F7e%2Fcc2012ce4e4d805f16bd4e9e0577%2Fmperez-npr-foodpyramid-final.jpg"
-        },
-        {
-            "title": "Measles continues to spread in the US, but with some letup",
-            "link": "https://www.npr.org/2026/02/05/nx-s1-5698522/measles-south-carolina-ice-detention-facilities",
-            "description": "As South Carolina's outbreak grows to 876 confirmed cases, vaccinations in the state surged in January. Cases have also been reported in two ICE deten...",
-            "pubDate": "2026-02-05T13:18:06",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2F10%2F83c61f4540be989e93ae3fcc8c75%2Fgettyimages-2258579619.jpg"
         },
         {
             "title": "Some Public Health Service officers deployed in detention centers suffer 'moral distress'",
@@ -87,13 +94,6 @@
             "description": "A special corps of health care workers have been called in to work with detained immigrants and many feel deeply conflicted about the assignment, sayi...",
             "pubDate": "2026-02-05T16:03:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F93%2Fe1fd003d40dda1d5cb2f07fe7105%2Fap25080482334994.jpg"
-        },
-        {
-            "title": "February Brings Us A Cosmic Course Correction—Here's Your Horoscope",
-            "link": "https://www.mindbodygreen.com/articles/february-2026-monthly-horoscope",
-            "description": "Saturn is moving into Aries.",
-            "pubDate": "2026-02-05T17:04:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }
