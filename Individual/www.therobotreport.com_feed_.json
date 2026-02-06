@@ -2,8 +2,22 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-02-06T11:03:06.249778",
+    "lastBuildDate": "2026-02-06T18:12:18.053516",
     "items": [
+        {
+            "title": "Robot development, from actuators to AI",
+            "link": "https://www.therobotreport.com/robot-development-from-actuators-ai-mauerer/",
+            "description": "The Robot Report Podcast's guests this week are Marco Mauerer from maxon motor and David Koelle of Charles River Analytics. The post Robot development...",
+            "pubDate": "2026-02-06T21:36:42",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Mario-Mauerer-headshot.jpg"
+        },
+        {
+            "title": "How ADR and Intel went underground with edge AI",
+            "link": "https://www.therobotreport.com/how-adr-intel-go-underground-edge-ai/",
+            "description": "Mat Allan, the co-founder and CTO of ADR, explains how its collaboration with Intel has helped mining automation. The post How ADR and Intel went unde...",
+            "pubDate": "2026-02-06T21:00:28",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/ADR-featured.jpg"
+        },
         {
             "title": "Bills introduced to strengthen U.S. robotics competitiveness, humanoid security",
             "link": "https://www.therobotreport.com/bills-introduced-strengthen-u-s-robotics-competitiveness-humanoid-security/",
@@ -24,20 +38,6 @@
             "description": "AMD engineered the Kintex UltraScale+ Gen 2 FPGAs to meet the increasingly complex system requirements across industrial and medical markets. The post...",
             "pubDate": "2026-02-05T16:04:05",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/amd-kintex-ultrascale-gen2-processor-featured.jpg"
-        },
-        {
-            "title": "Stanford, Princeton scientists launch MedOS AI-XR-cobot clinical system",
-            "link": "https://www.therobotreport.com/stanford-princeton-scientists-launch-medos-ai-xr-cobot-clinical-system/",
-            "description": "MedOS, which the Stanford-Princeton AI Coscientist Team is building from data from multiple sources, is designed to facilitate robot aid in clinical s...",
-            "pubDate": "2026-02-05T14:00:03",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/MedOS.jpg"
-        },
-        {
-            "title": "Bedrock Robotics’ $270M Series B paves the way for operator-less excavators",
-            "link": "https://www.therobotreport.com/bedrock-robotics-270m-series-b-paves-way-operator-less-excavators/",
-            "description": "Bedrock Robotics has raised money to scale autonomous construction fleets, tackling labor shortages with operator-less machines. The post Bedrock Robo...",
-            "pubDate": "2026-02-04T21:14:07",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Bedrock-excavator-featured.jpg"
         }
     ]
 }
