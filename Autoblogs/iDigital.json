@@ -2,14 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-06T18:12:18.051502",
+    "lastBuildDate": "2026-02-07T11:24:37.287477",
     "items": [
         {
-            "title": "Robot development, from actuators to AI",
-            "link": "https://www.therobotreport.com/robot-development-from-actuators-ai-mauerer/",
-            "description": "The Robot Report Podcast's guests this week are Marco Mauerer from maxon motor and David Koelle of Charles River Analytics. The post Robot development...",
-            "pubDate": "2026-02-06T21:36:42",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Mario-Mauerer-headshot.jpg"
+            "title": "KinetIQ framework from Humanoid orchestrates robot fleets",
+            "link": "https://www.therobotreport.com/kinetiq-framework-from-humanoid-orchestrates-robot-fleets/",
+            "description": "Humanoid has introduced KinetIQ, an AI framework designed to orchestrate robot fleets across industrial and service applications. The post KinetIQ fra...",
+            "pubDate": "2026-02-07T13:40:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/KinetIQ-copy.jpg"
+        },
+        {
+            "title": "North American robot orders rise by 6.6% in 2025, reports A3",
+            "link": "https://www.therobotreport.com/north-american-robot-orders-rise-by-6-6-percent-2025/",
+            "description": "In 2025, North American robot orders from non-automotive customers led the way, with cobots gaining more traction as well. The post North American rob...",
+            "pubDate": "2026-02-07T14:00:54",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/AdobeStock_robotorders-featured.jpg"
         },
         {
             "title": "The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry",
@@ -19,13 +26,6 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/image_7142eb.png"
         },
         {
-            "title": "Bills introduced to strengthen U.S. robotics competitiveness, humanoid security",
-            "link": "https://www.therobotreport.com/bills-introduced-strengthen-u-s-robotics-competitiveness-humanoid-security/",
-            "description": "The bills seek to establish a National Commission on Robotics and restrict humanoid imports for U.S. security and competitiveness. The post Bills intr...",
-            "pubDate": "2026-02-06T13:32:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/AdobeStock_524181667-copy.jpg"
-        },
-        {
             "title": "How ADR and Intel went underground with edge AI",
             "link": "https://www.therobotreport.com/how-adr-intel-go-underground-edge-ai/",
             "description": "Mat Allan, the co-founder and CTO of ADR, explains how its collaboration with Intel has helped mining automation. The post How ADR and Intel went unde...",
@@ -33,39 +33,32 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/ADR-featured.jpg"
         },
         {
+            "title": "Robot development, from actuators to AI",
+            "link": "https://www.therobotreport.com/robot-development-from-actuators-ai-mauerer/",
+            "description": "The Robot Report Podcast's guests this week are Marco Mauerer from maxon motor and David Koelle of Charles River Analytics. The post Robot development...",
+            "pubDate": "2026-02-06T21:36:42",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Mario-Mauerer-headshot.jpg"
+        },
+        {
+            "title": "Bills introduced to strengthen U.S. robotics competitiveness, humanoid security",
+            "link": "https://www.therobotreport.com/bills-introduced-strengthen-u-s-robotics-competitiveness-humanoid-security/",
+            "description": "The bills seek to establish a National Commission on Robotics and restrict humanoid imports for U.S. security and competitiveness. The post Bills intr...",
+            "pubDate": "2026-02-06T13:32:51",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/AdobeStock_524181667-copy.jpg"
+        },
+        {
             "title": "An experimental surgery is helping cancer survivors give birth",
             "link": "https://www.technologyreview.com/2026/02/06/1132319/experimental-surgery-colorectal-cancer-survivors-pregnant-birth/",
             "description": "This week I want to tell you about an experimental surgical procedure that’s helping people have babies. Specifically, it’s helping people who have ha...",
             "pubDate": "2026-02-06T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Moltbook was peak AI theater",
             "link": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
             "description": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social networ...",
             "pubDate": "2026-02-06T16:38:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "The Download: attempting to track AI, and the next generation of nuclear power",
-            "link": "https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This is the ...",
-            "pubDate": "2026-02-05T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/26f7.png"
-        },
-        {
-            "title": "Machina Labs raises $124M to launch large-scale intelligent U.S. factory",
-            "link": "https://www.therobotreport.com/machina-labs-raises-124m-to-launch-large-scale-intelligent-u-s-factory/",
-            "description": "Machina Labs designed its intelligent factory to manufacture a wide range of complex metal structures without significant retooling. The post Machina ...",
-            "pubDate": "2026-02-05T20:22:52",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/machinalabs-featured.jpg"
-        },
-        {
-            "title": "AMD expands midrange FPGA offerings with Kintex UltraScale+ Gen 2 family",
-            "link": "https://www.therobotreport.com/amd-expands-midrange-fpga-offerings-kintex-ultrascale-gen-2-family/",
-            "description": "AMD engineered the Kintex UltraScale+ Gen 2 FPGAs to meet the increasingly complex system requirements across industrial and medical markets. The post...",
-            "pubDate": "2026-02-05T16:04:05",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/amd-kintex-ultrascale-gen2-processor-featured.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Consolidating systems for AI with iPaaS",
@@ -75,39 +68,11 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MIT_SAP_V4-COVERJan302026.png?w=1555"
         },
         {
-            "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-            "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-            "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thurs...",
-            "pubDate": "2026-01-22T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30"
-        },
-        {
-            "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-            "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-            "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, de...",
-            "pubDate": "2026-01-19T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30"
-        },
-        {
-            "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-            "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-            "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $10...",
-            "pubDate": "2026-01-16T14:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30"
-        },
-        {
-            "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-            "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-            "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification...",
-            "pubDate": "2026-01-13T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
-        },
-        {
-            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
-            "pubDate": "2026-01-12T11:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
+            "title": "The Download: attempting to track AI, and the next generation of nuclear power",
+            "link": "https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This is the ...",
+            "pubDate": "2026-02-05T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/26f7.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -117,13 +82,6 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
@@ -131,11 +89,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -143,6 +101,13 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }
