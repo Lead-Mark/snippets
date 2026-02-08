@@ -2,8 +2,15 @@
     "title": "INfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-07T11:23:52.504769",
+    "lastBuildDate": "2026-02-08T11:33:40.113682",
     "items": [
+        {
+            "title": "Chicken Schnitzel",
+            "link": "https://therecipecritic.com/chicken-schnitzel/",
+            "description": "You guys are obsessed with my Pork Schnitzel, so I knew I had to make a chicken version! Thin-pounded, lightly…",
+            "pubDate": "2026-02-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/chicken-schnitzel-1-2.jpg"
+        },
         {
             "title": "Marcella Hazan’s 3 Ingredient Tomato Sauce",
             "link": "https://therecipecritic.com/marcella-hazans-tomato-sauce/",
@@ -19,13 +26,6 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/Week-76-Meal-Plan-Collage-.jpg"
         },
         {
-            "title": "Amazing Pepper Steak Stir Fry",
-            "link": "https://therecipecritic.com/pepper-steak-recipe/",
-            "description": "Trust me on this one. If you want the most tender pepper steak you’ve ever made at home, this recipe…",
-            "pubDate": "2026-02-05T01:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/pepper-steak.jpg"
-        },
-        {
             "title": "Lazy Enchiladas (4 Ingredients)",
             "link": "https://therecipecritic.com/lazy-enchiladas/",
             "description": "When you want dinner fast, these Lazy Enchiladas are it! Four ingredients. Less than 30 minutes. Just layer frozen taquitos…",
@@ -33,11 +33,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/lazy-enchiladas.jpg"
         },
         {
-            "title": "Red Beans and Rice",
-            "link": "https://therecipecritic.com/red-beans-and-rice/",
-            "description": "If your family is hungry now and you don’t have time to soak beans or babysit the stove, this red…",
-            "pubDate": "2026-02-04T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/red-beans-and-rice.jpg"
+            "title": "Amazing Pepper Steak Stir Fry",
+            "link": "https://therecipecritic.com/pepper-steak-recipe/",
+            "description": "Trust me on this one. If you want the most tender pepper steak you’ve ever made at home, this recipe…",
+            "pubDate": "2026-02-05T01:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/pepper-steak.jpg"
         },
         {
             "title": "Vegan Gluten-Free Morning Glory Muffins",
