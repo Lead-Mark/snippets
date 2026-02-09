@@ -2,7 +2,7 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-09T11:03:56.470441",
+    "lastBuildDate": "2026-02-09T16:47:21.080918",
     "items": [
         {
             "title": "2 Minute Medicine Rewind February 9, 2026",
@@ -10,6 +10,13 @@
             "description": "Reproductive Shifts and Ovarian Cancer Risk in Women Aged 40 Years or Older 1. Across the premenopausal and postmenopausal groups, early menarche, lat...",
             "pubDate": "2026-02-09T11:00:44",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/ovarian-cancer-PD-300x150.jpg"
+        },
+        {
+            "title": "Olympic COVID restrictions are gone, but some athletes are still self-quarantining",
+            "link": "https://www.npr.org/2026/02/09/nx-s1-5702394/olympic-covid-restrictions-are-gone-but-some-athletes-still-self-quarantining",
+            "description": "For most people, the pandemic days of masking are behind them. In certain corners of the Winter Olympics, though, things still look a lot like they di...",
+            "pubDate": "2026-02-09T13:02:02",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4623x3083+0+0/resize/4623x3083!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F39%2F594980204a4e9edfbd93a10fa72a%2Fap26038463893033.jpg"
         },
         {
             "title": "March for Life attendees may have been exposed to measles, DC Health warns",
@@ -33,95 +40,102 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3024x2269+0+692/resize/3024x2269!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2F1e%2F26db141140cf98b6a74b4391ce94%2Fchip-conley-at-window.jpg"
         },
         {
-            "title": "Olympic COVID restrictions are gone, but some athletes are still self-quarantining",
-            "link": "https://www.npr.org/2026/02/09/nx-s1-5702394/olympic-covid-restrictions-are-gone-but-some-athletes-still-self-quarantining",
-            "description": "For most people, the pandemic days of masking are behind them. In certain corners of the Winter Olympics, though, things still look a lot like they di...",
-            "pubDate": "2026-02-09T13:02:02",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4623x3083+0+0/resize/4623x3083!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F39%2F594980204a4e9edfbd93a10fa72a%2Fap26038463893033.jpg"
-        },
-        {
-            "title": "Simple choices prevent chronic disease [PODCAST]",
-            "link": "https://kevinmd.com/2026/02/simple-choices-prevent-chronic-disease-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Internal medicine physician Shirisha Kamidi discusses her article “Sm...",
-            "pubDate": "2026-02-09T00:00:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "New study reveals gaps in Apple Watch's ability to detect undiagnosed high blood pressure",
-            "link": "https://medicalxpress.com/news/2026-02-reveals-gaps-apple-ability-undiagnosed.html",
-            "description": "In September 2025, the U.S. Food and Drug Administration cleared the Apple Watch Hypertension Notifications Feature, a cuffless tool that uses the wat...",
-            "pubDate": "2026-02-09T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why flu season can strain your heart, and what a new mRNA approach suggests",
-            "link": "https://medicalxpress.com/news/2026-02-flu-season-strain-heart-mrna.html",
-            "description": "Mount Sinai researchers have identified a cellular mechanism linking infections from influenza A viruses (IAVs) to cardiovascular disease, providing c...",
-            "pubDate": "2026-02-09T16:00:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Outdated Medicare rule delays nursing care and wastes hospital resources, study finds",
-            "link": "https://medicalxpress.com/news/2026-02-outdated-medicare-delays-nursing-hospital.html",
-            "description": "A long-standing Medicare policy meant to manage rehabilitation services in nursing homes may keep older Americans in hospitals longer than necessary w...",
-            "pubDate": "2026-02-09T16:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Benefits of Statins Far Outweigh Side Effect Risks",
-            "link": "https://www.medscape.com/viewarticle/good-news-patients-worried-about-statin-side-effects-study-2026a1000403?src=rss",
-            "description": "A large-scale study finds that most listed statin side effects are minimal, while the cardiovascular benefits dominate, prompting calls to revise labe...",
-            "pubDate": "2026-02-09T12:35:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Consuming 2–3 cups of coffee daily associated with lower dementia risk, better cognitive function",
-            "link": "https://medicalxpress.com/news/2026-02-consuming-cups-coffee-daily-dementia.html",
-            "description": "A new prospective cohort study by investigators from Mass General Brigham, Harvard T.H. Chan School of Public Health, and the Broad Institute of MIT a...",
-            "pubDate": "2026-02-09T16:00:03",
+            "title": "How brain signaling pathway can increase resilience to disease",
+            "link": "https://medicalxpress.com/news/2026-02-brain-pathway-resilience-disease.html",
+            "description": "A team of researchers at RPI, in collaboration with the University of South Florida, University of North Carolina, and The Neural Stem Cell Institute,...",
+            "pubDate": "2026-02-09T21:17:33",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Overlooked group of gut bacteria appears key to good health, global study finds",
-            "link": "https://medicalxpress.com/news/2026-02-overlooked-group-gut-bacteria-key.html",
-            "description": "In a huge global study led by University of Cambridge researchers, a single group of bacteria—named CAG-170—has repeatedly shown up in high numbers in...",
-            "pubDate": "2026-02-09T16:00:09",
+            "title": "Itaconate identified as a new target for pediatric brain tumors called ependymomas",
+            "link": "https://medicalxpress.com/news/2026-02-itaconate-pediatric-brain-tumors-ependymomas.html",
+            "description": "Ependymomas are tumors that grow in the brain or spinal cord and are the third-most common type of brain tumor in children. This type of cancer affect...",
+            "pubDate": "2026-02-09T21:20:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "How immune cells in the adult brain can regulate generation of new neurons",
+            "link": "https://medicalxpress.com/news/2026-02-immune-cells-adult-brain-generation.html",
+            "description": "A new study, recently published in the journal Nature Communications, is leading to a new understanding of how immune cells can influence adult neurog...",
+            "pubDate": "2026-02-09T21:23:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Medical misinformation: Navigating vaccine hesitancy with empathy",
+            "link": "https://kevinmd.com/2026/02/medical-misinformation-navigating-vaccine-hesitancy-with-empathy.html",
+            "description": "Medical misinformation is rampant but should not be overstated. Vaccination remains a good barometer of the range of opinions on a subject directly re...",
+            "pubDate": "2026-02-09T16:00:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Clinical trial explores whether a genetic test can improve early detection of prostate cancer",
+            "link": "https://medicalxpress.com/news/2026-02-clinical-trial-explores-genetic-early.html",
+            "description": "A genetic test developed by researchers at Broad Clinical Labs and the U.S. Department of Veterans Affairs (VA) is now enabling a large, nationwide cl...",
+            "pubDate": "2026-02-09T21:24:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "FDA Updates Axi-Cel Safety Label for Large B-Cell Lymphoma",
+            "link": "https://www.medscape.com/viewarticle/fda-updates-axi-cel-safety-label-large-b-cell-lymphoma-2026a100042s?src=rss",
+            "description": "The FDA has removed R/R PCNSL from a Limitations of Use section on the CAR-T product’s label based on positive findings from phase 1 study. Medscape M...",
+            "pubDate": "2026-02-09T19:51:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "AI-assisted therapy: Why supervision makes the difference",
+            "link": "https://kevinmd.com/2026/02/ai-assisted-therapy-why-supervision-makes-the-difference.html",
+            "description": "Artificial intelligence in mental health has become an easy target. Headlines warn of hallucinating chatbots, reckless advice, and sensational claims ...",
+            "pubDate": "2026-02-09T14:00:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "When language becomes the barrier: IMGs and autism diagnoses",
             "link": "https://kevinmd.com/2026/02/when-language-becomes-the-barrier-imgs-and-autism-diagnoses.html",
             "description": "I once left grand rounds with a donut and a fake pager buzz because I couldn’t understand the speaker, who often was a natural Mandarin or Arabic spea...",
             "pubDate": "2026-02-09T12:00:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "CVD Risk Factor Counseling Value to Cancer Survivors Unclear",
-            "link": "https://www.medscape.com/viewarticle/cvd-risk-factor-counseling-value-cancer-survivors-unclear-2026a100040c?src=rss",
-            "description": "Researchers aimed to determine whether a survivorship care plan including counseling sessions could improve control of CVD risk factors in adult survi...",
-            "pubDate": "2026-02-09T13:24:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "How Indoor and Outdoor Air Quality Affect COPD",
-            "link": "https://www.medscape.com/viewarticle/how-indoor-and-outdoor-air-quality-affect-copd-2026a10003zw?src=rss",
-            "description": "Data support strategies to improve air quality and mitigate increased risk for COPD exacerbations. Medscape Medical News",
-            "pubDate": "2026-02-09T12:21:06",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Cladribine a Safe ‘Exit Strategy’ for Stopping DMTs for MS",
+            "link": "https://www.medscape.com/viewarticle/cladribine-safe-exit-strategy-stopping-dmts-older-ms-2026a100043b?src=rss",
+            "description": "Results from a new small study suggest people aged 50 and older with MS who want to discontinue disease-modifying therapy can do so with cladribine wi...",
+            "pubDate": "2026-02-09T21:12:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "SMC Rejects Sotatercept For Pulmonary Hypertension",
+            "link": "https://www.medscape.com/viewarticle/smc-rejects-sotatercept-pulmonary-hypertension-2026a100042g?src=rss",
+            "description": "Scotland’s medicines regulator has rejected sotatercept for PAH, citing insufficient cost-effectiveness evidence despite improved exercise capacity. M...",
+            "pubDate": "2026-02-09T17:08:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Speeding Up Respiratory Infection Diagnosis",
             "link": "https://www.medscape.com/viewarticle/speeding-respiratory-infection-diagnosis-rural-areas-2026a10003xz?src=rss",
             "description": "A collaboration between a rural, urgent care center network and diagnostics company may be laying the groundwork for speeding up the time waiting for ...",
             "pubDate": "2026-02-09T13:31:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "AI model can accelerate antibody drug production",
+            "link": "https://medicalxpress.com/news/2026-02-ai-antibody-drug-production.html",
+            "description": "As instigators of immunity, monoclonal antibodies are marvels of modern medicine, lab-made proteins that can treat cancers, autoimmune diseases, and m...",
+            "pubDate": "2026-02-09T21:40:04",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Why Med Students Think They’re Dying (When They’re Not)",
-            "link": "https://www.medscape.com/viewarticle/why-med-students-think-theyre-dying-when-theyre-not-2026a10003zl?src=rss",
-            "description": "Studying disease amid the stress of medical school can make every headache a tumor and every muscle twitch ALS. Welcome to ‘med school syndrome.’ Try ...",
-            "pubDate": "2026-02-09T12:03:17",
+            "title": "Simple choices prevent chronic disease [PODCAST]",
+            "link": "https://kevinmd.com/2026/02/simple-choices-prevent-chronic-disease-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Internal medicine physician Shirisha Kamidi discusses her article “Sm...",
+            "pubDate": "2026-02-09T00:00:14",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Non-Sterile Wipes Tied to Fatal Infection, Officials Say",
+            "link": "https://www.medscape.com/s/viewarticle/non-sterile-wipes-tied-fatal-infection-officials-say-2026a100042i?src=rss",
+            "description": "UK health officials have confirmed one death and dozens of infections linked to contaminated non-sterile wipes still found in home first aid kits. Pre...",
+            "pubDate": "2026-02-09T20:14:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Trump administration lauds plastic surgeons' statement on trans surgery for minors",
@@ -131,25 +145,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4743x3162+0+0/resize/4743x3162!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2Fee%2Feb5896d44de395de6a1cff8e1592%2Fap25169784130869.jpg"
         },
         {
-            "title": "Charles Bonnet syndrome: Why the blind see hallucinations",
-            "link": "https://kevinmd.com/2026/02/charles-bonnet-syndrome-why-the-blind-see-hallucinations.html",
-            "description": "Today I awoke feeling hopeless, disconnected from my body and my thoughts. All I could sense was the void that my vision loss represented. I kept thin...",
-            "pubDate": "2026-02-08T16:00:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Physician weight loss strategy: Why willpower isn’t enough in 2026",
-            "link": "https://kevinmd.com/2026/02/physician-weight-loss-strategy-why-willpower-isnt-enough-in-2026.html",
-            "description": "Shortly after Halloween, I hid my daughter’s candy haul. Not because candy is evil nor because I’m trying to ban sugar from our house. But because I k...",
-            "pubDate": "2026-02-08T14:00:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
             "title": "The American Board of Internal Medicine maintenance of certification lawsuit: What physicians need to know",
             "link": "https://kevinmd.com/2026/02/the-american-board-of-internal-medicine-maintenance-of-certification-lawsuit-what-physicians-need-to-know.html",
             "description": "The tension between physicians and the American Board of Internal Medicine (ABIM) has simmered for a decade. What began as a professional debate over ...",
             "pubDate": "2026-02-08T20:00:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "An ultrasound test may more reliably detect ovarian cancer in premenopausal women than the Risk of Malignancy Index",
@@ -157,6 +157,13 @@
             "description": "1. This cohort study found that the IOTA ADNEX ultrasound model at a 10% risk threshold detected more ovarian cancers in premenopausal women than the ...",
             "pubDate": "2026-02-07T00:00:03",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/ovarian-cancer-PD-300x150.jpg"
+        },
+        {
+            "title": "Neonatal Hyperbilirubinemia and navigating the 2022 AAP guideline updates",
+            "link": "https://www.2minutemedicine.com/neonatal-hyperbilirubinemia-and-navigating-the-2022-aap-guideline-updates/",
+            "description": "Key Points: The 2022 American Academy of Pediatrics guidelines slightly raised phototherapy thresholds for most infants to balance preventing encephal...",
+            "pubDate": "2026-02-06T17:30:46",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/05/1024px-Neonatal_Jacoplane-300x150.jpg"
         },
         {
             "title": "Chimeric antigen receptor T-cell therapy may induce sustained remission in multirefractory autoimmune hemolytic anemia",
@@ -171,13 +178,6 @@
             "description": "1. Adding compartment-specific knee bracing with an adherence support intervention to standard advice, information and exercise (AIE) provides a small...",
             "pubDate": "2026-02-06T00:00:47",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2020/04/Osteoarthritis_on_X-ray-300x150.jpg"
-        },
-        {
-            "title": "Neonatal Hyperbilirubinemia and navigating the 2022 AAP guideline updates",
-            "link": "https://www.2minutemedicine.com/neonatal-hyperbilirubinemia-and-navigating-the-2022-aap-guideline-updates/",
-            "description": "Key Points: The 2022 American Academy of Pediatrics guidelines slightly raised phototherapy thresholds for most infants to balance preventing encephal...",
-            "pubDate": "2026-02-06T17:30:46",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/05/1024px-Neonatal_Jacoplane-300x150.jpg"
         }
     ]
 }

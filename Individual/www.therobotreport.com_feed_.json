@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-02-09T11:03:03.654580",
+    "lastBuildDate": "2026-02-09T16:45:02.522577",
     "items": [
+        {
+            "title": "11 reasons robots struggle to scale in high-mix manufacturing",
+            "link": "https://www.therobotreport.com/11-reasons-robots-struggle-to-scale-in-high-mix-manufacturing/",
+            "description": "Few robotics technologies have been actually deployed in high-mix applications. Let's explore the reasons behind this slow transition. The post 11 rea...",
+            "pubDate": "2026-02-09T18:44:44",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Deployment-Challenge-Graphics-e1770662223149.jpg"
+        },
         {
             "title": "Flipping the script: How ‘upside-down’ AutoPallet robots solve palletizing density",
             "link": "https://www.therobotreport.com/flipping-autopalleet-script-how-upside-down-autopallet-robots-solve-palletizing-density/",
@@ -31,13 +38,6 @@
             "description": "Humanoid has introduced KinetIQ, an AI framework designed to orchestrate robot fleets across industrial and service applications. The post KinetIQ fra...",
             "pubDate": "2026-02-07T13:40:40",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/KinetIQ-copy.jpg"
-        },
-        {
-            "title": "Robot development, from actuators to AI",
-            "link": "https://www.therobotreport.com/robot-development-from-actuators-ai-mauerer/",
-            "description": "The Robot Report Podcast's guests this week are Marco Mauerer from maxon motor and David Koelle of Charles River Analytics. The post Robot development...",
-            "pubDate": "2026-02-06T21:36:42",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Mario-Mauerer-headshot.jpg"
         }
     ]
 }
