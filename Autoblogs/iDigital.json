@@ -2,28 +2,35 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-12T07:03:56.286135",
+    "lastBuildDate": "2026-02-12T11:02:27.116543",
     "items": [
         {
-            "title": "AI is already making online swindles easier. It could get much worse.",
+            "title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
+            "link": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is alread...",
+            "pubDate": "2026-02-12T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9d8.png"
+        },
+        {
+            "title": "AI is already making online crimes easier. It could get much worse.",
             "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
             "description": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to Vir...",
             "pubDate": "2026-02-12T11:00:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/mask-2.jpg?w=1993"
         },
         {
-            "title": "What’s next for Chinese open-source AI",
-            "link": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
-            "description": "The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese companies have repeat...",
-            "pubDate": "2026-02-12T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
             "title": "Why EVs are gaining ground in Africa",
             "link": "https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/",
             "description": "EVs are getting cheaper and more common all over the world. But the technology still faces major challenges in some markets, including many countries ...",
             "pubDate": "2026-02-12T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "What’s next for Chinese open-source AI",
+            "link": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+            "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+            "pubDate": "2026-02-12T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Apptronik brings in another $520M to ramp up Apollo production",
@@ -33,18 +40,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/apptronik-featured.jpg"
         },
         {
-            "title": "The Download: inside the QuitGPT movement, and EVs in Africa",
-            "link": "https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A “QuitGPT” ...",
-            "pubDate": "2026-02-11T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/26f8.png"
-        },
-        {
             "title": "Is a secure AI assistant possible?",
             "link": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
             "description": "AI agents are a risky business. Even when stuck inside the chatbox window, LLMs will make mistakes and behave badly. Once they have tools that they ca...",
             "pubDate": "2026-02-11T20:08:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Stryker introduces Mako Handheld Robotics with RPS launch",
@@ -54,11 +54,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/mako-rps-for-total-knee.jpg"
         },
         {
-            "title": "Boston Dynamics CEO Robert Playter steps down",
-            "link": "https://www.therobotreport.com/boston-dynamics-ceo-robert-playter-steps-down/",
-            "description": "Amanda McMaster, the company's CFO, will take over as interim CEO until Boston Dynamics' board of directors finds its next leader. The post Boston Dyn...",
-            "pubDate": "2026-02-10T20:30:14",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/robert-playter-featured.jpg"
+            "title": "Symbotic acquires autonomous forklift maker Fox Robotics",
+            "link": "https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/",
+            "description": "Most of Fox Robotics' customers are not Symbotic customers, but it appears the two companies share one large customer. The post Symbotic acquires auto...",
+            "pubDate": "2026-02-10T21:17:21",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Early-Bird-Promo-Inline-Ad-RSE-2.png"
         },
         {
             "title": "APEM launches Dual Icon series of LED indicators",
@@ -68,53 +68,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/APEM-Dual-icon-indicator-family-photo-featured.jpg"
         },
         {
-            "title": "Symbotic acquires autonomous forklift maker Fox Robotics",
-            "link": "https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/",
-            "description": "Most of Fox Robotics' customers are not Symbotic customers, but it appears the two companies share one large customer. The post Symbotic acquires auto...",
-            "pubDate": "2026-02-10T21:17:21",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/01/Early-Bird-Promo-Inline-Ad-RSE-2.png"
-        },
-        {
-            "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-            "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-            "description": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thurs...",
-            "pubDate": "2026-01-22T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30"
-        },
-        {
-            "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-            "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-            "description": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, de...",
-            "pubDate": "2026-01-19T14:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30"
-        },
-        {
-            "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-            "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-            "description": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $10...",
-            "pubDate": "2026-01-16T14:01:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30"
-        },
-        {
-            "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-            "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-            "description": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification...",
-            "pubDate": "2026-01-13T13:00:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
-        },
-        {
-            "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-            "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-            "description": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users...",
-            "pubDate": "2026-01-12T11:30:00",
-            "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
-        },
-        {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+            "title": "Boston Dynamics CEO Robert Playter steps down",
+            "link": "https://www.therobotreport.com/boston-dynamics-ceo-robert-playter-steps-down/",
+            "description": "Amanda McMaster, the company's CFO, will take over as interim CEO until Boston Dynamics' board of directors finds its next leader. The post Boston Dyn...",
+            "pubDate": "2026-02-10T20:30:14",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/robert-playter-featured.jpg"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
@@ -122,6 +80,13 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
