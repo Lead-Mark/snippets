@@ -1,6 +1,43 @@
 {
-    "title": "Individual Feed: rss.politico.com_economy.xml",
+    "title": "Individual feed for https://rss.politico.com/economy.xml",
     "link": "https://rss.politico.com/economy.xml",
-    "description": "Individual feed entries from https://rss.politico.com/economy.xml",
-    "items": []
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-02-12T15:48:28.153777",
+    "items": [
+        {
+            "title": "Trump in Iowa tries to shift the conversation back to the economy",
+            "link": "https://www.politico.com/news/2026/01/27/trump-iowa-shift-conversation-economy-00751246",
+            "description": "A brief swing through the farm state underscored administration fears about the midterms.",
+            "pubDate": "2026-01-28T01:10:41",
+            "image_url": "https://static.politico.com/a3/2a/53c1329140969af3d33d46437af2/trump-85804.jpg"
+        },
+        {
+            "title": "Americans give Trump low marks on handling of economy as midterms likely to center on affordability",
+            "link": "https://www.politico.com/news/2026/01/16/cnn-poll-americans-trump-economy-affordability-00733331",
+            "description": "Sixty-one percent of voters told a CNN poll released Friday that they disapprove of the way Trump is handling the economy.",
+            "pubDate": "2026-01-16T16:21:41",
+            "image_url": "https://static.politico.com/68/b2/5b9d44ab4d0c8b17f4ef174553ab/trump-99151.jpg"
+        },
+        {
+            "title": "Capitol agenda: Trump tests GOP with Fed probe",
+            "link": "https://www.politico.com/live-updates/2026/01/12/congress/trump-gop-doj-fed-jerome-powell-00721769",
+            "description": "",
+            "pubDate": "2026-01-12T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Vance tries to thread affordability needle in Rust Belt",
+            "link": "https://www.politico.com/news/2025/12/16/vance-tries-to-thread-affordability-needle-in-rust-belt-00693642",
+            "description": "The vice president fine-tunes Trump’s economic message, but he's only got so much wiggle room.",
+            "pubDate": "2025-12-16T22:21:02",
+            "image_url": "https://static.politico.com/8f/82/851881a347f8857fba1b79fecc39/vance-06574.jpg"
+        },
+        {
+            "title": "Ex-Trump voters swung hard to Democrats over costs in NJ &amp; VA, new research shows",
+            "link": "https://www.politico.com/news/2025/12/16/economy-voters-new-jersey-virginia-midterms-trump-00693015",
+            "description": "Voters who backed Donald Trump in 2024 and swung to Democrats in this year's Virginia and New Jersey elections did so over economic concerns, accordin...",
+            "pubDate": "2025-12-16T18:52:54",
+            "image_url": "https://static.politico.com/73/f7/e6ad03dc4d8bb30c818c911ee5df/pictures-of-the-week-global-photo-gallery-02702.jpg"
+        }
+    ]
 }
