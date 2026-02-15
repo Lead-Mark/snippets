@@ -2,14 +2,63 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-14T16:17:49.229091",
+    "lastBuildDate": "2026-02-15T17:55:28.473743",
     "items": [
         {
-            "title": "Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say",
-            "link": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
-            "description": "Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.",
-            "pubDate": "2026-02-14T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5160x3440+0+0/resize/5160x3440!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F0c%2F283c417040848278d1e12d72bc58%2Fgettyimages-2259619597.jpg"
+            "title": "Photos: The flying doctors of Lesotho won't let their wings be clipped",
+            "link": "https://www.npr.org/2026/02/15/g-s1-108326/flying-doctors-lesotho",
+            "description": "This band of airborne health workers bring essential medical care to isolated communities in the southern African nation. In addition to turbulence, t...",
+            "pubDate": "2026-02-15T15:17:12",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5498x3665+0+0/resize/5498x3665!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F72%2F09f46352489b8244968f047e6e15%2Flesotho-flying-doctors-6766.jpg"
+        },
+        {
+            "title": "What the FDA's rejection of Moderna's flu shot means for the future of vaccines",
+            "link": "https://www.npr.org/2026/02/15/nx-s1-5711612/what-the-fdas-rejection-of-modernas-flu-shot-means-for-the-future-of-vaccines",
+            "description": "The Food and Drug Administration rejected Moderna's new flu shot. This raises questions about what it means for the future of vaccine development.",
+            "pubDate": "2026-02-15T13:05:24",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5711612"
+        },
+        {
+            "title": "Sabbaticals provide a critical lifeline for sustainable medical careers [PODCAST]",
+            "link": "https://kevinmd.com/2026/02/sabbaticals-provide-a-critical-lifeline-for-sustainable-medical-careers-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Palliative care physician and certified physician development coach C...",
+            "pubDate": "2026-02-15T00:00:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "A common biomarker of schizophrenia and bipolar disorder revealed",
+            "link": "https://medicalxpress.com/news/2026-02-common-biomarker-schizophrenia-bipolar-disorder.html",
+            "description": "For decades, schizophrenia and bipolar disorder (BD) were treated as distinct and unrelated psychiatric disorders. Schizophrenia is a psychiatric diso...",
+            "pubDate": "2026-02-15T18:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Communal bathing was a public good. Then it got hijacked by wellness culture",
+            "link": "https://medicalxpress.com/news/2026-02-communal-good-hijacked-wellness-culture.html",
+            "description": "Bathhouses are making a wave in Australia and overseas. And it's not an isolated trend; it reflects the broader advancement of the global wellness eco...",
+            "pubDate": "2026-02-15T21:30:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Yes, men have a biological clock too. But it's not just age that affects male fertility",
+            "link": "https://medicalxpress.com/news/2026-02-men-biological-clock-age-affects.html",
+            "description": "When we talk about a biological clock ticking, it usually means the pressure women feel to get pregnant before a certain age. It's linked to the decli...",
+            "pubDate": "2026-02-15T20:30:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "RNA is key to the dark matter of the genome. Scientists are sequencing it to illuminate human health and disease",
+            "link": "https://medicalxpress.com/news/2026-02-rna-key-dark-genome-scientists.html",
+            "description": "Although there are striking differences between the cells that make up your eyes, kidneys, brain and toes, the DNA blueprint for these cells is essent...",
+            "pubDate": "2026-02-15T18:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Forget grand plans. These small tweaks can add meaning to your life",
+            "link": "https://medicalxpress.com/news/2026-02-grand-small-tweaks-life.html",
+            "description": "The start of the year often comes with attempts at big life changes that we're hoping will make us feel more grounded, fulfilled or in control. Maybe ...",
+            "pubDate": "2026-02-15T19:30:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "It's a dangerous complication of pregnancy -- but a new drug holds promise",
@@ -26,60 +75,39 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/ovarian-cancer-PD-300x150.jpg"
         },
         {
-            "title": "Systemic strain creates the perfect environment for medical gaslighting [PODCAST]",
-            "link": "https://kevinmd.com/2026/02/systemic-strain-creates-the-perfect-environment-for-medical-gaslighting-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Otolaryngologist Alan P. Feren discusses his article “How system stra...",
-            "pubDate": "2026-02-14T00:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say",
+            "link": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
+            "description": "Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.",
+            "pubDate": "2026-02-14T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5160x3440+0+0/resize/5160x3440!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F0c%2F283c417040848278d1e12d72bc58%2Fgettyimages-2259619597.jpg"
         },
         {
-            "title": "The specter of death: Why mortality gives life meaning",
-            "link": "https://kevinmd.com/2026/02/the-specter-of-death-why-mortality-gives-life-meaning.html",
-            "description": "The looming specter of death exerts significant psychological power over the living. Perhaps the most common ways of coping with our persistent death ...",
-            "pubDate": "2026-02-14T12:00:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Physician patient advocacy: Fighting insurance denials effectively",
+            "link": "https://kevinmd.com/2026/02/physician-patient-advocacy-fighting-insurance-denials-effectively.html",
+            "description": "Our nation and the health care industry have been in shock following the assassination of the CEO of one of the largest insurance companies in the U.S...",
+            "pubDate": "2026-02-14T16:00:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "More young adults are developing osteoarthritis—here's how we can spot those at risk before the damage is done",
-            "link": "https://medicalxpress.com/news/2026-02-young-adults-osteoarthritis.html",
-            "description": "Research suggests young, active people are increasingly being diagnosed with osteoarthritis at much earlier ages than many expect. I have seen its eff...",
-            "pubDate": "2026-02-14T19:30:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Therapeutic outcomes for autistic adults: Exploring factors that shape anxiety and depression trajectories",
-            "link": "https://medicalxpress.com/news/2026-02-therapeutic-outcomes-autistic-adults-exploring.html",
-            "description": "Autism spectrum disorder (ASD) is a neurodevelopmental condition marked by differences in social interactions and in the understanding of others' thou...",
-            "pubDate": "2026-02-14T18:00:04",
+            "title": "Flexible health care funding: Moving beyond disease eradication",
+            "link": "https://kevinmd.com/2026/02/flexible-health-care-funding-moving-beyond-disease-eradication.html",
+            "description": "The moment the text message lit up my watch, I knew my life had irrevocably changed. I looked down at the miniature screen and found that I could not ...",
+            "pubDate": "2026-02-14T20:00:59",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "The science behind the trend for showering in the dark before bed",
-            "link": "https://medicalxpress.com/news/2026-02-science-trend-showering-dark-bed.html",
-            "description": "The latest wellness trend and \"sleep hack\" involves switching off the bathroom light before stepping into the shower. In the dimness, the water feels ...",
-            "pubDate": "2026-02-14T19:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Why a chief wellness officer hid her medication use for 13 years",
+            "link": "https://kevinmd.com/2026/02/why-a-chief-wellness-officer-hid-her-medication-use-for-13-years.html",
+            "description": "An excerpt from Physicians With Lived Experience: How Their Stories Offer Clinical Guidance (APA Publishing, 2025). “Here is the truth: I have been on...",
+            "pubDate": "2026-02-14T18:00:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Research urges faster autism diagnosis and tailored care as suicide prevention priorities",
-            "link": "https://medicalxpress.com/news/2026-02-urges-faster-autism-diagnosis-tailored.html",
-            "description": "A new study by Bournemouth University (BU) is calling for Government to commit to a faster diagnosis and tailored mental health support for people wit...",
-            "pubDate": "2026-02-14T21:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Public health care and contracting out: Can it work? Global review presents some answers",
-            "link": "https://medicalxpress.com/news/2026-02-health-global.html",
-            "description": "Universal health coverage—ensuring everyone can get quality, affordable health care when they need it—is one of the targets of the Sustainable Develop...",
-            "pubDate": "2026-02-14T18:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "A telephone-based intervention reduced loneliness and improved well-being among older adults",
-            "link": "https://www.2minutemedicine.com/a-telephone-based-intervention-reduced-loneliness-and-improved-well-being-among-older-adults/",
-            "description": "1. Four weeks of telephone-delivered behavioral activation and mindfulness interventions by lay counsellors were associated with reduced loneliness an...",
-            "pubDate": "2026-02-13T00:00:38",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/02/elderly-dementia-300x150.jpg"
+            "title": "Curing versus caring in medicine: Bridging the gap in patient trust",
+            "link": "https://kevinmd.com/2026/02/curing-versus-caring-in-medicine-bridging-the-gap-in-patient-trust.html",
+            "description": "Modern medicine has a lot to show for all our breakthroughs and biotechnology. At an astonishingly rapid rate, we have built a health care system that...",
+            "pubDate": "2026-02-14T22:00:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "A familiar move with a new twist: Trump tries to cut CDC funds he just signed into law",
@@ -89,74 +117,46 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4627x3094+0+0/resize/4627x3094!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2Faa%2Ff42c075f47efba0e2c8da7866a6a%2Fgettyimages-2219508078.jpg"
         },
         {
-            "title": "Colorectal cancer is leading cancer killer for people under 50",
-            "link": "https://www.npr.org/2026/02/13/nx-s1-5712762/colorectal-cancer-is-leading-cancer-killer-for-people-under-50",
-            "description": "James Van Der Beek's death at age 48 highlights a sad statistic: More people under 50 are getting colorectal cancer.",
-            "pubDate": "2026-02-13T09:45:10",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5712762"
-        },
-        {
-            "title": "RFK Jr. made promises to get his job as health secretary. He's broken many of them",
-            "link": "https://www.npr.org/2026/02/13/nx-s1-5712721/rfk-jr-children-vaccines-cdc-funding-autism-immunizations",
-            "description": "In his confirmation hearings, Robert F. Kennedy Jr. told U.S. senators that he would not cut funding for vaccine research or change the nation's offic...",
-            "pubDate": "2026-02-13T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8211x5474+0+0/resize/8211x5474!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc5%2F24%2F25b35eb64330a411436fa2e88d26%2Fgettyimages-2199432719.jpg"
-        },
-        {
-            "title": "The cost of clinician absence in the boardroom: a 30-year perspective",
-            "link": "https://kevinmd.com/2026/02/the-cost-of-clinician-absence-in-the-boardroom-a-30-year-perspective.html",
-            "description": "I have spent 30 years as a physical medicine and rehabilitation physician in solo practice. In three decades of treating patients, I have witnessed th...",
-            "pubDate": "2026-02-13T20:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Stigma Driving Illegal Erectile Dysfunction Pill Sales",
-            "link": "https://www.medscape.com/viewarticle/stigma-driving-illegal-erectile-dysfunction-pill-sales-2026a10004qa?src=rss",
-            "description": "More than 4.4 million illegal erectile dysfunction pills were seized in 2025 as the MHRA warned that stigma and embarrassment are pushing men in the U...",
-            "pubDate": "2026-02-13T19:03:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "A telephone-based intervention reduced loneliness and improved well-being among older adults",
+            "link": "https://www.2minutemedicine.com/a-telephone-based-intervention-reduced-loneliness-and-improved-well-being-among-older-adults/",
+            "description": "1. Four weeks of telephone-delivered behavioral activation and mindfulness interventions by lay counsellors were associated with reduced loneliness an...",
+            "pubDate": "2026-02-13T00:00:38",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/02/elderly-dementia-300x150.jpg"
         },
         {
             "title": "Rural Accountable Care Organizations: Better Diabetes Care",
             "link": "https://www.medscape.com/viewarticle/rural-accountable-care-organizations-better-diabetes-care-2026a10004pw?src=rss",
             "description": "Participation in accountable care organizations shows better diabetes care outcomes for patients in rural areas than for those in urban settings. Meds...",
             "pubDate": "2026-02-13T17:10:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Dream Orgasms: Clinical Insight or Emerging Phenomenon?",
-            "link": "https://www.medscape.com/viewarticle/dream-orgasms-clinical-insight-or-emerging-phenomenon-2026a10004q5?src=rss",
-            "description": "New research suggests that orgasms without genital stimulation, including during REM sleep, may reflect central neurophysiologic processes with therap...",
-            "pubDate": "2026-02-13T17:47:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "My wife wants me to retire",
-            "link": "https://kevinmd.com/2026/02/my-wife-wants-me-to-retire.html",
-            "description": "At our yearly Christmas medical staff dinner this last year, our chief of staff asked all the doctors present who had been working at our hospital for...",
-            "pubDate": "2026-02-13T19:00:19",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Spending Package Extends Telehealth; PBMs Face Regulations",
-            "link": "https://www.medscape.com/viewarticle/us-spending-package-extends-telehealth-regulates-pharmacy-2026a10004py?src=rss",
-            "description": "A recent federal appropriations bill carried with it 2-year extensions of telehealth provisions, along with changes in policy intended to set the stag...",
-            "pubDate": "2026-02-13T17:35:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "In the age of AI, what makes a physician REAL?",
-            "link": "https://kevinmd.com/2026/02/in-the-age-of-ai-what-makes-a-physician-real.html",
-            "description": "It was 3:17 a.m. when the trauma pager went off. “Level 1 incoming. MVC. Hypotensive.” The trauma bay shifted instantly from stillness to choreography...",
-            "pubDate": "2026-02-13T22:00:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Benefits of TrumpRx Drug Site Are Limited, Experts Say",
             "link": "https://www.medscape.com/viewarticle/benefits-trumprx-prescription-drug-site-are-limited-experts-2026a10004qm?src=rss",
             "description": "A new federal prescription drug site promises to save patients money on popular drugs. Here’s what physicians should know about TrumpRx. Medscape Medi...",
             "pubDate": "2026-02-13T21:54:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Stigma Driving Illegal Erectile Dysfunction Pill Sales",
+            "link": "https://www.medscape.com/viewarticle/stigma-driving-illegal-erectile-dysfunction-pill-sales-2026a10004qa?src=rss",
+            "description": "More than 4.4 million illegal erectile dysfunction pills were seized in 2025 as the MHRA warned that stigma and embarrassment are pushing men in the U...",
+            "pubDate": "2026-02-13T19:03:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Dream Orgasms: Clinical Insight or Emerging Phenomenon?",
+            "link": "https://www.medscape.com/viewarticle/dream-orgasms-clinical-insight-or-emerging-phenomenon-2026a10004q5?src=rss",
+            "description": "New research suggests that orgasms without genital stimulation, including during REM sleep, may reflect central neurophysiologic processes with therap...",
+            "pubDate": "2026-02-13T17:47:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Spending Package Extends Telehealth; PBMs Face Regulations",
+            "link": "https://www.medscape.com/viewarticle/us-spending-package-extends-telehealth-regulates-pharmacy-2026a10004py?src=rss",
+            "description": "A recent federal appropriations bill carried with it 2-year extensions of telehealth provisions, along with changes in policy intended to set the stag...",
+            "pubDate": "2026-02-13T17:35:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Propofol is associated with lower mortality in sepsis-associated encephalopathy",
