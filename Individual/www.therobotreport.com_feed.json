@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-02-14T16:16:42.371445",
+    "lastBuildDate": "2026-02-16T06:05:25.318601",
     "items": [
+        {
+            "title": "High-precision robots: What to do when absolute accuracy is poor?",
+            "link": "https://www.therobotreport.com/high-precision-robots-what-to-do-when-absolute-accuracy-is-poor/",
+            "description": "The Fraunhofer Institute for Manufacturing Engineering and Automation IPA is helping to improve absolute accuracy for robots. The post High-precision ...",
+            "pubDate": "2026-02-15T13:34:12",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/FRaunhofer_IPA.jpg"
+        },
         {
             "title": "ServoBelt offers high-end performance for automotive gantry",
             "link": "https://www.therobotreport.com/servobelt-offers-high-end-performance-automotive-gantry/",
@@ -31,13 +38,6 @@
             "description": "Trener Robotics’ Acteris is a robot-agnostic skills platform that lets operators describe the tasks they want to automate in their own words. The post...",
             "pubDate": "2026-02-13T13:30:30",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Trener_Robotics_Founders_Asad_Tirmizi__Lars_Tingesltad-featured.jpg"
-        },
-        {
-            "title": "PickNik Robotics to work with Motiv Space Systems on NASA ISAM mission",
-            "link": "https://www.therobotreport.com/picknik-robotics-to-work-with-motiv-space-systems-on-nasa-isam-mission/",
-            "description": "For the mission, Motiv will be developing the robotic system while PickNik will provide robot motion planning and arm control software. The post PickN...",
-            "pubDate": "2026-02-12T19:05:16",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Motiv-Space-Systems-and-PickNik-Robotics-Collaborate-featured.jpg"
         }
     ]
 }
