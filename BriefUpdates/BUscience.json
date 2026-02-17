@@ -2,14 +2,35 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-17T11:10:11.609120",
+    "lastBuildDate": "2026-02-17T16:10:39.225543",
     "items": [
+        {
+            "title": "Ultra-fast pulsar found near the Milky Way’s supermassive black hole",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260217005751.htm",
+            "description": "Scientists scanning the heart of the Milky Way have spotted a tantalizing signal: a possible ultra-fast pulsar spinning every 8.19 milliseconds near S...",
+            "pubDate": "2026-02-17T11:15:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Massive magma surge sparked 28,000 Santorini earthquakes",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260215225532.htm",
+            "description": "When tens of thousands of earthquakes shook Santorini, the cause wasn’t just shifting tectonic plates—it was rising magma. Scientists tracked about 30...",
+            "pubDate": "2026-02-17T05:02:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
+            "description": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these r...",
+            "pubDate": "2026-02-17T10:30:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
         {
             "title": "Ancient DNA solves 12,000-year-old mystery of rare genetic growth disorder",
             "link": "https://www.sciencedaily.com/releases/2026/02/260217005754.htm",
             "description": "An Ice Age double burial in Italy has yielded a stunning genetic revelation. DNA from a mother and daughter who lived over 12,000 years ago shows that...",
             "pubDate": "2026-02-17T11:25:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Toxic metals found in bananas after Brazil mining disaster",
@@ -17,27 +38,6 @@
             "description": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the eart...",
             "pubDate": "2026-02-17T12:07:09",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Ultra-fast pulsar found near the Milky Way’s supermassive black hole",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260217005751.htm",
-            "description": "Scientists scanning the heart of the Milky Way have spotted a tantalizing signal: a possible ultra-fast pulsar spinning every 8.19 milliseconds near S...",
-            "pubDate": "2026-02-17T11:15:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Scientists discover brain switches that clear Alzheimer’s plaques",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260215225555.htm",
-            "description": "Researchers have identified two brain receptors that help the brain clear away amyloid beta, a hallmark of Alzheimer’s disease. By stimulating these r...",
-            "pubDate": "2026-02-17T10:30:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Massive magma surge sparked 28,000 Santorini earthquakes",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260215225532.htm",
-            "description": "When tens of thousands of earthquakes shook Santorini, the cause wasn’t just shifting tectonic plates—it was rising magma. Scientists tracked about 30...",
-            "pubDate": "2026-02-17T05:02:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "NSF launches $100M National Quantum and Nanotechnology Research Infrastructure program",
@@ -51,7 +51,7 @@
             "link": "https://www.nsf.gov/news/nsf-announces-first-ai-engage-awards-modernize-global",
             "description": "The U.S. National Science Foundation, in coordination with partner agencies from Australia, India and Japan, today announced the first cohort of award...",
             "pubDate": "2026-02-12T15:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Transitioning NCAR-Wyoming Supercomputing Center operations",
@@ -61,18 +61,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Intent to restructure critical weather science infrastructure",
-            "link": "https://www.nsf.gov/news/intent-restructure-critical-weather-science-infrastructure",
-            "description": "The U.S. National Science Foundation (NSF) announced today that the agency is reviewing the structure of the research and observational capabilities o...",
-            "pubDate": "2025-12-17T18:17:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
             "title": "NSF and partners invest $9M in AI-focused math education program",
             "link": "https://www.nsf.gov/news/nsf-partners-invest-9m-ai-focused-math-education-program",
             "description": "The U.S. National Science Foundation Directorate for Social, Behavioral, and Economic Sciences (NSF SBE) has launched the Collaboratory to Advance Mat...",
             "pubDate": "2025-12-17T19:00:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Intent to restructure critical weather science infrastructure",
+            "link": "https://www.nsf.gov/news/intent-restructure-critical-weather-science-infrastructure",
+            "description": "The U.S. National Science Foundation (NSF) announced today that the agency is reviewing the structure of the research and observational capabilities o...",
+            "pubDate": "2025-12-17T18:17:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }
