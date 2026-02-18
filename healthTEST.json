@@ -2,8 +2,127 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-17T16:12:20.051005",
+    "lastBuildDate": "2026-02-18T06:07:54.108626",
     "items": [
+        {
+            "title": "State public-option health plans expand but can't fill gaps left by federal changes",
+            "link": "https://www.npr.org/2026/02/18/nx-s1-5717181/nevada-public-option-health-plan-aca",
+            "description": "Nevada recently became the third state to offer one of the plans on the ACA marketplaces. They're intended to be a cheaper insurance option but so far...",
+            "pubDate": "2026-02-18T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x701+0+0/resize/1024x701!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2Fda%2F21724c064145aae4466b567e4451%2Fgettyimages-1230646470.jpg"
+        },
+        {
+            "title": "Sodium-glucose cotransporter 2 inhibitors may improve left ventricular diastolic function in hypertrophic cardiomyopathy",
+            "link": "https://www.2minutemedicine.com/sodium-glucose-cotransporter-2-inhibitors-may-improve-left-ventricular-diastolic-function-in-hypertrophic-cardiomyopathy/",
+            "description": "1. Sodium-glucose cotransporter 2 inhibitors (SGLT-2i) were associated with improved left ventricular diastolic function and New York Heart Associatio...",
+            "pubDate": "2026-02-18T00:00:35",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/02/heart-failure-cardiomyopathy-300x150.jpg"
+        },
+        {
+            "title": "Meta CEO Mark Zuckerberg to face jury in landmark social media addiction trial",
+            "link": "https://www.npr.org/2026/02/18/nx-s1-5716229/zuckerberg-social-media-addiction-trial",
+            "description": "The case is seen as a test of social media's legal responsibility for platform design features that plaintiffs' lawyers say exacerbated mental health ...",
+            "pubDate": "2026-02-18T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5439x3626+0+0/resize/5439x3626!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F1a%2F5b77e7a1494cbc281205541c7a32%2Fap25364581373166.jpg"
+        },
+        {
+            "title": "8 creative ways to build your village, according to our listeners",
+            "link": "https://www.npr.org/2026/02/18/nx-s1-5716105/8-creative-ways-to-build-your-village-community-according-to-our-listeners",
+            "description": "NPR listeners share how they've made relationships with their neighbors and community. Many of them, through parties, potlucks and coffees, say they'v...",
+            "pubDate": "2026-02-18T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2822x2111+0+0/resize/2822x2111!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2Fe7%2F3db58fde474181e148f17a4bb3c2%2Funtitled-artwork-1.png"
+        },
+        {
+            "title": "Brainwaves of mothers and children synchronize when playing together—even in an acquired language",
+            "link": "https://medicalxpress.com/news/2026-02-brainwaves-mothers-children-synchronize-playing.html",
+            "description": "Interbrain synchrony is the simultaneous activity of neural networks across the brains of people who are socially interacting—for example, talking, le...",
+            "pubDate": "2026-02-18T05:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Antimicrobial resistance in foodborne bacteria remains a public health concern in Europe",
+            "link": "https://medicalxpress.com/news/2026-02-antimicrobial-resistance-foodborne-bacteria-health.html",
+            "description": "Antimicrobial resistance (AMR) in common foodborne bacteria such as Salmonella and Campylobacter continues to be a public health concern across Europe...",
+            "pubDate": "2026-02-18T10:00:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Infliximab, Upadacitinib: Rapid Relief in Ulcerative Colitis",
+            "link": "https://www.medscape.com/viewarticle/infliximab-upadacitinib-offer-rapid-relief-ulcerative-2026a100053b?src=rss",
+            "description": "Analysis of 11 trials shows that some advanced treatments relieve symptoms faster and produce better short-term responses in severe ulcerative colitis...",
+            "pubDate": "2026-02-18T10:44:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Allergic conjunctivitis linked to increased risk for keratoconus",
+            "link": "https://medicalxpress.com/news/2026-02-allergic-conjunctivitis-linked-keratoconus.html",
+            "description": "For patients aged 5 to 25 years, allergic conjunctivitis is associated with an increased risk for keratoconus and increased corneal diagnostic procedu...",
+            "pubDate": "2026-02-18T03:10:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "C-reactive protein links to ventricular repolarization in coronary artery disease, study finds",
+            "link": "https://medicalxpress.com/news/2026-02-reactive-protein-links-ventricular-repolarization.html",
+            "description": "A new study reveals that the predictive power of key inflammatory markers, such as C-reactive protein, shifts fundamentally depending on whether a pat...",
+            "pubDate": "2026-02-18T03:20:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "A Single Dose of Short-Acting Psychedelic Rapidly Eases MDD",
+            "link": "https://www.medscape.com/viewarticle/single-dose-short-acting-psychedelic-rapidly-eases-major-2026a1000537?src=rss",
+            "description": "Dimethyltryptamine’s short duration of psychedelic effects makes it a potentially practical alternative to other longer-acting psychedelic therapies s...",
+            "pubDate": "2026-02-18T10:55:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Breast Cancer Patients Living Longer Post-Medicaid Expansion",
+            "link": "https://www.medscape.com/viewarticle/breast-cancer-patients-living-longer-post-medicaid-expansion-2026a100053h?src=rss",
+            "description": "Patients with breast cancer living in states with expanded Medicaid eligibility, have seen survival gains, raising more concerns about the impact of r...",
+            "pubDate": "2026-02-18T10:55:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Europe Groups Face Gaza’s Ongoing Healthcare Crisis",
+            "link": "https://www.medscape.com/viewarticle/europes-humanitarian-groups-face-gazas-ongoing-healthcare-2026a100053f?src=rss",
+            "description": "While the unmet needs of patients in Gaza are immense, new Israeli government requirements and other restrictions are challenging humanitarian organiz...",
+            "pubDate": "2026-02-18T10:58:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Home care: The Dutch model that challenges bureaucracy",
+            "link": "https://medicalxpress.com/news/2026-02-home-dutch-bureaucracy.html",
+            "description": "Bureaucracy once swallowed Dutch home care. Buurtzorg flipped the script by trusting nurses and focusing on purpose.",
+            "pubDate": "2026-02-18T03:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Fibromyalgia-PTSD Link Shows Bidirectional Relationship",
+            "link": "https://www.medscape.com/viewarticle/fibromyalgia-ptsd-link-shows-bidirectional-relationship-2026a1000529?src=rss",
+            "description": "Research suggests a bidirectional relationship between posttraumatic stress disorder and fibromyalgia in military service members exposed to combat en...",
+            "pubDate": "2026-02-18T11:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "This behavior can be a turning point for families caring for a dementia patient",
+            "link": "https://www.npr.org/2026/02/17/nx-s1-5715970/dementia-alzheimers-elopement-lost-memory-care",
+            "description": "Wandering, and \"elopement,\" are frightening and dangerous behaviors by people with dementia. For some families, it is the point when they begin to see...",
+            "pubDate": "2026-02-17T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F8d%2F603be0db4289ae9b5993718d107e%2Fgettyimages-1319707336.jpg"
+        },
+        {
+            "title": "One in Six Medicare Beneficiaries Use Telehealth for Essential Care",
+            "link": "https://www.2minutemedicine.com/one-in-six-medicare-beneficiaries-use-telehealth-for-essential-care/",
+            "description": "1. In this cross-sectional study, 16.4% of Medicare beneficiaries had at least one telehealth visit between 2021 and 2023, with users more likely to h...",
+            "pubDate": "2026-02-17T03:07:16",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/cell-phone-300x150.jpg"
+        },
+        {
+            "title": "A safe space for girls who've faced sexual violence",
+            "link": "https://www.npr.org/2026/02/17/nx-s1-5667015/sexual-violence-girls-safe-space",
+            "description": "The Democratic Republic of Congo is seeing a significant increase in acts of sexual violence against girls and young women. A support center offers a ...",
+            "pubDate": "2026-02-17T19:43:14",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1600x900!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F3d%2Fb25792f84e2788ed2c76edca25f6%2Funicef-final.png"
+        },
         {
             "title": "Exposure to air pollution is associated with increased risk of developing limitations in physical function",
             "link": "https://www.2minutemedicine.com/exposure-to-air-pollution-is-associated-with-increased-risk-of-developing-limitations-in-physical-function/",
@@ -26,158 +145,39 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/07/1280px-Endometrial_adenocarcinoma_1-300x150.jpg"
         },
         {
-            "title": "One in Six Medicare Beneficiaries Use Telehealth for Essential Care",
-            "link": "https://www.2minutemedicine.com/one-in-six-medicare-beneficiaries-use-telehealth-for-essential-care/",
-            "description": "1. In this cross-sectional study, 16.4% of Medicare beneficiaries had at least one telehealth visit between 2021 and 2023, with users more likely to h...",
-            "pubDate": "2026-02-17T03:07:16",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/cell-phone-300x150.jpg"
-        },
-        {
-            "title": "A safe space for girls who've faced sexual violence",
-            "link": "https://www.npr.org/2026/02/17/nx-s1-5667015/sexual-violence-girls-safe-space",
-            "description": "The Democratic Republic of Congo is seeing a significant increase in acts of sexual violence against girls and young women. A support center offers a ...",
-            "pubDate": "2026-02-17T19:43:14",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1600x900!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F3d%2Fb25792f84e2788ed2c76edca25f6%2Funicef-final.png"
-        },
-        {
-            "title": "This behavior can be a turning point for families caring for a dementia patient",
-            "link": "https://www.npr.org/2026/02/17/nx-s1-5715970/dementia-alzheimers-elopement-lost-memory-care",
-            "description": "Wandering, and \"elopement,\" are frightening and dangerous behaviors by people with dementia. For some families, it is the point when they begin to see...",
-            "pubDate": "2026-02-17T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F8d%2F603be0db4289ae9b5993718d107e%2Fgettyimages-1319707336.jpg"
-        },
-        {
-            "title": "Key brain DMT theory takes a hit: Rat study finds no detectable DMT in serotonin neurons",
-            "link": "https://medicalxpress.com/news/2026-02-key-brain-dmt-theory-rat.html",
-            "description": "For decades, the idea that the human brain might naturally produce the psychedelic compound DMT has attracted considerable attention. It has been spec...",
-            "pubDate": "2026-02-17T20:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Waiting for the system to change causes burnout [PODCAST]",
-            "link": "https://kevinmd.com/2026/02/waiting-for-the-system-to-change-causes-burnout-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Board-certified pediatrician and certified coach Jessie Mahoney discu...",
-            "pubDate": "2026-02-17T00:00:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "HIV entry blocker pairs CD4 mimic and antibody, showing sevenfold higher efficacy",
-            "link": "https://medicalxpress.com/news/2026-02-hiv-entry-blocker-pairs-cd4.html",
-            "description": "Drug conjugates (ADCs) developed at Institute of Science Tokyo combine a CD4 mimic with neutralizing antibodies for enhanced suppression of human immu...",
-            "pubDate": "2026-02-17T20:56:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The honest broker in pediatrics: Building the medical home",
-            "link": "https://kevinmd.com/2026/02/the-honest-broker-in-pediatrics-building-the-medical-home.html",
-            "description": "When I arrived at a regional military hospital, it was not a dispensary or a community clinic. It was the referral hospital for the northern tier miss...",
-            "pubDate": "2026-02-17T12:00:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Novel biomarker predicts chemotherapy response in triple-negative breast cancer",
-            "link": "https://medicalxpress.com/news/2026-02-biomarker-chemotherapy-response-triple-negative.html",
-            "description": "Researchers at The University of Texas MD Anderson Cancer Center have developed a new computational approach designed to better account for changes in...",
-            "pubDate": "2026-02-17T20:40:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Head position during brain and inner ear MRI can create artifacts that impact interpretation and patient comfort",
-            "link": "https://medicalxpress.com/news/2026-02-position-brain-ear-mri-artifacts.html",
-            "description": "Dark, diamond-shaped spots in inner ear magnetic resonance imaging (MRI) scans are not always signs of pathological changes—they can simply result fro...",
-            "pubDate": "2026-02-17T20:50:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Why most flu infections fizzle: Fluorescent imaging shows transcription is a key bottleneck",
-            "link": "https://medicalxpress.com/news/2026-02-flu-infections-fizzle-fluorescent-imaging.html",
-            "description": "For the first time, scientists have been able to watch the flu virus live as it infects human airway cells. They developed a new technique which makes...",
-            "pubDate": "2026-02-17T20:59:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "The Case for Continuous Glucose Monitoring in Pregnancy",
-            "link": "https://www.medscape.com/viewarticle/case-continuous-glucose-monitoring-pregnancy-2026a10004we?src=rss",
-            "description": "Continuous glucose monitoring improves some outcomes for mothers and infants. Medscape Medical News",
-            "pubDate": "2026-02-17T12:21:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Doctors Urged to Ask About Herbal Remedies",
-            "link": "https://www.medscape.com/viewarticle/doctors-urged-ask-about-herbal-remedies-2026a10004yu?src=rss",
-            "description": "One in three patients uses herbal remedies with prescription medicines, prompting warnings over underreported interactions and hidden risks. Medscape ...",
-            "pubDate": "2026-02-17T14:56:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Stick a Fork in Aspirin for Cancer Prevention in Over-70s",
-            "link": "https://www.medscape.com/viewarticle/stick-fork-aspirin-cancer-prevention-older-adults-2026a10004yn?src=rss",
-            "description": "What does extended data from the ASPREE trial reveal about daily aspirin use in this population? Medscape Medical News",
-            "pubDate": "2026-02-17T12:46:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The Coming Age of Genetic Doping in Olympic Sport",
-            "link": "https://www.medscape.com/viewarticle/coming-age-genetic-doping-olympic-sport-2026a10004yp?src=rss",
-            "description": "The rise of gene editing forces regulators to confront a difficult question: How to protect fair play in the age of genomic medicine. Medscape News Eu...",
-            "pubDate": "2026-02-17T12:56:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "At Discharge, Patients’ Medication Lists Rarely Shrink",
-            "link": "https://www.medscape.com/viewarticle/polypharmacy-discharge-where-medication-lists-grow-and-why-2026a10004yv?src=rss",
-            "description": "Often, drugs meant to be given temporarily are continued as patients progress through multiple departments. Medscape Medical News",
-            "pubDate": "2026-02-17T13:25:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Is that carb ultra-processed? Here's a test even a kid can do",
-            "link": "https://www.npr.org/2026/02/16/nx-s1-5708698/ultra-processed-food-diet-health",
-            "description": "The latest nutrition guidelines urge Americans to avoid highly processed food. But when it comes to carbs, many people don't know which ones are ultra...",
-            "pubDate": "2026-02-16T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+0/resize/3500x1969!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F2f%2F734c5dc84fbf8696f6e286af07de%2Fnpr-experiment-final-hi.jpg"
-        },
-        {
-            "title": "Deep-learning models displayed expert-level accuracy in detecting epileptiform discharges on electroencephalogram (EEG) recordings",
-            "link": "https://www.2minutemedicine.com/deep-learning-models-displayed-expert-level-accuracy-in-detecting-epileptiform-discharges-on-electroencephalogram-eeg-recordings/",
-            "description": "1. Li and colleagues developed a deep-learning model to analyze EEG recordings and detect event-level EEG spikes. 2. The model achieved high accuracy ...",
-            "pubDate": "2026-02-16T15:30:26",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Febrile-Seizures-241x300.jpg"
-        },
-        {
-            "title": "Primary care is in trouble. Doctors are banding together to increase market power",
-            "link": "https://www.npr.org/2026/02/16/nx-s1-5715996/primary-care-independent-physician-association-ipa-medicaid-cuts-value-based-reimbursement",
-            "description": "As costs increase, primary care practices are joining forces in Independent Physician Associations. The goal is to leverage better insurance contracts...",
-            "pubDate": "2026-02-16T18:08:47",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2016x1512+0+0/resize/2016x1512!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2F00%2Fffc2f2894ef3a4be4d6aea77cf32%2Fvalley-medical-group-25-year-sign.jpg"
-        },
-        {
-            "title": "Why medical education assessment kills curiosity in residents",
-            "link": "https://kevinmd.com/2026/02/why-medical-education-assessment-kills-curiosity-in-residents.html",
-            "description": "Sarah, a new attending, has been asked to work with June, a PGY-1 resident who has struggled with new admissions. On rounds, June recommends a urinaly...",
-            "pubDate": "2026-02-16T14:00:01",
+            "title": "The healing power of physician presence in modern medicine",
+            "link": "https://kevinmd.com/2026/02/the-healing-power-of-physician-presence-in-modern-medicine.html",
+            "description": "I remember a patient who sat silently, staring at the hospital ceiling. She had survived a sudden illness that left her body weak and her spirit shake...",
+            "pubDate": "2026-02-17T16:00:46",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "When the doctor becomes the patient: a breast cancer journey",
-            "link": "https://kevinmd.com/2026/02/when-the-doctor-becomes-the-patient-a-breast-cancer-journey.html",
-            "description": "At 62, I unwittingly became a cliché: the physician who makes a poor patient. The hard lump in my right breast, directly inferior to the nipple at the...",
-            "pubDate": "2026-02-16T16:00:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Deprescribing in health care: Why less medication can be more",
+            "link": "https://kevinmd.com/2026/02/deprescribing-in-health-care-why-less-medication-can-be-more.html",
+            "description": "Every day, millions of Americans take medications to manage chronic conditions or prevent disease. Prescription drugs are vital tools in modern medici...",
+            "pubDate": "2026-02-17T20:00:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "MOC patient outcomes: Why recertification doesn’t guarantee quality",
-            "link": "https://kevinmd.com/2026/02/moc-patient-outcomes-why-recertification-doesnt-guarantee-quality.html",
-            "description": "Every major policy in medicine is supposed to rest on evidence. We track outcomes for new drugs, devices, and procedures. We measure hospital mortalit...",
-            "pubDate": "2026-02-16T20:00:24",
+            "title": "Value-based care data gap: Why metrics fail to reach the bedside",
+            "link": "https://kevinmd.com/2026/02/value-based-care-data-gap-why-metrics-fail-to-reach-the-bedside.html",
+            "description": "Value-based care represents one of health care’s most important transformations, driving hospitals and health systems to focus on outcomes that truly ...",
+            "pubDate": "2026-02-17T18:00:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "What the folinic acid retraction means for autism treatment",
+            "link": "https://kevinmd.com/2026/02/what-the-folinic-acid-retraction-means-for-autism-treatment.html",
+            "description": "On January 29, 2026, the European Journal of Pediatrics formally retracted what had been the largest randomized clinical trial examining folinic acid ...",
+            "pubDate": "2026-02-17T19:00:36",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Photos: The flying doctors of Lesotho won't let their wings be clipped",
-            "link": "https://www.npr.org/2026/02/15/g-s1-108326/flying-doctors-lesotho",
-            "description": "This band of airborne health workers bring essential medical care to isolated communities in the southern African nation. In addition to turbulence, t...",
-            "pubDate": "2026-02-15T15:17:12",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5498x3665+0+0/resize/5498x3665!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F72%2F09f46352489b8244968f047e6e15%2Flesotho-flying-doctors-6766.jpg"
+            "title": "The pause medicine never taught us to take",
+            "link": "https://kevinmd.com/2026/02/the-pause-medicine-never-taught-us-to-take.html",
+            "description": "As physicians, most of us do not need another Zoom webinar on burnout; we need open space. Even at the earliest stages of training, we are made to fee...",
+            "pubDate": "2026-02-17T17:00:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }
