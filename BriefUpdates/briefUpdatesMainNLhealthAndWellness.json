@@ -2,8 +2,15 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-20T11:05:19.930449",
+    "lastBuildDate": "2026-02-20T16:05:21.139877",
     "items": [
+        {
+            "title": "Artificial intelligence predicts colorectal cancer in ulcerative colitis with 99% accuracy",
+            "link": "https://www.2minutemedicine.com/artificial-intelligence-predicts-colorectal-cancer-in-ulcerative-colitis-with-99-accuracy/",
+            "description": "1. A new AI workflow utilizing large language models can predict with 99% accuracy which ulcerative colitis patients will remain free of colorectal ca...",
+            "pubDate": "2026-02-20T18:24:45",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/05/Untitled-design-300x170.png"
+        },
         {
             "title": "Penpulimab and lenalidomide in combination with standard of care chemoimmunotherapy demonstrates promising safety and efficacy in diffuse large B-cell lymphoma",
             "link": "https://www.2minutemedicine.com/penpulimab-and-lenalidomide-in-combination-with-standard-of-care-chemoimmunotherapy-demonstrates-promising-safety-and-efficacy-in-diffuse-large-b-cell-lymphoma/",
@@ -12,81 +19,109 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/07/1024px-Large_b_cell_lymphoma_-_cytology_small1-300x150.jpg"
         },
         {
-            "title": "When a Breast Cancer Surgeon Gets Breast Cancer",
-            "link": "https://www.medscape.com/viewarticle/when-breast-cancer-surgeon-gets-breast-cancer-2026a10005f6?src=rss",
-            "description": "Anne Peled, MD, helped pioneer a sensation-preserving mastectomy procedure. When she got the diagnosis, she needed the procedure herself. Here’s what ...",
-            "pubDate": "2026-02-20T13:33:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Gene variants help explain why food allergies run in families",
-            "link": "https://medicalxpress.com/news/2026-02-gene-variants-food-allergies-families.html",
-            "description": "People often remark that allergies run in their family, but the genetic causes have remained unclear. Previous food allergy genetic research has relie...",
-            "pubDate": "2026-02-20T15:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Adolescent cannabis use linked to doubling risk of psychotic and bipolar disorders",
-            "link": "https://medicalxpress.com/news/2026-02-adolescent-cannabis-linked-psychotic-bipolar.html",
-            "description": "Adolescents who use cannabis could face a significantly higher risk of developing serious psychiatric disorders by young adulthood, according to a lar...",
-            "pubDate": "2026-02-20T16:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Rethinking Risk Communication Before Pediatric Surgery",
-            "link": "https://www.medscape.com/viewarticle/rethinking-risk-communication-before-pediatric-surgery-2026a10005ey?src=rss",
-            "description": "Pediatricians should share medical, social, and medication details and prep families for safer pediatric procedures. Medscape Medical News",
-            "pubDate": "2026-02-20T12:49:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Smartphone-linked catheter sensor could spot UTIs sooner than lab cultures",
-            "link": "https://medicalxpress.com/news/2026-02-smartphone-linked-catheter-sensor-utis.html",
-            "description": "Urinary tract infections (UTIs) are among the most common bacterial infections, with catheter-associated UTIs accounting for more than half of infecti...",
-            "pubDate": "2026-02-20T13:20:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Healthier dietary patterns linked to lower colorectal cancer risks in large international study",
-            "link": "https://medicalxpress.com/news/2026-02-healthier-dietary-patterns-linked-colorectal.html",
-            "description": "A large, long-term study following nearly 1 million adults across the United States and Europe has found that dietary patterns associated with lower i...",
-            "pubDate": "2026-02-20T15:15:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Lipedema Is Now Recognized as a Chronic Disease",
-            "link": "https://www.medscape.com/viewarticle/lipedema-now-recognized-chronic-disease-2026a10005f4?src=rss",
-            "description": "International consensus defines lipedema as a chronic disease; clarifies its biology and diagnosis; and urges standardized care, research, and policy ...",
-            "pubDate": "2026-02-20T13:33:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Cold Alerts Backed by New Mortality Data",
-            "link": "https://www.medscape.com/viewarticle/cold-alerts-backed-new-mortality-data-2026a10005ew?src=rss",
-            "description": "New monitoring shows vulnerability to cold weather in England may be increasing compared with previous years. Medscape News UK",
-            "pubDate": "2026-02-20T12:39:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Healthy Life Expectancy Declines Again",
+            "link": "https://www.medscape.com/viewarticle/healthy-life-expectancy-declines-again-2026a10005fz?src=rss",
+            "description": "Years spent in good health have dropped to their lowest level since comparable data were first collected in 2011 to 2013, with stark regional gaps acr...",
+            "pubDate": "2026-02-20T18:21:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Locum tenens offers physicians a path to freedom [PODCAST]",
             "link": "https://kevinmd.com/2026/02/locum-tenens-offers-physicians-a-path-to-freedom-podcast.html",
             "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Pediatrician Trevor Cabrera discusses his article “Locum tenens: Recl...",
             "pubDate": "2026-02-20T00:00:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Midwifery Graduates Face Job Drought",
-            "link": "https://www.medscape.com/s/viewarticle/midwifery-graduates-face-job-drought-2026a10005f5?src=rss",
-            "description": "Nearly one in three newly qualified midwives cannot find NHS roles, despite chronic shortages across maternity services. Press Association",
-            "pubDate": "2026-02-20T13:31:08",
+            "title": "The misuse of hormone therapy in menopause care",
+            "link": "https://kevinmd.com/2026/02/the-misuse-of-hormone-therapy-in-menopause-care.html",
+            "description": "As an integrative and functional medicine physician, I prescribe hormone therapy. I also see its misuse daily. Hormone replacement therapy (HRT), incl...",
+            "pubDate": "2026-02-20T16:00:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Stunning new maps of myelin-making mouse brain cells advance understanding of nervous system disorders",
+            "link": "https://medicalxpress.com/news/2026-02-stunning-myelin-mouse-brain-cells.html",
+            "description": "Johns Hopkins scientists say they have used 3D imaging, special microscopes and artificial intelligence (AI) programs to construct new maps of mouse b...",
+            "pubDate": "2026-02-20T19:40:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Lipedema Is Now Recognized as a Chronic Disease",
+            "link": "https://www.medscape.com/viewarticle/lipedema-now-recognized-chronic-disease-2026a10005f4?src=rss",
+            "description": "International consensus defines lipedema as a chronic disease; clarifies its biology and diagnosis; and urges standardized care, research, and policy ...",
+            "pubDate": "2026-02-20T13:33:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "'It's chronic disease, stupid!' The central challenge facing health care",
+            "link": "https://medicalxpress.com/news/2026-02-chronic-disease-stupid-central-health.html",
+            "description": "\"It's the economy, stupid!\" is an aphorism coined by James Carvill during Bill Clinton's 1992 U.S. presidential campaign to keep workers focused on a ...",
+            "pubDate": "2026-02-20T20:30:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Certain Occupations Linked to Higher IBD Risk",
+            "link": "https://www.medscape.com/viewarticle/certain-occupations-linked-higher-ibd-risk-2026a10005g5?src=rss",
+            "description": "According to a large international study, specific occupations were linked to higher IBD risk, with diesel exposure, work patterns, and socioeconomic ...",
+            "pubDate": "2026-02-20T18:05:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "When a Breast Cancer Surgeon Gets Breast Cancer",
+            "link": "https://www.medscape.com/viewarticle/when-breast-cancer-surgeon-gets-breast-cancer-2026a10005f6?src=rss",
+            "description": "Anne Peled, MD, helped pioneer a sensation-preserving mastectomy procedure. When she got the diagnosis, she needed the procedure herself. Here’s what ...",
+            "pubDate": "2026-02-20T13:33:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Uneasy at the dentist? You're not alone",
+            "link": "https://medicalxpress.com/news/2026-02-uneasy-dentist-youre.html",
+            "description": "Settling into a cushy reclining chair and closing your eyes while soft music plays is appealing, except perhaps at the dentist's office. According to ...",
+            "pubDate": "2026-02-20T20:50:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Why “eat less, move more” fails for midlife weight loss",
+            "link": "https://kevinmd.com/2026/02/why-eat-less-move-more-fails-for-midlife-weight-loss.html",
+            "description": "Clinicians often notice a frustrating pattern: Women in midlife follow standard weight-loss advice, eat less and move more, yet see little progress. C...",
+            "pubDate": "2026-02-20T12:00:47",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Invisible harms: Drug-related deaths spike after hurricanes and tropical storms",
-            "link": "https://medicalxpress.com/news/2026-02-invisible-drug-deaths-spike-hurricanes.html",
-            "description": "Tropical cyclones, including hurricanes and tropical storms, are linked to increased rates of drug-related deaths up to three months after the storm p...",
-            "pubDate": "2026-02-20T16:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Why it's funnier when you're not allowed to laugh",
+            "link": "https://medicalxpress.com/news/2026-02-funnier-youre.html",
+            "description": "I don't think I've ever laughed harder than during a church service, when something faintly ridiculous caught my eye. My friend saw it too, and once s...",
+            "pubDate": "2026-02-20T20:10:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Physician burnout: Finding peace in a broken health care system",
+            "link": "https://kevinmd.com/2026/02/physician-burnout-finding-peace-in-a-broken-health-care-system.html",
+            "description": "Among the people exiting the hospital, I could easily pick out the medical staff leaving their shifts. It wasn’t by their clothing or the time of day,...",
+            "pubDate": "2026-02-20T14:00:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Key alterations discovered in the cerebral cortex of people with psychosis",
+            "link": "https://medicalxpress.com/news/2026-02-key-cerebral-cortex-people-psychosis.html",
+            "description": "Researchers at the University of Seville have analyzed alterations in the cerebral cortex in people suffering from psychosis. Their findings show that...",
+            "pubDate": "2026-02-20T20:20:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Reviewing locum tenens agreements: Look beyond the hourly rate",
+            "link": "https://kevinmd.com/2026/02/reviewing-locum-tenens-agreements-look-beyond-the-hourly-rate.html",
+            "description": "I was halfway through reviewing what looked like an excellent locums opportunity when I realized the hourly rate was the least important number in the...",
+            "pubDate": "2026-02-20T18:29:17",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Birthing Techniques Linked to ADHD Risk",
+            "link": "https://www.medscape.com/viewarticle/birthing-techniques-linked-adhd-risk-2026a10005gn?src=rss",
+            "description": "Using a vacuum followed by forceps was associated with a higher risk for ADHD than delivery by second-stage cesarean. Medscape Medical News",
+            "pubDate": "2026-02-20T19:36:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Artificial intelligence designed drugs Hit 90% Phase I success rate in trials",
@@ -94,34 +129,6 @@
             "description": "1. AI-native biotechnology firms are reporting Phase I success rates between 80% and 90%, nearly doubling the historical industry average of approxima...",
             "pubDate": "2026-02-19T18:22:17",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/05/Untitled-design-300x170.png"
-        },
-        {
-            "title": "The 3-2-1 method: a doctor’s guide to keeping New Year’s resolutions",
-            "link": "https://kevinmd.com/2026/02/the-3-2-1-method-a-doctors-guide-to-keeping-new-years-resolutions.html",
-            "description": "Welcome to the first weeks of the new year. A great moment to check in. How are you doing? How are you feeling? Energy level? The first days of the ne...",
-            "pubDate": "2026-02-19T16:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "What got you here won’t get you there: a physician’s guide to leadership",
-            "link": "https://kevinmd.com/2026/02/what-got-you-here-wont-get-you-there-a-physicians-guide-to-leadership.html",
-            "description": "You became a physician because you were driven. You studied longer, pushed harder, and tolerated pressure better than most. You needed to be right and...",
-            "pubDate": "2026-02-19T17:00:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Lifestyle medicine vs. medication: Why prevention is the future",
-            "link": "https://kevinmd.com/2026/02/lifestyle-medicine-vs-medication-why-prevention-is-the-future.html",
-            "description": "During my first two years as a medical student, I have often been struck not only by how much medicine has advanced, but by how frequently the foundat...",
-            "pubDate": "2026-02-19T22:00:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Understanding the 4 models of health care: Where the U.S. fits",
-            "link": "https://kevinmd.com/2026/02/understanding-the-4-models-of-health-care-where-the-u-s-fits.html",
-            "description": "We are frequently told that our health care system is expensive. However, most of us, including physicians, have no notion about what the health care ...",
-            "pubDate": "2026-02-19T20:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Sodium-glucose cotransporter 2 inhibitors may improve left ventricular diastolic function in hypertrophic cardiomyopathy",
@@ -138,20 +145,6 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/05/Untitled-design-300x170.png"
         },
         {
-            "title": "2MM: AI Roundup- Medtronic’s AI-Robotic Spine Platform, 90% Phase I Success for AI-Designed Drugs, and UCSD’s AI Cancer Risk Predictor [Feb 17th, 2026]",
-            "link": "https://www.2minutemedicine.com/2mm-ai-roundup-medtronics-ai-robotic-spine-platform-90-phase-i-success-for-ai-designed-drugs-and-ucsds-ai-cancer-risk-predictor-feb-17th-2026/",
-            "description": "Medtronic Stealth AXiS system integrates AI-robotics for spine care The FDA recently issued a landmark clearance for a surgical platform that natively...",
-            "pubDate": "2026-02-17T19:07:20",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2025/05/Untitled-design-300x170.png"
-        },
-        {
-            "title": "What Happens When Blood Sugar Falls Too Low",
-            "link": "https://www.webmd.com/diabetes/diabetes-hypoglycemia",
-            "description": "",
-            "pubDate": "2026-02-15T17:47:12",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/tips_for_daily_living_with_hattrr_with_polyneuropathy_slideshow/1800ss_getty_rf_feeling_dizzy_after_standing.jpg?resize=484px:*&output-quality=70"
-        },
-        {
             "title": "Tips for Making Exercise a Daily Habit",
             "link": "https://www.webmd.com/women/exercise-habits",
             "description": "",
@@ -164,6 +157,13 @@
             "description": "Feeling unusually tired or noticing subtle changes in hair, nails, mood, or appetite? These signs may indicate nutrition gaps worth discussing with yo...",
             "pubDate": "2026-02-15T17:47:12",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/surprising_signs_youre_not_moving_enough_slideshow/1800ss_getty_rf_tired_woman_on_train.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "What Happens When Blood Sugar Falls Too Low",
+            "link": "https://www.webmd.com/diabetes/diabetes-hypoglycemia",
+            "description": "",
+            "pubDate": "2026-02-15T17:47:12",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/tips_for_daily_living_with_hattrr_with_polyneuropathy_slideshow/1800ss_getty_rf_feeling_dizzy_after_standing.jpg?resize=484px:*&output-quality=70"
         }
     ]
 }
