@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-02-21T06:05:20.825563",
+    "lastBuildDate": "2026-02-21T11:11:35.389886",
     "items": [
+        {
+            "title": "Visual drone detection moves into critical infrastructure playbooks",
+            "link": "https://www.therobotreport.com/visual-drone-detection-moves-into-critical-infrastructure-playbooks/",
+            "description": "Learn how operators of critical infrastructure are leveraging advanced technologies to combat the increasing commonality of drone-related incidents. T...",
+            "pubDate": "2026-02-21T14:00:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/drone-detection-system.jpg"
+        },
         {
             "title": "Ghost Robotics: Innovating for safety",
             "link": "https://www.therobotreport.com/ghost-robotics-innovating-for-safety/",
@@ -31,13 +38,6 @@
             "description": "Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10. The post Toyota Motor Manufacturing Canada ...",
             "pubDate": "2026-02-19T14:00:51",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Digit-GXO-RaaS-3-copy.jpg"
-        },
-        {
-            "title": "NVIDIA adds Cosmos Policy to its world foundation models",
-            "link": "https://www.therobotreport.com/nvidia-adds-cosmos-policy-world-foundation-models/",
-            "description": "Cosmos Policy is a new robot control policy that post-trains the Cosmos Predict-2 world foundation model for manipulation tasks. The post NVIDIA adds ...",
-            "pubDate": "2026-02-19T13:13:47",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/nvidiacosmospolicy-featured.jpg"
         }
     ]
 }
