@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-02-20T16:11:15.410430",
+    "lastBuildDate": "2026-02-21T06:05:20.825563",
     "items": [
+        {
+            "title": "Ghost Robotics: Innovating for safety",
+            "link": "https://www.therobotreport.com/ghost-robotics-innovating-for-safety/",
+            "description": "Gavin Kenneally, co-founder and CEO of Ghost Robotics, discusses the design and function of the Vision 60 quadruped robots in the latest podcast episo...",
+            "pubDate": "2026-02-21T00:40:33",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/gavin-kenneally-headshot.jpg"
+        },
         {
             "title": "NORD releases digital twin simulation platform for robotics developers",
             "link": "https://www.therobotreport.com/nord-releases-digital-twin-simulation-platform-robotics-development/",
@@ -31,13 +38,6 @@
             "description": "Cosmos Policy is a new robot control policy that post-trains the Cosmos Predict-2 world foundation model for manipulation tasks. The post NVIDIA adds ...",
             "pubDate": "2026-02-19T13:13:47",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/nvidiacosmospolicy-featured.jpg"
-        },
-        {
-            "title": "Ottonomy builds Ottumn.AI platform to orchestrate robots, drones, and smart infrastructure",
-            "link": "https://www.therobotreport.com/ottonomy-builds-ottumn-ai-platform-to-orchestrate-robots-drones-and-smart-infrastructure/",
-            "description": "Ottonomy built Ottumn.AI on NVIDIA's infrastructure to integrate delivery systems for healthcare, logistics, and smart cities. The post Ottonomy build...",
-            "pubDate": "2026-02-18T20:55:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/ottobot-by-ottonomy.jpg"
         }
     ]
 }
