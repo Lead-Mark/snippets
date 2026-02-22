@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-22T06:07:23.689294",
+    "lastBuildDate": "2026-02-22T11:11:37.172160",
     "items": [
+        {
+            "title": "Integrated motion control enables sophisticated robot motion",
+            "link": "https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/",
+            "description": "Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery. The post Inte...",
+            "pubDate": "2026-02-22T13:30:30",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/AdobeStock-502755326-robot-drill-1024x683.jpeg"
+        },
         {
             "title": "Visual drone detection moves into critical infrastructure playbooks",
             "link": "https://www.therobotreport.com/visual-drone-detection-moves-into-critical-infrastructure-playbooks/",
@@ -19,18 +26,11 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/gavin-kenneally-headshot.jpg"
         },
         {
-            "title": "NORD releases digital twin simulation platform for robotics developers",
-            "link": "https://www.therobotreport.com/nord-releases-digital-twin-simulation-platform-robotics-development/",
-            "description": "NORD said it allows engineers to verify whether the drive concept is suitable for the system early in the planning phase. The post NORD releases digit...",
-            "pubDate": "2026-02-20T18:19:03",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/NORD_VIBN_cmyk-featured.jpg"
-        },
-        {
-            "title": "Amazon Robotics shuts down Blue Jay sortation project",
-            "link": "https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/",
-            "description": "Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects. The post Amazon Robotics shu...",
-            "pubDate": "2026-02-20T14:47:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/amazon-bluejay-featured.jpg"
+            "title": "Community service",
+            "link": "https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/",
+            "description": "The bird is a beautiful silver-gray, and as she dies twitching in the lasernet I’m grateful for two things: First, that she didn’t make a sound. Secon...",
+            "pubDate": "2026-02-20T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/GettyImages-200515070_body.jpg?w=1651"
         },
         {
             "title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
@@ -40,25 +40,18 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/image_5681c3.png"
         },
         {
-            "title": "Community service",
-            "link": "https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/",
-            "description": "The bird is a beautiful silver-gray, and as she dies twitching in the lasernet I’m grateful for two things: First, that she didn’t make a sound. Secon...",
-            "pubDate": "2026-02-20T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/GettyImages-200515070_body.jpg?w=1651"
+            "title": "Amazon Robotics shuts down Blue Jay sortation project",
+            "link": "https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/",
+            "description": "Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects. The post Amazon Robotics shu...",
+            "pubDate": "2026-02-20T14:47:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/amazon-bluejay-featured.jpg"
         },
         {
-            "title": "Measles cases are rising. Other vaccine-preventable infections could be next.",
-            "link": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
-            "description": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough ...",
-            "pubDate": "2026-02-20T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Exclusive eBook: The great Al hype correction of 2025",
-            "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
-            "description": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBoo...",
-            "pubDate": "2026-02-20T18:46:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "NORD releases digital twin simulation platform for robotics developers",
+            "link": "https://www.therobotreport.com/nord-releases-digital-twin-simulation-platform-robotics-development/",
+            "description": "NORD said it allows engineers to verify whether the drive concept is suitable for the system early in the planning phase. The post NORD releases digit...",
+            "pubDate": "2026-02-20T18:19:03",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/NORD_VIBN_cmyk-featured.jpg"
         },
         {
             "title": "Job titles of the future: Breast biomechanic",
@@ -68,11 +61,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids",
-            "link": "https://www.therobotreport.com/toyota-motor-manufacturing-canada-deploys-agility-robotics-digit-humanoids/",
-            "description": "Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10. The post Toyota Motor Manufacturing Canada ...",
-            "pubDate": "2026-02-19T14:00:51",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Digit-GXO-RaaS-3-copy.jpg"
+            "title": "Exclusive eBook: The great Al hype correction of 2025",
+            "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+            "description": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBoo...",
+            "pubDate": "2026-02-20T18:46:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Measles cases are rising. Other vaccine-preventable infections could be next.",
+            "link": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
+            "description": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough ...",
+            "pubDate": "2026-02-20T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -110,18 +110,18 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Best Practices for Building the AI Development Platform in Government",
