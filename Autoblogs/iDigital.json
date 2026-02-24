@@ -2,14 +2,21 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-23T16:11:58.858958",
+    "lastBuildDate": "2026-02-24T06:06:58.223541",
     "items": [
         {
-            "title": "Inside Chicago’s surveillance panopticon",
-            "link": "https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/",
-            "description": "Early on the morning of September 2, 2024, a Chicago Transit Authority Blue Line train was the scene of a random and horrific mass shooting. Four peop...",
-            "pubDate": "2026-02-23T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/LPL_DSF7601.jpg?w=2701"
+            "title": "Why conservationists are making rhinos radioactive",
+            "link": "https://www.technologyreview.com/2026/02/24/1132760/conservationists-making-rhinos-radioactive/",
+            "description": "Every year, poachers shoot hundreds of rhinos, fishing crews haul millions of sharks out of protected seas, and smugglers carry countless animals and ...",
+            "pubDate": "2026-02-24T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/Rhisotope-Project-2025-4-edited.jpg"
+        },
+        {
+            "title": "We’re putting more stuff into space than ever. Here’s what’s up there.",
+            "link": "https://www.technologyreview.com/2026/02/24/1132755/anthroposphere-putting-more-stuff-into-space-than-ever/",
+            "description": "Earth’s a medium-size rock with some water on top, enveloped by gases that keep everything that lives here alive. Just at the edge of that envelope be...",
+            "pubDate": "2026-02-24T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Tesollo commercializes its lightweight, compact robotic hand for humanoids",
@@ -33,18 +40,25 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/Fictiv_Misumi_parts.jpg"
         },
         {
-            "title": "Peptides are everywhere. Here’s what you need to know.",
-            "link": "https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/",
-            "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
-            "pubDate": "2026-02-23T18:52:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "The hidden infrastructure challenge facing outdoor robotics OEMs",
+            "link": "https://www.therobotreport.com/the-hidden-infrastructure-challenge-facing-outdoor-robotics-oems/",
+            "description": "Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale. The post The hidden i...",
+            "pubDate": "2026-02-23T20:46:07",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/rtkdata-featured-1.jpg"
         },
         {
             "title": "The human work behind humanoid robots is being hidden",
             "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
             "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, ...",
             "pubDate": "2026-02-23T17:05:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Peptides are everywhere. Here’s what you need to know.",
+            "link": "https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/",
+            "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+            "pubDate": "2026-02-23T18:52:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Integrated motion control enables sophisticated robot motion",
@@ -59,20 +73,6 @@
             "description": "Learn how operators of critical infrastructure are leveraging advanced technologies to combat the increasing commonality of drone-related incidents. T...",
             "pubDate": "2026-02-21T14:00:40",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/drone-detection-system.jpg"
-        },
-        {
-            "title": "Ghost Robotics: Innovating for safety",
-            "link": "https://www.therobotreport.com/ghost-robotics-innovating-for-safety/",
-            "description": "Gavin Kenneally, co-founder and CEO of Ghost Robotics, discusses the design and function of the Vision 60 quadruped robots in the latest podcast episo...",
-            "pubDate": "2026-02-21T00:40:33",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/gavin-kenneally-headshot.jpg"
-        },
-        {
-            "title": "Exclusive eBook: The great Al hype correction of 2025",
-            "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
-            "description": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBoo...",
-            "pubDate": "2026-02-20T18:46:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -117,18 +117,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
             "pubDate": "2021-10-29T00:19:58",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
