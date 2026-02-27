@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-02-27T08:15:41.745003",
+    "lastBuildDate": "2026-02-27T09:58:10.812741",
     "items": [
+        {
+            "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+            "link": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiri...",
+            "pubDate": "2026-02-27T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/image_d4b7f3.png"
+        },
         {
             "title": "Hyundai to show MobED at AW as robotics, AI expand in manufacturing",
             "link": "https://www.therobotreport.com/hyundai-show-mobed-aw-2026-robotics-ai-expand-manufacturing/",
@@ -16,7 +23,7 @@
             "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
             "description": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Associ...",
             "pubDate": "2026-02-27T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Physical AI startup RLWRLD raises $26M",
@@ -24,27 +31,6 @@
             "description": "RLWRLD said it is executing proof-of-concept and robotics transformation projects with enterprise partners in Japan and South Korea. The post Physical...",
             "pubDate": "2026-02-26T00:05:42",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/RLWRLD-featured.jpg"
-        },
-        {
-            "title": "America was winning the race to find Martian life. Then China jumped in.",
-            "link": "https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/",
-            "description": "To most people, rocks are just rocks. To geologists, they are much, much more: crystal-filled time capsules with the power to reveal the state of the ...",
-            "pubDate": "2026-02-26T10:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/GettyImages-57337107.jpg"
-        },
-        {
-            "title": "Finding value with AI and Industry 5.0 transformation",
-            "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-            "description": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, a...",
-            "pubDate": "2026-02-26T15:00:59",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MIT_EY3_V8-revCoverPage.png?w=1555"
-        },
-        {
-            "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
-            "link": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was ...",
-            "pubDate": "2026-02-26T13:10:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f354.png"
         },
         {
             "title": "Intrinsic is joining Google to advance physical AI in robotics",
@@ -61,11 +47,25 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/02/China_conf.jpg"
         },
         {
+            "title": "Finding value with AI and Industry 5.0 transformation",
+            "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+            "description": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, a...",
+            "pubDate": "2026-02-26T15:00:59",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MIT_EY3_V8-revCoverPage.png?w=1555"
+        },
+        {
+            "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+            "link": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was ...",
+            "pubDate": "2026-02-26T13:10:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f354.png"
+        },
+        {
             "title": "This company claims a battery breakthrough. Now they need to prove it.",
             "link": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
             "description": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling...",
             "pubDate": "2026-02-26T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Teledyne FLIR launches Lepton XDS thermal/visual camera module",
@@ -117,18 +117,18 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
-            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
-            "pubDate": "2021-10-29T00:19:58",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
-        },
-        {
             "title": "Best Practices for Building the AI Development Platform in Government",
             "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+            "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+            "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
+            "pubDate": "2021-10-29T00:19:58",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
