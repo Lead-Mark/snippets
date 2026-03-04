@@ -2,29 +2,8 @@
     "title": "briefUpdatesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-04T09:06:46.381015",
+    "lastBuildDate": "2026-03-04T15:36:12.246314",
     "items": [
-        {
-            "title": "A Practical Guide to Getting Fit in Midlife",
-            "link": "https://www.webmd.com/women/women-over-50-fitness-tips",
-            "description": "",
-            "pubDate": "2026-03-04T09:03:16",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/1800x1200-woman-working-out.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Savoring the Journey with Padma Lakshmi",
-            "link": "https://www.webmd.com/food-recipes/features/savoring-journey-padma-lakshmi",
-            "description": "The Emmy-nominated TV host dishes on the power of connection, food, fitness, and the art of finding joy.",
-            "pubDate": "2026-03-04T09:03:16",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/padma-lakshmi-other/1800x1200-padma-lakshmi-other.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Preventive Health Tests to Know After 50",
-            "link": "https://www.webmd.com/healthy-aging/preventive-care-over-50",
-            "description": "",
-            "pubDate": "2026-03-04T09:03:16",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/acts-of-self-care-with-myasthenia-gravis-slideshow/1800ss-getty-rf-patient-consulting-with-doctor.jpg?resize=484px:*&output-quality=70"
-        },
         {
             "title": "Lifestyle factors including higher body mass index and smoking are associated with changes in left-atrial size and function",
             "link": "https://www.2minutemedicine.com/lifestyle-factors-including-higher-body-mass-index-and-smoking-are-associated-with-changes-in-left-atrial-size-and-function/",
@@ -33,45 +12,80 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/heart-cardiovascular-cardiac-PD-300x150.jpg"
         },
         {
+            "title": "Preventive Health Tests to Know After 50",
+            "link": "https://www.webmd.com/healthy-aging/preventive-care-over-50",
+            "description": "",
+            "pubDate": "2026-03-04T15:34:05",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/acts-of-self-care-with-myasthenia-gravis-slideshow/1800ss-getty-rf-patient-consulting-with-doctor.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Savoring the Journey with Padma Lakshmi",
+            "link": "https://www.webmd.com/food-recipes/features/savoring-journey-padma-lakshmi",
+            "description": "The Emmy-nominated TV host dishes on the power of connection, food, fitness, and the art of finding joy.",
+            "pubDate": "2026-03-04T15:34:05",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/padma-lakshmi-other/1800x1200-padma-lakshmi-other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "A Practical Guide to Getting Fit in Midlife",
+            "link": "https://www.webmd.com/women/women-over-50-fitness-tips",
+            "description": "",
+            "pubDate": "2026-03-04T15:34:05",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/1800x1200-woman-working-out.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Merck and Mayo Clinic launch AI-driven precision medicine lab",
+            "link": "https://www.2minutemedicine.com/merck-and-mayo-clinic-launch-ai-driven-precision-medicine-lab/",
+            "description": "1. Merck and Mayo Clinic have launched a strategic collaboration to integrate multimodal clinical data with AI to accelerate drug discovery and target...",
+            "pubDate": "2026-03-04T19:12:00",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/hospital-300x150.jpg"
+        },
+        {
+            "title": "The service of humanity: Recommitting to physicians’ ethical duties",
+            "link": "https://kevinmd.com/2026/03/the-service-of-humanity-recommitting-to-physicians-ethical-duties.html",
+            "description": "Recently, my husband and I passed through Eureka, IL (pop. 5,200). We stopped at Eureka College, which is President Ronald Reagan’s alma mater and the...",
+            "pubDate": "2026-03-04T15:00:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "American health care policy reform: Why we need a bipartisan commission",
+            "link": "https://kevinmd.com/2026/03/american-health-care-policy-reform-why-we-need-a-bipartisan-commission.html",
+            "description": "America is ready for an honest conversation about health care policy before more people suffer and we go broke waiting for it to happen. Fully one-thi...",
+            "pubDate": "2026-03-04T18:00:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Rebuilding patient trust through the evolutionary mismatch framework",
+            "link": "https://kevinmd.com/2026/03/rebuilding-patient-trust-through-the-evolutionary-mismatch-framework.html",
+            "description": "How one reframing changed the way my patients think about me, and their health. Every day, a patient sits across from me, arms crossed, waiting for me...",
+            "pubDate": "2026-03-04T17:00:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
             "title": "Does HRT Lower Osteoporosis Risk?",
             "link": "https://www.medscape.com/viewarticle/early-hormone-replacement-therapy-linked-lower-osteoporosis-2026a10006oo?src=rss",
             "description": "New research suggests early initiation of hormone replacement therapy could protect bone health. Medscape Medical News",
             "pubDate": "2026-03-04T12:07:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How AI could speed treatment for patients with this deadly cancer",
-            "link": "https://medicalxpress.com/news/2026-03-ai-treatment-patients-deadly-cancer.html",
-            "description": "Acute myeloid leukemia, or AML, is a rare and aggressive cancer that can affect people of all ages. Kiran Vanaja, an assistant research professor in b...",
-            "pubDate": "2026-03-04T12:30:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Ecovillages and organic farming could reverse global warming [PODCAST]",
-            "link": "https://kevinmd.com/2026/03/ecovillages-and-organic-farming-could-reverse-global-warming-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Physician and health care reform advocate David K. Cundiff discusses ...",
-            "pubDate": "2026-03-04T00:00:23",
+            "title": "Is Vaginal Estrogen Safe After Endometrial Cancer?",
+            "link": "https://www.medscape.com/viewarticle/vaginal-estrogen-safe-after-endometrial-cancer-2026a10006q1?src=rss",
+            "description": "Women who use vaginal estrogen to manage early menopause after treatment for endometrial cancer may not have an increased risk for recurrence. Medscap...",
+            "pubDate": "2026-03-04T17:48:28",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Better sleep could reduce anxiety in later life",
-            "link": "https://medicalxpress.com/news/2026-03-anxiety-life.html",
-            "description": "As humans grow older, their emotional stability and sleep patterns can change significantly. For instance, some past studies have found that many olde...",
-            "pubDate": "2026-03-04T13:20:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Systemic failure in professional environments: the myth of protection",
+            "link": "https://kevinmd.com/2026/03/systemic-failure-in-professional-environments-the-myth-of-protection.html",
+            "description": "There are moments when professional boundaries collapse under the weight of something more fundamental: our shared humanity. You do not have to be a p...",
+            "pubDate": "2026-03-04T16:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Gut microbiome connected with heart disease precursor",
-            "link": "https://medicalxpress.com/news/2026-03-gut-microbiome-heart-disease-precursor.html",
-            "description": "Before the onset of cardiovascular disease symptoms, people often develop dyslipidemia, or abnormal levels of lipids in the blood. Recent studies sugg...",
-            "pubDate": "2026-03-04T14:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Expert explains why short bursts of movement can boost your health",
-            "link": "https://medicalxpress.com/news/2026-03-expert-short-movement-boost-health.html",
-            "description": "As busy schedules and sedentary jobs compete for our time, many people are asking: What's the least amount of movement I need to still see benefits? A...",
-            "pubDate": "2026-03-04T13:10:01",
+            "title": "Health informatics class gets an AI makeover to better prepare nursing students",
+            "link": "https://medicalxpress.com/news/2026-03-health-informatics-class-ai-makeover.html",
+            "description": "From navigating electronic health records and HIPAA compliance to applying predictive analytics, health informatics is now essential to the daily work...",
+            "pubDate": "2026-03-04T20:30:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
@@ -79,49 +93,56 @@
             "link": "https://www.medscape.com/viewarticle/early-neonatal-infection-linked-cognitive-risk-later-2026a100068p?src=rss",
             "description": "Early-onset neonatal infection is linked to higher risks for intellectual disability and special educational needs during childhood, with meningitis c...",
             "pubDate": "2026-03-04T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Addressing chronic hearing loss",
-            "link": "https://medicalxpress.com/news/2026-03-chronic-loss.html",
-            "description": "Even though chronic hearing loss is one of the most prevalent chronic conditions for people 65 and older, less than 20% seek help for it, says Michael...",
-            "pubDate": "2026-03-04T13:40:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "BMA Challenges Scotland’s Consultant Vacancy Figures",
-            "link": "https://www.medscape.com/s/viewarticle/bma-challenges-scotlands-consultant-vacancy-figures-2026a10006ot?src=rss",
-            "description": "Doctors say FOI data reveal far more vacant consultant posts in NHS Scotland than official figures suggest, raising concerns over waiting lists and pa...",
-            "pubDate": "2026-03-04T12:46:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Gut Infection Disease Care: From GP Clinics to Hospitals",
-            "link": "https://www.medscape.com/viewarticle/infectious-intestinal-disease-care-gp-clinics-hospitals-2026a10006d4?src=rss",
-            "description": "An infectious intestinal disease episode can be noted in both primary care and hospital admissions, with children and older adults having higher odds ...",
-            "pubDate": "2026-03-04T12:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Common anticholinergic medicines may raise cardiovascular risk, large study suggests",
+            "link": "https://medicalxpress.com/news/2026-03-common-anticholinergic-medicines-cardiovascular-large.html",
+            "description": "People who use drugs with anticholinergic effects, including certain antidepressants, drugs for urinary incontinence and common antihistamines, are at...",
+            "pubDate": "2026-03-04T20:20:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Patients and GPs Unite Over NHS ‘Maze’",
             "link": "https://www.medscape.com/viewarticle/patients-and-gps-unite-over-nhs-maze-2026a10006mb?src=rss",
             "description": "GPs are spending up to a third of their time on paperwork, as patients and doctors warn that NHS bureaucracy is undermining care. Medscape News UK",
             "pubDate": "2026-03-04T12:51:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Ex vivo gene therapy for cystinosis had acceptable safety and improved disease biomarkers",
-            "link": "https://www.2minutemedicine.com/ex-vivo-gene-therapy-for-cystinosis-had-acceptable-safety-and-improved-disease-biomarkers/",
-            "description": "1. In this phase 1–2 open-label study, autologous lentiviral hematopoietic stem-cell gene therapy for cystinosis was associated with sustained engraft...",
-            "pubDate": "2026-03-03T11:00:24",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/03/DNA_double_helix_horizontal-300x148.png"
+            "title": "Why I left the surgical-trauma ICU: a nurse’s story of burnout",
+            "link": "https://kevinmd.com/2026/03/why-i-left-the-surgical-trauma-icu-a-nurses-story-of-burnout.html",
+            "description": "After working close to 20 years in this medical-surgical ICU, I thought I was an expert. Infallible. I could do it all. I left my ICU comfort zone, my...",
+            "pubDate": "2026-03-04T20:00:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Replacing sedentary time with physical activity may lower risk of all-cause mortality",
-            "link": "https://www.2minutemedicine.com/replacing-sedentary-time-with-physical-activity-may-lower-risk-of-all-cause-mortality/",
-            "description": "1. In this prospective cohort, individuals with greater periods of sedentary time have increased risks of all-cause mortality and mortality from cance...",
-            "pubDate": "2026-03-03T00:00:35",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/01/exercisepreg_edited-300x150.jpg"
+            "title": "BMA Challenges Scotland’s Consultant Vacancy Figures",
+            "link": "https://www.medscape.com/s/viewarticle/bma-challenges-scotlands-consultant-vacancy-figures-2026a10006ot?src=rss",
+            "description": "Doctors say FOI data reveal far more vacant consultant posts in NHS Scotland than official figures suggest, raising concerns over waiting lists and pa...",
+            "pubDate": "2026-03-04T12:46:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Online doctors popular but price-sensitive for young people, study finds",
+            "link": "https://medicalxpress.com/news/2026-03-online-doctors-popular-price-sensitive.html",
+            "description": "Young adults are more likely to consume health care when it is available via health care apps, and even more so if they do not have to pay patient fee...",
+            "pubDate": "2026-03-04T20:20:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Open source cancer database created for easier disease study",
+            "link": "https://medicalxpress.com/news/2026-03-source-cancer-database-easier-disease.html",
+            "description": "Researchers from the Johns Hopkins Kimmel Cancer Center and The Johns Hopkins University have created a novel database structure that allows investiga...",
+            "pubDate": "2026-03-04T19:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Study warns of underrecognized Lassa fever threat with global implications",
+            "link": "https://medicalxpress.com/news/2026-03-underrecognized-lassa-fever-threat-global.html",
+            "description": "A new study led by researchers at the Institute for Global Health and Infectious Diseases at the University of North Carolina School of Medicine in Ch...",
+            "pubDate": "2026-03-04T20:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Smartphone-based digital ruler achieved high diagnostic performance for strabismus screening",
@@ -131,39 +152,18 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Crossed-Eyes-Strabismus-265x300.jpg"
         },
         {
+            "title": "Ex vivo gene therapy for cystinosis had acceptable safety and improved disease biomarkers",
+            "link": "https://www.2minutemedicine.com/ex-vivo-gene-therapy-for-cystinosis-had-acceptable-safety-and-improved-disease-biomarkers/",
+            "description": "1. In this phase 1–2 open-label study, autologous lentiviral hematopoietic stem-cell gene therapy for cystinosis was associated with sustained engraft...",
+            "pubDate": "2026-03-03T11:00:24",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/03/DNA_double_helix_horizontal-300x148.png"
+        },
+        {
             "title": "Safety and efficacy profile of first-in-class oral p53 reactivator rezatapopt",
             "link": "https://www.2minutemedicine.com/safety-and-efficacy-of-first-in-class-oral-p53-reactivator-rezatapopt/",
             "description": "1. In this phase 1-2 single-group trial, the p53 reactivator rezatapopt was well-tolerated in adults with solid tumors harboring the TP53 Y220C mutati...",
             "pubDate": "2026-03-03T12:00:47",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Lung_cancer_cell_during_cell_division-NIH_edited-300x150.jpg"
-        },
-        {
-            "title": "Coping with survivor guilt: wisdom from Saadi Shirazi and Viktor Frankl",
-            "link": "https://kevinmd.com/2026/03/coping-with-survivor-guilt-wisdom-from-saadi-shirazi-and-viktor-frankl.html",
-            "description": "When someone you love is in a different location and suffering while you are safe, a heavy silence begins to fill the room. This survivor guilt is one...",
-            "pubDate": "2026-03-03T16:00:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Applied behavior analysis criticism: the closed feedback loop",
-            "link": "https://kevinmd.com/2026/03/applied-behavior-analysis-criticism-the-closed-feedback-loop.html",
-            "description": "In engineering, a feedback loop is meant to stabilize a system. In medicine, feedback guides us toward better outcomes. But in applied behavior analys...",
-            "pubDate": "2026-03-03T20:00:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The future of employer-aligned DPC and physician autonomy",
-            "link": "https://kevinmd.com/2026/03/the-future-of-employer-aligned-dpc-and-physician-autonomy.html",
-            "description": "A piece circulating in the direct primary care community made a confident claim: that the best DPC physicians will not need employer-aligned models or...",
-            "pubDate": "2026-03-03T18:00:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Navigating the international dentist U.S. pathway",
-            "link": "https://kevinmd.com/2026/03/navigating-the-international-dentist-u-s-pathway.html",
-            "description": "The moment I decided to become an American-trained dentist, I was holding a textbook in India. I was a first-year dental student in India when it happ...",
-            "pubDate": "2026-03-03T17:00:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }
