@@ -2,8 +2,15 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-05T10:21:32.676089",
+    "lastBuildDate": "2026-03-05T16:22:24.124689",
     "items": [
+        {
+            "title": "Dexterity unveils Foresight world model for truck loading",
+            "link": "https://www.therobotreport.com/dexterity-unveils-foresight-world-model-for-truck-loading/",
+            "description": "Foresight is Dexterity's physics-consistent world model, a real-time, transactable representation of the physical environment. The post Dexterity unve...",
+            "pubDate": "2026-03-05T19:29:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/dexterityphysicalai-featured.jpg"
+        },
         {
             "title": "The Download: an AI agent’s hit piece, and preventing lightning",
             "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
@@ -12,39 +19,25 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/open-closed2.jpeg"
         },
         {
+            "title": "Tesollo and Techman Robot unveil robot for high-mix, low-volume production",
+            "link": "https://www.therobotreport.com/tesollo-techman-robot-unveil-robot-high-mix-low-volume-production/",
+            "description": "Tesollo demonstrated its DG-3F-M articulated gripper with Techman's TM5S cobot arm for tasks such as bin picking and assembly. The post Tesollo and Te...",
+            "pubDate": "2026-03-05T20:37:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/tesollo-workscell-aw26.jpg"
+        },
+        {
             "title": "How much wildfire prevention is too much?",
             "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
             "description": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can ...",
             "pubDate": "2026-03-05T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Online harassment is entering its AI era",
             "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
             "description": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like man...",
             "pubDate": "2026-03-05T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "MassRobotics resident startups surpass $2B in funding",
-            "link": "https://www.therobotreport.com/massrobotics-resident-startups-surpass-2b-in-funding/",
-            "description": "MassRobotics' mission is to help create and scale the next generation of successful robotics and physical AI companies. The post MassRobotics resident...",
-            "pubDate": "2026-03-04T21:34:45",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/massrobotics-startups-e1772659594798.jpg"
-        },
-        {
-            "title": "Waymo robotaxi fails to stop for school bus in Austin",
-            "link": "https://www.therobotreport.com/waymo-robotaxi-fails-to-stop-for-school-bus-in-austin-texas/",
-            "description": "A remote human error led a Waymo robotaxi to illegally pass an Austin school bus, sparking a federal investigation. The post Waymo robotaxi fails to s...",
-            "pubDate": "2026-03-04T01:55:01",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/waymo-ntsb-featured.jpg"
-        },
-        {
-            "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
-            "link": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Ea...",
-            "pubDate": "2026-03-04T13:12:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Bridging the operational AI gap",
@@ -54,13 +47,6 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Celigo-Report-2025-cover-gold.png"
         },
         {
-            "title": "AW 2026 features Korea humanoid debuts as industry seeks digital transformation",
-            "link": "https://www.therobotreport.com/aw-2026-features-korea-humanoid-debuts-industry-seeks-digital-transformation/",
-            "description": "In addition to humanoid robots from Agibot, Boston Dynamics, Leju, and Unitree, AW 2026 showed opportunities for physical AI in South Korea. The post ...",
-            "pubDate": "2026-03-04T20:33:37",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/AW2026-Opening-3china.png"
-        },
-        {
             "title": "Noble Machines exits stealth with Moby humanoid",
             "link": "https://www.therobotreport.com/noble-machines-exits-stealth-with-moby-humanoid/",
             "description": "Noble Machines said it already shipped AI-driven humanoids robots to a Fortune Global 500 customer within 18 months of launch. The post Noble Machines...",
@@ -68,11 +54,25 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/noble-machines-featured.jpg"
         },
         {
-            "title": "HEBI wins NASA SBIR to build space robot actuators",
-            "link": "https://www.therobotreport.com/hebi-wins-nasa-sbir-to-build-space-robot-actuators/",
-            "description": "NASA can use space-rated actuation hardware for a wide range of applications, including in robotic arms that deploy equipment. The post HEBI wins NASA...",
-            "pubDate": "2026-03-03T20:48:53",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/HEBI-Case-Study-NASA-SUPERball-V2-featured.jpg"
+            "title": "MassRobotics resident startups surpass $2B in funding",
+            "link": "https://www.therobotreport.com/massrobotics-resident-startups-surpass-2b-in-funding/",
+            "description": "MassRobotics' mission is to help create and scale the next generation of successful robotics and physical AI companies. The post MassRobotics resident...",
+            "pubDate": "2026-03-04T21:34:45",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/massrobotics-startups-e1772659594798.jpg"
+        },
+        {
+            "title": "AW 2026 features Korea humanoid debuts as industry seeks digital transformation",
+            "link": "https://www.therobotreport.com/aw-2026-features-korea-humanoid-debuts-industry-seeks-digital-transformation/",
+            "description": "In addition to humanoid robots from Agibot, Boston Dynamics, Leju, and Unitree, AW 2026 showed opportunities for physical AI in South Korea. The post ...",
+            "pubDate": "2026-03-04T20:33:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/AW2026-Opening-3china.png"
+        },
+        {
+            "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
+            "link": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Ea...",
+            "pubDate": "2026-03-04T13:12:00",
+            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png"
         },
         {
             "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -110,11 +110,11 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -124,18 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
-            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
-            "pubDate": "2021-10-28T22:49:47",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
@@ -143,6 +136,13 @@
             "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
             "pubDate": "2021-10-28T23:10:19",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+        },
+        {
+            "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+            "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+            "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
+            "pubDate": "2021-10-28T22:49:47",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
         }
     ]
 }

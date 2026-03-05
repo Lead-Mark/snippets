@@ -2,8 +2,15 @@
     "title": "Preventative",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Preventative, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-05T10:23:26.666661",
+    "lastBuildDate": "2026-03-05T16:24:19.026820",
     "items": [
+        {
+            "title": "Managing Side Effects of Head and Neck Cancer Treatments",
+            "link": "https://www.healthywomen.org/condition/side-effects-of-head-and-neck-cancer-treatments",
+            "description": "Head and neck cancer, which is cancer in the head or neck region, accounts for about 4% of all cancers in the United States. When it’s caught early, i...",
+            "pubDate": "2026-03-05T15:46:45",
+            "image_url": "https://www.healthywomen.org/media-library/receiving-chemotherapy-treatment.jpg?id=65155513&width=980"
+        },
         {
             "title": "My Mother and Grandmother Both Have Endometriosis, and Doctors Still Dismissed Me",
             "link": "https://www.healthywomen.org/family-history-of-endometriosis-and-was-still-dismissed-me",
@@ -12,52 +19,59 @@
             "image_url": "https://www.healthywomen.org/media-library/kenzie-williams.jpg?id=65150098&width=980"
         },
         {
-            "title": "Listen: What To Do When Health Insurance Slips Out of Reach",
-            "link": "https://kffhealthnews.org/news/article/listen-wamu-health-hub-insurance-costs-tips-affordable-care/",
-            "description": "2026 has been a challenging year to buy health insurance. Contributing factors include changes to the Medicaid program and hikes to the cost of Obamac...",
-            "pubDate": "2026-03-05T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Lacking This Vitamin May Increase Your Fracture Risk By Up To 48%",
-            "link": "https://www.mindbodygreen.com/articles/bone-fractures-and-vitamin-dcan-supplements-actually-help-can-supplements-actually-help",
-            "description": "Make sure you're getting enough of it.",
-            "pubDate": "2026-03-05T13:06:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "These Zodiac Signs Are Clueless In Love—Are You One Of Them?",
-            "link": "https://www.mindbodygreen.com/articles/these-3-zodiac-signs-are-clueless-when-it-comes-to-love-and-romance-inclined",
-            "description": "They're just not romantically inclined.",
-            "pubDate": "2026-03-05T10:47:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Trump’s Cuts to Medicaid Threaten Services That Help Disabled People Live at Home",
-            "link": "https://kffhealthnews.org/news/article/medicaid-cuts-disabilities-home-community-based-services-iowa/",
-            "description": "Iowa patient advocates say that in the face of federal Medicaid cuts, the state is quietly reducing in-home services that help people avoid being inst...",
-            "pubDate": "2026-03-05T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Con la presencia del ICE, habitantes de Minnesota crearon un sistema médico en las sombras. Un aprendizaje para otras ciudades",
-            "link": "https://kffhealthnews.org/news/article/con-la-presencia-del-ice-habitantes-de-minnesota-crearon-un-sistema-medico-en-las-sombras-un-aprendizaje-para-otras-ciudades/",
-            "description": "Trabajadores de salud dicen que los agentes de inmigración siguen apostados en los estacionamientos de hospitales. Y drones sobrevuelan zonas agrícola...",
-            "pubDate": "2026-03-05T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "5 Things An OB/GYN Wants You To Do Daily For A Way Healthier Vagina",
-            "link": "https://www.mindbodygreen.com/articles/5-ways-to-take-care-of-your-vaginal-health-from-obgyn-1-gently-cleanse-your-vulva",
-            "description": "We don't talk about vaginal health enough.",
-            "pubDate": "2026-03-05T11:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "When Artificial Intelligence Starts Rewriting Reality",
+            "link": "https://thehealthcareblog.com/blog/2026/03/05/when-artificial-intelligence-starts-rewriting-reality/",
+            "description": "By BRIAN JOONDEPH Artificial intelligence is quickly becoming a core part of healthcare operations. It drafts clinical notes, summarizes patient visit...",
+            "pubDate": "2026-03-05T07:41:00",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2026/03/Brian-Joondeph-1-scaled.jpg"
         },
         {
             "title": "As ICE Moved In, Minnesotans Set Up a Shadow Medical System. It’s a Lesson for Other Cities.",
             "link": "https://kffhealthnews.org/news/article/minneapolis-immigration-crackdown-underground-medical-care-networks/",
             "description": "President Donald Trump’s immigration crackdown in Minneapolis forced families into hiding and catalyzed informal medical networks to deliver critical ...",
             "pubDate": "2026-03-05T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "5 Things An OB/GYN Wants You To Do Daily For A Way Healthier Vagina",
+            "link": "https://www.mindbodygreen.com/articles/5-ways-to-take-care-of-your-vaginal-health-from-obgyn-1-gently-cleanse-your-vulva",
+            "description": "We don't talk about vaginal health enough.",
+            "pubDate": "2026-03-05T11:55:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Listen: What To Do When Health Insurance Slips Out of Reach",
+            "link": "https://kffhealthnews.org/news/article/listen-wamu-health-hub-insurance-costs-tips-affordable-care/",
+            "description": "2026 has been a challenging year to buy health insurance. Contributing factors include changes to the Medicaid program and hikes to the cost of Obamac...",
+            "pubDate": "2026-03-05T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Lacking This Vitamin May Increase Your Fracture Risk By Up To 48%",
+            "link": "https://www.mindbodygreen.com/articles/bone-fractures-and-vitamin-dcan-supplements-actually-help-can-supplements-actually-help",
+            "description": "Make sure you're getting enough of it.",
+            "pubDate": "2026-03-05T13:06:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Trump’s Cuts to Medicaid Threaten Services That Help Disabled People Live at Home",
+            "link": "https://kffhealthnews.org/news/article/medicaid-cuts-disabilities-home-community-based-services-iowa/",
+            "description": "Iowa patient advocates say that in the face of federal Medicaid cuts, the state is quietly reducing in-home services that help people avoid being inst...",
+            "pubDate": "2026-03-05T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "These Zodiac Signs Are Clueless In Love—Are You One Of Them?",
+            "link": "https://www.mindbodygreen.com/articles/these-3-zodiac-signs-are-clueless-when-it-comes-to-love-and-romance-inclined",
+            "description": "They're just not romantically inclined.",
+            "pubDate": "2026-03-05T10:47:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "What the Health? From KFF Health News: 40 Years of Health Policy",
+            "link": "https://kffhealthnews.org/news/podcast/what-the-health-436-julie-rovner-40th-anniversary-chip-kahn-chris-jennings-march-5-2026/",
+            "description": "This month is 40 years since host Julie Rovner, chief Washington correspondent for KFF Health News, began reporting on health policy in Washington. To...",
+            "pubDate": "2026-03-05T19:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
@@ -65,14 +79,28 @@
             "link": "https://www.mindbodygreen.com/articles/labs-by-hers-review-2026",
             "description": "With just one blood draw.",
             "pubDate": "2026-03-05T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "This Sleep Factor Matters More Than Actual Sleep Quality, Study Says",
             "link": "https://www.mindbodygreen.com/articles/study-says-this-sleep-factor-may-matter-more-than-sleep-quality-what-to-do-about-it",
             "description": "And it can impact your mood the next day.",
             "pubDate": "2026-03-05T14:06:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Con la presencia del ICE, habitantes de Minnesota crearon un sistema médico en las sombras. Un aprendizaje para otras ciudades",
+            "link": "https://kffhealthnews.org/news/article/con-la-presencia-del-ice-habitantes-de-minnesota-crearon-un-sistema-medico-en-las-sombras-un-aprendizaje-para-otras-ciudades/",
+            "description": "Trabajadores de salud dicen que los agentes de inmigración siguen apostados en los estacionamientos de hospitales. Y drones sobrevuelan zonas agrícola...",
+            "pubDate": "2026-03-05T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Me preparaba para una FIV cuando me diagnosticaron cáncer endometrial",
+            "link": "https://www.healthywomen.org/real-women-real-stories/me-diagnosticaron-cancer-endometrial-cuando-me-sometia-a-una-fiv",
+            "description": "English Tal como se relató a Jacquelyne Froeber Estaba en el trabajo cuando timbró mi teléfono celular. \"Tiene cáncer endometrial\", dijo el doctor que...",
+            "pubDate": "2026-03-04T15:55:00",
+            "image_url": "https://www.healthywomen.org/media-library/michele-leah.jpg?id=65150754&width=980"
         },
         {
             "title": "Follow the Mediterranean Diet and Lower Your Risk of … Everything",
@@ -84,72 +112,44 @@
         {
             "title": "I Was Preparing for IVF When I Was Diagnosed with Endometrial Cancer",
             "link": "https://www.healthywomen.org/real-women-real-stories/ivf-journey-led-to-an-endometrial-cancer-diagnosis",
-            "description": "As told to Jacquelyne Froeber I was at work when my cell phone rang. “You have endometrial cancer,” said the doctor on the other end. I felt all the b...",
+            "description": "Español As told to Jacquelyne Froeber I was at work when my cell phone rang. “You have endometrial cancer,” said the doctor on the other end. I felt a...",
             "pubDate": "2026-03-04T17:35:59",
             "image_url": "https://www.healthywomen.org/media-library/michele-leah.jpg?id=65150754&width=980"
-        },
-        {
-            "title": "Despite Their Successes, Some Mobile Crisis Response Teams Are in Crisis",
-            "link": "https://kffhealthnews.org/news/article/police-mental-health-calls-988-911-mobile-crisis-teams-funding/",
-            "description": "Mobile crisis units are trained to respond to emergency calls when people are experiencing delusions or hallucinations. But unlike police departments,...",
-            "pubDate": "2026-03-04T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why Obesity Care Week Matters for Black Women",
-            "link": "https://blackhealthmatters.com/why-obesity-care-week-matters-for-black-women/",
-            "description": "From March 2nd-6th, the Obesity Action Coalition (OAC) is highlighting the importance of Obesity Care Week. World Obesity Day is also on March 4th. Th...",
-            "pubDate": "2026-03-03T18:28:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Oren Nissim, Brook-ai – Figuring out RPM",
             "link": "https://thehealthcareblog.com/blog/2026/03/03/oren-nissim-brook-ai-figuring-out-rpm/",
             "description": "Oren Nissim is the CEO of Brook-ai which is making some waves in the remote care space. Their goals is to use remote patient monitoring to help provid...",
             "pubDate": "2026-03-03T23:36:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Why Obesity Care Week Matters for Black Women",
+            "link": "https://blackhealthmatters.com/why-obesity-care-week-matters-for-black-women/",
+            "description": "From March 2nd-6th, the Obesity Action Coalition (OAC) is highlighting the importance of Obesity Care Week. World Obesity Day is also on March 4th. Th...",
+            "pubDate": "2026-03-03T18:28:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Kerry Washington Gets Candid About Her Eating Disorder",
             "link": "https://blackhealthmatters.com/kerry-washington-gets-candid-about-her-eating-disorder/",
             "description": "Disordered eating impacts thousands of individuals, including actress Kerry Washington. The Scandal star and author shared details about how she copes...",
             "pubDate": "2026-03-03T14:41:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Why the HPV Vaccine Matters",
-            "link": "https://www.healthywomen.org/condition/why-the-hpv-vaccine-matters",
-            "description": "+ Video transcript Video/Image Voiceover/Audio [HealthyWomen logo] Why the HPV Vaccine Matters SUPER: HPV = human papillomavirus HPV affects almost ev...",
-            "pubDate": "2026-03-02T20:18:55",
-            "image_url": "https://www.healthywomen.org/media-library/image.jpg?id=65106258&width=980"
-        },
-        {
-            "title": "Treating Primary Hyperoxaluria",
-            "link": "https://www.healthywomen.org/condition/primary-hyperoxaluria-treatment",
-            "description": "+ Flipbook text Slide 1: Hed: Treating Primary Hyperoxaluria Dek: This rare disorder causes kidney stones and possibly kidney damage. Find out more ab...",
-            "pubDate": "2026-03-02T16:04:32",
-            "image_url": "https://www.healthywomen.org/media-library/kidneys.png?id=65103977&width=980"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Miriam Paramore, RxUtility",
             "link": "https://thehealthcareblog.com/blog/2026/03/02/miriam-paramore-rxutility/",
             "description": "In this quickbite interview recorded at the Feb 2026 VIVE conference, I am talking with Miriam Paramore. Miriam is building RxUtility, which is helpin...",
             "pubDate": "2026-03-02T22:57:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Lupito Nyong’o’s Fibroids Have Returned, She Now Has 50",
             "link": "https://blackhealthmatters.com/lupito-nyongos-fibroids-have-returned-she-now-has-50/",
             "description": "Last summer, Academy Award-winning actress Lupita Nyong’o revealed that she had 30 fibroids removed via myomectomy not long after winning her Oscar in...",
             "pubDate": "2026-02-27T22:36:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "‘Real Housewives of Salt Lake City Star’ Mary M. Cosby’s Son Robert Cosby Jr. Dead At 23",
-            "link": "https://blackhealthmatters.com/real-housewives-of-salt-lake-city-star-mary-m-cosbys-son-robert-cosby-jr-dead-at-23/",
-            "description": "Robert Cosby Jr., the son of The Real Housewives of Salt Lake City cast member Mary M. Cosby, died Monday at 23. Cosby Jr. was the only child of the r...",
-            "pubDate": "2026-02-26T20:26:41",
-            "image_url": "https://blackhealthmatters.com/wp-content/uploads/2026/02/Marys-Son-e1772139778116.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "The Vocabulary of Survival",
@@ -159,11 +159,18 @@
             "image_url": "https://thehealthcareblog.com/wp-content/uploads/2024/12/GeorgeB3-683x1024.jpg"
         },
         {
+            "title": "‘Real Housewives of Salt Lake City Star’ Mary M. Cosby’s Son Robert Cosby Jr. Dead At 23",
+            "link": "https://blackhealthmatters.com/real-housewives-of-salt-lake-city-star-mary-m-cosbys-son-robert-cosby-jr-dead-at-23/",
+            "description": "Robert Cosby Jr., the son of The Real Housewives of Salt Lake City cast member Mary M. Cosby, died Monday at 23. Cosby Jr. was the only child of the r...",
+            "pubDate": "2026-02-26T20:26:41",
+            "image_url": "https://blackhealthmatters.com/wp-content/uploads/2026/02/Marys-Son-e1772139778116.png"
+        },
+        {
             "title": "Human Braiding Hair May Be a Health Hazard Too",
             "link": "https://blackhealthmatters.com/human-braiding-hair-may-be-a-health-hazard-too/",
             "description": "If you think switching to human hair for your protective styles is safer for your hair and health, think again. Consumer Reports followed up on the te...",
             "pubDate": "2026-02-25T21:55:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Will AI Solve Immunology’s Debate Over “Self vs. Non-Self?”",
@@ -171,13 +178,6 @@
             "description": "By MIKE MAGEE In 1872, English mathematician and sometimes poet, Augustus de Morgan, wrote this catching rhyme: “Great fleas have little fleas upon th...",
             "pubDate": "2026-02-24T15:32:23",
             "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
-        },
-        {
-            "title": "Can We Ride the GenAI Wave Without Getting Subsumed by It?",
-            "link": "https://thehealthcareblog.com/blog/2026/02/19/can-we-ride-the-genai-wave-without-getting-subsumed-by-it/",
-            "description": "By DAVID SHAYWITZ “There are decades where nothing happens; and there are weeks where decades happen,” said Lenin, probably never. It’s also a remarka...",
-            "pubDate": "2026-02-19T20:59:02",
-            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2025/11/David_Shaywitz_Headshot_19P6419_Web-1-1024x683.jpg"
         }
     ]
 }
