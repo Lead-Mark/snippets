@@ -2,14 +2,21 @@
     "title": "Individual feed for https://rss.politico.com/economy.xml",
     "link": "https://rss.politico.com/economy.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-04T15:38:52.845225",
+    "lastBuildDate": "2026-03-05T10:21:34.633740",
     "items": [
+        {
+            "title": "Trump Keeps Gambling With the Economy — And Getting Away With It",
+            "link": "https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888",
+            "description": "President Donald Trump has taken one risk after another that could have destabilized the American economy. Iran is the latest crisis to test U.S. econ...",
+            "pubDate": "2026-03-05T10:55:00",
+            "image_url": "https://static.politico.com/56/e1/e54532a447b990ceb8b83cc3ac20/iran-us-oil-25735.jpg"
+        },
         {
             "title": "Capitol agenda: GOP bets on immigration fight, not big bills",
             "link": "https://www.politico.com/live-updates/2026/02/26/congress/trump-immigration-midterms-gop-legislation-agenda-00799871",
             "description": "",
             "pubDate": "2026-02-26T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "‘I’ve won affordability’: Trump previews SOTU in Georgia rally",
@@ -31,13 +38,6 @@
             "description": "Sixty-one percent of voters told a CNN poll released Friday that they disapprove of the way Trump is handling the economy.",
             "pubDate": "2026-01-16T16:21:41",
             "image_url": "https://static.politico.com/68/b2/5b9d44ab4d0c8b17f4ef174553ab/trump-99151.jpg"
-        },
-        {
-            "title": "Capitol agenda: Trump tests GOP with Fed probe",
-            "link": "https://www.politico.com/live-updates/2026/01/12/congress/trump-gop-doj-fed-jerome-powell-00721769",
-            "description": "",
-            "pubDate": "2026-01-12T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }
