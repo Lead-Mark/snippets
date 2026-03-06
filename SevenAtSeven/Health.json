@@ -2,70 +2,77 @@
     "title": "Health",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Health, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T06:55:44.258977",
+    "lastBuildDate": "2026-03-06T16:03:05.413135",
     "items": [
         {
-            "title": "A Practical Guide to Getting Fit in Midlife",
-            "link": "https://www.webmd.com/women/women-over-50-fitness-tips",
+            "title": "What to Do When Your Claim Is Denied",
+            "link": "https://www.webmd.com/health-insurance/cm/filing-health-insurance-appeal",
             "description": "",
-            "pubDate": "2026-03-06T06:45:21",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/1800x1200-woman-working-out.jpg?resize=484px:*&output-quality=70"
+            "pubDate": "2026-03-06T15:59:27",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/tips_for_choosing_your_psoriasis_care_providers_slideshow/1800ss_getty_rf_health_insurance_claim_form.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Taking the heat. Sauna's popular and there may be health benefits too",
+            "title": "Taking the heat. Scientists explore sauna's health benefits",
             "link": "https://www.npr.org/2026/03/06/nx-s1-5719268/sauna-heat-health-benefits-science",
             "description": "It's an age old practice that's having a moment right now. But is there anything to the health claims? Scientists say sauna is more than hot air.",
             "pubDate": "2026-03-06T11:00:00",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F30%2Fbf1f09cc4fedb5a7f3e51cfdbefa%2Fsauna-festival-08.jpg"
         },
         {
-            "title": "Savoring the Journey with Padma Lakshmi",
-            "link": "https://www.webmd.com/food-recipes/features/savoring-journey-padma-lakshmi",
-            "description": "The Emmy-nominated TV host dishes on the power of connection, food, fitness, and the art of finding joy.",
-            "pubDate": "2026-03-06T06:45:21",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/padma-lakshmi-other/1800x1200-padma-lakshmi-other.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Preventive Health Tests to Know After 50",
-            "link": "https://www.webmd.com/healthy-aging/preventive-care-over-50",
+            "title": "How to Choose the Best Health Plan",
+            "link": "https://www.webmd.com/health-insurance/lst/cm/listicle-choosing-health-insurance-plan",
             "description": "",
-            "pubDate": "2026-03-06T06:45:21",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/acts-of-self-care-with-myasthenia-gravis-slideshow/1800ss-getty-rf-patient-consulting-with-doctor.jpg?resize=484px:*&output-quality=70"
+            "pubDate": "2026-03-06T15:59:27",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/hiv_and_barriers_slideshow/1800ss_getty_rf_woman_looking_at_medical_bills.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Two Surprising Fruits That Boost Heart Health (Without Raising Blood Sugar)",
-            "link": "https://www.mindbodygreen.com/articles/how-avocado-and-mango-may-work-together-to-support-cardiovascular-health",
-            "description": "Here's what researchers found when pairing avocado and mango",
-            "pubDate": "2026-03-06T09:55:00",
+            "title": "'Dopamine Kids' explains why children crave screens and helps them enjoy life instead",
+            "link": "https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens",
+            "description": "A mom and science writer offers an operating manual for parents grappling with kids' screen use and cravings for sweets.",
+            "pubDate": "2026-03-06T17:14:25",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2Fc5%2F8cd433344f489794a79008fae640%2Fgettyimages-1326364112.jpg"
+        },
+        {
+            "title": "Strategies for Smarter Health Spending",
+            "link": "https://www.webmd.com/health-insurance/toc-smarter-health-spending",
+            "description": "Learn how to choose the right plan and navigate health insurance with confidence at every stage of life.",
+            "pubDate": "2026-03-06T15:59:27",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/doctor-checking-patient-heart-with-stethoscope-other/1800x1200-doctor-checking-patient-heart-with-stethoscope-other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Working Out At This Time Of Day Could Reduce Insulin Resistance Up To 25%",
+            "link": "https://www.mindbodygreen.com/articles/intensity-and-timing-of-physical-activity-affect-insulin-resistance-the-study-design",
+            "description": "Clear your schedule this afternoon; it's time to work out!",
+            "pubDate": "2026-03-06T10:38:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "This Super-Satisfying Exercise Can Help Improve Posture & Stretch Your Achy Hips",
+            "link": "https://www.mindbodygreen.com/articles/how-to-do-bow-pose-dhanurasana",
+            "description": "There are so many benefits to bow pose.",
+            "pubDate": "2026-03-06T11:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Research Points To 2 Ways Sleep Is Essential To Brain Health",
+            "link": "https://www.mindbodygreen.com/articles/getting-enough-sleep-is-key-for-continuous-learning-study-shows-ways-sleep-is-essential",
+            "description": "Add this to all the other important reasons to prioritize your rest.",
+            "pubDate": "2026-03-06T11:41:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "5 Expert-Backed Habits For Stress Resilience & Longevity",
+            "link": "https://www.mindbodygreen.com/articles/5-expert-backed-habits-for-stress-resilience-and-longevity",
+            "description": "Five expert-backed habits and targeted nutrients can help improve your body's stress response and support longevity.",
+            "pubDate": "2026-03-06T11:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "People Deficient In This Essential Vitamin Are At Higher Risk Of Depression",
-            "link": "https://www.mindbodygreen.com/articles/research-shows-vitamin-d-status-influences-depression-risk-delivers-serious-mood",
-            "description": "This nutrient delivers serious mood support.",
-            "pubDate": "2026-03-06T10:13:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "3 Brain-Boosting Ingredients To Your Morning Coffee, According To An RD",
-            "link": "https://www.mindbodygreen.com/articles/3-brain-boosting-ingredients-to-your-morning-coffee-from-rd",
-            "description": "Try this if you want all day energy.",
-            "pubDate": "2026-03-06T10:14:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Medical schools agree to expand their nutrition curriculum this fall",
-            "link": "https://www.npr.org/2026/03/05/nx-s1-5736550/medical-schools-agree-to-expand-their-nutrition-curriculum-this-fall",
-            "description": "Health Secretary Robert F. Kennedy Jr. announced that 53 medical schools in 31 states will expand their nutrition curriculum to 40 hours. Most medical...",
-            "pubDate": "2026-03-05T21:53:22",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5736550"
-        },
-        {
-            "title": "In lawsuit, Minnesota accuses Trump administration of 'weaponizing' Medicaid funding",
-            "link": "https://www.npr.org/2026/03/05/nx-s1-5736589/medicaid-funding-lawsuit-minnesota-trump",
-            "description": "The federal government said the state should do more to fight fraud and is holding back funds. Minnesota officials say the attack is unfair as the sta...",
-            "pubDate": "2026-03-05T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F57%2F2ba820d4408e930962248494a045%2Fgettyimages-2264204502.jpg"
+            "title": "This Zodiac Sign Gossips The Most Out Of Anyone—Is It Yours?",
+            "link": "https://www.mindbodygreen.com/articles/top-3-gossip-zodiac-signs",
+            "description": "Spill the tea.",
+            "pubDate": "2026-03-06T10:50:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Can a digital tablet cut back a country's overuse of antibiotics?",
@@ -75,25 +82,18 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x720+0+32/resize/1280x720!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F22%2F5060ee5d4f28be580c29d8809b3b%2Fstriking-image-2-alternative.JPG"
         },
         {
+            "title": "Medical schools agree to expand their nutrition curriculum this fall",
+            "link": "https://www.npr.org/2026/03/05/nx-s1-5736550/medical-schools-agree-to-expand-their-nutrition-curriculum-this-fall",
+            "description": "Health Secretary Robert F. Kennedy Jr. announced that 53 medical schools in 31 states will expand their nutrition curriculum to 40 hours. Most medical...",
+            "pubDate": "2026-03-05T21:53:22",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5736550"
+        },
+        {
             "title": "Pregnant women in ERs took less Tylenol after Trump autism warning",
             "link": "https://www.npr.org/2026/03/05/nx-s1-5732929/tylenol-pregnant-women-autism-trump-warning",
             "description": "A study in The Lancet finds that pregnant women in emergency rooms used less Tylenol after President Trump said it could raise their babies' risk of a...",
             "pubDate": "2026-03-05T23:32:29",
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fda%2F85%2Fa208fd1644bc90ce99a9b01211bd%2Fgettyimages-2236338199.jpg"
-        },
-        {
-            "title": "New Study Links A Younger Biological Age To 23% Lower Stroke Risk",
-            "link": "https://www.mindbodygreen.com/articles/the-gap-between-your-biological-and-chronological-age-may-predict-your-brain-health",
-            "description": "Your biological age isn't fixed, and that's good news for your brain health",
-            "pubDate": "2026-03-05T21:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "This Sleep Factor Matters More Than Actual Sleep Quality, Study Says",
-            "link": "https://www.mindbodygreen.com/articles/study-says-this-sleep-factor-may-matter-more-than-sleep-quality-what-to-do-about-it",
-            "description": "And it can impact your mood the next day.",
-            "pubDate": "2026-03-05T14:06:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

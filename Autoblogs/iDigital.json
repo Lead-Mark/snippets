@@ -2,14 +2,35 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T06:56:10.741360",
+    "lastBuildDate": "2026-03-06T16:03:40.936283",
     "items": [
         {
-            "title": "Dexterity unveils Foresight world model for truck loading",
-            "link": "https://www.therobotreport.com/dexterity-unveils-foresight-world-model-for-truck-loading/",
-            "description": "Foresight is Dexterity's physics-consistent world model, a real-time, transactable representation of the physical environment. The post Dexterity unve...",
-            "pubDate": "2026-03-05T19:29:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/dexterityphysicalai-featured.jpg"
+            "title": "Simbe Tally shelf-scanning robot achieves UL 3300 certification",
+            "link": "https://www.therobotreport.com/simbe-tally-shelf-scanning-robot-achieves-ul-3300-certification/",
+            "description": "As part of the UL 3300 evaluation, Tally passed more than 40 safety tests, demonstrating its ability to operate safely in retail settings. The post Si...",
+            "pubDate": "2026-03-06T20:06:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Shopper-Tally-Hardware-featured.jpg"
+        },
+        {
+            "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+            "link": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon:...",
+            "pubDate": "2026-03-06T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/mittechreview_scamcompounds_final_opener2.jpg?w=3000"
+        },
+        {
+            "title": "Is the Pentagon allowed to surveil Americans with AI?",
+            "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+            "description": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law a...",
+            "pubDate": "2026-03-06T19:21:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Vicarious Surgical faces NYSE delisting again",
+            "link": "https://www.therobotreport.com/vicarious-surgical-faces-nyse-delisting-again/",
+            "description": "Vicarious Surgical faces NYSE delisting after its market capitalization fell below the required $15 million threshold. The post Vicarious Surgical fac...",
+            "pubDate": "2026-03-05T22:49:12",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2023/02/vicarious-surgical-robot.jpg"
         },
         {
             "title": "11 women shaping the future of robotics",
@@ -26,6 +47,13 @@
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/open-closed2.jpeg"
         },
         {
+            "title": "Dexterity unveils Foresight world model for truck loading",
+            "link": "https://www.therobotreport.com/dexterity-unveils-foresight-world-model-for-truck-loading/",
+            "description": "Foresight is Dexterity's physics-consistent world model, a real-time, transactable representation of the physical environment. The post Dexterity unve...",
+            "pubDate": "2026-03-05T19:29:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/dexterityphysicalai-featured.jpg"
+        },
+        {
             "title": "Tesollo and Techman Robot unveil robot for high-mix, low-volume production",
             "link": "https://www.therobotreport.com/tesollo-techman-robot-unveil-robot-high-mix-low-volume-production/",
             "description": "Tesollo demonstrated its DG-3F-M articulated gripper with Techman's TM5S cobot arm for tasks such as bin picking and assembly. The post Tesollo and Te...",
@@ -33,46 +61,18 @@
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/tesollo-workscell-aw26.jpg"
         },
         {
-            "title": "Vicarious Surgical faces NYSE delisting again",
-            "link": "https://www.therobotreport.com/vicarious-surgical-faces-nyse-delisting-again/",
-            "description": "Vicarious Surgical faces NYSE delisting after its market capitalization fell below the required $15 million threshold. The post Vicarious Surgical fac...",
-            "pubDate": "2026-03-05T22:49:12",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2023/02/vicarious-surgical-robot.jpg"
+            "title": "How much wildfire prevention is too much?",
+            "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+            "description": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can ...",
+            "pubDate": "2026-03-05T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Online harassment is entering its AI era",
             "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
             "description": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like man...",
             "pubDate": "2026-03-05T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How much wildfire prevention is too much?",
-            "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
-            "description": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can ...",
-            "pubDate": "2026-03-05T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "MassRobotics resident startups surpass $2B in funding",
-            "link": "https://www.therobotreport.com/massrobotics-resident-startups-surpass-2b-in-funding/",
-            "description": "MassRobotics' mission is to help create and scale the next generation of successful robotics and physical AI companies. The post MassRobotics resident...",
-            "pubDate": "2026-03-04T21:34:45",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/massrobotics-startups-e1772659594798.jpg"
-        },
-        {
-            "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
-            "link": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Ea...",
-            "pubDate": "2026-03-04T13:12:00",
-            "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png"
-        },
-        {
-            "title": "Bridging the operational AI gap",
-            "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-            "description": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from ...",
-            "pubDate": "2026-03-04T14:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Celigo-Report-2025-cover-gold.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -110,13 +110,6 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
         },
         {
-            "title": "Best Practices for Building the AI Development Platform in Government",
-            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
-            "pubDate": "2021-10-29T00:20:17",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
-        },
-        {
             "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
             "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
             "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
@@ -131,11 +124,11 @@
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GSAOffice-2-100x70.jpeg"
         },
         {
-            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
-            "pubDate": "2021-10-28T23:10:19",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
+            "title": "Best Practices for Building the AI Development Platform in Government",
+            "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+            "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
+            "pubDate": "2021-10-29T00:20:17",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -143,6 +136,13 @@
             "description": "By Lance Eliot, the AI Trends Insider We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act it...",
             "pubDate": "2021-10-28T22:49:47",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29GameofGo-2-100x70.jpeg"
+        },
+        {
+            "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+            "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+            "description": "By John P. Desmond, AI Trends Editor More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to coll...",
+            "pubDate": "2021-10-28T23:10:19",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29PredictiveMaintenance-2-100x70.jpeg"
         }
     ]
 }
