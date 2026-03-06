@@ -2,14 +2,98 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-05T16:26:06.768808",
+    "lastBuildDate": "2026-03-06T06:59:52.602052",
     "items": [
         {
-            "title": "Oral remibrutinib hits Phase 3 primary endpoint for inducible hives",
-            "link": "https://www.2minutemedicine.com/oral-remibrutinib-hits-phase-3-primary-endpoint-for-inducible-hives/",
-            "description": "1. Oral remibrutinib successfully met its primary endpoint in the Phase III RemIND trial, delivering significant symptom relief for chronic inducible ...",
-            "pubDate": "2026-03-05T15:00:34",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/tablets_PD_edited-300x150.jpg"
+            "title": "Taking the heat. Sauna's popular and there may be health benefits too",
+            "link": "https://www.npr.org/2026/03/06/nx-s1-5719268/sauna-heat-health-benefits-science",
+            "description": "It's an age old practice that's having a moment right now. But is there anything to the health claims? Scientists say sauna is more than hot air.",
+            "pubDate": "2026-03-06T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F30%2Fbf1f09cc4fedb5a7f3e51cfdbefa%2Fsauna-festival-08.jpg"
+        },
+        {
+            "title": "Maternal exposure to environmental stressors is associated with decreased odds of infant survival among preterm infants",
+            "link": "https://www.2minutemedicine.com/maternal-exposure-to-environmental-stressors-is-associated-with-decreased-odds-of-infant-survival-among-preterm-infants/",
+            "description": "1. In this cohort of very preterm infants, maternal exposure to low levels of greenness, high levels of ozone, and low temperatures was associated wit...",
+            "pubDate": "2026-03-06T00:00:28",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/freestocks-org-71789-unsplash-300x150.jpg"
+        },
+        {
+            "title": "Autonomic Dysfunction: A Hidden Driver of Gastroparesis?",
+            "link": "https://www.medscape.com/viewarticle/autonomic-dysfunction-may-be-hidden-driver-gastroparesis-2026a10006yp?src=rss",
+            "description": "Multimodal physiologic testing in patients with chronic gastroduodenal symptoms reveals autonomic dysfunction and links it to delayed gastric emptying...",
+            "pubDate": "2026-03-06T11:02:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Work Disability Risk Can Persist Years After TBI",
+            "link": "https://www.medscape.com/viewarticle/work-disability-risk-can-persist-years-after-tbi-2026a10006ym?src=rss",
+            "description": "Traumatic brain injury is linked to a persistently increased risk for work disability irrespective of the severity of the trauma, a new cohort study s...",
+            "pubDate": "2026-03-06T10:53:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "FDA Extends Approval of PKU Drug to Include Adolescents",
+            "link": "https://www.medscape.com/viewarticle/fda-extends-approval-pku-drug-include-adolescents-2026a10006y2?src=rss",
+            "description": "Previously only approved for adults, BioMarin’s pegvaliase-pqpz (PALYNZIQ) is now licensed for patients as young as 12 years. Medscape Medical News",
+            "pubDate": "2026-03-06T11:44:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Rapid reaction: Could a measles outbreak in London affect me?",
+            "link": "https://medicalxpress.com/news/2026-03-rapid-reaction-measles-outbreak-london.html",
+            "description": "Figures regularly published by the UK Health Security Agency (UKHSA) show that cases of measles in England have been rising since the start of 2026. S...",
+            "pubDate": "2026-03-06T03:20:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Anti-obesity treatment could cost as little as $3 per month: Study",
+            "link": "https://medicalxpress.com/news/2026-03-anti-obesity-treatment-month.html",
+            "description": "A blockbuster anti-obesity and diabetes drug could cost as little as $3 per month to manufacture once it goes off patent later this month, researchers...",
+            "pubDate": "2026-03-06T09:36:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Japan approves stem-cell treatment for Parkinson's in world first",
+            "link": "https://medicalxpress.com/news/2026-03-japan-stem-cell-treatment-parkinson.html",
+            "description": "Japan has approved ground-breaking stem-cell treatments for Parkinson's and severe heart failure, one of the manufacturers and media reports said Frid...",
+            "pubDate": "2026-03-06T10:10:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Children With OSA Have Greater Risk for Flu and COVID",
+            "link": "https://www.medscape.com/viewarticle/children-osa-have-greater-risk-flu-and-covid-2026a10006yn?src=rss",
+            "description": "Surprisingly, adenotonsillectomy for obstructive sleep apnea did not reduce the risk. Medscape Medical News",
+            "pubDate": "2026-03-06T11:41:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Cancer has a unique nuclear metabolic fingerprint, researchers discover",
+            "link": "https://medicalxpress.com/news/2026-03-cancer-unique-nuclear-metabolic-fingerprint.html",
+            "description": "More than 200 metabolic enzymes, many of which are normally tasked with producing energy in the mitochondria, are also found sitting directly on top o...",
+            "pubDate": "2026-03-06T10:00:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Short bowel syndrome has no drugs: A new compound could cut liver risk",
+            "link": "https://medicalxpress.com/news/2026-03-short-bowel-syndrome-drugs-compound.html",
+            "description": "When parts of the small intestine are diseased or die, the treatment can involve surgically removing the affected tissue. Although lifesaving, the pro...",
+            "pubDate": "2026-03-06T09:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Practical Answers to Everyday Infection Questions",
+            "link": "https://www.medscape.com/viewarticle/practical-answers-everyday-infection-questions-2026a10006yj?src=rss",
+            "description": "Avoid unnecessary tests and antibiotics by applying evidence-based, cost-conscious infectious-disease decision-making, with practical guidance for com...",
+            "pubDate": "2026-03-06T10:46:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Pregnant women in ERs took less Tylenol after Trump autism warning",
+            "link": "https://www.npr.org/2026/03/05/nx-s1-5732929/tylenol-pregnant-women-autism-trump-warning",
+            "description": "A study in The Lancet finds that pregnant women in emergency rooms used less Tylenol after President Trump said it could raise their babies' risk of a...",
+            "pubDate": "2026-03-05T23:32:29",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fda%2F85%2Fa208fd1644bc90ce99a9b01211bd%2Fgettyimages-2236338199.jpg"
         },
         {
             "title": "In lawsuit, Minnesota accuses Trump administration of 'weaponizing' Medicaid funding",
@@ -19,11 +103,11 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F57%2F2ba820d4408e930962248494a045%2Fgettyimages-2264204502.jpg"
         },
         {
-            "title": "Can a digital tablet cut back a country's overuse of antibiotics?",
-            "link": "https://www.npr.org/2026/03/05/nx-s1-5732471/antibiotic-overuse-resistance-rwanda-digital-tablet",
-            "description": "Overprescribing antibiotics breeds antibiotic resistance. A new tool aims to lower a notably high rate of such prescriptions in Rwanda.",
-            "pubDate": "2026-03-05T19:19:50",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x720+0+32/resize/1280x720!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F22%2F5060ee5d4f28be580c29d8809b3b%2Fstriking-image-2-alternative.JPG"
+            "title": "Medical schools agree to expand their nutrition curriculum this fall",
+            "link": "https://www.npr.org/2026/03/05/nx-s1-5736550/medical-schools-agree-to-expand-their-nutrition-curriculum-this-fall",
+            "description": "Health Secretary Robert F. Kennedy Jr. announced that 53 medical schools in 31 states will expand their nutrition curriculum to 40 hours. Most medical...",
+            "pubDate": "2026-03-05T21:53:22",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5736550"
         },
         {
             "title": "Higher sleep apnea-specific hypoxic burden may predict postoperative cardiovascular complications and mortality in obstructive sleep apnea",
@@ -33,109 +117,53 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/09/cpap_edited-300x150.jpg"
         },
         {
-            "title": "When ICE came, Minneapolis created underground health networks. Should other cities?",
-            "link": "https://www.npr.org/2026/03/05/nx-s1-5726806/ice-border-minneapolis-underground-health-networks",
-            "description": "The Trump administration's immigration crackdown in Minneapolis forced some families into hiding and catalyzed informal medical networks to deliver cr...",
-            "pubDate": "2026-03-05T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc5%2F05%2Fdfdc6e394302be43484e2e676d01%2Fice-health-msp-02.jpg"
+            "title": "Can a digital tablet cut back a country's overuse of antibiotics?",
+            "link": "https://www.npr.org/2026/03/05/nx-s1-5732471/antibiotic-overuse-resistance-rwanda-digital-tablet",
+            "description": "Overprescribing antibiotics breeds antibiotic resistance. A new tool aims to lower a notably high rate of such prescriptions in Rwanda.",
+            "pubDate": "2026-03-05T19:19:50",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x720+0+32/resize/1280x720!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F22%2F5060ee5d4f28be580c29d8809b3b%2Fstriking-image-2-alternative.JPG"
         },
         {
-            "title": "New Hereditary Angioedema Drug Navenibart Safe, Effective",
-            "link": "https://www.medscape.com/viewarticle/novel-drug-navenibart-hereditary-angioedema-so-far-safe-2026a10006uz?src=rss",
-            "description": "Unlike current treatments on the market for hereditary angioedema, navenibart requires dosing only every 3-6 months. Medscape Medical News",
-            "pubDate": "2026-03-05T17:08:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Oral remibrutinib hits Phase 3 primary endpoint for inducible hives",
+            "link": "https://www.2minutemedicine.com/oral-remibrutinib-hits-phase-3-primary-endpoint-for-inducible-hives/",
+            "description": "1. Oral remibrutinib successfully met its primary endpoint in the Phase III RemIND trial, delivering significant symptom relief for chronic inducible ...",
+            "pubDate": "2026-03-05T15:00:34",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2017/08/tablets_PD_edited-300x150.jpg"
         },
         {
-            "title": "Rest is a holy practice: Reclaiming the soul of medicine [PODCAST]",
-            "link": "https://kevinmd.com/2026/03/rest-is-a-holy-practice-reclaiming-the-soul-of-medicine-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Developmental behavioral pediatrician Roxanne Almas discusses her art...",
-            "pubDate": "2026-03-05T00:00:28",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Vitamin D Deficiency Linked to Dry Eye Disease",
-            "link": "https://www.medscape.com/viewarticle/vitamin-d-deficiency-linked-dry-eye-disease-2026a10006v7?src=rss",
-            "description": "Adults with a deficiency of vitamin D are at increased risk for developing dry eye disease than those without low levels of the nutrient, a study find...",
-            "pubDate": "2026-03-05T18:56:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Improving your biological age gap is associated with better brain health",
-            "link": "https://medicalxpress.com/news/2026-03-biological-age-gap-brain-health.html",
-            "description": "Improving the gap between biological age and chronological age is associated with a lower risk of stroke and improvements in signs of damage in the br...",
-            "pubDate": "2026-03-05T21:00:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "How board certification fuels the physician shortage crisis",
-            "link": "https://kevinmd.com/2026/03/how-board-certification-fuels-the-physician-shortage-crisis.html",
-            "description": "For years, the conversation about board certification has centered on fairness, cost, and evidence. But there is another consequence that gets far les...",
-            "pubDate": "2026-03-05T12:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "No decline in childhood cancer survival in Sweden during the pandemic",
-            "link": "https://medicalxpress.com/news/2026-03-decline-childhood-cancer-survival-sweden.html",
-            "description": "During the COVID-19 pandemic, there were global concerns that children with cancer might experience delayed diagnoses and disruptions to treatment, wh...",
-            "pubDate": "2026-03-05T20:50:01",
+            "title": "Physician burnout solutions: Why system change isn’t enough",
+            "link": "https://kevinmd.com/2026/03/physician-burnout-solutions-why-system-change-isnt-enough.html",
+            "description": "When I experienced burnout as a young primary care physician, I thought it was my fault. Actually, I didn’t know it was burnout; I had never heard the...",
+            "pubDate": "2026-03-05T14:00:39",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Trial suggests GLP-1 combo therapy cuts fat while preserving muscle in obesity",
-            "link": "https://medicalxpress.com/news/2026-03-trial-glp-combo-therapy-fat.html",
-            "description": "A recent research study found that a combination of the GLP-1 receptor agonist semaglutide and bimagrumab, an antibody that blocks activin signaling p...",
-            "pubDate": "2026-03-05T21:20:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "‘Generation GLP-1’ Drives GLP-1-Friendly Food Marketing",
-            "link": "https://www.medscape.com/viewarticle/generation-glp-1-drives-glp-1-friendly-food-marketing-2026a10006uq?src=rss",
-            "description": "Experts warn the label is ‘more marketing than medical’; urge following evidence on nutritional recommendations for GLP-1 therapy. Medscape Medical Ne...",
-            "pubDate": "2026-03-05T15:39:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "A safer, more effective atrial fibrillation treatment method using magnetic gel may be on the way",
-            "link": "https://medicalxpress.com/news/2026-03-safer-effective-atrial-fibrillation-treatment.html",
-            "description": "Atrial fibrillation is a common heart condition characterized by a rapid, irregular heartbeat stemming from the heart's upper chamber. It is a leading...",
-            "pubDate": "2026-03-05T21:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Societies Issue Pharmacologic Obesity Management Guidance",
-            "link": "https://www.medscape.com/viewarticle/societies-issue-pharmacologic-obesity-management-guidance-2026a10006vh?src=rss",
-            "description": "The Obesity Society, Obesity Medicine Association, and the Obesity Action Coalition have published joint guidance incorporating patient input. Medscap...",
-            "pubDate": "2026-03-05T20:55:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Healthy Diet May Cut Cancer Survivors’ Premature Aging Risk",
-            "link": "https://www.medscape.com/viewarticle/healthy-diet-may-cut-childhood-cancer-survivors-premature-2026a10006t7?src=rss",
-            "description": "A recent study found reduced premature aging among childhood cancer survivors that adhered to established dietary guidelines. Medscape Medical News",
-            "pubDate": "2026-03-05T12:27:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "New football helmets excel in concussion tests, though engineering results show the back of the head is still vulnerable",
-            "link": "https://medicalxpress.com/news/2026-03-football-helmets-excel-concussion-results.html",
-            "description": "The latest generation of football helmets does a better job of protecting players from impacts that can cause concussions, according to new lab tests ...",
-            "pubDate": "2026-03-05T21:20:01",
+            "title": "The hidden cost of uncompensated work on physician burnout",
+            "link": "https://kevinmd.com/2026/03/the-hidden-cost-of-uncompensated-work-on-physician-burnout.html",
+            "description": "Physicians are renowned for their dedication to helping others. The problem is that their dedication has become synonymous with self-sacrifice and wor...",
+            "pubDate": "2026-03-05T15:00:38",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Merck and Mayo Clinic launch AI-driven precision medicine lab",
-            "link": "https://www.2minutemedicine.com/merck-and-mayo-clinic-launch-ai-driven-precision-medicine-lab/",
-            "description": "1. Merck and Mayo Clinic have launched a strategic collaboration to integrate multimodal clinical data with AI to accelerate drug discovery and target...",
-            "pubDate": "2026-03-04T19:12:00",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/hospital-300x150.jpg"
+            "title": "Winter in Islamabad: Finding hope in the daily struggle",
+            "link": "https://kevinmd.com/2026/03/winter-in-islamabad-finding-hope-in-the-daily-struggle.html",
+            "description": "It is very cold in Islamabad. These days, I feel overwhelmed by joblessness, the constant lack of money, an upcoming medical exam, and the slow progre...",
+            "pubDate": "2026-03-05T16:00:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Getting the abortion pill via telehealth is more common now. NPR wants to hear your story",
-            "link": "https://www.npr.org/2026/03/04/g-s1-112325/mifepristone-telehealth",
-            "description": "Mifepristone is facing another major legal challenge.",
-            "pubDate": "2026-03-04T12:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5689x3793+0+0/resize/5689x3793!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F6d%2F5f9734fa49fe8a72c7e749ccb057%2Fgettyimages-1481950657.jpg"
+            "title": "What HCPs across the country are saying about policy and emerging research and why your voice matters",
+            "link": "https://kevinmd.com/2026/03/what-hcps-across-the-country-are-saying-about-policy-and-emerging-research-and-why-your-voice-matters.html",
+            "description": "This article is sponsored by InCrowd. Health care professionals are constantly navigating changes in policy, clinical evidence and practice expectatio...",
+            "pubDate": "2026-03-05T18:00:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "AI in pain assessment: Balancing innovation with patient safety",
+            "link": "https://kevinmd.com/2026/03/ai-in-pain-assessment-balancing-innovation-with-patient-safety.html",
+            "description": "In Northern California and beyond, health care systems are rapidly integrating artificial intelligence (AI) and digital tools to transform how pain is...",
+            "pubDate": "2026-03-05T20:00:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Lifestyle factors including higher body mass index and smoking are associated with changes in left-atrial size and function",
@@ -145,39 +173,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/10/heart-cardiovascular-cardiac-PD-300x150.jpg"
         },
         {
-            "title": "Why supporting a shelter for women is now 'kind of radioactive'",
-            "link": "https://www.npr.org/2026/03/04/g-s1-111527/abuse-partner-shelters-aid-cuts",
-            "description": "That's how researcher Beatriz Garcia Nice describes the new U.S. stance under the Trump administration to programs addressing gender-based violence.",
-            "pubDate": "2026-03-04T12:51:20",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1600x900!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fa2%2F1fac170b4e62a7fc58177a678bf9%2Fwomens-shelter-faven.png"
-        },
-        {
-            "title": "American health care policy reform: Why we need a bipartisan commission",
-            "link": "https://kevinmd.com/2026/03/american-health-care-policy-reform-why-we-need-a-bipartisan-commission.html",
-            "description": "America is ready for an honest conversation about health care policy before more people suffer and we go broke waiting for it to happen. Fully one-thi...",
-            "pubDate": "2026-03-04T18:00:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Rebuilding patient trust through the evolutionary mismatch framework",
-            "link": "https://kevinmd.com/2026/03/rebuilding-patient-trust-through-the-evolutionary-mismatch-framework.html",
-            "description": "How one reframing changed the way my patients think about me, and their health. Every day, a patient sits across from me, arms crossed, waiting for me...",
-            "pubDate": "2026-03-04T17:00:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Why I left the surgical-trauma ICU: a nurse’s story of burnout",
-            "link": "https://kevinmd.com/2026/03/why-i-left-the-surgical-trauma-icu-a-nurses-story-of-burnout.html",
-            "description": "After working close to 20 years in this medical-surgical ICU, I thought I was an expert. Infallible. I could do it all. I left my ICU comfort zone, my...",
-            "pubDate": "2026-03-04T20:00:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Smartphone-based digital ruler achieved high diagnostic performance for strabismus screening",
-            "link": "https://www.2minutemedicine.com/smartphone-based-digital-ruler-achieved-high-diagnostic-performance-for-strabismus-screening/",
-            "description": "1. Wang and colleagues developed a system that uses deep learning algorithms to analyze cover tests recorded by suspected strabismus patients. 2. The ...",
-            "pubDate": "2026-03-03T15:00:35",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/11/Crossed-Eyes-Strabismus-265x300.jpg"
+            "title": "Merck and Mayo Clinic launch AI-driven precision medicine lab",
+            "link": "https://www.2minutemedicine.com/merck-and-mayo-clinic-launch-ai-driven-precision-medicine-lab/",
+            "description": "1. Merck and Mayo Clinic have launched a strategic collaboration to integrate multimodal clinical data with AI to accelerate drug discovery and target...",
+            "pubDate": "2026-03-04T19:12:00",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/03/hospital-300x150.jpg"
         }
     ]
 }
